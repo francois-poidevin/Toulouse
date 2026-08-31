@@ -1,0 +1,104 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #0f1115;
+  color: #eaeaea;
+}
+
+.app-header {
+  padding: 0.75rem 1.25rem;
+  background: #141824;
+  border-bottom: 1px solid #262b3a;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.badge {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  background: #d1263d;
+  color: #fff;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+
+.subtitle {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  color: #9aa1b4;
+}
+
+#map {
+  position: absolute;
+  top: 62px;
+  bottom: 34px;
+  left: 0;
+  right: 0;
+  background: #1a1d27;
+}
+
+.app-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  font-size: 0.72rem;
+  color: #7d8496;
+  background: #141824;
+  border-top: 1px solid #262b3a;
+}
+
+.app-footer a {
+  color: #9aa1b4;
+}
+
+#network-status {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* pixel-art bus icon: keep hard edges when scaled */
+.bus-icon-img {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.5));
+}
+
+/* Leaflet popup/tooltip themed to match the dark UI */
+.leaflet-popup-content-wrapper,
+.leaflet-tooltip {
+  background: #1a1d27;
+  color: #eaeaea;
+  border: 1px solid #2f3547;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.leaflet-popup-tip {
+  background: #1a1d27;
+}
+
+.leaflet-tooltip {
+  font-size: 0.75rem;
+  padding: 3px 7px;
+}
