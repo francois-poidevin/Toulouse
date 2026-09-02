@@ -1,9 +1,10 @@
-// App bootstrap: map init + Tisseo "itineraire" network load + shared
-// animation loop driving every spawned vehicle (bus, lineo, tram, metro,
-// telepherique) simultaneously along its own real line geometry.
+// App bootstrap: map init + Tisseo "itineraire" network load + static vehicle icons
 
 (function () {
   const TOULOUSE_CENTER = [43.6045, 1.4442];
+
+  // Clean local storage at each startup so API key is asked every website load
+  localStorage.removeItem("tisseo_api_key");
 
   const modalEl = document.getElementById("api-modal");
   const inputEl = document.getElementById("api-key-input");
@@ -11,14 +12,13 @@
   const apiBarEl = document.getElementById("api-bar");
   const apiKeyField = document.getElementById("api-key-field");
 
-  let travellers = [];
   let map = null;
 
   function startApp(apiKey) {
-    if (apiKey !== null && apiKey !== undefined) {
+    if (apiKey !== null && apiKey !== undefined && apiKey !== "") {
       localStorage.setItem("tisseo_api_key", apiKey);
     }
-    const storedKey = localStorage.getItem("tisseo_api_key") || "";
+    const storedKey = localStorage.getItem("tisseo_api_key") || apiKey || "";
 
     apiKeyField.value = storedKey;
     apiBarEl.style.display = "flex";
@@ -44,51 +44,25 @@
 
     const statusEl = document.getElementById("network-status");
 
-    loadItiNetwork(map, statusEl).then((spawned) => {
-      travellers = spawned;
-    });
-
-    let lastTimestamp = null;
-
-    function step(timestamp) {
-      if (lastTimestamp === null) lastTimestamp = timestamp;
-      const dtSeconds = (timestamp - lastTimestamp) / 1000;
-      lastTimestamp = timestamp;
-
-      for (const { traveller, vehicle } of travellers) {
-        const { latLng, heading } = traveller.advance(dtSeconds);
-        vehicle.setLatLng(latLng);
-        vehicle.setHeading(heading);
-        vehicle.tickAnimation(timestamp);
-      }
-
-      requestAnimationFrame(step);
-    }
-
-    requestAnimationFrame(step);
+    loadItiNetwork(map, statusEl);
 
     setTimeout(() => {
       if (map) map.invalidateSize();
     }, 100);
   }
 
-  const existingKey = localStorage.getItem("tisseo_api_key");
-  if (existingKey !== null) {
+  // Always show modal dialog at startup since localStorage is cleaned
+  modalEl.style.display = "flex";
+
+  submitBtn.addEventListener("click", () => {
+    const val = inputEl.value.trim();
     modalEl.style.display = "none";
-    startApp(existingKey);
-  } else {
-    modalEl.style.display = "flex";
+    startApp(val);
+  });
 
-    submitBtn.addEventListener("click", () => {
-      const val = inputEl.value.trim();
-      modalEl.style.display = "none";
-      startApp(val);
-    });
-
-    inputEl.addEventListener("keydown", (e) => {
-      if (e.key === "Enter") {
-        submitBtn.click();
-      }
-    });
-  }
+  inputEl.addEventListener("keydown", (e) => {
+    if (e.key === "Enter") {
+      submitBtn.click();
+    }
+  });
 })();
