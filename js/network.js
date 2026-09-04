@@ -21,18 +21,37 @@ const LIGNE_API_BASE =
 const LIGNE_PAGE_SIZE = 100; // hard API maximum for this endpoint
 const LIGNE_SELECT_FIELDS = "ligne,r,v,b";
 
+// Real physical stop points per itinerary, in visit order ("ordre"), from
+// Tisseo's "arrets-itineraire" open dataset. Used to make simulated
+// vehicles pause at each real stop (see MODE_CONFIG.dwellSeconds) instead
+// of gliding continuously along the route geometry — real buses/trams stop
+// to let travelers on/off. Joined against "itineraire" records by the
+// shared ligne + nom_iti + sens keys (same as ARRETS_SELECT_FIELDS below).
+const ARRETS_API_BASE =
+  "https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/arrets-itineraire/records";
+const ARRETS_PAGE_SIZE = 100; // hard API maximum for this endpoint
+const ARRETS_SELECT_FIELDS = "ligne,nom_iti,sens,ordre,geo_point_2d";
+
 // Cruise speed (m/s) + line weight per transport mode. Color now comes from
 // the "ligne" dataset (see LIGNE_API_BASE above) keyed by line code; this
 // table only supplies the fallback color used when a line has no match
 // (e.g. API unreachable) and the weight/speed used for every line.
+//
+// dwellSeconds: how long a simulated vehicle pauses at each real stop
+// (from ARRETS_API_BASE below) before resuming — real Tisséo GTFS-RT
+// stop_time_update data (arrival/departure times per stop) would give an
+// exact per-stop dwell duration, but api.tisseo.fr's GTFS-RT endpoint has
+// no CORS headers and can't be fetched from this client-only page (see
+// README.md); a fixed per-mode duration is the closest browser-fetchable
+// approximation of "vehicle stops to let travelers on/off".
 const MODE_CONFIG = {
-  bus: { color: "#3ba7ff", weight: 3, speedMps: 8 }, // ~29 km/h
-  lineo: { color: "#e0203a", weight: 3, speedMps: 9 }, // ~32 km/h
-  tram: { color: "#a259e6", weight: 4, speedMps: 11 }, // ~40 km/h
-  metro: { color: "#2ecc71", weight: 4, speedMps: 14 }, // ~50 km/h (VAL)
-  telepherique: { color: "#ff4fa3", weight: 4, speedMps: 5 }, // ~18 km/h
+  bus: { color: "#3ba7ff", weight: 3, speedMps: 8, dwellSeconds: 15 }, // ~29 km/h
+  lineo: { color: "#e0203a", weight: 3, speedMps: 9, dwellSeconds: 15 }, // ~32 km/h
+  tram: { color: "#a259e6", weight: 4, speedMps: 11, dwellSeconds: 20 }, // ~40 km/h
+  metro: { color: "#2ecc71", weight: 4, speedMps: 14, dwellSeconds: 20 }, // ~50 km/h (VAL)
+  telepherique: { color: "#ff4fa3", weight: 4, speedMps: 5, dwellSeconds: 25 }, // ~18 km/h
 };
-const DEFAULT_MODE_CONFIG = { color: "#cccccc", weight: 2, speedMps: 8 };
+const DEFAULT_MODE_CONFIG = { color: "#cccccc", weight: 2, speedMps: 8, dwellSeconds: 15 };
 
 function configForMode(mode) {
   return MODE_CONFIG[mode] || DEFAULT_MODE_CONFIG;
@@ -202,6 +221,71 @@ async function fetchLigneColorMap() {
 }
 
 /**
+ * Fetches a single page of the "arrets-itineraire" dataset (real stop
+ * points per itinerary).
+ */
+async function fetchArretsPage(offset) {
+  const apiKey = localStorage.getItem("tisseo_api_key") || "";
+  const url = `${ARRETS_API_BASE}?limit=${ARRETS_PAGE_SIZE}&offset=${offset}&select=${encodeURIComponent(
+    ARRETS_SELECT_FIELDS
+  )}${apiKey ? `&apikey=${encodeURIComponent(apiKey)}` : ""}`;
+  const headers = {};
+  if (apiKey) {
+    headers["Authorization"] = `Apikey ${apiKey}`;
+  }
+  const res = await fetch(url, { headers });
+  if (!res.ok) {
+    throw new Error(`Tisseo arrets-itineraire API error ${res.status} at offset ${offset}`);
+  }
+  return res.json();
+}
+
+/**
+ * Fetches every record of the "arrets-itineraire" dataset (~7900 stop
+ * visits) and returns a Map keyed by the same `ligne_nomIti_sens` triple
+ * used to look up itineraries, each value an array of [lat, lng] stops
+ * sorted by their real visit order ("ordre") along that itinerary.
+ */
+async function fetchStopsByItinerary() {
+  const grouped = new Map();
+  const first = await fetchArretsPage(0);
+  const total = first.total_count || 0;
+  const allResults = first.results ? first.results.slice() : [];
+
+  const offsets = [];
+  for (let offset = ARRETS_PAGE_SIZE; offset < total; offset += ARRETS_PAGE_SIZE) {
+    offsets.push(offset);
+  }
+  const CONCURRENCY = 4;
+  let cursor = 0;
+  async function worker() {
+    while (cursor < offsets.length) {
+      const offset = offsets[cursor++];
+      const page = await fetchArretsPage(offset);
+      if (page.results) allResults.push(...page.results);
+    }
+  }
+  await Promise.all(
+    Array.from({ length: Math.min(CONCURRENCY, offsets.length) }, () => worker())
+  );
+
+  for (const record of allResults) {
+    const point = record.geo_point_2d;
+    if (!point) continue;
+    const key = `${record.ligne || ""}_${record.nom_iti || ""}_${record.sens ?? ""}`;
+    if (!grouped.has(key)) grouped.set(key, []);
+    grouped.get(key).push({ ordre: record.ordre || 0, latLng: [point.lat, point.lon] });
+  }
+
+  const result = new Map();
+  for (const [key, stops] of grouped) {
+    stops.sort((a, b) => a.ordre - b.ordre);
+    result.set(key, stops.map((s) => s.latLng));
+  }
+  return result;
+}
+
+/**
  * Draws one clickable polyline per itinerary, colored using the line's
  * official color (from the "ligne" dataset when available, else a per-mode
  * fallback), showing "<ligne> - <nom_iti>" as a hover tooltip and in a
@@ -266,6 +350,10 @@ function buildItiLineLayer(records, ligneColorMap) {
 
 let currentVehicleLayer = null;
 let currentLineLayer = null;
+// Real stop points per itinerary (see fetchStopsByItinerary), fetched once
+// like the line layer/colors — stop locations don't change during a
+// session, only vehicle positions do.
+let cachedStopsByItinerary = null;
 const activeTravellers = new Map();
 // Handles of every currently-spawned vehicle, kept only to rescale their
 // icons live on "zoomend" (see wireVehicleZoomScaling below) without
@@ -277,7 +365,7 @@ let activeVehicles = [];
  * on each 5-second API poll cycle, oriented to their heading, with hover tooltips
  * displaying the item name from the API.
  */
-function spawnDynamicVehicleMarkersForRecords(map, records) {
+function spawnDynamicVehicleMarkersForRecords(map, records, stopsByItinerary) {
   const layerGroup = L.layerGroup();
   const newActiveTravellers = new Map();
   const newActiveVehicles = [];
@@ -302,7 +390,12 @@ function spawnDynamicVehicleMarkersForRecords(map, records) {
       const key = `${record.ligne || ""}_${record.nom_iti || ""}_${i}`;
       let traveller = activeTravellers.get(key);
       if (!traveller) {
-        traveller = createPathTraveller(latLngs, style.speedMps);
+        const stopsKey = `${record.ligne || ""}_${record.nom_iti || ""}_${record.sens ?? ""}`;
+        const stopLatLngs = (stopsByItinerary && stopsByItinerary.get(stopsKey)) || [];
+        traveller = createPathTraveller(latLngs, style.speedMps, {
+          stopLatLngs,
+          dwellSeconds: style.dwellSeconds,
+        });
       }
 
       // Advance traveller position by 5 seconds on each API call interval
@@ -359,13 +452,28 @@ async function refreshNetwork(map, statusEl) {
   refreshInFlight = true;
 
   try {
-    const [records, ligneColorMap] = await Promise.all([
+    const fetches = [
       fetchAllItiRecords(),
       fetchLigneColorMap().catch((err) => {
         console.error("Failed to load Tisseo line colors, using fallback colors:", err);
         return new Map();
       }),
-    ]);
+    ];
+    // Real stop points only need fetching once per session (they don't
+    // change), unlike itineraries/colors which are re-fetched every poll
+    // for consistency with the rest of this module's "always live" design.
+    if (!cachedStopsByItinerary) {
+      fetches.push(
+        fetchStopsByItinerary().catch((err) => {
+          console.error("Failed to load Tisseo stop points, vehicles won't pause at stops:", err);
+          return new Map();
+        })
+      );
+    }
+    const [records, ligneColorMap, stopsByItinerary] = await Promise.all(fetches);
+    if (stopsByItinerary) {
+      cachedStopsByItinerary = stopsByItinerary;
+    }
 
     if (!currentLineLayer) {
       currentLineLayer = buildItiLineLayer(records, ligneColorMap);
@@ -376,7 +484,11 @@ async function refreshNetwork(map, statusEl) {
       map.removeLayer(currentVehicleLayer);
     }
 
-    currentVehicleLayer = spawnDynamicVehicleMarkersForRecords(map, records);
+    currentVehicleLayer = spawnDynamicVehicleMarkersForRecords(
+      map,
+      records,
+      cachedStopsByItinerary
+    );
     currentVehicleLayer.addTo(map);
 
     const counts = {};
@@ -416,6 +528,19 @@ async function loadItiNetwork(map, statusEl) {
       vehicle.setScale(scale);
     }
   });
+
+  // Drive every vehicle's sprite walk-cycle animation (createVehicleMarker's
+  // tickAnimation, cycling through the 4-frame sprite sheet) continuously
+  // via a shared requestAnimationFrame loop — separate from the 5s position
+  // poll, so vehicles keep animating in place between polls instead of
+  // showing a static frame the whole time.
+  function animationLoop(now) {
+    for (const vehicle of activeVehicles) {
+      vehicle.tickAnimation(now);
+    }
+    requestAnimationFrame(animationLoop);
+  }
+  requestAnimationFrame(animationLoop);
 
   // Poll the API every 5 seconds and refresh icon positions on the map
   setInterval(() => {

@@ -20,11 +20,15 @@ portal. No backend, no build step, no persistence.
   itinerary name, mode, and distance.
 - Spawns one **pixel-art vehicle sprite** per itinerary that travels back
   and forth along its real route geometry at a mode-appropriate cruise
-  speed, oriented to its direction of travel (heading).
+  speed, oriented to its direction of travel (heading), **pausing at each
+  real stop** (fetched from the `arrets-itineraire` dataset) for a
+  per-mode dwell duration to simulate letting passengers on/off, instead
+  of gliding non-stop end to end.
 - **Positions refresh every 5 seconds** by re-polling the API
   (`setInterval` in `loadItiNetwork`): each vehicle's simulated position is
-  advanced by 5 simulated seconds of travel and jumps to the new spot on
-  each poll — there is no continuous per-frame interpolation between polls.
+  advanced by 5 simulated seconds of travel (or dwell time, while stopped)
+  and jumps to the new spot on each poll — there is no continuous
+  per-frame interpolation between polls.
 - **Vehicle icons shrink/grow with map zoom** (smaller when zoomed out, to
   avoid cluttering the map with ~360 full-size sprites at a wide view),
   rescaled live on zoom without waiting for the next poll.
@@ -50,19 +54,24 @@ portal. No backend, no build step, no persistence.
   a CDN (`unpkg.com`). Pure static site — open `index.html` directly or
   serve it with any static file server (a local server avoids browser
   `file://` CORS/fetch quirks).
-- **Data sources**: two Toulouse Métropole open-data API datasets, both
+- **Data sources**: three Toulouse Métropole open-data API datasets, all
   public, no API key/auth required, permissive CORS:
   - `itineraire` — full line/direction path geometries:
     `https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/itineraire/records`
   - `ligne` — one record per line with its official display color as
     separate `r`/`v`/`b` (red/green/blue, 0-255) fields:
     `https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/ligne/records`
-- Transit data (`itineraire`/`ligne` records) is fetched **only in
-  memory**, re-fetched fresh on every 5s poll; nothing is written to
-  `localStorage`/`sessionStorage`/`IndexedDB`. The one exception is the
-  optional API key entered in the startup modal, stored in `localStorage`
-  only for the session and explicitly cleared again on every page
-  load (`js/app.js`).
+  - `arrets-itineraire` — real physical stop points per itinerary, in visit
+    order, used to make simulated vehicles pause at each stop:
+    `https://data.toulouse-metropole.fr/api/explore/v2.1/catalog/datasets/arrets-itineraire/records`
+- Transit data (`itineraire`/`ligne`/`arrets-itineraire` records) is
+  fetched **only in memory**; nothing is written to `localStorage`/
+  `sessionStorage`/`IndexedDB`. `itineraire`/`ligne` are re-fetched fresh
+  on every 5s poll; `arrets-itineraire` (stop points) is fetched once per
+  session since stop locations don't change. The one exception to the
+  no-persistence rule is the optional API key entered in the startup
+  modal, stored in `localStorage` only for the session and explicitly
+  cleared again on every page load (`js/app.js`).
 
 ### File layout
 
@@ -70,8 +79,8 @@ portal. No backend, no build step, no persistence.
 |---|---|
 | `index.html` | Page shell: header, `#map` container, footer, script/style includes. |
 | `css/style.css` | Dark theme, layout (fixed header/footer, full-bleed map), Leaflet popup/tooltip theming, pixel-art rendering hints. |
-| `js/network.js` | Tisséo API client: paginated fetch of all `itineraire` records + the `ligne` color lookup, per-mode weight/speed config, official per-line color resolution, static polyline layer builder, vehicle marker spawner (`spawnDynamicVehicleMarkersForRecords`), 5s poll loop (`refreshNetwork`/`loadItiNetwork`) + status reporting, zoom-driven icon rescaling. |
-| `js/vehicle.js` | Sprite-based vehicle marker (`createVehicleMarker`, heading + zoom-scale via CSS transform) and path-following logic (`createPathTraveller`, distance/heading interpolation along a polyline, haversine distance, bearing calculation, `vehicleScaleForZoom`). |
+| `js/network.js` | Tisséo API client: paginated fetch of all `itineraire` records + the `ligne` color lookup + `arrets-itineraire` real stop points (`fetchStopsByItinerary`), per-mode weight/speed/dwell config, official per-line color resolution, static polyline layer builder, vehicle marker spawner (`spawnDynamicVehicleMarkersForRecords`), 5s poll loop (`refreshNetwork`/`loadItiNetwork`) + status reporting, zoom-driven icon rescaling. |
+| `js/vehicle.js` | Sprite-based vehicle marker (`createVehicleMarker`, heading + zoom-scale via CSS transform) and path-following logic (`createPathTraveller`, distance/heading interpolation along a polyline, haversine distance, bearing calculation, stop-projection + dwell handling, `vehicleScaleForZoom`). |
 | `js/app.js` | Bootstrap: API-key modal, Leaflet map init, tile layer, kicks off `loadItiNetwork`. |
 | `assets/*-sprite.png` | 4-frame horizontal pixel-art sprite sheets, one per mode (`bus`, `lineo`, `tram`, `metro`, `telepherique`), animated via CSS `background-position`. |
 
@@ -89,14 +98,32 @@ portal. No backend, no build step, no persistence.
   string and looked up by the `ligne` code shared with `itineraire`
   records (e.g. `"T1"`, `"112"`, `"A"`). Unmatched lines fall back to the
   per-mode default color.
-- **Per-mode config** (`MODE_CONFIG`): line weight and a plausible cruise
-  speed (m/s) per mode, used for the simulated animation; also supplies a
-  fallback color when a line has no match in the `ligne` dataset.
-- **Path traveller** (`vehicle.js`): converts a polyline into a cumulative
-  distance table, interpolates lat/lng at any travelled distance (binary
-  search over cumulative distances), and bounces back and forth between the
-  two ends of the route (each traveller starts at a random offset/direction
-  so vehicles aren't bunched together).
+- **Per-mode config** (`MODE_CONFIG`): line weight, a plausible cruise
+  speed (m/s), and a per-stop dwell duration (seconds) per mode, used for
+  the simulated animation; also supplies a fallback color when a line has
+  no match in the `ligne` dataset.
+- **Real stop points** (`network.js`, `fetchStopsByItinerary`): fetches
+  every record of `arrets-itineraire` (~7900 stop visits across all
+  itineraries) and groups them by the same `ligne_nomIti_sens` key used to
+  join against `itineraire`, sorted by each stop's real visit order
+  (`ordre`). Fetched once per session (cached in
+  `cachedStopsByItinerary`), unlike itineraries/colors which re-fetch every
+  5s poll, since stop locations don't change during a session.
+- **Path traveller with stop dwelling** (`vehicle.js`,
+  `createPathTraveller`): converts a polyline into a cumulative distance
+  table, interpolates lat/lng at any travelled distance (binary search over
+  cumulative distances), and bounces back and forth between the two ends of
+  the route (each traveller starts at a random offset/direction so vehicles
+  aren't bunched together). When real stop coordinates are supplied, each
+  stop is projected onto its nearest point along the route polyline
+  (`projectStopsOntoPath`) and `advance()` treats those projected distances
+  as waypoints: the vehicle travels at cruise speed until it reaches one,
+  then pauses there for `MODE_CONFIG.<mode>.dwellSeconds` before resuming —
+  simulating a vehicle stopping for passengers, not gliding through stops.
+  This is a fixed per-mode duration, not a real per-stop schedule: Tisséo's
+  actual per-stop arrival/departure predictions (GTFS-RT `trip_update`,
+  which would give an exact dwell window per stop) can't be fetched from
+  this client-only page — see "Known limitations" below.
 - **5-second poll cycle** (`network.js`, `refreshNetwork`/`loadItiNetwork`):
   every 5s, the API is re-fetched and each itinerary's existing traveller
   (kept in `activeTravellers`, keyed by `ligne_nomIti_index`) is advanced by
@@ -144,6 +171,13 @@ since the API has permissive CORS, but a local server is recommended.
   real Tisséo GPS positions — do not use to infer actual arrival times or
   real vehicle locations. Positions jump every 5s (poll cycle), not
   continuously animated between polls.
+- **No real per-vehicle GPS position is publicly available at all** —
+  investigated directly (see TODO below): confirmed Tisséo's GTFS-RT feed
+  contains zero `VehiclePosition` entities. Stop dwelling (see "Path
+  traveller with stop dwelling" above) uses a fixed per-mode duration, not
+  a real per-stop schedule, because the one Tisséo feed that has real
+  arrival/departure predictions (`trip_update`) is not fetchable from this
+  client-only page (CORS, see TODO).
 - Sprite walk-cycle frame animation (`tickAnimation` in `vehicle.js`) is
   currently unused — nothing drives it since the switch to poll-based
   positioning, so vehicle sprites are static images (rotated/scaled) rather
@@ -154,27 +188,40 @@ since the API has permissive CORS, but a local server is recommended.
 
 ## TODO — pistes d'évolution
 
-- **API Temps Réel Tisséo** — remplacer/compléter la simulation de
-  position par les vraies positions/horaires en temps réel :
-  https://data.toulouse-metropole.fr/explore/dataset/api-temps-reel-tisseo/information/
-  (services `stops_schedules`, `journeys`, `places`, `lines`,
-  `rolling_stocks`, `stop_areas`, `stop_points`, `messages`, `networks`).
-  Le formulaire de saisie de clé API et le stockage `localStorage`
-  éphémère (voir `js/app.js`) existent déjà et sont transmis à chaque appel
-  (`itineraire`/`ligne` n'en ont pas besoin aujourd'hui, mais l'en-tête
-  `Authorization: Apikey …` est déjà envoyé si une clé est saisie) — reste
-  à cadrer avec l'utilisateur le passage effectif aux endpoints temps réel
-  ci-dessus (qui remplacerait le polling 5s actuel sur `itineraire` par un
-  appel aux services temps réel), et le besoin ou non d'un backend/proxy
-  selon la politique CORS de cette API. Voir aussi la section "Out of
-  scope" de `AGENTS.md`.
-- **Données GTFS Tisséo** — exploiter le jeu de données GTFS statique et/ou
-  GTFS-RT (protobuf, positions temps réel des véhicules) comme source
-  alternative/complémentaire à `itineraire` :
-  https://data.toulouse-metropole.fr/explore/dataset/tisseo-gtfs/information/
-  (exports disponibles : `Tisseo_GTFS.zip`, `Tisseo_NeTEx.zip`,
-  `Tisseo_GTFSRT.pb`). Le GTFS-RT est un format protobuf binaire — son
-  utilisation dans une page 100% client-side vanilla JS impliquerait
-  d'ajouter une dépendance de décodage protobuf (`gtfs-realtime-bindings`
-  ou équivalent), à discuter avant d'introduire une dépendance externe au
-  projet.
+- **API Temps Réel Tisséo / GTFS-RT — investigated, blocked by CORS.**
+  Both real-time sources were checked directly against the live feed
+  (fetched and parsed, not just read about):
+  - `api-temps-reel-tisseo` (services `stops_schedules`, `journeys`,
+    `places`, `lines`, `rolling_stocks`, `stop_areas`, `stop_points`,
+    `messages`, `networks`) requires a key obtained by emailing
+    `opendata@tisseo.fr` — this dataset's data.toulouse-metropole.fr entry
+    is only a PDF spec, not itself queryable.
+  - `tisseo-gtfs`'s GTFS-RT feed
+    (`https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.pb`, JSON mirror at
+    `GtfsRt.json`) is keyless and updates every ~5s, but as of this
+    writing contains **only `trip_update` (arrival/departure time
+    predictions per stop) and `alert` entities — zero `vehicle`
+    (`VehiclePosition`) entities**, confirmed by fetching and parsing a
+    live snapshot (1447 entities: 1384 `trip_update`, 63 `alert`, 0
+    `vehicle`). So even with a key, no real per-vehicle GPS position is
+    exposed by Tisséo today.
+  - Worse, `api.tisseo.fr` sends **no CORS headers** on either the `.pb`
+    or `.json` GTFS-RT endpoint (checked directly with `curl -I
+    -H Origin: ...`), unlike `data.toulouse-metropole.fr`'s own API
+    (`access-control-allow-origin: *`). A browser `fetch()` from this
+    client-only page is blocked from reading the response even though the
+    request itself succeeds — this is a hard wall for a backend-less
+    architecture (see "Out of scope" in `AGENTS.md`). The Toulouse portal
+    only redirects to `api.tisseo.fr` for GTFS-RT; the static GTFS ZIP
+    (`stop_times.txt`, which would give scheduled dwell times without
+    needing real-time data) is served from
+    `data.toulouse-metropole.fr/explore/...` (not `/api/explore/...`) and
+    also has no CORS headers — checked directly, also blocked.
+  - Net effect used in this codebase: stop **dwelling** is implemented
+    (see "Path traveller with stop dwelling" above) using real stop
+    *locations* (`arrets-itineraire`, which does have CORS), but with a
+    fixed per-mode dwell duration rather than the real per-stop
+    arrival/departure window, since the data with real timings can't be
+    fetched from the browser. Revisit if Tisséo ever adds CORS headers to
+    `api.tisseo.fr`, or if a backend/proxy becomes acceptable (would need
+    explicit sign-off — see `AGENTS.md`).

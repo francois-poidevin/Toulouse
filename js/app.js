@@ -9,18 +9,23 @@
   const modalEl = document.getElementById("api-modal");
   const inputEl = document.getElementById("api-key-input");
   const submitBtn = document.getElementById("api-key-submit");
+  const dismissBtn = document.getElementById("api-key-dismiss");
   const apiBarEl = document.getElementById("api-bar");
   const apiKeyField = document.getElementById("api-key-field");
 
   let map = null;
 
+  // Dismiss = skip API key entirely: no localStorage write, HMI + live
+  // vehicle tracking still loads exactly the same way (itineraire/ligne
+  // are public/keyless datasets — see network.js), only the api-bar
+  // shows "none" instead of a key.
   function startApp(apiKey) {
     if (apiKey !== null && apiKey !== undefined && apiKey !== "") {
       localStorage.setItem("tisseo_api_key", apiKey);
     }
     const storedKey = localStorage.getItem("tisseo_api_key") || apiKey || "";
 
-    apiKeyField.value = storedKey;
+    apiKeyField.value = storedKey || "(none)";
     apiBarEl.style.display = "flex";
 
     map = L.map("map", {
@@ -58,6 +63,13 @@
     const val = inputEl.value.trim();
     modalEl.style.display = "none";
     startApp(val);
+  });
+
+  // Dismiss: same startApp() path (HMI + live vehicle tracking loads
+  // identically either way), just without persisting any key.
+  dismissBtn.addEventListener("click", () => {
+    modalEl.style.display = "none";
+    startApp("");
   });
 
   inputEl.addEventListener("keydown", (e) => {

@@ -66,8 +66,8 @@ rather than inventing a test framework unless asked.
   requires it. Don't remove the modal/key plumbing without being asked —
   it's there for the real-time API TODO (see `README.md`).
 - **Per-mode config pattern**: transport-mode-specific values (weight,
-  speed, sprite sheet geometry, fallback color) live in small config
-  objects (`MODE_CONFIG` in `network.js`, `VEHICLE_SPRITES` in
+  speed, dwell duration, sprite sheet geometry, fallback color) live in
+  small config objects (`MODE_CONFIG` in `network.js`, `VEHICLE_SPRITES` in
   `vehicle.js`) keyed by lowercase mode string (`bus`, `lineo`, `tram`,
   `metro`, `telepherique`), each with a `DEFAULT_MODE_CONFIG`/fallback.
   Follow this pattern for any new per-mode behavior instead of branching
@@ -105,7 +105,24 @@ rather than inventing a test framework unless asked.
   page size), confirm field names still match what
   `buildItiLineLayer`/`spawnDynamicVehicleMarkersForRecords` read (`ligne`,
   `nom_iti`, `mode`, `sens`, `dist_spa`, `geo_shape`) — the dataset is
-  external and not versioned in this repo.
+  external and not versioned in this repo. Same applies to
+  `ARRETS_API_BASE`/`ARRETS_SELECT_FIELDS` (`arrets-itineraire`, read by
+  `fetchStopsByItinerary`: `ligne`, `nom_iti`, `sens`, `ordre`,
+  `geo_point_2d`) — its join key (`ligne`+`nom_iti`+`sens`) must keep
+  matching `itineraire`'s.
+- **Before adding any new Tisséo real-time data source, check CORS
+  first.** `api.tisseo.fr` (GTFS-RT `.pb`/`.json`, and the legacy
+  `api.tisseo.fr/v2/*` REST API) sends no
+  `Access-Control-Allow-Origin` header at all — confirmed directly with
+  `curl -I -H "Origin: ..."`. A browser `fetch()` from this client-only
+  page will have the response blocked even though the request itself
+  succeeds server-side (so testing with `curl`/Node alone will misleadingly
+  look fine). `data.toulouse-metropole.fr/api/explore/...` datasets do have
+  CORS (`access-control-allow-origin: *`); anything served instead from
+  `data.toulouse-metropole.fr/explore/...` (no `/api/` segment, e.g. static
+  file downloads) does not. Verify with a real `Origin` header before
+  wiring up a new endpoint, not just a plain request. See the GTFS-RT
+  investigation in README.md's TODO section for the full writeup.
 - If changing/adding sprite assets, keep `frameWidth`/`frameHeight`/
   `frameCount` in `VEHICLE_SPRITES` in sync with the actual PNG dimensions
   (sprite sheets are horizontal strips of `frameCount` equal-width

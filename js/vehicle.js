@@ -149,26 +149,86 @@ function bearingBetween(a, b) {
 }
 
 /**
+ * Great-circle distance in meters between two [lat, lng] points (haversine).
+ */
+function haversineMeters(a, b) {
+  const R = 6371000;
+  const toRad = (d) => (d * Math.PI) / 180;
+  const dLat = toRad(b[0] - a[0]);
+  const dLon = toRad(b[1] - a[1]);
+  const lat1 = toRad(a[0]);
+  const lat2 = toRad(b[0]);
+  const h =
+    Math.sin(dLat / 2) ** 2 +
+    Math.cos(lat1) * Math.cos(lat2) * Math.sin(dLon / 2) ** 2;
+  return 2 * R * Math.asin(Math.sqrt(h));
+}
+
+// Minimum distance (meters) between two consecutive resolved stop distances
+// along a path; real stop coordinates can project to (almost) the same
+// polyline vertex when stops are very close together, and dwelling twice in
+// a row at the same spot would look like a glitch rather than a real stop.
+const MIN_STOP_GAP_METERS = 20;
+
+// Ignore a "boundary" (stop or path end) within this distance of the
+// traveller's current position: floating-point projection/interpolation can
+// place the traveller a hair past a stop it just dwelled at, and without
+// this guard advance() would immediately re-trigger a dwell at the same
+// stop it just left.
+const BOUNDARY_EPSILON_METERS = 0.5;
+
+/**
+ * Projects each real stop (in travel order) onto the nearest vertex of the
+ * route polyline and returns the corresponding cumulative distances (in
+ * travel order, deduplicated) — used to make a traveller pause at real
+ * stops instead of gliding straight through them. The search for each
+ * stop starts where the previous stop's match was found, which keeps
+ * projected distances monotonically increasing even when a stop's raw
+ * coordinate (e.g. a bus stop pole slightly off the route centerline) is
+ * geometrically closer to an earlier/later vertex than expected.
+ */
+function projectStopsOntoPath(pathLatLngs, cumulative, stopLatLngs) {
+  const distances = [];
+  let searchStart = 0;
+  for (const stop of stopLatLngs) {
+    let bestIndex = searchStart;
+    let bestDist = Infinity;
+    for (let i = searchStart; i < pathLatLngs.length; i++) {
+      const d = haversineMeters(stop, pathLatLngs[i]);
+      if (d < bestDist) {
+        bestDist = d;
+        bestIndex = i;
+      }
+    }
+    const distance = cumulative[bestIndex];
+    if (
+      distances.length === 0 ||
+      distance - distances[distances.length - 1] >= MIN_STOP_GAP_METERS
+    ) {
+      distances.push(distance);
+    }
+    searchStart = bestIndex;
+  }
+  return distances;
+}
+
+/**
  * Wraps a static polyline path into a self-contained "traveller" that can be
- * advanced by an elapsed-time delta, looping back and forth (or wrapping
- * around, for closed-ish loops) along the path at a constant speed.
+ * advanced by an elapsed-time delta, looping back and forth along the path
+ * at a constant cruise speed, pausing for `dwellSeconds` at each real stop
+ * in `stopLatLngs` (if provided) to simulate a vehicle waiting for
+ * passengers — real public transport doesn't glide non-stop end to end.
  *
  * pathLatLngs: array of [lat, lng], already in travel order.
- * speedMps: travel speed in meters/second.
+ * speedMps: cruise speed in meters/second (used only while moving, not
+ *   while dwelling at a stop).
+ * options.stopLatLngs: real stop coordinates in travel order (optional —
+ *   without it, the traveller only bounces at the two route ends, as before).
+ * options.dwellSeconds: how long to pause at each stop (ignored if
+ *   stopLatLngs is empty).
  */
-function createPathTraveller(pathLatLngs, speedMps) {
-  function haversineMeters(a, b) {
-    const R = 6371000;
-    const toRad = (d) => (d * Math.PI) / 180;
-    const dLat = toRad(b[0] - a[0]);
-    const dLon = toRad(b[1] - a[1]);
-    const lat1 = toRad(a[0]);
-    const lat2 = toRad(b[0]);
-    const h =
-      Math.sin(dLat / 2) ** 2 +
-      Math.cos(lat1) * Math.cos(lat2) * Math.sin(dLon / 2) ** 2;
-    return 2 * R * Math.asin(Math.sqrt(h));
-  }
+function createPathTraveller(pathLatLngs, speedMps, options) {
+  const { stopLatLngs = [], dwellSeconds = 0 } = options || {};
 
   const cumulative = [0];
   for (let i = 1; i < pathLatLngs.length; i++) {
@@ -177,6 +237,11 @@ function createPathTraveller(pathLatLngs, speedMps) {
     );
   }
   const totalDistance = cumulative[cumulative.length - 1] || 1;
+
+  const stopDistances =
+    dwellSeconds > 0 && stopLatLngs.length
+      ? projectStopsOntoPath(pathLatLngs, cumulative, stopLatLngs)
+      : [];
 
   function positionAtDistance(distanceMeters) {
     const d = Math.max(0, Math.min(totalDistance, distanceMeters));
@@ -198,19 +263,65 @@ function createPathTraveller(pathLatLngs, speedMps) {
     return { latLng: [lat, lng], from: a, to: b };
   }
 
+  // The next place the traveller must stop advancing on its own, in the
+  // given direction: either the nearest real stop strictly ahead (which
+  // triggers a dwell) or a route end (which reverses direction).
+  function nextBoundary(direction, fromDistance) {
+    let boundaryDistance = direction === 1 ? totalDistance : 0;
+    let isStop = false;
+    for (const stopDistance of stopDistances) {
+      if (direction === 1) {
+        if (
+          stopDistance > fromDistance + BOUNDARY_EPSILON_METERS &&
+          stopDistance < boundaryDistance
+        ) {
+          boundaryDistance = stopDistance;
+          isStop = true;
+        }
+      } else if (
+        stopDistance < fromDistance - BOUNDARY_EPSILON_METERS &&
+        stopDistance > boundaryDistance
+      ) {
+        boundaryDistance = stopDistance;
+        isStop = true;
+      }
+    }
+    return { boundaryDistance, isStop };
+  }
+
   // Start each traveller at a random offset along its own path so that all
   // vehicles don't appear bunched at their route's origin simultaneously.
   let distanceTravelled = Math.random() * totalDistance;
   let direction = Math.random() < 0.5 ? 1 : -1;
+  let dwellRemaining = 0;
 
   function advance(dtSeconds) {
-    distanceTravelled += direction * speedMps * dtSeconds;
-    if (distanceTravelled >= totalDistance) {
-      distanceTravelled = totalDistance;
-      direction = -1;
-    } else if (distanceTravelled <= 0) {
-      distanceTravelled = 0;
-      direction = 1;
+    let remaining = dtSeconds;
+    // Safety cap: guards against an unexpected infinite loop (e.g.
+    // pathological stop spacing) instead of hanging the render loop.
+    let guard = 1000;
+    while (remaining > 1e-6 && guard-- > 0) {
+      if (dwellRemaining > 0) {
+        const consumed = Math.min(dwellRemaining, remaining);
+        dwellRemaining -= consumed;
+        remaining -= consumed;
+        continue;
+      }
+      const { boundaryDistance, isStop } = nextBoundary(direction, distanceTravelled);
+      const distanceToBoundary = Math.abs(boundaryDistance - distanceTravelled);
+      const timeToBoundary = distanceToBoundary / speedMps;
+      if (remaining < timeToBoundary) {
+        distanceTravelled += direction * speedMps * remaining;
+        remaining = 0;
+      } else {
+        distanceTravelled = boundaryDistance;
+        remaining -= timeToBoundary;
+        if (isStop) {
+          dwellRemaining = dwellSeconds;
+        } else {
+          direction = -direction; // reached a route end: bounce back
+        }
+      }
     }
     const { latLng, from, to } = positionAtDistance(distanceTravelled);
     const heading =

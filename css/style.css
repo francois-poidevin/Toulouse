@@ -96,6 +96,11 @@ html, body {
   border-color: #3ba7ff;
 }
 
+.modal-actions {
+  display: flex;
+  gap: 0.75rem;
+}
+
 .modal-content button {
   background: #3ba7ff;
   color: #fff;
@@ -110,6 +115,17 @@ html, body {
 
 .modal-content button:hover {
   background: #2892eb;
+}
+
+.modal-content button.secondary {
+  background: transparent;
+  border: 1px solid #2f3547;
+  color: #9aa1b4;
+}
+
+.modal-content button.secondary:hover {
+  background: #1a1f2e;
+  color: #eaeaea;
 }
 
 .api-bar {
