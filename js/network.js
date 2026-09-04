@@ -93,10 +93,15 @@ function longestPath(paths) {
  * Fetches a single page of the "itineraire" dataset.
  */
 async function fetchItiPage(offset) {
+  const apiKey = localStorage.getItem("tisseo_api_key") || "";
   const url = `${ITI_API_BASE}?limit=${ITI_PAGE_SIZE}&offset=${offset}&select=${encodeURIComponent(
     ITI_SELECT_FIELDS
-  )}`;
-  const res = await fetch(url);
+  )}${apiKey ? `&apikey=${encodeURIComponent(apiKey)}` : ""}`;
+  const headers = {};
+  if (apiKey) {
+    headers["Authorization"] = `Apikey ${apiKey}`;
+  }
+  const res = await fetch(url, { headers });
   if (!res.ok) {
     throw new Error(`Tisseo API error ${res.status} at offset ${offset}`);
   }
@@ -113,13 +118,24 @@ async function fetchItiPage(offset) {
 async function fetchAllItiRecords(onProgress) {
   const first = await fetchItiPage(0);
   const total = first.total_count || 0;
-  const records = first.results ? first.results.slice() : [];
-  if (onProgress) onProgress(records.length, total);
+  const firstResults = first.results || [];
 
   const offsets = [];
   for (let offset = ITI_PAGE_SIZE; offset < total; offset += ITI_PAGE_SIZE) {
     offsets.push(offset);
   }
+
+  // Pages are fetched concurrently and can resolve out of order; writing
+  // each page's results into its own slot (rather than push()ing as they
+  // arrive) keeps the final record order deterministic across refreshes.
+  // spawnDynamicVehicleMarkersForRecords() keys each vehicle "traveller" by
+  // its index in this array — an unstable order would make that key change
+  // every 5s poll, discarding the in-flight traveller and respawning it at
+  // a random position (looked like vehicles randomly teleporting/"moving
+  // too fast").
+  const pages = [firstResults];
+  let loaded = firstResults.length;
+  if (onProgress) onProgress(loaded, total);
 
   const CONCURRENCY = 4;
   let cursor = 0;
@@ -128,10 +144,10 @@ async function fetchAllItiRecords(onProgress) {
       const myIndex = cursor++;
       const offset = offsets[myIndex];
       const page = await fetchItiPage(offset);
-      if (page.results) {
-        records.push(...page.results);
-      }
-      if (onProgress) onProgress(records.length, total);
+      const results = page.results || [];
+      pages[myIndex + 1] = results;
+      loaded += results.length;
+      if (onProgress) onProgress(loaded, total);
     }
   }
   const workers = Array.from(
@@ -140,17 +156,22 @@ async function fetchAllItiRecords(onProgress) {
   );
   await Promise.all(workers);
 
-  return records;
+  return pages.flat();
 }
 
 /**
  * Fetches a single page of the "ligne" dataset (official per-line colors).
  */
 async function fetchLignePage(offset) {
+  const apiKey = localStorage.getItem("tisseo_api_key") || "";
   const url = `${LIGNE_API_BASE}?limit=${LIGNE_PAGE_SIZE}&offset=${offset}&select=${encodeURIComponent(
     LIGNE_SELECT_FIELDS
-  )}`;
-  const res = await fetch(url);
+  )}${apiKey ? `&apikey=${encodeURIComponent(apiKey)}` : ""}`;
+  const headers = {};
+  if (apiKey) {
+    headers["Authorization"] = `Apikey ${apiKey}`;
+  }
+  const res = await fetch(url, { headers });
   if (!res.ok) {
     throw new Error(`Tisseo ligne API error ${res.status} at offset ${offset}`);
   }
@@ -243,15 +264,27 @@ function buildItiLineLayer(records, ligneColorMap) {
   return layerGroup;
 }
 
-/**
- * Spawns one animated vehicle traveller per itinerary record whose geometry
- * has at least two points. Returns an array of { traveller, vehicle, mode }
- * to be driven by the shared animation loop in app.js.
- */
-function spawnVehiclesForRecords(map, records) {
-  const spawned = [];
+let currentVehicleLayer = null;
+let currentLineLayer = null;
+const activeTravellers = new Map();
+// Handles of every currently-spawned vehicle, kept only to rescale their
+// icons live on "zoomend" (see wireVehicleZoomScaling below) without
+// waiting for the next 5s API poll.
+let activeVehicles = [];
 
-  for (const record of records) {
+/**
+ * Spawns vehicle markers (icons) whose positions advance along the network geometry
+ * on each 5-second API poll cycle, oriented to their heading, with hover tooltips
+ * displaying the item name from the API.
+ */
+function spawnDynamicVehicleMarkersForRecords(map, records) {
+  const layerGroup = L.layerGroup();
+  const newActiveTravellers = new Map();
+  const newActiveVehicles = [];
+  const zoomScale = vehicleScaleForZoom(map.getZoom());
+
+  for (let i = 0; i < records.length; i++) {
+    const record = records[i];
     try {
       const shape = record.geo_shape;
       if (!shape || !shape.geometry) continue;
@@ -259,68 +292,92 @@ function spawnVehiclesForRecords(map, records) {
       const paths = extractLineStringPaths(shape.geometry);
       if (!paths.length) continue;
 
-      // For a MultiLineString (e.g. metro line A branches/depot spurs), a
-      // single vehicle rides the longest continuous segment rather than
-      // jumping across disjoint sub-paths.
       const coords = longestPath(paths);
       if (!coords || coords.length < 2) continue;
 
       const mode = (record.mode || "").trim().toLowerCase();
+      const latLngs = coords.map(([lon, lat]) => [lat, lon]);
       const style = configForMode(mode);
 
-      const latLngs = coords.map(([lon, lat]) => [lat, lon]);
-      const traveller = createPathTraveller(latLngs, style.speedMps);
-      const vehicle = createVehicleMarker(map, mode, latLngs[0]);
+      const key = `${record.ligne || ""}_${record.nom_iti || ""}_${i}`;
+      let traveller = activeTravellers.get(key);
+      if (!traveller) {
+        traveller = createPathTraveller(latLngs, style.speedMps);
+      }
 
+      // Advance traveller position by 5 seconds on each API call interval
+      const { latLng, heading } = traveller.advance(5);
+      newActiveTravellers.set(key, traveller);
+
+      const vehicle = createVehicleMarker(map, mode, latLng);
+      vehicle.setHeading(heading);
+      vehicle.setScale(zoomScale);
+      newActiveVehicles.push(vehicle);
+
+      // Vehicle name/identity shown on hover, per requirement: line code +
+      // itinerary name (e.g. "T1 – Palais de Justice - Aéroconstellation")
+      // doubles as the vehicle's display name since the API has no
+      // per-vehicle id, only per-itinerary route names.
       const label = `${record.ligne || "?"} \u2013 ${record.nom_iti || "?"}`;
-      vehicle.marker.bindTooltip(label, { direction: "top", offset: [0, -10] });
+      vehicle.marker.bindTooltip(label, { sticky: true, direction: "top" });
 
-      spawned.push({ traveller, vehicle, mode });
+      const popupHtml =
+        `<strong>Ligne:</strong> ${record.ligne || "?"}<br/>` +
+        `<strong>Itin\u00e9raire:</strong> ${record.nom_iti || "n/a"}<br/>` +
+        `<strong>Mode:</strong> ${mode || "n/a"}`;
+      vehicle.marker.bindPopup(popupHtml);
+
+      layerGroup.addLayer(vehicle.marker);
     } catch (err) {
-      // Never let one malformed record abort the whole network load — log
-      // and skip it instead so every other line/vehicle still spawns.
-      console.error("Skipping record due to error:", record, err);
+      console.error("Skipping dynamic marker error:", err);
     }
   }
 
-  return spawned;
+  activeTravellers.clear();
+  for (const [k, v] of newActiveTravellers) {
+    activeTravellers.set(k, v);
+  }
+  activeVehicles = newActiveVehicles;
+
+  return layerGroup;
 }
 
 /**
- * Loads the full Tisseo "itineraire" network onto the given map: draws the
- * static line geometries (clickable, with ligne + nom_iti hints) AND spawns
- * one animated vehicle per itinerary, all sharing the caller's render loop.
- *
- * Reports progress via the optional statusEl (any element with .textContent).
- *
- * @returns {Promise<Array>} the spawned vehicle travellers, for the caller's
- *   animation loop to advance every frame.
+ * Refreshes network data and icon positions by calling the API.
  */
-async function loadItiNetwork(map, statusEl) {
+let refreshInFlight = false;
+
+async function refreshNetwork(map, statusEl) {
   function setStatus(text) {
     if (statusEl) statusEl.textContent = text;
   }
 
-  setStatus("Loading Tisseo network\u2026");
+  // A full refresh (363 itineraries, paginated) can take longer than the
+  // 5s poll interval; skip overlapping runs instead of racing on
+  // currentVehicleLayer/activeTravellers.
+  if (refreshInFlight) return;
+  refreshInFlight = true;
+
   try {
-    // Fetched in parallel: the network geometry (itineraire) and the
-    // official per-line colors (ligne) are independent datasets. A failure
-    // fetching colors must not block the network itself — fall back to
-    // per-mode colors instead (see colorForLine).
     const [records, ligneColorMap] = await Promise.all([
-      fetchAllItiRecords((loaded, total) => {
-        setStatus(`Loading Tisseo network\u2026 ${loaded}/${total}`);
-      }),
+      fetchAllItiRecords(),
       fetchLigneColorMap().catch((err) => {
         console.error("Failed to load Tisseo line colors, using fallback colors:", err);
         return new Map();
       }),
     ]);
 
-    const lineLayer = buildItiLineLayer(records, ligneColorMap);
-    lineLayer.addTo(map);
+    if (!currentLineLayer) {
+      currentLineLayer = buildItiLineLayer(records, ligneColorMap);
+      currentLineLayer.addTo(map);
+    }
 
-    const vehicles = spawnVehiclesForRecords(map, records);
+    if (currentVehicleLayer) {
+      map.removeLayer(currentVehicleLayer);
+    }
+
+    currentVehicleLayer = spawnDynamicVehicleMarkersForRecords(map, records);
+    currentVehicleLayer.addTo(map);
 
     const counts = {};
     for (const r of records) {
@@ -330,12 +387,38 @@ async function loadItiNetwork(map, statusEl) {
     const summary = Object.entries(counts)
       .map(([m, c]) => `${m}: ${c}`)
       .join(", ");
-    setStatus(`Tisseo network: ${records.length} itin\u00e9raires (${summary}) \u2014 ${vehicles.length} vehicles animated`);
-
-    return vehicles;
+    setStatus(`Tisseo network: ${records.length} itin\u00e9raires (${summary}) \u2014 refreshed at ${new Date().toLocaleTimeString()}`);
   } catch (err) {
-    console.error("Failed to load Tisseo network:", err);
-    setStatus("Failed to load Tisseo network (see console)");
-    throw err;
+    console.error("Failed to refresh Tisseo network:", err);
+    setStatus("Failed to refresh Tisseo network (see console)");
+  } finally {
+    refreshInFlight = false;
   }
+}
+
+/**
+ * Loads the full Tisseo network and sets up 5-second periodic API polling.
+ */
+async function loadItiNetwork(map, statusEl) {
+  function setStatus(text) {
+    if (statusEl) statusEl.textContent = text;
+  }
+
+  setStatus("Loading Tisseo network\u2026");
+  await refreshNetwork(map, statusEl);
+
+  // Rescale every currently-spawned vehicle icon immediately on zoom, so
+  // icons shrink/grow proportionally to zoom without waiting for the next
+  // 5s poll (which would also respawn/reset the vehicle layer).
+  map.on("zoomend", () => {
+    const scale = vehicleScaleForZoom(map.getZoom());
+    for (const vehicle of activeVehicles) {
+      vehicle.setScale(scale);
+    }
+  });
+
+  // Poll the API every 5 seconds and refresh icon positions on the map
+  setInterval(() => {
+    refreshNetwork(map, statusEl);
+  }, 5000);
 }

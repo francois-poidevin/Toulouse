@@ -19,9 +19,9 @@ repo initialized** at the time of writing. Treat any tooling suggestions
 ```
 index.html        # page shell, script/style includes, external CDN links
 css/style.css      # all styling
-js/app.js          # bootstrap + shared animation loop
-js/network.js      # Tisseo API fetch + line rendering + vehicle spawning
-js/vehicle.js      # sprite marker + path-following math
+js/app.js          # bootstrap: API-key modal, map init, kicks off loadItiNetwork
+js/network.js      # Tisseo API fetch + line rendering + vehicle spawning + 5s poll loop
+js/vehicle.js      # sprite marker + path-following math + zoom-scale
 assets/*.png       # 4-frame sprite sheets, one per transport mode
 ```
 
@@ -52,13 +52,19 @@ rather than inventing a test framework unless asked.
   and expose functions as top-level `function` declarations if they need
   to be called from another file (see how `network.js` calls
   `createPathTraveller`/`createVehicleMarker` from `vehicle.js`).
-- **No persistence**: never add `localStorage`/`sessionStorage`/
-  `IndexedDB`/cookies for the fetched transit data — the existing design
-  intentionally re-fetches fresh from the API on every load. If asked to
-  add caching, flag this tension explicitly first.
-- **No API key**: the Tisséo `itineraire` dataset is public and keyless.
-  Don't add auth headers or introduce a secrets requirement without being
-  asked.
+- **No persistence of transit data**: never add `localStorage`/
+  `sessionStorage`/`IndexedDB`/cookies for the fetched `itineraire`/`ligne`
+  records — the existing design intentionally re-fetches fresh from the
+  API on every 5s poll. If asked to add caching, flag this tension
+  explicitly first. The one existing exception is the optional API key
+  (`js/app.js`), kept in `localStorage` only for the session and
+  explicitly cleared on every page load — don't extend this pattern to
+  other data without being asked.
+- **API key is optional today**: the `itineraire`/`ligne` datasets are
+  public and keyless; the startup modal's API key is forwarded (as
+  `Authorization: Apikey …` + `apikey=` query param) but nothing currently
+  requires it. Don't remove the modal/key plumbing without being asked —
+  it's there for the real-time API TODO (see `README.md`).
 - **Per-mode config pattern**: transport-mode-specific values (weight,
   speed, sprite sheet geometry, fallback color) live in small config
   objects (`MODE_CONFIG` in `network.js`, `VEHICLE_SPRITES` in
@@ -77,6 +83,14 @@ rather than inventing a test framework unless asked.
   interpolated along static route geometry (`createPathTraveller` in
   `vehicle.js`), not live GPS. Don't conflate this with a "real vehicle
   tracker" claim in code/comments/UI copy.
+- **Vehicle traveller identity is index-based**: `spawnDynamicVehicleMarkersForRecords`
+  keys each vehicle's `activeTravellers` entry by
+  `` `${ligne}_${nom_iti}_${arrayIndex}` ``, so it depends on
+  `fetchAllItiRecords` returning records in a stable order across every 5s
+  poll. If you change how records are fetched/paged/filtered, keep that
+  order deterministic (or switch to a non-index-based key) — an unstable
+  order resets travellers to a random position every poll (this exact bug
+  was fixed once already).
 - **Rendering perf**: the line layer uses a single shared `L.canvas()`
   renderer for all polylines (`network.js`); keep that shared-renderer
   pattern if adding more vector layers, rather than one SVG/canvas
@@ -89,9 +103,9 @@ rather than inventing a test framework unless asked.
 
 - If changing the Tisséo API query (`ITI_API_BASE`, `ITI_SELECT_FIELDS`,
   page size), confirm field names still match what
-  `buildItiLineLayer`/`spawnVehiclesForRecords` read (`ligne`, `nom_iti`,
-  `mode`, `sens`, `dist_spa`, `geo_shape`) — the dataset is external and
-  not versioned in this repo.
+  `buildItiLineLayer`/`spawnDynamicVehicleMarkersForRecords` read (`ligne`,
+  `nom_iti`, `mode`, `sens`, `dist_spa`, `geo_shape`) — the dataset is
+  external and not versioned in this repo.
 - If changing/adding sprite assets, keep `frameWidth`/`frameHeight`/
   `frameCount` in `VEHICLE_SPRITES` in sync with the actual PNG dimensions
   (sprite sheets are horizontal strips of `frameCount` equal-width

@@ -18,6 +18,26 @@ function spriteForMode(mode) {
   return VEHICLE_SPRITES[mode] || VEHICLE_SPRITES.bus;
 }
 
+// Zoom level at which a vehicle icon renders at its natural
+// VEHICLE_ICON_SCALE size; icons shrink below this zoom (zoomed out, so the
+// map isn't cluttered with 363 full-size sprites) and grow slightly above
+// it, clamped to a sane range.
+const VEHICLE_ZOOM_BASE = 17;
+// Floor raised (vs. a naive linear extrapolation down to zoom 0, which would
+// shrink icons to ~invisible) so vehicles stay legible at max zoom-out.
+const VEHICLE_ZOOM_MIN_SCALE = 0.35;
+const VEHICLE_ZOOM_MAX_SCALE = 1.5;
+const VEHICLE_ZOOM_STEP = 0.12; // scale change per zoom level away from base
+
+/**
+ * Maps a Leaflet map zoom level to a vehicle icon scale factor (1 = normal
+ * size), so icons shrink proportionally when zooming out.
+ */
+function vehicleScaleForZoom(zoom) {
+  const raw = 1 + (zoom - VEHICLE_ZOOM_BASE) * VEHICLE_ZOOM_STEP;
+  return Math.max(VEHICLE_ZOOM_MIN_SCALE, Math.min(VEHICLE_ZOOM_MAX_SCALE, raw));
+}
+
 /**
  * Creates a Leaflet marker representing an animated pixel-art vehicle for
  * the given transport mode. Returns handles to drive its per-frame
@@ -46,11 +66,30 @@ function createVehicleMarker(map, mode, startLatLng) {
     iconAnchor: [iconSize[0] / 2, iconSize[1] / 2],
   });
 
-  const marker = L.marker(startLatLng, { icon, interactive: false }).addTo(map);
+  // interactive: true (default) so mouseover fires and bindTooltip()/
+  // bindPopup() (see network.js) actually trigger — a plain marker with
+  // interactive:false never dispatches hover/click events at all.
+  const marker = L.marker(startLatLng, { icon }).addTo(map);
 
   let frame = 0;
   const frameIntervalMs = 1000 / sprite.fps;
   let lastFrameTime = performance.now() + Math.random() * 1000; // desync frames across vehicles
+
+  // Heading (rotate) and zoom-driven size (scale) both apply as one CSS
+  // transform on the inner sprite div; kept combined so setting one never
+  // clobbers the other.
+  let heading = 0;
+  let scale = 1;
+
+  function applyTransform() {
+    const el = marker.getElement();
+    if (el) {
+      const inner = el.querySelector(".vehicle-anim");
+      if (inner) {
+        inner.style.transform = `rotate(${heading}deg) scale(${scale})`;
+      }
+    }
+  }
 
   function tickAnimation(now) {
     if (now - lastFrameTime >= frameIntervalMs) {
@@ -67,13 +106,16 @@ function createVehicleMarker(map, mode, startLatLng) {
   }
 
   function setHeading(degrees) {
-    const el = marker.getElement();
-    if (el) {
-      const inner = el.querySelector(".vehicle-anim");
-      if (inner) {
-        inner.style.transform = `rotate(${degrees}deg)`;
-      }
-    }
+    heading = degrees;
+    applyTransform();
+  }
+
+  // factor: 1 = full sprite size (VEHICLE_ICON_SCALE), <1 shrinks, >1 grows.
+  // Scales visually via CSS transform (icon anchor/hit box stay put), so it
+  // can be called every map zoom without recreating the marker/animation.
+  function setScale(factor) {
+    scale = factor;
+    applyTransform();
   }
 
   function setLatLng(latLng) {
@@ -84,7 +126,7 @@ function createVehicleMarker(map, mode, startLatLng) {
     map.removeLayer(marker);
   }
 
-  return { marker, tickAnimation, setHeading, setLatLng, remove };
+  return { marker, tickAnimation, setHeading, setScale, setLatLng, remove };
 }
 
 /**
