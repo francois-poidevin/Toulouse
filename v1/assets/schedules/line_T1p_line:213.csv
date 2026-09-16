@@ -1,0 +1,287 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2400919,22:20:00,22:20:10,stop_point:SP_3873,Grand Rond,1
+2400919,22:23:00,22:23:10,stop_point:SP_781,Palais de Justice,2
+2400919,22:25:00,22:25:10,stop_point:SP_3232,Ile du Ramier,3
+2400919,22:26:00,22:26:10,stop_point:SP_1521,Fer à Cheval,4
+2400919,22:29:00,22:29:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400919,22:32:00,22:32:10,stop_point:SP_1210,Croix de Pierre,6
+2400919,22:35:00,22:35:10,stop_point:SP_3392,Déodat de Séverac,7
+2400919,22:38:00,22:38:10,stop_point:SP_3132,Arènes,8
+2400919,22:43:00,22:43:10,stop_point:SP_325,Zénith,9
+2400919,22:45:00,22:45:10,stop_point:SP_3548,Cartoucherie,10
+2400919,22:46:00,22:46:10,stop_point:SP_2242,Chardonnet,11
+2400919,22:49:00,22:49:10,stop_point:SP_214,Arènes Romaines,12
+2400919,22:51:00,22:51:10,stop_point:SP_2466,Ancely,13
+2400919,22:54:00,22:54:10,stop_point:SP_21,Servanty-Airbus,14
+2400919,22:57:00,22:57:10,stop_point:SP_1338,Guyenne-Berry,15
+2400919,22:58:00,22:58:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400919,22:59:00,22:59:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400919,23:03:00,23:03:10,stop_point:SP_3417,Place du Relais,18
+2400919,23:05:00,23:05:10,stop_point:SP_236,De Gaulle,19
+2400919,23:06:00,23:06:10,stop_point:SP_1686,Tonneliers,20
+2400919,23:08:00,23:08:10,stop_point:SP_1461,Buxtehude,21
+2400919,23:09:00,23:09:10,stop_point:SP_4962,Place Georges Brassens,22
+2400919,23:11:00,23:11:10,stop_point:SP_5143,Andromède-Lycée,23
+2400919,23:13:00,23:13:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400919,23:15:00,23:15:10,stop_point:SP_4097,Aéroconstellation,25
+2400919,23:18:00,23:18:10,stop_point:SP_5016,MEETT,26
+2400920,22:50:00,22:50:10,stop_point:SP_3873,Grand Rond,1
+2400920,22:53:00,22:53:10,stop_point:SP_781,Palais de Justice,2
+2400920,22:55:00,22:55:10,stop_point:SP_3232,Ile du Ramier,3
+2400920,22:56:00,22:56:10,stop_point:SP_1521,Fer à Cheval,4
+2400920,22:59:00,22:59:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400920,23:02:00,23:02:10,stop_point:SP_1210,Croix de Pierre,6
+2400920,23:05:00,23:05:10,stop_point:SP_3392,Déodat de Séverac,7
+2400920,23:08:00,23:08:10,stop_point:SP_3132,Arènes,8
+2400920,23:13:00,23:13:10,stop_point:SP_325,Zénith,9
+2400920,23:15:00,23:15:10,stop_point:SP_3548,Cartoucherie,10
+2400920,23:16:00,23:16:10,stop_point:SP_2242,Chardonnet,11
+2400920,23:19:00,23:19:10,stop_point:SP_214,Arènes Romaines,12
+2400920,23:21:00,23:21:10,stop_point:SP_2466,Ancely,13
+2400920,23:24:00,23:24:10,stop_point:SP_21,Servanty-Airbus,14
+2400920,23:27:00,23:27:10,stop_point:SP_1338,Guyenne-Berry,15
+2400920,23:28:00,23:28:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400920,23:29:00,23:29:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400920,23:33:00,23:33:10,stop_point:SP_3417,Place du Relais,18
+2400920,23:35:00,23:35:10,stop_point:SP_236,De Gaulle,19
+2400920,23:36:00,23:36:10,stop_point:SP_1686,Tonneliers,20
+2400920,23:38:00,23:38:10,stop_point:SP_1461,Buxtehude,21
+2400920,23:39:00,23:39:10,stop_point:SP_4962,Place Georges Brassens,22
+2400920,23:41:00,23:41:10,stop_point:SP_5143,Andromède-Lycée,23
+2400920,23:43:00,23:43:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400920,23:45:00,23:45:10,stop_point:SP_4097,Aéroconstellation,25
+2400920,23:48:00,23:48:10,stop_point:SP_5016,MEETT,26
+2400921,23:20:00,23:20:10,stop_point:SP_3873,Grand Rond,1
+2400921,23:23:00,23:23:10,stop_point:SP_781,Palais de Justice,2
+2400921,23:25:00,23:25:10,stop_point:SP_3232,Ile du Ramier,3
+2400921,23:26:00,23:26:10,stop_point:SP_1521,Fer à Cheval,4
+2400921,23:29:00,23:29:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400921,23:32:00,23:32:10,stop_point:SP_1210,Croix de Pierre,6
+2400921,23:35:00,23:35:10,stop_point:SP_3392,Déodat de Séverac,7
+2400921,23:38:00,23:38:10,stop_point:SP_3132,Arènes,8
+2400921,23:43:00,23:43:10,stop_point:SP_325,Zénith,9
+2400921,23:45:00,23:45:10,stop_point:SP_3548,Cartoucherie,10
+2400921,23:46:00,23:46:10,stop_point:SP_2242,Chardonnet,11
+2400921,23:49:00,23:49:10,stop_point:SP_214,Arènes Romaines,12
+2400921,23:51:00,23:51:10,stop_point:SP_2466,Ancely,13
+2400921,23:54:00,23:54:10,stop_point:SP_21,Servanty-Airbus,14
+2400921,23:57:00,23:57:10,stop_point:SP_1338,Guyenne-Berry,15
+2400921,23:58:00,23:58:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400921,23:59:00,23:59:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400921,24:03:00,24:03:10,stop_point:SP_3417,Place du Relais,18
+2400921,24:05:00,24:05:10,stop_point:SP_236,De Gaulle,19
+2400921,24:06:00,24:06:10,stop_point:SP_1686,Tonneliers,20
+2400921,24:08:00,24:08:10,stop_point:SP_1461,Buxtehude,21
+2400921,24:09:00,24:09:10,stop_point:SP_4962,Place Georges Brassens,22
+2400921,24:11:00,24:11:10,stop_point:SP_5143,Andromède-Lycée,23
+2400921,24:13:00,24:13:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400921,24:15:00,24:15:10,stop_point:SP_4097,Aéroconstellation,25
+2400921,24:18:00,24:18:10,stop_point:SP_5016,MEETT,26
+2400922,23:50:00,23:50:10,stop_point:SP_3873,Grand Rond,1
+2400922,23:53:00,23:53:10,stop_point:SP_781,Palais de Justice,2
+2400922,23:55:00,23:55:10,stop_point:SP_3232,Ile du Ramier,3
+2400922,23:56:00,23:56:10,stop_point:SP_1521,Fer à Cheval,4
+2400922,23:59:00,23:59:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400922,24:02:00,24:02:10,stop_point:SP_1210,Croix de Pierre,6
+2400922,24:05:00,24:05:10,stop_point:SP_3392,Déodat de Séverac,7
+2400922,24:08:00,24:08:10,stop_point:SP_3132,Arènes,8
+2400922,24:13:00,24:13:10,stop_point:SP_325,Zénith,9
+2400922,24:15:00,24:15:10,stop_point:SP_3548,Cartoucherie,10
+2400922,24:16:00,24:16:10,stop_point:SP_2242,Chardonnet,11
+2400922,24:19:00,24:19:10,stop_point:SP_214,Arènes Romaines,12
+2400922,24:21:00,24:21:10,stop_point:SP_2466,Ancely,13
+2400922,24:24:00,24:24:10,stop_point:SP_21,Servanty-Airbus,14
+2400922,24:27:00,24:27:10,stop_point:SP_1338,Guyenne-Berry,15
+2400922,24:28:00,24:28:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400922,24:29:00,24:29:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400922,24:33:00,24:33:10,stop_point:SP_3417,Place du Relais,18
+2400922,24:35:00,24:35:10,stop_point:SP_236,De Gaulle,19
+2400922,24:36:00,24:36:10,stop_point:SP_1686,Tonneliers,20
+2400922,24:38:00,24:38:10,stop_point:SP_1461,Buxtehude,21
+2400922,24:39:00,24:39:10,stop_point:SP_4962,Place Georges Brassens,22
+2400922,24:41:00,24:41:10,stop_point:SP_5143,Andromède-Lycée,23
+2400922,24:43:00,24:43:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400922,24:45:00,24:45:10,stop_point:SP_4097,Aéroconstellation,25
+2400922,24:48:00,24:48:10,stop_point:SP_5016,MEETT,26
+2400923,24:10:00,24:10:10,stop_point:SP_3873,Grand Rond,1
+2400923,24:13:00,24:13:10,stop_point:SP_781,Palais de Justice,2
+2400923,24:15:00,24:15:10,stop_point:SP_3232,Ile du Ramier,3
+2400923,24:16:00,24:16:10,stop_point:SP_1521,Fer à Cheval,4
+2400923,24:19:00,24:19:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400923,24:22:00,24:22:10,stop_point:SP_1210,Croix de Pierre,6
+2400923,24:25:00,24:25:10,stop_point:SP_3392,Déodat de Séverac,7
+2400923,24:28:00,24:28:10,stop_point:SP_3132,Arènes,8
+2400923,24:33:00,24:33:10,stop_point:SP_325,Zénith,9
+2400923,24:35:00,24:35:10,stop_point:SP_3548,Cartoucherie,10
+2400923,24:36:00,24:36:10,stop_point:SP_2242,Chardonnet,11
+2400923,24:39:00,24:39:10,stop_point:SP_214,Arènes Romaines,12
+2400923,24:41:00,24:41:10,stop_point:SP_2466,Ancely,13
+2400923,24:44:00,24:44:10,stop_point:SP_21,Servanty-Airbus,14
+2400923,24:47:00,24:47:10,stop_point:SP_1338,Guyenne-Berry,15
+2400923,24:48:00,24:48:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400923,24:49:00,24:49:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400923,24:53:00,24:53:10,stop_point:SP_3417,Place du Relais,18
+2400923,24:55:00,24:55:10,stop_point:SP_236,De Gaulle,19
+2400923,24:56:00,24:56:10,stop_point:SP_1686,Tonneliers,20
+2400923,24:57:00,24:57:10,stop_point:SP_1461,Buxtehude,21
+2400923,24:58:00,24:58:10,stop_point:SP_4962,Place Georges Brassens,22
+2400923,25:00:00,25:00:10,stop_point:SP_5143,Andromède-Lycée,23
+2400923,25:02:00,25:02:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400923,25:04:00,25:04:10,stop_point:SP_4097,Aéroconstellation,25
+2400923,25:07:00,25:07:10,stop_point:SP_5016,MEETT,26
+2400924,24:40:00,24:40:10,stop_point:SP_3873,Grand Rond,1
+2400924,24:43:00,24:43:10,stop_point:SP_781,Palais de Justice,2
+2400924,24:45:00,24:45:10,stop_point:SP_3232,Ile du Ramier,3
+2400924,24:46:00,24:46:10,stop_point:SP_1521,Fer à Cheval,4
+2400924,24:49:00,24:49:10,stop_point:SP_3712,Avenue Muret Marcel Cavaillé,5
+2400924,24:52:00,24:52:10,stop_point:SP_1210,Croix de Pierre,6
+2400924,24:55:00,24:55:10,stop_point:SP_3392,Déodat de Séverac,7
+2400924,24:58:00,24:58:10,stop_point:SP_3132,Arènes,8
+2400924,25:02:00,25:02:10,stop_point:SP_325,Zénith,9
+2400924,25:03:00,25:03:10,stop_point:SP_3548,Cartoucherie,10
+2400924,25:05:00,25:05:10,stop_point:SP_2242,Chardonnet,11
+2400924,25:07:00,25:07:10,stop_point:SP_214,Arènes Romaines,12
+2400924,25:08:00,25:08:10,stop_point:SP_2466,Ancely,13
+2400924,25:11:00,25:11:10,stop_point:SP_21,Servanty-Airbus,14
+2400924,25:14:00,25:14:10,stop_point:SP_1338,Guyenne-Berry,15
+2400924,25:14:00,25:14:10,stop_point:SP_602,Pasteur-Mairie de Blagnac,16
+2400924,25:15:00,25:15:10,stop_point:SP_2570,Odyssud-Ritouret,17
+2400924,25:19:00,25:19:10,stop_point:SP_3417,Place du Relais,18
+2400924,25:20:00,25:20:10,stop_point:SP_236,De Gaulle,19
+2400924,25:21:00,25:21:10,stop_point:SP_1686,Tonneliers,20
+2400924,25:22:00,25:22:10,stop_point:SP_1461,Buxtehude,21
+2400924,25:23:00,25:23:10,stop_point:SP_4962,Place Georges Brassens,22
+2400924,25:25:00,25:25:10,stop_point:SP_5143,Andromède-Lycée,23
+2400924,25:26:00,25:26:10,stop_point:SP_4110,Beauzelle - Aeroscopia,24
+2400924,25:28:00,25:28:10,stop_point:SP_4097,Aéroconstellation,25
+2400924,25:31:00,25:31:10,stop_point:SP_5016,MEETT,26
+2400925,21:25:00,21:25:10,stop_point:SP_5016,MEETT,1
+2400925,21:28:00,21:28:10,stop_point:SP_754,Aéroconstellation,2
+2400925,21:30:00,21:30:10,stop_point:SP_4111,Beauzelle - Aeroscopia,3
+2400925,21:33:00,21:33:10,stop_point:SP_5144,Andromède-Lycée,4
+2400925,21:36:00,21:36:10,stop_point:SP_982,Place Georges Brassens,5
+2400925,21:38:00,21:38:10,stop_point:SP_1055,Buxtehude,6
+2400925,21:39:00,21:39:10,stop_point:SP_3977,Tonneliers,7
+2400925,21:40:00,21:40:10,stop_point:SP_3294,De Gaulle,8
+2400925,21:42:00,21:42:10,stop_point:SP_40,Place du Relais,9
+2400925,21:44:00,21:44:10,stop_point:SP_2009,Odyssud-Ritouret,10
+2400925,21:45:00,21:45:10,stop_point:SP_2656,Pasteur-Mairie de Blagnac,11
+2400925,21:46:00,21:46:10,stop_point:SP_933,Guyenne-Berry,12
+2400925,21:50:00,21:50:10,stop_point:SP_2966,Aérospatiale,13
+2400925,21:53:00,21:53:10,stop_point:SP_2228,Ancely,14
+2400925,21:54:00,21:54:10,stop_point:SP_1198,Arènes Romaines,15
+2400925,21:57:00,21:57:10,stop_point:SP_1837,Chardonnet,16
+2400925,21:59:00,21:59:10,stop_point:SP_2084,Cartoucherie,17
+2400925,22:00:00,22:00:10,stop_point:SP_2059,Zénith,18
+2400925,22:04:00,22:04:10,stop_point:SP_3132,Arènes,19
+2400925,22:07:00,22:07:10,stop_point:SP_3496,Déodat de Séverac,20
+2400925,22:09:00,22:09:10,stop_point:SP_3368,Croix de Pierre,21
+2400925,22:11:00,22:11:10,stop_point:SP_2281,Avenue Muret Marcel Cavaillé,22
+2400925,22:13:00,22:13:10,stop_point:SP_453,Fer à Cheval,23
+2400925,22:14:00,22:14:10,stop_point:SP_2115,Ile du Ramier,24
+2400925,22:15:00,22:15:10,stop_point:SP_505,Palais de Justice,25
+2400925,22:20:00,22:20:10,stop_point:SP_3873,Grand Rond,26
+2400926,21:55:00,21:55:10,stop_point:SP_5016,MEETT,1
+2400926,21:58:00,21:58:10,stop_point:SP_754,Aéroconstellation,2
+2400926,22:00:00,22:00:10,stop_point:SP_4111,Beauzelle - Aeroscopia,3
+2400926,22:03:00,22:03:10,stop_point:SP_5144,Andromède-Lycée,4
+2400926,22:06:00,22:06:10,stop_point:SP_982,Place Georges Brassens,5
+2400926,22:08:00,22:08:10,stop_point:SP_1055,Buxtehude,6
+2400926,22:09:00,22:09:10,stop_point:SP_3977,Tonneliers,7
+2400926,22:10:00,22:10:10,stop_point:SP_3294,De Gaulle,8
+2400926,22:12:00,22:12:10,stop_point:SP_40,Place du Relais,9
+2400926,22:14:00,22:14:10,stop_point:SP_2009,Odyssud-Ritouret,10
+2400926,22:15:00,22:15:10,stop_point:SP_2656,Pasteur-Mairie de Blagnac,11
+2400926,22:16:00,22:16:10,stop_point:SP_933,Guyenne-Berry,12
+2400926,22:20:00,22:20:10,stop_point:SP_2966,Aérospatiale,13
+2400926,22:23:00,22:23:10,stop_point:SP_2228,Ancely,14
+2400926,22:24:00,22:24:10,stop_point:SP_1198,Arènes Romaines,15
+2400926,22:27:00,22:27:10,stop_point:SP_1837,Chardonnet,16
+2400926,22:29:00,22:29:10,stop_point:SP_2084,Cartoucherie,17
+2400926,22:30:00,22:30:10,stop_point:SP_2059,Zénith,18
+2400926,22:34:00,22:34:10,stop_point:SP_3132,Arènes,19
+2400926,22:37:00,22:37:10,stop_point:SP_3496,Déodat de Séverac,20
+2400926,22:39:00,22:39:10,stop_point:SP_3368,Croix de Pierre,21
+2400926,22:41:00,22:41:10,stop_point:SP_2281,Avenue Muret Marcel Cavaillé,22
+2400926,22:43:00,22:43:10,stop_point:SP_453,Fer à Cheval,23
+2400926,22:44:00,22:44:10,stop_point:SP_2115,Ile du Ramier,24
+2400926,22:45:00,22:45:10,stop_point:SP_505,Palais de Justice,25
+2400926,22:50:00,22:50:10,stop_point:SP_3873,Grand Rond,26
+2400927,22:25:00,22:25:10,stop_point:SP_5016,MEETT,1
+2400927,22:28:00,22:28:10,stop_point:SP_754,Aéroconstellation,2
+2400927,22:30:00,22:30:10,stop_point:SP_4111,Beauzelle - Aeroscopia,3
+2400927,22:33:00,22:33:10,stop_point:SP_5144,Andromède-Lycée,4
+2400927,22:36:00,22:36:10,stop_point:SP_982,Place Georges Brassens,5
+2400927,22:38:00,22:38:10,stop_point:SP_1055,Buxtehude,6
+2400927,22:39:00,22:39:10,stop_point:SP_3977,Tonneliers,7
+2400927,22:40:00,22:40:10,stop_point:SP_3294,De Gaulle,8
+2400927,22:42:00,22:42:10,stop_point:SP_40,Place du Relais,9
+2400927,22:44:00,22:44:10,stop_point:SP_2009,Odyssud-Ritouret,10
+2400927,22:45:00,22:45:10,stop_point:SP_2656,Pasteur-Mairie de Blagnac,11
+2400927,22:46:00,22:46:10,stop_point:SP_933,Guyenne-Berry,12
+2400927,22:50:00,22:50:10,stop_point:SP_2966,Aérospatiale,13
+2400927,22:53:00,22:53:10,stop_point:SP_2228,Ancely,14
+2400927,22:54:00,22:54:10,stop_point:SP_1198,Arènes Romaines,15
+2400927,22:57:00,22:57:10,stop_point:SP_1837,Chardonnet,16
+2400927,22:59:00,22:59:10,stop_point:SP_2084,Cartoucherie,17
+2400927,23:00:00,23:00:10,stop_point:SP_2059,Zénith,18
+2400927,23:04:00,23:04:10,stop_point:SP_3132,Arènes,19
+2400927,23:07:00,23:07:10,stop_point:SP_3496,Déodat de Séverac,20
+2400927,23:09:00,23:09:10,stop_point:SP_3368,Croix de Pierre,21
+2400927,23:11:00,23:11:10,stop_point:SP_2281,Avenue Muret Marcel Cavaillé,22
+2400927,23:13:00,23:13:10,stop_point:SP_453,Fer à Cheval,23
+2400927,23:14:00,23:14:10,stop_point:SP_2115,Ile du Ramier,24
+2400927,23:15:00,23:15:10,stop_point:SP_505,Palais de Justice,25
+2400927,23:20:00,23:20:10,stop_point:SP_3873,Grand Rond,26
+2400928,22:55:00,22:55:10,stop_point:SP_5016,MEETT,1
+2400928,22:58:00,22:58:10,stop_point:SP_754,Aéroconstellation,2
+2400928,23:00:00,23:00:10,stop_point:SP_4111,Beauzelle - Aeroscopia,3
+2400928,23:03:00,23:03:10,stop_point:SP_5144,Andromède-Lycée,4
+2400928,23:06:00,23:06:10,stop_point:SP_982,Place Georges Brassens,5
+2400928,23:08:00,23:08:10,stop_point:SP_1055,Buxtehude,6
+2400928,23:09:00,23:09:10,stop_point:SP_3977,Tonneliers,7
+2400928,23:10:00,23:10:10,stop_point:SP_3294,De Gaulle,8
+2400928,23:12:00,23:12:10,stop_point:SP_40,Place du Relais,9
+2400928,23:14:00,23:14:10,stop_point:SP_2009,Odyssud-Ritouret,10
+2400928,23:15:00,23:15:10,stop_point:SP_2656,Pasteur-Mairie de Blagnac,11
+2400928,23:16:00,23:16:10,stop_point:SP_933,Guyenne-Berry,12
+2400928,23:20:00,23:20:10,stop_point:SP_2966,Aérospatiale,13
+2400928,23:23:00,23:23:10,stop_point:SP_2228,Ancely,14
+2400928,23:24:00,23:24:10,stop_point:SP_1198,Arènes Romaines,15
+2400928,23:27:00,23:27:10,stop_point:SP_1837,Chardonnet,16
+2400928,23:29:00,23:29:10,stop_point:SP_2084,Cartoucherie,17
+2400928,23:30:00,23:30:10,stop_point:SP_2059,Zénith,18
+2400928,23:34:00,23:34:10,stop_point:SP_3132,Arènes,19
+2400928,23:37:00,23:37:10,stop_point:SP_3496,Déodat de Séverac,20
+2400928,23:39:00,23:39:10,stop_point:SP_3368,Croix de Pierre,21
+2400928,23:41:00,23:41:10,stop_point:SP_2281,Avenue Muret Marcel Cavaillé,22
+2400928,23:43:00,23:43:10,stop_point:SP_453,Fer à Cheval,23
+2400928,23:44:00,23:44:10,stop_point:SP_2115,Ile du Ramier,24
+2400928,23:45:00,23:45:10,stop_point:SP_505,Palais de Justice,25
+2400928,23:50:00,23:50:10,stop_point:SP_3873,Grand Rond,26
+2400929,23:30:00,23:30:10,stop_point:SP_5016,MEETT,1
+2400929,23:33:00,23:33:10,stop_point:SP_754,Aéroconstellation,2
+2400929,23:35:00,23:35:10,stop_point:SP_4111,Beauzelle - Aeroscopia,3
+2400929,23:38:00,23:38:10,stop_point:SP_5144,Andromède-Lycée,4
+2400929,23:41:00,23:41:10,stop_point:SP_982,Place Georges Brassens,5
+2400929,23:43:00,23:43:10,stop_point:SP_1055,Buxtehude,6
+2400929,23:44:00,23:44:10,stop_point:SP_3977,Tonneliers,7
+2400929,23:45:00,23:45:10,stop_point:SP_3294,De Gaulle,8
+2400929,23:47:00,23:47:10,stop_point:SP_40,Place du Relais,9
+2400929,23:49:00,23:49:10,stop_point:SP_2009,Odyssud-Ritouret,10
+2400929,23:50:00,23:50:10,stop_point:SP_2656,Pasteur-Mairie de Blagnac,11
+2400929,23:51:00,23:51:10,stop_point:SP_933,Guyenne-Berry,12
+2400929,23:55:00,23:55:10,stop_point:SP_2966,Aérospatiale,13
+2400929,23:58:00,23:58:10,stop_point:SP_2228,Ancely,14
+2400929,23:59:00,23:59:10,stop_point:SP_1198,Arènes Romaines,15
+2400929,24:02:00,24:02:10,stop_point:SP_1837,Chardonnet,16
+2400929,24:04:00,24:04:10,stop_point:SP_2084,Cartoucherie,17
+2400929,24:05:00,24:05:10,stop_point:SP_2059,Zénith,18
+2400929,24:09:00,24:09:10,stop_point:SP_3132,Arènes,19
+2400929,24:12:00,24:12:10,stop_point:SP_3496,Déodat de Séverac,20
+2400929,24:14:00,24:14:10,stop_point:SP_3368,Croix de Pierre,21
+2400929,24:16:00,24:16:10,stop_point:SP_2281,Avenue Muret Marcel Cavaillé,22
+2400929,24:18:00,24:18:10,stop_point:SP_453,Fer à Cheval,23
+2400929,24:19:00,24:19:10,stop_point:SP_2115,Ile du Ramier,24
+2400929,24:20:00,24:20:10,stop_point:SP_505,Palais de Justice,25
+2400929,24:25:00,24:25:10,stop_point:SP_3873,Grand Rond,26

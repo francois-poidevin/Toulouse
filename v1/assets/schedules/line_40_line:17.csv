@@ -1,0 +1,2139 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2296622,06:10:00,06:10:10,stop_point:SP_2146,Borderouge,1
+2296622,06:11:00,06:11:10,stop_point:SP_140,Ch. de Borderouge,2
+2296622,06:13:00,06:13:10,stop_point:SP_503,Ebelot,3
+2296622,06:13:00,06:13:10,stop_point:SP_3044,Netwiller,4
+2296622,06:14:00,06:14:10,stop_point:SP_1303,Atlanta,5
+2296622,06:15:00,06:15:10,stop_point:SP_2827,St-Caprais,6
+2296622,06:16:00,06:16:10,stop_point:SP_2046,Val d'Aran,7
+2296622,06:17:00,06:17:10,stop_point:SP_2135,Bidart,8
+2296622,06:17:00,06:17:10,stop_point:SP_2899,Roncevaux,9
+2296622,06:18:00,06:18:10,stop_point:SP_136,Biarritz,10
+2296622,06:18:00,06:18:10,stop_point:SP_2571,Montcalm,11
+2296622,06:19:00,06:19:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296622,06:20:00,06:20:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296622,06:20:00,06:20:10,stop_point:SP_1344,Cèdres,14
+2296622,06:21:00,06:21:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296622,06:22:00,06:22:10,stop_point:SP_3079,Jasmin,16
+2296622,06:22:00,06:22:10,stop_point:SP_1604,Tourterelles,17
+2296622,06:23:00,06:23:10,stop_point:SP_3991,Geai,18
+2296622,06:23:00,06:23:10,stop_point:SP_2586,Pitchounelle,19
+2296622,06:24:00,06:24:10,stop_point:SP_1952,Agout,20
+2296622,06:24:00,06:24:10,stop_point:SP_669,Séoune,21
+2296622,06:25:00,06:25:10,stop_point:SP_701,Condor,22
+2296622,06:26:00,06:26:10,stop_point:SP_1580,L'Union Malbou,23
+2296623,07:00:00,07:00:10,stop_point:SP_2146,Borderouge,1
+2296623,07:01:00,07:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296623,07:03:00,07:03:10,stop_point:SP_503,Ebelot,3
+2296623,07:03:00,07:03:10,stop_point:SP_3044,Netwiller,4
+2296623,07:04:00,07:04:10,stop_point:SP_1303,Atlanta,5
+2296623,07:05:00,07:05:10,stop_point:SP_2827,St-Caprais,6
+2296623,07:06:00,07:06:10,stop_point:SP_2046,Val d'Aran,7
+2296623,07:07:00,07:07:10,stop_point:SP_2135,Bidart,8
+2296623,07:07:00,07:07:10,stop_point:SP_2899,Roncevaux,9
+2296623,07:08:00,07:08:10,stop_point:SP_136,Biarritz,10
+2296623,07:08:00,07:08:10,stop_point:SP_2571,Montcalm,11
+2296623,07:09:00,07:09:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296623,07:10:00,07:10:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296623,07:10:00,07:10:10,stop_point:SP_1344,Cèdres,14
+2296623,07:11:00,07:11:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296623,07:12:00,07:12:10,stop_point:SP_3079,Jasmin,16
+2296623,07:12:00,07:12:10,stop_point:SP_1604,Tourterelles,17
+2296623,07:13:00,07:13:10,stop_point:SP_3991,Geai,18
+2296623,07:13:00,07:13:10,stop_point:SP_2586,Pitchounelle,19
+2296623,07:14:00,07:14:10,stop_point:SP_1952,Agout,20
+2296623,07:14:00,07:14:10,stop_point:SP_669,Séoune,21
+2296623,07:15:00,07:15:10,stop_point:SP_701,Condor,22
+2296623,07:16:00,07:16:10,stop_point:SP_1580,L'Union Malbou,23
+2296624,08:00:00,08:00:10,stop_point:SP_2146,Borderouge,1
+2296624,08:01:00,08:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296624,08:03:00,08:03:10,stop_point:SP_503,Ebelot,3
+2296624,08:03:00,08:03:10,stop_point:SP_3044,Netwiller,4
+2296624,08:04:00,08:04:10,stop_point:SP_1303,Atlanta,5
+2296624,08:05:00,08:05:10,stop_point:SP_2827,St-Caprais,6
+2296624,08:06:00,08:06:10,stop_point:SP_2046,Val d'Aran,7
+2296624,08:07:00,08:07:10,stop_point:SP_2135,Bidart,8
+2296624,08:08:00,08:08:10,stop_point:SP_2899,Roncevaux,9
+2296624,08:09:00,08:09:10,stop_point:SP_136,Biarritz,10
+2296624,08:09:00,08:09:10,stop_point:SP_2571,Montcalm,11
+2296624,08:10:00,08:10:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296624,08:11:00,08:11:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296624,08:11:00,08:11:10,stop_point:SP_1344,Cèdres,14
+2296624,08:12:00,08:12:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296624,08:13:00,08:13:10,stop_point:SP_3079,Jasmin,16
+2296624,08:13:00,08:13:10,stop_point:SP_1604,Tourterelles,17
+2296624,08:14:00,08:14:10,stop_point:SP_3991,Geai,18
+2296624,08:14:00,08:14:10,stop_point:SP_2586,Pitchounelle,19
+2296624,08:15:00,08:15:10,stop_point:SP_1952,Agout,20
+2296624,08:15:00,08:15:10,stop_point:SP_669,Séoune,21
+2296624,08:16:00,08:16:10,stop_point:SP_701,Condor,22
+2296624,08:17:00,08:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296625,09:00:00,09:00:10,stop_point:SP_2146,Borderouge,1
+2296625,09:01:00,09:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296625,09:03:00,09:03:10,stop_point:SP_503,Ebelot,3
+2296625,09:03:00,09:03:10,stop_point:SP_3044,Netwiller,4
+2296625,09:04:00,09:04:10,stop_point:SP_1303,Atlanta,5
+2296625,09:05:00,09:05:10,stop_point:SP_2827,St-Caprais,6
+2296625,09:06:00,09:06:10,stop_point:SP_2046,Val d'Aran,7
+2296625,09:07:00,09:07:10,stop_point:SP_2135,Bidart,8
+2296625,09:08:00,09:08:10,stop_point:SP_2899,Roncevaux,9
+2296625,09:09:00,09:09:10,stop_point:SP_136,Biarritz,10
+2296625,09:09:00,09:09:10,stop_point:SP_2571,Montcalm,11
+2296625,09:10:00,09:10:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296625,09:11:00,09:11:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296625,09:11:00,09:11:10,stop_point:SP_1344,Cèdres,14
+2296625,09:12:00,09:12:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296625,09:13:00,09:13:10,stop_point:SP_3079,Jasmin,16
+2296625,09:13:00,09:13:10,stop_point:SP_1604,Tourterelles,17
+2296625,09:14:00,09:14:10,stop_point:SP_3991,Geai,18
+2296625,09:14:00,09:14:10,stop_point:SP_2586,Pitchounelle,19
+2296625,09:15:00,09:15:10,stop_point:SP_1952,Agout,20
+2296625,09:15:00,09:15:10,stop_point:SP_669,Séoune,21
+2296625,09:16:00,09:16:10,stop_point:SP_701,Condor,22
+2296625,09:17:00,09:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296626,10:00:00,10:00:10,stop_point:SP_2146,Borderouge,1
+2296626,10:01:00,10:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296626,10:03:00,10:03:10,stop_point:SP_503,Ebelot,3
+2296626,10:03:00,10:03:10,stop_point:SP_3044,Netwiller,4
+2296626,10:04:00,10:04:10,stop_point:SP_1303,Atlanta,5
+2296626,10:05:00,10:05:10,stop_point:SP_2827,St-Caprais,6
+2296626,10:06:00,10:06:10,stop_point:SP_2046,Val d'Aran,7
+2296626,10:07:00,10:07:10,stop_point:SP_2135,Bidart,8
+2296626,10:08:00,10:08:10,stop_point:SP_2899,Roncevaux,9
+2296626,10:09:00,10:09:10,stop_point:SP_136,Biarritz,10
+2296626,10:09:00,10:09:10,stop_point:SP_2571,Montcalm,11
+2296626,10:10:00,10:10:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296626,10:11:00,10:11:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296626,10:11:00,10:11:10,stop_point:SP_1344,Cèdres,14
+2296626,10:12:00,10:12:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296626,10:13:00,10:13:10,stop_point:SP_3079,Jasmin,16
+2296626,10:13:00,10:13:10,stop_point:SP_1604,Tourterelles,17
+2296626,10:14:00,10:14:10,stop_point:SP_3991,Geai,18
+2296626,10:14:00,10:14:10,stop_point:SP_2586,Pitchounelle,19
+2296626,10:15:00,10:15:10,stop_point:SP_1952,Agout,20
+2296626,10:15:00,10:15:10,stop_point:SP_669,Séoune,21
+2296626,10:16:00,10:16:10,stop_point:SP_701,Condor,22
+2296626,10:17:00,10:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296627,11:00:00,11:00:10,stop_point:SP_2146,Borderouge,1
+2296627,11:01:00,11:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296627,11:03:00,11:03:10,stop_point:SP_503,Ebelot,3
+2296627,11:03:00,11:03:10,stop_point:SP_3044,Netwiller,4
+2296627,11:04:00,11:04:10,stop_point:SP_1303,Atlanta,5
+2296627,11:05:00,11:05:10,stop_point:SP_2827,St-Caprais,6
+2296627,11:06:00,11:06:10,stop_point:SP_2046,Val d'Aran,7
+2296627,11:07:00,11:07:10,stop_point:SP_2135,Bidart,8
+2296627,11:08:00,11:08:10,stop_point:SP_2899,Roncevaux,9
+2296627,11:09:00,11:09:10,stop_point:SP_136,Biarritz,10
+2296627,11:09:00,11:09:10,stop_point:SP_2571,Montcalm,11
+2296627,11:10:00,11:10:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296627,11:11:00,11:11:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296627,11:11:00,11:11:10,stop_point:SP_1344,Cèdres,14
+2296627,11:12:00,11:12:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296627,11:13:00,11:13:10,stop_point:SP_3079,Jasmin,16
+2296627,11:13:00,11:13:10,stop_point:SP_1604,Tourterelles,17
+2296627,11:14:00,11:14:10,stop_point:SP_3991,Geai,18
+2296627,11:14:00,11:14:10,stop_point:SP_2586,Pitchounelle,19
+2296627,11:15:00,11:15:10,stop_point:SP_1952,Agout,20
+2296627,11:15:00,11:15:10,stop_point:SP_669,Séoune,21
+2296627,11:16:00,11:16:10,stop_point:SP_701,Condor,22
+2296627,11:17:00,11:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296628,12:00:00,12:00:10,stop_point:SP_2146,Borderouge,1
+2296628,12:01:00,12:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296628,12:03:00,12:03:10,stop_point:SP_503,Ebelot,3
+2296628,12:03:00,12:03:10,stop_point:SP_3044,Netwiller,4
+2296628,12:04:00,12:04:10,stop_point:SP_1303,Atlanta,5
+2296628,12:05:00,12:05:10,stop_point:SP_2827,St-Caprais,6
+2296628,12:06:00,12:06:10,stop_point:SP_2046,Val d'Aran,7
+2296628,12:07:00,12:07:10,stop_point:SP_2135,Bidart,8
+2296628,12:08:00,12:08:10,stop_point:SP_2899,Roncevaux,9
+2296628,12:09:00,12:09:10,stop_point:SP_136,Biarritz,10
+2296628,12:09:00,12:09:10,stop_point:SP_2571,Montcalm,11
+2296628,12:10:00,12:10:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296628,12:11:00,12:11:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296628,12:11:00,12:11:10,stop_point:SP_1344,Cèdres,14
+2296628,12:12:00,12:12:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296628,12:13:00,12:13:10,stop_point:SP_3079,Jasmin,16
+2296628,12:13:00,12:13:10,stop_point:SP_1604,Tourterelles,17
+2296628,12:14:00,12:14:10,stop_point:SP_3991,Geai,18
+2296628,12:14:00,12:14:10,stop_point:SP_2586,Pitchounelle,19
+2296628,12:15:00,12:15:10,stop_point:SP_1952,Agout,20
+2296628,12:15:00,12:15:10,stop_point:SP_669,Séoune,21
+2296628,12:16:00,12:16:10,stop_point:SP_701,Condor,22
+2296628,12:17:00,12:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296629,13:00:00,13:00:10,stop_point:SP_2146,Borderouge,1
+2296629,13:01:00,13:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296629,13:03:00,13:03:10,stop_point:SP_503,Ebelot,3
+2296629,13:03:00,13:03:10,stop_point:SP_3044,Netwiller,4
+2296629,13:04:00,13:04:10,stop_point:SP_1303,Atlanta,5
+2296629,13:06:00,13:06:10,stop_point:SP_2827,St-Caprais,6
+2296629,13:07:00,13:07:10,stop_point:SP_2046,Val d'Aran,7
+2296629,13:08:00,13:08:10,stop_point:SP_2135,Bidart,8
+2296629,13:08:00,13:08:10,stop_point:SP_2899,Roncevaux,9
+2296629,13:09:00,13:09:10,stop_point:SP_136,Biarritz,10
+2296629,13:10:00,13:10:10,stop_point:SP_2571,Montcalm,11
+2296629,13:11:00,13:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296629,13:12:00,13:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296629,13:12:00,13:12:10,stop_point:SP_1344,Cèdres,14
+2296629,13:13:00,13:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296629,13:14:00,13:14:10,stop_point:SP_3079,Jasmin,16
+2296629,13:14:00,13:14:10,stop_point:SP_1604,Tourterelles,17
+2296629,13:15:00,13:15:10,stop_point:SP_3991,Geai,18
+2296629,13:15:00,13:15:10,stop_point:SP_2586,Pitchounelle,19
+2296629,13:16:00,13:16:10,stop_point:SP_1952,Agout,20
+2296629,13:16:00,13:16:10,stop_point:SP_669,Séoune,21
+2296629,13:17:00,13:17:10,stop_point:SP_701,Condor,22
+2296629,13:18:00,13:18:10,stop_point:SP_1580,L'Union Malbou,23
+2296630,14:00:00,14:00:10,stop_point:SP_2146,Borderouge,1
+2296630,14:01:00,14:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296630,14:03:00,14:03:10,stop_point:SP_503,Ebelot,3
+2296630,14:03:00,14:03:10,stop_point:SP_3044,Netwiller,4
+2296630,14:04:00,14:04:10,stop_point:SP_1303,Atlanta,5
+2296630,14:06:00,14:06:10,stop_point:SP_2827,St-Caprais,6
+2296630,14:07:00,14:07:10,stop_point:SP_2046,Val d'Aran,7
+2296630,14:08:00,14:08:10,stop_point:SP_2135,Bidart,8
+2296630,14:08:00,14:08:10,stop_point:SP_2899,Roncevaux,9
+2296630,14:09:00,14:09:10,stop_point:SP_136,Biarritz,10
+2296630,14:10:00,14:10:10,stop_point:SP_2571,Montcalm,11
+2296630,14:11:00,14:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296630,14:12:00,14:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296630,14:12:00,14:12:10,stop_point:SP_1344,Cèdres,14
+2296630,14:13:00,14:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296630,14:14:00,14:14:10,stop_point:SP_3079,Jasmin,16
+2296630,14:14:00,14:14:10,stop_point:SP_1604,Tourterelles,17
+2296630,14:15:00,14:15:10,stop_point:SP_3991,Geai,18
+2296630,14:15:00,14:15:10,stop_point:SP_2586,Pitchounelle,19
+2296630,14:16:00,14:16:10,stop_point:SP_1952,Agout,20
+2296630,14:16:00,14:16:10,stop_point:SP_669,Séoune,21
+2296630,14:17:00,14:17:10,stop_point:SP_701,Condor,22
+2296630,14:18:00,14:18:10,stop_point:SP_1580,L'Union Malbou,23
+2296631,15:00:00,15:00:10,stop_point:SP_2146,Borderouge,1
+2296631,15:01:00,15:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296631,15:03:00,15:03:10,stop_point:SP_503,Ebelot,3
+2296631,15:03:00,15:03:10,stop_point:SP_3044,Netwiller,4
+2296631,15:04:00,15:04:10,stop_point:SP_1303,Atlanta,5
+2296631,15:06:00,15:06:10,stop_point:SP_2827,St-Caprais,6
+2296631,15:07:00,15:07:10,stop_point:SP_2046,Val d'Aran,7
+2296631,15:08:00,15:08:10,stop_point:SP_2135,Bidart,8
+2296631,15:08:00,15:08:10,stop_point:SP_2899,Roncevaux,9
+2296631,15:09:00,15:09:10,stop_point:SP_136,Biarritz,10
+2296631,15:10:00,15:10:10,stop_point:SP_2571,Montcalm,11
+2296631,15:11:00,15:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296631,15:12:00,15:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296631,15:12:00,15:12:10,stop_point:SP_1344,Cèdres,14
+2296631,15:13:00,15:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296631,15:14:00,15:14:10,stop_point:SP_3079,Jasmin,16
+2296631,15:14:00,15:14:10,stop_point:SP_1604,Tourterelles,17
+2296631,15:15:00,15:15:10,stop_point:SP_3991,Geai,18
+2296631,15:15:00,15:15:10,stop_point:SP_2586,Pitchounelle,19
+2296631,15:16:00,15:16:10,stop_point:SP_1952,Agout,20
+2296631,15:16:00,15:16:10,stop_point:SP_669,Séoune,21
+2296631,15:17:00,15:17:10,stop_point:SP_701,Condor,22
+2296631,15:18:00,15:18:10,stop_point:SP_1580,L'Union Malbou,23
+2296632,16:00:00,16:00:10,stop_point:SP_2146,Borderouge,1
+2296632,16:01:00,16:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296632,16:03:00,16:03:10,stop_point:SP_503,Ebelot,3
+2296632,16:03:00,16:03:10,stop_point:SP_3044,Netwiller,4
+2296632,16:04:00,16:04:10,stop_point:SP_1303,Atlanta,5
+2296632,16:06:00,16:06:10,stop_point:SP_2827,St-Caprais,6
+2296632,16:07:00,16:07:10,stop_point:SP_2046,Val d'Aran,7
+2296632,16:08:00,16:08:10,stop_point:SP_2135,Bidart,8
+2296632,16:08:00,16:08:10,stop_point:SP_2899,Roncevaux,9
+2296632,16:09:00,16:09:10,stop_point:SP_136,Biarritz,10
+2296632,16:10:00,16:10:10,stop_point:SP_2571,Montcalm,11
+2296632,16:11:00,16:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296632,16:12:00,16:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296632,16:12:00,16:12:10,stop_point:SP_1344,Cèdres,14
+2296632,16:13:00,16:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296632,16:14:00,16:14:10,stop_point:SP_3079,Jasmin,16
+2296632,16:14:00,16:14:10,stop_point:SP_1604,Tourterelles,17
+2296632,16:15:00,16:15:10,stop_point:SP_3991,Geai,18
+2296632,16:16:00,16:16:10,stop_point:SP_2586,Pitchounelle,19
+2296632,16:17:00,16:17:10,stop_point:SP_1952,Agout,20
+2296632,16:17:00,16:17:10,stop_point:SP_669,Séoune,21
+2296632,16:18:00,16:18:10,stop_point:SP_701,Condor,22
+2296632,16:19:00,16:19:10,stop_point:SP_1580,L'Union Malbou,23
+2296633,17:00:00,17:00:10,stop_point:SP_2146,Borderouge,1
+2296633,17:01:00,17:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296633,17:03:00,17:03:10,stop_point:SP_503,Ebelot,3
+2296633,17:03:00,17:03:10,stop_point:SP_3044,Netwiller,4
+2296633,17:04:00,17:04:10,stop_point:SP_1303,Atlanta,5
+2296633,17:06:00,17:06:10,stop_point:SP_2827,St-Caprais,6
+2296633,17:07:00,17:07:10,stop_point:SP_2046,Val d'Aran,7
+2296633,17:08:00,17:08:10,stop_point:SP_2135,Bidart,8
+2296633,17:08:00,17:08:10,stop_point:SP_2899,Roncevaux,9
+2296633,17:09:00,17:09:10,stop_point:SP_136,Biarritz,10
+2296633,17:10:00,17:10:10,stop_point:SP_2571,Montcalm,11
+2296633,17:11:00,17:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296633,17:12:00,17:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296633,17:12:00,17:12:10,stop_point:SP_1344,Cèdres,14
+2296633,17:13:00,17:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296633,17:14:00,17:14:10,stop_point:SP_3079,Jasmin,16
+2296633,17:14:00,17:14:10,stop_point:SP_1604,Tourterelles,17
+2296633,17:15:00,17:15:10,stop_point:SP_3991,Geai,18
+2296633,17:16:00,17:16:10,stop_point:SP_2586,Pitchounelle,19
+2296633,17:17:00,17:17:10,stop_point:SP_1952,Agout,20
+2296633,17:17:00,17:17:10,stop_point:SP_669,Séoune,21
+2296633,17:18:00,17:18:10,stop_point:SP_701,Condor,22
+2296633,17:19:00,17:19:10,stop_point:SP_1580,L'Union Malbou,23
+2296634,18:00:00,18:00:10,stop_point:SP_2146,Borderouge,1
+2296634,18:01:00,18:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296634,18:03:00,18:03:10,stop_point:SP_503,Ebelot,3
+2296634,18:03:00,18:03:10,stop_point:SP_3044,Netwiller,4
+2296634,18:04:00,18:04:10,stop_point:SP_1303,Atlanta,5
+2296634,18:06:00,18:06:10,stop_point:SP_2827,St-Caprais,6
+2296634,18:07:00,18:07:10,stop_point:SP_2046,Val d'Aran,7
+2296634,18:08:00,18:08:10,stop_point:SP_2135,Bidart,8
+2296634,18:08:00,18:08:10,stop_point:SP_2899,Roncevaux,9
+2296634,18:09:00,18:09:10,stop_point:SP_136,Biarritz,10
+2296634,18:10:00,18:10:10,stop_point:SP_2571,Montcalm,11
+2296634,18:11:00,18:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296634,18:12:00,18:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296634,18:12:00,18:12:10,stop_point:SP_1344,Cèdres,14
+2296634,18:13:00,18:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296634,18:14:00,18:14:10,stop_point:SP_3079,Jasmin,16
+2296634,18:14:00,18:14:10,stop_point:SP_1604,Tourterelles,17
+2296634,18:15:00,18:15:10,stop_point:SP_3991,Geai,18
+2296634,18:16:00,18:16:10,stop_point:SP_2586,Pitchounelle,19
+2296634,18:17:00,18:17:10,stop_point:SP_1952,Agout,20
+2296634,18:17:00,18:17:10,stop_point:SP_669,Séoune,21
+2296634,18:18:00,18:18:10,stop_point:SP_701,Condor,22
+2296634,18:19:00,18:19:10,stop_point:SP_1580,L'Union Malbou,23
+2296635,19:00:00,19:00:10,stop_point:SP_2146,Borderouge,1
+2296635,19:01:00,19:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296635,19:03:00,19:03:10,stop_point:SP_503,Ebelot,3
+2296635,19:03:00,19:03:10,stop_point:SP_3044,Netwiller,4
+2296635,19:04:00,19:04:10,stop_point:SP_1303,Atlanta,5
+2296635,19:06:00,19:06:10,stop_point:SP_2827,St-Caprais,6
+2296635,19:07:00,19:07:10,stop_point:SP_2046,Val d'Aran,7
+2296635,19:08:00,19:08:10,stop_point:SP_2135,Bidart,8
+2296635,19:08:00,19:08:10,stop_point:SP_2899,Roncevaux,9
+2296635,19:09:00,19:09:10,stop_point:SP_136,Biarritz,10
+2296635,19:10:00,19:10:10,stop_point:SP_2571,Montcalm,11
+2296635,19:11:00,19:11:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296635,19:12:00,19:12:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296635,19:12:00,19:12:10,stop_point:SP_1344,Cèdres,14
+2296635,19:13:00,19:13:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296635,19:14:00,19:14:10,stop_point:SP_3079,Jasmin,16
+2296635,19:14:00,19:14:10,stop_point:SP_1604,Tourterelles,17
+2296635,19:15:00,19:15:10,stop_point:SP_3991,Geai,18
+2296635,19:16:00,19:16:10,stop_point:SP_2586,Pitchounelle,19
+2296635,19:17:00,19:17:10,stop_point:SP_1952,Agout,20
+2296635,19:17:00,19:17:10,stop_point:SP_669,Séoune,21
+2296635,19:18:00,19:18:10,stop_point:SP_701,Condor,22
+2296635,19:19:00,19:19:10,stop_point:SP_1580,L'Union Malbou,23
+2296636,19:45:00,19:45:10,stop_point:SP_2146,Borderouge,1
+2296636,19:46:00,19:46:10,stop_point:SP_140,Ch. de Borderouge,2
+2296636,19:48:00,19:48:10,stop_point:SP_503,Ebelot,3
+2296636,19:48:00,19:48:10,stop_point:SP_3044,Netwiller,4
+2296636,19:49:00,19:49:10,stop_point:SP_1303,Atlanta,5
+2296636,19:50:00,19:50:10,stop_point:SP_2827,St-Caprais,6
+2296636,19:51:00,19:51:10,stop_point:SP_2046,Val d'Aran,7
+2296636,19:52:00,19:52:10,stop_point:SP_2135,Bidart,8
+2296636,19:53:00,19:53:10,stop_point:SP_2899,Roncevaux,9
+2296636,19:54:00,19:54:10,stop_point:SP_136,Biarritz,10
+2296636,19:54:00,19:54:10,stop_point:SP_2571,Montcalm,11
+2296636,19:55:00,19:55:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296636,19:56:00,19:56:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296636,19:56:00,19:56:10,stop_point:SP_1344,Cèdres,14
+2296636,19:57:00,19:57:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296636,19:58:00,19:58:10,stop_point:SP_3079,Jasmin,16
+2296636,19:58:00,19:58:10,stop_point:SP_1604,Tourterelles,17
+2296636,19:59:00,19:59:10,stop_point:SP_3991,Geai,18
+2296636,20:00:00,20:00:10,stop_point:SP_2586,Pitchounelle,19
+2296636,20:01:00,20:01:10,stop_point:SP_1952,Agout,20
+2296636,20:01:00,20:01:10,stop_point:SP_669,Séoune,21
+2296636,20:02:00,20:02:10,stop_point:SP_701,Condor,22
+2296636,20:03:00,20:03:10,stop_point:SP_1580,L'Union Malbou,23
+2296637,20:30:00,20:30:10,stop_point:SP_2146,Borderouge,1
+2296637,20:31:00,20:31:10,stop_point:SP_140,Ch. de Borderouge,2
+2296637,20:33:00,20:33:10,stop_point:SP_503,Ebelot,3
+2296637,20:33:00,20:33:10,stop_point:SP_3044,Netwiller,4
+2296637,20:34:00,20:34:10,stop_point:SP_1303,Atlanta,5
+2296637,20:35:00,20:35:10,stop_point:SP_2827,St-Caprais,6
+2296637,20:36:00,20:36:10,stop_point:SP_2046,Val d'Aran,7
+2296637,20:37:00,20:37:10,stop_point:SP_2135,Bidart,8
+2296637,20:38:00,20:38:10,stop_point:SP_2899,Roncevaux,9
+2296637,20:39:00,20:39:10,stop_point:SP_136,Biarritz,10
+2296637,20:39:00,20:39:10,stop_point:SP_2571,Montcalm,11
+2296637,20:40:00,20:40:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296637,20:41:00,20:41:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296637,20:41:00,20:41:10,stop_point:SP_1344,Cèdres,14
+2296637,20:42:00,20:42:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296637,20:43:00,20:43:10,stop_point:SP_3079,Jasmin,16
+2296637,20:43:00,20:43:10,stop_point:SP_1604,Tourterelles,17
+2296637,20:44:00,20:44:10,stop_point:SP_3991,Geai,18
+2296637,20:45:00,20:45:10,stop_point:SP_2586,Pitchounelle,19
+2296637,20:46:00,20:46:10,stop_point:SP_1952,Agout,20
+2296637,20:46:00,20:46:10,stop_point:SP_669,Séoune,21
+2296637,20:47:00,20:47:10,stop_point:SP_701,Condor,22
+2296637,20:48:00,20:48:10,stop_point:SP_1580,L'Union Malbou,23
+2296638,06:35:00,06:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296638,06:36:00,06:36:10,stop_point:SP_2696,Condor,2
+2296638,06:36:00,06:36:10,stop_point:SP_1134,Séoune,3
+2296638,06:37:00,06:37:10,stop_point:SP_2238,Agout,4
+2296638,06:37:00,06:37:10,stop_point:SP_289,Pitchounelle,5
+2296638,06:38:00,06:38:10,stop_point:SP_1916,Geai,6
+2296638,06:38:00,06:38:10,stop_point:SP_2351,Tourterelles,7
+2296638,06:39:00,06:39:10,stop_point:SP_1390,Jasmin,8
+2296638,06:39:00,06:39:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296638,06:40:00,06:40:10,stop_point:SP_893,Cèdres,10
+2296638,06:41:00,06:41:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296638,06:41:00,06:41:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296638,06:42:00,06:42:10,stop_point:SP_1320,Montcalm,13
+2296638,06:42:00,06:42:10,stop_point:SP_3887,Biarritz,14
+2296638,06:43:00,06:43:10,stop_point:SP_589,Roncevaux,15
+2296638,06:44:00,06:44:10,stop_point:SP_2907,Bidart,16
+2296638,06:44:00,06:44:10,stop_point:SP_2751,Val d'Aran,17
+2296638,06:45:00,06:45:10,stop_point:SP_2732,Bayonne,18
+2296638,06:45:00,06:45:10,stop_point:SP_4789,St-Caprais,19
+2296638,06:47:00,06:47:10,stop_point:SP_1296,Atlanta,20
+2296638,06:47:00,06:47:10,stop_point:SP_2611,Netwiller,21
+2296638,06:48:00,06:48:10,stop_point:SP_991,Ebelot,22
+2296638,06:49:00,06:49:10,stop_point:SP_980,Ch. de Borderouge,23
+2296638,06:51:00,06:51:10,stop_point:SP_2146,Borderouge,24
+2296639,07:25:00,07:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296639,07:26:00,07:26:10,stop_point:SP_2696,Condor,2
+2296639,07:26:00,07:26:10,stop_point:SP_1134,Séoune,3
+2296639,07:27:00,07:27:10,stop_point:SP_2238,Agout,4
+2296639,07:27:00,07:27:10,stop_point:SP_289,Pitchounelle,5
+2296639,07:28:00,07:28:10,stop_point:SP_1916,Geai,6
+2296639,07:28:00,07:28:10,stop_point:SP_2351,Tourterelles,7
+2296639,07:29:00,07:29:10,stop_point:SP_1390,Jasmin,8
+2296639,07:29:00,07:29:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296639,07:30:00,07:30:10,stop_point:SP_893,Cèdres,10
+2296639,07:31:00,07:31:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296639,07:31:00,07:31:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296639,07:32:00,07:32:10,stop_point:SP_1320,Montcalm,13
+2296639,07:32:00,07:32:10,stop_point:SP_3887,Biarritz,14
+2296639,07:33:00,07:33:10,stop_point:SP_589,Roncevaux,15
+2296639,07:34:00,07:34:10,stop_point:SP_2907,Bidart,16
+2296639,07:34:00,07:34:10,stop_point:SP_2751,Val d'Aran,17
+2296639,07:35:00,07:35:10,stop_point:SP_2732,Bayonne,18
+2296639,07:36:00,07:36:10,stop_point:SP_4789,St-Caprais,19
+2296639,07:37:00,07:37:10,stop_point:SP_1296,Atlanta,20
+2296639,07:38:00,07:38:10,stop_point:SP_2611,Netwiller,21
+2296639,07:39:00,07:39:10,stop_point:SP_991,Ebelot,22
+2296639,07:40:00,07:40:10,stop_point:SP_980,Ch. de Borderouge,23
+2296639,07:42:00,07:42:10,stop_point:SP_2146,Borderouge,24
+2296640,08:25:00,08:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296640,08:26:00,08:26:10,stop_point:SP_2696,Condor,2
+2296640,08:26:00,08:26:10,stop_point:SP_1134,Séoune,3
+2296640,08:27:00,08:27:10,stop_point:SP_2238,Agout,4
+2296640,08:27:00,08:27:10,stop_point:SP_289,Pitchounelle,5
+2296640,08:28:00,08:28:10,stop_point:SP_1916,Geai,6
+2296640,08:28:00,08:28:10,stop_point:SP_2351,Tourterelles,7
+2296640,08:29:00,08:29:10,stop_point:SP_1390,Jasmin,8
+2296640,08:29:00,08:29:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296640,08:30:00,08:30:10,stop_point:SP_893,Cèdres,10
+2296640,08:31:00,08:31:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296640,08:31:00,08:31:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296640,08:32:00,08:32:10,stop_point:SP_1320,Montcalm,13
+2296640,08:32:00,08:32:10,stop_point:SP_3887,Biarritz,14
+2296640,08:33:00,08:33:10,stop_point:SP_589,Roncevaux,15
+2296640,08:34:00,08:34:10,stop_point:SP_2907,Bidart,16
+2296640,08:34:00,08:34:10,stop_point:SP_2751,Val d'Aran,17
+2296640,08:35:00,08:35:10,stop_point:SP_2732,Bayonne,18
+2296640,08:36:00,08:36:10,stop_point:SP_4789,St-Caprais,19
+2296640,08:37:00,08:37:10,stop_point:SP_1296,Atlanta,20
+2296640,08:38:00,08:38:10,stop_point:SP_2611,Netwiller,21
+2296640,08:39:00,08:39:10,stop_point:SP_991,Ebelot,22
+2296640,08:40:00,08:40:10,stop_point:SP_980,Ch. de Borderouge,23
+2296640,08:42:00,08:42:10,stop_point:SP_2146,Borderouge,24
+2296641,09:25:00,09:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296641,09:26:00,09:26:10,stop_point:SP_2696,Condor,2
+2296641,09:26:00,09:26:10,stop_point:SP_1134,Séoune,3
+2296641,09:27:00,09:27:10,stop_point:SP_2238,Agout,4
+2296641,09:27:00,09:27:10,stop_point:SP_289,Pitchounelle,5
+2296641,09:28:00,09:28:10,stop_point:SP_1916,Geai,6
+2296641,09:29:00,09:29:10,stop_point:SP_2351,Tourterelles,7
+2296641,09:29:00,09:29:10,stop_point:SP_1390,Jasmin,8
+2296641,09:30:00,09:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296641,09:31:00,09:31:10,stop_point:SP_893,Cèdres,10
+2296641,09:32:00,09:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296641,09:32:00,09:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296641,09:33:00,09:33:10,stop_point:SP_1320,Montcalm,13
+2296641,09:33:00,09:33:10,stop_point:SP_3887,Biarritz,14
+2296641,09:34:00,09:34:10,stop_point:SP_589,Roncevaux,15
+2296641,09:35:00,09:35:10,stop_point:SP_2907,Bidart,16
+2296641,09:35:00,09:35:10,stop_point:SP_2751,Val d'Aran,17
+2296641,09:36:00,09:36:10,stop_point:SP_2732,Bayonne,18
+2296641,09:37:00,09:37:10,stop_point:SP_4789,St-Caprais,19
+2296641,09:38:00,09:38:10,stop_point:SP_1296,Atlanta,20
+2296641,09:39:00,09:39:10,stop_point:SP_2611,Netwiller,21
+2296641,09:40:00,09:40:10,stop_point:SP_991,Ebelot,22
+2296641,09:41:00,09:41:10,stop_point:SP_980,Ch. de Borderouge,23
+2296641,09:43:00,09:43:10,stop_point:SP_2146,Borderouge,24
+2296642,10:25:00,10:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296642,10:26:00,10:26:10,stop_point:SP_2696,Condor,2
+2296642,10:26:00,10:26:10,stop_point:SP_1134,Séoune,3
+2296642,10:27:00,10:27:10,stop_point:SP_2238,Agout,4
+2296642,10:27:00,10:27:10,stop_point:SP_289,Pitchounelle,5
+2296642,10:28:00,10:28:10,stop_point:SP_1916,Geai,6
+2296642,10:29:00,10:29:10,stop_point:SP_2351,Tourterelles,7
+2296642,10:29:00,10:29:10,stop_point:SP_1390,Jasmin,8
+2296642,10:30:00,10:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296642,10:31:00,10:31:10,stop_point:SP_893,Cèdres,10
+2296642,10:32:00,10:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296642,10:32:00,10:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296642,10:33:00,10:33:10,stop_point:SP_1320,Montcalm,13
+2296642,10:33:00,10:33:10,stop_point:SP_3887,Biarritz,14
+2296642,10:34:00,10:34:10,stop_point:SP_589,Roncevaux,15
+2296642,10:35:00,10:35:10,stop_point:SP_2907,Bidart,16
+2296642,10:35:00,10:35:10,stop_point:SP_2751,Val d'Aran,17
+2296642,10:36:00,10:36:10,stop_point:SP_2732,Bayonne,18
+2296642,10:37:00,10:37:10,stop_point:SP_4789,St-Caprais,19
+2296642,10:38:00,10:38:10,stop_point:SP_1296,Atlanta,20
+2296642,10:39:00,10:39:10,stop_point:SP_2611,Netwiller,21
+2296642,10:40:00,10:40:10,stop_point:SP_991,Ebelot,22
+2296642,10:41:00,10:41:10,stop_point:SP_980,Ch. de Borderouge,23
+2296642,10:43:00,10:43:10,stop_point:SP_2146,Borderouge,24
+2296643,11:25:00,11:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296643,11:26:00,11:26:10,stop_point:SP_2696,Condor,2
+2296643,11:26:00,11:26:10,stop_point:SP_1134,Séoune,3
+2296643,11:27:00,11:27:10,stop_point:SP_2238,Agout,4
+2296643,11:27:00,11:27:10,stop_point:SP_289,Pitchounelle,5
+2296643,11:28:00,11:28:10,stop_point:SP_1916,Geai,6
+2296643,11:29:00,11:29:10,stop_point:SP_2351,Tourterelles,7
+2296643,11:29:00,11:29:10,stop_point:SP_1390,Jasmin,8
+2296643,11:30:00,11:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296643,11:31:00,11:31:10,stop_point:SP_893,Cèdres,10
+2296643,11:32:00,11:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296643,11:32:00,11:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296643,11:33:00,11:33:10,stop_point:SP_1320,Montcalm,13
+2296643,11:33:00,11:33:10,stop_point:SP_3887,Biarritz,14
+2296643,11:34:00,11:34:10,stop_point:SP_589,Roncevaux,15
+2296643,11:35:00,11:35:10,stop_point:SP_2907,Bidart,16
+2296643,11:35:00,11:35:10,stop_point:SP_2751,Val d'Aran,17
+2296643,11:36:00,11:36:10,stop_point:SP_2732,Bayonne,18
+2296643,11:37:00,11:37:10,stop_point:SP_4789,St-Caprais,19
+2296643,11:38:00,11:38:10,stop_point:SP_1296,Atlanta,20
+2296643,11:39:00,11:39:10,stop_point:SP_2611,Netwiller,21
+2296643,11:40:00,11:40:10,stop_point:SP_991,Ebelot,22
+2296643,11:41:00,11:41:10,stop_point:SP_980,Ch. de Borderouge,23
+2296643,11:43:00,11:43:10,stop_point:SP_2146,Borderouge,24
+2296644,12:25:00,12:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296644,12:26:00,12:26:10,stop_point:SP_2696,Condor,2
+2296644,12:26:00,12:26:10,stop_point:SP_1134,Séoune,3
+2296644,12:27:00,12:27:10,stop_point:SP_2238,Agout,4
+2296644,12:27:00,12:27:10,stop_point:SP_289,Pitchounelle,5
+2296644,12:28:00,12:28:10,stop_point:SP_1916,Geai,6
+2296644,12:29:00,12:29:10,stop_point:SP_2351,Tourterelles,7
+2296644,12:29:00,12:29:10,stop_point:SP_1390,Jasmin,8
+2296644,12:30:00,12:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296644,12:31:00,12:31:10,stop_point:SP_893,Cèdres,10
+2296644,12:32:00,12:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296644,12:32:00,12:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296644,12:33:00,12:33:10,stop_point:SP_1320,Montcalm,13
+2296644,12:33:00,12:33:10,stop_point:SP_3887,Biarritz,14
+2296644,12:34:00,12:34:10,stop_point:SP_589,Roncevaux,15
+2296644,12:35:00,12:35:10,stop_point:SP_2907,Bidart,16
+2296644,12:35:00,12:35:10,stop_point:SP_2751,Val d'Aran,17
+2296644,12:36:00,12:36:10,stop_point:SP_2732,Bayonne,18
+2296644,12:37:00,12:37:10,stop_point:SP_4789,St-Caprais,19
+2296644,12:38:00,12:38:10,stop_point:SP_1296,Atlanta,20
+2296644,12:39:00,12:39:10,stop_point:SP_2611,Netwiller,21
+2296644,12:40:00,12:40:10,stop_point:SP_991,Ebelot,22
+2296644,12:41:00,12:41:10,stop_point:SP_980,Ch. de Borderouge,23
+2296644,12:43:00,12:43:10,stop_point:SP_2146,Borderouge,24
+2296645,13:25:00,13:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296645,13:26:00,13:26:10,stop_point:SP_2696,Condor,2
+2296645,13:26:00,13:26:10,stop_point:SP_1134,Séoune,3
+2296645,13:27:00,13:27:10,stop_point:SP_2238,Agout,4
+2296645,13:27:00,13:27:10,stop_point:SP_289,Pitchounelle,5
+2296645,13:28:00,13:28:10,stop_point:SP_1916,Geai,6
+2296645,13:29:00,13:29:10,stop_point:SP_2351,Tourterelles,7
+2296645,13:29:00,13:29:10,stop_point:SP_1390,Jasmin,8
+2296645,13:30:00,13:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296645,13:31:00,13:31:10,stop_point:SP_893,Cèdres,10
+2296645,13:32:00,13:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296645,13:32:00,13:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296645,13:33:00,13:33:10,stop_point:SP_1320,Montcalm,13
+2296645,13:34:00,13:34:10,stop_point:SP_3887,Biarritz,14
+2296645,13:35:00,13:35:10,stop_point:SP_589,Roncevaux,15
+2296645,13:35:00,13:35:10,stop_point:SP_2907,Bidart,16
+2296645,13:36:00,13:36:10,stop_point:SP_2751,Val d'Aran,17
+2296645,13:37:00,13:37:10,stop_point:SP_2732,Bayonne,18
+2296645,13:38:00,13:38:10,stop_point:SP_4789,St-Caprais,19
+2296645,13:39:00,13:39:10,stop_point:SP_1296,Atlanta,20
+2296645,13:40:00,13:40:10,stop_point:SP_2611,Netwiller,21
+2296645,13:41:00,13:41:10,stop_point:SP_991,Ebelot,22
+2296645,13:42:00,13:42:10,stop_point:SP_980,Ch. de Borderouge,23
+2296645,13:44:00,13:44:10,stop_point:SP_2146,Borderouge,24
+2296646,14:25:00,14:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296646,14:26:00,14:26:10,stop_point:SP_2696,Condor,2
+2296646,14:26:00,14:26:10,stop_point:SP_1134,Séoune,3
+2296646,14:27:00,14:27:10,stop_point:SP_2238,Agout,4
+2296646,14:27:00,14:27:10,stop_point:SP_289,Pitchounelle,5
+2296646,14:28:00,14:28:10,stop_point:SP_1916,Geai,6
+2296646,14:29:00,14:29:10,stop_point:SP_2351,Tourterelles,7
+2296646,14:29:00,14:29:10,stop_point:SP_1390,Jasmin,8
+2296646,14:30:00,14:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296646,14:31:00,14:31:10,stop_point:SP_893,Cèdres,10
+2296646,14:32:00,14:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296646,14:32:00,14:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296646,14:33:00,14:33:10,stop_point:SP_1320,Montcalm,13
+2296646,14:34:00,14:34:10,stop_point:SP_3887,Biarritz,14
+2296646,14:35:00,14:35:10,stop_point:SP_589,Roncevaux,15
+2296646,14:35:00,14:35:10,stop_point:SP_2907,Bidart,16
+2296646,14:36:00,14:36:10,stop_point:SP_2751,Val d'Aran,17
+2296646,14:37:00,14:37:10,stop_point:SP_2732,Bayonne,18
+2296646,14:38:00,14:38:10,stop_point:SP_4789,St-Caprais,19
+2296646,14:40:00,14:40:10,stop_point:SP_1296,Atlanta,20
+2296646,14:41:00,14:41:10,stop_point:SP_2611,Netwiller,21
+2296646,14:42:00,14:42:10,stop_point:SP_991,Ebelot,22
+2296646,14:43:00,14:43:10,stop_point:SP_980,Ch. de Borderouge,23
+2296646,14:45:00,14:45:10,stop_point:SP_2146,Borderouge,24
+2296647,15:25:00,15:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296647,15:26:00,15:26:10,stop_point:SP_2696,Condor,2
+2296647,15:26:00,15:26:10,stop_point:SP_1134,Séoune,3
+2296647,15:27:00,15:27:10,stop_point:SP_2238,Agout,4
+2296647,15:27:00,15:27:10,stop_point:SP_289,Pitchounelle,5
+2296647,15:28:00,15:28:10,stop_point:SP_1916,Geai,6
+2296647,15:29:00,15:29:10,stop_point:SP_2351,Tourterelles,7
+2296647,15:29:00,15:29:10,stop_point:SP_1390,Jasmin,8
+2296647,15:30:00,15:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296647,15:31:00,15:31:10,stop_point:SP_893,Cèdres,10
+2296647,15:32:00,15:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296647,15:32:00,15:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296647,15:33:00,15:33:10,stop_point:SP_1320,Montcalm,13
+2296647,15:34:00,15:34:10,stop_point:SP_3887,Biarritz,14
+2296647,15:35:00,15:35:10,stop_point:SP_589,Roncevaux,15
+2296647,15:35:00,15:35:10,stop_point:SP_2907,Bidart,16
+2296647,15:36:00,15:36:10,stop_point:SP_2751,Val d'Aran,17
+2296647,15:37:00,15:37:10,stop_point:SP_2732,Bayonne,18
+2296647,15:38:00,15:38:10,stop_point:SP_4789,St-Caprais,19
+2296647,15:40:00,15:40:10,stop_point:SP_1296,Atlanta,20
+2296647,15:41:00,15:41:10,stop_point:SP_2611,Netwiller,21
+2296647,15:42:00,15:42:10,stop_point:SP_991,Ebelot,22
+2296647,15:43:00,15:43:10,stop_point:SP_980,Ch. de Borderouge,23
+2296647,15:45:00,15:45:10,stop_point:SP_2146,Borderouge,24
+2296648,16:25:00,16:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296648,16:26:00,16:26:10,stop_point:SP_2696,Condor,2
+2296648,16:26:00,16:26:10,stop_point:SP_1134,Séoune,3
+2296648,16:27:00,16:27:10,stop_point:SP_2238,Agout,4
+2296648,16:27:00,16:27:10,stop_point:SP_289,Pitchounelle,5
+2296648,16:28:00,16:28:10,stop_point:SP_1916,Geai,6
+2296648,16:29:00,16:29:10,stop_point:SP_2351,Tourterelles,7
+2296648,16:29:00,16:29:10,stop_point:SP_1390,Jasmin,8
+2296648,16:30:00,16:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296648,16:31:00,16:31:10,stop_point:SP_893,Cèdres,10
+2296648,16:32:00,16:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296648,16:32:00,16:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296648,16:33:00,16:33:10,stop_point:SP_1320,Montcalm,13
+2296648,16:34:00,16:34:10,stop_point:SP_3887,Biarritz,14
+2296648,16:35:00,16:35:10,stop_point:SP_589,Roncevaux,15
+2296648,16:35:00,16:35:10,stop_point:SP_2907,Bidart,16
+2296648,16:36:00,16:36:10,stop_point:SP_2751,Val d'Aran,17
+2296648,16:37:00,16:37:10,stop_point:SP_2732,Bayonne,18
+2296648,16:38:00,16:38:10,stop_point:SP_4789,St-Caprais,19
+2296648,16:40:00,16:40:10,stop_point:SP_1296,Atlanta,20
+2296648,16:41:00,16:41:10,stop_point:SP_2611,Netwiller,21
+2296648,16:42:00,16:42:10,stop_point:SP_991,Ebelot,22
+2296648,16:43:00,16:43:10,stop_point:SP_980,Ch. de Borderouge,23
+2296648,16:45:00,16:45:10,stop_point:SP_2146,Borderouge,24
+2296649,17:25:00,17:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296649,17:26:00,17:26:10,stop_point:SP_2696,Condor,2
+2296649,17:26:00,17:26:10,stop_point:SP_1134,Séoune,3
+2296649,17:27:00,17:27:10,stop_point:SP_2238,Agout,4
+2296649,17:27:00,17:27:10,stop_point:SP_289,Pitchounelle,5
+2296649,17:28:00,17:28:10,stop_point:SP_1916,Geai,6
+2296649,17:29:00,17:29:10,stop_point:SP_2351,Tourterelles,7
+2296649,17:29:00,17:29:10,stop_point:SP_1390,Jasmin,8
+2296649,17:30:00,17:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296649,17:31:00,17:31:10,stop_point:SP_893,Cèdres,10
+2296649,17:32:00,17:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296649,17:32:00,17:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296649,17:33:00,17:33:10,stop_point:SP_1320,Montcalm,13
+2296649,17:34:00,17:34:10,stop_point:SP_3887,Biarritz,14
+2296649,17:35:00,17:35:10,stop_point:SP_589,Roncevaux,15
+2296649,17:35:00,17:35:10,stop_point:SP_2907,Bidart,16
+2296649,17:36:00,17:36:10,stop_point:SP_2751,Val d'Aran,17
+2296649,17:37:00,17:37:10,stop_point:SP_2732,Bayonne,18
+2296649,17:38:00,17:38:10,stop_point:SP_4789,St-Caprais,19
+2296649,17:40:00,17:40:10,stop_point:SP_1296,Atlanta,20
+2296649,17:41:00,17:41:10,stop_point:SP_2611,Netwiller,21
+2296649,17:42:00,17:42:10,stop_point:SP_991,Ebelot,22
+2296649,17:43:00,17:43:10,stop_point:SP_980,Ch. de Borderouge,23
+2296649,17:45:00,17:45:10,stop_point:SP_2146,Borderouge,24
+2296650,18:25:00,18:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296650,18:26:00,18:26:10,stop_point:SP_2696,Condor,2
+2296650,18:26:00,18:26:10,stop_point:SP_1134,Séoune,3
+2296650,18:27:00,18:27:10,stop_point:SP_2238,Agout,4
+2296650,18:27:00,18:27:10,stop_point:SP_289,Pitchounelle,5
+2296650,18:28:00,18:28:10,stop_point:SP_1916,Geai,6
+2296650,18:29:00,18:29:10,stop_point:SP_2351,Tourterelles,7
+2296650,18:29:00,18:29:10,stop_point:SP_1390,Jasmin,8
+2296650,18:30:00,18:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296650,18:31:00,18:31:10,stop_point:SP_893,Cèdres,10
+2296650,18:32:00,18:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296650,18:32:00,18:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296650,18:33:00,18:33:10,stop_point:SP_1320,Montcalm,13
+2296650,18:34:00,18:34:10,stop_point:SP_3887,Biarritz,14
+2296650,18:35:00,18:35:10,stop_point:SP_589,Roncevaux,15
+2296650,18:35:00,18:35:10,stop_point:SP_2907,Bidart,16
+2296650,18:36:00,18:36:10,stop_point:SP_2751,Val d'Aran,17
+2296650,18:37:00,18:37:10,stop_point:SP_2732,Bayonne,18
+2296650,18:38:00,18:38:10,stop_point:SP_4789,St-Caprais,19
+2296650,18:40:00,18:40:10,stop_point:SP_1296,Atlanta,20
+2296650,18:41:00,18:41:10,stop_point:SP_2611,Netwiller,21
+2296650,18:42:00,18:42:10,stop_point:SP_991,Ebelot,22
+2296650,18:43:00,18:43:10,stop_point:SP_980,Ch. de Borderouge,23
+2296650,18:45:00,18:45:10,stop_point:SP_2146,Borderouge,24
+2296651,19:25:00,19:25:10,stop_point:SP_1580,L'Union Malbou,1
+2296651,19:26:00,19:26:10,stop_point:SP_2696,Condor,2
+2296651,19:26:00,19:26:10,stop_point:SP_1134,Séoune,3
+2296651,19:27:00,19:27:10,stop_point:SP_2238,Agout,4
+2296651,19:27:00,19:27:10,stop_point:SP_289,Pitchounelle,5
+2296651,19:28:00,19:28:10,stop_point:SP_1916,Geai,6
+2296651,19:29:00,19:29:10,stop_point:SP_2351,Tourterelles,7
+2296651,19:29:00,19:29:10,stop_point:SP_1390,Jasmin,8
+2296651,19:30:00,19:30:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296651,19:31:00,19:31:10,stop_point:SP_893,Cèdres,10
+2296651,19:32:00,19:32:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296651,19:32:00,19:32:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296651,19:33:00,19:33:10,stop_point:SP_1320,Montcalm,13
+2296651,19:33:00,19:33:10,stop_point:SP_3887,Biarritz,14
+2296651,19:34:00,19:34:10,stop_point:SP_589,Roncevaux,15
+2296651,19:35:00,19:35:10,stop_point:SP_2907,Bidart,16
+2296651,19:35:00,19:35:10,stop_point:SP_2751,Val d'Aran,17
+2296651,19:36:00,19:36:10,stop_point:SP_2732,Bayonne,18
+2296651,19:37:00,19:37:10,stop_point:SP_4789,St-Caprais,19
+2296651,19:39:00,19:39:10,stop_point:SP_1296,Atlanta,20
+2296651,19:40:00,19:40:10,stop_point:SP_2611,Netwiller,21
+2296651,19:41:00,19:41:10,stop_point:SP_991,Ebelot,22
+2296651,19:42:00,19:42:10,stop_point:SP_980,Ch. de Borderouge,23
+2296651,19:44:00,19:44:10,stop_point:SP_2146,Borderouge,24
+2296652,20:10:00,20:10:10,stop_point:SP_1580,L'Union Malbou,1
+2296652,20:11:00,20:11:10,stop_point:SP_2696,Condor,2
+2296652,20:11:00,20:11:10,stop_point:SP_1134,Séoune,3
+2296652,20:12:00,20:12:10,stop_point:SP_2238,Agout,4
+2296652,20:12:00,20:12:10,stop_point:SP_289,Pitchounelle,5
+2296652,20:13:00,20:13:10,stop_point:SP_1916,Geai,6
+2296652,20:14:00,20:14:10,stop_point:SP_2351,Tourterelles,7
+2296652,20:14:00,20:14:10,stop_point:SP_1390,Jasmin,8
+2296652,20:15:00,20:15:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296652,20:16:00,20:16:10,stop_point:SP_893,Cèdres,10
+2296652,20:17:00,20:17:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296652,20:17:00,20:17:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296652,20:18:00,20:18:10,stop_point:SP_1320,Montcalm,13
+2296652,20:18:00,20:18:10,stop_point:SP_3887,Biarritz,14
+2296652,20:19:00,20:19:10,stop_point:SP_589,Roncevaux,15
+2296652,20:20:00,20:20:10,stop_point:SP_2907,Bidart,16
+2296652,20:20:00,20:20:10,stop_point:SP_2751,Val d'Aran,17
+2296652,20:21:00,20:21:10,stop_point:SP_2732,Bayonne,18
+2296652,20:22:00,20:22:10,stop_point:SP_4789,St-Caprais,19
+2296652,20:24:00,20:24:10,stop_point:SP_1296,Atlanta,20
+2296652,20:25:00,20:25:10,stop_point:SP_2611,Netwiller,21
+2296652,20:26:00,20:26:10,stop_point:SP_991,Ebelot,22
+2296652,20:27:00,20:27:10,stop_point:SP_980,Ch. de Borderouge,23
+2296652,20:29:00,20:29:10,stop_point:SP_2146,Borderouge,24
+2296653,06:10:00,06:10:10,stop_point:SP_2146,Borderouge,1
+2296653,06:11:00,06:11:10,stop_point:SP_140,Ch. de Borderouge,2
+2296653,06:13:00,06:13:10,stop_point:SP_503,Ebelot,3
+2296653,06:13:00,06:13:10,stop_point:SP_3044,Netwiller,4
+2296653,06:14:00,06:14:10,stop_point:SP_1303,Atlanta,5
+2296653,06:15:00,06:15:10,stop_point:SP_2827,St-Caprais,6
+2296653,06:16:00,06:16:10,stop_point:SP_2046,Val d'Aran,7
+2296653,06:17:00,06:17:10,stop_point:SP_2135,Bidart,8
+2296653,06:17:00,06:17:10,stop_point:SP_2899,Roncevaux,9
+2296653,06:18:00,06:18:10,stop_point:SP_136,Biarritz,10
+2296653,06:18:00,06:18:10,stop_point:SP_2571,Montcalm,11
+2296653,06:19:00,06:19:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296653,06:20:00,06:20:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296653,06:20:00,06:20:10,stop_point:SP_1344,Cèdres,14
+2296653,06:21:00,06:21:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296653,06:22:00,06:22:10,stop_point:SP_3079,Jasmin,16
+2296653,06:22:00,06:22:10,stop_point:SP_1604,Tourterelles,17
+2296653,06:23:00,06:23:10,stop_point:SP_3991,Geai,18
+2296653,06:23:00,06:23:10,stop_point:SP_2586,Pitchounelle,19
+2296653,06:24:00,06:24:10,stop_point:SP_1952,Agout,20
+2296653,06:24:00,06:24:10,stop_point:SP_669,Séoune,21
+2296653,06:25:00,06:25:10,stop_point:SP_701,Condor,22
+2296653,06:26:00,06:26:10,stop_point:SP_1580,L'Union Malbou,23
+2296654,06:35:00,06:35:10,stop_point:SP_2146,Borderouge,1
+2296654,06:36:00,06:36:10,stop_point:SP_140,Ch. de Borderouge,2
+2296654,06:38:00,06:38:10,stop_point:SP_503,Ebelot,3
+2296654,06:38:00,06:38:10,stop_point:SP_3044,Netwiller,4
+2296654,06:39:00,06:39:10,stop_point:SP_1303,Atlanta,5
+2296654,06:40:00,06:40:10,stop_point:SP_2827,St-Caprais,6
+2296654,06:41:00,06:41:10,stop_point:SP_2046,Val d'Aran,7
+2296654,06:42:00,06:42:10,stop_point:SP_2135,Bidart,8
+2296654,06:42:00,06:42:10,stop_point:SP_2899,Roncevaux,9
+2296654,06:43:00,06:43:10,stop_point:SP_136,Biarritz,10
+2296654,06:43:00,06:43:10,stop_point:SP_2571,Montcalm,11
+2296654,06:44:00,06:44:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296654,06:45:00,06:45:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296654,06:45:00,06:45:10,stop_point:SP_1344,Cèdres,14
+2296654,06:46:00,06:46:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296654,06:47:00,06:47:10,stop_point:SP_3079,Jasmin,16
+2296654,06:47:00,06:47:10,stop_point:SP_1604,Tourterelles,17
+2296654,06:48:00,06:48:10,stop_point:SP_3991,Geai,18
+2296654,06:48:00,06:48:10,stop_point:SP_2586,Pitchounelle,19
+2296654,06:49:00,06:49:10,stop_point:SP_1952,Agout,20
+2296654,06:49:00,06:49:10,stop_point:SP_669,Séoune,21
+2296654,06:50:00,06:50:10,stop_point:SP_701,Condor,22
+2296654,06:51:00,06:51:10,stop_point:SP_1580,L'Union Malbou,23
+2296655,07:05:00,07:05:10,stop_point:SP_2146,Borderouge,1
+2296655,07:06:00,07:06:10,stop_point:SP_140,Ch. de Borderouge,2
+2296655,07:08:00,07:08:10,stop_point:SP_503,Ebelot,3
+2296655,07:08:00,07:08:10,stop_point:SP_3044,Netwiller,4
+2296655,07:09:00,07:09:10,stop_point:SP_1303,Atlanta,5
+2296655,07:11:00,07:11:10,stop_point:SP_2827,St-Caprais,6
+2296655,07:12:00,07:12:10,stop_point:SP_2046,Val d'Aran,7
+2296655,07:13:00,07:13:10,stop_point:SP_2135,Bidart,8
+2296655,07:13:00,07:13:10,stop_point:SP_2899,Roncevaux,9
+2296655,07:14:00,07:14:10,stop_point:SP_136,Biarritz,10
+2296655,07:15:00,07:15:10,stop_point:SP_2571,Montcalm,11
+2296655,07:16:00,07:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296655,07:17:00,07:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296655,07:17:00,07:17:10,stop_point:SP_1344,Cèdres,14
+2296655,07:18:00,07:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296655,07:19:00,07:19:10,stop_point:SP_3079,Jasmin,16
+2296655,07:19:00,07:19:10,stop_point:SP_1604,Tourterelles,17
+2296655,07:20:00,07:20:10,stop_point:SP_3991,Geai,18
+2296655,07:20:00,07:20:10,stop_point:SP_2586,Pitchounelle,19
+2296655,07:21:00,07:21:10,stop_point:SP_1952,Agout,20
+2296655,07:21:00,07:21:10,stop_point:SP_669,Séoune,21
+2296655,07:22:00,07:22:10,stop_point:SP_701,Condor,22
+2296655,07:23:00,07:23:10,stop_point:SP_1580,L'Union Malbou,23
+2296656,07:35:00,07:35:10,stop_point:SP_2146,Borderouge,1
+2296656,07:37:00,07:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296656,07:38:00,07:38:10,stop_point:SP_503,Ebelot,3
+2296656,07:39:00,07:39:10,stop_point:SP_3044,Netwiller,4
+2296656,07:40:00,07:40:10,stop_point:SP_1303,Atlanta,5
+2296656,07:42:00,07:42:10,stop_point:SP_2827,St-Caprais,6
+2296656,07:43:00,07:43:10,stop_point:SP_2046,Val d'Aran,7
+2296656,07:44:00,07:44:10,stop_point:SP_2135,Bidart,8
+2296656,07:45:00,07:45:10,stop_point:SP_2899,Roncevaux,9
+2296656,07:46:00,07:46:10,stop_point:SP_136,Biarritz,10
+2296656,07:47:00,07:47:10,stop_point:SP_2571,Montcalm,11
+2296656,07:48:00,07:48:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296656,07:49:00,07:49:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296656,07:49:00,07:49:10,stop_point:SP_1344,Cèdres,14
+2296656,07:50:00,07:50:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296656,07:51:00,07:51:10,stop_point:SP_3079,Jasmin,16
+2296656,07:51:00,07:51:10,stop_point:SP_1604,Tourterelles,17
+2296656,07:52:00,07:52:10,stop_point:SP_3991,Geai,18
+2296656,07:53:00,07:53:10,stop_point:SP_2586,Pitchounelle,19
+2296656,07:54:00,07:54:10,stop_point:SP_1952,Agout,20
+2296656,07:54:00,07:54:10,stop_point:SP_669,Séoune,21
+2296656,07:55:00,07:55:10,stop_point:SP_701,Condor,22
+2296656,07:56:00,07:56:10,stop_point:SP_1580,L'Union Malbou,23
+2296657,08:05:00,08:05:10,stop_point:SP_2146,Borderouge,1
+2296657,08:07:00,08:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296657,08:08:00,08:08:10,stop_point:SP_503,Ebelot,3
+2296657,08:09:00,08:09:10,stop_point:SP_3044,Netwiller,4
+2296657,08:10:00,08:10:10,stop_point:SP_1303,Atlanta,5
+2296657,08:12:00,08:12:10,stop_point:SP_2827,St-Caprais,6
+2296657,08:13:00,08:13:10,stop_point:SP_2046,Val d'Aran,7
+2296657,08:14:00,08:14:10,stop_point:SP_2135,Bidart,8
+2296657,08:15:00,08:15:10,stop_point:SP_2899,Roncevaux,9
+2296657,08:16:00,08:16:10,stop_point:SP_136,Biarritz,10
+2296657,08:17:00,08:17:10,stop_point:SP_2571,Montcalm,11
+2296657,08:18:00,08:18:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296657,08:19:00,08:19:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296657,08:19:00,08:19:10,stop_point:SP_1344,Cèdres,14
+2296657,08:20:00,08:20:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296657,08:21:00,08:21:10,stop_point:SP_3079,Jasmin,16
+2296657,08:21:00,08:21:10,stop_point:SP_1604,Tourterelles,17
+2296657,08:22:00,08:22:10,stop_point:SP_3991,Geai,18
+2296657,08:23:00,08:23:10,stop_point:SP_2586,Pitchounelle,19
+2296657,08:24:00,08:24:10,stop_point:SP_1952,Agout,20
+2296657,08:24:00,08:24:10,stop_point:SP_669,Séoune,21
+2296657,08:25:00,08:25:10,stop_point:SP_701,Condor,22
+2296657,08:26:00,08:26:10,stop_point:SP_1580,L'Union Malbou,23
+2296658,08:35:00,08:35:10,stop_point:SP_2146,Borderouge,1
+2296658,08:37:00,08:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296658,08:38:00,08:38:10,stop_point:SP_503,Ebelot,3
+2296658,08:39:00,08:39:10,stop_point:SP_3044,Netwiller,4
+2296658,08:40:00,08:40:10,stop_point:SP_1303,Atlanta,5
+2296658,08:42:00,08:42:10,stop_point:SP_2827,St-Caprais,6
+2296658,08:43:00,08:43:10,stop_point:SP_2046,Val d'Aran,7
+2296658,08:44:00,08:44:10,stop_point:SP_2135,Bidart,8
+2296658,08:45:00,08:45:10,stop_point:SP_2899,Roncevaux,9
+2296658,08:46:00,08:46:10,stop_point:SP_136,Biarritz,10
+2296658,08:47:00,08:47:10,stop_point:SP_2571,Montcalm,11
+2296658,08:48:00,08:48:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296658,08:49:00,08:49:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296658,08:49:00,08:49:10,stop_point:SP_1344,Cèdres,14
+2296658,08:50:00,08:50:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296658,08:51:00,08:51:10,stop_point:SP_3079,Jasmin,16
+2296658,08:51:00,08:51:10,stop_point:SP_1604,Tourterelles,17
+2296658,08:52:00,08:52:10,stop_point:SP_3991,Geai,18
+2296658,08:53:00,08:53:10,stop_point:SP_2586,Pitchounelle,19
+2296658,08:54:00,08:54:10,stop_point:SP_1952,Agout,20
+2296658,08:54:00,08:54:10,stop_point:SP_669,Séoune,21
+2296658,08:55:00,08:55:10,stop_point:SP_701,Condor,22
+2296658,08:56:00,08:56:10,stop_point:SP_1580,L'Union Malbou,23
+2296659,09:05:00,09:05:10,stop_point:SP_2146,Borderouge,1
+2296659,09:06:00,09:06:10,stop_point:SP_140,Ch. de Borderouge,2
+2296659,09:08:00,09:08:10,stop_point:SP_503,Ebelot,3
+2296659,09:08:00,09:08:10,stop_point:SP_3044,Netwiller,4
+2296659,09:09:00,09:09:10,stop_point:SP_1303,Atlanta,5
+2296659,09:11:00,09:11:10,stop_point:SP_2827,St-Caprais,6
+2296659,09:12:00,09:12:10,stop_point:SP_2046,Val d'Aran,7
+2296659,09:13:00,09:13:10,stop_point:SP_2135,Bidart,8
+2296659,09:13:00,09:13:10,stop_point:SP_2899,Roncevaux,9
+2296659,09:14:00,09:14:10,stop_point:SP_136,Biarritz,10
+2296659,09:15:00,09:15:10,stop_point:SP_2571,Montcalm,11
+2296659,09:16:00,09:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296659,09:17:00,09:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296659,09:17:00,09:17:10,stop_point:SP_1344,Cèdres,14
+2296659,09:18:00,09:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296659,09:19:00,09:19:10,stop_point:SP_3079,Jasmin,16
+2296659,09:19:00,09:19:10,stop_point:SP_1604,Tourterelles,17
+2296659,09:20:00,09:20:10,stop_point:SP_3991,Geai,18
+2296659,09:21:00,09:21:10,stop_point:SP_2586,Pitchounelle,19
+2296659,09:22:00,09:22:10,stop_point:SP_1952,Agout,20
+2296659,09:22:00,09:22:10,stop_point:SP_669,Séoune,21
+2296659,09:23:00,09:23:10,stop_point:SP_701,Condor,22
+2296659,09:24:00,09:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296660,09:35:00,09:35:10,stop_point:SP_2146,Borderouge,1
+2296660,09:36:00,09:36:10,stop_point:SP_140,Ch. de Borderouge,2
+2296660,09:38:00,09:38:10,stop_point:SP_503,Ebelot,3
+2296660,09:38:00,09:38:10,stop_point:SP_3044,Netwiller,4
+2296660,09:39:00,09:39:10,stop_point:SP_1303,Atlanta,5
+2296660,09:41:00,09:41:10,stop_point:SP_2827,St-Caprais,6
+2296660,09:42:00,09:42:10,stop_point:SP_2046,Val d'Aran,7
+2296660,09:43:00,09:43:10,stop_point:SP_2135,Bidart,8
+2296660,09:43:00,09:43:10,stop_point:SP_2899,Roncevaux,9
+2296660,09:44:00,09:44:10,stop_point:SP_136,Biarritz,10
+2296660,09:45:00,09:45:10,stop_point:SP_2571,Montcalm,11
+2296660,09:46:00,09:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296660,09:47:00,09:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296660,09:47:00,09:47:10,stop_point:SP_1344,Cèdres,14
+2296660,09:48:00,09:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296660,09:49:00,09:49:10,stop_point:SP_3079,Jasmin,16
+2296660,09:49:00,09:49:10,stop_point:SP_1604,Tourterelles,17
+2296660,09:50:00,09:50:10,stop_point:SP_3991,Geai,18
+2296660,09:51:00,09:51:10,stop_point:SP_2586,Pitchounelle,19
+2296660,09:52:00,09:52:10,stop_point:SP_1952,Agout,20
+2296660,09:52:00,09:52:10,stop_point:SP_669,Séoune,21
+2296660,09:53:00,09:53:10,stop_point:SP_701,Condor,22
+2296660,09:54:00,09:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296661,10:05:00,10:05:10,stop_point:SP_2146,Borderouge,1
+2296661,10:06:00,10:06:10,stop_point:SP_140,Ch. de Borderouge,2
+2296661,10:08:00,10:08:10,stop_point:SP_503,Ebelot,3
+2296661,10:08:00,10:08:10,stop_point:SP_3044,Netwiller,4
+2296661,10:09:00,10:09:10,stop_point:SP_1303,Atlanta,5
+2296661,10:11:00,10:11:10,stop_point:SP_2827,St-Caprais,6
+2296661,10:12:00,10:12:10,stop_point:SP_2046,Val d'Aran,7
+2296661,10:13:00,10:13:10,stop_point:SP_2135,Bidart,8
+2296661,10:13:00,10:13:10,stop_point:SP_2899,Roncevaux,9
+2296661,10:14:00,10:14:10,stop_point:SP_136,Biarritz,10
+2296661,10:15:00,10:15:10,stop_point:SP_2571,Montcalm,11
+2296661,10:16:00,10:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296661,10:17:00,10:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296661,10:17:00,10:17:10,stop_point:SP_1344,Cèdres,14
+2296661,10:18:00,10:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296661,10:19:00,10:19:10,stop_point:SP_3079,Jasmin,16
+2296661,10:19:00,10:19:10,stop_point:SP_1604,Tourterelles,17
+2296661,10:20:00,10:20:10,stop_point:SP_3991,Geai,18
+2296661,10:21:00,10:21:10,stop_point:SP_2586,Pitchounelle,19
+2296661,10:22:00,10:22:10,stop_point:SP_1952,Agout,20
+2296661,10:22:00,10:22:10,stop_point:SP_669,Séoune,21
+2296661,10:23:00,10:23:10,stop_point:SP_701,Condor,22
+2296661,10:24:00,10:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296662,10:35:00,10:35:10,stop_point:SP_2146,Borderouge,1
+2296662,10:36:00,10:36:10,stop_point:SP_140,Ch. de Borderouge,2
+2296662,10:38:00,10:38:10,stop_point:SP_503,Ebelot,3
+2296662,10:38:00,10:38:10,stop_point:SP_3044,Netwiller,4
+2296662,10:39:00,10:39:10,stop_point:SP_1303,Atlanta,5
+2296662,10:41:00,10:41:10,stop_point:SP_2827,St-Caprais,6
+2296662,10:42:00,10:42:10,stop_point:SP_2046,Val d'Aran,7
+2296662,10:43:00,10:43:10,stop_point:SP_2135,Bidart,8
+2296662,10:43:00,10:43:10,stop_point:SP_2899,Roncevaux,9
+2296662,10:44:00,10:44:10,stop_point:SP_136,Biarritz,10
+2296662,10:45:00,10:45:10,stop_point:SP_2571,Montcalm,11
+2296662,10:46:00,10:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296662,10:47:00,10:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296662,10:47:00,10:47:10,stop_point:SP_1344,Cèdres,14
+2296662,10:48:00,10:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296662,10:49:00,10:49:10,stop_point:SP_3079,Jasmin,16
+2296662,10:49:00,10:49:10,stop_point:SP_1604,Tourterelles,17
+2296662,10:50:00,10:50:10,stop_point:SP_3991,Geai,18
+2296662,10:51:00,10:51:10,stop_point:SP_2586,Pitchounelle,19
+2296662,10:52:00,10:52:10,stop_point:SP_1952,Agout,20
+2296662,10:52:00,10:52:10,stop_point:SP_669,Séoune,21
+2296662,10:53:00,10:53:10,stop_point:SP_701,Condor,22
+2296662,10:54:00,10:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296663,11:05:00,11:05:10,stop_point:SP_2146,Borderouge,1
+2296663,11:06:00,11:06:10,stop_point:SP_140,Ch. de Borderouge,2
+2296663,11:08:00,11:08:10,stop_point:SP_503,Ebelot,3
+2296663,11:08:00,11:08:10,stop_point:SP_3044,Netwiller,4
+2296663,11:09:00,11:09:10,stop_point:SP_1303,Atlanta,5
+2296663,11:11:00,11:11:10,stop_point:SP_2827,St-Caprais,6
+2296663,11:12:00,11:12:10,stop_point:SP_2046,Val d'Aran,7
+2296663,11:13:00,11:13:10,stop_point:SP_2135,Bidart,8
+2296663,11:13:00,11:13:10,stop_point:SP_2899,Roncevaux,9
+2296663,11:14:00,11:14:10,stop_point:SP_136,Biarritz,10
+2296663,11:15:00,11:15:10,stop_point:SP_2571,Montcalm,11
+2296663,11:16:00,11:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296663,11:17:00,11:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296663,11:17:00,11:17:10,stop_point:SP_1344,Cèdres,14
+2296663,11:18:00,11:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296663,11:19:00,11:19:10,stop_point:SP_3079,Jasmin,16
+2296663,11:19:00,11:19:10,stop_point:SP_1604,Tourterelles,17
+2296663,11:20:00,11:20:10,stop_point:SP_3991,Geai,18
+2296663,11:21:00,11:21:10,stop_point:SP_2586,Pitchounelle,19
+2296663,11:22:00,11:22:10,stop_point:SP_1952,Agout,20
+2296663,11:22:00,11:22:10,stop_point:SP_669,Séoune,21
+2296663,11:23:00,11:23:10,stop_point:SP_701,Condor,22
+2296663,11:24:00,11:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296664,11:35:00,11:35:10,stop_point:SP_2146,Borderouge,1
+2296664,11:36:00,11:36:10,stop_point:SP_140,Ch. de Borderouge,2
+2296664,11:38:00,11:38:10,stop_point:SP_503,Ebelot,3
+2296664,11:38:00,11:38:10,stop_point:SP_3044,Netwiller,4
+2296664,11:39:00,11:39:10,stop_point:SP_1303,Atlanta,5
+2296664,11:41:00,11:41:10,stop_point:SP_2827,St-Caprais,6
+2296664,11:42:00,11:42:10,stop_point:SP_2046,Val d'Aran,7
+2296664,11:43:00,11:43:10,stop_point:SP_2135,Bidart,8
+2296664,11:43:00,11:43:10,stop_point:SP_2899,Roncevaux,9
+2296664,11:44:00,11:44:10,stop_point:SP_136,Biarritz,10
+2296664,11:45:00,11:45:10,stop_point:SP_2571,Montcalm,11
+2296664,11:46:00,11:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296664,11:47:00,11:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296664,11:47:00,11:47:10,stop_point:SP_1344,Cèdres,14
+2296664,11:48:00,11:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296664,11:49:00,11:49:10,stop_point:SP_3079,Jasmin,16
+2296664,11:49:00,11:49:10,stop_point:SP_1604,Tourterelles,17
+2296664,11:50:00,11:50:10,stop_point:SP_3991,Geai,18
+2296664,11:51:00,11:51:10,stop_point:SP_2586,Pitchounelle,19
+2296664,11:52:00,11:52:10,stop_point:SP_1952,Agout,20
+2296664,11:52:00,11:52:10,stop_point:SP_669,Séoune,21
+2296664,11:53:00,11:53:10,stop_point:SP_701,Condor,22
+2296664,11:54:00,11:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296665,12:05:00,12:05:10,stop_point:SP_2146,Borderouge,1
+2296665,12:07:00,12:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296665,12:08:00,12:08:10,stop_point:SP_503,Ebelot,3
+2296665,12:09:00,12:09:10,stop_point:SP_3044,Netwiller,4
+2296665,12:10:00,12:10:10,stop_point:SP_1303,Atlanta,5
+2296665,12:12:00,12:12:10,stop_point:SP_2827,St-Caprais,6
+2296665,12:13:00,12:13:10,stop_point:SP_2046,Val d'Aran,7
+2296665,12:14:00,12:14:10,stop_point:SP_2135,Bidart,8
+2296665,12:14:00,12:14:10,stop_point:SP_2899,Roncevaux,9
+2296665,12:15:00,12:15:10,stop_point:SP_136,Biarritz,10
+2296665,12:16:00,12:16:10,stop_point:SP_2571,Montcalm,11
+2296665,12:17:00,12:17:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296665,12:18:00,12:18:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296665,12:18:00,12:18:10,stop_point:SP_1344,Cèdres,14
+2296665,12:19:00,12:19:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296665,12:20:00,12:20:10,stop_point:SP_3079,Jasmin,16
+2296665,12:20:00,12:20:10,stop_point:SP_1604,Tourterelles,17
+2296665,12:21:00,12:21:10,stop_point:SP_3991,Geai,18
+2296665,12:22:00,12:22:10,stop_point:SP_2586,Pitchounelle,19
+2296665,12:23:00,12:23:10,stop_point:SP_1952,Agout,20
+2296665,12:23:00,12:23:10,stop_point:SP_669,Séoune,21
+2296665,12:24:00,12:24:10,stop_point:SP_701,Condor,22
+2296665,12:25:00,12:25:10,stop_point:SP_1580,L'Union Malbou,23
+2296666,12:35:00,12:35:10,stop_point:SP_2146,Borderouge,1
+2296666,12:37:00,12:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296666,12:38:00,12:38:10,stop_point:SP_503,Ebelot,3
+2296666,12:39:00,12:39:10,stop_point:SP_3044,Netwiller,4
+2296666,12:40:00,12:40:10,stop_point:SP_1303,Atlanta,5
+2296666,12:41:00,12:41:10,stop_point:SP_2827,St-Caprais,6
+2296666,12:42:00,12:42:10,stop_point:SP_2046,Val d'Aran,7
+2296666,12:43:00,12:43:10,stop_point:SP_2135,Bidart,8
+2296666,12:44:00,12:44:10,stop_point:SP_2899,Roncevaux,9
+2296666,12:45:00,12:45:10,stop_point:SP_136,Biarritz,10
+2296666,12:45:00,12:45:10,stop_point:SP_2571,Montcalm,11
+2296666,12:46:00,12:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296666,12:47:00,12:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296666,12:47:00,12:47:10,stop_point:SP_1344,Cèdres,14
+2296666,12:48:00,12:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296666,12:49:00,12:49:10,stop_point:SP_3079,Jasmin,16
+2296666,12:49:00,12:49:10,stop_point:SP_1604,Tourterelles,17
+2296666,12:50:00,12:50:10,stop_point:SP_3991,Geai,18
+2296666,12:51:00,12:51:10,stop_point:SP_2586,Pitchounelle,19
+2296666,12:52:00,12:52:10,stop_point:SP_1952,Agout,20
+2296666,12:52:00,12:52:10,stop_point:SP_669,Séoune,21
+2296666,12:53:00,12:53:10,stop_point:SP_701,Condor,22
+2296666,12:54:00,12:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296667,13:05:00,13:05:10,stop_point:SP_2146,Borderouge,1
+2296667,13:07:00,13:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296667,13:08:00,13:08:10,stop_point:SP_503,Ebelot,3
+2296667,13:09:00,13:09:10,stop_point:SP_3044,Netwiller,4
+2296667,13:10:00,13:10:10,stop_point:SP_1303,Atlanta,5
+2296667,13:11:00,13:11:10,stop_point:SP_2827,St-Caprais,6
+2296667,13:12:00,13:12:10,stop_point:SP_2046,Val d'Aran,7
+2296667,13:13:00,13:13:10,stop_point:SP_2135,Bidart,8
+2296667,13:14:00,13:14:10,stop_point:SP_2899,Roncevaux,9
+2296667,13:15:00,13:15:10,stop_point:SP_136,Biarritz,10
+2296667,13:15:00,13:15:10,stop_point:SP_2571,Montcalm,11
+2296667,13:16:00,13:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296667,13:17:00,13:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296667,13:17:00,13:17:10,stop_point:SP_1344,Cèdres,14
+2296667,13:18:00,13:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296667,13:19:00,13:19:10,stop_point:SP_3079,Jasmin,16
+2296667,13:19:00,13:19:10,stop_point:SP_1604,Tourterelles,17
+2296667,13:20:00,13:20:10,stop_point:SP_3991,Geai,18
+2296667,13:21:00,13:21:10,stop_point:SP_2586,Pitchounelle,19
+2296667,13:22:00,13:22:10,stop_point:SP_1952,Agout,20
+2296667,13:22:00,13:22:10,stop_point:SP_669,Séoune,21
+2296667,13:23:00,13:23:10,stop_point:SP_701,Condor,22
+2296667,13:24:00,13:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296668,13:35:00,13:35:10,stop_point:SP_2146,Borderouge,1
+2296668,13:37:00,13:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296668,13:38:00,13:38:10,stop_point:SP_503,Ebelot,3
+2296668,13:39:00,13:39:10,stop_point:SP_3044,Netwiller,4
+2296668,13:40:00,13:40:10,stop_point:SP_1303,Atlanta,5
+2296668,13:41:00,13:41:10,stop_point:SP_2827,St-Caprais,6
+2296668,13:42:00,13:42:10,stop_point:SP_2046,Val d'Aran,7
+2296668,13:43:00,13:43:10,stop_point:SP_2135,Bidart,8
+2296668,13:44:00,13:44:10,stop_point:SP_2899,Roncevaux,9
+2296668,13:45:00,13:45:10,stop_point:SP_136,Biarritz,10
+2296668,13:45:00,13:45:10,stop_point:SP_2571,Montcalm,11
+2296668,13:46:00,13:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296668,13:47:00,13:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296668,13:47:00,13:47:10,stop_point:SP_1344,Cèdres,14
+2296668,13:48:00,13:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296668,13:49:00,13:49:10,stop_point:SP_3079,Jasmin,16
+2296668,13:49:00,13:49:10,stop_point:SP_1604,Tourterelles,17
+2296668,13:50:00,13:50:10,stop_point:SP_3991,Geai,18
+2296668,13:51:00,13:51:10,stop_point:SP_2586,Pitchounelle,19
+2296668,13:52:00,13:52:10,stop_point:SP_1952,Agout,20
+2296668,13:52:00,13:52:10,stop_point:SP_669,Séoune,21
+2296668,13:53:00,13:53:10,stop_point:SP_701,Condor,22
+2296668,13:54:00,13:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296669,14:05:00,14:05:10,stop_point:SP_2146,Borderouge,1
+2296669,14:07:00,14:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296669,14:08:00,14:08:10,stop_point:SP_503,Ebelot,3
+2296669,14:09:00,14:09:10,stop_point:SP_3044,Netwiller,4
+2296669,14:10:00,14:10:10,stop_point:SP_1303,Atlanta,5
+2296669,14:11:00,14:11:10,stop_point:SP_2827,St-Caprais,6
+2296669,14:12:00,14:12:10,stop_point:SP_2046,Val d'Aran,7
+2296669,14:13:00,14:13:10,stop_point:SP_2135,Bidart,8
+2296669,14:14:00,14:14:10,stop_point:SP_2899,Roncevaux,9
+2296669,14:15:00,14:15:10,stop_point:SP_136,Biarritz,10
+2296669,14:15:00,14:15:10,stop_point:SP_2571,Montcalm,11
+2296669,14:16:00,14:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296669,14:17:00,14:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296669,14:17:00,14:17:10,stop_point:SP_1344,Cèdres,14
+2296669,14:18:00,14:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296669,14:19:00,14:19:10,stop_point:SP_3079,Jasmin,16
+2296669,14:19:00,14:19:10,stop_point:SP_1604,Tourterelles,17
+2296669,14:20:00,14:20:10,stop_point:SP_3991,Geai,18
+2296669,14:21:00,14:21:10,stop_point:SP_2586,Pitchounelle,19
+2296669,14:22:00,14:22:10,stop_point:SP_1952,Agout,20
+2296669,14:22:00,14:22:10,stop_point:SP_669,Séoune,21
+2296669,14:23:00,14:23:10,stop_point:SP_701,Condor,22
+2296669,14:24:00,14:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296670,14:35:00,14:35:10,stop_point:SP_2146,Borderouge,1
+2296670,14:37:00,14:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296670,14:38:00,14:38:10,stop_point:SP_503,Ebelot,3
+2296670,14:39:00,14:39:10,stop_point:SP_3044,Netwiller,4
+2296670,14:40:00,14:40:10,stop_point:SP_1303,Atlanta,5
+2296670,14:41:00,14:41:10,stop_point:SP_2827,St-Caprais,6
+2296670,14:42:00,14:42:10,stop_point:SP_2046,Val d'Aran,7
+2296670,14:43:00,14:43:10,stop_point:SP_2135,Bidart,8
+2296670,14:44:00,14:44:10,stop_point:SP_2899,Roncevaux,9
+2296670,14:45:00,14:45:10,stop_point:SP_136,Biarritz,10
+2296670,14:45:00,14:45:10,stop_point:SP_2571,Montcalm,11
+2296670,14:46:00,14:46:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296670,14:47:00,14:47:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296670,14:47:00,14:47:10,stop_point:SP_1344,Cèdres,14
+2296670,14:48:00,14:48:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296670,14:49:00,14:49:10,stop_point:SP_3079,Jasmin,16
+2296670,14:49:00,14:49:10,stop_point:SP_1604,Tourterelles,17
+2296670,14:50:00,14:50:10,stop_point:SP_3991,Geai,18
+2296670,14:51:00,14:51:10,stop_point:SP_2586,Pitchounelle,19
+2296670,14:52:00,14:52:10,stop_point:SP_1952,Agout,20
+2296670,14:52:00,14:52:10,stop_point:SP_669,Séoune,21
+2296670,14:53:00,14:53:10,stop_point:SP_701,Condor,22
+2296670,14:54:00,14:54:10,stop_point:SP_1580,L'Union Malbou,23
+2296671,15:05:00,15:05:10,stop_point:SP_2146,Borderouge,1
+2296671,15:07:00,15:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296671,15:08:00,15:08:10,stop_point:SP_503,Ebelot,3
+2296671,15:09:00,15:09:10,stop_point:SP_3044,Netwiller,4
+2296671,15:10:00,15:10:10,stop_point:SP_1303,Atlanta,5
+2296671,15:11:00,15:11:10,stop_point:SP_2827,St-Caprais,6
+2296671,15:12:00,15:12:10,stop_point:SP_2046,Val d'Aran,7
+2296671,15:13:00,15:13:10,stop_point:SP_2135,Bidart,8
+2296671,15:14:00,15:14:10,stop_point:SP_2899,Roncevaux,9
+2296671,15:15:00,15:15:10,stop_point:SP_136,Biarritz,10
+2296671,15:15:00,15:15:10,stop_point:SP_2571,Montcalm,11
+2296671,15:16:00,15:16:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296671,15:17:00,15:17:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296671,15:17:00,15:17:10,stop_point:SP_1344,Cèdres,14
+2296671,15:18:00,15:18:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296671,15:19:00,15:19:10,stop_point:SP_3079,Jasmin,16
+2296671,15:19:00,15:19:10,stop_point:SP_1604,Tourterelles,17
+2296671,15:20:00,15:20:10,stop_point:SP_3991,Geai,18
+2296671,15:21:00,15:21:10,stop_point:SP_2586,Pitchounelle,19
+2296671,15:22:00,15:22:10,stop_point:SP_1952,Agout,20
+2296671,15:22:00,15:22:10,stop_point:SP_669,Séoune,21
+2296671,15:23:00,15:23:10,stop_point:SP_701,Condor,22
+2296671,15:24:00,15:24:10,stop_point:SP_1580,L'Union Malbou,23
+2296672,15:35:00,15:35:10,stop_point:SP_2146,Borderouge,1
+2296672,15:37:00,15:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296672,15:38:00,15:38:10,stop_point:SP_503,Ebelot,3
+2296672,15:39:00,15:39:10,stop_point:SP_3044,Netwiller,4
+2296672,15:40:00,15:40:10,stop_point:SP_1303,Atlanta,5
+2296672,15:42:00,15:42:10,stop_point:SP_2827,St-Caprais,6
+2296672,15:43:00,15:43:10,stop_point:SP_2046,Val d'Aran,7
+2296672,15:44:00,15:44:10,stop_point:SP_2135,Bidart,8
+2296672,15:44:00,15:44:10,stop_point:SP_2899,Roncevaux,9
+2296672,15:45:00,15:45:10,stop_point:SP_136,Biarritz,10
+2296672,15:46:00,15:46:10,stop_point:SP_2571,Montcalm,11
+2296672,15:47:00,15:47:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296672,15:48:00,15:48:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296672,15:48:00,15:48:10,stop_point:SP_1344,Cèdres,14
+2296672,15:49:00,15:49:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296672,15:50:00,15:50:10,stop_point:SP_3079,Jasmin,16
+2296672,15:50:00,15:50:10,stop_point:SP_1604,Tourterelles,17
+2296672,15:51:00,15:51:10,stop_point:SP_3991,Geai,18
+2296672,15:52:00,15:52:10,stop_point:SP_2586,Pitchounelle,19
+2296672,15:53:00,15:53:10,stop_point:SP_1952,Agout,20
+2296672,15:53:00,15:53:10,stop_point:SP_669,Séoune,21
+2296672,15:54:00,15:54:10,stop_point:SP_701,Condor,22
+2296672,15:55:00,15:55:10,stop_point:SP_1580,L'Union Malbou,23
+2296673,16:05:00,16:05:10,stop_point:SP_2146,Borderouge,1
+2296673,16:07:00,16:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296673,16:08:00,16:08:10,stop_point:SP_503,Ebelot,3
+2296673,16:09:00,16:09:10,stop_point:SP_3044,Netwiller,4
+2296673,16:10:00,16:10:10,stop_point:SP_1303,Atlanta,5
+2296673,16:12:00,16:12:10,stop_point:SP_2827,St-Caprais,6
+2296673,16:13:00,16:13:10,stop_point:SP_2046,Val d'Aran,7
+2296673,16:14:00,16:14:10,stop_point:SP_2135,Bidart,8
+2296673,16:15:00,16:15:10,stop_point:SP_2899,Roncevaux,9
+2296673,16:16:00,16:16:10,stop_point:SP_136,Biarritz,10
+2296673,16:17:00,16:17:10,stop_point:SP_2571,Montcalm,11
+2296673,16:18:00,16:18:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296673,16:19:00,16:19:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296673,16:20:00,16:20:10,stop_point:SP_1344,Cèdres,14
+2296673,16:21:00,16:21:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296673,16:21:00,16:21:10,stop_point:SP_3079,Jasmin,16
+2296673,16:22:00,16:22:10,stop_point:SP_1604,Tourterelles,17
+2296673,16:23:00,16:23:10,stop_point:SP_3991,Geai,18
+2296673,16:24:00,16:24:10,stop_point:SP_2586,Pitchounelle,19
+2296673,16:24:00,16:24:10,stop_point:SP_1952,Agout,20
+2296673,16:25:00,16:25:10,stop_point:SP_669,Séoune,21
+2296673,16:26:00,16:26:10,stop_point:SP_701,Condor,22
+2296673,16:27:00,16:27:10,stop_point:SP_1580,L'Union Malbou,23
+2296674,16:35:00,16:35:10,stop_point:SP_2146,Borderouge,1
+2296674,16:37:00,16:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296674,16:39:00,16:39:10,stop_point:SP_503,Ebelot,3
+2296674,16:40:00,16:40:10,stop_point:SP_3044,Netwiller,4
+2296674,16:41:00,16:41:10,stop_point:SP_1303,Atlanta,5
+2296674,16:43:00,16:43:10,stop_point:SP_2827,St-Caprais,6
+2296674,16:44:00,16:44:10,stop_point:SP_2046,Val d'Aran,7
+2296674,16:45:00,16:45:10,stop_point:SP_2135,Bidart,8
+2296674,16:46:00,16:46:10,stop_point:SP_2899,Roncevaux,9
+2296674,16:47:00,16:47:10,stop_point:SP_136,Biarritz,10
+2296674,16:48:00,16:48:10,stop_point:SP_2571,Montcalm,11
+2296674,16:49:00,16:49:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296674,16:50:00,16:50:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296674,16:51:00,16:51:10,stop_point:SP_1344,Cèdres,14
+2296674,16:52:00,16:52:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296674,16:52:00,16:52:10,stop_point:SP_3079,Jasmin,16
+2296674,16:53:00,16:53:10,stop_point:SP_1604,Tourterelles,17
+2296674,16:54:00,16:54:10,stop_point:SP_3991,Geai,18
+2296674,16:55:00,16:55:10,stop_point:SP_2586,Pitchounelle,19
+2296674,16:55:00,16:55:10,stop_point:SP_1952,Agout,20
+2296674,16:56:00,16:56:10,stop_point:SP_669,Séoune,21
+2296674,16:57:00,16:57:10,stop_point:SP_701,Condor,22
+2296674,16:58:00,16:58:10,stop_point:SP_1580,L'Union Malbou,23
+2296675,17:05:00,17:05:10,stop_point:SP_2146,Borderouge,1
+2296675,17:07:00,17:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296675,17:09:00,17:09:10,stop_point:SP_503,Ebelot,3
+2296675,17:10:00,17:10:10,stop_point:SP_3044,Netwiller,4
+2296675,17:11:00,17:11:10,stop_point:SP_1303,Atlanta,5
+2296675,17:13:00,17:13:10,stop_point:SP_2827,St-Caprais,6
+2296675,17:14:00,17:14:10,stop_point:SP_2046,Val d'Aran,7
+2296675,17:15:00,17:15:10,stop_point:SP_2135,Bidart,8
+2296675,17:16:00,17:16:10,stop_point:SP_2899,Roncevaux,9
+2296675,17:17:00,17:17:10,stop_point:SP_136,Biarritz,10
+2296675,17:18:00,17:18:10,stop_point:SP_2571,Montcalm,11
+2296675,17:19:00,17:19:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296675,17:20:00,17:20:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296675,17:21:00,17:21:10,stop_point:SP_1344,Cèdres,14
+2296675,17:22:00,17:22:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296675,17:22:00,17:22:10,stop_point:SP_3079,Jasmin,16
+2296675,17:23:00,17:23:10,stop_point:SP_1604,Tourterelles,17
+2296675,17:24:00,17:24:10,stop_point:SP_3991,Geai,18
+2296675,17:25:00,17:25:10,stop_point:SP_2586,Pitchounelle,19
+2296675,17:25:00,17:25:10,stop_point:SP_1952,Agout,20
+2296675,17:26:00,17:26:10,stop_point:SP_669,Séoune,21
+2296675,17:27:00,17:27:10,stop_point:SP_701,Condor,22
+2296675,17:28:00,17:28:10,stop_point:SP_1580,L'Union Malbou,23
+2296676,17:35:00,17:35:10,stop_point:SP_2146,Borderouge,1
+2296676,17:37:00,17:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296676,17:39:00,17:39:10,stop_point:SP_503,Ebelot,3
+2296676,17:40:00,17:40:10,stop_point:SP_3044,Netwiller,4
+2296676,17:41:00,17:41:10,stop_point:SP_1303,Atlanta,5
+2296676,17:43:00,17:43:10,stop_point:SP_2827,St-Caprais,6
+2296676,17:44:00,17:44:10,stop_point:SP_2046,Val d'Aran,7
+2296676,17:45:00,17:45:10,stop_point:SP_2135,Bidart,8
+2296676,17:46:00,17:46:10,stop_point:SP_2899,Roncevaux,9
+2296676,17:47:00,17:47:10,stop_point:SP_136,Biarritz,10
+2296676,17:48:00,17:48:10,stop_point:SP_2571,Montcalm,11
+2296676,17:49:00,17:49:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296676,17:50:00,17:50:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296676,17:51:00,17:51:10,stop_point:SP_1344,Cèdres,14
+2296676,17:52:00,17:52:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296676,17:52:00,17:52:10,stop_point:SP_3079,Jasmin,16
+2296676,17:53:00,17:53:10,stop_point:SP_1604,Tourterelles,17
+2296676,17:54:00,17:54:10,stop_point:SP_3991,Geai,18
+2296676,17:55:00,17:55:10,stop_point:SP_2586,Pitchounelle,19
+2296676,17:55:00,17:55:10,stop_point:SP_1952,Agout,20
+2296676,17:56:00,17:56:10,stop_point:SP_669,Séoune,21
+2296676,17:57:00,17:57:10,stop_point:SP_701,Condor,22
+2296676,17:58:00,17:58:10,stop_point:SP_1580,L'Union Malbou,23
+2296677,18:05:00,18:05:10,stop_point:SP_2146,Borderouge,1
+2296677,18:07:00,18:07:10,stop_point:SP_140,Ch. de Borderouge,2
+2296677,18:09:00,18:09:10,stop_point:SP_503,Ebelot,3
+2296677,18:10:00,18:10:10,stop_point:SP_3044,Netwiller,4
+2296677,18:11:00,18:11:10,stop_point:SP_1303,Atlanta,5
+2296677,18:13:00,18:13:10,stop_point:SP_2827,St-Caprais,6
+2296677,18:14:00,18:14:10,stop_point:SP_2046,Val d'Aran,7
+2296677,18:15:00,18:15:10,stop_point:SP_2135,Bidart,8
+2296677,18:16:00,18:16:10,stop_point:SP_2899,Roncevaux,9
+2296677,18:17:00,18:17:10,stop_point:SP_136,Biarritz,10
+2296677,18:18:00,18:18:10,stop_point:SP_2571,Montcalm,11
+2296677,18:19:00,18:19:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296677,18:20:00,18:20:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296677,18:20:00,18:20:10,stop_point:SP_1344,Cèdres,14
+2296677,18:21:00,18:21:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296677,18:22:00,18:22:10,stop_point:SP_3079,Jasmin,16
+2296677,18:22:00,18:22:10,stop_point:SP_1604,Tourterelles,17
+2296677,18:23:00,18:23:10,stop_point:SP_3991,Geai,18
+2296677,18:24:00,18:24:10,stop_point:SP_2586,Pitchounelle,19
+2296677,18:25:00,18:25:10,stop_point:SP_1952,Agout,20
+2296677,18:25:00,18:25:10,stop_point:SP_669,Séoune,21
+2296677,18:26:00,18:26:10,stop_point:SP_701,Condor,22
+2296677,18:27:00,18:27:10,stop_point:SP_1580,L'Union Malbou,23
+2296678,18:35:00,18:35:10,stop_point:SP_2146,Borderouge,1
+2296678,18:37:00,18:37:10,stop_point:SP_140,Ch. de Borderouge,2
+2296678,18:38:00,18:38:10,stop_point:SP_503,Ebelot,3
+2296678,18:39:00,18:39:10,stop_point:SP_3044,Netwiller,4
+2296678,18:40:00,18:40:10,stop_point:SP_1303,Atlanta,5
+2296678,18:42:00,18:42:10,stop_point:SP_2827,St-Caprais,6
+2296678,18:43:00,18:43:10,stop_point:SP_2046,Val d'Aran,7
+2296678,18:44:00,18:44:10,stop_point:SP_2135,Bidart,8
+2296678,18:45:00,18:45:10,stop_point:SP_2899,Roncevaux,9
+2296678,18:46:00,18:46:10,stop_point:SP_136,Biarritz,10
+2296678,18:47:00,18:47:10,stop_point:SP_2571,Montcalm,11
+2296678,18:48:00,18:48:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296678,18:49:00,18:49:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296678,18:49:00,18:49:10,stop_point:SP_1344,Cèdres,14
+2296678,18:50:00,18:50:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296678,18:51:00,18:51:10,stop_point:SP_3079,Jasmin,16
+2296678,18:51:00,18:51:10,stop_point:SP_1604,Tourterelles,17
+2296678,18:52:00,18:52:10,stop_point:SP_3991,Geai,18
+2296678,18:53:00,18:53:10,stop_point:SP_2586,Pitchounelle,19
+2296678,18:54:00,18:54:10,stop_point:SP_1952,Agout,20
+2296678,18:54:00,18:54:10,stop_point:SP_669,Séoune,21
+2296678,18:55:00,18:55:10,stop_point:SP_701,Condor,22
+2296678,18:56:00,18:56:10,stop_point:SP_1580,L'Union Malbou,23
+2296679,19:10:00,19:10:10,stop_point:SP_2146,Borderouge,1
+2296679,19:12:00,19:12:10,stop_point:SP_140,Ch. de Borderouge,2
+2296679,19:13:00,19:13:10,stop_point:SP_503,Ebelot,3
+2296679,19:14:00,19:14:10,stop_point:SP_3044,Netwiller,4
+2296679,19:15:00,19:15:10,stop_point:SP_1303,Atlanta,5
+2296679,19:16:00,19:16:10,stop_point:SP_2827,St-Caprais,6
+2296679,19:17:00,19:17:10,stop_point:SP_2046,Val d'Aran,7
+2296679,19:18:00,19:18:10,stop_point:SP_2135,Bidart,8
+2296679,19:19:00,19:19:10,stop_point:SP_2899,Roncevaux,9
+2296679,19:20:00,19:20:10,stop_point:SP_136,Biarritz,10
+2296679,19:20:00,19:20:10,stop_point:SP_2571,Montcalm,11
+2296679,19:21:00,19:21:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296679,19:22:00,19:22:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296679,19:22:00,19:22:10,stop_point:SP_1344,Cèdres,14
+2296679,19:23:00,19:23:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296679,19:24:00,19:24:10,stop_point:SP_3079,Jasmin,16
+2296679,19:24:00,19:24:10,stop_point:SP_1604,Tourterelles,17
+2296679,19:25:00,19:25:10,stop_point:SP_3991,Geai,18
+2296679,19:26:00,19:26:10,stop_point:SP_2586,Pitchounelle,19
+2296679,19:27:00,19:27:10,stop_point:SP_1952,Agout,20
+2296679,19:27:00,19:27:10,stop_point:SP_669,Séoune,21
+2296679,19:28:00,19:28:10,stop_point:SP_701,Condor,22
+2296679,19:29:00,19:29:10,stop_point:SP_1580,L'Union Malbou,23
+2296680,19:45:00,19:45:10,stop_point:SP_2146,Borderouge,1
+2296680,19:46:00,19:46:10,stop_point:SP_140,Ch. de Borderouge,2
+2296680,19:48:00,19:48:10,stop_point:SP_503,Ebelot,3
+2296680,19:48:00,19:48:10,stop_point:SP_3044,Netwiller,4
+2296680,19:49:00,19:49:10,stop_point:SP_1303,Atlanta,5
+2296680,19:50:00,19:50:10,stop_point:SP_2827,St-Caprais,6
+2296680,19:51:00,19:51:10,stop_point:SP_2046,Val d'Aran,7
+2296680,19:52:00,19:52:10,stop_point:SP_2135,Bidart,8
+2296680,19:52:00,19:52:10,stop_point:SP_2899,Roncevaux,9
+2296680,19:53:00,19:53:10,stop_point:SP_136,Biarritz,10
+2296680,19:53:00,19:53:10,stop_point:SP_2571,Montcalm,11
+2296680,19:54:00,19:54:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296680,19:55:00,19:55:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296680,19:55:00,19:55:10,stop_point:SP_1344,Cèdres,14
+2296680,19:56:00,19:56:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296680,19:57:00,19:57:10,stop_point:SP_3079,Jasmin,16
+2296680,19:57:00,19:57:10,stop_point:SP_1604,Tourterelles,17
+2296680,19:58:00,19:58:10,stop_point:SP_3991,Geai,18
+2296680,19:59:00,19:59:10,stop_point:SP_2586,Pitchounelle,19
+2296680,20:00:00,20:00:10,stop_point:SP_1952,Agout,20
+2296680,20:00:00,20:00:10,stop_point:SP_669,Séoune,21
+2296680,20:01:00,20:01:10,stop_point:SP_701,Condor,22
+2296680,20:02:00,20:02:10,stop_point:SP_1580,L'Union Malbou,23
+2296681,20:24:00,20:24:10,stop_point:SP_2146,Borderouge,1
+2296681,20:25:00,20:25:10,stop_point:SP_140,Ch. de Borderouge,2
+2296681,20:27:00,20:27:10,stop_point:SP_503,Ebelot,3
+2296681,20:27:00,20:27:10,stop_point:SP_3044,Netwiller,4
+2296681,20:28:00,20:28:10,stop_point:SP_1303,Atlanta,5
+2296681,20:29:00,20:29:10,stop_point:SP_2827,St-Caprais,6
+2296681,20:30:00,20:30:10,stop_point:SP_2046,Val d'Aran,7
+2296681,20:31:00,20:31:10,stop_point:SP_2135,Bidart,8
+2296681,20:31:00,20:31:10,stop_point:SP_2899,Roncevaux,9
+2296681,20:32:00,20:32:10,stop_point:SP_136,Biarritz,10
+2296681,20:32:00,20:32:10,stop_point:SP_2571,Montcalm,11
+2296681,20:33:00,20:33:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296681,20:34:00,20:34:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296681,20:34:00,20:34:10,stop_point:SP_1344,Cèdres,14
+2296681,20:35:00,20:35:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296681,20:36:00,20:36:10,stop_point:SP_3079,Jasmin,16
+2296681,20:36:00,20:36:10,stop_point:SP_1604,Tourterelles,17
+2296681,20:37:00,20:37:10,stop_point:SP_3991,Geai,18
+2296681,20:38:00,20:38:10,stop_point:SP_2586,Pitchounelle,19
+2296681,20:39:00,20:39:10,stop_point:SP_1952,Agout,20
+2296681,20:39:00,20:39:10,stop_point:SP_669,Séoune,21
+2296681,20:40:00,20:40:10,stop_point:SP_701,Condor,22
+2296681,20:41:00,20:41:10,stop_point:SP_1580,L'Union Malbou,23
+2296682,21:00:00,21:00:10,stop_point:SP_2146,Borderouge,1
+2296682,21:01:00,21:01:10,stop_point:SP_140,Ch. de Borderouge,2
+2296682,21:03:00,21:03:10,stop_point:SP_503,Ebelot,3
+2296682,21:03:00,21:03:10,stop_point:SP_3044,Netwiller,4
+2296682,21:04:00,21:04:10,stop_point:SP_1303,Atlanta,5
+2296682,21:05:00,21:05:10,stop_point:SP_2827,St-Caprais,6
+2296682,21:06:00,21:06:10,stop_point:SP_2046,Val d'Aran,7
+2296682,21:07:00,21:07:10,stop_point:SP_2135,Bidart,8
+2296682,21:07:00,21:07:10,stop_point:SP_2899,Roncevaux,9
+2296682,21:08:00,21:08:10,stop_point:SP_136,Biarritz,10
+2296682,21:08:00,21:08:10,stop_point:SP_2571,Montcalm,11
+2296682,21:09:00,21:09:10,stop_point:SP_2810,L'Union Grande Halle,12
+2296682,21:10:00,21:10:10,stop_point:SP_1998,Ctre Cial L'Union,13
+2296682,21:10:00,21:10:10,stop_point:SP_1344,Cèdres,14
+2296682,21:11:00,21:11:10,stop_point:SP_2474,Côte de Cornaudric,15
+2296682,21:12:00,21:12:10,stop_point:SP_3079,Jasmin,16
+2296682,21:12:00,21:12:10,stop_point:SP_1604,Tourterelles,17
+2296682,21:13:00,21:13:10,stop_point:SP_3991,Geai,18
+2296682,21:14:00,21:14:10,stop_point:SP_2586,Pitchounelle,19
+2296682,21:15:00,21:15:10,stop_point:SP_1952,Agout,20
+2296682,21:15:00,21:15:10,stop_point:SP_669,Séoune,21
+2296682,21:16:00,21:16:10,stop_point:SP_701,Condor,22
+2296682,21:17:00,21:17:10,stop_point:SP_1580,L'Union Malbou,23
+2296683,06:00:00,06:00:10,stop_point:SP_1580,L'Union Malbou,1
+2296683,06:01:00,06:01:10,stop_point:SP_2696,Condor,2
+2296683,06:01:00,06:01:10,stop_point:SP_1134,Séoune,3
+2296683,06:02:00,06:02:10,stop_point:SP_2238,Agout,4
+2296683,06:02:00,06:02:10,stop_point:SP_289,Pitchounelle,5
+2296683,06:03:00,06:03:10,stop_point:SP_1916,Geai,6
+2296683,06:04:00,06:04:10,stop_point:SP_2351,Tourterelles,7
+2296683,06:04:00,06:04:10,stop_point:SP_1390,Jasmin,8
+2296683,06:05:00,06:05:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296683,06:06:00,06:06:10,stop_point:SP_893,Cèdres,10
+2296683,06:07:00,06:07:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296683,06:07:00,06:07:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296683,06:08:00,06:08:10,stop_point:SP_1320,Montcalm,13
+2296683,06:08:00,06:08:10,stop_point:SP_3887,Biarritz,14
+2296683,06:09:00,06:09:10,stop_point:SP_589,Roncevaux,15
+2296683,06:10:00,06:10:10,stop_point:SP_2907,Bidart,16
+2296683,06:10:00,06:10:10,stop_point:SP_2751,Val d'Aran,17
+2296683,06:11:00,06:11:10,stop_point:SP_2732,Bayonne,18
+2296683,06:12:00,06:12:10,stop_point:SP_4789,St-Caprais,19
+2296683,06:13:00,06:13:10,stop_point:SP_1296,Atlanta,20
+2296683,06:14:00,06:14:10,stop_point:SP_2611,Netwiller,21
+2296683,06:15:00,06:15:10,stop_point:SP_991,Ebelot,22
+2296683,06:16:00,06:16:10,stop_point:SP_980,Ch. de Borderouge,23
+2296683,06:18:00,06:18:10,stop_point:SP_2146,Borderouge,24
+2296684,06:35:00,06:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296684,06:36:00,06:36:10,stop_point:SP_2696,Condor,2
+2296684,06:36:00,06:36:10,stop_point:SP_1134,Séoune,3
+2296684,06:37:00,06:37:10,stop_point:SP_2238,Agout,4
+2296684,06:37:00,06:37:10,stop_point:SP_289,Pitchounelle,5
+2296684,06:38:00,06:38:10,stop_point:SP_1916,Geai,6
+2296684,06:39:00,06:39:10,stop_point:SP_2351,Tourterelles,7
+2296684,06:39:00,06:39:10,stop_point:SP_1390,Jasmin,8
+2296684,06:40:00,06:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296684,06:41:00,06:41:10,stop_point:SP_893,Cèdres,10
+2296684,06:42:00,06:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296684,06:42:00,06:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296684,06:43:00,06:43:10,stop_point:SP_1320,Montcalm,13
+2296684,06:43:00,06:43:10,stop_point:SP_3887,Biarritz,14
+2296684,06:44:00,06:44:10,stop_point:SP_589,Roncevaux,15
+2296684,06:45:00,06:45:10,stop_point:SP_2907,Bidart,16
+2296684,06:45:00,06:45:10,stop_point:SP_2751,Val d'Aran,17
+2296684,06:46:00,06:46:10,stop_point:SP_2732,Bayonne,18
+2296684,06:47:00,06:47:10,stop_point:SP_4789,St-Caprais,19
+2296684,06:48:00,06:48:10,stop_point:SP_1296,Atlanta,20
+2296684,06:49:00,06:49:10,stop_point:SP_2611,Netwiller,21
+2296684,06:50:00,06:50:10,stop_point:SP_991,Ebelot,22
+2296684,06:51:00,06:51:10,stop_point:SP_980,Ch. de Borderouge,23
+2296684,06:53:00,06:53:10,stop_point:SP_2146,Borderouge,24
+2296685,07:05:00,07:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296685,07:06:00,07:06:10,stop_point:SP_2696,Condor,2
+2296685,07:07:00,07:07:10,stop_point:SP_1134,Séoune,3
+2296685,07:08:00,07:08:10,stop_point:SP_2238,Agout,4
+2296685,07:08:00,07:08:10,stop_point:SP_289,Pitchounelle,5
+2296685,07:09:00,07:09:10,stop_point:SP_1916,Geai,6
+2296685,07:11:00,07:11:10,stop_point:SP_2351,Tourterelles,7
+2296685,07:11:00,07:11:10,stop_point:SP_1390,Jasmin,8
+2296685,07:12:00,07:12:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296685,07:13:00,07:13:10,stop_point:SP_893,Cèdres,10
+2296685,07:15:00,07:15:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296685,07:15:00,07:15:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296685,07:16:00,07:16:10,stop_point:SP_1320,Montcalm,13
+2296685,07:17:00,07:17:10,stop_point:SP_3887,Biarritz,14
+2296685,07:18:00,07:18:10,stop_point:SP_589,Roncevaux,15
+2296685,07:19:00,07:19:10,stop_point:SP_2907,Bidart,16
+2296685,07:20:00,07:20:10,stop_point:SP_2751,Val d'Aran,17
+2296685,07:21:00,07:21:10,stop_point:SP_2732,Bayonne,18
+2296685,07:22:00,07:22:10,stop_point:SP_4789,St-Caprais,19
+2296685,07:24:00,07:24:10,stop_point:SP_1296,Atlanta,20
+2296685,07:25:00,07:25:10,stop_point:SP_2611,Netwiller,21
+2296685,07:26:00,07:26:10,stop_point:SP_991,Ebelot,22
+2296685,07:27:00,07:27:10,stop_point:SP_980,Ch. de Borderouge,23
+2296685,07:29:00,07:29:10,stop_point:SP_2146,Borderouge,24
+2296686,07:35:00,07:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296686,07:36:00,07:36:10,stop_point:SP_2696,Condor,2
+2296686,07:37:00,07:37:10,stop_point:SP_1134,Séoune,3
+2296686,07:37:00,07:37:10,stop_point:SP_2238,Agout,4
+2296686,07:38:00,07:38:10,stop_point:SP_289,Pitchounelle,5
+2296686,07:39:00,07:39:10,stop_point:SP_1916,Geai,6
+2296686,07:40:00,07:40:10,stop_point:SP_2351,Tourterelles,7
+2296686,07:41:00,07:41:10,stop_point:SP_1390,Jasmin,8
+2296686,07:41:00,07:41:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296686,07:42:00,07:42:10,stop_point:SP_893,Cèdres,10
+2296686,07:44:00,07:44:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296686,07:44:00,07:44:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296686,07:46:00,07:46:10,stop_point:SP_1320,Montcalm,13
+2296686,07:47:00,07:47:10,stop_point:SP_3887,Biarritz,14
+2296686,07:49:00,07:49:10,stop_point:SP_589,Roncevaux,15
+2296686,07:50:00,07:50:10,stop_point:SP_2907,Bidart,16
+2296686,07:51:00,07:51:10,stop_point:SP_2751,Val d'Aran,17
+2296686,07:53:00,07:53:10,stop_point:SP_2732,Bayonne,18
+2296686,07:54:00,07:54:10,stop_point:SP_4789,St-Caprais,19
+2296686,07:57:00,07:57:10,stop_point:SP_1296,Atlanta,20
+2296686,07:58:00,07:58:10,stop_point:SP_2611,Netwiller,21
+2296686,08:00:00,08:00:10,stop_point:SP_991,Ebelot,22
+2296686,08:01:00,08:01:10,stop_point:SP_980,Ch. de Borderouge,23
+2296686,08:03:00,08:03:10,stop_point:SP_2146,Borderouge,24
+2296687,08:05:00,08:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296687,08:06:00,08:06:10,stop_point:SP_2696,Condor,2
+2296687,08:07:00,08:07:10,stop_point:SP_1134,Séoune,3
+2296687,08:07:00,08:07:10,stop_point:SP_2238,Agout,4
+2296687,08:08:00,08:08:10,stop_point:SP_289,Pitchounelle,5
+2296687,08:09:00,08:09:10,stop_point:SP_1916,Geai,6
+2296687,08:10:00,08:10:10,stop_point:SP_2351,Tourterelles,7
+2296687,08:11:00,08:11:10,stop_point:SP_1390,Jasmin,8
+2296687,08:11:00,08:11:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296687,08:12:00,08:12:10,stop_point:SP_893,Cèdres,10
+2296687,08:14:00,08:14:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296687,08:14:00,08:14:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296687,08:16:00,08:16:10,stop_point:SP_1320,Montcalm,13
+2296687,08:18:00,08:18:10,stop_point:SP_3887,Biarritz,14
+2296687,08:19:00,08:19:10,stop_point:SP_589,Roncevaux,15
+2296687,08:21:00,08:21:10,stop_point:SP_2907,Bidart,16
+2296687,08:22:00,08:22:10,stop_point:SP_2751,Val d'Aran,17
+2296687,08:24:00,08:24:10,stop_point:SP_2732,Bayonne,18
+2296687,08:25:00,08:25:10,stop_point:SP_4789,St-Caprais,19
+2296687,08:28:00,08:28:10,stop_point:SP_1296,Atlanta,20
+2296687,08:29:00,08:29:10,stop_point:SP_2611,Netwiller,21
+2296687,08:31:00,08:31:10,stop_point:SP_991,Ebelot,22
+2296687,08:32:00,08:32:10,stop_point:SP_980,Ch. de Borderouge,23
+2296687,08:34:00,08:34:10,stop_point:SP_2146,Borderouge,24
+2296688,08:35:00,08:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296688,08:36:00,08:36:10,stop_point:SP_2696,Condor,2
+2296688,08:37:00,08:37:10,stop_point:SP_1134,Séoune,3
+2296688,08:37:00,08:37:10,stop_point:SP_2238,Agout,4
+2296688,08:38:00,08:38:10,stop_point:SP_289,Pitchounelle,5
+2296688,08:39:00,08:39:10,stop_point:SP_1916,Geai,6
+2296688,08:40:00,08:40:10,stop_point:SP_2351,Tourterelles,7
+2296688,08:41:00,08:41:10,stop_point:SP_1390,Jasmin,8
+2296688,08:41:00,08:41:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296688,08:42:00,08:42:10,stop_point:SP_893,Cèdres,10
+2296688,08:44:00,08:44:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296688,08:44:00,08:44:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296688,08:45:00,08:45:10,stop_point:SP_1320,Montcalm,13
+2296688,08:46:00,08:46:10,stop_point:SP_3887,Biarritz,14
+2296688,08:47:00,08:47:10,stop_point:SP_589,Roncevaux,15
+2296688,08:48:00,08:48:10,stop_point:SP_2907,Bidart,16
+2296688,08:49:00,08:49:10,stop_point:SP_2751,Val d'Aran,17
+2296688,08:50:00,08:50:10,stop_point:SP_2732,Bayonne,18
+2296688,08:51:00,08:51:10,stop_point:SP_4789,St-Caprais,19
+2296688,08:54:00,08:54:10,stop_point:SP_1296,Atlanta,20
+2296688,08:55:00,08:55:10,stop_point:SP_2611,Netwiller,21
+2296688,08:56:00,08:56:10,stop_point:SP_991,Ebelot,22
+2296688,08:57:00,08:57:10,stop_point:SP_980,Ch. de Borderouge,23
+2296688,08:59:00,08:59:10,stop_point:SP_2146,Borderouge,24
+2296689,09:05:00,09:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296689,09:06:00,09:06:10,stop_point:SP_2696,Condor,2
+2296689,09:06:00,09:06:10,stop_point:SP_1134,Séoune,3
+2296689,09:07:00,09:07:10,stop_point:SP_2238,Agout,4
+2296689,09:07:00,09:07:10,stop_point:SP_289,Pitchounelle,5
+2296689,09:08:00,09:08:10,stop_point:SP_1916,Geai,6
+2296689,09:09:00,09:09:10,stop_point:SP_2351,Tourterelles,7
+2296689,09:09:00,09:09:10,stop_point:SP_1390,Jasmin,8
+2296689,09:10:00,09:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296689,09:11:00,09:11:10,stop_point:SP_893,Cèdres,10
+2296689,09:12:00,09:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296689,09:12:00,09:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296689,09:13:00,09:13:10,stop_point:SP_1320,Montcalm,13
+2296689,09:14:00,09:14:10,stop_point:SP_3887,Biarritz,14
+2296689,09:15:00,09:15:10,stop_point:SP_589,Roncevaux,15
+2296689,09:16:00,09:16:10,stop_point:SP_2907,Bidart,16
+2296689,09:17:00,09:17:10,stop_point:SP_2751,Val d'Aran,17
+2296689,09:18:00,09:18:10,stop_point:SP_2732,Bayonne,18
+2296689,09:19:00,09:19:10,stop_point:SP_4789,St-Caprais,19
+2296689,09:21:00,09:21:10,stop_point:SP_1296,Atlanta,20
+2296689,09:22:00,09:22:10,stop_point:SP_2611,Netwiller,21
+2296689,09:23:00,09:23:10,stop_point:SP_991,Ebelot,22
+2296689,09:24:00,09:24:10,stop_point:SP_980,Ch. de Borderouge,23
+2296689,09:26:00,09:26:10,stop_point:SP_2146,Borderouge,24
+2296690,09:35:00,09:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296690,09:36:00,09:36:10,stop_point:SP_2696,Condor,2
+2296690,09:36:00,09:36:10,stop_point:SP_1134,Séoune,3
+2296690,09:37:00,09:37:10,stop_point:SP_2238,Agout,4
+2296690,09:37:00,09:37:10,stop_point:SP_289,Pitchounelle,5
+2296690,09:38:00,09:38:10,stop_point:SP_1916,Geai,6
+2296690,09:39:00,09:39:10,stop_point:SP_2351,Tourterelles,7
+2296690,09:39:00,09:39:10,stop_point:SP_1390,Jasmin,8
+2296690,09:40:00,09:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296690,09:41:00,09:41:10,stop_point:SP_893,Cèdres,10
+2296690,09:42:00,09:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296690,09:42:00,09:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296690,09:43:00,09:43:10,stop_point:SP_1320,Montcalm,13
+2296690,09:44:00,09:44:10,stop_point:SP_3887,Biarritz,14
+2296690,09:45:00,09:45:10,stop_point:SP_589,Roncevaux,15
+2296690,09:45:00,09:45:10,stop_point:SP_2907,Bidart,16
+2296690,09:46:00,09:46:10,stop_point:SP_2751,Val d'Aran,17
+2296690,09:47:00,09:47:10,stop_point:SP_2732,Bayonne,18
+2296690,09:48:00,09:48:10,stop_point:SP_4789,St-Caprais,19
+2296690,09:50:00,09:50:10,stop_point:SP_1296,Atlanta,20
+2296690,09:51:00,09:51:10,stop_point:SP_2611,Netwiller,21
+2296690,09:52:00,09:52:10,stop_point:SP_991,Ebelot,22
+2296690,09:53:00,09:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296690,09:55:00,09:55:10,stop_point:SP_2146,Borderouge,24
+2296691,10:05:00,10:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296691,10:06:00,10:06:10,stop_point:SP_2696,Condor,2
+2296691,10:06:00,10:06:10,stop_point:SP_1134,Séoune,3
+2296691,10:07:00,10:07:10,stop_point:SP_2238,Agout,4
+2296691,10:07:00,10:07:10,stop_point:SP_289,Pitchounelle,5
+2296691,10:08:00,10:08:10,stop_point:SP_1916,Geai,6
+2296691,10:09:00,10:09:10,stop_point:SP_2351,Tourterelles,7
+2296691,10:09:00,10:09:10,stop_point:SP_1390,Jasmin,8
+2296691,10:10:00,10:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296691,10:11:00,10:11:10,stop_point:SP_893,Cèdres,10
+2296691,10:12:00,10:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296691,10:12:00,10:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296691,10:13:00,10:13:10,stop_point:SP_1320,Montcalm,13
+2296691,10:14:00,10:14:10,stop_point:SP_3887,Biarritz,14
+2296691,10:15:00,10:15:10,stop_point:SP_589,Roncevaux,15
+2296691,10:15:00,10:15:10,stop_point:SP_2907,Bidart,16
+2296691,10:16:00,10:16:10,stop_point:SP_2751,Val d'Aran,17
+2296691,10:17:00,10:17:10,stop_point:SP_2732,Bayonne,18
+2296691,10:18:00,10:18:10,stop_point:SP_4789,St-Caprais,19
+2296691,10:20:00,10:20:10,stop_point:SP_1296,Atlanta,20
+2296691,10:21:00,10:21:10,stop_point:SP_2611,Netwiller,21
+2296691,10:22:00,10:22:10,stop_point:SP_991,Ebelot,22
+2296691,10:23:00,10:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296691,10:25:00,10:25:10,stop_point:SP_2146,Borderouge,24
+2296692,10:35:00,10:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296692,10:36:00,10:36:10,stop_point:SP_2696,Condor,2
+2296692,10:36:00,10:36:10,stop_point:SP_1134,Séoune,3
+2296692,10:37:00,10:37:10,stop_point:SP_2238,Agout,4
+2296692,10:37:00,10:37:10,stop_point:SP_289,Pitchounelle,5
+2296692,10:38:00,10:38:10,stop_point:SP_1916,Geai,6
+2296692,10:39:00,10:39:10,stop_point:SP_2351,Tourterelles,7
+2296692,10:39:00,10:39:10,stop_point:SP_1390,Jasmin,8
+2296692,10:40:00,10:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296692,10:41:00,10:41:10,stop_point:SP_893,Cèdres,10
+2296692,10:42:00,10:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296692,10:42:00,10:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296692,10:43:00,10:43:10,stop_point:SP_1320,Montcalm,13
+2296692,10:44:00,10:44:10,stop_point:SP_3887,Biarritz,14
+2296692,10:45:00,10:45:10,stop_point:SP_589,Roncevaux,15
+2296692,10:45:00,10:45:10,stop_point:SP_2907,Bidart,16
+2296692,10:46:00,10:46:10,stop_point:SP_2751,Val d'Aran,17
+2296692,10:47:00,10:47:10,stop_point:SP_2732,Bayonne,18
+2296692,10:48:00,10:48:10,stop_point:SP_4789,St-Caprais,19
+2296692,10:50:00,10:50:10,stop_point:SP_1296,Atlanta,20
+2296692,10:51:00,10:51:10,stop_point:SP_2611,Netwiller,21
+2296692,10:52:00,10:52:10,stop_point:SP_991,Ebelot,22
+2296692,10:53:00,10:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296692,10:55:00,10:55:10,stop_point:SP_2146,Borderouge,24
+2296693,11:05:00,11:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296693,11:06:00,11:06:10,stop_point:SP_2696,Condor,2
+2296693,11:06:00,11:06:10,stop_point:SP_1134,Séoune,3
+2296693,11:07:00,11:07:10,stop_point:SP_2238,Agout,4
+2296693,11:07:00,11:07:10,stop_point:SP_289,Pitchounelle,5
+2296693,11:08:00,11:08:10,stop_point:SP_1916,Geai,6
+2296693,11:09:00,11:09:10,stop_point:SP_2351,Tourterelles,7
+2296693,11:09:00,11:09:10,stop_point:SP_1390,Jasmin,8
+2296693,11:10:00,11:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296693,11:11:00,11:11:10,stop_point:SP_893,Cèdres,10
+2296693,11:12:00,11:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296693,11:12:00,11:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296693,11:13:00,11:13:10,stop_point:SP_1320,Montcalm,13
+2296693,11:14:00,11:14:10,stop_point:SP_3887,Biarritz,14
+2296693,11:15:00,11:15:10,stop_point:SP_589,Roncevaux,15
+2296693,11:15:00,11:15:10,stop_point:SP_2907,Bidart,16
+2296693,11:16:00,11:16:10,stop_point:SP_2751,Val d'Aran,17
+2296693,11:17:00,11:17:10,stop_point:SP_2732,Bayonne,18
+2296693,11:18:00,11:18:10,stop_point:SP_4789,St-Caprais,19
+2296693,11:20:00,11:20:10,stop_point:SP_1296,Atlanta,20
+2296693,11:21:00,11:21:10,stop_point:SP_2611,Netwiller,21
+2296693,11:22:00,11:22:10,stop_point:SP_991,Ebelot,22
+2296693,11:23:00,11:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296693,11:25:00,11:25:10,stop_point:SP_2146,Borderouge,24
+2296694,11:35:00,11:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296694,11:36:00,11:36:10,stop_point:SP_2696,Condor,2
+2296694,11:36:00,11:36:10,stop_point:SP_1134,Séoune,3
+2296694,11:37:00,11:37:10,stop_point:SP_2238,Agout,4
+2296694,11:37:00,11:37:10,stop_point:SP_289,Pitchounelle,5
+2296694,11:38:00,11:38:10,stop_point:SP_1916,Geai,6
+2296694,11:39:00,11:39:10,stop_point:SP_2351,Tourterelles,7
+2296694,11:39:00,11:39:10,stop_point:SP_1390,Jasmin,8
+2296694,11:40:00,11:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296694,11:41:00,11:41:10,stop_point:SP_893,Cèdres,10
+2296694,11:42:00,11:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296694,11:42:00,11:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296694,11:43:00,11:43:10,stop_point:SP_1320,Montcalm,13
+2296694,11:44:00,11:44:10,stop_point:SP_3887,Biarritz,14
+2296694,11:45:00,11:45:10,stop_point:SP_589,Roncevaux,15
+2296694,11:45:00,11:45:10,stop_point:SP_2907,Bidart,16
+2296694,11:46:00,11:46:10,stop_point:SP_2751,Val d'Aran,17
+2296694,11:47:00,11:47:10,stop_point:SP_2732,Bayonne,18
+2296694,11:48:00,11:48:10,stop_point:SP_4789,St-Caprais,19
+2296694,11:50:00,11:50:10,stop_point:SP_1296,Atlanta,20
+2296694,11:51:00,11:51:10,stop_point:SP_2611,Netwiller,21
+2296694,11:52:00,11:52:10,stop_point:SP_991,Ebelot,22
+2296694,11:53:00,11:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296694,11:55:00,11:55:10,stop_point:SP_2146,Borderouge,24
+2296695,12:05:00,12:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296695,12:06:00,12:06:10,stop_point:SP_2696,Condor,2
+2296695,12:06:00,12:06:10,stop_point:SP_1134,Séoune,3
+2296695,12:07:00,12:07:10,stop_point:SP_2238,Agout,4
+2296695,12:07:00,12:07:10,stop_point:SP_289,Pitchounelle,5
+2296695,12:08:00,12:08:10,stop_point:SP_1916,Geai,6
+2296695,12:09:00,12:09:10,stop_point:SP_2351,Tourterelles,7
+2296695,12:09:00,12:09:10,stop_point:SP_1390,Jasmin,8
+2296695,12:10:00,12:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296695,12:11:00,12:11:10,stop_point:SP_893,Cèdres,10
+2296695,12:12:00,12:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296695,12:12:00,12:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296695,12:13:00,12:13:10,stop_point:SP_1320,Montcalm,13
+2296695,12:14:00,12:14:10,stop_point:SP_3887,Biarritz,14
+2296695,12:15:00,12:15:10,stop_point:SP_589,Roncevaux,15
+2296695,12:15:00,12:15:10,stop_point:SP_2907,Bidart,16
+2296695,12:16:00,12:16:10,stop_point:SP_2751,Val d'Aran,17
+2296695,12:17:00,12:17:10,stop_point:SP_2732,Bayonne,18
+2296695,12:18:00,12:18:10,stop_point:SP_4789,St-Caprais,19
+2296695,12:20:00,12:20:10,stop_point:SP_1296,Atlanta,20
+2296695,12:21:00,12:21:10,stop_point:SP_2611,Netwiller,21
+2296695,12:22:00,12:22:10,stop_point:SP_991,Ebelot,22
+2296695,12:23:00,12:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296695,12:25:00,12:25:10,stop_point:SP_2146,Borderouge,24
+2296696,12:35:00,12:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296696,12:36:00,12:36:10,stop_point:SP_2696,Condor,2
+2296696,12:36:00,12:36:10,stop_point:SP_1134,Séoune,3
+2296696,12:37:00,12:37:10,stop_point:SP_2238,Agout,4
+2296696,12:37:00,12:37:10,stop_point:SP_289,Pitchounelle,5
+2296696,12:38:00,12:38:10,stop_point:SP_1916,Geai,6
+2296696,12:39:00,12:39:10,stop_point:SP_2351,Tourterelles,7
+2296696,12:39:00,12:39:10,stop_point:SP_1390,Jasmin,8
+2296696,12:40:00,12:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296696,12:41:00,12:41:10,stop_point:SP_893,Cèdres,10
+2296696,12:42:00,12:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296696,12:42:00,12:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296696,12:43:00,12:43:10,stop_point:SP_1320,Montcalm,13
+2296696,12:44:00,12:44:10,stop_point:SP_3887,Biarritz,14
+2296696,12:45:00,12:45:10,stop_point:SP_589,Roncevaux,15
+2296696,12:45:00,12:45:10,stop_point:SP_2907,Bidart,16
+2296696,12:46:00,12:46:10,stop_point:SP_2751,Val d'Aran,17
+2296696,12:47:00,12:47:10,stop_point:SP_2732,Bayonne,18
+2296696,12:48:00,12:48:10,stop_point:SP_4789,St-Caprais,19
+2296696,12:50:00,12:50:10,stop_point:SP_1296,Atlanta,20
+2296696,12:51:00,12:51:10,stop_point:SP_2611,Netwiller,21
+2296696,12:52:00,12:52:10,stop_point:SP_991,Ebelot,22
+2296696,12:53:00,12:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296696,12:55:00,12:55:10,stop_point:SP_2146,Borderouge,24
+2296697,13:05:00,13:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296697,13:06:00,13:06:10,stop_point:SP_2696,Condor,2
+2296697,13:06:00,13:06:10,stop_point:SP_1134,Séoune,3
+2296697,13:07:00,13:07:10,stop_point:SP_2238,Agout,4
+2296697,13:07:00,13:07:10,stop_point:SP_289,Pitchounelle,5
+2296697,13:08:00,13:08:10,stop_point:SP_1916,Geai,6
+2296697,13:09:00,13:09:10,stop_point:SP_2351,Tourterelles,7
+2296697,13:09:00,13:09:10,stop_point:SP_1390,Jasmin,8
+2296697,13:10:00,13:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296697,13:11:00,13:11:10,stop_point:SP_893,Cèdres,10
+2296697,13:12:00,13:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296697,13:12:00,13:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296697,13:13:00,13:13:10,stop_point:SP_1320,Montcalm,13
+2296697,13:14:00,13:14:10,stop_point:SP_3887,Biarritz,14
+2296697,13:15:00,13:15:10,stop_point:SP_589,Roncevaux,15
+2296697,13:15:00,13:15:10,stop_point:SP_2907,Bidart,16
+2296697,13:16:00,13:16:10,stop_point:SP_2751,Val d'Aran,17
+2296697,13:17:00,13:17:10,stop_point:SP_2732,Bayonne,18
+2296697,13:18:00,13:18:10,stop_point:SP_4789,St-Caprais,19
+2296697,13:20:00,13:20:10,stop_point:SP_1296,Atlanta,20
+2296697,13:21:00,13:21:10,stop_point:SP_2611,Netwiller,21
+2296697,13:22:00,13:22:10,stop_point:SP_991,Ebelot,22
+2296697,13:23:00,13:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296697,13:25:00,13:25:10,stop_point:SP_2146,Borderouge,24
+2296698,13:35:00,13:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296698,13:36:00,13:36:10,stop_point:SP_2696,Condor,2
+2296698,13:36:00,13:36:10,stop_point:SP_1134,Séoune,3
+2296698,13:37:00,13:37:10,stop_point:SP_2238,Agout,4
+2296698,13:37:00,13:37:10,stop_point:SP_289,Pitchounelle,5
+2296698,13:38:00,13:38:10,stop_point:SP_1916,Geai,6
+2296698,13:39:00,13:39:10,stop_point:SP_2351,Tourterelles,7
+2296698,13:39:00,13:39:10,stop_point:SP_1390,Jasmin,8
+2296698,13:40:00,13:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296698,13:41:00,13:41:10,stop_point:SP_893,Cèdres,10
+2296698,13:42:00,13:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296698,13:42:00,13:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296698,13:43:00,13:43:10,stop_point:SP_1320,Montcalm,13
+2296698,13:44:00,13:44:10,stop_point:SP_3887,Biarritz,14
+2296698,13:45:00,13:45:10,stop_point:SP_589,Roncevaux,15
+2296698,13:45:00,13:45:10,stop_point:SP_2907,Bidart,16
+2296698,13:46:00,13:46:10,stop_point:SP_2751,Val d'Aran,17
+2296698,13:47:00,13:47:10,stop_point:SP_2732,Bayonne,18
+2296698,13:48:00,13:48:10,stop_point:SP_4789,St-Caprais,19
+2296698,13:50:00,13:50:10,stop_point:SP_1296,Atlanta,20
+2296698,13:51:00,13:51:10,stop_point:SP_2611,Netwiller,21
+2296698,13:52:00,13:52:10,stop_point:SP_991,Ebelot,22
+2296698,13:53:00,13:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296698,13:55:00,13:55:10,stop_point:SP_2146,Borderouge,24
+2296699,14:05:00,14:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296699,14:06:00,14:06:10,stop_point:SP_2696,Condor,2
+2296699,14:06:00,14:06:10,stop_point:SP_1134,Séoune,3
+2296699,14:07:00,14:07:10,stop_point:SP_2238,Agout,4
+2296699,14:07:00,14:07:10,stop_point:SP_289,Pitchounelle,5
+2296699,14:08:00,14:08:10,stop_point:SP_1916,Geai,6
+2296699,14:09:00,14:09:10,stop_point:SP_2351,Tourterelles,7
+2296699,14:09:00,14:09:10,stop_point:SP_1390,Jasmin,8
+2296699,14:10:00,14:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296699,14:11:00,14:11:10,stop_point:SP_893,Cèdres,10
+2296699,14:12:00,14:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296699,14:12:00,14:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296699,14:13:00,14:13:10,stop_point:SP_1320,Montcalm,13
+2296699,14:14:00,14:14:10,stop_point:SP_3887,Biarritz,14
+2296699,14:15:00,14:15:10,stop_point:SP_589,Roncevaux,15
+2296699,14:15:00,14:15:10,stop_point:SP_2907,Bidart,16
+2296699,14:16:00,14:16:10,stop_point:SP_2751,Val d'Aran,17
+2296699,14:17:00,14:17:10,stop_point:SP_2732,Bayonne,18
+2296699,14:18:00,14:18:10,stop_point:SP_4789,St-Caprais,19
+2296699,14:20:00,14:20:10,stop_point:SP_1296,Atlanta,20
+2296699,14:21:00,14:21:10,stop_point:SP_2611,Netwiller,21
+2296699,14:22:00,14:22:10,stop_point:SP_991,Ebelot,22
+2296699,14:23:00,14:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296699,14:25:00,14:25:10,stop_point:SP_2146,Borderouge,24
+2296700,14:35:00,14:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296700,14:36:00,14:36:10,stop_point:SP_2696,Condor,2
+2296700,14:36:00,14:36:10,stop_point:SP_1134,Séoune,3
+2296700,14:37:00,14:37:10,stop_point:SP_2238,Agout,4
+2296700,14:37:00,14:37:10,stop_point:SP_289,Pitchounelle,5
+2296700,14:38:00,14:38:10,stop_point:SP_1916,Geai,6
+2296700,14:39:00,14:39:10,stop_point:SP_2351,Tourterelles,7
+2296700,14:39:00,14:39:10,stop_point:SP_1390,Jasmin,8
+2296700,14:40:00,14:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296700,14:41:00,14:41:10,stop_point:SP_893,Cèdres,10
+2296700,14:42:00,14:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296700,14:42:00,14:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296700,14:43:00,14:43:10,stop_point:SP_1320,Montcalm,13
+2296700,14:44:00,14:44:10,stop_point:SP_3887,Biarritz,14
+2296700,14:45:00,14:45:10,stop_point:SP_589,Roncevaux,15
+2296700,14:45:00,14:45:10,stop_point:SP_2907,Bidart,16
+2296700,14:46:00,14:46:10,stop_point:SP_2751,Val d'Aran,17
+2296700,14:47:00,14:47:10,stop_point:SP_2732,Bayonne,18
+2296700,14:48:00,14:48:10,stop_point:SP_4789,St-Caprais,19
+2296700,14:50:00,14:50:10,stop_point:SP_1296,Atlanta,20
+2296700,14:51:00,14:51:10,stop_point:SP_2611,Netwiller,21
+2296700,14:52:00,14:52:10,stop_point:SP_991,Ebelot,22
+2296700,14:53:00,14:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296700,14:55:00,14:55:10,stop_point:SP_2146,Borderouge,24
+2296701,15:05:00,15:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296701,15:06:00,15:06:10,stop_point:SP_2696,Condor,2
+2296701,15:06:00,15:06:10,stop_point:SP_1134,Séoune,3
+2296701,15:07:00,15:07:10,stop_point:SP_2238,Agout,4
+2296701,15:07:00,15:07:10,stop_point:SP_289,Pitchounelle,5
+2296701,15:08:00,15:08:10,stop_point:SP_1916,Geai,6
+2296701,15:09:00,15:09:10,stop_point:SP_2351,Tourterelles,7
+2296701,15:09:00,15:09:10,stop_point:SP_1390,Jasmin,8
+2296701,15:10:00,15:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296701,15:11:00,15:11:10,stop_point:SP_893,Cèdres,10
+2296701,15:12:00,15:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296701,15:12:00,15:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296701,15:13:00,15:13:10,stop_point:SP_1320,Montcalm,13
+2296701,15:14:00,15:14:10,stop_point:SP_3887,Biarritz,14
+2296701,15:15:00,15:15:10,stop_point:SP_589,Roncevaux,15
+2296701,15:15:00,15:15:10,stop_point:SP_2907,Bidart,16
+2296701,15:16:00,15:16:10,stop_point:SP_2751,Val d'Aran,17
+2296701,15:17:00,15:17:10,stop_point:SP_2732,Bayonne,18
+2296701,15:18:00,15:18:10,stop_point:SP_4789,St-Caprais,19
+2296701,15:20:00,15:20:10,stop_point:SP_1296,Atlanta,20
+2296701,15:21:00,15:21:10,stop_point:SP_2611,Netwiller,21
+2296701,15:22:00,15:22:10,stop_point:SP_991,Ebelot,22
+2296701,15:23:00,15:23:10,stop_point:SP_980,Ch. de Borderouge,23
+2296701,15:25:00,15:25:10,stop_point:SP_2146,Borderouge,24
+2296702,15:35:00,15:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296702,15:36:00,15:36:10,stop_point:SP_2696,Condor,2
+2296702,15:36:00,15:36:10,stop_point:SP_1134,Séoune,3
+2296702,15:37:00,15:37:10,stop_point:SP_2238,Agout,4
+2296702,15:37:00,15:37:10,stop_point:SP_289,Pitchounelle,5
+2296702,15:38:00,15:38:10,stop_point:SP_1916,Geai,6
+2296702,15:39:00,15:39:10,stop_point:SP_2351,Tourterelles,7
+2296702,15:39:00,15:39:10,stop_point:SP_1390,Jasmin,8
+2296702,15:40:00,15:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296702,15:41:00,15:41:10,stop_point:SP_893,Cèdres,10
+2296702,15:42:00,15:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296702,15:42:00,15:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296702,15:43:00,15:43:10,stop_point:SP_1320,Montcalm,13
+2296702,15:44:00,15:44:10,stop_point:SP_3887,Biarritz,14
+2296702,15:45:00,15:45:10,stop_point:SP_589,Roncevaux,15
+2296702,15:45:00,15:45:10,stop_point:SP_2907,Bidart,16
+2296702,15:46:00,15:46:10,stop_point:SP_2751,Val d'Aran,17
+2296702,15:47:00,15:47:10,stop_point:SP_2732,Bayonne,18
+2296702,15:48:00,15:48:10,stop_point:SP_4789,St-Caprais,19
+2296702,15:50:00,15:50:10,stop_point:SP_1296,Atlanta,20
+2296702,15:51:00,15:51:10,stop_point:SP_2611,Netwiller,21
+2296702,15:52:00,15:52:10,stop_point:SP_991,Ebelot,22
+2296702,15:53:00,15:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296702,15:55:00,15:55:10,stop_point:SP_2146,Borderouge,24
+2296703,16:05:00,16:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296703,16:06:00,16:06:10,stop_point:SP_2696,Condor,2
+2296703,16:06:00,16:06:10,stop_point:SP_1134,Séoune,3
+2296703,16:07:00,16:07:10,stop_point:SP_2238,Agout,4
+2296703,16:07:00,16:07:10,stop_point:SP_289,Pitchounelle,5
+2296703,16:08:00,16:08:10,stop_point:SP_1916,Geai,6
+2296703,16:09:00,16:09:10,stop_point:SP_2351,Tourterelles,7
+2296703,16:09:00,16:09:10,stop_point:SP_1390,Jasmin,8
+2296703,16:10:00,16:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296703,16:11:00,16:11:10,stop_point:SP_893,Cèdres,10
+2296703,16:12:00,16:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296703,16:12:00,16:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296703,16:13:00,16:13:10,stop_point:SP_1320,Montcalm,13
+2296703,16:14:00,16:14:10,stop_point:SP_3887,Biarritz,14
+2296703,16:15:00,16:15:10,stop_point:SP_589,Roncevaux,15
+2296703,16:16:00,16:16:10,stop_point:SP_2907,Bidart,16
+2296703,16:17:00,16:17:10,stop_point:SP_2751,Val d'Aran,17
+2296703,16:18:00,16:18:10,stop_point:SP_2732,Bayonne,18
+2296703,16:19:00,16:19:10,stop_point:SP_4789,St-Caprais,19
+2296703,16:22:00,16:22:10,stop_point:SP_1296,Atlanta,20
+2296703,16:23:00,16:23:10,stop_point:SP_2611,Netwiller,21
+2296703,16:24:00,16:24:10,stop_point:SP_991,Ebelot,22
+2296703,16:25:00,16:25:10,stop_point:SP_980,Ch. de Borderouge,23
+2296703,16:27:00,16:27:10,stop_point:SP_2146,Borderouge,24
+2296704,16:35:00,16:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296704,16:36:00,16:36:10,stop_point:SP_2696,Condor,2
+2296704,16:36:00,16:36:10,stop_point:SP_1134,Séoune,3
+2296704,16:37:00,16:37:10,stop_point:SP_2238,Agout,4
+2296704,16:37:00,16:37:10,stop_point:SP_289,Pitchounelle,5
+2296704,16:38:00,16:38:10,stop_point:SP_1916,Geai,6
+2296704,16:39:00,16:39:10,stop_point:SP_2351,Tourterelles,7
+2296704,16:39:00,16:39:10,stop_point:SP_1390,Jasmin,8
+2296704,16:40:00,16:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296704,16:41:00,16:41:10,stop_point:SP_893,Cèdres,10
+2296704,16:42:00,16:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296704,16:42:00,16:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296704,16:43:00,16:43:10,stop_point:SP_1320,Montcalm,13
+2296704,16:44:00,16:44:10,stop_point:SP_3887,Biarritz,14
+2296704,16:45:00,16:45:10,stop_point:SP_589,Roncevaux,15
+2296704,16:46:00,16:46:10,stop_point:SP_2907,Bidart,16
+2296704,16:47:00,16:47:10,stop_point:SP_2751,Val d'Aran,17
+2296704,16:48:00,16:48:10,stop_point:SP_2732,Bayonne,18
+2296704,16:49:00,16:49:10,stop_point:SP_4789,St-Caprais,19
+2296704,16:52:00,16:52:10,stop_point:SP_1296,Atlanta,20
+2296704,16:53:00,16:53:10,stop_point:SP_2611,Netwiller,21
+2296704,16:54:00,16:54:10,stop_point:SP_991,Ebelot,22
+2296704,16:55:00,16:55:10,stop_point:SP_980,Ch. de Borderouge,23
+2296704,16:57:00,16:57:10,stop_point:SP_2146,Borderouge,24
+2296705,17:05:00,17:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296705,17:06:00,17:06:10,stop_point:SP_2696,Condor,2
+2296705,17:06:00,17:06:10,stop_point:SP_1134,Séoune,3
+2296705,17:07:00,17:07:10,stop_point:SP_2238,Agout,4
+2296705,17:07:00,17:07:10,stop_point:SP_289,Pitchounelle,5
+2296705,17:08:00,17:08:10,stop_point:SP_1916,Geai,6
+2296705,17:09:00,17:09:10,stop_point:SP_2351,Tourterelles,7
+2296705,17:09:00,17:09:10,stop_point:SP_1390,Jasmin,8
+2296705,17:10:00,17:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296705,17:11:00,17:11:10,stop_point:SP_893,Cèdres,10
+2296705,17:12:00,17:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296705,17:12:00,17:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296705,17:13:00,17:13:10,stop_point:SP_1320,Montcalm,13
+2296705,17:14:00,17:14:10,stop_point:SP_3887,Biarritz,14
+2296705,17:15:00,17:15:10,stop_point:SP_589,Roncevaux,15
+2296705,17:16:00,17:16:10,stop_point:SP_2907,Bidart,16
+2296705,17:17:00,17:17:10,stop_point:SP_2751,Val d'Aran,17
+2296705,17:18:00,17:18:10,stop_point:SP_2732,Bayonne,18
+2296705,17:19:00,17:19:10,stop_point:SP_4789,St-Caprais,19
+2296705,17:22:00,17:22:10,stop_point:SP_1296,Atlanta,20
+2296705,17:23:00,17:23:10,stop_point:SP_2611,Netwiller,21
+2296705,17:24:00,17:24:10,stop_point:SP_991,Ebelot,22
+2296705,17:25:00,17:25:10,stop_point:SP_980,Ch. de Borderouge,23
+2296705,17:27:00,17:27:10,stop_point:SP_2146,Borderouge,24
+2296706,17:35:00,17:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296706,17:36:00,17:36:10,stop_point:SP_2696,Condor,2
+2296706,17:36:00,17:36:10,stop_point:SP_1134,Séoune,3
+2296706,17:37:00,17:37:10,stop_point:SP_2238,Agout,4
+2296706,17:37:00,17:37:10,stop_point:SP_289,Pitchounelle,5
+2296706,17:38:00,17:38:10,stop_point:SP_1916,Geai,6
+2296706,17:39:00,17:39:10,stop_point:SP_2351,Tourterelles,7
+2296706,17:39:00,17:39:10,stop_point:SP_1390,Jasmin,8
+2296706,17:40:00,17:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296706,17:41:00,17:41:10,stop_point:SP_893,Cèdres,10
+2296706,17:42:00,17:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296706,17:42:00,17:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296706,17:43:00,17:43:10,stop_point:SP_1320,Montcalm,13
+2296706,17:44:00,17:44:10,stop_point:SP_3887,Biarritz,14
+2296706,17:45:00,17:45:10,stop_point:SP_589,Roncevaux,15
+2296706,17:46:00,17:46:10,stop_point:SP_2907,Bidart,16
+2296706,17:47:00,17:47:10,stop_point:SP_2751,Val d'Aran,17
+2296706,17:48:00,17:48:10,stop_point:SP_2732,Bayonne,18
+2296706,17:49:00,17:49:10,stop_point:SP_4789,St-Caprais,19
+2296706,17:52:00,17:52:10,stop_point:SP_1296,Atlanta,20
+2296706,17:53:00,17:53:10,stop_point:SP_2611,Netwiller,21
+2296706,17:54:00,17:54:10,stop_point:SP_991,Ebelot,22
+2296706,17:55:00,17:55:10,stop_point:SP_980,Ch. de Borderouge,23
+2296706,17:57:00,17:57:10,stop_point:SP_2146,Borderouge,24
+2296707,18:05:00,18:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296707,18:06:00,18:06:10,stop_point:SP_2696,Condor,2
+2296707,18:06:00,18:06:10,stop_point:SP_1134,Séoune,3
+2296707,18:07:00,18:07:10,stop_point:SP_2238,Agout,4
+2296707,18:07:00,18:07:10,stop_point:SP_289,Pitchounelle,5
+2296707,18:08:00,18:08:10,stop_point:SP_1916,Geai,6
+2296707,18:09:00,18:09:10,stop_point:SP_2351,Tourterelles,7
+2296707,18:09:00,18:09:10,stop_point:SP_1390,Jasmin,8
+2296707,18:10:00,18:10:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296707,18:11:00,18:11:10,stop_point:SP_893,Cèdres,10
+2296707,18:12:00,18:12:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296707,18:12:00,18:12:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296707,18:13:00,18:13:10,stop_point:SP_1320,Montcalm,13
+2296707,18:14:00,18:14:10,stop_point:SP_3887,Biarritz,14
+2296707,18:15:00,18:15:10,stop_point:SP_589,Roncevaux,15
+2296707,18:15:00,18:15:10,stop_point:SP_2907,Bidart,16
+2296707,18:16:00,18:16:10,stop_point:SP_2751,Val d'Aran,17
+2296707,18:17:00,18:17:10,stop_point:SP_2732,Bayonne,18
+2296707,18:18:00,18:18:10,stop_point:SP_4789,St-Caprais,19
+2296707,18:21:00,18:21:10,stop_point:SP_1296,Atlanta,20
+2296707,18:22:00,18:22:10,stop_point:SP_2611,Netwiller,21
+2296707,18:23:00,18:23:10,stop_point:SP_991,Ebelot,22
+2296707,18:24:00,18:24:10,stop_point:SP_980,Ch. de Borderouge,23
+2296707,18:26:00,18:26:10,stop_point:SP_2146,Borderouge,24
+2296708,18:35:00,18:35:10,stop_point:SP_1580,L'Union Malbou,1
+2296708,18:36:00,18:36:10,stop_point:SP_2696,Condor,2
+2296708,18:36:00,18:36:10,stop_point:SP_1134,Séoune,3
+2296708,18:37:00,18:37:10,stop_point:SP_2238,Agout,4
+2296708,18:37:00,18:37:10,stop_point:SP_289,Pitchounelle,5
+2296708,18:38:00,18:38:10,stop_point:SP_1916,Geai,6
+2296708,18:39:00,18:39:10,stop_point:SP_2351,Tourterelles,7
+2296708,18:39:00,18:39:10,stop_point:SP_1390,Jasmin,8
+2296708,18:40:00,18:40:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296708,18:41:00,18:41:10,stop_point:SP_893,Cèdres,10
+2296708,18:42:00,18:42:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296708,18:42:00,18:42:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296708,18:43:00,18:43:10,stop_point:SP_1320,Montcalm,13
+2296708,18:44:00,18:44:10,stop_point:SP_3887,Biarritz,14
+2296708,18:45:00,18:45:10,stop_point:SP_589,Roncevaux,15
+2296708,18:45:00,18:45:10,stop_point:SP_2907,Bidart,16
+2296708,18:46:00,18:46:10,stop_point:SP_2751,Val d'Aran,17
+2296708,18:47:00,18:47:10,stop_point:SP_2732,Bayonne,18
+2296708,18:48:00,18:48:10,stop_point:SP_4789,St-Caprais,19
+2296708,18:50:00,18:50:10,stop_point:SP_1296,Atlanta,20
+2296708,18:51:00,18:51:10,stop_point:SP_2611,Netwiller,21
+2296708,18:52:00,18:52:10,stop_point:SP_991,Ebelot,22
+2296708,18:53:00,18:53:10,stop_point:SP_980,Ch. de Borderouge,23
+2296708,18:55:00,18:55:10,stop_point:SP_2146,Borderouge,24
+2296709,19:05:00,19:05:10,stop_point:SP_1580,L'Union Malbou,1
+2296709,19:06:00,19:06:10,stop_point:SP_2696,Condor,2
+2296709,19:06:00,19:06:10,stop_point:SP_1134,Séoune,3
+2296709,19:07:00,19:07:10,stop_point:SP_2238,Agout,4
+2296709,19:07:00,19:07:10,stop_point:SP_289,Pitchounelle,5
+2296709,19:08:00,19:08:10,stop_point:SP_1916,Geai,6
+2296709,19:08:00,19:08:10,stop_point:SP_2351,Tourterelles,7
+2296709,19:09:00,19:09:10,stop_point:SP_1390,Jasmin,8
+2296709,19:09:00,19:09:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296709,19:10:00,19:10:10,stop_point:SP_893,Cèdres,10
+2296709,19:11:00,19:11:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296709,19:11:00,19:11:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296709,19:12:00,19:12:10,stop_point:SP_1320,Montcalm,13
+2296709,19:13:00,19:13:10,stop_point:SP_3887,Biarritz,14
+2296709,19:14:00,19:14:10,stop_point:SP_589,Roncevaux,15
+2296709,19:14:00,19:14:10,stop_point:SP_2907,Bidart,16
+2296709,19:15:00,19:15:10,stop_point:SP_2751,Val d'Aran,17
+2296709,19:16:00,19:16:10,stop_point:SP_2732,Bayonne,18
+2296709,19:17:00,19:17:10,stop_point:SP_4789,St-Caprais,19
+2296709,19:18:00,19:18:10,stop_point:SP_1296,Atlanta,20
+2296709,19:19:00,19:19:10,stop_point:SP_2611,Netwiller,21
+2296709,19:20:00,19:20:10,stop_point:SP_991,Ebelot,22
+2296709,19:21:00,19:21:10,stop_point:SP_980,Ch. de Borderouge,23
+2296709,19:23:00,19:23:10,stop_point:SP_2146,Borderouge,24
+2296710,19:38:00,19:38:10,stop_point:SP_1580,L'Union Malbou,1
+2296710,19:39:00,19:39:10,stop_point:SP_2696,Condor,2
+2296710,19:39:00,19:39:10,stop_point:SP_1134,Séoune,3
+2296710,19:40:00,19:40:10,stop_point:SP_2238,Agout,4
+2296710,19:40:00,19:40:10,stop_point:SP_289,Pitchounelle,5
+2296710,19:41:00,19:41:10,stop_point:SP_1916,Geai,6
+2296710,19:41:00,19:41:10,stop_point:SP_2351,Tourterelles,7
+2296710,19:42:00,19:42:10,stop_point:SP_1390,Jasmin,8
+2296710,19:42:00,19:42:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296710,19:43:00,19:43:10,stop_point:SP_893,Cèdres,10
+2296710,19:44:00,19:44:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296710,19:44:00,19:44:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296710,19:45:00,19:45:10,stop_point:SP_1320,Montcalm,13
+2296710,19:46:00,19:46:10,stop_point:SP_3887,Biarritz,14
+2296710,19:47:00,19:47:10,stop_point:SP_589,Roncevaux,15
+2296710,19:47:00,19:47:10,stop_point:SP_2907,Bidart,16
+2296710,19:48:00,19:48:10,stop_point:SP_2751,Val d'Aran,17
+2296710,19:49:00,19:49:10,stop_point:SP_2732,Bayonne,18
+2296710,19:50:00,19:50:10,stop_point:SP_4789,St-Caprais,19
+2296710,19:51:00,19:51:10,stop_point:SP_1296,Atlanta,20
+2296710,19:52:00,19:52:10,stop_point:SP_2611,Netwiller,21
+2296710,19:53:00,19:53:10,stop_point:SP_991,Ebelot,22
+2296710,19:54:00,19:54:10,stop_point:SP_980,Ch. de Borderouge,23
+2296710,19:56:00,19:56:10,stop_point:SP_2146,Borderouge,24
+2296711,20:11:00,20:11:10,stop_point:SP_1580,L'Union Malbou,1
+2296711,20:12:00,20:12:10,stop_point:SP_2696,Condor,2
+2296711,20:12:00,20:12:10,stop_point:SP_1134,Séoune,3
+2296711,20:13:00,20:13:10,stop_point:SP_2238,Agout,4
+2296711,20:13:00,20:13:10,stop_point:SP_289,Pitchounelle,5
+2296711,20:14:00,20:14:10,stop_point:SP_1916,Geai,6
+2296711,20:14:00,20:14:10,stop_point:SP_2351,Tourterelles,7
+2296711,20:15:00,20:15:10,stop_point:SP_1390,Jasmin,8
+2296711,20:15:00,20:15:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296711,20:16:00,20:16:10,stop_point:SP_893,Cèdres,10
+2296711,20:17:00,20:17:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296711,20:17:00,20:17:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296711,20:18:00,20:18:10,stop_point:SP_1320,Montcalm,13
+2296711,20:19:00,20:19:10,stop_point:SP_3887,Biarritz,14
+2296711,20:20:00,20:20:10,stop_point:SP_589,Roncevaux,15
+2296711,20:20:00,20:20:10,stop_point:SP_2907,Bidart,16
+2296711,20:21:00,20:21:10,stop_point:SP_2751,Val d'Aran,17
+2296711,20:22:00,20:22:10,stop_point:SP_2732,Bayonne,18
+2296711,20:23:00,20:23:10,stop_point:SP_4789,St-Caprais,19
+2296711,20:24:00,20:24:10,stop_point:SP_1296,Atlanta,20
+2296711,20:25:00,20:25:10,stop_point:SP_2611,Netwiller,21
+2296711,20:26:00,20:26:10,stop_point:SP_991,Ebelot,22
+2296711,20:27:00,20:27:10,stop_point:SP_980,Ch. de Borderouge,23
+2296711,20:29:00,20:29:10,stop_point:SP_2146,Borderouge,24
+2296712,20:45:00,20:45:10,stop_point:SP_1580,L'Union Malbou,1
+2296712,20:46:00,20:46:10,stop_point:SP_2696,Condor,2
+2296712,20:46:00,20:46:10,stop_point:SP_1134,Séoune,3
+2296712,20:47:00,20:47:10,stop_point:SP_2238,Agout,4
+2296712,20:47:00,20:47:10,stop_point:SP_289,Pitchounelle,5
+2296712,20:48:00,20:48:10,stop_point:SP_1916,Geai,6
+2296712,20:48:00,20:48:10,stop_point:SP_2351,Tourterelles,7
+2296712,20:49:00,20:49:10,stop_point:SP_1390,Jasmin,8
+2296712,20:49:00,20:49:10,stop_point:SP_2180,Côte de Cornaudric,9
+2296712,20:50:00,20:50:10,stop_point:SP_893,Cèdres,10
+2296712,20:51:00,20:51:10,stop_point:SP_4792,Ctre Cial L'Union,11
+2296712,20:51:00,20:51:10,stop_point:SP_3965,L'Union Grande Halle,12
+2296712,20:52:00,20:52:10,stop_point:SP_1320,Montcalm,13
+2296712,20:53:00,20:53:10,stop_point:SP_3887,Biarritz,14
+2296712,20:54:00,20:54:10,stop_point:SP_589,Roncevaux,15
+2296712,20:54:00,20:54:10,stop_point:SP_2907,Bidart,16
+2296712,20:55:00,20:55:10,stop_point:SP_2751,Val d'Aran,17
+2296712,20:56:00,20:56:10,stop_point:SP_2732,Bayonne,18
+2296712,20:57:00,20:57:10,stop_point:SP_4789,St-Caprais,19
+2296712,20:58:00,20:58:10,stop_point:SP_1296,Atlanta,20
+2296712,20:59:00,20:59:10,stop_point:SP_2611,Netwiller,21
+2296712,21:00:00,21:00:10,stop_point:SP_991,Ebelot,22
+2296712,21:01:00,21:01:10,stop_point:SP_980,Ch. de Borderouge,23
+2296712,21:03:00,21:03:10,stop_point:SP_2146,Borderouge,24

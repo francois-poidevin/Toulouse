@@ -1,0 +1,481 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2294131,05:45:00,05:45:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294131,05:46:00,05:46:10,stop_point:SP_4427,Portes du Gers,2
+2294131,05:48:00,05:48:10,stop_point:SP_1533,Benech,3
+2294131,05:49:00,05:49:10,stop_point:SP_2565,11 Novembre 1918,4
+2294131,05:50:00,05:50:10,stop_point:SP_4626,Amadio,5
+2294131,05:50:00,05:50:10,stop_point:SP_4904,Complexe Sportif,6
+2294131,05:55:00,05:55:10,stop_point:SP_4614,Chemin Du Bois,7
+2294131,05:56:00,05:56:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294131,06:01:00,06:01:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294131,06:01:00,06:01:10,stop_point:SP_4611,Boulbennes,10
+2294131,06:02:00,06:02:10,stop_point:SP_4625,Couloume,11
+2294131,06:03:00,06:03:10,stop_point:SP_4622,Mounicard,12
+2294131,06:04:00,06:04:10,stop_point:SP_4627,Rabi,13
+2294131,06:04:00,06:04:10,stop_point:SP_5263,Seysses Gay,14
+2294131,06:05:00,06:05:10,stop_point:SP_3662,Marie Curie,15
+2294131,06:06:00,06:06:10,stop_point:SP_2622,ZI La Piche,16
+2294131,06:08:00,06:08:10,stop_point:SP_1153,Centre de Détention,17
+2294131,06:12:00,06:12:10,stop_point:SP_4164,Père Brottier,18
+2294131,06:13:00,06:13:10,stop_point:SP_1419,Charles de Gaulle,19
+2294131,06:14:00,06:14:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294132,06:30:00,06:30:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294132,06:31:00,06:31:10,stop_point:SP_4427,Portes du Gers,2
+2294132,06:33:00,06:33:10,stop_point:SP_1533,Benech,3
+2294132,06:34:00,06:34:10,stop_point:SP_2565,11 Novembre 1918,4
+2294132,06:35:00,06:35:10,stop_point:SP_4626,Amadio,5
+2294132,06:35:00,06:35:10,stop_point:SP_4904,Complexe Sportif,6
+2294132,06:40:00,06:40:10,stop_point:SP_4614,Chemin Du Bois,7
+2294132,06:42:00,06:42:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294132,06:47:00,06:47:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294132,06:48:00,06:48:10,stop_point:SP_4611,Boulbennes,10
+2294132,06:49:00,06:49:10,stop_point:SP_4625,Couloume,11
+2294132,06:50:00,06:50:10,stop_point:SP_4622,Mounicard,12
+2294132,06:51:00,06:51:10,stop_point:SP_4627,Rabi,13
+2294132,06:51:00,06:51:10,stop_point:SP_5263,Seysses Gay,14
+2294132,06:52:00,06:52:10,stop_point:SP_3662,Marie Curie,15
+2294132,06:53:00,06:53:10,stop_point:SP_2622,ZI La Piche,16
+2294132,06:56:00,06:56:10,stop_point:SP_1153,Centre de Détention,17
+2294132,07:00:00,07:00:10,stop_point:SP_4164,Père Brottier,18
+2294132,07:01:00,07:01:10,stop_point:SP_1419,Charles de Gaulle,19
+2294132,07:02:00,07:02:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294133,07:15:00,07:15:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294133,07:16:00,07:16:10,stop_point:SP_4427,Portes du Gers,2
+2294133,07:18:00,07:18:10,stop_point:SP_1533,Benech,3
+2294133,07:19:00,07:19:10,stop_point:SP_2565,11 Novembre 1918,4
+2294133,07:20:00,07:20:10,stop_point:SP_4626,Amadio,5
+2294133,07:20:00,07:20:10,stop_point:SP_4904,Complexe Sportif,6
+2294133,07:25:00,07:25:10,stop_point:SP_4614,Chemin Du Bois,7
+2294133,07:27:00,07:27:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294133,07:32:00,07:32:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294133,07:33:00,07:33:10,stop_point:SP_4611,Boulbennes,10
+2294133,07:34:00,07:34:10,stop_point:SP_4625,Couloume,11
+2294133,07:35:00,07:35:10,stop_point:SP_4622,Mounicard,12
+2294133,07:36:00,07:36:10,stop_point:SP_4627,Rabi,13
+2294133,07:36:00,07:36:10,stop_point:SP_5263,Seysses Gay,14
+2294133,07:37:00,07:37:10,stop_point:SP_3662,Marie Curie,15
+2294133,07:38:00,07:38:10,stop_point:SP_2622,ZI La Piche,16
+2294133,07:41:00,07:41:10,stop_point:SP_1153,Centre de Détention,17
+2294133,07:45:00,07:45:10,stop_point:SP_4164,Père Brottier,18
+2294133,07:46:00,07:46:10,stop_point:SP_1419,Charles de Gaulle,19
+2294133,07:47:00,07:47:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294134,07:53:00,07:53:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294134,07:54:00,07:54:10,stop_point:SP_4427,Portes du Gers,2
+2294134,07:56:00,07:56:10,stop_point:SP_1533,Benech,3
+2294134,07:57:00,07:57:10,stop_point:SP_2565,11 Novembre 1918,4
+2294134,07:58:00,07:58:10,stop_point:SP_4626,Amadio,5
+2294134,07:58:00,07:58:10,stop_point:SP_4904,Complexe Sportif,6
+2294134,08:03:00,08:03:10,stop_point:SP_4614,Chemin Du Bois,7
+2294134,08:05:00,08:05:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294134,08:10:00,08:10:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294134,08:11:00,08:11:10,stop_point:SP_4611,Boulbennes,10
+2294134,08:12:00,08:12:10,stop_point:SP_4625,Couloume,11
+2294134,08:13:00,08:13:10,stop_point:SP_4622,Mounicard,12
+2294134,08:14:00,08:14:10,stop_point:SP_4627,Rabi,13
+2294134,08:14:00,08:14:10,stop_point:SP_5263,Seysses Gay,14
+2294134,08:15:00,08:15:10,stop_point:SP_3662,Marie Curie,15
+2294134,08:16:00,08:16:10,stop_point:SP_2622,ZI La Piche,16
+2294134,08:19:00,08:19:10,stop_point:SP_1153,Centre de Détention,17
+2294134,08:23:00,08:23:10,stop_point:SP_4164,Père Brottier,18
+2294134,08:24:00,08:24:10,stop_point:SP_1419,Charles de Gaulle,19
+2294134,08:25:00,08:25:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294135,08:33:00,08:33:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294135,08:34:00,08:34:10,stop_point:SP_4427,Portes du Gers,2
+2294135,08:36:00,08:36:10,stop_point:SP_1533,Benech,3
+2294135,08:37:00,08:37:10,stop_point:SP_2565,11 Novembre 1918,4
+2294135,08:38:00,08:38:10,stop_point:SP_4626,Amadio,5
+2294135,08:38:00,08:38:10,stop_point:SP_4904,Complexe Sportif,6
+2294135,08:43:00,08:43:10,stop_point:SP_4614,Chemin Du Bois,7
+2294135,08:45:00,08:45:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294135,08:50:00,08:50:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294135,08:51:00,08:51:10,stop_point:SP_4611,Boulbennes,10
+2294135,08:52:00,08:52:10,stop_point:SP_4625,Couloume,11
+2294135,08:53:00,08:53:10,stop_point:SP_4622,Mounicard,12
+2294135,08:54:00,08:54:10,stop_point:SP_4627,Rabi,13
+2294135,08:54:00,08:54:10,stop_point:SP_5263,Seysses Gay,14
+2294135,08:55:00,08:55:10,stop_point:SP_3662,Marie Curie,15
+2294135,08:56:00,08:56:10,stop_point:SP_2622,ZI La Piche,16
+2294135,08:59:00,08:59:10,stop_point:SP_1153,Centre de Détention,17
+2294135,09:03:00,09:03:10,stop_point:SP_4164,Père Brottier,18
+2294135,09:04:00,09:04:10,stop_point:SP_1419,Charles de Gaulle,19
+2294135,09:05:00,09:05:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294136,12:15:00,12:15:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294136,12:16:00,12:16:10,stop_point:SP_4427,Portes du Gers,2
+2294136,12:18:00,12:18:10,stop_point:SP_1533,Benech,3
+2294136,12:19:00,12:19:10,stop_point:SP_2565,11 Novembre 1918,4
+2294136,12:20:00,12:20:10,stop_point:SP_4626,Amadio,5
+2294136,12:20:00,12:20:10,stop_point:SP_4904,Complexe Sportif,6
+2294136,12:25:00,12:25:10,stop_point:SP_4614,Chemin Du Bois,7
+2294136,12:26:00,12:26:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294136,12:31:00,12:31:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294136,12:31:00,12:31:10,stop_point:SP_4611,Boulbennes,10
+2294136,12:32:00,12:32:10,stop_point:SP_4625,Couloume,11
+2294136,12:33:00,12:33:10,stop_point:SP_4622,Mounicard,12
+2294136,12:34:00,12:34:10,stop_point:SP_4627,Rabi,13
+2294136,12:34:00,12:34:10,stop_point:SP_5263,Seysses Gay,14
+2294136,12:35:00,12:35:10,stop_point:SP_3662,Marie Curie,15
+2294136,12:36:00,12:36:10,stop_point:SP_2622,ZI La Piche,16
+2294136,12:38:00,12:38:10,stop_point:SP_1153,Centre de Détention,17
+2294136,12:42:00,12:42:10,stop_point:SP_4164,Père Brottier,18
+2294136,12:43:00,12:43:10,stop_point:SP_1419,Charles de Gaulle,19
+2294136,12:44:00,12:44:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294137,13:55:00,13:55:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294137,13:56:00,13:56:10,stop_point:SP_4427,Portes du Gers,2
+2294137,13:58:00,13:58:10,stop_point:SP_1533,Benech,3
+2294137,13:59:00,13:59:10,stop_point:SP_2565,11 Novembre 1918,4
+2294137,14:00:00,14:00:10,stop_point:SP_4626,Amadio,5
+2294137,14:00:00,14:00:10,stop_point:SP_4904,Complexe Sportif,6
+2294137,14:05:00,14:05:10,stop_point:SP_4614,Chemin Du Bois,7
+2294137,14:07:00,14:07:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294137,14:12:00,14:12:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294137,14:13:00,14:13:10,stop_point:SP_4611,Boulbennes,10
+2294137,14:14:00,14:14:10,stop_point:SP_4625,Couloume,11
+2294137,14:15:00,14:15:10,stop_point:SP_4622,Mounicard,12
+2294137,14:16:00,14:16:10,stop_point:SP_4627,Rabi,13
+2294137,14:16:00,14:16:10,stop_point:SP_5263,Seysses Gay,14
+2294137,14:17:00,14:17:10,stop_point:SP_3662,Marie Curie,15
+2294137,14:18:00,14:18:10,stop_point:SP_2622,ZI La Piche,16
+2294137,14:21:00,14:21:10,stop_point:SP_1153,Centre de Détention,17
+2294137,14:25:00,14:25:10,stop_point:SP_4164,Père Brottier,18
+2294137,14:26:00,14:26:10,stop_point:SP_1419,Charles de Gaulle,19
+2294137,14:27:00,14:27:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294138,17:00:00,17:00:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294138,17:01:00,17:01:10,stop_point:SP_4427,Portes du Gers,2
+2294138,17:03:00,17:03:10,stop_point:SP_1533,Benech,3
+2294138,17:04:00,17:04:10,stop_point:SP_2565,11 Novembre 1918,4
+2294138,17:05:00,17:05:10,stop_point:SP_4626,Amadio,5
+2294138,17:05:00,17:05:10,stop_point:SP_4904,Complexe Sportif,6
+2294138,17:10:00,17:10:10,stop_point:SP_4614,Chemin Du Bois,7
+2294138,17:12:00,17:12:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294138,17:17:00,17:17:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294138,17:18:00,17:18:10,stop_point:SP_4611,Boulbennes,10
+2294138,17:19:00,17:19:10,stop_point:SP_4625,Couloume,11
+2294138,17:20:00,17:20:10,stop_point:SP_4622,Mounicard,12
+2294138,17:21:00,17:21:10,stop_point:SP_4627,Rabi,13
+2294138,17:21:00,17:21:10,stop_point:SP_5263,Seysses Gay,14
+2294138,17:22:00,17:22:10,stop_point:SP_3662,Marie Curie,15
+2294138,17:23:00,17:23:10,stop_point:SP_2622,ZI La Piche,16
+2294138,17:26:00,17:26:10,stop_point:SP_1153,Centre de Détention,17
+2294138,17:30:00,17:30:10,stop_point:SP_4164,Père Brottier,18
+2294138,17:31:00,17:31:10,stop_point:SP_1419,Charles de Gaulle,19
+2294138,17:32:00,17:32:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294139,17:57:00,17:57:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294139,17:58:00,17:58:10,stop_point:SP_4427,Portes du Gers,2
+2294139,18:00:00,18:00:10,stop_point:SP_1533,Benech,3
+2294139,18:01:00,18:01:10,stop_point:SP_2565,11 Novembre 1918,4
+2294139,18:02:00,18:02:10,stop_point:SP_4626,Amadio,5
+2294139,18:02:00,18:02:10,stop_point:SP_4904,Complexe Sportif,6
+2294139,18:07:00,18:07:10,stop_point:SP_4614,Chemin Du Bois,7
+2294139,18:09:00,18:09:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294139,18:14:00,18:14:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294139,18:15:00,18:15:10,stop_point:SP_4611,Boulbennes,10
+2294139,18:16:00,18:16:10,stop_point:SP_4625,Couloume,11
+2294139,18:17:00,18:17:10,stop_point:SP_4622,Mounicard,12
+2294139,18:18:00,18:18:10,stop_point:SP_4627,Rabi,13
+2294139,18:18:00,18:18:10,stop_point:SP_5263,Seysses Gay,14
+2294139,18:19:00,18:19:10,stop_point:SP_3662,Marie Curie,15
+2294139,18:20:00,18:20:10,stop_point:SP_2622,ZI La Piche,16
+2294139,18:23:00,18:23:10,stop_point:SP_1153,Centre de Détention,17
+2294139,18:27:00,18:27:10,stop_point:SP_4164,Père Brottier,18
+2294139,18:28:00,18:28:10,stop_point:SP_1419,Charles de Gaulle,19
+2294139,18:29:00,18:29:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294140,18:20:00,18:20:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294140,18:21:00,18:21:10,stop_point:SP_4427,Portes du Gers,2
+2294140,18:23:00,18:23:10,stop_point:SP_1533,Benech,3
+2294140,18:24:00,18:24:10,stop_point:SP_2565,11 Novembre 1918,4
+2294140,18:25:00,18:25:10,stop_point:SP_4626,Amadio,5
+2294140,18:25:00,18:25:10,stop_point:SP_4904,Complexe Sportif,6
+2294140,18:30:00,18:30:10,stop_point:SP_4614,Chemin Du Bois,7
+2294140,18:32:00,18:32:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294140,18:37:00,18:37:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294140,18:38:00,18:38:10,stop_point:SP_4611,Boulbennes,10
+2294140,18:39:00,18:39:10,stop_point:SP_4625,Couloume,11
+2294140,18:40:00,18:40:10,stop_point:SP_4622,Mounicard,12
+2294140,18:41:00,18:41:10,stop_point:SP_4627,Rabi,13
+2294140,18:41:00,18:41:10,stop_point:SP_5263,Seysses Gay,14
+2294140,18:42:00,18:42:10,stop_point:SP_3662,Marie Curie,15
+2294140,18:43:00,18:43:10,stop_point:SP_2622,ZI La Piche,16
+2294140,18:46:00,18:46:10,stop_point:SP_1153,Centre de Détention,17
+2294140,18:50:00,18:50:10,stop_point:SP_4164,Père Brottier,18
+2294140,18:51:00,18:51:10,stop_point:SP_1419,Charles de Gaulle,19
+2294140,18:52:00,18:52:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294141,19:08:00,19:08:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294141,19:09:00,19:09:10,stop_point:SP_4427,Portes du Gers,2
+2294141,19:11:00,19:11:10,stop_point:SP_1533,Benech,3
+2294141,19:12:00,19:12:10,stop_point:SP_2565,11 Novembre 1918,4
+2294141,19:13:00,19:13:10,stop_point:SP_4626,Amadio,5
+2294141,19:13:00,19:13:10,stop_point:SP_4904,Complexe Sportif,6
+2294141,19:18:00,19:18:10,stop_point:SP_4614,Chemin Du Bois,7
+2294141,19:20:00,19:20:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294141,19:25:00,19:25:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294141,19:25:00,19:25:10,stop_point:SP_4611,Boulbennes,10
+2294141,19:26:00,19:26:10,stop_point:SP_4625,Couloume,11
+2294141,19:27:00,19:27:10,stop_point:SP_4622,Mounicard,12
+2294141,19:28:00,19:28:10,stop_point:SP_4627,Rabi,13
+2294141,19:28:00,19:28:10,stop_point:SP_5263,Seysses Gay,14
+2294141,19:29:00,19:29:10,stop_point:SP_3662,Marie Curie,15
+2294141,19:30:00,19:30:10,stop_point:SP_2622,ZI La Piche,16
+2294141,19:32:00,19:32:10,stop_point:SP_1153,Centre de Détention,17
+2294141,19:36:00,19:36:10,stop_point:SP_4164,Père Brottier,18
+2294141,19:37:00,19:37:10,stop_point:SP_1419,Charles de Gaulle,19
+2294141,19:38:00,19:38:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294142,19:35:00,19:35:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2294142,19:36:00,19:36:10,stop_point:SP_4427,Portes du Gers,2
+2294142,19:38:00,19:38:10,stop_point:SP_1533,Benech,3
+2294142,19:39:00,19:39:10,stop_point:SP_2565,11 Novembre 1918,4
+2294142,19:40:00,19:40:10,stop_point:SP_4626,Amadio,5
+2294142,19:40:00,19:40:10,stop_point:SP_4904,Complexe Sportif,6
+2294142,19:45:00,19:45:10,stop_point:SP_4614,Chemin Du Bois,7
+2294142,19:46:00,19:46:10,stop_point:SP_4616,Chemin Du Raisin,8
+2294142,19:51:00,19:51:10,stop_point:SP_4632,Chemin des Enlucs,9
+2294142,19:51:00,19:51:10,stop_point:SP_4611,Boulbennes,10
+2294142,19:52:00,19:52:10,stop_point:SP_4625,Couloume,11
+2294142,19:53:00,19:53:10,stop_point:SP_4622,Mounicard,12
+2294142,19:54:00,19:54:10,stop_point:SP_4627,Rabi,13
+2294142,19:54:00,19:54:10,stop_point:SP_5263,Seysses Gay,14
+2294142,19:55:00,19:55:10,stop_point:SP_3662,Marie Curie,15
+2294142,19:56:00,19:56:10,stop_point:SP_2622,ZI La Piche,16
+2294142,19:58:00,19:58:10,stop_point:SP_1153,Centre de Détention,17
+2294142,20:02:00,20:02:10,stop_point:SP_4164,Père Brottier,18
+2294142,20:03:00,20:03:10,stop_point:SP_1419,Charles de Gaulle,19
+2294142,20:04:00,20:04:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,20
+2294143,05:55:00,05:55:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294143,05:56:00,05:56:10,stop_point:SP_2119,Charles de Gaulle,2
+2294143,05:57:00,05:57:10,stop_point:SP_4165,Père Brottier,3
+2294143,05:59:00,05:59:10,stop_point:SP_318,Centre de Détention,4
+2294143,06:01:00,06:01:10,stop_point:SP_1695,ZI La Piche,5
+2294143,06:02:00,06:02:10,stop_point:SP_2523,Marie Curie,6
+2294143,06:03:00,06:03:10,stop_point:SP_4444,Seysses Gay,7
+2294143,06:03:00,06:03:10,stop_point:SP_4620,Rabi,8
+2294143,06:04:00,06:04:10,stop_point:SP_4624,Mounicard,9
+2294143,06:04:00,06:04:10,stop_point:SP_4631,Couloume,10
+2294143,06:05:00,06:05:10,stop_point:SP_4618,Boulbennes,11
+2294143,06:06:00,06:06:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294143,06:10:00,06:10:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294143,06:12:00,06:12:10,stop_point:SP_4619,Chemin Du Bois,14
+2294143,06:17:00,06:17:10,stop_point:SP_4905,Complexe Sportif,15
+2294143,06:17:00,06:17:10,stop_point:SP_4629,Amadio,16
+2294143,06:19:00,06:19:10,stop_point:SP_3429,11 Novembre 1918,17
+2294143,06:19:00,06:19:10,stop_point:SP_3950,Benech,18
+2294143,06:22:00,06:22:10,stop_point:SP_4434,Portes du Gers,19
+2294143,06:23:00,06:23:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294144,06:35:00,06:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294144,06:36:00,06:36:10,stop_point:SP_2119,Charles de Gaulle,2
+2294144,06:37:00,06:37:10,stop_point:SP_4165,Père Brottier,3
+2294144,06:39:00,06:39:10,stop_point:SP_318,Centre de Détention,4
+2294144,06:41:00,06:41:10,stop_point:SP_1695,ZI La Piche,5
+2294144,06:42:00,06:42:10,stop_point:SP_2523,Marie Curie,6
+2294144,06:43:00,06:43:10,stop_point:SP_4444,Seysses Gay,7
+2294144,06:43:00,06:43:10,stop_point:SP_4620,Rabi,8
+2294144,06:44:00,06:44:10,stop_point:SP_4624,Mounicard,9
+2294144,06:44:00,06:44:10,stop_point:SP_4631,Couloume,10
+2294144,06:45:00,06:45:10,stop_point:SP_4618,Boulbennes,11
+2294144,06:46:00,06:46:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294144,06:50:00,06:50:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294144,06:52:00,06:52:10,stop_point:SP_4619,Chemin Du Bois,14
+2294144,06:57:00,06:57:10,stop_point:SP_4905,Complexe Sportif,15
+2294144,06:57:00,06:57:10,stop_point:SP_4629,Amadio,16
+2294144,06:59:00,06:59:10,stop_point:SP_3429,11 Novembre 1918,17
+2294144,06:59:00,06:59:10,stop_point:SP_3950,Benech,18
+2294144,07:02:00,07:02:10,stop_point:SP_4434,Portes du Gers,19
+2294144,07:03:00,07:03:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294145,07:10:00,07:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294145,07:11:00,07:11:10,stop_point:SP_2119,Charles de Gaulle,2
+2294145,07:12:00,07:12:10,stop_point:SP_4165,Père Brottier,3
+2294145,07:14:00,07:14:10,stop_point:SP_318,Centre de Détention,4
+2294145,07:16:00,07:16:10,stop_point:SP_1695,ZI La Piche,5
+2294145,07:17:00,07:17:10,stop_point:SP_2523,Marie Curie,6
+2294145,07:18:00,07:18:10,stop_point:SP_4444,Seysses Gay,7
+2294145,07:18:00,07:18:10,stop_point:SP_4620,Rabi,8
+2294145,07:19:00,07:19:10,stop_point:SP_4624,Mounicard,9
+2294145,07:20:00,07:20:10,stop_point:SP_4631,Couloume,10
+2294145,07:21:00,07:21:10,stop_point:SP_4618,Boulbennes,11
+2294145,07:21:00,07:21:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294145,07:26:00,07:26:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294145,07:28:00,07:28:10,stop_point:SP_4619,Chemin Du Bois,14
+2294145,07:33:00,07:33:10,stop_point:SP_4905,Complexe Sportif,15
+2294145,07:34:00,07:34:10,stop_point:SP_4629,Amadio,16
+2294145,07:35:00,07:35:10,stop_point:SP_3429,11 Novembre 1918,17
+2294145,07:36:00,07:36:10,stop_point:SP_3950,Benech,18
+2294145,07:39:00,07:39:10,stop_point:SP_4434,Portes du Gers,19
+2294145,07:40:00,07:40:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294146,07:55:00,07:55:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294146,07:56:00,07:56:10,stop_point:SP_2119,Charles de Gaulle,2
+2294146,07:57:00,07:57:10,stop_point:SP_4165,Père Brottier,3
+2294146,08:00:00,08:00:10,stop_point:SP_318,Centre de Détention,4
+2294146,08:02:00,08:02:10,stop_point:SP_1695,ZI La Piche,5
+2294146,08:03:00,08:03:10,stop_point:SP_2523,Marie Curie,6
+2294146,08:04:00,08:04:10,stop_point:SP_4444,Seysses Gay,7
+2294146,08:04:00,08:04:10,stop_point:SP_4620,Rabi,8
+2294146,08:05:00,08:05:10,stop_point:SP_4624,Mounicard,9
+2294146,08:06:00,08:06:10,stop_point:SP_4631,Couloume,10
+2294146,08:07:00,08:07:10,stop_point:SP_4618,Boulbennes,11
+2294146,08:07:00,08:07:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294146,08:12:00,08:12:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294146,08:14:00,08:14:10,stop_point:SP_4619,Chemin Du Bois,14
+2294146,08:19:00,08:19:10,stop_point:SP_4905,Complexe Sportif,15
+2294146,08:20:00,08:20:10,stop_point:SP_4629,Amadio,16
+2294146,08:21:00,08:21:10,stop_point:SP_3429,11 Novembre 1918,17
+2294146,08:22:00,08:22:10,stop_point:SP_3950,Benech,18
+2294146,08:25:00,08:25:10,stop_point:SP_4434,Portes du Gers,19
+2294146,08:26:00,08:26:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294147,12:55:00,12:55:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294147,12:56:00,12:56:10,stop_point:SP_2119,Charles de Gaulle,2
+2294147,12:57:00,12:57:10,stop_point:SP_4165,Père Brottier,3
+2294147,13:00:00,13:00:10,stop_point:SP_318,Centre de Détention,4
+2294147,13:02:00,13:02:10,stop_point:SP_1695,ZI La Piche,5
+2294147,13:03:00,13:03:10,stop_point:SP_2523,Marie Curie,6
+2294147,13:04:00,13:04:10,stop_point:SP_4444,Seysses Gay,7
+2294147,13:04:00,13:04:10,stop_point:SP_4620,Rabi,8
+2294147,13:05:00,13:05:10,stop_point:SP_4624,Mounicard,9
+2294147,13:06:00,13:06:10,stop_point:SP_4631,Couloume,10
+2294147,13:07:00,13:07:10,stop_point:SP_4618,Boulbennes,11
+2294147,13:07:00,13:07:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294147,13:12:00,13:12:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294147,13:14:00,13:14:10,stop_point:SP_4619,Chemin Du Bois,14
+2294147,13:19:00,13:19:10,stop_point:SP_4905,Complexe Sportif,15
+2294147,13:20:00,13:20:10,stop_point:SP_4629,Amadio,16
+2294147,13:21:00,13:21:10,stop_point:SP_3429,11 Novembre 1918,17
+2294147,13:22:00,13:22:10,stop_point:SP_3950,Benech,18
+2294147,13:25:00,13:25:10,stop_point:SP_4434,Portes du Gers,19
+2294147,13:26:00,13:26:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294148,14:35:00,14:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294148,14:36:00,14:36:10,stop_point:SP_2119,Charles de Gaulle,2
+2294148,14:37:00,14:37:10,stop_point:SP_4165,Père Brottier,3
+2294148,14:40:00,14:40:10,stop_point:SP_318,Centre de Détention,4
+2294148,14:42:00,14:42:10,stop_point:SP_1695,ZI La Piche,5
+2294148,14:43:00,14:43:10,stop_point:SP_2523,Marie Curie,6
+2294148,14:44:00,14:44:10,stop_point:SP_4444,Seysses Gay,7
+2294148,14:44:00,14:44:10,stop_point:SP_4620,Rabi,8
+2294148,14:45:00,14:45:10,stop_point:SP_4624,Mounicard,9
+2294148,14:46:00,14:46:10,stop_point:SP_4631,Couloume,10
+2294148,14:47:00,14:47:10,stop_point:SP_4618,Boulbennes,11
+2294148,14:47:00,14:47:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294148,14:52:00,14:52:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294148,14:54:00,14:54:10,stop_point:SP_4619,Chemin Du Bois,14
+2294148,14:59:00,14:59:10,stop_point:SP_4905,Complexe Sportif,15
+2294148,15:00:00,15:00:10,stop_point:SP_4629,Amadio,16
+2294148,15:01:00,15:01:10,stop_point:SP_3429,11 Novembre 1918,17
+2294148,15:02:00,15:02:10,stop_point:SP_3950,Benech,18
+2294148,15:05:00,15:05:10,stop_point:SP_4434,Portes du Gers,19
+2294148,15:06:00,15:06:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294149,16:20:00,16:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294149,16:21:00,16:21:10,stop_point:SP_2119,Charles de Gaulle,2
+2294149,16:22:00,16:22:10,stop_point:SP_4165,Père Brottier,3
+2294149,16:25:00,16:25:10,stop_point:SP_318,Centre de Détention,4
+2294149,16:27:00,16:27:10,stop_point:SP_1695,ZI La Piche,5
+2294149,16:28:00,16:28:10,stop_point:SP_2523,Marie Curie,6
+2294149,16:29:00,16:29:10,stop_point:SP_4444,Seysses Gay,7
+2294149,16:29:00,16:29:10,stop_point:SP_4620,Rabi,8
+2294149,16:30:00,16:30:10,stop_point:SP_4624,Mounicard,9
+2294149,16:31:00,16:31:10,stop_point:SP_4631,Couloume,10
+2294149,16:32:00,16:32:10,stop_point:SP_4618,Boulbennes,11
+2294149,16:32:00,16:32:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294149,16:37:00,16:37:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294149,16:39:00,16:39:10,stop_point:SP_4619,Chemin Du Bois,14
+2294149,16:44:00,16:44:10,stop_point:SP_4905,Complexe Sportif,15
+2294149,16:45:00,16:45:10,stop_point:SP_4629,Amadio,16
+2294149,16:46:00,16:46:10,stop_point:SP_3429,11 Novembre 1918,17
+2294149,16:47:00,16:47:10,stop_point:SP_3950,Benech,18
+2294149,16:50:00,16:50:10,stop_point:SP_4434,Portes du Gers,19
+2294149,16:51:00,16:51:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294150,17:10:00,17:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294150,17:11:00,17:11:10,stop_point:SP_2119,Charles de Gaulle,2
+2294150,17:12:00,17:12:10,stop_point:SP_4165,Père Brottier,3
+2294150,17:15:00,17:15:10,stop_point:SP_318,Centre de Détention,4
+2294150,17:17:00,17:17:10,stop_point:SP_1695,ZI La Piche,5
+2294150,17:18:00,17:18:10,stop_point:SP_2523,Marie Curie,6
+2294150,17:19:00,17:19:10,stop_point:SP_4444,Seysses Gay,7
+2294150,17:19:00,17:19:10,stop_point:SP_4620,Rabi,8
+2294150,17:20:00,17:20:10,stop_point:SP_4624,Mounicard,9
+2294150,17:21:00,17:21:10,stop_point:SP_4631,Couloume,10
+2294150,17:22:00,17:22:10,stop_point:SP_4618,Boulbennes,11
+2294150,17:22:00,17:22:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294150,17:27:00,17:27:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294150,17:29:00,17:29:10,stop_point:SP_4619,Chemin Du Bois,14
+2294150,17:34:00,17:34:10,stop_point:SP_4905,Complexe Sportif,15
+2294150,17:35:00,17:35:10,stop_point:SP_4629,Amadio,16
+2294150,17:36:00,17:36:10,stop_point:SP_3429,11 Novembre 1918,17
+2294150,17:37:00,17:37:10,stop_point:SP_3950,Benech,18
+2294150,17:40:00,17:40:10,stop_point:SP_4434,Portes du Gers,19
+2294150,17:41:00,17:41:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294151,17:40:00,17:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294151,17:41:00,17:41:10,stop_point:SP_2119,Charles de Gaulle,2
+2294151,17:42:00,17:42:10,stop_point:SP_4165,Père Brottier,3
+2294151,17:45:00,17:45:10,stop_point:SP_318,Centre de Détention,4
+2294151,17:47:00,17:47:10,stop_point:SP_1695,ZI La Piche,5
+2294151,17:48:00,17:48:10,stop_point:SP_2523,Marie Curie,6
+2294151,17:49:00,17:49:10,stop_point:SP_4444,Seysses Gay,7
+2294151,17:49:00,17:49:10,stop_point:SP_4620,Rabi,8
+2294151,17:50:00,17:50:10,stop_point:SP_4624,Mounicard,9
+2294151,17:51:00,17:51:10,stop_point:SP_4631,Couloume,10
+2294151,17:52:00,17:52:10,stop_point:SP_4618,Boulbennes,11
+2294151,17:52:00,17:52:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294151,17:57:00,17:57:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294151,17:59:00,17:59:10,stop_point:SP_4619,Chemin Du Bois,14
+2294151,18:04:00,18:04:10,stop_point:SP_4905,Complexe Sportif,15
+2294151,18:05:00,18:05:10,stop_point:SP_4629,Amadio,16
+2294151,18:06:00,18:06:10,stop_point:SP_3429,11 Novembre 1918,17
+2294151,18:07:00,18:07:10,stop_point:SP_3950,Benech,18
+2294151,18:10:00,18:10:10,stop_point:SP_4434,Portes du Gers,19
+2294151,18:11:00,18:11:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294152,18:34:00,18:34:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294152,18:35:00,18:35:10,stop_point:SP_2119,Charles de Gaulle,2
+2294152,18:36:00,18:36:10,stop_point:SP_4165,Père Brottier,3
+2294152,18:39:00,18:39:10,stop_point:SP_318,Centre de Détention,4
+2294152,18:41:00,18:41:10,stop_point:SP_1695,ZI La Piche,5
+2294152,18:42:00,18:42:10,stop_point:SP_2523,Marie Curie,6
+2294152,18:43:00,18:43:10,stop_point:SP_4444,Seysses Gay,7
+2294152,18:43:00,18:43:10,stop_point:SP_4620,Rabi,8
+2294152,18:44:00,18:44:10,stop_point:SP_4624,Mounicard,9
+2294152,18:45:00,18:45:10,stop_point:SP_4631,Couloume,10
+2294152,18:46:00,18:46:10,stop_point:SP_4618,Boulbennes,11
+2294152,18:46:00,18:46:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294152,18:51:00,18:51:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294152,18:53:00,18:53:10,stop_point:SP_4619,Chemin Du Bois,14
+2294152,18:58:00,18:58:10,stop_point:SP_4905,Complexe Sportif,15
+2294152,18:58:00,18:58:10,stop_point:SP_4629,Amadio,16
+2294152,19:00:00,19:00:10,stop_point:SP_3429,11 Novembre 1918,17
+2294152,19:00:00,19:00:10,stop_point:SP_3950,Benech,18
+2294152,19:03:00,19:03:10,stop_point:SP_4434,Portes du Gers,19
+2294152,19:04:00,19:04:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294153,19:00:00,19:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294153,19:01:00,19:01:10,stop_point:SP_2119,Charles de Gaulle,2
+2294153,19:02:00,19:02:10,stop_point:SP_4165,Père Brottier,3
+2294153,19:04:00,19:04:10,stop_point:SP_318,Centre de Détention,4
+2294153,19:06:00,19:06:10,stop_point:SP_1695,ZI La Piche,5
+2294153,19:07:00,19:07:10,stop_point:SP_2523,Marie Curie,6
+2294153,19:08:00,19:08:10,stop_point:SP_4444,Seysses Gay,7
+2294153,19:08:00,19:08:10,stop_point:SP_4620,Rabi,8
+2294153,19:09:00,19:09:10,stop_point:SP_4624,Mounicard,9
+2294153,19:09:00,19:09:10,stop_point:SP_4631,Couloume,10
+2294153,19:10:00,19:10:10,stop_point:SP_4618,Boulbennes,11
+2294153,19:11:00,19:11:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294153,19:15:00,19:15:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294153,19:17:00,19:17:10,stop_point:SP_4619,Chemin Du Bois,14
+2294153,19:22:00,19:22:10,stop_point:SP_4905,Complexe Sportif,15
+2294153,19:22:00,19:22:10,stop_point:SP_4629,Amadio,16
+2294153,19:24:00,19:24:10,stop_point:SP_3429,11 Novembre 1918,17
+2294153,19:24:00,19:24:10,stop_point:SP_3950,Benech,18
+2294153,19:27:00,19:27:10,stop_point:SP_4434,Portes du Gers,19
+2294153,19:28:00,19:28:10,stop_point:SP_5690,Fonsorbes Lycée,20
+2294154,19:42:00,19:42:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2294154,19:43:00,19:43:10,stop_point:SP_2119,Charles de Gaulle,2
+2294154,19:44:00,19:44:10,stop_point:SP_4165,Père Brottier,3
+2294154,19:46:00,19:46:10,stop_point:SP_318,Centre de Détention,4
+2294154,19:48:00,19:48:10,stop_point:SP_1695,ZI La Piche,5
+2294154,19:49:00,19:49:10,stop_point:SP_2523,Marie Curie,6
+2294154,19:50:00,19:50:10,stop_point:SP_4444,Seysses Gay,7
+2294154,19:50:00,19:50:10,stop_point:SP_4620,Rabi,8
+2294154,19:51:00,19:51:10,stop_point:SP_4624,Mounicard,9
+2294154,19:51:00,19:51:10,stop_point:SP_4631,Couloume,10
+2294154,19:52:00,19:52:10,stop_point:SP_4618,Boulbennes,11
+2294154,19:53:00,19:53:10,stop_point:SP_4613,Chemin des Enlucs,12
+2294154,19:57:00,19:57:10,stop_point:SP_4623,Chemin Du Raisin,13
+2294154,19:59:00,19:59:10,stop_point:SP_4619,Chemin Du Bois,14
+2294154,20:04:00,20:04:10,stop_point:SP_4905,Complexe Sportif,15
+2294154,20:04:00,20:04:10,stop_point:SP_4629,Amadio,16
+2294154,20:06:00,20:06:10,stop_point:SP_3429,11 Novembre 1918,17
+2294154,20:06:00,20:06:10,stop_point:SP_3950,Benech,18
+2294154,20:09:00,20:09:10,stop_point:SP_4434,Portes du Gers,19
+2294154,20:10:00,20:10:10,stop_point:SP_5690,Fonsorbes Lycée,20

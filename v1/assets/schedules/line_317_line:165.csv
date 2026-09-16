@@ -1,0 +1,710 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2374662,06:18:00,06:18:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374662,06:21:00,06:21:10,stop_point:SP_4351,Pont de l'Europe,2
+2374662,06:23:00,06:23:10,stop_point:SP_4553,Jean Dabadie,3
+2374662,06:26:00,06:26:10,stop_point:SP_4939,Feuillantines,4
+2374662,06:27:00,06:27:10,stop_point:SP_4644,Mesplé,5
+2374662,06:27:00,06:27:10,stop_point:SP_4634,Saubens Mairie,6
+2374662,06:28:00,06:28:10,stop_point:SP_4967,Lacs,7
+2374662,06:29:00,06:29:10,stop_point:SP_4969,Laborie,8
+2374662,06:30:00,06:30:10,stop_point:SP_4651,Le Trouil,9
+2374662,06:31:00,06:31:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374662,06:32:00,06:32:10,stop_point:SP_4646,Garonne,11
+2374662,06:33:00,06:33:10,stop_point:SP_3992,Château Sud,12
+2374662,06:34:00,06:34:10,stop_point:SP_4647,Roquettes Eglise,13
+2374662,06:34:00,06:34:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374662,06:35:00,06:35:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374662,06:36:00,06:36:10,stop_point:SP_3059,Ecole Roquettes,16
+2374662,06:38:00,06:38:10,stop_point:SP_284,Beaucru,17
+2374662,06:40:00,06:40:10,stop_point:SP_4654,Route de Roquettes,18
+2374662,06:41:00,06:41:10,stop_point:SP_1908,Bruyère,19
+2374662,06:45:00,06:45:10,stop_point:SP_1030,Lachambre,20
+2374662,06:46:00,06:46:10,stop_point:SP_2314,Commune,21
+2374662,06:47:00,06:47:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374662,06:49:00,06:49:10,stop_point:SP_3567,Berdoulat,23
+2374662,06:50:00,06:50:10,stop_point:SP_617,Lot. Impérial,24
+2374662,06:51:00,06:51:10,stop_point:SP_535,Clemenceau,25
+2374662,06:52:00,06:52:10,stop_point:SP_1699,Gauguin,26
+2374662,06:53:00,06:53:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374662,06:54:00,06:54:10,stop_point:SP_4522,Jean Jaurès,28
+2374662,06:57:00,06:57:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374663,06:40:00,06:40:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374663,06:43:00,06:43:10,stop_point:SP_4351,Pont de l'Europe,2
+2374663,06:45:00,06:45:10,stop_point:SP_4553,Jean Dabadie,3
+2374663,06:48:00,06:48:10,stop_point:SP_4939,Feuillantines,4
+2374663,06:49:00,06:49:10,stop_point:SP_4644,Mesplé,5
+2374663,06:49:00,06:49:10,stop_point:SP_4634,Saubens Mairie,6
+2374663,06:50:00,06:50:10,stop_point:SP_4967,Lacs,7
+2374663,06:51:00,06:51:10,stop_point:SP_4969,Laborie,8
+2374663,06:52:00,06:52:10,stop_point:SP_4651,Le Trouil,9
+2374663,06:53:00,06:53:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374663,06:54:00,06:54:10,stop_point:SP_4646,Garonne,11
+2374663,06:55:00,06:55:10,stop_point:SP_3992,Château Sud,12
+2374663,06:56:00,06:56:10,stop_point:SP_4647,Roquettes Eglise,13
+2374663,06:56:00,06:56:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374663,06:57:00,06:57:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374663,06:58:00,06:58:10,stop_point:SP_3059,Ecole Roquettes,16
+2374663,07:00:00,07:00:10,stop_point:SP_284,Beaucru,17
+2374663,07:02:00,07:02:10,stop_point:SP_4654,Route de Roquettes,18
+2374663,07:03:00,07:03:10,stop_point:SP_1908,Bruyère,19
+2374663,07:07:00,07:07:10,stop_point:SP_1030,Lachambre,20
+2374663,07:08:00,07:08:10,stop_point:SP_2314,Commune,21
+2374663,07:09:00,07:09:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374663,07:11:00,07:11:10,stop_point:SP_3567,Berdoulat,23
+2374663,07:12:00,07:12:10,stop_point:SP_617,Lot. Impérial,24
+2374663,07:13:00,07:13:10,stop_point:SP_535,Clemenceau,25
+2374663,07:14:00,07:14:10,stop_point:SP_1699,Gauguin,26
+2374663,07:15:00,07:15:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374663,07:16:00,07:16:10,stop_point:SP_4522,Jean Jaurès,28
+2374663,07:19:00,07:19:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374664,07:05:00,07:05:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374664,07:08:00,07:08:10,stop_point:SP_4351,Pont de l'Europe,2
+2374664,07:10:00,07:10:10,stop_point:SP_4553,Jean Dabadie,3
+2374664,07:14:00,07:14:10,stop_point:SP_4939,Feuillantines,4
+2374664,07:15:00,07:15:10,stop_point:SP_4644,Mesplé,5
+2374664,07:15:00,07:15:10,stop_point:SP_4634,Saubens Mairie,6
+2374664,07:16:00,07:16:10,stop_point:SP_4967,Lacs,7
+2374664,07:17:00,07:17:10,stop_point:SP_4969,Laborie,8
+2374664,07:19:00,07:19:10,stop_point:SP_4651,Le Trouil,9
+2374664,07:20:00,07:20:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374664,07:21:00,07:21:10,stop_point:SP_4646,Garonne,11
+2374664,07:22:00,07:22:10,stop_point:SP_3992,Château Sud,12
+2374664,07:23:00,07:23:10,stop_point:SP_4647,Roquettes Eglise,13
+2374664,07:23:00,07:23:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374664,07:24:00,07:24:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374664,07:25:00,07:25:10,stop_point:SP_3059,Ecole Roquettes,16
+2374664,07:27:00,07:27:10,stop_point:SP_284,Beaucru,17
+2374664,07:29:00,07:29:10,stop_point:SP_4654,Route de Roquettes,18
+2374664,07:31:00,07:31:10,stop_point:SP_1908,Bruyère,19
+2374664,07:35:00,07:35:10,stop_point:SP_1030,Lachambre,20
+2374664,07:36:00,07:36:10,stop_point:SP_2314,Commune,21
+2374664,07:37:00,07:37:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374664,07:39:00,07:39:10,stop_point:SP_3567,Berdoulat,23
+2374664,07:40:00,07:40:10,stop_point:SP_617,Lot. Impérial,24
+2374664,07:41:00,07:41:10,stop_point:SP_535,Clemenceau,25
+2374664,07:42:00,07:42:10,stop_point:SP_1699,Gauguin,26
+2374664,07:43:00,07:43:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374664,07:44:00,07:44:10,stop_point:SP_4522,Jean Jaurès,28
+2374664,07:47:00,07:47:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374665,07:50:00,07:50:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374665,07:53:00,07:53:10,stop_point:SP_4351,Pont de l'Europe,2
+2374665,07:55:00,07:55:10,stop_point:SP_4553,Jean Dabadie,3
+2374665,07:59:00,07:59:10,stop_point:SP_4939,Feuillantines,4
+2374665,08:00:00,08:00:10,stop_point:SP_4644,Mesplé,5
+2374665,08:00:00,08:00:10,stop_point:SP_4634,Saubens Mairie,6
+2374665,08:01:00,08:01:10,stop_point:SP_4967,Lacs,7
+2374665,08:02:00,08:02:10,stop_point:SP_4969,Laborie,8
+2374665,08:04:00,08:04:10,stop_point:SP_4651,Le Trouil,9
+2374665,08:05:00,08:05:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374665,08:06:00,08:06:10,stop_point:SP_4646,Garonne,11
+2374665,08:07:00,08:07:10,stop_point:SP_3992,Château Sud,12
+2374665,08:08:00,08:08:10,stop_point:SP_4647,Roquettes Eglise,13
+2374665,08:08:00,08:08:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374665,08:09:00,08:09:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374665,08:10:00,08:10:10,stop_point:SP_3059,Ecole Roquettes,16
+2374665,08:12:00,08:12:10,stop_point:SP_284,Beaucru,17
+2374665,08:14:00,08:14:10,stop_point:SP_4654,Route de Roquettes,18
+2374665,08:16:00,08:16:10,stop_point:SP_1908,Bruyère,19
+2374665,08:20:00,08:20:10,stop_point:SP_1030,Lachambre,20
+2374665,08:21:00,08:21:10,stop_point:SP_2314,Commune,21
+2374665,08:22:00,08:22:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374665,08:24:00,08:24:10,stop_point:SP_3567,Berdoulat,23
+2374665,08:25:00,08:25:10,stop_point:SP_617,Lot. Impérial,24
+2374665,08:26:00,08:26:10,stop_point:SP_535,Clemenceau,25
+2374665,08:27:00,08:27:10,stop_point:SP_1699,Gauguin,26
+2374665,08:28:00,08:28:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374665,08:29:00,08:29:10,stop_point:SP_4522,Jean Jaurès,28
+2374665,08:32:00,08:32:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374666,11:20:00,11:20:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374666,11:23:00,11:23:10,stop_point:SP_4351,Pont de l'Europe,2
+2374666,11:25:00,11:25:10,stop_point:SP_4553,Jean Dabadie,3
+2374666,11:28:00,11:28:10,stop_point:SP_4939,Feuillantines,4
+2374666,11:29:00,11:29:10,stop_point:SP_4644,Mesplé,5
+2374666,11:29:00,11:29:10,stop_point:SP_4634,Saubens Mairie,6
+2374666,11:30:00,11:30:10,stop_point:SP_4967,Lacs,7
+2374666,11:31:00,11:31:10,stop_point:SP_4969,Laborie,8
+2374666,11:32:00,11:32:10,stop_point:SP_4651,Le Trouil,9
+2374666,11:33:00,11:33:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374666,11:34:00,11:34:10,stop_point:SP_4646,Garonne,11
+2374666,11:34:00,11:34:10,stop_point:SP_3992,Château Sud,12
+2374666,11:35:00,11:35:10,stop_point:SP_4647,Roquettes Eglise,13
+2374666,11:35:00,11:35:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374666,11:36:00,11:36:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374666,11:37:00,11:37:10,stop_point:SP_3059,Ecole Roquettes,16
+2374666,11:38:00,11:38:10,stop_point:SP_284,Beaucru,17
+2374666,11:41:00,11:41:10,stop_point:SP_4654,Route de Roquettes,18
+2374666,11:42:00,11:42:10,stop_point:SP_1908,Bruyère,19
+2374666,11:46:00,11:46:10,stop_point:SP_1030,Lachambre,20
+2374666,11:46:00,11:46:10,stop_point:SP_2314,Commune,21
+2374666,11:48:00,11:48:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374666,11:49:00,11:49:10,stop_point:SP_3567,Berdoulat,23
+2374666,11:50:00,11:50:10,stop_point:SP_617,Lot. Impérial,24
+2374666,11:51:00,11:51:10,stop_point:SP_535,Clemenceau,25
+2374666,11:52:00,11:52:10,stop_point:SP_1699,Gauguin,26
+2374666,11:52:00,11:52:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374666,11:53:00,11:53:10,stop_point:SP_4522,Jean Jaurès,28
+2374666,11:56:00,11:56:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374667,13:05:00,13:05:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374667,13:08:00,13:08:10,stop_point:SP_4351,Pont de l'Europe,2
+2374667,13:10:00,13:10:10,stop_point:SP_4553,Jean Dabadie,3
+2374667,13:13:00,13:13:10,stop_point:SP_4939,Feuillantines,4
+2374667,13:14:00,13:14:10,stop_point:SP_4644,Mesplé,5
+2374667,13:14:00,13:14:10,stop_point:SP_4634,Saubens Mairie,6
+2374667,13:15:00,13:15:10,stop_point:SP_4967,Lacs,7
+2374667,13:16:00,13:16:10,stop_point:SP_4969,Laborie,8
+2374667,13:17:00,13:17:10,stop_point:SP_4651,Le Trouil,9
+2374667,13:18:00,13:18:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374667,13:19:00,13:19:10,stop_point:SP_4646,Garonne,11
+2374667,13:19:00,13:19:10,stop_point:SP_3992,Château Sud,12
+2374667,13:20:00,13:20:10,stop_point:SP_4647,Roquettes Eglise,13
+2374667,13:20:00,13:20:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374667,13:21:00,13:21:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374667,13:22:00,13:22:10,stop_point:SP_3059,Ecole Roquettes,16
+2374667,13:23:00,13:23:10,stop_point:SP_284,Beaucru,17
+2374667,13:26:00,13:26:10,stop_point:SP_4654,Route de Roquettes,18
+2374667,13:27:00,13:27:10,stop_point:SP_1908,Bruyère,19
+2374667,13:31:00,13:31:10,stop_point:SP_1030,Lachambre,20
+2374667,13:31:00,13:31:10,stop_point:SP_2314,Commune,21
+2374667,13:33:00,13:33:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374667,13:34:00,13:34:10,stop_point:SP_3567,Berdoulat,23
+2374667,13:35:00,13:35:10,stop_point:SP_617,Lot. Impérial,24
+2374667,13:36:00,13:36:10,stop_point:SP_535,Clemenceau,25
+2374667,13:37:00,13:37:10,stop_point:SP_1699,Gauguin,26
+2374667,13:37:00,13:37:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374667,13:38:00,13:38:10,stop_point:SP_4522,Jean Jaurès,28
+2374667,13:41:00,13:41:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374668,16:35:00,16:35:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374668,16:38:00,16:38:10,stop_point:SP_4351,Pont de l'Europe,2
+2374668,16:41:00,16:41:10,stop_point:SP_4553,Jean Dabadie,3
+2374668,16:45:00,16:45:10,stop_point:SP_4939,Feuillantines,4
+2374668,16:46:00,16:46:10,stop_point:SP_4644,Mesplé,5
+2374668,16:46:00,16:46:10,stop_point:SP_4634,Saubens Mairie,6
+2374668,16:47:00,16:47:10,stop_point:SP_4967,Lacs,7
+2374668,16:48:00,16:48:10,stop_point:SP_4969,Laborie,8
+2374668,16:49:00,16:49:10,stop_point:SP_4651,Le Trouil,9
+2374668,16:50:00,16:50:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374668,16:51:00,16:51:10,stop_point:SP_4646,Garonne,11
+2374668,16:52:00,16:52:10,stop_point:SP_3992,Château Sud,12
+2374668,16:53:00,16:53:10,stop_point:SP_4647,Roquettes Eglise,13
+2374668,16:53:00,16:53:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374668,16:54:00,16:54:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374668,16:55:00,16:55:10,stop_point:SP_3059,Ecole Roquettes,16
+2374668,16:56:00,16:56:10,stop_point:SP_284,Beaucru,17
+2374668,16:59:00,16:59:10,stop_point:SP_4654,Route de Roquettes,18
+2374668,17:00:00,17:00:10,stop_point:SP_1908,Bruyère,19
+2374668,17:04:00,17:04:10,stop_point:SP_1030,Lachambre,20
+2374668,17:04:00,17:04:10,stop_point:SP_2314,Commune,21
+2374668,17:06:00,17:06:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374668,17:07:00,17:07:10,stop_point:SP_3567,Berdoulat,23
+2374668,17:08:00,17:08:10,stop_point:SP_617,Lot. Impérial,24
+2374668,17:09:00,17:09:10,stop_point:SP_535,Clemenceau,25
+2374668,17:10:00,17:10:10,stop_point:SP_1699,Gauguin,26
+2374668,17:11:00,17:11:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374668,17:12:00,17:12:10,stop_point:SP_4522,Jean Jaurès,28
+2374668,17:15:00,17:15:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374669,17:45:00,17:45:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374669,17:49:00,17:49:10,stop_point:SP_4351,Pont de l'Europe,2
+2374669,17:51:00,17:51:10,stop_point:SP_4553,Jean Dabadie,3
+2374669,17:56:00,17:56:10,stop_point:SP_4939,Feuillantines,4
+2374669,17:57:00,17:57:10,stop_point:SP_4644,Mesplé,5
+2374669,17:57:00,17:57:10,stop_point:SP_4634,Saubens Mairie,6
+2374669,17:58:00,17:58:10,stop_point:SP_4967,Lacs,7
+2374669,17:59:00,17:59:10,stop_point:SP_4969,Laborie,8
+2374669,18:01:00,18:01:10,stop_point:SP_4651,Le Trouil,9
+2374669,18:02:00,18:02:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374669,18:03:00,18:03:10,stop_point:SP_4646,Garonne,11
+2374669,18:04:00,18:04:10,stop_point:SP_3992,Château Sud,12
+2374669,18:05:00,18:05:10,stop_point:SP_4647,Roquettes Eglise,13
+2374669,18:05:00,18:05:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374669,18:06:00,18:06:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374669,18:07:00,18:07:10,stop_point:SP_3059,Ecole Roquettes,16
+2374669,18:08:00,18:08:10,stop_point:SP_284,Beaucru,17
+2374669,18:11:00,18:11:10,stop_point:SP_4654,Route de Roquettes,18
+2374669,18:12:00,18:12:10,stop_point:SP_1908,Bruyère,19
+2374669,18:16:00,18:16:10,stop_point:SP_1030,Lachambre,20
+2374669,18:16:00,18:16:10,stop_point:SP_2314,Commune,21
+2374669,18:18:00,18:18:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374669,18:19:00,18:19:10,stop_point:SP_3567,Berdoulat,23
+2374669,18:20:00,18:20:10,stop_point:SP_617,Lot. Impérial,24
+2374669,18:21:00,18:21:10,stop_point:SP_535,Clemenceau,25
+2374669,18:22:00,18:22:10,stop_point:SP_1699,Gauguin,26
+2374669,18:22:00,18:22:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374669,18:23:00,18:23:10,stop_point:SP_4522,Jean Jaurès,28
+2374669,18:26:00,18:26:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374670,18:15:00,18:15:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374670,18:18:00,18:18:10,stop_point:SP_4351,Pont de l'Europe,2
+2374670,18:21:00,18:21:10,stop_point:SP_4553,Jean Dabadie,3
+2374670,18:25:00,18:25:10,stop_point:SP_4939,Feuillantines,4
+2374670,18:26:00,18:26:10,stop_point:SP_4644,Mesplé,5
+2374670,18:26:00,18:26:10,stop_point:SP_4634,Saubens Mairie,6
+2374670,18:27:00,18:27:10,stop_point:SP_4967,Lacs,7
+2374670,18:28:00,18:28:10,stop_point:SP_4969,Laborie,8
+2374670,18:29:00,18:29:10,stop_point:SP_4651,Le Trouil,9
+2374670,18:30:00,18:30:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374670,18:31:00,18:31:10,stop_point:SP_4646,Garonne,11
+2374670,18:32:00,18:32:10,stop_point:SP_3992,Château Sud,12
+2374670,18:33:00,18:33:10,stop_point:SP_4647,Roquettes Eglise,13
+2374670,18:33:00,18:33:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374670,18:34:00,18:34:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374670,18:35:00,18:35:10,stop_point:SP_3059,Ecole Roquettes,16
+2374670,18:36:00,18:36:10,stop_point:SP_284,Beaucru,17
+2374670,18:39:00,18:39:10,stop_point:SP_4654,Route de Roquettes,18
+2374670,18:40:00,18:40:10,stop_point:SP_1908,Bruyère,19
+2374670,18:44:00,18:44:10,stop_point:SP_1030,Lachambre,20
+2374670,18:44:00,18:44:10,stop_point:SP_2314,Commune,21
+2374670,18:46:00,18:46:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374670,18:47:00,18:47:10,stop_point:SP_3567,Berdoulat,23
+2374670,18:48:00,18:48:10,stop_point:SP_617,Lot. Impérial,24
+2374670,18:49:00,18:49:10,stop_point:SP_535,Clemenceau,25
+2374670,18:50:00,18:50:10,stop_point:SP_1699,Gauguin,26
+2374670,18:50:00,18:50:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374670,18:51:00,18:51:10,stop_point:SP_4522,Jean Jaurès,28
+2374670,18:54:00,18:54:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374671,19:52:00,19:52:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374671,19:55:00,19:55:10,stop_point:SP_4351,Pont de l'Europe,2
+2374671,19:57:00,19:57:10,stop_point:SP_4553,Jean Dabadie,3
+2374671,20:00:00,20:00:10,stop_point:SP_4939,Feuillantines,4
+2374671,20:01:00,20:01:10,stop_point:SP_4644,Mesplé,5
+2374671,20:01:00,20:01:10,stop_point:SP_4634,Saubens Mairie,6
+2374671,20:02:00,20:02:10,stop_point:SP_4967,Lacs,7
+2374671,20:03:00,20:03:10,stop_point:SP_4969,Laborie,8
+2374671,20:04:00,20:04:10,stop_point:SP_4651,Le Trouil,9
+2374671,20:05:00,20:05:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374671,20:06:00,20:06:10,stop_point:SP_4646,Garonne,11
+2374671,20:06:00,20:06:10,stop_point:SP_3992,Château Sud,12
+2374671,20:07:00,20:07:10,stop_point:SP_4647,Roquettes Eglise,13
+2374671,20:07:00,20:07:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374671,20:08:00,20:08:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374671,20:09:00,20:09:10,stop_point:SP_3059,Ecole Roquettes,16
+2374671,20:10:00,20:10:10,stop_point:SP_284,Beaucru,17
+2374671,20:13:00,20:13:10,stop_point:SP_4654,Route de Roquettes,18
+2374671,20:14:00,20:14:10,stop_point:SP_1908,Bruyère,19
+2374671,20:18:00,20:18:10,stop_point:SP_1030,Lachambre,20
+2374671,20:18:00,20:18:10,stop_point:SP_2314,Commune,21
+2374671,20:20:00,20:20:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374671,20:21:00,20:21:10,stop_point:SP_3567,Berdoulat,23
+2374671,20:22:00,20:22:10,stop_point:SP_617,Lot. Impérial,24
+2374671,20:23:00,20:23:10,stop_point:SP_535,Clemenceau,25
+2374671,20:23:00,20:23:10,stop_point:SP_1699,Gauguin,26
+2374671,20:24:00,20:24:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374671,20:25:00,20:25:10,stop_point:SP_4522,Jean Jaurès,28
+2374671,20:27:00,20:27:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374672,19:10:00,19:10:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2374672,19:13:00,19:13:10,stop_point:SP_4351,Pont de l'Europe,2
+2374672,19:16:00,19:16:10,stop_point:SP_4553,Jean Dabadie,3
+2374672,19:20:00,19:20:10,stop_point:SP_4939,Feuillantines,4
+2374672,19:21:00,19:21:10,stop_point:SP_4644,Mesplé,5
+2374672,19:21:00,19:21:10,stop_point:SP_4634,Saubens Mairie,6
+2374672,19:22:00,19:22:10,stop_point:SP_4967,Lacs,7
+2374672,19:23:00,19:23:10,stop_point:SP_4969,Laborie,8
+2374672,19:24:00,19:24:10,stop_point:SP_4651,Le Trouil,9
+2374672,19:25:00,19:25:10,stop_point:SP_4639,Chemin de Roquettes,10
+2374672,19:26:00,19:26:10,stop_point:SP_4646,Garonne,11
+2374672,19:26:00,19:26:10,stop_point:SP_3992,Château Sud,12
+2374672,19:27:00,19:27:10,stop_point:SP_4647,Roquettes Eglise,13
+2374672,19:27:00,19:27:10,stop_point:SP_4653,Anciennes Ecoles,14
+2374672,19:28:00,19:28:10,stop_point:SP_1348,Cimetière Roquettes,15
+2374672,19:29:00,19:29:10,stop_point:SP_3059,Ecole Roquettes,16
+2374672,19:30:00,19:30:10,stop_point:SP_284,Beaucru,17
+2374672,19:33:00,19:33:10,stop_point:SP_4654,Route de Roquettes,18
+2374672,19:34:00,19:34:10,stop_point:SP_1908,Bruyère,19
+2374672,19:38:00,19:38:10,stop_point:SP_1030,Lachambre,20
+2374672,19:38:00,19:38:10,stop_point:SP_2314,Commune,21
+2374672,19:40:00,19:40:10,stop_point:SP_2579,Mairie Pinsaguel,22
+2374672,19:41:00,19:41:10,stop_point:SP_3567,Berdoulat,23
+2374672,19:42:00,19:42:10,stop_point:SP_617,Lot. Impérial,24
+2374672,19:43:00,19:43:10,stop_point:SP_535,Clemenceau,25
+2374672,19:43:00,19:43:10,stop_point:SP_1699,Gauguin,26
+2374672,19:44:00,19:44:10,stop_point:SP_1737,Ateliers Municipaux,27
+2374672,19:45:00,19:45:10,stop_point:SP_4522,Jean Jaurès,28
+2374672,19:47:00,19:47:10,stop_point:SP_4756,Portet Gare SNCF,29
+2374673,06:15:00,06:15:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374673,06:17:00,06:17:10,stop_point:SP_4529,Jean Jaurès,2
+2374673,06:18:00,06:18:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374673,06:19:00,06:19:10,stop_point:SP_11,Gauguin,4
+2374673,06:19:00,06:19:10,stop_point:SP_3190,Clemenceau,5
+2374673,06:20:00,06:20:10,stop_point:SP_2601,Lot. Impérial,6
+2374673,06:21:00,06:21:10,stop_point:SP_2793,Berdoulat,7
+2374673,06:22:00,06:22:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374673,06:23:00,06:23:10,stop_point:SP_2071,Commune,9
+2374673,06:24:00,06:24:10,stop_point:SP_3226,Lachambre,10
+2374673,06:27:00,06:27:10,stop_point:SP_2237,Bruyère,11
+2374673,06:28:00,06:28:10,stop_point:SP_4633,Route de Roquettes,12
+2374673,06:31:00,06:31:10,stop_point:SP_3868,Beaucru,13
+2374673,06:32:00,06:32:10,stop_point:SP_772,Ecole Roquettes,14
+2374673,06:33:00,06:33:10,stop_point:SP_798,Cimetière Roquettes,15
+2374673,06:34:00,06:34:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374673,06:34:00,06:34:10,stop_point:SP_4637,Roquettes Eglise,17
+2374673,06:35:00,06:35:10,stop_point:SP_1994,Château Sud,18
+2374673,06:35:00,06:35:10,stop_point:SP_4664,Garonne,19
+2374673,06:36:00,06:36:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374673,06:37:00,06:37:10,stop_point:SP_4650,Le Trouil,21
+2374673,06:38:00,06:38:10,stop_point:SP_4966,Laborie,22
+2374673,06:39:00,06:39:10,stop_point:SP_4968,Lacs,23
+2374673,06:40:00,06:40:10,stop_point:SP_4635,Saubens Mairie,24
+2374673,06:40:00,06:40:10,stop_point:SP_4638,Mesplé,25
+2374673,06:41:00,06:41:10,stop_point:SP_4657,Feuillantines,26
+2374673,06:45:00,06:45:10,stop_point:SP_4392,Jean Dabadie,27
+2374673,06:46:00,06:46:10,stop_point:SP_4386,Pont de l'Europe,28
+2374673,06:48:00,06:48:10,stop_point:SP_5711,Occitanie,29
+2374673,06:49:00,06:49:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374674,07:00:00,07:00:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374674,07:03:00,07:03:10,stop_point:SP_4529,Jean Jaurès,2
+2374674,07:04:00,07:04:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374674,07:05:00,07:05:10,stop_point:SP_11,Gauguin,4
+2374674,07:06:00,07:06:10,stop_point:SP_3190,Clemenceau,5
+2374674,07:07:00,07:07:10,stop_point:SP_2601,Lot. Impérial,6
+2374674,07:08:00,07:08:10,stop_point:SP_2793,Berdoulat,7
+2374674,07:10:00,07:10:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374674,07:11:00,07:11:10,stop_point:SP_2071,Commune,9
+2374674,07:12:00,07:12:10,stop_point:SP_3226,Lachambre,10
+2374674,07:16:00,07:16:10,stop_point:SP_2237,Bruyère,11
+2374674,07:17:00,07:17:10,stop_point:SP_4633,Route de Roquettes,12
+2374674,07:19:00,07:19:10,stop_point:SP_3868,Beaucru,13
+2374674,07:21:00,07:21:10,stop_point:SP_772,Ecole Roquettes,14
+2374674,07:22:00,07:22:10,stop_point:SP_798,Cimetière Roquettes,15
+2374674,07:23:00,07:23:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374674,07:23:00,07:23:10,stop_point:SP_4637,Roquettes Eglise,17
+2374674,07:24:00,07:24:10,stop_point:SP_1994,Château Sud,18
+2374674,07:25:00,07:25:10,stop_point:SP_4664,Garonne,19
+2374674,07:26:00,07:26:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374674,07:27:00,07:27:10,stop_point:SP_4650,Le Trouil,21
+2374674,07:28:00,07:28:10,stop_point:SP_4966,Laborie,22
+2374674,07:29:00,07:29:10,stop_point:SP_4968,Lacs,23
+2374674,07:30:00,07:30:10,stop_point:SP_4635,Saubens Mairie,24
+2374674,07:30:00,07:30:10,stop_point:SP_4638,Mesplé,25
+2374674,07:31:00,07:31:10,stop_point:SP_4657,Feuillantines,26
+2374674,07:36:00,07:36:10,stop_point:SP_4392,Jean Dabadie,27
+2374674,07:38:00,07:38:10,stop_point:SP_4386,Pont de l'Europe,28
+2374674,07:41:00,07:41:10,stop_point:SP_5711,Occitanie,29
+2374674,07:42:00,07:42:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374675,07:45:00,07:45:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374675,07:48:00,07:48:10,stop_point:SP_4529,Jean Jaurès,2
+2374675,07:49:00,07:49:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374675,07:50:00,07:50:10,stop_point:SP_11,Gauguin,4
+2374675,07:51:00,07:51:10,stop_point:SP_3190,Clemenceau,5
+2374675,07:52:00,07:52:10,stop_point:SP_2601,Lot. Impérial,6
+2374675,07:53:00,07:53:10,stop_point:SP_2793,Berdoulat,7
+2374675,07:55:00,07:55:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374675,07:56:00,07:56:10,stop_point:SP_2071,Commune,9
+2374675,07:57:00,07:57:10,stop_point:SP_3226,Lachambre,10
+2374675,08:01:00,08:01:10,stop_point:SP_2237,Bruyère,11
+2374675,08:02:00,08:02:10,stop_point:SP_4633,Route de Roquettes,12
+2374675,08:04:00,08:04:10,stop_point:SP_3868,Beaucru,13
+2374675,08:06:00,08:06:10,stop_point:SP_772,Ecole Roquettes,14
+2374675,08:07:00,08:07:10,stop_point:SP_798,Cimetière Roquettes,15
+2374675,08:08:00,08:08:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374675,08:08:00,08:08:10,stop_point:SP_4637,Roquettes Eglise,17
+2374675,08:09:00,08:09:10,stop_point:SP_1994,Château Sud,18
+2374675,08:09:00,08:09:10,stop_point:SP_4664,Garonne,19
+2374675,08:10:00,08:10:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374675,08:11:00,08:11:10,stop_point:SP_4650,Le Trouil,21
+2374675,08:12:00,08:12:10,stop_point:SP_4966,Laborie,22
+2374675,08:13:00,08:13:10,stop_point:SP_4968,Lacs,23
+2374675,08:14:00,08:14:10,stop_point:SP_4635,Saubens Mairie,24
+2374675,08:14:00,08:14:10,stop_point:SP_4638,Mesplé,25
+2374675,08:15:00,08:15:10,stop_point:SP_4657,Feuillantines,26
+2374675,08:20:00,08:20:10,stop_point:SP_4392,Jean Dabadie,27
+2374675,08:21:00,08:21:10,stop_point:SP_4386,Pont de l'Europe,28
+2374675,08:24:00,08:24:10,stop_point:SP_5711,Occitanie,29
+2374675,08:25:00,08:25:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374676,08:10:00,08:10:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374676,08:13:00,08:13:10,stop_point:SP_4529,Jean Jaurès,2
+2374676,08:14:00,08:14:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374676,08:15:00,08:15:10,stop_point:SP_11,Gauguin,4
+2374676,08:16:00,08:16:10,stop_point:SP_3190,Clemenceau,5
+2374676,08:17:00,08:17:10,stop_point:SP_2601,Lot. Impérial,6
+2374676,08:18:00,08:18:10,stop_point:SP_2793,Berdoulat,7
+2374676,08:20:00,08:20:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374676,08:21:00,08:21:10,stop_point:SP_2071,Commune,9
+2374676,08:22:00,08:22:10,stop_point:SP_3226,Lachambre,10
+2374676,08:26:00,08:26:10,stop_point:SP_2237,Bruyère,11
+2374676,08:27:00,08:27:10,stop_point:SP_4633,Route de Roquettes,12
+2374676,08:29:00,08:29:10,stop_point:SP_3868,Beaucru,13
+2374676,08:31:00,08:31:10,stop_point:SP_772,Ecole Roquettes,14
+2374676,08:32:00,08:32:10,stop_point:SP_798,Cimetière Roquettes,15
+2374676,08:33:00,08:33:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374676,08:33:00,08:33:10,stop_point:SP_4637,Roquettes Eglise,17
+2374676,08:34:00,08:34:10,stop_point:SP_1994,Château Sud,18
+2374676,08:34:00,08:34:10,stop_point:SP_4664,Garonne,19
+2374676,08:35:00,08:35:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374676,08:36:00,08:36:10,stop_point:SP_4650,Le Trouil,21
+2374676,08:37:00,08:37:10,stop_point:SP_4966,Laborie,22
+2374676,08:38:00,08:38:10,stop_point:SP_4968,Lacs,23
+2374676,08:39:00,08:39:10,stop_point:SP_4635,Saubens Mairie,24
+2374676,08:39:00,08:39:10,stop_point:SP_4638,Mesplé,25
+2374676,08:40:00,08:40:10,stop_point:SP_4657,Feuillantines,26
+2374676,08:45:00,08:45:10,stop_point:SP_4392,Jean Dabadie,27
+2374676,08:46:00,08:46:10,stop_point:SP_4386,Pont de l'Europe,28
+2374676,08:49:00,08:49:10,stop_point:SP_5711,Occitanie,29
+2374676,08:50:00,08:50:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374677,08:40:00,08:40:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374677,08:43:00,08:43:10,stop_point:SP_4529,Jean Jaurès,2
+2374677,08:44:00,08:44:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374677,08:45:00,08:45:10,stop_point:SP_11,Gauguin,4
+2374677,08:46:00,08:46:10,stop_point:SP_3190,Clemenceau,5
+2374677,08:47:00,08:47:10,stop_point:SP_2601,Lot. Impérial,6
+2374677,08:48:00,08:48:10,stop_point:SP_2793,Berdoulat,7
+2374677,08:50:00,08:50:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374677,08:51:00,08:51:10,stop_point:SP_2071,Commune,9
+2374677,08:52:00,08:52:10,stop_point:SP_3226,Lachambre,10
+2374677,08:56:00,08:56:10,stop_point:SP_2237,Bruyère,11
+2374677,08:57:00,08:57:10,stop_point:SP_4633,Route de Roquettes,12
+2374677,08:59:00,08:59:10,stop_point:SP_3868,Beaucru,13
+2374677,09:01:00,09:01:10,stop_point:SP_772,Ecole Roquettes,14
+2374677,09:02:00,09:02:10,stop_point:SP_798,Cimetière Roquettes,15
+2374677,09:03:00,09:03:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374677,09:03:00,09:03:10,stop_point:SP_4637,Roquettes Eglise,17
+2374677,09:04:00,09:04:10,stop_point:SP_1994,Château Sud,18
+2374677,09:04:00,09:04:10,stop_point:SP_4664,Garonne,19
+2374677,09:05:00,09:05:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374677,09:06:00,09:06:10,stop_point:SP_4650,Le Trouil,21
+2374677,09:07:00,09:07:10,stop_point:SP_4966,Laborie,22
+2374677,09:08:00,09:08:10,stop_point:SP_4968,Lacs,23
+2374677,09:09:00,09:09:10,stop_point:SP_4635,Saubens Mairie,24
+2374677,09:09:00,09:09:10,stop_point:SP_4638,Mesplé,25
+2374677,09:10:00,09:10:10,stop_point:SP_4657,Feuillantines,26
+2374677,09:15:00,09:15:10,stop_point:SP_4392,Jean Dabadie,27
+2374677,09:16:00,09:16:10,stop_point:SP_4386,Pont de l'Europe,28
+2374677,09:19:00,09:19:10,stop_point:SP_5711,Occitanie,29
+2374677,09:20:00,09:20:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374678,12:25:00,12:25:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374678,12:28:00,12:28:10,stop_point:SP_4529,Jean Jaurès,2
+2374678,12:29:00,12:29:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374678,12:29:00,12:29:10,stop_point:SP_11,Gauguin,4
+2374678,12:30:00,12:30:10,stop_point:SP_3190,Clemenceau,5
+2374678,12:31:00,12:31:10,stop_point:SP_2601,Lot. Impérial,6
+2374678,12:32:00,12:32:10,stop_point:SP_2793,Berdoulat,7
+2374678,12:33:00,12:33:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374678,12:34:00,12:34:10,stop_point:SP_2071,Commune,9
+2374678,12:35:00,12:35:10,stop_point:SP_3226,Lachambre,10
+2374678,12:38:00,12:38:10,stop_point:SP_2237,Bruyère,11
+2374678,12:39:00,12:39:10,stop_point:SP_4633,Route de Roquettes,12
+2374678,12:42:00,12:42:10,stop_point:SP_3868,Beaucru,13
+2374678,12:43:00,12:43:10,stop_point:SP_772,Ecole Roquettes,14
+2374678,12:44:00,12:44:10,stop_point:SP_798,Cimetière Roquettes,15
+2374678,12:45:00,12:45:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374678,12:45:00,12:45:10,stop_point:SP_4637,Roquettes Eglise,17
+2374678,12:46:00,12:46:10,stop_point:SP_1994,Château Sud,18
+2374678,12:46:00,12:46:10,stop_point:SP_4664,Garonne,19
+2374678,12:47:00,12:47:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374678,12:48:00,12:48:10,stop_point:SP_4650,Le Trouil,21
+2374678,12:49:00,12:49:10,stop_point:SP_4966,Laborie,22
+2374678,12:50:00,12:50:10,stop_point:SP_4968,Lacs,23
+2374678,12:51:00,12:51:10,stop_point:SP_4635,Saubens Mairie,24
+2374678,12:51:00,12:51:10,stop_point:SP_4638,Mesplé,25
+2374678,12:52:00,12:52:10,stop_point:SP_4657,Feuillantines,26
+2374678,12:56:00,12:56:10,stop_point:SP_4392,Jean Dabadie,27
+2374678,12:57:00,12:57:10,stop_point:SP_4386,Pont de l'Europe,28
+2374678,12:59:00,12:59:10,stop_point:SP_5711,Occitanie,29
+2374678,13:00:00,13:00:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374679,14:05:00,14:05:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374679,14:08:00,14:08:10,stop_point:SP_4529,Jean Jaurès,2
+2374679,14:09:00,14:09:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374679,14:09:00,14:09:10,stop_point:SP_11,Gauguin,4
+2374679,14:10:00,14:10:10,stop_point:SP_3190,Clemenceau,5
+2374679,14:11:00,14:11:10,stop_point:SP_2601,Lot. Impérial,6
+2374679,14:12:00,14:12:10,stop_point:SP_2793,Berdoulat,7
+2374679,14:13:00,14:13:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374679,14:14:00,14:14:10,stop_point:SP_2071,Commune,9
+2374679,14:15:00,14:15:10,stop_point:SP_3226,Lachambre,10
+2374679,14:18:00,14:18:10,stop_point:SP_2237,Bruyère,11
+2374679,14:19:00,14:19:10,stop_point:SP_4633,Route de Roquettes,12
+2374679,14:22:00,14:22:10,stop_point:SP_3868,Beaucru,13
+2374679,14:23:00,14:23:10,stop_point:SP_772,Ecole Roquettes,14
+2374679,14:24:00,14:24:10,stop_point:SP_798,Cimetière Roquettes,15
+2374679,14:25:00,14:25:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374679,14:25:00,14:25:10,stop_point:SP_4637,Roquettes Eglise,17
+2374679,14:26:00,14:26:10,stop_point:SP_1994,Château Sud,18
+2374679,14:26:00,14:26:10,stop_point:SP_4664,Garonne,19
+2374679,14:27:00,14:27:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374679,14:28:00,14:28:10,stop_point:SP_4650,Le Trouil,21
+2374679,14:29:00,14:29:10,stop_point:SP_4966,Laborie,22
+2374679,14:30:00,14:30:10,stop_point:SP_4968,Lacs,23
+2374679,14:31:00,14:31:10,stop_point:SP_4635,Saubens Mairie,24
+2374679,14:31:00,14:31:10,stop_point:SP_4638,Mesplé,25
+2374679,14:32:00,14:32:10,stop_point:SP_4657,Feuillantines,26
+2374679,14:36:00,14:36:10,stop_point:SP_4392,Jean Dabadie,27
+2374679,14:37:00,14:37:10,stop_point:SP_4386,Pont de l'Europe,28
+2374679,14:39:00,14:39:10,stop_point:SP_5711,Occitanie,29
+2374679,14:40:00,14:40:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374680,16:58:00,16:58:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374680,17:01:00,17:01:10,stop_point:SP_4529,Jean Jaurès,2
+2374680,17:02:00,17:02:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374680,17:02:00,17:02:10,stop_point:SP_11,Gauguin,4
+2374680,17:03:00,17:03:10,stop_point:SP_3190,Clemenceau,5
+2374680,17:04:00,17:04:10,stop_point:SP_2601,Lot. Impérial,6
+2374680,17:05:00,17:05:10,stop_point:SP_2793,Berdoulat,7
+2374680,17:07:00,17:07:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374680,17:08:00,17:08:10,stop_point:SP_2071,Commune,9
+2374680,17:09:00,17:09:10,stop_point:SP_3226,Lachambre,10
+2374680,17:13:00,17:13:10,stop_point:SP_2237,Bruyère,11
+2374680,17:14:00,17:14:10,stop_point:SP_4633,Route de Roquettes,12
+2374680,17:17:00,17:17:10,stop_point:SP_3868,Beaucru,13
+2374680,17:19:00,17:19:10,stop_point:SP_772,Ecole Roquettes,14
+2374680,17:20:00,17:20:10,stop_point:SP_798,Cimetière Roquettes,15
+2374680,17:21:00,17:21:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374680,17:21:00,17:21:10,stop_point:SP_4637,Roquettes Eglise,17
+2374680,17:22:00,17:22:10,stop_point:SP_1994,Château Sud,18
+2374680,17:22:00,17:22:10,stop_point:SP_4664,Garonne,19
+2374680,17:23:00,17:23:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374680,17:24:00,17:24:10,stop_point:SP_4650,Le Trouil,21
+2374680,17:25:00,17:25:10,stop_point:SP_4966,Laborie,22
+2374680,17:26:00,17:26:10,stop_point:SP_4968,Lacs,23
+2374680,17:27:00,17:27:10,stop_point:SP_4635,Saubens Mairie,24
+2374680,17:27:00,17:27:10,stop_point:SP_4638,Mesplé,25
+2374680,17:28:00,17:28:10,stop_point:SP_4657,Feuillantines,26
+2374680,17:33:00,17:33:10,stop_point:SP_4392,Jean Dabadie,27
+2374680,17:34:00,17:34:10,stop_point:SP_4386,Pont de l'Europe,28
+2374680,17:37:00,17:37:10,stop_point:SP_5711,Occitanie,29
+2374680,17:38:00,17:38:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374681,17:25:00,17:25:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374681,17:28:00,17:28:10,stop_point:SP_4529,Jean Jaurès,2
+2374681,17:29:00,17:29:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374681,17:29:00,17:29:10,stop_point:SP_11,Gauguin,4
+2374681,17:30:00,17:30:10,stop_point:SP_3190,Clemenceau,5
+2374681,17:31:00,17:31:10,stop_point:SP_2601,Lot. Impérial,6
+2374681,17:32:00,17:32:10,stop_point:SP_2793,Berdoulat,7
+2374681,17:34:00,17:34:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374681,17:35:00,17:35:10,stop_point:SP_2071,Commune,9
+2374681,17:36:00,17:36:10,stop_point:SP_3226,Lachambre,10
+2374681,17:40:00,17:40:10,stop_point:SP_2237,Bruyère,11
+2374681,17:41:00,17:41:10,stop_point:SP_4633,Route de Roquettes,12
+2374681,17:44:00,17:44:10,stop_point:SP_3868,Beaucru,13
+2374681,17:46:00,17:46:10,stop_point:SP_772,Ecole Roquettes,14
+2374681,17:47:00,17:47:10,stop_point:SP_798,Cimetière Roquettes,15
+2374681,17:48:00,17:48:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374681,17:48:00,17:48:10,stop_point:SP_4637,Roquettes Eglise,17
+2374681,17:49:00,17:49:10,stop_point:SP_1994,Château Sud,18
+2374681,17:50:00,17:50:10,stop_point:SP_4664,Garonne,19
+2374681,17:51:00,17:51:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374681,17:52:00,17:52:10,stop_point:SP_4650,Le Trouil,21
+2374681,17:53:00,17:53:10,stop_point:SP_4966,Laborie,22
+2374681,17:54:00,17:54:10,stop_point:SP_4968,Lacs,23
+2374681,17:55:00,17:55:10,stop_point:SP_4635,Saubens Mairie,24
+2374681,17:55:00,17:55:10,stop_point:SP_4638,Mesplé,25
+2374681,17:56:00,17:56:10,stop_point:SP_4657,Feuillantines,26
+2374681,18:01:00,18:01:10,stop_point:SP_4392,Jean Dabadie,27
+2374681,18:02:00,18:02:10,stop_point:SP_4386,Pont de l'Europe,28
+2374681,18:05:00,18:05:10,stop_point:SP_5711,Occitanie,29
+2374681,18:06:00,18:06:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374682,18:00:00,18:00:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374682,18:03:00,18:03:10,stop_point:SP_4529,Jean Jaurès,2
+2374682,18:04:00,18:04:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374682,18:04:00,18:04:10,stop_point:SP_11,Gauguin,4
+2374682,18:05:00,18:05:10,stop_point:SP_3190,Clemenceau,5
+2374682,18:06:00,18:06:10,stop_point:SP_2601,Lot. Impérial,6
+2374682,18:07:00,18:07:10,stop_point:SP_2793,Berdoulat,7
+2374682,18:09:00,18:09:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374682,18:10:00,18:10:10,stop_point:SP_2071,Commune,9
+2374682,18:11:00,18:11:10,stop_point:SP_3226,Lachambre,10
+2374682,18:15:00,18:15:10,stop_point:SP_2237,Bruyère,11
+2374682,18:16:00,18:16:10,stop_point:SP_4633,Route de Roquettes,12
+2374682,18:19:00,18:19:10,stop_point:SP_3868,Beaucru,13
+2374682,18:21:00,18:21:10,stop_point:SP_772,Ecole Roquettes,14
+2374682,18:22:00,18:22:10,stop_point:SP_798,Cimetière Roquettes,15
+2374682,18:23:00,18:23:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374682,18:23:00,18:23:10,stop_point:SP_4637,Roquettes Eglise,17
+2374682,18:24:00,18:24:10,stop_point:SP_1994,Château Sud,18
+2374682,18:25:00,18:25:10,stop_point:SP_4664,Garonne,19
+2374682,18:26:00,18:26:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374682,18:27:00,18:27:10,stop_point:SP_4650,Le Trouil,21
+2374682,18:28:00,18:28:10,stop_point:SP_4966,Laborie,22
+2374682,18:29:00,18:29:10,stop_point:SP_4968,Lacs,23
+2374682,18:30:00,18:30:10,stop_point:SP_4635,Saubens Mairie,24
+2374682,18:30:00,18:30:10,stop_point:SP_4638,Mesplé,25
+2374682,18:31:00,18:31:10,stop_point:SP_4657,Feuillantines,26
+2374682,18:35:00,18:35:10,stop_point:SP_4392,Jean Dabadie,27
+2374682,18:37:00,18:37:10,stop_point:SP_4386,Pont de l'Europe,28
+2374682,18:39:00,18:39:10,stop_point:SP_5711,Occitanie,29
+2374682,18:40:00,18:40:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374683,18:35:00,18:35:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374683,18:38:00,18:38:10,stop_point:SP_4529,Jean Jaurès,2
+2374683,18:39:00,18:39:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374683,18:39:00,18:39:10,stop_point:SP_11,Gauguin,4
+2374683,18:40:00,18:40:10,stop_point:SP_3190,Clemenceau,5
+2374683,18:41:00,18:41:10,stop_point:SP_2601,Lot. Impérial,6
+2374683,18:42:00,18:42:10,stop_point:SP_2793,Berdoulat,7
+2374683,18:43:00,18:43:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374683,18:44:00,18:44:10,stop_point:SP_2071,Commune,9
+2374683,18:45:00,18:45:10,stop_point:SP_3226,Lachambre,10
+2374683,18:48:00,18:48:10,stop_point:SP_2237,Bruyère,11
+2374683,18:49:00,18:49:10,stop_point:SP_4633,Route de Roquettes,12
+2374683,18:52:00,18:52:10,stop_point:SP_3868,Beaucru,13
+2374683,18:53:00,18:53:10,stop_point:SP_772,Ecole Roquettes,14
+2374683,18:54:00,18:54:10,stop_point:SP_798,Cimetière Roquettes,15
+2374683,18:55:00,18:55:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374683,18:55:00,18:55:10,stop_point:SP_4637,Roquettes Eglise,17
+2374683,18:56:00,18:56:10,stop_point:SP_1994,Château Sud,18
+2374683,18:56:00,18:56:10,stop_point:SP_4664,Garonne,19
+2374683,18:57:00,18:57:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374683,18:58:00,18:58:10,stop_point:SP_4650,Le Trouil,21
+2374683,18:59:00,18:59:10,stop_point:SP_4966,Laborie,22
+2374683,19:00:00,19:00:10,stop_point:SP_4968,Lacs,23
+2374683,19:01:00,19:01:10,stop_point:SP_4635,Saubens Mairie,24
+2374683,19:01:00,19:01:10,stop_point:SP_4638,Mesplé,25
+2374683,19:02:00,19:02:10,stop_point:SP_4657,Feuillantines,26
+2374683,19:06:00,19:06:10,stop_point:SP_4392,Jean Dabadie,27
+2374683,19:07:00,19:07:10,stop_point:SP_4386,Pont de l'Europe,28
+2374683,19:09:00,19:09:10,stop_point:SP_5711,Occitanie,29
+2374683,19:10:00,19:10:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374684,19:10:00,19:10:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374684,19:13:00,19:13:10,stop_point:SP_4529,Jean Jaurès,2
+2374684,19:14:00,19:14:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374684,19:14:00,19:14:10,stop_point:SP_11,Gauguin,4
+2374684,19:15:00,19:15:10,stop_point:SP_3190,Clemenceau,5
+2374684,19:16:00,19:16:10,stop_point:SP_2601,Lot. Impérial,6
+2374684,19:17:00,19:17:10,stop_point:SP_2793,Berdoulat,7
+2374684,19:18:00,19:18:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374684,19:19:00,19:19:10,stop_point:SP_2071,Commune,9
+2374684,19:20:00,19:20:10,stop_point:SP_3226,Lachambre,10
+2374684,19:23:00,19:23:10,stop_point:SP_2237,Bruyère,11
+2374684,19:24:00,19:24:10,stop_point:SP_4633,Route de Roquettes,12
+2374684,19:27:00,19:27:10,stop_point:SP_3868,Beaucru,13
+2374684,19:28:00,19:28:10,stop_point:SP_772,Ecole Roquettes,14
+2374684,19:29:00,19:29:10,stop_point:SP_798,Cimetière Roquettes,15
+2374684,19:30:00,19:30:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374684,19:30:00,19:30:10,stop_point:SP_4637,Roquettes Eglise,17
+2374684,19:31:00,19:31:10,stop_point:SP_1994,Château Sud,18
+2374684,19:31:00,19:31:10,stop_point:SP_4664,Garonne,19
+2374684,19:32:00,19:32:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374684,19:33:00,19:33:10,stop_point:SP_4650,Le Trouil,21
+2374684,19:34:00,19:34:10,stop_point:SP_4966,Laborie,22
+2374684,19:35:00,19:35:10,stop_point:SP_4968,Lacs,23
+2374684,19:36:00,19:36:10,stop_point:SP_4635,Saubens Mairie,24
+2374684,19:36:00,19:36:10,stop_point:SP_4638,Mesplé,25
+2374684,19:37:00,19:37:10,stop_point:SP_4657,Feuillantines,26
+2374684,19:41:00,19:41:10,stop_point:SP_4392,Jean Dabadie,27
+2374684,19:42:00,19:42:10,stop_point:SP_4386,Pont de l'Europe,28
+2374684,19:44:00,19:44:10,stop_point:SP_5711,Occitanie,29
+2374684,19:45:00,19:45:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30
+2374685,20:00:00,20:00:10,stop_point:SP_4756,Portet Gare SNCF,1
+2374685,20:03:00,20:03:10,stop_point:SP_4529,Jean Jaurès,2
+2374685,20:04:00,20:04:10,stop_point:SP_4757,Ateliers Municipaux,3
+2374685,20:04:00,20:04:10,stop_point:SP_11,Gauguin,4
+2374685,20:05:00,20:05:10,stop_point:SP_3190,Clemenceau,5
+2374685,20:06:00,20:06:10,stop_point:SP_2601,Lot. Impérial,6
+2374685,20:07:00,20:07:10,stop_point:SP_2793,Berdoulat,7
+2374685,20:08:00,20:08:10,stop_point:SP_643,Mairie Pinsaguel,8
+2374685,20:09:00,20:09:10,stop_point:SP_2071,Commune,9
+2374685,20:10:00,20:10:10,stop_point:SP_3226,Lachambre,10
+2374685,20:13:00,20:13:10,stop_point:SP_2237,Bruyère,11
+2374685,20:14:00,20:14:10,stop_point:SP_4633,Route de Roquettes,12
+2374685,20:17:00,20:17:10,stop_point:SP_3868,Beaucru,13
+2374685,20:18:00,20:18:10,stop_point:SP_772,Ecole Roquettes,14
+2374685,20:19:00,20:19:10,stop_point:SP_798,Cimetière Roquettes,15
+2374685,20:20:00,20:20:10,stop_point:SP_4662,Anciennes Ecoles,16
+2374685,20:20:00,20:20:10,stop_point:SP_4637,Roquettes Eglise,17
+2374685,20:21:00,20:21:10,stop_point:SP_1994,Château Sud,18
+2374685,20:21:00,20:21:10,stop_point:SP_4664,Garonne,19
+2374685,20:22:00,20:22:10,stop_point:SP_4645,Chemin de Roquettes,20
+2374685,20:23:00,20:23:10,stop_point:SP_4650,Le Trouil,21
+2374685,20:24:00,20:24:10,stop_point:SP_4966,Laborie,22
+2374685,20:25:00,20:25:10,stop_point:SP_4968,Lacs,23
+2374685,20:26:00,20:26:10,stop_point:SP_4635,Saubens Mairie,24
+2374685,20:26:00,20:26:10,stop_point:SP_4638,Mesplé,25
+2374685,20:27:00,20:27:10,stop_point:SP_4657,Feuillantines,26
+2374685,20:31:00,20:31:10,stop_point:SP_4392,Jean Dabadie,27
+2374685,20:32:00,20:32:10,stop_point:SP_4386,Pont de l'Europe,28
+2374685,20:34:00,20:34:10,stop_point:SP_5711,Occitanie,29
+2374685,20:35:00,20:35:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,30

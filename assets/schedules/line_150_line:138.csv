@@ -1,0 +1,1000 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2349094,07:15:00,07:15:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349094,07:16:00,07:16:10,stop_point:SP_5237,Mairie Colomiers,2
+2349094,07:17:00,07:17:10,stop_point:SP_937,Hall Comminges,3
+2349094,07:18:00,07:18:10,stop_point:SP_2060,Gers,4
+2349094,07:20:00,07:20:10,stop_point:SP_4301,Sevennes,5
+2349094,07:21:00,07:21:10,stop_point:SP_4290,Baronnies,6
+2349094,07:22:00,07:22:10,stop_point:SP_5153,Chasse,7
+2349094,07:23:00,07:23:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349094,07:25:00,07:25:10,stop_point:SP_5163,Perget,9
+2349094,07:25:00,07:25:10,stop_point:SP_4292,Loudet,10
+2349094,07:26:00,07:26:10,stop_point:SP_4289,Ampère,11
+2349094,07:27:00,07:27:10,stop_point:SP_4300,Pornic,12
+2349094,07:27:00,07:27:10,stop_point:SP_4304,Vendée,13
+2349094,07:28:00,07:28:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349094,07:28:00,07:28:10,stop_point:SP_4299,Noirmoutier,15
+2349094,07:29:00,07:29:10,stop_point:SP_4302,Brocéliande,16
+2349094,07:29:00,07:29:10,stop_point:SP_4296,Armorique,17
+2349094,07:30:00,07:30:10,stop_point:SP_4303,Fourcaudis,18
+2349094,07:31:00,07:31:10,stop_point:SP_4294,Forez,19
+2349094,07:31:00,07:31:10,stop_point:SP_4286,Saint Jean,20
+2349094,07:32:00,07:32:10,stop_point:SP_4287,Garroussal,21
+2349094,07:33:00,07:33:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349094,07:33:00,07:33:10,stop_point:SP_4498,Moulin,23
+2349094,07:34:00,07:34:10,stop_point:SP_4496,Couderc,24
+2349094,07:35:00,07:35:10,stop_point:SP_4497,F. Pons,25
+2349094,07:36:00,07:36:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349094,07:37:00,07:37:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349095,08:00:00,08:00:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349095,08:01:00,08:01:10,stop_point:SP_5237,Mairie Colomiers,2
+2349095,08:02:00,08:02:10,stop_point:SP_937,Hall Comminges,3
+2349095,08:03:00,08:03:10,stop_point:SP_2060,Gers,4
+2349095,08:05:00,08:05:10,stop_point:SP_4301,Sevennes,5
+2349095,08:06:00,08:06:10,stop_point:SP_4290,Baronnies,6
+2349095,08:07:00,08:07:10,stop_point:SP_5153,Chasse,7
+2349095,08:08:00,08:08:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349095,08:10:00,08:10:10,stop_point:SP_5163,Perget,9
+2349095,08:10:00,08:10:10,stop_point:SP_4292,Loudet,10
+2349095,08:11:00,08:11:10,stop_point:SP_4289,Ampère,11
+2349095,08:12:00,08:12:10,stop_point:SP_4300,Pornic,12
+2349095,08:12:00,08:12:10,stop_point:SP_4304,Vendée,13
+2349095,08:13:00,08:13:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349095,08:13:00,08:13:10,stop_point:SP_4299,Noirmoutier,15
+2349095,08:14:00,08:14:10,stop_point:SP_4302,Brocéliande,16
+2349095,08:14:00,08:14:10,stop_point:SP_4296,Armorique,17
+2349095,08:15:00,08:15:10,stop_point:SP_4303,Fourcaudis,18
+2349095,08:16:00,08:16:10,stop_point:SP_4294,Forez,19
+2349095,08:16:00,08:16:10,stop_point:SP_4286,Saint Jean,20
+2349095,08:17:00,08:17:10,stop_point:SP_4287,Garroussal,21
+2349095,08:18:00,08:18:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349095,08:18:00,08:18:10,stop_point:SP_4498,Moulin,23
+2349095,08:19:00,08:19:10,stop_point:SP_4496,Couderc,24
+2349095,08:20:00,08:20:10,stop_point:SP_4497,F. Pons,25
+2349095,08:21:00,08:21:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349095,08:22:00,08:22:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349096,08:48:00,08:48:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349096,08:49:00,08:49:10,stop_point:SP_5237,Mairie Colomiers,2
+2349096,08:50:00,08:50:10,stop_point:SP_937,Hall Comminges,3
+2349096,08:51:00,08:51:10,stop_point:SP_2060,Gers,4
+2349096,08:53:00,08:53:10,stop_point:SP_4301,Sevennes,5
+2349096,08:54:00,08:54:10,stop_point:SP_4290,Baronnies,6
+2349096,08:55:00,08:55:10,stop_point:SP_5153,Chasse,7
+2349096,08:56:00,08:56:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349096,08:58:00,08:58:10,stop_point:SP_5163,Perget,9
+2349096,08:58:00,08:58:10,stop_point:SP_4292,Loudet,10
+2349096,08:59:00,08:59:10,stop_point:SP_4289,Ampère,11
+2349096,09:00:00,09:00:10,stop_point:SP_4300,Pornic,12
+2349096,09:00:00,09:00:10,stop_point:SP_4304,Vendée,13
+2349096,09:01:00,09:01:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349096,09:01:00,09:01:10,stop_point:SP_4299,Noirmoutier,15
+2349096,09:02:00,09:02:10,stop_point:SP_4302,Brocéliande,16
+2349096,09:02:00,09:02:10,stop_point:SP_4296,Armorique,17
+2349096,09:03:00,09:03:10,stop_point:SP_4303,Fourcaudis,18
+2349096,09:04:00,09:04:10,stop_point:SP_4294,Forez,19
+2349096,09:04:00,09:04:10,stop_point:SP_4286,Saint Jean,20
+2349096,09:05:00,09:05:10,stop_point:SP_4287,Garroussal,21
+2349096,09:06:00,09:06:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349096,09:06:00,09:06:10,stop_point:SP_4498,Moulin,23
+2349096,09:07:00,09:07:10,stop_point:SP_4496,Couderc,24
+2349096,09:08:00,09:08:10,stop_point:SP_4497,F. Pons,25
+2349096,09:09:00,09:09:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349096,09:10:00,09:10:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349097,10:07:00,10:07:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349097,10:08:00,10:08:10,stop_point:SP_5237,Mairie Colomiers,2
+2349097,10:09:00,10:09:10,stop_point:SP_937,Hall Comminges,3
+2349097,10:10:00,10:10:10,stop_point:SP_2060,Gers,4
+2349097,10:12:00,10:12:10,stop_point:SP_4301,Sevennes,5
+2349097,10:13:00,10:13:10,stop_point:SP_4290,Baronnies,6
+2349097,10:14:00,10:14:10,stop_point:SP_5153,Chasse,7
+2349097,10:15:00,10:15:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349097,10:17:00,10:17:10,stop_point:SP_5163,Perget,9
+2349097,10:17:00,10:17:10,stop_point:SP_4292,Loudet,10
+2349097,10:18:00,10:18:10,stop_point:SP_4289,Ampère,11
+2349097,10:19:00,10:19:10,stop_point:SP_4300,Pornic,12
+2349097,10:19:00,10:19:10,stop_point:SP_4304,Vendée,13
+2349097,10:20:00,10:20:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349097,10:21:00,10:21:10,stop_point:SP_4299,Noirmoutier,15
+2349097,10:21:00,10:21:10,stop_point:SP_4302,Brocéliande,16
+2349097,10:22:00,10:22:10,stop_point:SP_4296,Armorique,17
+2349097,10:23:00,10:23:10,stop_point:SP_4303,Fourcaudis,18
+2349097,10:24:00,10:24:10,stop_point:SP_4294,Forez,19
+2349097,10:24:00,10:24:10,stop_point:SP_4286,Saint Jean,20
+2349097,10:25:00,10:25:10,stop_point:SP_4287,Garroussal,21
+2349097,10:26:00,10:26:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349097,10:27:00,10:27:10,stop_point:SP_4498,Moulin,23
+2349097,10:28:00,10:28:10,stop_point:SP_4496,Couderc,24
+2349097,10:28:00,10:28:10,stop_point:SP_4497,F. Pons,25
+2349097,10:30:00,10:30:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349097,10:31:00,10:31:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349098,10:50:00,10:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349098,10:51:00,10:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349098,10:52:00,10:52:10,stop_point:SP_937,Hall Comminges,3
+2349098,10:53:00,10:53:10,stop_point:SP_2060,Gers,4
+2349098,10:55:00,10:55:10,stop_point:SP_4301,Sevennes,5
+2349098,10:56:00,10:56:10,stop_point:SP_4290,Baronnies,6
+2349098,10:57:00,10:57:10,stop_point:SP_5153,Chasse,7
+2349098,10:58:00,10:58:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349098,11:00:00,11:00:10,stop_point:SP_5163,Perget,9
+2349098,11:00:00,11:00:10,stop_point:SP_4292,Loudet,10
+2349098,11:01:00,11:01:10,stop_point:SP_4289,Ampère,11
+2349098,11:02:00,11:02:10,stop_point:SP_4300,Pornic,12
+2349098,11:02:00,11:02:10,stop_point:SP_4304,Vendée,13
+2349098,11:03:00,11:03:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349098,11:04:00,11:04:10,stop_point:SP_4299,Noirmoutier,15
+2349098,11:04:00,11:04:10,stop_point:SP_4302,Brocéliande,16
+2349098,11:05:00,11:05:10,stop_point:SP_4296,Armorique,17
+2349098,11:06:00,11:06:10,stop_point:SP_4303,Fourcaudis,18
+2349098,11:07:00,11:07:10,stop_point:SP_4294,Forez,19
+2349098,11:07:00,11:07:10,stop_point:SP_4286,Saint Jean,20
+2349098,11:08:00,11:08:10,stop_point:SP_4287,Garroussal,21
+2349098,11:09:00,11:09:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349098,11:10:00,11:10:10,stop_point:SP_4498,Moulin,23
+2349098,11:11:00,11:11:10,stop_point:SP_4496,Couderc,24
+2349098,11:11:00,11:11:10,stop_point:SP_4497,F. Pons,25
+2349098,11:13:00,11:13:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349098,11:14:00,11:14:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349099,12:00:00,12:00:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349099,12:01:00,12:01:10,stop_point:SP_5237,Mairie Colomiers,2
+2349099,12:02:00,12:02:10,stop_point:SP_937,Hall Comminges,3
+2349099,12:03:00,12:03:10,stop_point:SP_2060,Gers,4
+2349099,12:05:00,12:05:10,stop_point:SP_4301,Sevennes,5
+2349099,12:06:00,12:06:10,stop_point:SP_4290,Baronnies,6
+2349099,12:07:00,12:07:10,stop_point:SP_5153,Chasse,7
+2349099,12:08:00,12:08:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349099,12:10:00,12:10:10,stop_point:SP_5163,Perget,9
+2349099,12:10:00,12:10:10,stop_point:SP_4292,Loudet,10
+2349099,12:11:00,12:11:10,stop_point:SP_4289,Ampère,11
+2349099,12:12:00,12:12:10,stop_point:SP_4300,Pornic,12
+2349099,12:12:00,12:12:10,stop_point:SP_4304,Vendée,13
+2349099,12:13:00,12:13:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349099,12:14:00,12:14:10,stop_point:SP_4299,Noirmoutier,15
+2349099,12:14:00,12:14:10,stop_point:SP_4302,Brocéliande,16
+2349099,12:15:00,12:15:10,stop_point:SP_4296,Armorique,17
+2349099,12:16:00,12:16:10,stop_point:SP_4303,Fourcaudis,18
+2349099,12:17:00,12:17:10,stop_point:SP_4294,Forez,19
+2349099,12:17:00,12:17:10,stop_point:SP_4286,Saint Jean,20
+2349099,12:18:00,12:18:10,stop_point:SP_4287,Garroussal,21
+2349099,12:19:00,12:19:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349099,12:20:00,12:20:10,stop_point:SP_4498,Moulin,23
+2349099,12:21:00,12:21:10,stop_point:SP_4496,Couderc,24
+2349099,12:21:00,12:21:10,stop_point:SP_4497,F. Pons,25
+2349099,12:23:00,12:23:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349099,12:24:00,12:24:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349100,13:00:00,13:00:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349100,13:01:00,13:01:10,stop_point:SP_5237,Mairie Colomiers,2
+2349100,13:02:00,13:02:10,stop_point:SP_937,Hall Comminges,3
+2349100,13:03:00,13:03:10,stop_point:SP_2060,Gers,4
+2349100,13:05:00,13:05:10,stop_point:SP_4301,Sevennes,5
+2349100,13:06:00,13:06:10,stop_point:SP_4290,Baronnies,6
+2349100,13:07:00,13:07:10,stop_point:SP_5153,Chasse,7
+2349100,13:08:00,13:08:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349100,13:10:00,13:10:10,stop_point:SP_5163,Perget,9
+2349100,13:10:00,13:10:10,stop_point:SP_4292,Loudet,10
+2349100,13:11:00,13:11:10,stop_point:SP_4289,Ampère,11
+2349100,13:12:00,13:12:10,stop_point:SP_4300,Pornic,12
+2349100,13:12:00,13:12:10,stop_point:SP_4304,Vendée,13
+2349100,13:13:00,13:13:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349100,13:14:00,13:14:10,stop_point:SP_4299,Noirmoutier,15
+2349100,13:14:00,13:14:10,stop_point:SP_4302,Brocéliande,16
+2349100,13:15:00,13:15:10,stop_point:SP_4296,Armorique,17
+2349100,13:16:00,13:16:10,stop_point:SP_4303,Fourcaudis,18
+2349100,13:17:00,13:17:10,stop_point:SP_4294,Forez,19
+2349100,13:17:00,13:17:10,stop_point:SP_4286,Saint Jean,20
+2349100,13:18:00,13:18:10,stop_point:SP_4287,Garroussal,21
+2349100,13:19:00,13:19:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349100,13:20:00,13:20:10,stop_point:SP_4498,Moulin,23
+2349100,13:21:00,13:21:10,stop_point:SP_4496,Couderc,24
+2349100,13:21:00,13:21:10,stop_point:SP_4497,F. Pons,25
+2349100,13:23:00,13:23:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349100,13:24:00,13:24:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349101,13:50:00,13:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349101,13:51:00,13:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349101,13:52:00,13:52:10,stop_point:SP_937,Hall Comminges,3
+2349101,13:53:00,13:53:10,stop_point:SP_2060,Gers,4
+2349101,13:55:00,13:55:10,stop_point:SP_4301,Sevennes,5
+2349101,13:56:00,13:56:10,stop_point:SP_4290,Baronnies,6
+2349101,13:57:00,13:57:10,stop_point:SP_5153,Chasse,7
+2349101,13:58:00,13:58:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349101,14:00:00,14:00:10,stop_point:SP_5163,Perget,9
+2349101,14:00:00,14:00:10,stop_point:SP_4292,Loudet,10
+2349101,14:01:00,14:01:10,stop_point:SP_4289,Ampère,11
+2349101,14:02:00,14:02:10,stop_point:SP_4300,Pornic,12
+2349101,14:02:00,14:02:10,stop_point:SP_4304,Vendée,13
+2349101,14:03:00,14:03:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349101,14:04:00,14:04:10,stop_point:SP_4299,Noirmoutier,15
+2349101,14:04:00,14:04:10,stop_point:SP_4302,Brocéliande,16
+2349101,14:05:00,14:05:10,stop_point:SP_4296,Armorique,17
+2349101,14:06:00,14:06:10,stop_point:SP_4303,Fourcaudis,18
+2349101,14:07:00,14:07:10,stop_point:SP_4294,Forez,19
+2349101,14:07:00,14:07:10,stop_point:SP_4286,Saint Jean,20
+2349101,14:08:00,14:08:10,stop_point:SP_4287,Garroussal,21
+2349101,14:09:00,14:09:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349101,14:10:00,14:10:10,stop_point:SP_4498,Moulin,23
+2349101,14:11:00,14:11:10,stop_point:SP_4496,Couderc,24
+2349101,14:11:00,14:11:10,stop_point:SP_4497,F. Pons,25
+2349101,14:13:00,14:13:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349101,14:14:00,14:14:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349102,14:50:00,14:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349102,14:51:00,14:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349102,14:52:00,14:52:10,stop_point:SP_937,Hall Comminges,3
+2349102,14:53:00,14:53:10,stop_point:SP_2060,Gers,4
+2349102,14:55:00,14:55:10,stop_point:SP_4301,Sevennes,5
+2349102,14:56:00,14:56:10,stop_point:SP_4290,Baronnies,6
+2349102,14:57:00,14:57:10,stop_point:SP_5153,Chasse,7
+2349102,14:58:00,14:58:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349102,15:00:00,15:00:10,stop_point:SP_5163,Perget,9
+2349102,15:00:00,15:00:10,stop_point:SP_4292,Loudet,10
+2349102,15:01:00,15:01:10,stop_point:SP_4289,Ampère,11
+2349102,15:02:00,15:02:10,stop_point:SP_4300,Pornic,12
+2349102,15:02:00,15:02:10,stop_point:SP_4304,Vendée,13
+2349102,15:03:00,15:03:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349102,15:04:00,15:04:10,stop_point:SP_4299,Noirmoutier,15
+2349102,15:04:00,15:04:10,stop_point:SP_4302,Brocéliande,16
+2349102,15:05:00,15:05:10,stop_point:SP_4296,Armorique,17
+2349102,15:06:00,15:06:10,stop_point:SP_4303,Fourcaudis,18
+2349102,15:07:00,15:07:10,stop_point:SP_4294,Forez,19
+2349102,15:07:00,15:07:10,stop_point:SP_4286,Saint Jean,20
+2349102,15:08:00,15:08:10,stop_point:SP_4287,Garroussal,21
+2349102,15:09:00,15:09:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349102,15:10:00,15:10:10,stop_point:SP_4498,Moulin,23
+2349102,15:11:00,15:11:10,stop_point:SP_4496,Couderc,24
+2349102,15:11:00,15:11:10,stop_point:SP_4497,F. Pons,25
+2349102,15:13:00,15:13:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349102,15:14:00,15:14:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349103,16:10:00,16:10:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349103,16:11:00,16:11:10,stop_point:SP_5237,Mairie Colomiers,2
+2349103,16:12:00,16:12:10,stop_point:SP_937,Hall Comminges,3
+2349103,16:13:00,16:13:10,stop_point:SP_2060,Gers,4
+2349103,16:15:00,16:15:10,stop_point:SP_4301,Sevennes,5
+2349103,16:16:00,16:16:10,stop_point:SP_4290,Baronnies,6
+2349103,16:17:00,16:17:10,stop_point:SP_5153,Chasse,7
+2349103,16:18:00,16:18:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349103,16:20:00,16:20:10,stop_point:SP_5163,Perget,9
+2349103,16:20:00,16:20:10,stop_point:SP_4292,Loudet,10
+2349103,16:21:00,16:21:10,stop_point:SP_4289,Ampère,11
+2349103,16:22:00,16:22:10,stop_point:SP_4300,Pornic,12
+2349103,16:22:00,16:22:10,stop_point:SP_4304,Vendée,13
+2349103,16:23:00,16:23:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349103,16:24:00,16:24:10,stop_point:SP_4299,Noirmoutier,15
+2349103,16:24:00,16:24:10,stop_point:SP_4302,Brocéliande,16
+2349103,16:25:00,16:25:10,stop_point:SP_4296,Armorique,17
+2349103,16:26:00,16:26:10,stop_point:SP_4303,Fourcaudis,18
+2349103,16:27:00,16:27:10,stop_point:SP_4294,Forez,19
+2349103,16:27:00,16:27:10,stop_point:SP_4286,Saint Jean,20
+2349103,16:28:00,16:28:10,stop_point:SP_4287,Garroussal,21
+2349103,16:29:00,16:29:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349103,16:30:00,16:30:10,stop_point:SP_4498,Moulin,23
+2349103,16:31:00,16:31:10,stop_point:SP_4496,Couderc,24
+2349103,16:31:00,16:31:10,stop_point:SP_4497,F. Pons,25
+2349103,16:33:00,16:33:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349103,16:34:00,16:34:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349104,17:00:00,17:00:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349104,17:01:00,17:01:10,stop_point:SP_5237,Mairie Colomiers,2
+2349104,17:02:00,17:02:10,stop_point:SP_937,Hall Comminges,3
+2349104,17:03:00,17:03:10,stop_point:SP_2060,Gers,4
+2349104,17:05:00,17:05:10,stop_point:SP_4301,Sevennes,5
+2349104,17:06:00,17:06:10,stop_point:SP_4290,Baronnies,6
+2349104,17:07:00,17:07:10,stop_point:SP_5153,Chasse,7
+2349104,17:08:00,17:08:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349104,17:10:00,17:10:10,stop_point:SP_5163,Perget,9
+2349104,17:10:00,17:10:10,stop_point:SP_4292,Loudet,10
+2349104,17:11:00,17:11:10,stop_point:SP_4289,Ampère,11
+2349104,17:12:00,17:12:10,stop_point:SP_4300,Pornic,12
+2349104,17:12:00,17:12:10,stop_point:SP_4304,Vendée,13
+2349104,17:13:00,17:13:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349104,17:14:00,17:14:10,stop_point:SP_4299,Noirmoutier,15
+2349104,17:14:00,17:14:10,stop_point:SP_4302,Brocéliande,16
+2349104,17:15:00,17:15:10,stop_point:SP_4296,Armorique,17
+2349104,17:16:00,17:16:10,stop_point:SP_4303,Fourcaudis,18
+2349104,17:17:00,17:17:10,stop_point:SP_4294,Forez,19
+2349104,17:17:00,17:17:10,stop_point:SP_4286,Saint Jean,20
+2349104,17:18:00,17:18:10,stop_point:SP_4287,Garroussal,21
+2349104,17:19:00,17:19:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349104,17:20:00,17:20:10,stop_point:SP_4498,Moulin,23
+2349104,17:21:00,17:21:10,stop_point:SP_4496,Couderc,24
+2349104,17:21:00,17:21:10,stop_point:SP_4497,F. Pons,25
+2349104,17:23:00,17:23:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349104,17:24:00,17:24:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349105,18:00:00,18:00:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349105,18:01:00,18:01:10,stop_point:SP_5237,Mairie Colomiers,2
+2349105,18:02:00,18:02:10,stop_point:SP_937,Hall Comminges,3
+2349105,18:03:00,18:03:10,stop_point:SP_2060,Gers,4
+2349105,18:05:00,18:05:10,stop_point:SP_4301,Sevennes,5
+2349105,18:06:00,18:06:10,stop_point:SP_4290,Baronnies,6
+2349105,18:07:00,18:07:10,stop_point:SP_5153,Chasse,7
+2349105,18:08:00,18:08:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349105,18:10:00,18:10:10,stop_point:SP_5163,Perget,9
+2349105,18:10:00,18:10:10,stop_point:SP_4292,Loudet,10
+2349105,18:11:00,18:11:10,stop_point:SP_4289,Ampère,11
+2349105,18:12:00,18:12:10,stop_point:SP_4300,Pornic,12
+2349105,18:12:00,18:12:10,stop_point:SP_4304,Vendée,13
+2349105,18:13:00,18:13:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349105,18:14:00,18:14:10,stop_point:SP_4299,Noirmoutier,15
+2349105,18:14:00,18:14:10,stop_point:SP_4302,Brocéliande,16
+2349105,18:15:00,18:15:10,stop_point:SP_4296,Armorique,17
+2349105,18:16:00,18:16:10,stop_point:SP_4303,Fourcaudis,18
+2349105,18:17:00,18:17:10,stop_point:SP_4294,Forez,19
+2349105,18:17:00,18:17:10,stop_point:SP_4286,Saint Jean,20
+2349105,18:18:00,18:18:10,stop_point:SP_4287,Garroussal,21
+2349105,18:19:00,18:19:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349105,18:20:00,18:20:10,stop_point:SP_4498,Moulin,23
+2349105,18:21:00,18:21:10,stop_point:SP_4496,Couderc,24
+2349105,18:21:00,18:21:10,stop_point:SP_4497,F. Pons,25
+2349105,18:23:00,18:23:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349105,18:24:00,18:24:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349106,18:55:00,18:55:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349106,18:56:00,18:56:10,stop_point:SP_5237,Mairie Colomiers,2
+2349106,18:57:00,18:57:10,stop_point:SP_937,Hall Comminges,3
+2349106,18:58:00,18:58:10,stop_point:SP_2060,Gers,4
+2349106,19:00:00,19:00:10,stop_point:SP_4301,Sevennes,5
+2349106,19:01:00,19:01:10,stop_point:SP_4290,Baronnies,6
+2349106,19:02:00,19:02:10,stop_point:SP_5153,Chasse,7
+2349106,19:03:00,19:03:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349106,19:05:00,19:05:10,stop_point:SP_5163,Perget,9
+2349106,19:05:00,19:05:10,stop_point:SP_4292,Loudet,10
+2349106,19:06:00,19:06:10,stop_point:SP_4289,Ampère,11
+2349106,19:07:00,19:07:10,stop_point:SP_4300,Pornic,12
+2349106,19:07:00,19:07:10,stop_point:SP_4304,Vendée,13
+2349106,19:08:00,19:08:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349106,19:08:00,19:08:10,stop_point:SP_4299,Noirmoutier,15
+2349106,19:09:00,19:09:10,stop_point:SP_4302,Brocéliande,16
+2349106,19:09:00,19:09:10,stop_point:SP_4296,Armorique,17
+2349106,19:10:00,19:10:10,stop_point:SP_4303,Fourcaudis,18
+2349106,19:11:00,19:11:10,stop_point:SP_4294,Forez,19
+2349106,19:11:00,19:11:10,stop_point:SP_4286,Saint Jean,20
+2349106,19:12:00,19:12:10,stop_point:SP_4287,Garroussal,21
+2349106,19:13:00,19:13:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349106,19:13:00,19:13:10,stop_point:SP_4498,Moulin,23
+2349106,19:14:00,19:14:10,stop_point:SP_4496,Couderc,24
+2349106,19:15:00,19:15:10,stop_point:SP_4497,F. Pons,25
+2349106,19:16:00,19:16:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349106,19:17:00,19:17:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349107,06:13:00,06:13:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349107,06:14:00,06:14:10,stop_point:SP_5237,Mairie Colomiers,2
+2349107,06:15:00,06:15:10,stop_point:SP_937,Hall Comminges,3
+2349107,06:16:00,06:16:10,stop_point:SP_2060,Gers,4
+2349107,06:18:00,06:18:10,stop_point:SP_4301,Sevennes,5
+2349107,06:19:00,06:19:10,stop_point:SP_4290,Baronnies,6
+2349107,06:20:00,06:20:10,stop_point:SP_5153,Chasse,7
+2349107,06:21:00,06:21:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349107,06:23:00,06:23:10,stop_point:SP_5163,Perget,9
+2349107,06:23:00,06:23:10,stop_point:SP_4292,Loudet,10
+2349107,06:24:00,06:24:10,stop_point:SP_4289,Ampère,11
+2349107,06:25:00,06:25:10,stop_point:SP_4300,Pornic,12
+2349107,06:25:00,06:25:10,stop_point:SP_4304,Vendée,13
+2349107,06:26:00,06:26:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349107,06:27:00,06:27:10,stop_point:SP_4299,Noirmoutier,15
+2349107,06:27:00,06:27:10,stop_point:SP_4302,Brocéliande,16
+2349107,06:28:00,06:28:10,stop_point:SP_4296,Armorique,17
+2349107,06:29:00,06:29:10,stop_point:SP_4303,Fourcaudis,18
+2349107,06:30:00,06:30:10,stop_point:SP_4294,Forez,19
+2349107,06:31:00,06:31:10,stop_point:SP_4286,Saint Jean,20
+2349107,06:32:00,06:32:10,stop_point:SP_4287,Garroussal,21
+2349107,06:33:00,06:33:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349107,06:33:00,06:33:10,stop_point:SP_4498,Moulin,23
+2349107,06:34:00,06:34:10,stop_point:SP_4496,Couderc,24
+2349107,06:35:00,06:35:10,stop_point:SP_4497,F. Pons,25
+2349107,06:36:00,06:36:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349107,06:37:00,06:37:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349108,06:45:00,06:45:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349108,06:46:00,06:46:10,stop_point:SP_5237,Mairie Colomiers,2
+2349108,06:47:00,06:47:10,stop_point:SP_937,Hall Comminges,3
+2349108,06:48:00,06:48:10,stop_point:SP_2060,Gers,4
+2349108,06:50:00,06:50:10,stop_point:SP_4301,Sevennes,5
+2349108,06:51:00,06:51:10,stop_point:SP_4290,Baronnies,6
+2349108,06:52:00,06:52:10,stop_point:SP_5153,Chasse,7
+2349108,06:53:00,06:53:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349108,06:55:00,06:55:10,stop_point:SP_5163,Perget,9
+2349108,06:55:00,06:55:10,stop_point:SP_4292,Loudet,10
+2349108,06:56:00,06:56:10,stop_point:SP_4289,Ampère,11
+2349108,06:57:00,06:57:10,stop_point:SP_4300,Pornic,12
+2349108,06:57:00,06:57:10,stop_point:SP_4304,Vendée,13
+2349108,06:58:00,06:58:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349108,06:59:00,06:59:10,stop_point:SP_4299,Noirmoutier,15
+2349108,07:00:00,07:00:10,stop_point:SP_4302,Brocéliande,16
+2349108,07:01:00,07:01:10,stop_point:SP_4296,Armorique,17
+2349108,07:02:00,07:02:10,stop_point:SP_4303,Fourcaudis,18
+2349108,07:03:00,07:03:10,stop_point:SP_4294,Forez,19
+2349108,07:04:00,07:04:10,stop_point:SP_4286,Saint Jean,20
+2349108,07:05:00,07:05:10,stop_point:SP_4287,Garroussal,21
+2349108,07:06:00,07:06:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349108,07:07:00,07:07:10,stop_point:SP_4498,Moulin,23
+2349108,07:08:00,07:08:10,stop_point:SP_4496,Couderc,24
+2349108,07:08:00,07:08:10,stop_point:SP_4497,F. Pons,25
+2349108,07:10:00,07:10:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349108,07:11:00,07:11:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349109,07:17:00,07:17:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349109,07:18:00,07:18:10,stop_point:SP_5237,Mairie Colomiers,2
+2349109,07:19:00,07:19:10,stop_point:SP_937,Hall Comminges,3
+2349109,07:21:00,07:21:10,stop_point:SP_2060,Gers,4
+2349109,07:23:00,07:23:10,stop_point:SP_4301,Sevennes,5
+2349109,07:24:00,07:24:10,stop_point:SP_4290,Baronnies,6
+2349109,07:25:00,07:25:10,stop_point:SP_5153,Chasse,7
+2349109,07:26:00,07:26:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349109,07:28:00,07:28:10,stop_point:SP_5163,Perget,9
+2349109,07:29:00,07:29:10,stop_point:SP_4292,Loudet,10
+2349109,07:30:00,07:30:10,stop_point:SP_4289,Ampère,11
+2349109,07:31:00,07:31:10,stop_point:SP_4300,Pornic,12
+2349109,07:32:00,07:32:10,stop_point:SP_4304,Vendée,13
+2349109,07:33:00,07:33:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349109,07:34:00,07:34:10,stop_point:SP_4299,Noirmoutier,15
+2349109,07:35:00,07:35:10,stop_point:SP_4302,Brocéliande,16
+2349109,07:36:00,07:36:10,stop_point:SP_4296,Armorique,17
+2349109,07:37:00,07:37:10,stop_point:SP_4303,Fourcaudis,18
+2349109,07:38:00,07:38:10,stop_point:SP_4294,Forez,19
+2349109,07:39:00,07:39:10,stop_point:SP_4286,Saint Jean,20
+2349109,07:40:00,07:40:10,stop_point:SP_4287,Garroussal,21
+2349109,07:41:00,07:41:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349109,07:42:00,07:42:10,stop_point:SP_4498,Moulin,23
+2349109,07:43:00,07:43:10,stop_point:SP_4496,Couderc,24
+2349109,07:43:00,07:43:10,stop_point:SP_4497,F. Pons,25
+2349109,07:45:00,07:45:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349109,07:46:00,07:46:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349110,07:50:00,07:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349110,07:51:00,07:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349110,07:52:00,07:52:10,stop_point:SP_937,Hall Comminges,3
+2349110,07:54:00,07:54:10,stop_point:SP_2060,Gers,4
+2349110,07:56:00,07:56:10,stop_point:SP_4301,Sevennes,5
+2349110,07:57:00,07:57:10,stop_point:SP_4290,Baronnies,6
+2349110,07:58:00,07:58:10,stop_point:SP_5153,Chasse,7
+2349110,07:59:00,07:59:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349110,08:01:00,08:01:10,stop_point:SP_5163,Perget,9
+2349110,08:02:00,08:02:10,stop_point:SP_4292,Loudet,10
+2349110,08:03:00,08:03:10,stop_point:SP_4289,Ampère,11
+2349110,08:04:00,08:04:10,stop_point:SP_4300,Pornic,12
+2349110,08:05:00,08:05:10,stop_point:SP_4304,Vendée,13
+2349110,08:07:00,08:07:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349110,08:08:00,08:08:10,stop_point:SP_4299,Noirmoutier,15
+2349110,08:09:00,08:09:10,stop_point:SP_4302,Brocéliande,16
+2349110,08:10:00,08:10:10,stop_point:SP_4296,Armorique,17
+2349110,08:11:00,08:11:10,stop_point:SP_4303,Fourcaudis,18
+2349110,08:12:00,08:12:10,stop_point:SP_4294,Forez,19
+2349110,08:13:00,08:13:10,stop_point:SP_4286,Saint Jean,20
+2349110,08:14:00,08:14:10,stop_point:SP_4287,Garroussal,21
+2349110,08:15:00,08:15:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349110,08:16:00,08:16:10,stop_point:SP_4498,Moulin,23
+2349110,08:17:00,08:17:10,stop_point:SP_4496,Couderc,24
+2349110,08:17:00,08:17:10,stop_point:SP_4497,F. Pons,25
+2349110,08:19:00,08:19:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349110,08:20:00,08:20:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349111,08:20:00,08:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349111,08:21:00,08:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349111,08:22:00,08:22:10,stop_point:SP_937,Hall Comminges,3
+2349111,08:24:00,08:24:10,stop_point:SP_2060,Gers,4
+2349111,08:26:00,08:26:10,stop_point:SP_4301,Sevennes,5
+2349111,08:27:00,08:27:10,stop_point:SP_4290,Baronnies,6
+2349111,08:28:00,08:28:10,stop_point:SP_5153,Chasse,7
+2349111,08:29:00,08:29:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349111,08:31:00,08:31:10,stop_point:SP_5163,Perget,9
+2349111,08:31:00,08:31:10,stop_point:SP_4292,Loudet,10
+2349111,08:32:00,08:32:10,stop_point:SP_4289,Ampère,11
+2349111,08:33:00,08:33:10,stop_point:SP_4300,Pornic,12
+2349111,08:34:00,08:34:10,stop_point:SP_4304,Vendée,13
+2349111,08:35:00,08:35:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349111,08:36:00,08:36:10,stop_point:SP_4299,Noirmoutier,15
+2349111,08:37:00,08:37:10,stop_point:SP_4302,Brocéliande,16
+2349111,08:38:00,08:38:10,stop_point:SP_4296,Armorique,17
+2349111,08:39:00,08:39:10,stop_point:SP_4303,Fourcaudis,18
+2349111,08:40:00,08:40:10,stop_point:SP_4294,Forez,19
+2349111,08:41:00,08:41:10,stop_point:SP_4286,Saint Jean,20
+2349111,08:42:00,08:42:10,stop_point:SP_4287,Garroussal,21
+2349111,08:43:00,08:43:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349111,08:44:00,08:44:10,stop_point:SP_4498,Moulin,23
+2349111,08:45:00,08:45:10,stop_point:SP_4496,Couderc,24
+2349111,08:45:00,08:45:10,stop_point:SP_4497,F. Pons,25
+2349111,08:47:00,08:47:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349111,08:48:00,08:48:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349112,08:47:00,08:47:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349112,08:48:00,08:48:10,stop_point:SP_5237,Mairie Colomiers,2
+2349112,08:49:00,08:49:10,stop_point:SP_937,Hall Comminges,3
+2349112,08:51:00,08:51:10,stop_point:SP_2060,Gers,4
+2349112,08:53:00,08:53:10,stop_point:SP_4301,Sevennes,5
+2349112,08:54:00,08:54:10,stop_point:SP_4290,Baronnies,6
+2349112,08:55:00,08:55:10,stop_point:SP_5153,Chasse,7
+2349112,08:56:00,08:56:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349112,08:58:00,08:58:10,stop_point:SP_5163,Perget,9
+2349112,08:58:00,08:58:10,stop_point:SP_4292,Loudet,10
+2349112,08:59:00,08:59:10,stop_point:SP_4289,Ampère,11
+2349112,09:00:00,09:00:10,stop_point:SP_4300,Pornic,12
+2349112,09:01:00,09:01:10,stop_point:SP_4304,Vendée,13
+2349112,09:02:00,09:02:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349112,09:03:00,09:03:10,stop_point:SP_4299,Noirmoutier,15
+2349112,09:04:00,09:04:10,stop_point:SP_4302,Brocéliande,16
+2349112,09:05:00,09:05:10,stop_point:SP_4296,Armorique,17
+2349112,09:06:00,09:06:10,stop_point:SP_4303,Fourcaudis,18
+2349112,09:07:00,09:07:10,stop_point:SP_4294,Forez,19
+2349112,09:08:00,09:08:10,stop_point:SP_4286,Saint Jean,20
+2349112,09:09:00,09:09:10,stop_point:SP_4287,Garroussal,21
+2349112,09:10:00,09:10:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349112,09:11:00,09:11:10,stop_point:SP_4498,Moulin,23
+2349112,09:12:00,09:12:10,stop_point:SP_4496,Couderc,24
+2349112,09:12:00,09:12:10,stop_point:SP_4497,F. Pons,25
+2349112,09:14:00,09:14:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349112,09:15:00,09:15:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349113,09:15:00,09:15:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349113,09:16:00,09:16:10,stop_point:SP_5237,Mairie Colomiers,2
+2349113,09:17:00,09:17:10,stop_point:SP_937,Hall Comminges,3
+2349113,09:19:00,09:19:10,stop_point:SP_2060,Gers,4
+2349113,09:21:00,09:21:10,stop_point:SP_4301,Sevennes,5
+2349113,09:22:00,09:22:10,stop_point:SP_4290,Baronnies,6
+2349113,09:23:00,09:23:10,stop_point:SP_5153,Chasse,7
+2349113,09:24:00,09:24:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349113,09:26:00,09:26:10,stop_point:SP_5163,Perget,9
+2349113,09:26:00,09:26:10,stop_point:SP_4292,Loudet,10
+2349113,09:27:00,09:27:10,stop_point:SP_4289,Ampère,11
+2349113,09:28:00,09:28:10,stop_point:SP_4300,Pornic,12
+2349113,09:29:00,09:29:10,stop_point:SP_4304,Vendée,13
+2349113,09:30:00,09:30:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349113,09:31:00,09:31:10,stop_point:SP_4299,Noirmoutier,15
+2349113,09:31:00,09:31:10,stop_point:SP_4302,Brocéliande,16
+2349113,09:32:00,09:32:10,stop_point:SP_4296,Armorique,17
+2349113,09:33:00,09:33:10,stop_point:SP_4303,Fourcaudis,18
+2349113,09:34:00,09:34:10,stop_point:SP_4294,Forez,19
+2349113,09:35:00,09:35:10,stop_point:SP_4286,Saint Jean,20
+2349113,09:36:00,09:36:10,stop_point:SP_4287,Garroussal,21
+2349113,09:37:00,09:37:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349113,09:37:00,09:37:10,stop_point:SP_4498,Moulin,23
+2349113,09:38:00,09:38:10,stop_point:SP_4496,Couderc,24
+2349113,09:39:00,09:39:10,stop_point:SP_4497,F. Pons,25
+2349113,09:40:00,09:40:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349113,09:41:00,09:41:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349114,09:50:00,09:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349114,09:51:00,09:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349114,09:52:00,09:52:10,stop_point:SP_937,Hall Comminges,3
+2349114,09:54:00,09:54:10,stop_point:SP_2060,Gers,4
+2349114,09:56:00,09:56:10,stop_point:SP_4301,Sevennes,5
+2349114,09:57:00,09:57:10,stop_point:SP_4290,Baronnies,6
+2349114,09:58:00,09:58:10,stop_point:SP_5153,Chasse,7
+2349114,09:59:00,09:59:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349114,10:01:00,10:01:10,stop_point:SP_5163,Perget,9
+2349114,10:01:00,10:01:10,stop_point:SP_4292,Loudet,10
+2349114,10:02:00,10:02:10,stop_point:SP_4289,Ampère,11
+2349114,10:03:00,10:03:10,stop_point:SP_4300,Pornic,12
+2349114,10:04:00,10:04:10,stop_point:SP_4304,Vendée,13
+2349114,10:05:00,10:05:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349114,10:06:00,10:06:10,stop_point:SP_4299,Noirmoutier,15
+2349114,10:06:00,10:06:10,stop_point:SP_4302,Brocéliande,16
+2349114,10:07:00,10:07:10,stop_point:SP_4296,Armorique,17
+2349114,10:08:00,10:08:10,stop_point:SP_4303,Fourcaudis,18
+2349114,10:09:00,10:09:10,stop_point:SP_4294,Forez,19
+2349114,10:10:00,10:10:10,stop_point:SP_4286,Saint Jean,20
+2349114,10:11:00,10:11:10,stop_point:SP_4287,Garroussal,21
+2349114,10:12:00,10:12:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349114,10:12:00,10:12:10,stop_point:SP_4498,Moulin,23
+2349114,10:13:00,10:13:10,stop_point:SP_4496,Couderc,24
+2349114,10:14:00,10:14:10,stop_point:SP_4497,F. Pons,25
+2349114,10:15:00,10:15:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349114,10:16:00,10:16:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349115,10:35:00,10:35:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349115,10:36:00,10:36:10,stop_point:SP_5237,Mairie Colomiers,2
+2349115,10:37:00,10:37:10,stop_point:SP_937,Hall Comminges,3
+2349115,10:39:00,10:39:10,stop_point:SP_2060,Gers,4
+2349115,10:41:00,10:41:10,stop_point:SP_4301,Sevennes,5
+2349115,10:42:00,10:42:10,stop_point:SP_4290,Baronnies,6
+2349115,10:43:00,10:43:10,stop_point:SP_5153,Chasse,7
+2349115,10:44:00,10:44:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349115,10:46:00,10:46:10,stop_point:SP_5163,Perget,9
+2349115,10:46:00,10:46:10,stop_point:SP_4292,Loudet,10
+2349115,10:47:00,10:47:10,stop_point:SP_4289,Ampère,11
+2349115,10:48:00,10:48:10,stop_point:SP_4300,Pornic,12
+2349115,10:49:00,10:49:10,stop_point:SP_4304,Vendée,13
+2349115,10:50:00,10:50:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349115,10:51:00,10:51:10,stop_point:SP_4299,Noirmoutier,15
+2349115,10:51:00,10:51:10,stop_point:SP_4302,Brocéliande,16
+2349115,10:52:00,10:52:10,stop_point:SP_4296,Armorique,17
+2349115,10:53:00,10:53:10,stop_point:SP_4303,Fourcaudis,18
+2349115,10:54:00,10:54:10,stop_point:SP_4294,Forez,19
+2349115,10:55:00,10:55:10,stop_point:SP_4286,Saint Jean,20
+2349115,10:56:00,10:56:10,stop_point:SP_4287,Garroussal,21
+2349115,10:57:00,10:57:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349115,10:57:00,10:57:10,stop_point:SP_4498,Moulin,23
+2349115,10:58:00,10:58:10,stop_point:SP_4496,Couderc,24
+2349115,10:59:00,10:59:10,stop_point:SP_4497,F. Pons,25
+2349115,11:00:00,11:00:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349115,11:01:00,11:01:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349116,11:20:00,11:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349116,11:21:00,11:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349116,11:22:00,11:22:10,stop_point:SP_937,Hall Comminges,3
+2349116,11:24:00,11:24:10,stop_point:SP_2060,Gers,4
+2349116,11:26:00,11:26:10,stop_point:SP_4301,Sevennes,5
+2349116,11:27:00,11:27:10,stop_point:SP_4290,Baronnies,6
+2349116,11:28:00,11:28:10,stop_point:SP_5153,Chasse,7
+2349116,11:29:00,11:29:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349116,11:31:00,11:31:10,stop_point:SP_5163,Perget,9
+2349116,11:31:00,11:31:10,stop_point:SP_4292,Loudet,10
+2349116,11:32:00,11:32:10,stop_point:SP_4289,Ampère,11
+2349116,11:33:00,11:33:10,stop_point:SP_4300,Pornic,12
+2349116,11:34:00,11:34:10,stop_point:SP_4304,Vendée,13
+2349116,11:35:00,11:35:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349116,11:36:00,11:36:10,stop_point:SP_4299,Noirmoutier,15
+2349116,11:36:00,11:36:10,stop_point:SP_4302,Brocéliande,16
+2349116,11:37:00,11:37:10,stop_point:SP_4296,Armorique,17
+2349116,11:38:00,11:38:10,stop_point:SP_4303,Fourcaudis,18
+2349116,11:39:00,11:39:10,stop_point:SP_4294,Forez,19
+2349116,11:40:00,11:40:10,stop_point:SP_4286,Saint Jean,20
+2349116,11:41:00,11:41:10,stop_point:SP_4287,Garroussal,21
+2349116,11:42:00,11:42:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349116,11:42:00,11:42:10,stop_point:SP_4498,Moulin,23
+2349116,11:43:00,11:43:10,stop_point:SP_4496,Couderc,24
+2349116,11:44:00,11:44:10,stop_point:SP_4497,F. Pons,25
+2349116,11:45:00,11:45:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349116,11:46:00,11:46:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349117,12:05:00,12:05:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349117,12:06:00,12:06:10,stop_point:SP_5237,Mairie Colomiers,2
+2349117,12:07:00,12:07:10,stop_point:SP_937,Hall Comminges,3
+2349117,12:09:00,12:09:10,stop_point:SP_2060,Gers,4
+2349117,12:11:00,12:11:10,stop_point:SP_4301,Sevennes,5
+2349117,12:12:00,12:12:10,stop_point:SP_4290,Baronnies,6
+2349117,12:13:00,12:13:10,stop_point:SP_5153,Chasse,7
+2349117,12:14:00,12:14:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349117,12:16:00,12:16:10,stop_point:SP_5163,Perget,9
+2349117,12:16:00,12:16:10,stop_point:SP_4292,Loudet,10
+2349117,12:17:00,12:17:10,stop_point:SP_4289,Ampère,11
+2349117,12:18:00,12:18:10,stop_point:SP_4300,Pornic,12
+2349117,12:19:00,12:19:10,stop_point:SP_4304,Vendée,13
+2349117,12:20:00,12:20:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349117,12:21:00,12:21:10,stop_point:SP_4299,Noirmoutier,15
+2349117,12:22:00,12:22:10,stop_point:SP_4302,Brocéliande,16
+2349117,12:23:00,12:23:10,stop_point:SP_4296,Armorique,17
+2349117,12:24:00,12:24:10,stop_point:SP_4303,Fourcaudis,18
+2349117,12:25:00,12:25:10,stop_point:SP_4294,Forez,19
+2349117,12:26:00,12:26:10,stop_point:SP_4286,Saint Jean,20
+2349117,12:27:00,12:27:10,stop_point:SP_4287,Garroussal,21
+2349117,12:28:00,12:28:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349117,12:28:00,12:28:10,stop_point:SP_4498,Moulin,23
+2349117,12:29:00,12:29:10,stop_point:SP_4496,Couderc,24
+2349117,12:30:00,12:30:10,stop_point:SP_4497,F. Pons,25
+2349117,12:31:00,12:31:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349117,12:32:00,12:32:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349118,12:50:00,12:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349118,12:51:00,12:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349118,12:52:00,12:52:10,stop_point:SP_937,Hall Comminges,3
+2349118,12:54:00,12:54:10,stop_point:SP_2060,Gers,4
+2349118,12:56:00,12:56:10,stop_point:SP_4301,Sevennes,5
+2349118,12:57:00,12:57:10,stop_point:SP_4290,Baronnies,6
+2349118,12:58:00,12:58:10,stop_point:SP_5153,Chasse,7
+2349118,12:59:00,12:59:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349118,13:01:00,13:01:10,stop_point:SP_5163,Perget,9
+2349118,13:01:00,13:01:10,stop_point:SP_4292,Loudet,10
+2349118,13:02:00,13:02:10,stop_point:SP_4289,Ampère,11
+2349118,13:03:00,13:03:10,stop_point:SP_4300,Pornic,12
+2349118,13:04:00,13:04:10,stop_point:SP_4304,Vendée,13
+2349118,13:05:00,13:05:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349118,13:06:00,13:06:10,stop_point:SP_4299,Noirmoutier,15
+2349118,13:06:00,13:06:10,stop_point:SP_4302,Brocéliande,16
+2349118,13:07:00,13:07:10,stop_point:SP_4296,Armorique,17
+2349118,13:08:00,13:08:10,stop_point:SP_4303,Fourcaudis,18
+2349118,13:09:00,13:09:10,stop_point:SP_4294,Forez,19
+2349118,13:10:00,13:10:10,stop_point:SP_4286,Saint Jean,20
+2349118,13:11:00,13:11:10,stop_point:SP_4287,Garroussal,21
+2349118,13:12:00,13:12:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349118,13:12:00,13:12:10,stop_point:SP_4498,Moulin,23
+2349118,13:13:00,13:13:10,stop_point:SP_4496,Couderc,24
+2349118,13:14:00,13:14:10,stop_point:SP_4497,F. Pons,25
+2349118,13:15:00,13:15:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349118,13:16:00,13:16:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349119,13:35:00,13:35:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349119,13:36:00,13:36:10,stop_point:SP_5237,Mairie Colomiers,2
+2349119,13:37:00,13:37:10,stop_point:SP_937,Hall Comminges,3
+2349119,13:39:00,13:39:10,stop_point:SP_2060,Gers,4
+2349119,13:41:00,13:41:10,stop_point:SP_4301,Sevennes,5
+2349119,13:42:00,13:42:10,stop_point:SP_4290,Baronnies,6
+2349119,13:43:00,13:43:10,stop_point:SP_5153,Chasse,7
+2349119,13:44:00,13:44:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349119,13:46:00,13:46:10,stop_point:SP_5163,Perget,9
+2349119,13:46:00,13:46:10,stop_point:SP_4292,Loudet,10
+2349119,13:47:00,13:47:10,stop_point:SP_4289,Ampère,11
+2349119,13:48:00,13:48:10,stop_point:SP_4300,Pornic,12
+2349119,13:49:00,13:49:10,stop_point:SP_4304,Vendée,13
+2349119,13:50:00,13:50:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349119,13:51:00,13:51:10,stop_point:SP_4299,Noirmoutier,15
+2349119,13:51:00,13:51:10,stop_point:SP_4302,Brocéliande,16
+2349119,13:52:00,13:52:10,stop_point:SP_4296,Armorique,17
+2349119,13:53:00,13:53:10,stop_point:SP_4303,Fourcaudis,18
+2349119,13:54:00,13:54:10,stop_point:SP_4294,Forez,19
+2349119,13:55:00,13:55:10,stop_point:SP_4286,Saint Jean,20
+2349119,13:56:00,13:56:10,stop_point:SP_4287,Garroussal,21
+2349119,13:57:00,13:57:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349119,13:57:00,13:57:10,stop_point:SP_4498,Moulin,23
+2349119,13:58:00,13:58:10,stop_point:SP_4496,Couderc,24
+2349119,13:59:00,13:59:10,stop_point:SP_4497,F. Pons,25
+2349119,14:00:00,14:00:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349119,14:01:00,14:01:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349120,14:20:00,14:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349120,14:21:00,14:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349120,14:22:00,14:22:10,stop_point:SP_937,Hall Comminges,3
+2349120,14:24:00,14:24:10,stop_point:SP_2060,Gers,4
+2349120,14:26:00,14:26:10,stop_point:SP_4301,Sevennes,5
+2349120,14:27:00,14:27:10,stop_point:SP_4290,Baronnies,6
+2349120,14:28:00,14:28:10,stop_point:SP_5153,Chasse,7
+2349120,14:29:00,14:29:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349120,14:31:00,14:31:10,stop_point:SP_5163,Perget,9
+2349120,14:31:00,14:31:10,stop_point:SP_4292,Loudet,10
+2349120,14:32:00,14:32:10,stop_point:SP_4289,Ampère,11
+2349120,14:33:00,14:33:10,stop_point:SP_4300,Pornic,12
+2349120,14:34:00,14:34:10,stop_point:SP_4304,Vendée,13
+2349120,14:35:00,14:35:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349120,14:36:00,14:36:10,stop_point:SP_4299,Noirmoutier,15
+2349120,14:36:00,14:36:10,stop_point:SP_4302,Brocéliande,16
+2349120,14:37:00,14:37:10,stop_point:SP_4296,Armorique,17
+2349120,14:38:00,14:38:10,stop_point:SP_4303,Fourcaudis,18
+2349120,14:39:00,14:39:10,stop_point:SP_4294,Forez,19
+2349120,14:40:00,14:40:10,stop_point:SP_4286,Saint Jean,20
+2349120,14:41:00,14:41:10,stop_point:SP_4287,Garroussal,21
+2349120,14:42:00,14:42:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349120,14:42:00,14:42:10,stop_point:SP_4498,Moulin,23
+2349120,14:43:00,14:43:10,stop_point:SP_4496,Couderc,24
+2349120,14:44:00,14:44:10,stop_point:SP_4497,F. Pons,25
+2349120,14:45:00,14:45:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349120,14:46:00,14:46:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349121,15:05:00,15:05:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349121,15:06:00,15:06:10,stop_point:SP_5237,Mairie Colomiers,2
+2349121,15:07:00,15:07:10,stop_point:SP_937,Hall Comminges,3
+2349121,15:09:00,15:09:10,stop_point:SP_2060,Gers,4
+2349121,15:11:00,15:11:10,stop_point:SP_4301,Sevennes,5
+2349121,15:12:00,15:12:10,stop_point:SP_4290,Baronnies,6
+2349121,15:13:00,15:13:10,stop_point:SP_5153,Chasse,7
+2349121,15:14:00,15:14:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349121,15:16:00,15:16:10,stop_point:SP_5163,Perget,9
+2349121,15:16:00,15:16:10,stop_point:SP_4292,Loudet,10
+2349121,15:17:00,15:17:10,stop_point:SP_4289,Ampère,11
+2349121,15:18:00,15:18:10,stop_point:SP_4300,Pornic,12
+2349121,15:19:00,15:19:10,stop_point:SP_4304,Vendée,13
+2349121,15:20:00,15:20:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349121,15:21:00,15:21:10,stop_point:SP_4299,Noirmoutier,15
+2349121,15:21:00,15:21:10,stop_point:SP_4302,Brocéliande,16
+2349121,15:22:00,15:22:10,stop_point:SP_4296,Armorique,17
+2349121,15:23:00,15:23:10,stop_point:SP_4303,Fourcaudis,18
+2349121,15:24:00,15:24:10,stop_point:SP_4294,Forez,19
+2349121,15:25:00,15:25:10,stop_point:SP_4286,Saint Jean,20
+2349121,15:26:00,15:26:10,stop_point:SP_4287,Garroussal,21
+2349121,15:27:00,15:27:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349121,15:27:00,15:27:10,stop_point:SP_4498,Moulin,23
+2349121,15:28:00,15:28:10,stop_point:SP_4496,Couderc,24
+2349121,15:29:00,15:29:10,stop_point:SP_4497,F. Pons,25
+2349121,15:30:00,15:30:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349121,15:31:00,15:31:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349122,15:40:00,15:40:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349122,15:41:00,15:41:10,stop_point:SP_5237,Mairie Colomiers,2
+2349122,15:42:00,15:42:10,stop_point:SP_937,Hall Comminges,3
+2349122,15:44:00,15:44:10,stop_point:SP_2060,Gers,4
+2349122,15:46:00,15:46:10,stop_point:SP_4301,Sevennes,5
+2349122,15:47:00,15:47:10,stop_point:SP_4290,Baronnies,6
+2349122,15:48:00,15:48:10,stop_point:SP_5153,Chasse,7
+2349122,15:49:00,15:49:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349122,15:51:00,15:51:10,stop_point:SP_5163,Perget,9
+2349122,15:51:00,15:51:10,stop_point:SP_4292,Loudet,10
+2349122,15:52:00,15:52:10,stop_point:SP_4289,Ampère,11
+2349122,15:53:00,15:53:10,stop_point:SP_4300,Pornic,12
+2349122,15:54:00,15:54:10,stop_point:SP_4304,Vendée,13
+2349122,15:55:00,15:55:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349122,15:56:00,15:56:10,stop_point:SP_4299,Noirmoutier,15
+2349122,15:56:00,15:56:10,stop_point:SP_4302,Brocéliande,16
+2349122,15:57:00,15:57:10,stop_point:SP_4296,Armorique,17
+2349122,15:58:00,15:58:10,stop_point:SP_4303,Fourcaudis,18
+2349122,15:59:00,15:59:10,stop_point:SP_4294,Forez,19
+2349122,16:00:00,16:00:10,stop_point:SP_4286,Saint Jean,20
+2349122,16:01:00,16:01:10,stop_point:SP_4287,Garroussal,21
+2349122,16:02:00,16:02:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349122,16:02:00,16:02:10,stop_point:SP_4498,Moulin,23
+2349122,16:03:00,16:03:10,stop_point:SP_4496,Couderc,24
+2349122,16:04:00,16:04:10,stop_point:SP_4497,F. Pons,25
+2349122,16:05:00,16:05:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349122,16:06:00,16:06:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349123,16:15:00,16:15:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349123,16:16:00,16:16:10,stop_point:SP_5237,Mairie Colomiers,2
+2349123,16:17:00,16:17:10,stop_point:SP_937,Hall Comminges,3
+2349123,16:19:00,16:19:10,stop_point:SP_2060,Gers,4
+2349123,16:21:00,16:21:10,stop_point:SP_4301,Sevennes,5
+2349123,16:22:00,16:22:10,stop_point:SP_4290,Baronnies,6
+2349123,16:23:00,16:23:10,stop_point:SP_5153,Chasse,7
+2349123,16:24:00,16:24:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349123,16:26:00,16:26:10,stop_point:SP_5163,Perget,9
+2349123,16:26:00,16:26:10,stop_point:SP_4292,Loudet,10
+2349123,16:27:00,16:27:10,stop_point:SP_4289,Ampère,11
+2349123,16:28:00,16:28:10,stop_point:SP_4300,Pornic,12
+2349123,16:29:00,16:29:10,stop_point:SP_4304,Vendée,13
+2349123,16:30:00,16:30:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349123,16:31:00,16:31:10,stop_point:SP_4299,Noirmoutier,15
+2349123,16:31:00,16:31:10,stop_point:SP_4302,Brocéliande,16
+2349123,16:32:00,16:32:10,stop_point:SP_4296,Armorique,17
+2349123,16:33:00,16:33:10,stop_point:SP_4303,Fourcaudis,18
+2349123,16:34:00,16:34:10,stop_point:SP_4294,Forez,19
+2349123,16:35:00,16:35:10,stop_point:SP_4286,Saint Jean,20
+2349123,16:36:00,16:36:10,stop_point:SP_4287,Garroussal,21
+2349123,16:37:00,16:37:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349123,16:37:00,16:37:10,stop_point:SP_4498,Moulin,23
+2349123,16:38:00,16:38:10,stop_point:SP_4496,Couderc,24
+2349123,16:39:00,16:39:10,stop_point:SP_4497,F. Pons,25
+2349123,16:40:00,16:40:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349123,16:41:00,16:41:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349124,16:50:00,16:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349124,16:51:00,16:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349124,16:52:00,16:52:10,stop_point:SP_937,Hall Comminges,3
+2349124,16:54:00,16:54:10,stop_point:SP_2060,Gers,4
+2349124,16:56:00,16:56:10,stop_point:SP_4301,Sevennes,5
+2349124,16:57:00,16:57:10,stop_point:SP_4290,Baronnies,6
+2349124,16:58:00,16:58:10,stop_point:SP_5153,Chasse,7
+2349124,16:59:00,16:59:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349124,17:01:00,17:01:10,stop_point:SP_5163,Perget,9
+2349124,17:01:00,17:01:10,stop_point:SP_4292,Loudet,10
+2349124,17:02:00,17:02:10,stop_point:SP_4289,Ampère,11
+2349124,17:03:00,17:03:10,stop_point:SP_4300,Pornic,12
+2349124,17:04:00,17:04:10,stop_point:SP_4304,Vendée,13
+2349124,17:06:00,17:06:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349124,17:07:00,17:07:10,stop_point:SP_4299,Noirmoutier,15
+2349124,17:07:00,17:07:10,stop_point:SP_4302,Brocéliande,16
+2349124,17:08:00,17:08:10,stop_point:SP_4296,Armorique,17
+2349124,17:09:00,17:09:10,stop_point:SP_4303,Fourcaudis,18
+2349124,17:10:00,17:10:10,stop_point:SP_4294,Forez,19
+2349124,17:11:00,17:11:10,stop_point:SP_4286,Saint Jean,20
+2349124,17:12:00,17:12:10,stop_point:SP_4287,Garroussal,21
+2349124,17:13:00,17:13:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349124,17:14:00,17:14:10,stop_point:SP_4498,Moulin,23
+2349124,17:15:00,17:15:10,stop_point:SP_4496,Couderc,24
+2349124,17:15:00,17:15:10,stop_point:SP_4497,F. Pons,25
+2349124,17:17:00,17:17:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349124,17:18:00,17:18:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349125,17:20:00,17:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349125,17:21:00,17:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349125,17:22:00,17:22:10,stop_point:SP_937,Hall Comminges,3
+2349125,17:24:00,17:24:10,stop_point:SP_2060,Gers,4
+2349125,17:26:00,17:26:10,stop_point:SP_4301,Sevennes,5
+2349125,17:27:00,17:27:10,stop_point:SP_4290,Baronnies,6
+2349125,17:28:00,17:28:10,stop_point:SP_5153,Chasse,7
+2349125,17:29:00,17:29:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349125,17:31:00,17:31:10,stop_point:SP_5163,Perget,9
+2349125,17:32:00,17:32:10,stop_point:SP_4292,Loudet,10
+2349125,17:33:00,17:33:10,stop_point:SP_4289,Ampère,11
+2349125,17:34:00,17:34:10,stop_point:SP_4300,Pornic,12
+2349125,17:35:00,17:35:10,stop_point:SP_4304,Vendée,13
+2349125,17:37:00,17:37:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349125,17:38:00,17:38:10,stop_point:SP_4299,Noirmoutier,15
+2349125,17:38:00,17:38:10,stop_point:SP_4302,Brocéliande,16
+2349125,17:39:00,17:39:10,stop_point:SP_4296,Armorique,17
+2349125,17:40:00,17:40:10,stop_point:SP_4303,Fourcaudis,18
+2349125,17:41:00,17:41:10,stop_point:SP_4294,Forez,19
+2349125,17:42:00,17:42:10,stop_point:SP_4286,Saint Jean,20
+2349125,17:43:00,17:43:10,stop_point:SP_4287,Garroussal,21
+2349125,17:44:00,17:44:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349125,17:45:00,17:45:10,stop_point:SP_4498,Moulin,23
+2349125,17:46:00,17:46:10,stop_point:SP_4496,Couderc,24
+2349125,17:46:00,17:46:10,stop_point:SP_4497,F. Pons,25
+2349125,17:48:00,17:48:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349125,17:49:00,17:49:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349126,17:50:00,17:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349126,17:51:00,17:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349126,17:52:00,17:52:10,stop_point:SP_937,Hall Comminges,3
+2349126,17:54:00,17:54:10,stop_point:SP_2060,Gers,4
+2349126,17:56:00,17:56:10,stop_point:SP_4301,Sevennes,5
+2349126,17:57:00,17:57:10,stop_point:SP_4290,Baronnies,6
+2349126,17:58:00,17:58:10,stop_point:SP_5153,Chasse,7
+2349126,17:59:00,17:59:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349126,18:01:00,18:01:10,stop_point:SP_5163,Perget,9
+2349126,18:02:00,18:02:10,stop_point:SP_4292,Loudet,10
+2349126,18:03:00,18:03:10,stop_point:SP_4289,Ampère,11
+2349126,18:04:00,18:04:10,stop_point:SP_4300,Pornic,12
+2349126,18:05:00,18:05:10,stop_point:SP_4304,Vendée,13
+2349126,18:07:00,18:07:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349126,18:08:00,18:08:10,stop_point:SP_4299,Noirmoutier,15
+2349126,18:08:00,18:08:10,stop_point:SP_4302,Brocéliande,16
+2349126,18:09:00,18:09:10,stop_point:SP_4296,Armorique,17
+2349126,18:10:00,18:10:10,stop_point:SP_4303,Fourcaudis,18
+2349126,18:11:00,18:11:10,stop_point:SP_4294,Forez,19
+2349126,18:12:00,18:12:10,stop_point:SP_4286,Saint Jean,20
+2349126,18:13:00,18:13:10,stop_point:SP_4287,Garroussal,21
+2349126,18:14:00,18:14:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349126,18:15:00,18:15:10,stop_point:SP_4498,Moulin,23
+2349126,18:16:00,18:16:10,stop_point:SP_4496,Couderc,24
+2349126,18:16:00,18:16:10,stop_point:SP_4497,F. Pons,25
+2349126,18:18:00,18:18:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349126,18:19:00,18:19:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349127,18:20:00,18:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349127,18:21:00,18:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349127,18:22:00,18:22:10,stop_point:SP_937,Hall Comminges,3
+2349127,18:24:00,18:24:10,stop_point:SP_2060,Gers,4
+2349127,18:26:00,18:26:10,stop_point:SP_4301,Sevennes,5
+2349127,18:27:00,18:27:10,stop_point:SP_4290,Baronnies,6
+2349127,18:28:00,18:28:10,stop_point:SP_5153,Chasse,7
+2349127,18:29:00,18:29:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349127,18:31:00,18:31:10,stop_point:SP_5163,Perget,9
+2349127,18:32:00,18:32:10,stop_point:SP_4292,Loudet,10
+2349127,18:33:00,18:33:10,stop_point:SP_4289,Ampère,11
+2349127,18:34:00,18:34:10,stop_point:SP_4300,Pornic,12
+2349127,18:35:00,18:35:10,stop_point:SP_4304,Vendée,13
+2349127,18:37:00,18:37:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349127,18:38:00,18:38:10,stop_point:SP_4299,Noirmoutier,15
+2349127,18:38:00,18:38:10,stop_point:SP_4302,Brocéliande,16
+2349127,18:39:00,18:39:10,stop_point:SP_4296,Armorique,17
+2349127,18:40:00,18:40:10,stop_point:SP_4303,Fourcaudis,18
+2349127,18:41:00,18:41:10,stop_point:SP_4294,Forez,19
+2349127,18:42:00,18:42:10,stop_point:SP_4286,Saint Jean,20
+2349127,18:43:00,18:43:10,stop_point:SP_4287,Garroussal,21
+2349127,18:44:00,18:44:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349127,18:45:00,18:45:10,stop_point:SP_4498,Moulin,23
+2349127,18:46:00,18:46:10,stop_point:SP_4496,Couderc,24
+2349127,18:46:00,18:46:10,stop_point:SP_4497,F. Pons,25
+2349127,18:48:00,18:48:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349127,18:49:00,18:49:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349128,18:50:00,18:50:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349128,18:51:00,18:51:10,stop_point:SP_5237,Mairie Colomiers,2
+2349128,18:52:00,18:52:10,stop_point:SP_937,Hall Comminges,3
+2349128,18:53:00,18:53:10,stop_point:SP_2060,Gers,4
+2349128,18:55:00,18:55:10,stop_point:SP_4301,Sevennes,5
+2349128,18:56:00,18:56:10,stop_point:SP_4290,Baronnies,6
+2349128,18:57:00,18:57:10,stop_point:SP_5153,Chasse,7
+2349128,18:58:00,18:58:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349128,19:00:00,19:00:10,stop_point:SP_5163,Perget,9
+2349128,19:01:00,19:01:10,stop_point:SP_4292,Loudet,10
+2349128,19:02:00,19:02:10,stop_point:SP_4289,Ampère,11
+2349128,19:03:00,19:03:10,stop_point:SP_4300,Pornic,12
+2349128,19:04:00,19:04:10,stop_point:SP_4304,Vendée,13
+2349128,19:05:00,19:05:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349128,19:06:00,19:06:10,stop_point:SP_4299,Noirmoutier,15
+2349128,19:06:00,19:06:10,stop_point:SP_4302,Brocéliande,16
+2349128,19:07:00,19:07:10,stop_point:SP_4296,Armorique,17
+2349128,19:08:00,19:08:10,stop_point:SP_4303,Fourcaudis,18
+2349128,19:09:00,19:09:10,stop_point:SP_4294,Forez,19
+2349128,19:10:00,19:10:10,stop_point:SP_4286,Saint Jean,20
+2349128,19:11:00,19:11:10,stop_point:SP_4287,Garroussal,21
+2349128,19:12:00,19:12:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349128,19:13:00,19:13:10,stop_point:SP_4498,Moulin,23
+2349128,19:14:00,19:14:10,stop_point:SP_4496,Couderc,24
+2349128,19:14:00,19:14:10,stop_point:SP_4497,F. Pons,25
+2349128,19:16:00,19:16:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349128,19:17:00,19:17:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349129,19:20:00,19:20:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349129,19:21:00,19:21:10,stop_point:SP_5237,Mairie Colomiers,2
+2349129,19:22:00,19:22:10,stop_point:SP_937,Hall Comminges,3
+2349129,19:23:00,19:23:10,stop_point:SP_2060,Gers,4
+2349129,19:25:00,19:25:10,stop_point:SP_4301,Sevennes,5
+2349129,19:26:00,19:26:10,stop_point:SP_4290,Baronnies,6
+2349129,19:27:00,19:27:10,stop_point:SP_5153,Chasse,7
+2349129,19:28:00,19:28:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349129,19:30:00,19:30:10,stop_point:SP_5163,Perget,9
+2349129,19:30:00,19:30:10,stop_point:SP_4292,Loudet,10
+2349129,19:31:00,19:31:10,stop_point:SP_4289,Ampère,11
+2349129,19:32:00,19:32:10,stop_point:SP_4300,Pornic,12
+2349129,19:32:00,19:32:10,stop_point:SP_4304,Vendée,13
+2349129,19:33:00,19:33:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349129,19:34:00,19:34:10,stop_point:SP_4299,Noirmoutier,15
+2349129,19:34:00,19:34:10,stop_point:SP_4302,Brocéliande,16
+2349129,19:35:00,19:35:10,stop_point:SP_4296,Armorique,17
+2349129,19:36:00,19:36:10,stop_point:SP_4303,Fourcaudis,18
+2349129,19:37:00,19:37:10,stop_point:SP_4294,Forez,19
+2349129,19:38:00,19:38:10,stop_point:SP_4286,Saint Jean,20
+2349129,19:39:00,19:39:10,stop_point:SP_4287,Garroussal,21
+2349129,19:40:00,19:40:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349129,19:40:00,19:40:10,stop_point:SP_4498,Moulin,23
+2349129,19:41:00,19:41:10,stop_point:SP_4496,Couderc,24
+2349129,19:42:00,19:42:10,stop_point:SP_4497,F. Pons,25
+2349129,19:43:00,19:43:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349129,19:44:00,19:44:10,stop_point:SP_4291,Colomiers Gare SNCF,27
+2349130,19:55:00,19:55:10,stop_point:SP_4291,Colomiers Gare SNCF,1
+2349130,19:56:00,19:56:10,stop_point:SP_5237,Mairie Colomiers,2
+2349130,19:57:00,19:57:10,stop_point:SP_937,Hall Comminges,3
+2349130,19:58:00,19:58:10,stop_point:SP_2060,Gers,4
+2349130,20:00:00,20:00:10,stop_point:SP_4301,Sevennes,5
+2349130,20:01:00,20:01:10,stop_point:SP_4290,Baronnies,6
+2349130,20:02:00,20:02:10,stop_point:SP_5153,Chasse,7
+2349130,20:02:00,20:02:10,stop_point:SP_5157,Ch. de la Salvetat,8
+2349130,20:04:00,20:04:10,stop_point:SP_5163,Perget,9
+2349130,20:05:00,20:05:10,stop_point:SP_4292,Loudet,10
+2349130,20:05:00,20:05:10,stop_point:SP_4289,Ampère,11
+2349130,20:06:00,20:06:10,stop_point:SP_4300,Pornic,12
+2349130,20:06:00,20:06:10,stop_point:SP_4304,Vendée,13
+2349130,20:07:00,20:07:10,stop_point:SP_4335,Colomiers Lycée International,14
+2349130,20:08:00,20:08:10,stop_point:SP_4299,Noirmoutier,15
+2349130,20:08:00,20:08:10,stop_point:SP_4302,Brocéliande,16
+2349130,20:09:00,20:09:10,stop_point:SP_4296,Armorique,17
+2349130,20:10:00,20:10:10,stop_point:SP_4303,Fourcaudis,18
+2349130,20:11:00,20:11:10,stop_point:SP_4294,Forez,19
+2349130,20:12:00,20:12:10,stop_point:SP_4286,Saint Jean,20
+2349130,20:13:00,20:13:10,stop_point:SP_4287,Garroussal,21
+2349130,20:14:00,20:14:10,stop_point:SP_3795,Route de Cornebarrieu,22
+2349130,20:14:00,20:14:10,stop_point:SP_4498,Moulin,23
+2349130,20:15:00,20:15:10,stop_point:SP_4496,Couderc,24
+2349130,20:16:00,20:16:10,stop_point:SP_4497,F. Pons,25
+2349130,20:17:00,20:17:10,stop_point:SP_658,Médiathèque Pavillon Blanc,26
+2349130,20:18:00,20:18:10,stop_point:SP_4291,Colomiers Gare SNCF,27

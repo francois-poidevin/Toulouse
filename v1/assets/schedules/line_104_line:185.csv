@@ -1,0 +1,683 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2297240,10:20:00,10:20:10,stop_point:SP_2514,Balma Ribaute,1
+2297240,10:22:00,10:22:10,stop_point:SP_3460,Montels,2
+2297240,10:24:00,10:24:10,stop_point:SP_2936,Pyrénées,3
+2297240,10:25:00,10:25:10,stop_point:SP_261,Fonsegrives Centre,4
+2297240,10:26:00,10:26:10,stop_point:SP_1894,Monplaisir,5
+2297240,10:27:00,10:27:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297240,10:28:00,10:28:10,stop_point:SP_1914,Leiria,7
+2297240,10:33:00,10:33:10,stop_point:SP_3781,Terrefort,8
+2297240,10:34:00,10:34:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297240,10:36:00,10:36:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297240,10:42:00,10:42:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297241,11:15:00,11:15:10,stop_point:SP_2514,Balma Ribaute,1
+2297241,11:17:00,11:17:10,stop_point:SP_3460,Montels,2
+2297241,11:19:00,11:19:10,stop_point:SP_2936,Pyrénées,3
+2297241,11:20:00,11:20:10,stop_point:SP_261,Fonsegrives Centre,4
+2297241,11:21:00,11:21:10,stop_point:SP_1894,Monplaisir,5
+2297241,11:22:00,11:22:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297241,11:23:00,11:23:10,stop_point:SP_1914,Leiria,7
+2297241,11:28:00,11:28:10,stop_point:SP_3781,Terrefort,8
+2297241,11:29:00,11:29:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297241,11:31:00,11:31:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297241,11:37:00,11:37:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297242,12:10:00,12:10:10,stop_point:SP_2514,Balma Ribaute,1
+2297242,12:12:00,12:12:10,stop_point:SP_3460,Montels,2
+2297242,12:14:00,12:14:10,stop_point:SP_2936,Pyrénées,3
+2297242,12:15:00,12:15:10,stop_point:SP_261,Fonsegrives Centre,4
+2297242,12:16:00,12:16:10,stop_point:SP_1894,Monplaisir,5
+2297242,12:17:00,12:17:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297242,12:18:00,12:18:10,stop_point:SP_1914,Leiria,7
+2297242,12:23:00,12:23:10,stop_point:SP_3781,Terrefort,8
+2297242,12:24:00,12:24:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297242,12:26:00,12:26:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297242,12:32:00,12:32:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297243,13:00:00,13:00:10,stop_point:SP_2514,Balma Ribaute,1
+2297243,13:02:00,13:02:10,stop_point:SP_3460,Montels,2
+2297243,13:03:00,13:03:10,stop_point:SP_2936,Pyrénées,3
+2297243,13:04:00,13:04:10,stop_point:SP_261,Fonsegrives Centre,4
+2297243,13:05:00,13:05:10,stop_point:SP_1894,Monplaisir,5
+2297243,13:06:00,13:06:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297243,13:07:00,13:07:10,stop_point:SP_1914,Leiria,7
+2297243,13:11:00,13:11:10,stop_point:SP_3781,Terrefort,8
+2297243,13:12:00,13:12:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297243,13:14:00,13:14:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297243,13:20:00,13:20:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297244,13:50:00,13:50:10,stop_point:SP_2514,Balma Ribaute,1
+2297244,13:52:00,13:52:10,stop_point:SP_3460,Montels,2
+2297244,13:53:00,13:53:10,stop_point:SP_2936,Pyrénées,3
+2297244,13:54:00,13:54:10,stop_point:SP_261,Fonsegrives Centre,4
+2297244,13:55:00,13:55:10,stop_point:SP_1894,Monplaisir,5
+2297244,13:56:00,13:56:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297244,13:57:00,13:57:10,stop_point:SP_1914,Leiria,7
+2297244,14:01:00,14:01:10,stop_point:SP_3781,Terrefort,8
+2297244,14:02:00,14:02:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297244,14:04:00,14:04:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297244,14:10:00,14:10:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297245,14:40:00,14:40:10,stop_point:SP_2514,Balma Ribaute,1
+2297245,14:42:00,14:42:10,stop_point:SP_3460,Montels,2
+2297245,14:43:00,14:43:10,stop_point:SP_2936,Pyrénées,3
+2297245,14:44:00,14:44:10,stop_point:SP_261,Fonsegrives Centre,4
+2297245,14:45:00,14:45:10,stop_point:SP_1894,Monplaisir,5
+2297245,14:46:00,14:46:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297245,14:47:00,14:47:10,stop_point:SP_1914,Leiria,7
+2297245,14:51:00,14:51:10,stop_point:SP_3781,Terrefort,8
+2297245,14:52:00,14:52:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297245,14:54:00,14:54:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297245,15:00:00,15:00:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297246,15:30:00,15:30:10,stop_point:SP_2514,Balma Ribaute,1
+2297246,15:32:00,15:32:10,stop_point:SP_3460,Montels,2
+2297246,15:33:00,15:33:10,stop_point:SP_2936,Pyrénées,3
+2297246,15:34:00,15:34:10,stop_point:SP_261,Fonsegrives Centre,4
+2297246,15:35:00,15:35:10,stop_point:SP_1894,Monplaisir,5
+2297246,15:36:00,15:36:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297246,15:37:00,15:37:10,stop_point:SP_1914,Leiria,7
+2297246,15:41:00,15:41:10,stop_point:SP_3781,Terrefort,8
+2297246,15:42:00,15:42:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297246,15:44:00,15:44:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297246,15:50:00,15:50:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297247,16:20:00,16:20:10,stop_point:SP_2514,Balma Ribaute,1
+2297247,16:22:00,16:22:10,stop_point:SP_3460,Montels,2
+2297247,16:24:00,16:24:10,stop_point:SP_2936,Pyrénées,3
+2297247,16:25:00,16:25:10,stop_point:SP_261,Fonsegrives Centre,4
+2297247,16:26:00,16:26:10,stop_point:SP_1894,Monplaisir,5
+2297247,16:27:00,16:27:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297247,16:28:00,16:28:10,stop_point:SP_1914,Leiria,7
+2297247,16:33:00,16:33:10,stop_point:SP_3781,Terrefort,8
+2297247,16:34:00,16:34:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297247,16:36:00,16:36:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297247,16:42:00,16:42:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297248,17:10:00,17:10:10,stop_point:SP_2514,Balma Ribaute,1
+2297248,17:12:00,17:12:10,stop_point:SP_3460,Montels,2
+2297248,17:14:00,17:14:10,stop_point:SP_2936,Pyrénées,3
+2297248,17:15:00,17:15:10,stop_point:SP_261,Fonsegrives Centre,4
+2297248,17:16:00,17:16:10,stop_point:SP_1894,Monplaisir,5
+2297248,17:17:00,17:17:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297248,17:18:00,17:18:10,stop_point:SP_1914,Leiria,7
+2297248,17:23:00,17:23:10,stop_point:SP_3781,Terrefort,8
+2297248,17:24:00,17:24:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297248,17:26:00,17:26:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297248,17:32:00,17:32:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297249,18:00:00,18:00:10,stop_point:SP_2514,Balma Ribaute,1
+2297249,18:02:00,18:02:10,stop_point:SP_3460,Montels,2
+2297249,18:04:00,18:04:10,stop_point:SP_2936,Pyrénées,3
+2297249,18:05:00,18:05:10,stop_point:SP_261,Fonsegrives Centre,4
+2297249,18:06:00,18:06:10,stop_point:SP_1894,Monplaisir,5
+2297249,18:07:00,18:07:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297249,18:08:00,18:08:10,stop_point:SP_1914,Leiria,7
+2297249,18:13:00,18:13:10,stop_point:SP_3781,Terrefort,8
+2297249,18:14:00,18:14:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297249,18:16:00,18:16:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297249,18:22:00,18:22:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297250,18:50:00,18:50:10,stop_point:SP_2514,Balma Ribaute,1
+2297250,18:52:00,18:52:10,stop_point:SP_3460,Montels,2
+2297250,18:53:00,18:53:10,stop_point:SP_2936,Pyrénées,3
+2297250,18:54:00,18:54:10,stop_point:SP_261,Fonsegrives Centre,4
+2297250,18:55:00,18:55:10,stop_point:SP_1894,Monplaisir,5
+2297250,18:56:00,18:56:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297250,18:57:00,18:57:10,stop_point:SP_1914,Leiria,7
+2297250,19:01:00,19:01:10,stop_point:SP_3781,Terrefort,8
+2297250,19:02:00,19:02:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297250,19:04:00,19:04:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297250,19:10:00,19:10:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297251,19:40:00,19:40:10,stop_point:SP_2514,Balma Ribaute,1
+2297251,19:42:00,19:42:10,stop_point:SP_3460,Montels,2
+2297251,19:43:00,19:43:10,stop_point:SP_2936,Pyrénées,3
+2297251,19:44:00,19:44:10,stop_point:SP_261,Fonsegrives Centre,4
+2297251,19:45:00,19:45:10,stop_point:SP_1894,Monplaisir,5
+2297251,19:46:00,19:46:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297251,19:47:00,19:47:10,stop_point:SP_1914,Leiria,7
+2297251,19:51:00,19:51:10,stop_point:SP_3781,Terrefort,8
+2297251,19:52:00,19:52:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297251,19:54:00,19:54:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297251,20:00:00,20:00:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297252,20:35:00,20:35:10,stop_point:SP_2514,Balma Ribaute,1
+2297252,20:37:00,20:37:10,stop_point:SP_3460,Montels,2
+2297252,20:38:00,20:38:10,stop_point:SP_2936,Pyrénées,3
+2297252,20:39:00,20:39:10,stop_point:SP_261,Fonsegrives Centre,4
+2297252,20:40:00,20:40:10,stop_point:SP_1894,Monplaisir,5
+2297252,20:41:00,20:41:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297252,20:42:00,20:42:10,stop_point:SP_1914,Leiria,7
+2297252,20:46:00,20:46:10,stop_point:SP_3781,Terrefort,8
+2297252,20:47:00,20:47:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297252,20:49:00,20:49:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297252,20:55:00,20:55:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297253,09:55:00,09:55:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297253,09:57:00,09:57:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297253,09:58:00,09:58:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297253,10:00:00,10:00:10,stop_point:SP_1920,Terrefort,4
+2297253,10:06:00,10:06:10,stop_point:SP_4873,Leiria,5
+2297253,10:08:00,10:08:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297253,10:10:00,10:10:10,stop_point:SP_1500,Monplaisir,7
+2297253,10:11:00,10:11:10,stop_point:SP_425,Fonsegrives Centre,8
+2297253,10:12:00,10:12:10,stop_point:SP_2610,Pyrénées,9
+2297253,10:15:00,10:15:10,stop_point:SP_2605,Montels,10
+2297253,10:17:00,10:17:10,stop_point:SP_727,Balma Ribaute,11
+2297254,10:50:00,10:50:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297254,10:52:00,10:52:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297254,10:53:00,10:53:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297254,10:55:00,10:55:10,stop_point:SP_1920,Terrefort,4
+2297254,11:01:00,11:01:10,stop_point:SP_4873,Leiria,5
+2297254,11:03:00,11:03:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297254,11:05:00,11:05:10,stop_point:SP_1500,Monplaisir,7
+2297254,11:06:00,11:06:10,stop_point:SP_425,Fonsegrives Centre,8
+2297254,11:07:00,11:07:10,stop_point:SP_2610,Pyrénées,9
+2297254,11:10:00,11:10:10,stop_point:SP_2605,Montels,10
+2297254,11:12:00,11:12:10,stop_point:SP_727,Balma Ribaute,11
+2297255,11:45:00,11:45:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297255,11:47:00,11:47:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297255,11:48:00,11:48:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297255,11:50:00,11:50:10,stop_point:SP_1920,Terrefort,4
+2297255,11:56:00,11:56:10,stop_point:SP_4873,Leiria,5
+2297255,11:58:00,11:58:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297255,12:00:00,12:00:10,stop_point:SP_1500,Monplaisir,7
+2297255,12:01:00,12:01:10,stop_point:SP_425,Fonsegrives Centre,8
+2297255,12:02:00,12:02:10,stop_point:SP_2610,Pyrénées,9
+2297255,12:05:00,12:05:10,stop_point:SP_2605,Montels,10
+2297255,12:07:00,12:07:10,stop_point:SP_727,Balma Ribaute,11
+2297256,12:35:00,12:35:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297256,12:37:00,12:37:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297256,12:38:00,12:38:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297256,12:40:00,12:40:10,stop_point:SP_1920,Terrefort,4
+2297256,12:46:00,12:46:10,stop_point:SP_4873,Leiria,5
+2297256,12:48:00,12:48:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297256,12:50:00,12:50:10,stop_point:SP_1500,Monplaisir,7
+2297256,12:51:00,12:51:10,stop_point:SP_425,Fonsegrives Centre,8
+2297256,12:52:00,12:52:10,stop_point:SP_2610,Pyrénées,9
+2297256,12:55:00,12:55:10,stop_point:SP_2605,Montels,10
+2297256,12:57:00,12:57:10,stop_point:SP_727,Balma Ribaute,11
+2297257,13:25:00,13:25:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297257,13:27:00,13:27:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297257,13:28:00,13:28:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297257,13:30:00,13:30:10,stop_point:SP_1920,Terrefort,4
+2297257,13:36:00,13:36:10,stop_point:SP_4873,Leiria,5
+2297257,13:38:00,13:38:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297257,13:40:00,13:40:10,stop_point:SP_1500,Monplaisir,7
+2297257,13:41:00,13:41:10,stop_point:SP_425,Fonsegrives Centre,8
+2297257,13:42:00,13:42:10,stop_point:SP_2610,Pyrénées,9
+2297257,13:44:00,13:44:10,stop_point:SP_2605,Montels,10
+2297257,13:45:00,13:45:10,stop_point:SP_727,Balma Ribaute,11
+2297258,14:15:00,14:15:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297258,14:17:00,14:17:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297258,14:18:00,14:18:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297258,14:20:00,14:20:10,stop_point:SP_1920,Terrefort,4
+2297258,14:26:00,14:26:10,stop_point:SP_4873,Leiria,5
+2297258,14:28:00,14:28:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297258,14:30:00,14:30:10,stop_point:SP_1500,Monplaisir,7
+2297258,14:31:00,14:31:10,stop_point:SP_425,Fonsegrives Centre,8
+2297258,14:32:00,14:32:10,stop_point:SP_2610,Pyrénées,9
+2297258,14:34:00,14:34:10,stop_point:SP_2605,Montels,10
+2297258,14:35:00,14:35:10,stop_point:SP_727,Balma Ribaute,11
+2297259,15:05:00,15:05:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297259,15:07:00,15:07:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297259,15:08:00,15:08:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297259,15:10:00,15:10:10,stop_point:SP_1920,Terrefort,4
+2297259,15:16:00,15:16:10,stop_point:SP_4873,Leiria,5
+2297259,15:18:00,15:18:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297259,15:20:00,15:20:10,stop_point:SP_1500,Monplaisir,7
+2297259,15:21:00,15:21:10,stop_point:SP_425,Fonsegrives Centre,8
+2297259,15:22:00,15:22:10,stop_point:SP_2610,Pyrénées,9
+2297259,15:24:00,15:24:10,stop_point:SP_2605,Montels,10
+2297259,15:25:00,15:25:10,stop_point:SP_727,Balma Ribaute,11
+2297260,15:55:00,15:55:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297260,15:57:00,15:57:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297260,15:58:00,15:58:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297260,16:00:00,16:00:10,stop_point:SP_1920,Terrefort,4
+2297260,16:06:00,16:06:10,stop_point:SP_4873,Leiria,5
+2297260,16:08:00,16:08:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297260,16:10:00,16:10:10,stop_point:SP_1500,Monplaisir,7
+2297260,16:11:00,16:11:10,stop_point:SP_425,Fonsegrives Centre,8
+2297260,16:12:00,16:12:10,stop_point:SP_2610,Pyrénées,9
+2297260,16:14:00,16:14:10,stop_point:SP_2605,Montels,10
+2297260,16:15:00,16:15:10,stop_point:SP_727,Balma Ribaute,11
+2297261,16:45:00,16:45:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297261,16:47:00,16:47:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297261,16:48:00,16:48:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297261,16:50:00,16:50:10,stop_point:SP_1920,Terrefort,4
+2297261,16:56:00,16:56:10,stop_point:SP_4873,Leiria,5
+2297261,16:58:00,16:58:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297261,17:00:00,17:00:10,stop_point:SP_1500,Monplaisir,7
+2297261,17:01:00,17:01:10,stop_point:SP_425,Fonsegrives Centre,8
+2297261,17:02:00,17:02:10,stop_point:SP_2610,Pyrénées,9
+2297261,17:05:00,17:05:10,stop_point:SP_2605,Montels,10
+2297261,17:07:00,17:07:10,stop_point:SP_727,Balma Ribaute,11
+2297262,17:35:00,17:35:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297262,17:37:00,17:37:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297262,17:38:00,17:38:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297262,17:40:00,17:40:10,stop_point:SP_1920,Terrefort,4
+2297262,17:46:00,17:46:10,stop_point:SP_4873,Leiria,5
+2297262,17:48:00,17:48:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297262,17:50:00,17:50:10,stop_point:SP_1500,Monplaisir,7
+2297262,17:51:00,17:51:10,stop_point:SP_425,Fonsegrives Centre,8
+2297262,17:52:00,17:52:10,stop_point:SP_2610,Pyrénées,9
+2297262,17:55:00,17:55:10,stop_point:SP_2605,Montels,10
+2297262,17:57:00,17:57:10,stop_point:SP_727,Balma Ribaute,11
+2297263,18:25:00,18:25:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297263,18:27:00,18:27:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297263,18:28:00,18:28:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297263,18:30:00,18:30:10,stop_point:SP_1920,Terrefort,4
+2297263,18:36:00,18:36:10,stop_point:SP_4873,Leiria,5
+2297263,18:38:00,18:38:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297263,18:40:00,18:40:10,stop_point:SP_1500,Monplaisir,7
+2297263,18:41:00,18:41:10,stop_point:SP_425,Fonsegrives Centre,8
+2297263,18:42:00,18:42:10,stop_point:SP_2610,Pyrénées,9
+2297263,18:45:00,18:45:10,stop_point:SP_2605,Montels,10
+2297263,18:47:00,18:47:10,stop_point:SP_727,Balma Ribaute,11
+2297264,19:15:00,19:15:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297264,19:17:00,19:17:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297264,19:18:00,19:18:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297264,19:20:00,19:20:10,stop_point:SP_1920,Terrefort,4
+2297264,19:26:00,19:26:10,stop_point:SP_4873,Leiria,5
+2297264,19:28:00,19:28:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297264,19:30:00,19:30:10,stop_point:SP_1500,Monplaisir,7
+2297264,19:31:00,19:31:10,stop_point:SP_425,Fonsegrives Centre,8
+2297264,19:32:00,19:32:10,stop_point:SP_2610,Pyrénées,9
+2297264,19:34:00,19:34:10,stop_point:SP_2605,Montels,10
+2297264,19:35:00,19:35:10,stop_point:SP_727,Balma Ribaute,11
+2297265,20:05:00,20:05:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297265,20:07:00,20:07:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297265,20:08:00,20:08:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297265,20:10:00,20:10:10,stop_point:SP_1920,Terrefort,4
+2297265,20:16:00,20:16:10,stop_point:SP_4873,Leiria,5
+2297265,20:18:00,20:18:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297265,20:20:00,20:20:10,stop_point:SP_1500,Monplaisir,7
+2297265,20:21:00,20:21:10,stop_point:SP_425,Fonsegrives Centre,8
+2297265,20:22:00,20:22:10,stop_point:SP_2610,Pyrénées,9
+2297265,20:24:00,20:24:10,stop_point:SP_2605,Montels,10
+2297265,20:25:00,20:25:10,stop_point:SP_727,Balma Ribaute,11
+2297266,06:36:00,06:36:10,stop_point:SP_2514,Balma Ribaute,1
+2297266,06:37:00,06:37:10,stop_point:SP_3460,Montels,2
+2297266,06:37:00,06:37:10,stop_point:SP_2936,Pyrénées,3
+2297266,06:38:00,06:38:10,stop_point:SP_261,Fonsegrives Centre,4
+2297266,06:39:00,06:39:10,stop_point:SP_1894,Monplaisir,5
+2297266,06:40:00,06:40:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297266,06:41:00,06:41:10,stop_point:SP_1914,Leiria,7
+2297266,06:45:00,06:45:10,stop_point:SP_3781,Terrefort,8
+2297266,06:46:00,06:46:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297266,06:48:00,06:48:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297266,06:50:00,06:50:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297267,07:29:00,07:29:10,stop_point:SP_2514,Balma Ribaute,1
+2297267,07:30:00,07:30:10,stop_point:SP_3460,Montels,2
+2297267,07:30:00,07:30:10,stop_point:SP_2936,Pyrénées,3
+2297267,07:31:00,07:31:10,stop_point:SP_261,Fonsegrives Centre,4
+2297267,07:32:00,07:32:10,stop_point:SP_1894,Monplaisir,5
+2297267,07:33:00,07:33:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297267,07:34:00,07:34:10,stop_point:SP_1914,Leiria,7
+2297267,07:38:00,07:38:10,stop_point:SP_3781,Terrefort,8
+2297267,07:39:00,07:39:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297267,07:41:00,07:41:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297267,07:43:00,07:43:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297268,08:19:00,08:19:10,stop_point:SP_2514,Balma Ribaute,1
+2297268,08:20:00,08:20:10,stop_point:SP_3460,Montels,2
+2297268,08:20:00,08:20:10,stop_point:SP_2936,Pyrénées,3
+2297268,08:21:00,08:21:10,stop_point:SP_261,Fonsegrives Centre,4
+2297268,08:22:00,08:22:10,stop_point:SP_1894,Monplaisir,5
+2297268,08:23:00,08:23:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297268,08:24:00,08:24:10,stop_point:SP_1914,Leiria,7
+2297268,08:29:00,08:29:10,stop_point:SP_3781,Terrefort,8
+2297268,08:30:00,08:30:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297268,08:32:00,08:32:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297268,08:34:00,08:34:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297269,09:08:00,09:08:10,stop_point:SP_2514,Balma Ribaute,1
+2297269,09:09:00,09:09:10,stop_point:SP_3460,Montels,2
+2297269,09:09:00,09:09:10,stop_point:SP_2936,Pyrénées,3
+2297269,09:10:00,09:10:10,stop_point:SP_261,Fonsegrives Centre,4
+2297269,09:11:00,09:11:10,stop_point:SP_1894,Monplaisir,5
+2297269,09:12:00,09:12:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297269,09:13:00,09:13:10,stop_point:SP_1914,Leiria,7
+2297269,09:18:00,09:18:10,stop_point:SP_3781,Terrefort,8
+2297269,09:19:00,09:19:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297269,09:21:00,09:21:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297269,09:23:00,09:23:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297270,09:59:00,09:59:10,stop_point:SP_2514,Balma Ribaute,1
+2297270,10:00:00,10:00:10,stop_point:SP_3460,Montels,2
+2297270,10:00:00,10:00:10,stop_point:SP_2936,Pyrénées,3
+2297270,10:01:00,10:01:10,stop_point:SP_261,Fonsegrives Centre,4
+2297270,10:02:00,10:02:10,stop_point:SP_1894,Monplaisir,5
+2297270,10:03:00,10:03:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297270,10:04:00,10:04:10,stop_point:SP_1914,Leiria,7
+2297270,10:09:00,10:09:10,stop_point:SP_3781,Terrefort,8
+2297270,10:10:00,10:10:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297270,10:12:00,10:12:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297270,10:14:00,10:14:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297271,10:49:00,10:49:10,stop_point:SP_2514,Balma Ribaute,1
+2297271,10:50:00,10:50:10,stop_point:SP_3460,Montels,2
+2297271,10:50:00,10:50:10,stop_point:SP_2936,Pyrénées,3
+2297271,10:51:00,10:51:10,stop_point:SP_261,Fonsegrives Centre,4
+2297271,10:52:00,10:52:10,stop_point:SP_1894,Monplaisir,5
+2297271,10:53:00,10:53:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297271,10:54:00,10:54:10,stop_point:SP_1914,Leiria,7
+2297271,10:59:00,10:59:10,stop_point:SP_3781,Terrefort,8
+2297271,11:00:00,11:00:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297271,11:02:00,11:02:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297271,11:04:00,11:04:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297272,11:39:00,11:39:10,stop_point:SP_2514,Balma Ribaute,1
+2297272,11:40:00,11:40:10,stop_point:SP_3460,Montels,2
+2297272,11:40:00,11:40:10,stop_point:SP_2936,Pyrénées,3
+2297272,11:41:00,11:41:10,stop_point:SP_261,Fonsegrives Centre,4
+2297272,11:42:00,11:42:10,stop_point:SP_1894,Monplaisir,5
+2297272,11:43:00,11:43:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297272,11:44:00,11:44:10,stop_point:SP_1914,Leiria,7
+2297272,11:49:00,11:49:10,stop_point:SP_3781,Terrefort,8
+2297272,11:50:00,11:50:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297272,11:52:00,11:52:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297272,11:54:00,11:54:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297273,12:29:00,12:29:10,stop_point:SP_2514,Balma Ribaute,1
+2297273,12:30:00,12:30:10,stop_point:SP_3460,Montels,2
+2297273,12:30:00,12:30:10,stop_point:SP_2936,Pyrénées,3
+2297273,12:31:00,12:31:10,stop_point:SP_261,Fonsegrives Centre,4
+2297273,12:32:00,12:32:10,stop_point:SP_1894,Monplaisir,5
+2297273,12:33:00,12:33:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297273,12:34:00,12:34:10,stop_point:SP_1914,Leiria,7
+2297273,12:39:00,12:39:10,stop_point:SP_3781,Terrefort,8
+2297273,12:40:00,12:40:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297273,12:42:00,12:42:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297273,12:44:00,12:44:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297274,13:23:00,13:23:10,stop_point:SP_2514,Balma Ribaute,1
+2297274,13:24:00,13:24:10,stop_point:SP_3460,Montels,2
+2297274,13:24:00,13:24:10,stop_point:SP_2936,Pyrénées,3
+2297274,13:25:00,13:25:10,stop_point:SP_261,Fonsegrives Centre,4
+2297274,13:26:00,13:26:10,stop_point:SP_1894,Monplaisir,5
+2297274,13:27:00,13:27:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297274,13:28:00,13:28:10,stop_point:SP_1914,Leiria,7
+2297274,13:33:00,13:33:10,stop_point:SP_3781,Terrefort,8
+2297274,13:34:00,13:34:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297274,13:36:00,13:36:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297274,13:38:00,13:38:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297275,14:20:00,14:20:10,stop_point:SP_2514,Balma Ribaute,1
+2297275,14:21:00,14:21:10,stop_point:SP_3460,Montels,2
+2297275,14:21:00,14:21:10,stop_point:SP_2936,Pyrénées,3
+2297275,14:22:00,14:22:10,stop_point:SP_261,Fonsegrives Centre,4
+2297275,14:23:00,14:23:10,stop_point:SP_1894,Monplaisir,5
+2297275,14:24:00,14:24:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297275,14:25:00,14:25:10,stop_point:SP_1914,Leiria,7
+2297275,14:30:00,14:30:10,stop_point:SP_3781,Terrefort,8
+2297275,14:31:00,14:31:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297275,14:33:00,14:33:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297275,14:35:00,14:35:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297276,15:11:00,15:11:10,stop_point:SP_2514,Balma Ribaute,1
+2297276,15:12:00,15:12:10,stop_point:SP_3460,Montels,2
+2297276,15:12:00,15:12:10,stop_point:SP_2936,Pyrénées,3
+2297276,15:13:00,15:13:10,stop_point:SP_261,Fonsegrives Centre,4
+2297276,15:14:00,15:14:10,stop_point:SP_1894,Monplaisir,5
+2297276,15:15:00,15:15:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297276,15:16:00,15:16:10,stop_point:SP_1914,Leiria,7
+2297276,15:21:00,15:21:10,stop_point:SP_3781,Terrefort,8
+2297276,15:22:00,15:22:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297276,15:24:00,15:24:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297276,15:26:00,15:26:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297277,16:01:00,16:01:10,stop_point:SP_2514,Balma Ribaute,1
+2297277,16:02:00,16:02:10,stop_point:SP_3460,Montels,2
+2297277,16:02:00,16:02:10,stop_point:SP_2936,Pyrénées,3
+2297277,16:03:00,16:03:10,stop_point:SP_261,Fonsegrives Centre,4
+2297277,16:04:00,16:04:10,stop_point:SP_1894,Monplaisir,5
+2297277,16:05:00,16:05:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297277,16:06:00,16:06:10,stop_point:SP_1914,Leiria,7
+2297277,16:11:00,16:11:10,stop_point:SP_3781,Terrefort,8
+2297277,16:12:00,16:12:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297277,16:14:00,16:14:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297277,16:16:00,16:16:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297278,16:51:00,16:51:10,stop_point:SP_2514,Balma Ribaute,1
+2297278,16:52:00,16:52:10,stop_point:SP_3460,Montels,2
+2297278,16:53:00,16:53:10,stop_point:SP_2936,Pyrénées,3
+2297278,16:54:00,16:54:10,stop_point:SP_261,Fonsegrives Centre,4
+2297278,16:55:00,16:55:10,stop_point:SP_1894,Monplaisir,5
+2297278,16:56:00,16:56:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297278,16:57:00,16:57:10,stop_point:SP_1914,Leiria,7
+2297278,17:02:00,17:02:10,stop_point:SP_3781,Terrefort,8
+2297278,17:03:00,17:03:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297278,17:05:00,17:05:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297278,17:07:00,17:07:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297279,17:46:00,17:46:10,stop_point:SP_2514,Balma Ribaute,1
+2297279,17:47:00,17:47:10,stop_point:SP_3460,Montels,2
+2297279,17:48:00,17:48:10,stop_point:SP_2936,Pyrénées,3
+2297279,17:49:00,17:49:10,stop_point:SP_261,Fonsegrives Centre,4
+2297279,17:50:00,17:50:10,stop_point:SP_1894,Monplaisir,5
+2297279,17:51:00,17:51:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297279,17:52:00,17:52:10,stop_point:SP_1914,Leiria,7
+2297279,17:57:00,17:57:10,stop_point:SP_3781,Terrefort,8
+2297279,17:58:00,17:58:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297279,18:00:00,18:00:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297279,18:02:00,18:02:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297280,18:41:00,18:41:10,stop_point:SP_2514,Balma Ribaute,1
+2297280,18:42:00,18:42:10,stop_point:SP_3460,Montels,2
+2297280,18:43:00,18:43:10,stop_point:SP_2936,Pyrénées,3
+2297280,18:44:00,18:44:10,stop_point:SP_261,Fonsegrives Centre,4
+2297280,18:45:00,18:45:10,stop_point:SP_1894,Monplaisir,5
+2297280,18:46:00,18:46:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297280,18:47:00,18:47:10,stop_point:SP_1914,Leiria,7
+2297280,18:52:00,18:52:10,stop_point:SP_3781,Terrefort,8
+2297280,18:53:00,18:53:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297280,18:55:00,18:55:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297280,18:57:00,18:57:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297281,19:31:00,19:31:10,stop_point:SP_2514,Balma Ribaute,1
+2297281,19:32:00,19:32:10,stop_point:SP_3460,Montels,2
+2297281,19:32:00,19:32:10,stop_point:SP_2936,Pyrénées,3
+2297281,19:33:00,19:33:10,stop_point:SP_261,Fonsegrives Centre,4
+2297281,19:34:00,19:34:10,stop_point:SP_1894,Monplaisir,5
+2297281,19:35:00,19:35:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297281,19:36:00,19:36:10,stop_point:SP_1914,Leiria,7
+2297281,19:41:00,19:41:10,stop_point:SP_3781,Terrefort,8
+2297281,19:42:00,19:42:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297281,19:44:00,19:44:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297281,19:46:00,19:46:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297282,20:21:00,20:21:10,stop_point:SP_2514,Balma Ribaute,1
+2297282,20:22:00,20:22:10,stop_point:SP_3460,Montels,2
+2297282,20:22:00,20:22:10,stop_point:SP_2936,Pyrénées,3
+2297282,20:23:00,20:23:10,stop_point:SP_261,Fonsegrives Centre,4
+2297282,20:24:00,20:24:10,stop_point:SP_1894,Monplaisir,5
+2297282,20:25:00,20:25:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297282,20:26:00,20:26:10,stop_point:SP_1914,Leiria,7
+2297282,20:31:00,20:31:10,stop_point:SP_3781,Terrefort,8
+2297282,20:32:00,20:32:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297282,20:34:00,20:34:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297282,20:36:00,20:36:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297283,21:10:00,21:10:10,stop_point:SP_2514,Balma Ribaute,1
+2297283,21:11:00,21:11:10,stop_point:SP_3460,Montels,2
+2297283,21:11:00,21:11:10,stop_point:SP_2936,Pyrénées,3
+2297283,21:12:00,21:12:10,stop_point:SP_261,Fonsegrives Centre,4
+2297283,21:13:00,21:13:10,stop_point:SP_1894,Monplaisir,5
+2297283,21:14:00,21:14:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297283,21:15:00,21:15:10,stop_point:SP_1914,Leiria,7
+2297283,21:20:00,21:20:10,stop_point:SP_3781,Terrefort,8
+2297283,21:21:00,21:21:10,stop_point:SP_3337,Mairie Aigrefeuille,9
+2297283,21:23:00,21:23:10,stop_point:SP_446,Aigrefeuille Ch. Baric,10
+2297283,21:25:00,21:25:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,11
+2297284,06:10:00,06:10:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297284,06:13:00,06:13:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297284,06:14:00,06:14:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297284,06:15:00,06:15:10,stop_point:SP_1920,Terrefort,4
+2297284,06:19:00,06:19:10,stop_point:SP_4873,Leiria,5
+2297284,06:20:00,06:20:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297284,06:21:00,06:21:10,stop_point:SP_1500,Monplaisir,7
+2297284,06:22:00,06:22:10,stop_point:SP_425,Fonsegrives Centre,8
+2297284,06:22:00,06:22:10,stop_point:SP_2610,Pyrénées,9
+2297284,06:23:00,06:23:10,stop_point:SP_2605,Montels,10
+2297284,06:24:00,06:24:10,stop_point:SP_727,Balma Ribaute,11
+2297285,07:01:00,07:01:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297285,07:04:00,07:04:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297285,07:05:00,07:05:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297285,07:06:00,07:06:10,stop_point:SP_1920,Terrefort,4
+2297285,07:11:00,07:11:10,stop_point:SP_4873,Leiria,5
+2297285,07:13:00,07:13:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297285,07:14:00,07:14:10,stop_point:SP_1500,Monplaisir,7
+2297285,07:15:00,07:15:10,stop_point:SP_425,Fonsegrives Centre,8
+2297285,07:15:00,07:15:10,stop_point:SP_2610,Pyrénées,9
+2297285,07:16:00,07:16:10,stop_point:SP_2605,Montels,10
+2297285,07:17:00,07:17:10,stop_point:SP_727,Balma Ribaute,11
+2297286,07:53:00,07:53:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297286,07:56:00,07:56:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297286,07:57:00,07:57:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297286,07:58:00,07:58:10,stop_point:SP_1920,Terrefort,4
+2297286,08:03:00,08:03:10,stop_point:SP_4873,Leiria,5
+2297286,08:05:00,08:05:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297286,08:06:00,08:06:10,stop_point:SP_1500,Monplaisir,7
+2297286,08:07:00,08:07:10,stop_point:SP_425,Fonsegrives Centre,8
+2297286,08:07:00,08:07:10,stop_point:SP_2610,Pyrénées,9
+2297286,08:08:00,08:08:10,stop_point:SP_2605,Montels,10
+2297286,08:09:00,08:09:10,stop_point:SP_727,Balma Ribaute,11
+2297287,08:43:00,08:43:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297287,08:46:00,08:46:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297287,08:47:00,08:47:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297287,08:48:00,08:48:10,stop_point:SP_1920,Terrefort,4
+2297287,08:52:00,08:52:10,stop_point:SP_4873,Leiria,5
+2297287,08:54:00,08:54:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297287,08:55:00,08:55:10,stop_point:SP_1500,Monplaisir,7
+2297287,08:56:00,08:56:10,stop_point:SP_425,Fonsegrives Centre,8
+2297287,08:56:00,08:56:10,stop_point:SP_2610,Pyrénées,9
+2297287,08:57:00,08:57:10,stop_point:SP_2605,Montels,10
+2297287,08:58:00,08:58:10,stop_point:SP_727,Balma Ribaute,11
+2297288,09:31:00,09:31:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297288,09:34:00,09:34:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297288,09:35:00,09:35:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297288,09:36:00,09:36:10,stop_point:SP_1920,Terrefort,4
+2297288,09:40:00,09:40:10,stop_point:SP_4873,Leiria,5
+2297288,09:42:00,09:42:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297288,09:43:00,09:43:10,stop_point:SP_1500,Monplaisir,7
+2297288,09:44:00,09:44:10,stop_point:SP_425,Fonsegrives Centre,8
+2297288,09:44:00,09:44:10,stop_point:SP_2610,Pyrénées,9
+2297288,09:45:00,09:45:10,stop_point:SP_2605,Montels,10
+2297288,09:46:00,09:46:10,stop_point:SP_727,Balma Ribaute,11
+2297289,10:23:00,10:23:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297289,10:26:00,10:26:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297289,10:27:00,10:27:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297289,10:28:00,10:28:10,stop_point:SP_1920,Terrefort,4
+2297289,10:32:00,10:32:10,stop_point:SP_4873,Leiria,5
+2297289,10:34:00,10:34:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297289,10:35:00,10:35:10,stop_point:SP_1500,Monplaisir,7
+2297289,10:36:00,10:36:10,stop_point:SP_425,Fonsegrives Centre,8
+2297289,10:36:00,10:36:10,stop_point:SP_2610,Pyrénées,9
+2297289,10:37:00,10:37:10,stop_point:SP_2605,Montels,10
+2297289,10:38:00,10:38:10,stop_point:SP_727,Balma Ribaute,11
+2297290,11:13:00,11:13:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297290,11:16:00,11:16:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297290,11:17:00,11:17:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297290,11:18:00,11:18:10,stop_point:SP_1920,Terrefort,4
+2297290,11:22:00,11:22:10,stop_point:SP_4873,Leiria,5
+2297290,11:24:00,11:24:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297290,11:25:00,11:25:10,stop_point:SP_1500,Monplaisir,7
+2297290,11:26:00,11:26:10,stop_point:SP_425,Fonsegrives Centre,8
+2297290,11:26:00,11:26:10,stop_point:SP_2610,Pyrénées,9
+2297290,11:27:00,11:27:10,stop_point:SP_2605,Montels,10
+2297290,11:28:00,11:28:10,stop_point:SP_727,Balma Ribaute,11
+2297291,12:03:00,12:03:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297291,12:06:00,12:06:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297291,12:07:00,12:07:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297291,12:08:00,12:08:10,stop_point:SP_1920,Terrefort,4
+2297291,12:12:00,12:12:10,stop_point:SP_4873,Leiria,5
+2297291,12:14:00,12:14:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297291,12:15:00,12:15:10,stop_point:SP_1500,Monplaisir,7
+2297291,12:16:00,12:16:10,stop_point:SP_425,Fonsegrives Centre,8
+2297291,12:16:00,12:16:10,stop_point:SP_2610,Pyrénées,9
+2297291,12:17:00,12:17:10,stop_point:SP_2605,Montels,10
+2297291,12:18:00,12:18:10,stop_point:SP_727,Balma Ribaute,11
+2297292,12:53:00,12:53:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297292,12:56:00,12:56:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297292,12:57:00,12:57:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297292,12:58:00,12:58:10,stop_point:SP_1920,Terrefort,4
+2297292,13:02:00,13:02:10,stop_point:SP_4873,Leiria,5
+2297292,13:04:00,13:04:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297292,13:05:00,13:05:10,stop_point:SP_1500,Monplaisir,7
+2297292,13:06:00,13:06:10,stop_point:SP_425,Fonsegrives Centre,8
+2297292,13:06:00,13:06:10,stop_point:SP_2610,Pyrénées,9
+2297292,13:07:00,13:07:10,stop_point:SP_2605,Montels,10
+2297292,13:08:00,13:08:10,stop_point:SP_727,Balma Ribaute,11
+2297293,13:46:00,13:46:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297293,13:49:00,13:49:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297293,13:50:00,13:50:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297293,13:51:00,13:51:10,stop_point:SP_1920,Terrefort,4
+2297293,13:55:00,13:55:10,stop_point:SP_4873,Leiria,5
+2297293,13:57:00,13:57:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297293,13:58:00,13:58:10,stop_point:SP_1500,Monplaisir,7
+2297293,13:59:00,13:59:10,stop_point:SP_425,Fonsegrives Centre,8
+2297293,13:59:00,13:59:10,stop_point:SP_2610,Pyrénées,9
+2297293,14:00:00,14:00:10,stop_point:SP_2605,Montels,10
+2297293,14:01:00,14:01:10,stop_point:SP_727,Balma Ribaute,11
+2297294,14:43:00,14:43:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297294,14:46:00,14:46:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297294,14:47:00,14:47:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297294,14:48:00,14:48:10,stop_point:SP_1920,Terrefort,4
+2297294,14:52:00,14:52:10,stop_point:SP_4873,Leiria,5
+2297294,14:54:00,14:54:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297294,14:55:00,14:55:10,stop_point:SP_1500,Monplaisir,7
+2297294,14:56:00,14:56:10,stop_point:SP_425,Fonsegrives Centre,8
+2297294,14:56:00,14:56:10,stop_point:SP_2610,Pyrénées,9
+2297294,14:57:00,14:57:10,stop_point:SP_2605,Montels,10
+2297294,14:58:00,14:58:10,stop_point:SP_727,Balma Ribaute,11
+2297295,15:35:00,15:35:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297295,15:38:00,15:38:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297295,15:39:00,15:39:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297295,15:40:00,15:40:10,stop_point:SP_1920,Terrefort,4
+2297295,15:44:00,15:44:10,stop_point:SP_4873,Leiria,5
+2297295,15:46:00,15:46:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297295,15:47:00,15:47:10,stop_point:SP_1500,Monplaisir,7
+2297295,15:48:00,15:48:10,stop_point:SP_425,Fonsegrives Centre,8
+2297295,15:48:00,15:48:10,stop_point:SP_2610,Pyrénées,9
+2297295,15:49:00,15:49:10,stop_point:SP_2605,Montels,10
+2297295,15:50:00,15:50:10,stop_point:SP_727,Balma Ribaute,11
+2297296,16:25:00,16:25:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297296,16:28:00,16:28:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297296,16:29:00,16:29:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297296,16:30:00,16:30:10,stop_point:SP_1920,Terrefort,4
+2297296,16:34:00,16:34:10,stop_point:SP_4873,Leiria,5
+2297296,16:36:00,16:36:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297296,16:37:00,16:37:10,stop_point:SP_1500,Monplaisir,7
+2297296,16:38:00,16:38:10,stop_point:SP_425,Fonsegrives Centre,8
+2297296,16:38:00,16:38:10,stop_point:SP_2610,Pyrénées,9
+2297296,16:39:00,16:39:10,stop_point:SP_2605,Montels,10
+2297296,16:40:00,16:40:10,stop_point:SP_727,Balma Ribaute,11
+2297297,17:20:00,17:20:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297297,17:23:00,17:23:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297297,17:24:00,17:24:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297297,17:25:00,17:25:10,stop_point:SP_1920,Terrefort,4
+2297297,17:29:00,17:29:10,stop_point:SP_4873,Leiria,5
+2297297,17:31:00,17:31:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297297,17:32:00,17:32:10,stop_point:SP_1500,Monplaisir,7
+2297297,17:33:00,17:33:10,stop_point:SP_425,Fonsegrives Centre,8
+2297297,17:34:00,17:34:10,stop_point:SP_2610,Pyrénées,9
+2297297,17:35:00,17:35:10,stop_point:SP_2605,Montels,10
+2297297,17:36:00,17:36:10,stop_point:SP_727,Balma Ribaute,11
+2297298,18:15:00,18:15:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297298,18:18:00,18:18:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297298,18:19:00,18:19:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297298,18:20:00,18:20:10,stop_point:SP_1920,Terrefort,4
+2297298,18:24:00,18:24:10,stop_point:SP_4873,Leiria,5
+2297298,18:26:00,18:26:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297298,18:27:00,18:27:10,stop_point:SP_1500,Monplaisir,7
+2297298,18:28:00,18:28:10,stop_point:SP_425,Fonsegrives Centre,8
+2297298,18:28:00,18:28:10,stop_point:SP_2610,Pyrénées,9
+2297298,18:29:00,18:29:10,stop_point:SP_2605,Montels,10
+2297298,18:30:00,18:30:10,stop_point:SP_727,Balma Ribaute,11
+2297299,19:05:00,19:05:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297299,19:08:00,19:08:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297299,19:09:00,19:09:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297299,19:10:00,19:10:10,stop_point:SP_1920,Terrefort,4
+2297299,19:14:00,19:14:10,stop_point:SP_4873,Leiria,5
+2297299,19:15:00,19:15:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297299,19:16:00,19:16:10,stop_point:SP_1500,Monplaisir,7
+2297299,19:17:00,19:17:10,stop_point:SP_425,Fonsegrives Centre,8
+2297299,19:17:00,19:17:10,stop_point:SP_2610,Pyrénées,9
+2297299,19:18:00,19:18:10,stop_point:SP_2605,Montels,10
+2297299,19:19:00,19:19:10,stop_point:SP_727,Balma Ribaute,11
+2297300,19:55:00,19:55:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297300,19:58:00,19:58:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297300,19:59:00,19:59:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297300,20:00:00,20:00:10,stop_point:SP_1920,Terrefort,4
+2297300,20:04:00,20:04:10,stop_point:SP_4873,Leiria,5
+2297300,20:05:00,20:05:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297300,20:06:00,20:06:10,stop_point:SP_1500,Monplaisir,7
+2297300,20:07:00,20:07:10,stop_point:SP_425,Fonsegrives Centre,8
+2297300,20:07:00,20:07:10,stop_point:SP_2610,Pyrénées,9
+2297300,20:08:00,20:08:10,stop_point:SP_2605,Montels,10
+2297300,20:09:00,20:09:10,stop_point:SP_727,Balma Ribaute,11
+2297301,20:45:00,20:45:10,stop_point:SP_3153,Aigrefeuille Clos Marelle,1
+2297301,20:48:00,20:48:10,stop_point:SP_446,Aigrefeuille Ch. Baric,2
+2297301,20:49:00,20:49:10,stop_point:SP_3764,Mairie Aigrefeuille,3
+2297301,20:50:00,20:50:10,stop_point:SP_1920,Terrefort,4
+2297301,20:54:00,20:54:10,stop_point:SP_4873,Leiria,5
+2297301,20:55:00,20:55:10,stop_point:SP_3994,Fonsegrives Collège,6
+2297301,20:56:00,20:56:10,stop_point:SP_1500,Monplaisir,7
+2297301,20:57:00,20:57:10,stop_point:SP_425,Fonsegrives Centre,8
+2297301,20:57:00,20:57:10,stop_point:SP_2610,Pyrénées,9
+2297301,20:58:00,20:58:10,stop_point:SP_2605,Montels,10
+2297301,20:59:00,20:59:10,stop_point:SP_727,Balma Ribaute,11

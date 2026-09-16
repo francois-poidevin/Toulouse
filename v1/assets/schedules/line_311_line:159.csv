@@ -1,0 +1,734 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2374590,06:10:00,06:10:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374590,06:13:00,06:13:10,stop_point:SP_4351,Pont de l'Europe,2
+2374590,06:14:00,06:14:10,stop_point:SP_4553,Jean Dabadie,3
+2374590,06:16:00,06:16:10,stop_point:SP_4771,Lespinasse,4
+2374590,06:17:00,06:17:10,stop_point:SP_4581,Cupidou,5
+2374590,06:20:00,06:20:10,stop_point:SP_4655,Haumont,6
+2374590,06:21:00,06:21:10,stop_point:SP_4636,Mairie De Villate,7
+2374590,06:22:00,06:22:10,stop_point:SP_4666,Carrière,8
+2374590,06:24:00,06:24:10,stop_point:SP_4642,La Taillade,9
+2374590,06:25:00,06:25:10,stop_point:SP_4659,Place René Loubet,10
+2374590,06:26:00,06:26:10,stop_point:SP_4661,Stade,11
+2374590,06:29:00,06:29:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374590,06:31:00,06:31:10,stop_point:SP_4573,Cros,13
+2374590,06:32:00,06:32:10,stop_point:SP_4420,Vierge,14
+2374590,06:35:00,06:35:10,stop_point:SP_4575,Jordanis,15
+2374590,06:36:00,06:36:10,stop_point:SP_1030,Lachambre,16
+2374590,06:37:00,06:37:10,stop_point:SP_2314,Commune,17
+2374590,06:38:00,06:38:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374590,06:40:00,06:40:10,stop_point:SP_3567,Berdoulat,19
+2374590,06:41:00,06:41:10,stop_point:SP_617,Lot. Impérial,20
+2374590,06:42:00,06:42:10,stop_point:SP_535,Clemenceau,21
+2374590,06:43:00,06:43:10,stop_point:SP_1699,Gauguin,22
+2374590,06:43:00,06:43:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374590,06:44:00,06:44:10,stop_point:SP_807,Mairie Portet,24
+2374590,06:45:00,06:45:10,stop_point:SP_1569,Poste de Portet,25
+2374590,06:45:00,06:45:10,stop_point:SP_2143,Désiré,26
+2374590,06:47:00,06:47:10,stop_point:SP_70,Eglise de Portet,27
+2374590,06:48:00,06:48:10,stop_point:SP_4640,La Clé,28
+2374590,06:49:00,06:49:10,stop_point:SP_4652,Cimetière Portet,29
+2374590,06:53:00,06:53:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374591,06:55:00,06:55:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374591,06:58:00,06:58:10,stop_point:SP_4351,Pont de l'Europe,2
+2374591,06:59:00,06:59:10,stop_point:SP_4553,Jean Dabadie,3
+2374591,07:01:00,07:01:10,stop_point:SP_4771,Lespinasse,4
+2374591,07:02:00,07:02:10,stop_point:SP_4581,Cupidou,5
+2374591,07:05:00,07:05:10,stop_point:SP_4655,Haumont,6
+2374591,07:06:00,07:06:10,stop_point:SP_4636,Mairie De Villate,7
+2374591,07:07:00,07:07:10,stop_point:SP_4666,Carrière,8
+2374591,07:09:00,07:09:10,stop_point:SP_4642,La Taillade,9
+2374591,07:10:00,07:10:10,stop_point:SP_4659,Place René Loubet,10
+2374591,07:11:00,07:11:10,stop_point:SP_4661,Stade,11
+2374591,07:14:00,07:14:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374591,07:16:00,07:16:10,stop_point:SP_4573,Cros,13
+2374591,07:17:00,07:17:10,stop_point:SP_4420,Vierge,14
+2374591,07:20:00,07:20:10,stop_point:SP_4575,Jordanis,15
+2374591,07:21:00,07:21:10,stop_point:SP_1030,Lachambre,16
+2374591,07:22:00,07:22:10,stop_point:SP_2314,Commune,17
+2374591,07:23:00,07:23:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374591,07:25:00,07:25:10,stop_point:SP_3567,Berdoulat,19
+2374591,07:26:00,07:26:10,stop_point:SP_617,Lot. Impérial,20
+2374591,07:27:00,07:27:10,stop_point:SP_535,Clemenceau,21
+2374591,07:28:00,07:28:10,stop_point:SP_1699,Gauguin,22
+2374591,07:28:00,07:28:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374591,07:29:00,07:29:10,stop_point:SP_807,Mairie Portet,24
+2374591,07:30:00,07:30:10,stop_point:SP_1569,Poste de Portet,25
+2374591,07:30:00,07:30:10,stop_point:SP_2143,Désiré,26
+2374591,07:32:00,07:32:10,stop_point:SP_70,Eglise de Portet,27
+2374591,07:33:00,07:33:10,stop_point:SP_4640,La Clé,28
+2374591,07:34:00,07:34:10,stop_point:SP_4652,Cimetière Portet,29
+2374591,07:38:00,07:38:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374592,07:30:00,07:30:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374592,07:33:00,07:33:10,stop_point:SP_4351,Pont de l'Europe,2
+2374592,07:35:00,07:35:10,stop_point:SP_4553,Jean Dabadie,3
+2374592,07:36:00,07:36:10,stop_point:SP_4771,Lespinasse,4
+2374592,07:38:00,07:38:10,stop_point:SP_4581,Cupidou,5
+2374592,07:41:00,07:41:10,stop_point:SP_4655,Haumont,6
+2374592,07:42:00,07:42:10,stop_point:SP_4636,Mairie De Villate,7
+2374592,07:43:00,07:43:10,stop_point:SP_4666,Carrière,8
+2374592,07:46:00,07:46:10,stop_point:SP_4642,La Taillade,9
+2374592,07:47:00,07:47:10,stop_point:SP_4659,Place René Loubet,10
+2374592,07:49:00,07:49:10,stop_point:SP_4661,Stade,11
+2374592,07:52:00,07:52:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374592,07:54:00,07:54:10,stop_point:SP_4573,Cros,13
+2374592,07:56:00,07:56:10,stop_point:SP_4420,Vierge,14
+2374592,07:59:00,07:59:10,stop_point:SP_4575,Jordanis,15
+2374592,08:00:00,08:00:10,stop_point:SP_1030,Lachambre,16
+2374592,08:01:00,08:01:10,stop_point:SP_2314,Commune,17
+2374592,08:03:00,08:03:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374592,08:05:00,08:05:10,stop_point:SP_3567,Berdoulat,19
+2374592,08:06:00,08:06:10,stop_point:SP_617,Lot. Impérial,20
+2374592,08:07:00,08:07:10,stop_point:SP_535,Clemenceau,21
+2374592,08:08:00,08:08:10,stop_point:SP_1699,Gauguin,22
+2374592,08:08:00,08:08:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374592,08:09:00,08:09:10,stop_point:SP_807,Mairie Portet,24
+2374592,08:10:00,08:10:10,stop_point:SP_1569,Poste de Portet,25
+2374592,08:10:00,08:10:10,stop_point:SP_2143,Désiré,26
+2374592,08:12:00,08:12:10,stop_point:SP_70,Eglise de Portet,27
+2374592,08:13:00,08:13:10,stop_point:SP_4640,La Clé,28
+2374592,08:14:00,08:14:10,stop_point:SP_4652,Cimetière Portet,29
+2374592,08:18:00,08:18:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374593,08:00:00,08:00:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374593,08:03:00,08:03:10,stop_point:SP_4351,Pont de l'Europe,2
+2374593,08:05:00,08:05:10,stop_point:SP_4553,Jean Dabadie,3
+2374593,08:06:00,08:06:10,stop_point:SP_4771,Lespinasse,4
+2374593,08:08:00,08:08:10,stop_point:SP_4581,Cupidou,5
+2374593,08:11:00,08:11:10,stop_point:SP_4655,Haumont,6
+2374593,08:12:00,08:12:10,stop_point:SP_4636,Mairie De Villate,7
+2374593,08:13:00,08:13:10,stop_point:SP_4666,Carrière,8
+2374593,08:15:00,08:15:10,stop_point:SP_4642,La Taillade,9
+2374593,08:17:00,08:17:10,stop_point:SP_4659,Place René Loubet,10
+2374593,08:18:00,08:18:10,stop_point:SP_4661,Stade,11
+2374593,08:21:00,08:21:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374593,08:23:00,08:23:10,stop_point:SP_4573,Cros,13
+2374593,08:25:00,08:25:10,stop_point:SP_4420,Vierge,14
+2374593,08:27:00,08:27:10,stop_point:SP_4575,Jordanis,15
+2374593,08:29:00,08:29:10,stop_point:SP_1030,Lachambre,16
+2374593,08:30:00,08:30:10,stop_point:SP_2314,Commune,17
+2374593,08:31:00,08:31:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374593,08:33:00,08:33:10,stop_point:SP_3567,Berdoulat,19
+2374593,08:34:00,08:34:10,stop_point:SP_617,Lot. Impérial,20
+2374593,08:35:00,08:35:10,stop_point:SP_535,Clemenceau,21
+2374593,08:36:00,08:36:10,stop_point:SP_1699,Gauguin,22
+2374593,08:36:00,08:36:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374593,08:37:00,08:37:10,stop_point:SP_807,Mairie Portet,24
+2374593,08:38:00,08:38:10,stop_point:SP_1569,Poste de Portet,25
+2374593,08:38:00,08:38:10,stop_point:SP_2143,Désiré,26
+2374593,08:40:00,08:40:10,stop_point:SP_70,Eglise de Portet,27
+2374593,08:41:00,08:41:10,stop_point:SP_4640,La Clé,28
+2374593,08:42:00,08:42:10,stop_point:SP_4652,Cimetière Portet,29
+2374593,08:46:00,08:46:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374594,12:33:00,12:33:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374594,12:36:00,12:36:10,stop_point:SP_4351,Pont de l'Europe,2
+2374594,12:37:00,12:37:10,stop_point:SP_4553,Jean Dabadie,3
+2374594,12:39:00,12:39:10,stop_point:SP_4771,Lespinasse,4
+2374594,12:40:00,12:40:10,stop_point:SP_4581,Cupidou,5
+2374594,12:43:00,12:43:10,stop_point:SP_4655,Haumont,6
+2374594,12:44:00,12:44:10,stop_point:SP_4636,Mairie De Villate,7
+2374594,12:45:00,12:45:10,stop_point:SP_4666,Carrière,8
+2374594,12:47:00,12:47:10,stop_point:SP_4642,La Taillade,9
+2374594,12:48:00,12:48:10,stop_point:SP_4659,Place René Loubet,10
+2374594,12:49:00,12:49:10,stop_point:SP_4661,Stade,11
+2374594,12:52:00,12:52:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374594,12:54:00,12:54:10,stop_point:SP_4573,Cros,13
+2374594,12:55:00,12:55:10,stop_point:SP_4420,Vierge,14
+2374594,12:58:00,12:58:10,stop_point:SP_4575,Jordanis,15
+2374594,12:59:00,12:59:10,stop_point:SP_1030,Lachambre,16
+2374594,13:00:00,13:00:10,stop_point:SP_2314,Commune,17
+2374594,13:01:00,13:01:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374594,13:03:00,13:03:10,stop_point:SP_3567,Berdoulat,19
+2374594,13:04:00,13:04:10,stop_point:SP_617,Lot. Impérial,20
+2374594,13:05:00,13:05:10,stop_point:SP_535,Clemenceau,21
+2374594,13:06:00,13:06:10,stop_point:SP_1699,Gauguin,22
+2374594,13:06:00,13:06:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374594,13:07:00,13:07:10,stop_point:SP_807,Mairie Portet,24
+2374594,13:08:00,13:08:10,stop_point:SP_1569,Poste de Portet,25
+2374594,13:08:00,13:08:10,stop_point:SP_2143,Désiré,26
+2374594,13:10:00,13:10:10,stop_point:SP_70,Eglise de Portet,27
+2374594,13:11:00,13:11:10,stop_point:SP_4640,La Clé,28
+2374594,13:12:00,13:12:10,stop_point:SP_4652,Cimetière Portet,29
+2374594,13:16:00,13:16:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374595,14:40:00,14:40:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374595,14:43:00,14:43:10,stop_point:SP_4351,Pont de l'Europe,2
+2374595,14:44:00,14:44:10,stop_point:SP_4553,Jean Dabadie,3
+2374595,14:46:00,14:46:10,stop_point:SP_4771,Lespinasse,4
+2374595,14:47:00,14:47:10,stop_point:SP_4581,Cupidou,5
+2374595,14:50:00,14:50:10,stop_point:SP_4655,Haumont,6
+2374595,14:51:00,14:51:10,stop_point:SP_4636,Mairie De Villate,7
+2374595,14:52:00,14:52:10,stop_point:SP_4666,Carrière,8
+2374595,14:54:00,14:54:10,stop_point:SP_4642,La Taillade,9
+2374595,14:55:00,14:55:10,stop_point:SP_4659,Place René Loubet,10
+2374595,14:56:00,14:56:10,stop_point:SP_4661,Stade,11
+2374595,14:59:00,14:59:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374595,15:01:00,15:01:10,stop_point:SP_4573,Cros,13
+2374595,15:02:00,15:02:10,stop_point:SP_4420,Vierge,14
+2374595,15:05:00,15:05:10,stop_point:SP_4575,Jordanis,15
+2374595,15:06:00,15:06:10,stop_point:SP_1030,Lachambre,16
+2374595,15:07:00,15:07:10,stop_point:SP_2314,Commune,17
+2374595,15:08:00,15:08:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374595,15:10:00,15:10:10,stop_point:SP_3567,Berdoulat,19
+2374595,15:11:00,15:11:10,stop_point:SP_617,Lot. Impérial,20
+2374595,15:12:00,15:12:10,stop_point:SP_535,Clemenceau,21
+2374595,15:13:00,15:13:10,stop_point:SP_1699,Gauguin,22
+2374595,15:13:00,15:13:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374595,15:14:00,15:14:10,stop_point:SP_807,Mairie Portet,24
+2374595,15:15:00,15:15:10,stop_point:SP_1569,Poste de Portet,25
+2374595,15:15:00,15:15:10,stop_point:SP_2143,Désiré,26
+2374595,15:17:00,15:17:10,stop_point:SP_70,Eglise de Portet,27
+2374595,15:18:00,15:18:10,stop_point:SP_4640,La Clé,28
+2374595,15:19:00,15:19:10,stop_point:SP_4652,Cimetière Portet,29
+2374595,15:23:00,15:23:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374596,16:30:00,16:30:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374596,16:33:00,16:33:10,stop_point:SP_4351,Pont de l'Europe,2
+2374596,16:35:00,16:35:10,stop_point:SP_4553,Jean Dabadie,3
+2374596,16:36:00,16:36:10,stop_point:SP_4771,Lespinasse,4
+2374596,16:38:00,16:38:10,stop_point:SP_4581,Cupidou,5
+2374596,16:41:00,16:41:10,stop_point:SP_4655,Haumont,6
+2374596,16:42:00,16:42:10,stop_point:SP_4636,Mairie De Villate,7
+2374596,16:43:00,16:43:10,stop_point:SP_4666,Carrière,8
+2374596,16:45:00,16:45:10,stop_point:SP_4642,La Taillade,9
+2374596,16:47:00,16:47:10,stop_point:SP_4659,Place René Loubet,10
+2374596,16:48:00,16:48:10,stop_point:SP_4661,Stade,11
+2374596,16:51:00,16:51:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374596,16:53:00,16:53:10,stop_point:SP_4573,Cros,13
+2374596,16:55:00,16:55:10,stop_point:SP_4420,Vierge,14
+2374596,16:58:00,16:58:10,stop_point:SP_4575,Jordanis,15
+2374596,16:59:00,16:59:10,stop_point:SP_1030,Lachambre,16
+2374596,17:00:00,17:00:10,stop_point:SP_2314,Commune,17
+2374596,17:02:00,17:02:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374596,17:04:00,17:04:10,stop_point:SP_3567,Berdoulat,19
+2374596,17:05:00,17:05:10,stop_point:SP_617,Lot. Impérial,20
+2374596,17:06:00,17:06:10,stop_point:SP_535,Clemenceau,21
+2374596,17:07:00,17:07:10,stop_point:SP_1699,Gauguin,22
+2374596,17:07:00,17:07:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374596,17:08:00,17:08:10,stop_point:SP_807,Mairie Portet,24
+2374596,17:09:00,17:09:10,stop_point:SP_1569,Poste de Portet,25
+2374596,17:09:00,17:09:10,stop_point:SP_2143,Désiré,26
+2374596,17:11:00,17:11:10,stop_point:SP_70,Eglise de Portet,27
+2374596,17:12:00,17:12:10,stop_point:SP_4640,La Clé,28
+2374596,17:13:00,17:13:10,stop_point:SP_4652,Cimetière Portet,29
+2374596,17:17:00,17:17:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374597,17:15:00,17:15:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374597,17:19:00,17:19:10,stop_point:SP_4351,Pont de l'Europe,2
+2374597,17:21:00,17:21:10,stop_point:SP_4553,Jean Dabadie,3
+2374597,17:23:00,17:23:10,stop_point:SP_4771,Lespinasse,4
+2374597,17:25:00,17:25:10,stop_point:SP_4581,Cupidou,5
+2374597,17:29:00,17:29:10,stop_point:SP_4655,Haumont,6
+2374597,17:30:00,17:30:10,stop_point:SP_4636,Mairie De Villate,7
+2374597,17:31:00,17:31:10,stop_point:SP_4666,Carrière,8
+2374597,17:33:00,17:33:10,stop_point:SP_4642,La Taillade,9
+2374597,17:34:00,17:34:10,stop_point:SP_4659,Place René Loubet,10
+2374597,17:35:00,17:35:10,stop_point:SP_4661,Stade,11
+2374597,17:38:00,17:38:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374597,17:41:00,17:41:10,stop_point:SP_4573,Cros,13
+2374597,17:42:00,17:42:10,stop_point:SP_4420,Vierge,14
+2374597,17:45:00,17:45:10,stop_point:SP_4575,Jordanis,15
+2374597,17:47:00,17:47:10,stop_point:SP_1030,Lachambre,16
+2374597,17:48:00,17:48:10,stop_point:SP_2314,Commune,17
+2374597,17:50:00,17:50:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374597,17:51:00,17:51:10,stop_point:SP_3567,Berdoulat,19
+2374597,17:52:00,17:52:10,stop_point:SP_617,Lot. Impérial,20
+2374597,17:53:00,17:53:10,stop_point:SP_535,Clemenceau,21
+2374597,17:53:00,17:53:10,stop_point:SP_1699,Gauguin,22
+2374597,17:54:00,17:54:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374597,17:54:00,17:54:10,stop_point:SP_807,Mairie Portet,24
+2374597,17:55:00,17:55:10,stop_point:SP_1569,Poste de Portet,25
+2374597,17:55:00,17:55:10,stop_point:SP_2143,Désiré,26
+2374597,17:57:00,17:57:10,stop_point:SP_70,Eglise de Portet,27
+2374597,17:59:00,17:59:10,stop_point:SP_4640,La Clé,28
+2374597,18:00:00,18:00:10,stop_point:SP_4652,Cimetière Portet,29
+2374597,18:04:00,18:04:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374598,17:45:00,17:45:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374598,17:49:00,17:49:10,stop_point:SP_4351,Pont de l'Europe,2
+2374598,17:51:00,17:51:10,stop_point:SP_4553,Jean Dabadie,3
+2374598,17:53:00,17:53:10,stop_point:SP_4771,Lespinasse,4
+2374598,17:55:00,17:55:10,stop_point:SP_4581,Cupidou,5
+2374598,17:59:00,17:59:10,stop_point:SP_4655,Haumont,6
+2374598,18:00:00,18:00:10,stop_point:SP_4636,Mairie De Villate,7
+2374598,18:01:00,18:01:10,stop_point:SP_4666,Carrière,8
+2374598,18:03:00,18:03:10,stop_point:SP_4642,La Taillade,9
+2374598,18:04:00,18:04:10,stop_point:SP_4659,Place René Loubet,10
+2374598,18:05:00,18:05:10,stop_point:SP_4661,Stade,11
+2374598,18:08:00,18:08:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374598,18:10:00,18:10:10,stop_point:SP_4573,Cros,13
+2374598,18:11:00,18:11:10,stop_point:SP_4420,Vierge,14
+2374598,18:14:00,18:14:10,stop_point:SP_4575,Jordanis,15
+2374598,18:15:00,18:15:10,stop_point:SP_1030,Lachambre,16
+2374598,18:16:00,18:16:10,stop_point:SP_2314,Commune,17
+2374598,18:17:00,18:17:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374598,18:18:00,18:18:10,stop_point:SP_3567,Berdoulat,19
+2374598,18:19:00,18:19:10,stop_point:SP_617,Lot. Impérial,20
+2374598,18:20:00,18:20:10,stop_point:SP_535,Clemenceau,21
+2374598,18:20:00,18:20:10,stop_point:SP_1699,Gauguin,22
+2374598,18:21:00,18:21:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374598,18:21:00,18:21:10,stop_point:SP_807,Mairie Portet,24
+2374598,18:22:00,18:22:10,stop_point:SP_1569,Poste de Portet,25
+2374598,18:23:00,18:23:10,stop_point:SP_2143,Désiré,26
+2374598,18:24:00,18:24:10,stop_point:SP_70,Eglise de Portet,27
+2374598,18:26:00,18:26:10,stop_point:SP_4640,La Clé,28
+2374598,18:27:00,18:27:10,stop_point:SP_4652,Cimetière Portet,29
+2374598,18:32:00,18:32:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374599,18:30:00,18:30:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374599,18:33:00,18:33:10,stop_point:SP_4351,Pont de l'Europe,2
+2374599,18:35:00,18:35:10,stop_point:SP_4553,Jean Dabadie,3
+2374599,18:36:00,18:36:10,stop_point:SP_4771,Lespinasse,4
+2374599,18:38:00,18:38:10,stop_point:SP_4581,Cupidou,5
+2374599,18:41:00,18:41:10,stop_point:SP_4655,Haumont,6
+2374599,18:42:00,18:42:10,stop_point:SP_4636,Mairie De Villate,7
+2374599,18:43:00,18:43:10,stop_point:SP_4666,Carrière,8
+2374599,18:45:00,18:45:10,stop_point:SP_4642,La Taillade,9
+2374599,18:46:00,18:46:10,stop_point:SP_4659,Place René Loubet,10
+2374599,18:47:00,18:47:10,stop_point:SP_4661,Stade,11
+2374599,18:50:00,18:50:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374599,18:52:00,18:52:10,stop_point:SP_4573,Cros,13
+2374599,18:53:00,18:53:10,stop_point:SP_4420,Vierge,14
+2374599,18:56:00,18:56:10,stop_point:SP_4575,Jordanis,15
+2374599,18:57:00,18:57:10,stop_point:SP_1030,Lachambre,16
+2374599,18:58:00,18:58:10,stop_point:SP_2314,Commune,17
+2374599,18:59:00,18:59:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374599,19:00:00,19:00:10,stop_point:SP_3567,Berdoulat,19
+2374599,19:01:00,19:01:10,stop_point:SP_617,Lot. Impérial,20
+2374599,19:02:00,19:02:10,stop_point:SP_535,Clemenceau,21
+2374599,19:02:00,19:02:10,stop_point:SP_1699,Gauguin,22
+2374599,19:03:00,19:03:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374599,19:03:00,19:03:10,stop_point:SP_807,Mairie Portet,24
+2374599,19:04:00,19:04:10,stop_point:SP_1569,Poste de Portet,25
+2374599,19:04:00,19:04:10,stop_point:SP_2143,Désiré,26
+2374599,19:06:00,19:06:10,stop_point:SP_70,Eglise de Portet,27
+2374599,19:08:00,19:08:10,stop_point:SP_4640,La Clé,28
+2374599,19:09:00,19:09:10,stop_point:SP_4652,Cimetière Portet,29
+2374599,19:13:00,19:13:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374600,19:13:00,19:13:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,1
+2374600,19:16:00,19:16:10,stop_point:SP_4351,Pont de l'Europe,2
+2374600,19:17:00,19:17:10,stop_point:SP_4553,Jean Dabadie,3
+2374600,19:19:00,19:19:10,stop_point:SP_4771,Lespinasse,4
+2374600,19:20:00,19:20:10,stop_point:SP_4581,Cupidou,5
+2374600,19:23:00,19:23:10,stop_point:SP_4655,Haumont,6
+2374600,19:24:00,19:24:10,stop_point:SP_4636,Mairie De Villate,7
+2374600,19:25:00,19:25:10,stop_point:SP_4666,Carrière,8
+2374600,19:27:00,19:27:10,stop_point:SP_4642,La Taillade,9
+2374600,19:28:00,19:28:10,stop_point:SP_4659,Place René Loubet,10
+2374600,19:29:00,19:29:10,stop_point:SP_4661,Stade,11
+2374600,19:32:00,19:32:10,stop_point:SP_4556,Gare Pins Justaret,12
+2374600,19:34:00,19:34:10,stop_point:SP_4573,Cros,13
+2374600,19:35:00,19:35:10,stop_point:SP_4420,Vierge,14
+2374600,19:38:00,19:38:10,stop_point:SP_4575,Jordanis,15
+2374600,19:39:00,19:39:10,stop_point:SP_1030,Lachambre,16
+2374600,19:40:00,19:40:10,stop_point:SP_2314,Commune,17
+2374600,19:41:00,19:41:10,stop_point:SP_2579,Mairie Pinsaguel,18
+2374600,19:42:00,19:42:10,stop_point:SP_3567,Berdoulat,19
+2374600,19:43:00,19:43:10,stop_point:SP_617,Lot. Impérial,20
+2374600,19:44:00,19:44:10,stop_point:SP_535,Clemenceau,21
+2374600,19:44:00,19:44:10,stop_point:SP_1699,Gauguin,22
+2374600,19:45:00,19:45:10,stop_point:SP_1737,Ateliers Municipaux,23
+2374600,19:45:00,19:45:10,stop_point:SP_807,Mairie Portet,24
+2374600,19:46:00,19:46:10,stop_point:SP_1569,Poste de Portet,25
+2374600,19:46:00,19:46:10,stop_point:SP_2143,Désiré,26
+2374600,19:48:00,19:48:10,stop_point:SP_70,Eglise de Portet,27
+2374600,19:50:00,19:50:10,stop_point:SP_4640,La Clé,28
+2374600,19:51:00,19:51:10,stop_point:SP_4652,Cimetière Portet,29
+2374600,19:55:00,19:55:10,stop_point:SP_5260,Portet Gare SNCF,30
+2374601,06:10:00,06:10:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374601,06:13:00,06:13:10,stop_point:SP_4663,Cimetière Portet,2
+2374601,06:14:00,06:14:10,stop_point:SP_4648,La Clé,3
+2374601,06:15:00,06:15:10,stop_point:SP_1897,Bosquets,4
+2374601,06:15:00,06:15:10,stop_point:SP_1127,Désiré,5
+2374601,06:16:00,06:16:10,stop_point:SP_1779,Poste de Portet,6
+2374601,06:16:00,06:16:10,stop_point:SP_3136,Mairie Portet,7
+2374601,06:16:00,06:16:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374601,06:17:00,06:17:10,stop_point:SP_11,Gauguin,9
+2374601,06:18:00,06:18:10,stop_point:SP_3190,Clemenceau,10
+2374601,06:19:00,06:19:10,stop_point:SP_2601,Lot. Impérial,11
+2374601,06:21:00,06:21:10,stop_point:SP_2793,Berdoulat,12
+2374601,06:22:00,06:22:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374601,06:23:00,06:23:10,stop_point:SP_2071,Commune,14
+2374601,06:24:00,06:24:10,stop_point:SP_3226,Lachambre,15
+2374601,06:25:00,06:25:10,stop_point:SP_4564,Jordanis,16
+2374601,06:28:00,06:28:10,stop_point:SP_4356,Vierge,17
+2374601,06:29:00,06:29:10,stop_point:SP_4560,Cros,18
+2374601,06:31:00,06:31:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374601,06:34:00,06:34:10,stop_point:SP_4641,Stade,20
+2374601,06:36:00,06:36:10,stop_point:SP_4649,Place René Loubet,21
+2374601,06:37:00,06:37:10,stop_point:SP_4665,La Taillade,22
+2374601,06:39:00,06:39:10,stop_point:SP_4656,Carrière,23
+2374601,06:40:00,06:40:10,stop_point:SP_4658,Mairie De Villate,24
+2374601,06:41:00,06:41:10,stop_point:SP_4643,Haumont,25
+2374601,06:44:00,06:44:10,stop_point:SP_4562,Cupidou,26
+2374601,06:45:00,06:45:10,stop_point:SP_4769,Lespinasse,27
+2374601,06:46:00,06:46:10,stop_point:SP_4392,Jean Dabadie,28
+2374601,06:47:00,06:47:10,stop_point:SP_4386,Pont de l'Europe,29
+2374601,06:49:00,06:49:10,stop_point:SP_5711,Occitanie,30
+2374601,06:50:00,06:50:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374602,07:05:00,07:05:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374602,07:09:00,07:09:10,stop_point:SP_4663,Cimetière Portet,2
+2374602,07:10:00,07:10:10,stop_point:SP_4648,La Clé,3
+2374602,07:12:00,07:12:10,stop_point:SP_1897,Bosquets,4
+2374602,07:12:00,07:12:10,stop_point:SP_1127,Désiré,5
+2374602,07:12:00,07:12:10,stop_point:SP_1779,Poste de Portet,6
+2374602,07:13:00,07:13:10,stop_point:SP_3136,Mairie Portet,7
+2374602,07:14:00,07:14:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374602,07:15:00,07:15:10,stop_point:SP_11,Gauguin,9
+2374602,07:16:00,07:16:10,stop_point:SP_3190,Clemenceau,10
+2374602,07:17:00,07:17:10,stop_point:SP_2601,Lot. Impérial,11
+2374602,07:19:00,07:19:10,stop_point:SP_2793,Berdoulat,12
+2374602,07:20:00,07:20:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374602,07:22:00,07:22:10,stop_point:SP_2071,Commune,14
+2374602,07:22:00,07:22:10,stop_point:SP_3226,Lachambre,15
+2374602,07:24:00,07:24:10,stop_point:SP_4564,Jordanis,16
+2374602,07:27:00,07:27:10,stop_point:SP_4356,Vierge,17
+2374602,07:28:00,07:28:10,stop_point:SP_4560,Cros,18
+2374602,07:30:00,07:30:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374602,07:33:00,07:33:10,stop_point:SP_4641,Stade,20
+2374602,07:35:00,07:35:10,stop_point:SP_4649,Place René Loubet,21
+2374602,07:36:00,07:36:10,stop_point:SP_4665,La Taillade,22
+2374602,07:39:00,07:39:10,stop_point:SP_4656,Carrière,23
+2374602,07:40:00,07:40:10,stop_point:SP_4658,Mairie De Villate,24
+2374602,07:41:00,07:41:10,stop_point:SP_4643,Haumont,25
+2374602,07:45:00,07:45:10,stop_point:SP_4562,Cupidou,26
+2374602,07:47:00,07:47:10,stop_point:SP_4769,Lespinasse,27
+2374602,07:48:00,07:48:10,stop_point:SP_4392,Jean Dabadie,28
+2374602,07:50:00,07:50:10,stop_point:SP_4386,Pont de l'Europe,29
+2374602,07:53:00,07:53:10,stop_point:SP_5711,Occitanie,30
+2374602,07:54:00,07:54:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374603,07:55:00,07:55:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374603,07:59:00,07:59:10,stop_point:SP_4663,Cimetière Portet,2
+2374603,07:59:00,07:59:10,stop_point:SP_4648,La Clé,3
+2374603,08:01:00,08:01:10,stop_point:SP_1897,Bosquets,4
+2374603,08:01:00,08:01:10,stop_point:SP_1127,Désiré,5
+2374603,08:02:00,08:02:10,stop_point:SP_1779,Poste de Portet,6
+2374603,08:02:00,08:02:10,stop_point:SP_3136,Mairie Portet,7
+2374603,08:03:00,08:03:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374603,08:04:00,08:04:10,stop_point:SP_11,Gauguin,9
+2374603,08:05:00,08:05:10,stop_point:SP_3190,Clemenceau,10
+2374603,08:06:00,08:06:10,stop_point:SP_2601,Lot. Impérial,11
+2374603,08:08:00,08:08:10,stop_point:SP_2793,Berdoulat,12
+2374603,08:09:00,08:09:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374603,08:11:00,08:11:10,stop_point:SP_2071,Commune,14
+2374603,08:11:00,08:11:10,stop_point:SP_3226,Lachambre,15
+2374603,08:13:00,08:13:10,stop_point:SP_4564,Jordanis,16
+2374603,08:16:00,08:16:10,stop_point:SP_4356,Vierge,17
+2374603,08:17:00,08:17:10,stop_point:SP_4560,Cros,18
+2374603,08:19:00,08:19:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374603,08:22:00,08:22:10,stop_point:SP_4641,Stade,20
+2374603,08:24:00,08:24:10,stop_point:SP_4649,Place René Loubet,21
+2374603,08:25:00,08:25:10,stop_point:SP_4665,La Taillade,22
+2374603,08:28:00,08:28:10,stop_point:SP_4656,Carrière,23
+2374603,08:29:00,08:29:10,stop_point:SP_4658,Mairie De Villate,24
+2374603,08:30:00,08:30:10,stop_point:SP_4643,Haumont,25
+2374603,08:34:00,08:34:10,stop_point:SP_4562,Cupidou,26
+2374603,08:36:00,08:36:10,stop_point:SP_4769,Lespinasse,27
+2374603,08:37:00,08:37:10,stop_point:SP_4392,Jean Dabadie,28
+2374603,08:39:00,08:39:10,stop_point:SP_4386,Pont de l'Europe,29
+2374603,08:42:00,08:42:10,stop_point:SP_5711,Occitanie,30
+2374603,08:43:00,08:43:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374604,08:20:00,08:20:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374604,08:24:00,08:24:10,stop_point:SP_4663,Cimetière Portet,2
+2374604,08:24:00,08:24:10,stop_point:SP_4648,La Clé,3
+2374604,08:26:00,08:26:10,stop_point:SP_1897,Bosquets,4
+2374604,08:26:00,08:26:10,stop_point:SP_1127,Désiré,5
+2374604,08:27:00,08:27:10,stop_point:SP_1779,Poste de Portet,6
+2374604,08:27:00,08:27:10,stop_point:SP_3136,Mairie Portet,7
+2374604,08:27:00,08:27:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374604,08:28:00,08:28:10,stop_point:SP_11,Gauguin,9
+2374604,08:29:00,08:29:10,stop_point:SP_3190,Clemenceau,10
+2374604,08:30:00,08:30:10,stop_point:SP_2601,Lot. Impérial,11
+2374604,08:32:00,08:32:10,stop_point:SP_2793,Berdoulat,12
+2374604,08:33:00,08:33:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374604,08:35:00,08:35:10,stop_point:SP_2071,Commune,14
+2374604,08:35:00,08:35:10,stop_point:SP_3226,Lachambre,15
+2374604,08:37:00,08:37:10,stop_point:SP_4564,Jordanis,16
+2374604,08:40:00,08:40:10,stop_point:SP_4356,Vierge,17
+2374604,08:41:00,08:41:10,stop_point:SP_4560,Cros,18
+2374604,08:43:00,08:43:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374604,08:46:00,08:46:10,stop_point:SP_4641,Stade,20
+2374604,08:48:00,08:48:10,stop_point:SP_4649,Place René Loubet,21
+2374604,08:49:00,08:49:10,stop_point:SP_4665,La Taillade,22
+2374604,08:52:00,08:52:10,stop_point:SP_4656,Carrière,23
+2374604,08:53:00,08:53:10,stop_point:SP_4658,Mairie De Villate,24
+2374604,08:54:00,08:54:10,stop_point:SP_4643,Haumont,25
+2374604,08:58:00,08:58:10,stop_point:SP_4562,Cupidou,26
+2374604,09:00:00,09:00:10,stop_point:SP_4769,Lespinasse,27
+2374604,09:01:00,09:01:10,stop_point:SP_4392,Jean Dabadie,28
+2374604,09:03:00,09:03:10,stop_point:SP_4386,Pont de l'Europe,29
+2374604,09:06:00,09:06:10,stop_point:SP_5711,Occitanie,30
+2374604,09:07:00,09:07:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374605,09:00:00,09:00:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374605,09:04:00,09:04:10,stop_point:SP_4663,Cimetière Portet,2
+2374605,09:04:00,09:04:10,stop_point:SP_4648,La Clé,3
+2374605,09:06:00,09:06:10,stop_point:SP_1897,Bosquets,4
+2374605,09:06:00,09:06:10,stop_point:SP_1127,Désiré,5
+2374605,09:07:00,09:07:10,stop_point:SP_1779,Poste de Portet,6
+2374605,09:07:00,09:07:10,stop_point:SP_3136,Mairie Portet,7
+2374605,09:07:00,09:07:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374605,09:08:00,09:08:10,stop_point:SP_11,Gauguin,9
+2374605,09:09:00,09:09:10,stop_point:SP_3190,Clemenceau,10
+2374605,09:10:00,09:10:10,stop_point:SP_2601,Lot. Impérial,11
+2374605,09:12:00,09:12:10,stop_point:SP_2793,Berdoulat,12
+2374605,09:13:00,09:13:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374605,09:15:00,09:15:10,stop_point:SP_2071,Commune,14
+2374605,09:15:00,09:15:10,stop_point:SP_3226,Lachambre,15
+2374605,09:17:00,09:17:10,stop_point:SP_4564,Jordanis,16
+2374605,09:20:00,09:20:10,stop_point:SP_4356,Vierge,17
+2374605,09:21:00,09:21:10,stop_point:SP_4560,Cros,18
+2374605,09:23:00,09:23:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374605,09:26:00,09:26:10,stop_point:SP_4641,Stade,20
+2374605,09:28:00,09:28:10,stop_point:SP_4649,Place René Loubet,21
+2374605,09:29:00,09:29:10,stop_point:SP_4665,La Taillade,22
+2374605,09:31:00,09:31:10,stop_point:SP_4656,Carrière,23
+2374605,09:32:00,09:32:10,stop_point:SP_4658,Mairie De Villate,24
+2374605,09:33:00,09:33:10,stop_point:SP_4643,Haumont,25
+2374605,09:37:00,09:37:10,stop_point:SP_4562,Cupidou,26
+2374605,09:39:00,09:39:10,stop_point:SP_4769,Lespinasse,27
+2374605,09:40:00,09:40:10,stop_point:SP_4392,Jean Dabadie,28
+2374605,09:42:00,09:42:10,stop_point:SP_4386,Pont de l'Europe,29
+2374605,09:45:00,09:45:10,stop_point:SP_5711,Occitanie,30
+2374605,09:46:00,09:46:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374606,11:45:00,11:45:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374606,11:49:00,11:49:10,stop_point:SP_4663,Cimetière Portet,2
+2374606,11:49:00,11:49:10,stop_point:SP_4648,La Clé,3
+2374606,11:51:00,11:51:10,stop_point:SP_1897,Bosquets,4
+2374606,11:51:00,11:51:10,stop_point:SP_1127,Désiré,5
+2374606,11:52:00,11:52:10,stop_point:SP_1779,Poste de Portet,6
+2374606,11:52:00,11:52:10,stop_point:SP_3136,Mairie Portet,7
+2374606,11:52:00,11:52:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374606,11:53:00,11:53:10,stop_point:SP_11,Gauguin,9
+2374606,11:54:00,11:54:10,stop_point:SP_3190,Clemenceau,10
+2374606,11:55:00,11:55:10,stop_point:SP_2601,Lot. Impérial,11
+2374606,11:57:00,11:57:10,stop_point:SP_2793,Berdoulat,12
+2374606,11:58:00,11:58:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374606,12:00:00,12:00:10,stop_point:SP_2071,Commune,14
+2374606,12:00:00,12:00:10,stop_point:SP_3226,Lachambre,15
+2374606,12:02:00,12:02:10,stop_point:SP_4564,Jordanis,16
+2374606,12:05:00,12:05:10,stop_point:SP_4356,Vierge,17
+2374606,12:06:00,12:06:10,stop_point:SP_4560,Cros,18
+2374606,12:08:00,12:08:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374606,12:11:00,12:11:10,stop_point:SP_4641,Stade,20
+2374606,12:13:00,12:13:10,stop_point:SP_4649,Place René Loubet,21
+2374606,12:14:00,12:14:10,stop_point:SP_4665,La Taillade,22
+2374606,12:16:00,12:16:10,stop_point:SP_4656,Carrière,23
+2374606,12:17:00,12:17:10,stop_point:SP_4658,Mairie De Villate,24
+2374606,12:18:00,12:18:10,stop_point:SP_4643,Haumont,25
+2374606,12:21:00,12:21:10,stop_point:SP_4562,Cupidou,26
+2374606,12:23:00,12:23:10,stop_point:SP_4769,Lespinasse,27
+2374606,12:24:00,12:24:10,stop_point:SP_4392,Jean Dabadie,28
+2374606,12:26:00,12:26:10,stop_point:SP_4386,Pont de l'Europe,29
+2374606,12:28:00,12:28:10,stop_point:SP_5711,Occitanie,30
+2374606,12:29:00,12:29:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374607,13:50:00,13:50:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374607,13:54:00,13:54:10,stop_point:SP_4663,Cimetière Portet,2
+2374607,13:54:00,13:54:10,stop_point:SP_4648,La Clé,3
+2374607,13:56:00,13:56:10,stop_point:SP_1897,Bosquets,4
+2374607,13:56:00,13:56:10,stop_point:SP_1127,Désiré,5
+2374607,13:57:00,13:57:10,stop_point:SP_1779,Poste de Portet,6
+2374607,13:57:00,13:57:10,stop_point:SP_3136,Mairie Portet,7
+2374607,13:57:00,13:57:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374607,13:58:00,13:58:10,stop_point:SP_11,Gauguin,9
+2374607,13:59:00,13:59:10,stop_point:SP_3190,Clemenceau,10
+2374607,14:00:00,14:00:10,stop_point:SP_2601,Lot. Impérial,11
+2374607,14:02:00,14:02:10,stop_point:SP_2793,Berdoulat,12
+2374607,14:03:00,14:03:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374607,14:05:00,14:05:10,stop_point:SP_2071,Commune,14
+2374607,14:05:00,14:05:10,stop_point:SP_3226,Lachambre,15
+2374607,14:07:00,14:07:10,stop_point:SP_4564,Jordanis,16
+2374607,14:10:00,14:10:10,stop_point:SP_4356,Vierge,17
+2374607,14:11:00,14:11:10,stop_point:SP_4560,Cros,18
+2374607,14:13:00,14:13:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374607,14:16:00,14:16:10,stop_point:SP_4641,Stade,20
+2374607,14:18:00,14:18:10,stop_point:SP_4649,Place René Loubet,21
+2374607,14:19:00,14:19:10,stop_point:SP_4665,La Taillade,22
+2374607,14:21:00,14:21:10,stop_point:SP_4656,Carrière,23
+2374607,14:22:00,14:22:10,stop_point:SP_4658,Mairie De Villate,24
+2374607,14:23:00,14:23:10,stop_point:SP_4643,Haumont,25
+2374607,14:26:00,14:26:10,stop_point:SP_4562,Cupidou,26
+2374607,14:28:00,14:28:10,stop_point:SP_4769,Lespinasse,27
+2374607,14:29:00,14:29:10,stop_point:SP_4392,Jean Dabadie,28
+2374607,14:31:00,14:31:10,stop_point:SP_4386,Pont de l'Europe,29
+2374607,14:33:00,14:33:10,stop_point:SP_5711,Occitanie,30
+2374607,14:34:00,14:34:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374608,16:20:00,16:20:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374608,16:24:00,16:24:10,stop_point:SP_4663,Cimetière Portet,2
+2374608,16:25:00,16:25:10,stop_point:SP_4648,La Clé,3
+2374608,16:27:00,16:27:10,stop_point:SP_1897,Bosquets,4
+2374608,16:27:00,16:27:10,stop_point:SP_1127,Désiré,5
+2374608,16:27:00,16:27:10,stop_point:SP_1779,Poste de Portet,6
+2374608,16:28:00,16:28:10,stop_point:SP_3136,Mairie Portet,7
+2374608,16:28:00,16:28:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374608,16:29:00,16:29:10,stop_point:SP_11,Gauguin,9
+2374608,16:30:00,16:30:10,stop_point:SP_3190,Clemenceau,10
+2374608,16:31:00,16:31:10,stop_point:SP_2601,Lot. Impérial,11
+2374608,16:33:00,16:33:10,stop_point:SP_2793,Berdoulat,12
+2374608,16:34:00,16:34:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374608,16:36:00,16:36:10,stop_point:SP_2071,Commune,14
+2374608,16:36:00,16:36:10,stop_point:SP_3226,Lachambre,15
+2374608,16:38:00,16:38:10,stop_point:SP_4564,Jordanis,16
+2374608,16:41:00,16:41:10,stop_point:SP_4356,Vierge,17
+2374608,16:42:00,16:42:10,stop_point:SP_4560,Cros,18
+2374608,16:44:00,16:44:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374608,16:48:00,16:48:10,stop_point:SP_4641,Stade,20
+2374608,16:49:00,16:49:10,stop_point:SP_4649,Place René Loubet,21
+2374608,16:51:00,16:51:10,stop_point:SP_4665,La Taillade,22
+2374608,16:53:00,16:53:10,stop_point:SP_4656,Carrière,23
+2374608,16:55:00,16:55:10,stop_point:SP_4658,Mairie De Villate,24
+2374608,16:56:00,16:56:10,stop_point:SP_4643,Haumont,25
+2374608,17:00:00,17:00:10,stop_point:SP_4562,Cupidou,26
+2374608,17:01:00,17:01:10,stop_point:SP_4769,Lespinasse,27
+2374608,17:03:00,17:03:10,stop_point:SP_4392,Jean Dabadie,28
+2374608,17:05:00,17:05:10,stop_point:SP_4386,Pont de l'Europe,29
+2374608,17:07:00,17:07:10,stop_point:SP_5711,Occitanie,30
+2374608,17:08:00,17:08:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374609,17:48:00,17:48:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374609,17:52:00,17:52:10,stop_point:SP_4663,Cimetière Portet,2
+2374609,17:52:00,17:52:10,stop_point:SP_4648,La Clé,3
+2374609,17:54:00,17:54:10,stop_point:SP_1897,Bosquets,4
+2374609,17:54:00,17:54:10,stop_point:SP_1127,Désiré,5
+2374609,17:55:00,17:55:10,stop_point:SP_1779,Poste de Portet,6
+2374609,17:55:00,17:55:10,stop_point:SP_3136,Mairie Portet,7
+2374609,17:56:00,17:56:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374609,17:57:00,17:57:10,stop_point:SP_11,Gauguin,9
+2374609,17:58:00,17:58:10,stop_point:SP_3190,Clemenceau,10
+2374609,17:59:00,17:59:10,stop_point:SP_2601,Lot. Impérial,11
+2374609,18:01:00,18:01:10,stop_point:SP_2793,Berdoulat,12
+2374609,18:02:00,18:02:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374609,18:04:00,18:04:10,stop_point:SP_2071,Commune,14
+2374609,18:04:00,18:04:10,stop_point:SP_3226,Lachambre,15
+2374609,18:06:00,18:06:10,stop_point:SP_4564,Jordanis,16
+2374609,18:09:00,18:09:10,stop_point:SP_4356,Vierge,17
+2374609,18:10:00,18:10:10,stop_point:SP_4560,Cros,18
+2374609,18:12:00,18:12:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374609,18:15:00,18:15:10,stop_point:SP_4641,Stade,20
+2374609,18:17:00,18:17:10,stop_point:SP_4649,Place René Loubet,21
+2374609,18:18:00,18:18:10,stop_point:SP_4665,La Taillade,22
+2374609,18:21:00,18:21:10,stop_point:SP_4656,Carrière,23
+2374609,18:22:00,18:22:10,stop_point:SP_4658,Mairie De Villate,24
+2374609,18:23:00,18:23:10,stop_point:SP_4643,Haumont,25
+2374609,18:26:00,18:26:10,stop_point:SP_4562,Cupidou,26
+2374609,18:28:00,18:28:10,stop_point:SP_4769,Lespinasse,27
+2374609,18:29:00,18:29:10,stop_point:SP_4392,Jean Dabadie,28
+2374609,18:31:00,18:31:10,stop_point:SP_4386,Pont de l'Europe,29
+2374609,18:33:00,18:33:10,stop_point:SP_5711,Occitanie,30
+2374609,18:34:00,18:34:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374610,18:15:00,18:15:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374610,18:19:00,18:19:10,stop_point:SP_4663,Cimetière Portet,2
+2374610,18:19:00,18:19:10,stop_point:SP_4648,La Clé,3
+2374610,18:21:00,18:21:10,stop_point:SP_1897,Bosquets,4
+2374610,18:21:00,18:21:10,stop_point:SP_1127,Désiré,5
+2374610,18:22:00,18:22:10,stop_point:SP_1779,Poste de Portet,6
+2374610,18:22:00,18:22:10,stop_point:SP_3136,Mairie Portet,7
+2374610,18:23:00,18:23:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374610,18:24:00,18:24:10,stop_point:SP_11,Gauguin,9
+2374610,18:25:00,18:25:10,stop_point:SP_3190,Clemenceau,10
+2374610,18:26:00,18:26:10,stop_point:SP_2601,Lot. Impérial,11
+2374610,18:28:00,18:28:10,stop_point:SP_2793,Berdoulat,12
+2374610,18:29:00,18:29:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374610,18:31:00,18:31:10,stop_point:SP_2071,Commune,14
+2374610,18:31:00,18:31:10,stop_point:SP_3226,Lachambre,15
+2374610,18:33:00,18:33:10,stop_point:SP_4564,Jordanis,16
+2374610,18:36:00,18:36:10,stop_point:SP_4356,Vierge,17
+2374610,18:37:00,18:37:10,stop_point:SP_4560,Cros,18
+2374610,18:39:00,18:39:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374610,18:42:00,18:42:10,stop_point:SP_4641,Stade,20
+2374610,18:44:00,18:44:10,stop_point:SP_4649,Place René Loubet,21
+2374610,18:45:00,18:45:10,stop_point:SP_4665,La Taillade,22
+2374610,18:48:00,18:48:10,stop_point:SP_4656,Carrière,23
+2374610,18:49:00,18:49:10,stop_point:SP_4658,Mairie De Villate,24
+2374610,18:50:00,18:50:10,stop_point:SP_4643,Haumont,25
+2374610,18:53:00,18:53:10,stop_point:SP_4562,Cupidou,26
+2374610,18:55:00,18:55:10,stop_point:SP_4769,Lespinasse,27
+2374610,18:56:00,18:56:10,stop_point:SP_4392,Jean Dabadie,28
+2374610,18:58:00,18:58:10,stop_point:SP_4386,Pont de l'Europe,29
+2374610,19:00:00,19:00:10,stop_point:SP_5711,Occitanie,30
+2374610,19:01:00,19:01:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374611,19:20:00,19:20:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374611,19:24:00,19:24:10,stop_point:SP_4663,Cimetière Portet,2
+2374611,19:24:00,19:24:10,stop_point:SP_4648,La Clé,3
+2374611,19:26:00,19:26:10,stop_point:SP_1897,Bosquets,4
+2374611,19:26:00,19:26:10,stop_point:SP_1127,Désiré,5
+2374611,19:27:00,19:27:10,stop_point:SP_1779,Poste de Portet,6
+2374611,19:27:00,19:27:10,stop_point:SP_3136,Mairie Portet,7
+2374611,19:27:00,19:27:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374611,19:28:00,19:28:10,stop_point:SP_11,Gauguin,9
+2374611,19:29:00,19:29:10,stop_point:SP_3190,Clemenceau,10
+2374611,19:30:00,19:30:10,stop_point:SP_2601,Lot. Impérial,11
+2374611,19:31:00,19:31:10,stop_point:SP_2793,Berdoulat,12
+2374611,19:32:00,19:32:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374611,19:33:00,19:33:10,stop_point:SP_2071,Commune,14
+2374611,19:34:00,19:34:10,stop_point:SP_3226,Lachambre,15
+2374611,19:35:00,19:35:10,stop_point:SP_4564,Jordanis,16
+2374611,19:38:00,19:38:10,stop_point:SP_4356,Vierge,17
+2374611,19:39:00,19:39:10,stop_point:SP_4560,Cros,18
+2374611,19:41:00,19:41:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374611,19:44:00,19:44:10,stop_point:SP_4641,Stade,20
+2374611,19:45:00,19:45:10,stop_point:SP_4649,Place René Loubet,21
+2374611,19:46:00,19:46:10,stop_point:SP_4665,La Taillade,22
+2374611,19:48:00,19:48:10,stop_point:SP_4656,Carrière,23
+2374611,19:49:00,19:49:10,stop_point:SP_4658,Mairie De Villate,24
+2374611,19:50:00,19:50:10,stop_point:SP_4643,Haumont,25
+2374611,19:53:00,19:53:10,stop_point:SP_4562,Cupidou,26
+2374611,19:55:00,19:55:10,stop_point:SP_4769,Lespinasse,27
+2374611,19:56:00,19:56:10,stop_point:SP_4392,Jean Dabadie,28
+2374611,19:58:00,19:58:10,stop_point:SP_4386,Pont de l'Europe,29
+2374611,20:00:00,20:00:10,stop_point:SP_5711,Occitanie,30
+2374611,20:01:00,20:01:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374612,20:00:00,20:00:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374612,20:04:00,20:04:10,stop_point:SP_4663,Cimetière Portet,2
+2374612,20:04:00,20:04:10,stop_point:SP_4648,La Clé,3
+2374612,20:06:00,20:06:10,stop_point:SP_1897,Bosquets,4
+2374612,20:06:00,20:06:10,stop_point:SP_1127,Désiré,5
+2374612,20:07:00,20:07:10,stop_point:SP_1779,Poste de Portet,6
+2374612,20:07:00,20:07:10,stop_point:SP_3136,Mairie Portet,7
+2374612,20:07:00,20:07:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374612,20:08:00,20:08:10,stop_point:SP_11,Gauguin,9
+2374612,20:09:00,20:09:10,stop_point:SP_3190,Clemenceau,10
+2374612,20:10:00,20:10:10,stop_point:SP_2601,Lot. Impérial,11
+2374612,20:11:00,20:11:10,stop_point:SP_2793,Berdoulat,12
+2374612,20:12:00,20:12:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374612,20:13:00,20:13:10,stop_point:SP_2071,Commune,14
+2374612,20:14:00,20:14:10,stop_point:SP_3226,Lachambre,15
+2374612,20:15:00,20:15:10,stop_point:SP_4564,Jordanis,16
+2374612,20:18:00,20:18:10,stop_point:SP_4356,Vierge,17
+2374612,20:19:00,20:19:10,stop_point:SP_4560,Cros,18
+2374612,20:21:00,20:21:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374612,20:24:00,20:24:10,stop_point:SP_4641,Stade,20
+2374612,20:25:00,20:25:10,stop_point:SP_4649,Place René Loubet,21
+2374612,20:26:00,20:26:10,stop_point:SP_4665,La Taillade,22
+2374612,20:28:00,20:28:10,stop_point:SP_4656,Carrière,23
+2374612,20:29:00,20:29:10,stop_point:SP_4658,Mairie De Villate,24
+2374612,20:30:00,20:30:10,stop_point:SP_4643,Haumont,25
+2374612,20:33:00,20:33:10,stop_point:SP_4562,Cupidou,26
+2374612,20:34:00,20:34:10,stop_point:SP_4769,Lespinasse,27
+2374612,20:35:00,20:35:10,stop_point:SP_4392,Jean Dabadie,28
+2374612,20:36:00,20:36:10,stop_point:SP_4386,Pont de l'Europe,29
+2374612,20:38:00,20:38:10,stop_point:SP_5711,Occitanie,30
+2374612,20:39:00,20:39:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31
+2374613,18:48:00,18:48:10,stop_point:SP_5260,Portet Gare SNCF,1
+2374613,18:52:00,18:52:10,stop_point:SP_4663,Cimetière Portet,2
+2374613,18:52:00,18:52:10,stop_point:SP_4648,La Clé,3
+2374613,18:54:00,18:54:10,stop_point:SP_1897,Bosquets,4
+2374613,18:54:00,18:54:10,stop_point:SP_1127,Désiré,5
+2374613,18:55:00,18:55:10,stop_point:SP_1779,Poste de Portet,6
+2374613,18:55:00,18:55:10,stop_point:SP_3136,Mairie Portet,7
+2374613,18:56:00,18:56:10,stop_point:SP_2155,Ateliers Municipaux,8
+2374613,18:57:00,18:57:10,stop_point:SP_11,Gauguin,9
+2374613,18:58:00,18:58:10,stop_point:SP_3190,Clemenceau,10
+2374613,18:59:00,18:59:10,stop_point:SP_2601,Lot. Impérial,11
+2374613,19:01:00,19:01:10,stop_point:SP_2793,Berdoulat,12
+2374613,19:02:00,19:02:10,stop_point:SP_643,Mairie Pinsaguel,13
+2374613,19:04:00,19:04:10,stop_point:SP_2071,Commune,14
+2374613,19:04:00,19:04:10,stop_point:SP_3226,Lachambre,15
+2374613,19:06:00,19:06:10,stop_point:SP_4564,Jordanis,16
+2374613,19:09:00,19:09:10,stop_point:SP_4356,Vierge,17
+2374613,19:10:00,19:10:10,stop_point:SP_4560,Cros,18
+2374613,19:12:00,19:12:10,stop_point:SP_4582,Gare Pins Justaret,19
+2374613,19:15:00,19:15:10,stop_point:SP_4641,Stade,20
+2374613,19:16:00,19:16:10,stop_point:SP_4649,Place René Loubet,21
+2374613,19:17:00,19:17:10,stop_point:SP_4665,La Taillade,22
+2374613,19:19:00,19:19:10,stop_point:SP_4656,Carrière,23
+2374613,19:20:00,19:20:10,stop_point:SP_4658,Mairie De Villate,24
+2374613,19:21:00,19:21:10,stop_point:SP_4643,Haumont,25
+2374613,19:24:00,19:24:10,stop_point:SP_4562,Cupidou,26
+2374613,19:26:00,19:26:10,stop_point:SP_4769,Lespinasse,27
+2374613,19:27:00,19:27:10,stop_point:SP_4392,Jean Dabadie,28
+2374613,19:29:00,19:29:10,stop_point:SP_4386,Pont de l'Europe,29
+2374613,19:31:00,19:31:10,stop_point:SP_5711,Occitanie,30
+2374613,19:32:00,19:32:10,stop_point:SP_4796,Muret Gare SNCF - Parvis,31

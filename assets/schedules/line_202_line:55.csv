@@ -1,0 +1,239 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2296006,11:45:00,11:45:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296006,11:46:00,11:46:10,stop_point:SP_821,Le Merlet,2
+2296006,11:46:00,11:46:10,stop_point:SP_648,Eglise Pechabou,3
+2296006,11:47:00,11:47:10,stop_point:SP_3047,Mairie Pechabou,4
+2296006,11:49:00,11:49:10,stop_point:SP_998,Place du Château,5
+2296006,11:50:00,11:50:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296006,11:55:00,11:55:10,stop_point:SP_12,La Serre Beauregard,7
+2296006,11:56:00,11:56:10,stop_point:SP_2103,Eglise Corronsac,8
+2296006,11:57:00,11:57:10,stop_point:SP_2709,La Place,9
+2296006,11:59:00,11:59:10,stop_point:SP_3688,La Tour,10
+2296006,12:02:00,12:02:10,stop_point:SP_2450,Centre Village,11
+2296006,12:02:00,12:02:10,stop_point:SP_3978,Lanes,12
+2296006,12:03:00,12:03:10,stop_point:SP_2470,Claverie,13
+2296006,12:04:00,12:04:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296007,14:00:00,14:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296007,14:01:00,14:01:10,stop_point:SP_821,Le Merlet,2
+2296007,14:01:00,14:01:10,stop_point:SP_648,Eglise Pechabou,3
+2296007,14:02:00,14:02:10,stop_point:SP_3047,Mairie Pechabou,4
+2296007,14:04:00,14:04:10,stop_point:SP_998,Place du Château,5
+2296007,14:05:00,14:05:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296007,14:10:00,14:10:10,stop_point:SP_12,La Serre Beauregard,7
+2296007,14:11:00,14:11:10,stop_point:SP_2103,Eglise Corronsac,8
+2296007,14:12:00,14:12:10,stop_point:SP_2709,La Place,9
+2296007,14:14:00,14:14:10,stop_point:SP_3688,La Tour,10
+2296007,14:17:00,14:17:10,stop_point:SP_2450,Centre Village,11
+2296007,14:17:00,14:17:10,stop_point:SP_3978,Lanes,12
+2296007,14:18:00,14:18:10,stop_point:SP_2470,Claverie,13
+2296007,14:19:00,14:19:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296008,15:00:00,15:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296008,15:01:00,15:01:10,stop_point:SP_821,Le Merlet,2
+2296008,15:01:00,15:01:10,stop_point:SP_648,Eglise Pechabou,3
+2296008,15:02:00,15:02:10,stop_point:SP_3047,Mairie Pechabou,4
+2296008,15:04:00,15:04:10,stop_point:SP_998,Place du Château,5
+2296008,15:05:00,15:05:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296008,15:10:00,15:10:10,stop_point:SP_12,La Serre Beauregard,7
+2296008,15:11:00,15:11:10,stop_point:SP_2103,Eglise Corronsac,8
+2296008,15:12:00,15:12:10,stop_point:SP_2709,La Place,9
+2296008,15:14:00,15:14:10,stop_point:SP_3688,La Tour,10
+2296008,15:17:00,15:17:10,stop_point:SP_2450,Centre Village,11
+2296008,15:17:00,15:17:10,stop_point:SP_3978,Lanes,12
+2296008,15:18:00,15:18:10,stop_point:SP_2470,Claverie,13
+2296008,15:19:00,15:19:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296009,16:00:00,16:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296009,16:01:00,16:01:10,stop_point:SP_821,Le Merlet,2
+2296009,16:02:00,16:02:10,stop_point:SP_648,Eglise Pechabou,3
+2296009,16:03:00,16:03:10,stop_point:SP_3047,Mairie Pechabou,4
+2296009,16:07:00,16:07:10,stop_point:SP_998,Place du Château,5
+2296009,16:08:00,16:08:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296009,16:12:00,16:12:10,stop_point:SP_12,La Serre Beauregard,7
+2296009,16:13:00,16:13:10,stop_point:SP_2103,Eglise Corronsac,8
+2296009,16:14:00,16:14:10,stop_point:SP_2709,La Place,9
+2296009,16:17:00,16:17:10,stop_point:SP_3688,La Tour,10
+2296009,16:20:00,16:20:10,stop_point:SP_2450,Centre Village,11
+2296009,16:21:00,16:21:10,stop_point:SP_3978,Lanes,12
+2296009,16:22:00,16:22:10,stop_point:SP_2470,Claverie,13
+2296009,16:23:00,16:23:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296010,17:00:00,17:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296010,17:01:00,17:01:10,stop_point:SP_821,Le Merlet,2
+2296010,17:02:00,17:02:10,stop_point:SP_648,Eglise Pechabou,3
+2296010,17:03:00,17:03:10,stop_point:SP_3047,Mairie Pechabou,4
+2296010,17:07:00,17:07:10,stop_point:SP_998,Place du Château,5
+2296010,17:08:00,17:08:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296010,17:12:00,17:12:10,stop_point:SP_12,La Serre Beauregard,7
+2296010,17:13:00,17:13:10,stop_point:SP_2103,Eglise Corronsac,8
+2296010,17:14:00,17:14:10,stop_point:SP_2709,La Place,9
+2296010,17:17:00,17:17:10,stop_point:SP_3688,La Tour,10
+2296010,17:20:00,17:20:10,stop_point:SP_2450,Centre Village,11
+2296010,17:21:00,17:21:10,stop_point:SP_3978,Lanes,12
+2296010,17:22:00,17:22:10,stop_point:SP_2470,Claverie,13
+2296010,17:23:00,17:23:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296011,17:30:00,17:30:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296011,17:31:00,17:31:10,stop_point:SP_821,Le Merlet,2
+2296011,17:32:00,17:32:10,stop_point:SP_648,Eglise Pechabou,3
+2296011,17:33:00,17:33:10,stop_point:SP_3047,Mairie Pechabou,4
+2296011,17:37:00,17:37:10,stop_point:SP_998,Place du Château,5
+2296011,17:38:00,17:38:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296011,17:42:00,17:42:10,stop_point:SP_12,La Serre Beauregard,7
+2296011,17:43:00,17:43:10,stop_point:SP_2103,Eglise Corronsac,8
+2296011,17:44:00,17:44:10,stop_point:SP_2709,La Place,9
+2296011,17:47:00,17:47:10,stop_point:SP_3688,La Tour,10
+2296011,17:50:00,17:50:10,stop_point:SP_2450,Centre Village,11
+2296011,17:51:00,17:51:10,stop_point:SP_3978,Lanes,12
+2296011,17:52:00,17:52:10,stop_point:SP_2470,Claverie,13
+2296011,17:53:00,17:53:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296012,18:00:00,18:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296012,18:01:00,18:01:10,stop_point:SP_821,Le Merlet,2
+2296012,18:02:00,18:02:10,stop_point:SP_648,Eglise Pechabou,3
+2296012,18:03:00,18:03:10,stop_point:SP_3047,Mairie Pechabou,4
+2296012,18:07:00,18:07:10,stop_point:SP_998,Place du Château,5
+2296012,18:08:00,18:08:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296012,18:12:00,18:12:10,stop_point:SP_12,La Serre Beauregard,7
+2296012,18:13:00,18:13:10,stop_point:SP_2103,Eglise Corronsac,8
+2296012,18:14:00,18:14:10,stop_point:SP_2709,La Place,9
+2296012,18:17:00,18:17:10,stop_point:SP_3688,La Tour,10
+2296012,18:20:00,18:20:10,stop_point:SP_2450,Centre Village,11
+2296012,18:21:00,18:21:10,stop_point:SP_3978,Lanes,12
+2296012,18:22:00,18:22:10,stop_point:SP_2470,Claverie,13
+2296012,18:23:00,18:23:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296013,18:30:00,18:30:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296013,18:31:00,18:31:10,stop_point:SP_821,Le Merlet,2
+2296013,18:32:00,18:32:10,stop_point:SP_648,Eglise Pechabou,3
+2296013,18:33:00,18:33:10,stop_point:SP_3047,Mairie Pechabou,4
+2296013,18:37:00,18:37:10,stop_point:SP_998,Place du Château,5
+2296013,18:38:00,18:38:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296013,18:42:00,18:42:10,stop_point:SP_12,La Serre Beauregard,7
+2296013,18:43:00,18:43:10,stop_point:SP_2103,Eglise Corronsac,8
+2296013,18:44:00,18:44:10,stop_point:SP_2709,La Place,9
+2296013,18:47:00,18:47:10,stop_point:SP_3688,La Tour,10
+2296013,18:50:00,18:50:10,stop_point:SP_2450,Centre Village,11
+2296013,18:51:00,18:51:10,stop_point:SP_3978,Lanes,12
+2296013,18:52:00,18:52:10,stop_point:SP_2470,Claverie,13
+2296013,18:53:00,18:53:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296014,19:00:00,19:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2296014,19:01:00,19:01:10,stop_point:SP_821,Le Merlet,2
+2296014,19:02:00,19:02:10,stop_point:SP_648,Eglise Pechabou,3
+2296014,19:03:00,19:03:10,stop_point:SP_3047,Mairie Pechabou,4
+2296014,19:07:00,19:07:10,stop_point:SP_998,Place du Château,5
+2296014,19:08:00,19:08:10,stop_point:SP_3151,Mairie Pompertuzat,6
+2296014,19:12:00,19:12:10,stop_point:SP_12,La Serre Beauregard,7
+2296014,19:13:00,19:13:10,stop_point:SP_2103,Eglise Corronsac,8
+2296014,19:14:00,19:14:10,stop_point:SP_2709,La Place,9
+2296014,19:17:00,19:17:10,stop_point:SP_3688,La Tour,10
+2296014,19:20:00,19:20:10,stop_point:SP_2450,Centre Village,11
+2296014,19:21:00,19:21:10,stop_point:SP_3978,Lanes,12
+2296014,19:22:00,19:22:10,stop_point:SP_2470,Claverie,13
+2296014,19:23:00,19:23:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,14
+2296015,06:25:00,06:25:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296015,06:25:00,06:25:10,stop_point:SP_4851,Claverie,2
+2296015,06:27:00,06:27:10,stop_point:SP_4850,Lanes,3
+2296015,06:27:00,06:27:10,stop_point:SP_3597,Centre Village,4
+2296015,06:29:00,06:29:10,stop_point:SP_1196,La Tour,5
+2296015,06:31:00,06:31:10,stop_point:SP_4847,La Place,6
+2296015,06:32:00,06:32:10,stop_point:SP_3970,Eglise Corronsac,7
+2296015,06:33:00,06:33:10,stop_point:SP_1758,La Serre Beauregard,8
+2296015,06:36:00,06:36:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296015,06:37:00,06:37:10,stop_point:SP_4845,Place du Château,10
+2296015,06:41:00,06:41:10,stop_point:SP_1886,Le Merlet,11
+2296015,06:43:00,06:43:10,stop_point:SP_648,Eglise Pechabou,12
+2296015,06:44:00,06:44:10,stop_point:SP_3047,Mairie Pechabou,13
+2296015,06:46:00,06:46:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296016,07:00:00,07:00:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296016,07:00:00,07:00:10,stop_point:SP_4851,Claverie,2
+2296016,07:02:00,07:02:10,stop_point:SP_4850,Lanes,3
+2296016,07:02:00,07:02:10,stop_point:SP_3597,Centre Village,4
+2296016,07:04:00,07:04:10,stop_point:SP_1196,La Tour,5
+2296016,07:06:00,07:06:10,stop_point:SP_4847,La Place,6
+2296016,07:07:00,07:07:10,stop_point:SP_3970,Eglise Corronsac,7
+2296016,07:08:00,07:08:10,stop_point:SP_1758,La Serre Beauregard,8
+2296016,07:11:00,07:11:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296016,07:12:00,07:12:10,stop_point:SP_4845,Place du Château,10
+2296016,07:16:00,07:16:10,stop_point:SP_1886,Le Merlet,11
+2296016,07:18:00,07:18:10,stop_point:SP_648,Eglise Pechabou,12
+2296016,07:19:00,07:19:10,stop_point:SP_3047,Mairie Pechabou,13
+2296016,07:21:00,07:21:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296017,07:35:00,07:35:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296017,07:36:00,07:36:10,stop_point:SP_4851,Claverie,2
+2296017,07:37:00,07:37:10,stop_point:SP_4850,Lanes,3
+2296017,07:38:00,07:38:10,stop_point:SP_3597,Centre Village,4
+2296017,07:41:00,07:41:10,stop_point:SP_1196,La Tour,5
+2296017,07:44:00,07:44:10,stop_point:SP_4847,La Place,6
+2296017,07:45:00,07:45:10,stop_point:SP_3970,Eglise Corronsac,7
+2296017,07:46:00,07:46:10,stop_point:SP_1758,La Serre Beauregard,8
+2296017,07:50:00,07:50:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296017,07:51:00,07:51:10,stop_point:SP_4845,Place du Château,10
+2296017,07:55:00,07:55:10,stop_point:SP_1886,Le Merlet,11
+2296017,07:57:00,07:57:10,stop_point:SP_648,Eglise Pechabou,12
+2296017,07:58:00,07:58:10,stop_point:SP_3047,Mairie Pechabou,13
+2296017,08:00:00,08:00:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296018,08:00:00,08:00:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296018,08:01:00,08:01:10,stop_point:SP_4851,Claverie,2
+2296018,08:02:00,08:02:10,stop_point:SP_4850,Lanes,3
+2296018,08:03:00,08:03:10,stop_point:SP_3597,Centre Village,4
+2296018,08:06:00,08:06:10,stop_point:SP_1196,La Tour,5
+2296018,08:09:00,08:09:10,stop_point:SP_4847,La Place,6
+2296018,08:10:00,08:10:10,stop_point:SP_3970,Eglise Corronsac,7
+2296018,08:11:00,08:11:10,stop_point:SP_1758,La Serre Beauregard,8
+2296018,08:15:00,08:15:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296018,08:16:00,08:16:10,stop_point:SP_4845,Place du Château,10
+2296018,08:20:00,08:20:10,stop_point:SP_1886,Le Merlet,11
+2296018,08:22:00,08:22:10,stop_point:SP_648,Eglise Pechabou,12
+2296018,08:23:00,08:23:10,stop_point:SP_3047,Mairie Pechabou,13
+2296018,08:25:00,08:25:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296019,09:00:00,09:00:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296019,09:01:00,09:01:10,stop_point:SP_4851,Claverie,2
+2296019,09:02:00,09:02:10,stop_point:SP_4850,Lanes,3
+2296019,09:03:00,09:03:10,stop_point:SP_3597,Centre Village,4
+2296019,09:06:00,09:06:10,stop_point:SP_1196,La Tour,5
+2296019,09:09:00,09:09:10,stop_point:SP_4847,La Place,6
+2296019,09:10:00,09:10:10,stop_point:SP_3970,Eglise Corronsac,7
+2296019,09:11:00,09:11:10,stop_point:SP_1758,La Serre Beauregard,8
+2296019,09:15:00,09:15:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296019,09:16:00,09:16:10,stop_point:SP_4845,Place du Château,10
+2296019,09:20:00,09:20:10,stop_point:SP_1886,Le Merlet,11
+2296019,09:22:00,09:22:10,stop_point:SP_648,Eglise Pechabou,12
+2296019,09:23:00,09:23:10,stop_point:SP_3047,Mairie Pechabou,13
+2296019,09:25:00,09:25:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296020,12:15:00,12:15:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296020,12:15:00,12:15:10,stop_point:SP_4851,Claverie,2
+2296020,12:17:00,12:17:10,stop_point:SP_4850,Lanes,3
+2296020,12:17:00,12:17:10,stop_point:SP_3597,Centre Village,4
+2296020,12:19:00,12:19:10,stop_point:SP_1196,La Tour,5
+2296020,12:21:00,12:21:10,stop_point:SP_4847,La Place,6
+2296020,12:22:00,12:22:10,stop_point:SP_3970,Eglise Corronsac,7
+2296020,12:23:00,12:23:10,stop_point:SP_1758,La Serre Beauregard,8
+2296020,12:26:00,12:26:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296020,12:27:00,12:27:10,stop_point:SP_4845,Place du Château,10
+2296020,12:31:00,12:31:10,stop_point:SP_1886,Le Merlet,11
+2296020,12:33:00,12:33:10,stop_point:SP_648,Eglise Pechabou,12
+2296020,12:34:00,12:34:10,stop_point:SP_3047,Mairie Pechabou,13
+2296020,12:36:00,12:36:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296021,17:00:00,17:00:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296021,17:01:00,17:01:10,stop_point:SP_4851,Claverie,2
+2296021,17:02:00,17:02:10,stop_point:SP_4850,Lanes,3
+2296021,17:03:00,17:03:10,stop_point:SP_3597,Centre Village,4
+2296021,17:06:00,17:06:10,stop_point:SP_1196,La Tour,5
+2296021,17:09:00,17:09:10,stop_point:SP_4847,La Place,6
+2296021,17:10:00,17:10:10,stop_point:SP_3970,Eglise Corronsac,7
+2296021,17:11:00,17:11:10,stop_point:SP_1758,La Serre Beauregard,8
+2296021,17:15:00,17:15:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296021,17:16:00,17:16:10,stop_point:SP_4845,Place du Château,10
+2296021,17:20:00,17:20:10,stop_point:SP_1886,Le Merlet,11
+2296021,17:22:00,17:22:10,stop_point:SP_648,Eglise Pechabou,12
+2296021,17:23:00,17:23:10,stop_point:SP_3047,Mairie Pechabou,13
+2296021,17:25:00,17:25:10,stop_point:SP_1170,Castanet-Tolosan,14
+2296022,18:00:00,18:00:10,stop_point:SP_3727,Montbrun Lauragais Roumieu,1
+2296022,18:01:00,18:01:10,stop_point:SP_4851,Claverie,2
+2296022,18:02:00,18:02:10,stop_point:SP_4850,Lanes,3
+2296022,18:03:00,18:03:10,stop_point:SP_3597,Centre Village,4
+2296022,18:06:00,18:06:10,stop_point:SP_1196,La Tour,5
+2296022,18:09:00,18:09:10,stop_point:SP_4847,La Place,6
+2296022,18:10:00,18:10:10,stop_point:SP_3970,Eglise Corronsac,7
+2296022,18:11:00,18:11:10,stop_point:SP_1758,La Serre Beauregard,8
+2296022,18:15:00,18:15:10,stop_point:SP_4844,Mairie Pompertuzat,9
+2296022,18:16:00,18:16:10,stop_point:SP_4845,Place du Château,10
+2296022,18:20:00,18:20:10,stop_point:SP_1886,Le Merlet,11
+2296022,18:22:00,18:22:10,stop_point:SP_648,Eglise Pechabou,12
+2296022,18:23:00,18:23:10,stop_point:SP_3047,Mairie Pechabou,13
+2296022,18:25:00,18:25:10,stop_point:SP_1170,Castanet-Tolosan,14

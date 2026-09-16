@@ -1,0 +1,3199 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2292510,06:30:00,06:30:10,stop_point:SP_4009,Basso Cambo,1
+2292510,06:32:00,06:32:10,stop_point:SP_2306,Ecole Espagnole,2
+2292510,06:34:00,06:34:10,stop_point:SP_2513,Passerieu,3
+2292510,06:34:00,06:34:10,stop_point:SP_3683,Pradettes,4
+2292510,06:35:00,06:35:10,stop_point:SP_3071,Bordeblanche,5
+2292510,06:35:00,06:35:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292510,06:36:00,06:36:10,stop_point:SP_898,Villèle,7
+2292510,06:37:00,06:37:10,stop_point:SP_3117,Mazaygues,8
+2292510,06:38:00,06:38:10,stop_point:SP_1622,Corneillan,9
+2292510,06:39:00,06:39:10,stop_point:SP_4857,Zamenhof,10
+2292510,06:39:00,06:39:10,stop_point:SP_4858,Ferro Lebres,11
+2292510,06:40:00,06:40:10,stop_point:SP_4856,Lardenne,12
+2292510,06:40:00,06:40:10,stop_point:SP_723,Poutier,13
+2292510,06:41:00,06:41:10,stop_point:SP_442,Salinié,14
+2292510,06:42:00,06:42:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292510,06:42:00,06:42:10,stop_point:SP_3164,Gare de Lardenne,16
+2292510,06:42:00,06:42:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292510,06:43:00,06:43:10,stop_point:SP_360,Capelles,18
+2292510,06:44:00,06:44:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292510,06:45:00,06:45:10,stop_point:SP_3643,Flambère,20
+2292510,06:46:00,06:46:10,stop_point:SP_3454,Jaufré Rudel,21
+2292510,06:47:00,06:47:10,stop_point:SP_771,Carlos Gardel,22
+2292510,06:48:00,06:48:10,stop_point:SP_2185,Ancely,23
+2292510,06:49:00,06:49:10,stop_point:SP_1198,Arènes Romaines,24
+2292510,06:50:00,06:50:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292510,06:51:00,06:51:10,stop_point:SP_1319,Pelletier Purpan,26
+2292511,07:15:00,07:15:10,stop_point:SP_4009,Basso Cambo,1
+2292511,07:17:00,07:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292511,07:19:00,07:19:10,stop_point:SP_2513,Passerieu,3
+2292511,07:19:00,07:19:10,stop_point:SP_3683,Pradettes,4
+2292511,07:20:00,07:20:10,stop_point:SP_3071,Bordeblanche,5
+2292511,07:20:00,07:20:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292511,07:21:00,07:21:10,stop_point:SP_898,Villèle,7
+2292511,07:22:00,07:22:10,stop_point:SP_3117,Mazaygues,8
+2292511,07:23:00,07:23:10,stop_point:SP_1622,Corneillan,9
+2292511,07:24:00,07:24:10,stop_point:SP_4857,Zamenhof,10
+2292511,07:24:00,07:24:10,stop_point:SP_4858,Ferro Lebres,11
+2292511,07:25:00,07:25:10,stop_point:SP_4856,Lardenne,12
+2292511,07:25:00,07:25:10,stop_point:SP_723,Poutier,13
+2292511,07:26:00,07:26:10,stop_point:SP_442,Salinié,14
+2292511,07:27:00,07:27:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292511,07:28:00,07:28:10,stop_point:SP_3164,Gare de Lardenne,16
+2292511,07:28:00,07:28:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292511,07:29:00,07:29:10,stop_point:SP_360,Capelles,18
+2292511,07:30:00,07:30:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292511,07:31:00,07:31:10,stop_point:SP_3643,Flambère,20
+2292511,07:32:00,07:32:10,stop_point:SP_3454,Jaufré Rudel,21
+2292511,07:33:00,07:33:10,stop_point:SP_771,Carlos Gardel,22
+2292511,07:34:00,07:34:10,stop_point:SP_2185,Ancely,23
+2292511,07:35:00,07:35:10,stop_point:SP_1198,Arènes Romaines,24
+2292511,07:36:00,07:36:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292511,07:37:00,07:37:10,stop_point:SP_1319,Pelletier Purpan,26
+2292512,07:55:00,07:55:10,stop_point:SP_4009,Basso Cambo,1
+2292512,07:57:00,07:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292512,07:59:00,07:59:10,stop_point:SP_2513,Passerieu,3
+2292512,07:59:00,07:59:10,stop_point:SP_3683,Pradettes,4
+2292512,08:00:00,08:00:10,stop_point:SP_3071,Bordeblanche,5
+2292512,08:00:00,08:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292512,08:01:00,08:01:10,stop_point:SP_898,Villèle,7
+2292512,08:02:00,08:02:10,stop_point:SP_3117,Mazaygues,8
+2292512,08:03:00,08:03:10,stop_point:SP_1622,Corneillan,9
+2292512,08:04:00,08:04:10,stop_point:SP_4857,Zamenhof,10
+2292512,08:04:00,08:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292512,08:05:00,08:05:10,stop_point:SP_4856,Lardenne,12
+2292512,08:05:00,08:05:10,stop_point:SP_723,Poutier,13
+2292512,08:06:00,08:06:10,stop_point:SP_442,Salinié,14
+2292512,08:07:00,08:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292512,08:08:00,08:08:10,stop_point:SP_3164,Gare de Lardenne,16
+2292512,08:08:00,08:08:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292512,08:09:00,08:09:10,stop_point:SP_360,Capelles,18
+2292512,08:10:00,08:10:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292512,08:11:00,08:11:10,stop_point:SP_3643,Flambère,20
+2292512,08:12:00,08:12:10,stop_point:SP_3454,Jaufré Rudel,21
+2292512,08:13:00,08:13:10,stop_point:SP_771,Carlos Gardel,22
+2292512,08:14:00,08:14:10,stop_point:SP_2185,Ancely,23
+2292512,08:15:00,08:15:10,stop_point:SP_1198,Arènes Romaines,24
+2292512,08:16:00,08:16:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292512,08:17:00,08:17:10,stop_point:SP_1319,Pelletier Purpan,26
+2292513,08:35:00,08:35:10,stop_point:SP_4009,Basso Cambo,1
+2292513,08:37:00,08:37:10,stop_point:SP_2306,Ecole Espagnole,2
+2292513,08:39:00,08:39:10,stop_point:SP_2513,Passerieu,3
+2292513,08:39:00,08:39:10,stop_point:SP_3683,Pradettes,4
+2292513,08:40:00,08:40:10,stop_point:SP_3071,Bordeblanche,5
+2292513,08:40:00,08:40:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292513,08:41:00,08:41:10,stop_point:SP_898,Villèle,7
+2292513,08:42:00,08:42:10,stop_point:SP_3117,Mazaygues,8
+2292513,08:43:00,08:43:10,stop_point:SP_1622,Corneillan,9
+2292513,08:44:00,08:44:10,stop_point:SP_4857,Zamenhof,10
+2292513,08:44:00,08:44:10,stop_point:SP_4858,Ferro Lebres,11
+2292513,08:45:00,08:45:10,stop_point:SP_4856,Lardenne,12
+2292513,08:45:00,08:45:10,stop_point:SP_723,Poutier,13
+2292513,08:46:00,08:46:10,stop_point:SP_442,Salinié,14
+2292513,08:47:00,08:47:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292513,08:48:00,08:48:10,stop_point:SP_3164,Gare de Lardenne,16
+2292513,08:48:00,08:48:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292513,08:49:00,08:49:10,stop_point:SP_360,Capelles,18
+2292513,08:50:00,08:50:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292513,08:51:00,08:51:10,stop_point:SP_3643,Flambère,20
+2292513,08:53:00,08:53:10,stop_point:SP_3454,Jaufré Rudel,21
+2292513,08:54:00,08:54:10,stop_point:SP_771,Carlos Gardel,22
+2292513,08:55:00,08:55:10,stop_point:SP_2185,Ancely,23
+2292513,08:56:00,08:56:10,stop_point:SP_1198,Arènes Romaines,24
+2292513,08:57:00,08:57:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292513,08:58:00,08:58:10,stop_point:SP_1319,Pelletier Purpan,26
+2292514,09:15:00,09:15:10,stop_point:SP_4009,Basso Cambo,1
+2292514,09:17:00,09:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292514,09:19:00,09:19:10,stop_point:SP_2513,Passerieu,3
+2292514,09:19:00,09:19:10,stop_point:SP_3683,Pradettes,4
+2292514,09:20:00,09:20:10,stop_point:SP_3071,Bordeblanche,5
+2292514,09:20:00,09:20:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292514,09:21:00,09:21:10,stop_point:SP_898,Villèle,7
+2292514,09:22:00,09:22:10,stop_point:SP_3117,Mazaygues,8
+2292514,09:23:00,09:23:10,stop_point:SP_1622,Corneillan,9
+2292514,09:24:00,09:24:10,stop_point:SP_4857,Zamenhof,10
+2292514,09:24:00,09:24:10,stop_point:SP_4858,Ferro Lebres,11
+2292514,09:25:00,09:25:10,stop_point:SP_4856,Lardenne,12
+2292514,09:25:00,09:25:10,stop_point:SP_723,Poutier,13
+2292514,09:26:00,09:26:10,stop_point:SP_442,Salinié,14
+2292514,09:27:00,09:27:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292514,09:28:00,09:28:10,stop_point:SP_3164,Gare de Lardenne,16
+2292514,09:28:00,09:28:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292514,09:29:00,09:29:10,stop_point:SP_360,Capelles,18
+2292514,09:30:00,09:30:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292514,09:31:00,09:31:10,stop_point:SP_3643,Flambère,20
+2292514,09:33:00,09:33:10,stop_point:SP_3454,Jaufré Rudel,21
+2292514,09:34:00,09:34:10,stop_point:SP_771,Carlos Gardel,22
+2292514,09:35:00,09:35:10,stop_point:SP_2185,Ancely,23
+2292514,09:36:00,09:36:10,stop_point:SP_1198,Arènes Romaines,24
+2292514,09:37:00,09:37:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292514,09:38:00,09:38:10,stop_point:SP_1319,Pelletier Purpan,26
+2292515,09:55:00,09:55:10,stop_point:SP_4009,Basso Cambo,1
+2292515,09:57:00,09:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292515,09:59:00,09:59:10,stop_point:SP_2513,Passerieu,3
+2292515,09:59:00,09:59:10,stop_point:SP_3683,Pradettes,4
+2292515,10:00:00,10:00:10,stop_point:SP_3071,Bordeblanche,5
+2292515,10:00:00,10:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292515,10:01:00,10:01:10,stop_point:SP_898,Villèle,7
+2292515,10:02:00,10:02:10,stop_point:SP_3117,Mazaygues,8
+2292515,10:03:00,10:03:10,stop_point:SP_1622,Corneillan,9
+2292515,10:04:00,10:04:10,stop_point:SP_4857,Zamenhof,10
+2292515,10:04:00,10:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292515,10:05:00,10:05:10,stop_point:SP_4856,Lardenne,12
+2292515,10:05:00,10:05:10,stop_point:SP_723,Poutier,13
+2292515,10:06:00,10:06:10,stop_point:SP_442,Salinié,14
+2292515,10:07:00,10:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292515,10:08:00,10:08:10,stop_point:SP_3164,Gare de Lardenne,16
+2292515,10:08:00,10:08:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292515,10:09:00,10:09:10,stop_point:SP_360,Capelles,18
+2292515,10:10:00,10:10:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292515,10:11:00,10:11:10,stop_point:SP_3643,Flambère,20
+2292515,10:13:00,10:13:10,stop_point:SP_3454,Jaufré Rudel,21
+2292515,10:14:00,10:14:10,stop_point:SP_771,Carlos Gardel,22
+2292515,10:15:00,10:15:10,stop_point:SP_2185,Ancely,23
+2292515,10:16:00,10:16:10,stop_point:SP_1198,Arènes Romaines,24
+2292515,10:17:00,10:17:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292515,10:18:00,10:18:10,stop_point:SP_1319,Pelletier Purpan,26
+2292516,10:35:00,10:35:10,stop_point:SP_4009,Basso Cambo,1
+2292516,10:37:00,10:37:10,stop_point:SP_2306,Ecole Espagnole,2
+2292516,10:39:00,10:39:10,stop_point:SP_2513,Passerieu,3
+2292516,10:39:00,10:39:10,stop_point:SP_3683,Pradettes,4
+2292516,10:40:00,10:40:10,stop_point:SP_3071,Bordeblanche,5
+2292516,10:40:00,10:40:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292516,10:41:00,10:41:10,stop_point:SP_898,Villèle,7
+2292516,10:42:00,10:42:10,stop_point:SP_3117,Mazaygues,8
+2292516,10:43:00,10:43:10,stop_point:SP_1622,Corneillan,9
+2292516,10:44:00,10:44:10,stop_point:SP_4857,Zamenhof,10
+2292516,10:44:00,10:44:10,stop_point:SP_4858,Ferro Lebres,11
+2292516,10:45:00,10:45:10,stop_point:SP_4856,Lardenne,12
+2292516,10:45:00,10:45:10,stop_point:SP_723,Poutier,13
+2292516,10:46:00,10:46:10,stop_point:SP_442,Salinié,14
+2292516,10:47:00,10:47:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292516,10:48:00,10:48:10,stop_point:SP_3164,Gare de Lardenne,16
+2292516,10:48:00,10:48:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292516,10:49:00,10:49:10,stop_point:SP_360,Capelles,18
+2292516,10:50:00,10:50:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292516,10:51:00,10:51:10,stop_point:SP_3643,Flambère,20
+2292516,10:53:00,10:53:10,stop_point:SP_3454,Jaufré Rudel,21
+2292516,10:54:00,10:54:10,stop_point:SP_771,Carlos Gardel,22
+2292516,10:55:00,10:55:10,stop_point:SP_2185,Ancely,23
+2292516,10:56:00,10:56:10,stop_point:SP_1198,Arènes Romaines,24
+2292516,10:57:00,10:57:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292516,10:58:00,10:58:10,stop_point:SP_1319,Pelletier Purpan,26
+2292517,11:15:00,11:15:10,stop_point:SP_4009,Basso Cambo,1
+2292517,11:17:00,11:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292517,11:19:00,11:19:10,stop_point:SP_2513,Passerieu,3
+2292517,11:19:00,11:19:10,stop_point:SP_3683,Pradettes,4
+2292517,11:20:00,11:20:10,stop_point:SP_3071,Bordeblanche,5
+2292517,11:20:00,11:20:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292517,11:21:00,11:21:10,stop_point:SP_898,Villèle,7
+2292517,11:22:00,11:22:10,stop_point:SP_3117,Mazaygues,8
+2292517,11:23:00,11:23:10,stop_point:SP_1622,Corneillan,9
+2292517,11:24:00,11:24:10,stop_point:SP_4857,Zamenhof,10
+2292517,11:24:00,11:24:10,stop_point:SP_4858,Ferro Lebres,11
+2292517,11:25:00,11:25:10,stop_point:SP_4856,Lardenne,12
+2292517,11:25:00,11:25:10,stop_point:SP_723,Poutier,13
+2292517,11:26:00,11:26:10,stop_point:SP_442,Salinié,14
+2292517,11:27:00,11:27:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292517,11:28:00,11:28:10,stop_point:SP_3164,Gare de Lardenne,16
+2292517,11:28:00,11:28:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292517,11:29:00,11:29:10,stop_point:SP_360,Capelles,18
+2292517,11:30:00,11:30:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292517,11:31:00,11:31:10,stop_point:SP_3643,Flambère,20
+2292517,11:33:00,11:33:10,stop_point:SP_3454,Jaufré Rudel,21
+2292517,11:34:00,11:34:10,stop_point:SP_771,Carlos Gardel,22
+2292517,11:35:00,11:35:10,stop_point:SP_2185,Ancely,23
+2292517,11:36:00,11:36:10,stop_point:SP_1198,Arènes Romaines,24
+2292517,11:37:00,11:37:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292517,11:38:00,11:38:10,stop_point:SP_1319,Pelletier Purpan,26
+2292518,11:55:00,11:55:10,stop_point:SP_4009,Basso Cambo,1
+2292518,11:57:00,11:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292518,11:59:00,11:59:10,stop_point:SP_2513,Passerieu,3
+2292518,11:59:00,11:59:10,stop_point:SP_3683,Pradettes,4
+2292518,12:00:00,12:00:10,stop_point:SP_3071,Bordeblanche,5
+2292518,12:00:00,12:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292518,12:01:00,12:01:10,stop_point:SP_898,Villèle,7
+2292518,12:02:00,12:02:10,stop_point:SP_3117,Mazaygues,8
+2292518,12:03:00,12:03:10,stop_point:SP_1622,Corneillan,9
+2292518,12:04:00,12:04:10,stop_point:SP_4857,Zamenhof,10
+2292518,12:04:00,12:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292518,12:05:00,12:05:10,stop_point:SP_4856,Lardenne,12
+2292518,12:05:00,12:05:10,stop_point:SP_723,Poutier,13
+2292518,12:06:00,12:06:10,stop_point:SP_442,Salinié,14
+2292518,12:07:00,12:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292518,12:07:00,12:07:10,stop_point:SP_3164,Gare de Lardenne,16
+2292518,12:07:00,12:07:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292518,12:08:00,12:08:10,stop_point:SP_360,Capelles,18
+2292518,12:09:00,12:09:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292518,12:10:00,12:10:10,stop_point:SP_3643,Flambère,20
+2292518,12:12:00,12:12:10,stop_point:SP_3454,Jaufré Rudel,21
+2292518,12:13:00,12:13:10,stop_point:SP_771,Carlos Gardel,22
+2292518,12:14:00,12:14:10,stop_point:SP_2185,Ancely,23
+2292518,12:15:00,12:15:10,stop_point:SP_1198,Arènes Romaines,24
+2292518,12:16:00,12:16:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292518,12:17:00,12:17:10,stop_point:SP_1319,Pelletier Purpan,26
+2292519,12:35:00,12:35:10,stop_point:SP_4009,Basso Cambo,1
+2292519,12:37:00,12:37:10,stop_point:SP_2306,Ecole Espagnole,2
+2292519,12:39:00,12:39:10,stop_point:SP_2513,Passerieu,3
+2292519,12:39:00,12:39:10,stop_point:SP_3683,Pradettes,4
+2292519,12:40:00,12:40:10,stop_point:SP_3071,Bordeblanche,5
+2292519,12:40:00,12:40:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292519,12:41:00,12:41:10,stop_point:SP_898,Villèle,7
+2292519,12:42:00,12:42:10,stop_point:SP_3117,Mazaygues,8
+2292519,12:43:00,12:43:10,stop_point:SP_1622,Corneillan,9
+2292519,12:44:00,12:44:10,stop_point:SP_4857,Zamenhof,10
+2292519,12:44:00,12:44:10,stop_point:SP_4858,Ferro Lebres,11
+2292519,12:45:00,12:45:10,stop_point:SP_4856,Lardenne,12
+2292519,12:45:00,12:45:10,stop_point:SP_723,Poutier,13
+2292519,12:46:00,12:46:10,stop_point:SP_442,Salinié,14
+2292519,12:47:00,12:47:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292519,12:47:00,12:47:10,stop_point:SP_3164,Gare de Lardenne,16
+2292519,12:47:00,12:47:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292519,12:48:00,12:48:10,stop_point:SP_360,Capelles,18
+2292519,12:49:00,12:49:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292519,12:50:00,12:50:10,stop_point:SP_3643,Flambère,20
+2292519,12:52:00,12:52:10,stop_point:SP_3454,Jaufré Rudel,21
+2292519,12:53:00,12:53:10,stop_point:SP_771,Carlos Gardel,22
+2292519,12:54:00,12:54:10,stop_point:SP_2185,Ancely,23
+2292519,12:55:00,12:55:10,stop_point:SP_1198,Arènes Romaines,24
+2292519,12:56:00,12:56:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292519,12:57:00,12:57:10,stop_point:SP_1319,Pelletier Purpan,26
+2292520,13:15:00,13:15:10,stop_point:SP_4009,Basso Cambo,1
+2292520,13:17:00,13:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292520,13:19:00,13:19:10,stop_point:SP_2513,Passerieu,3
+2292520,13:19:00,13:19:10,stop_point:SP_3683,Pradettes,4
+2292520,13:20:00,13:20:10,stop_point:SP_3071,Bordeblanche,5
+2292520,13:20:00,13:20:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292520,13:21:00,13:21:10,stop_point:SP_898,Villèle,7
+2292520,13:22:00,13:22:10,stop_point:SP_3117,Mazaygues,8
+2292520,13:23:00,13:23:10,stop_point:SP_1622,Corneillan,9
+2292520,13:24:00,13:24:10,stop_point:SP_4857,Zamenhof,10
+2292520,13:24:00,13:24:10,stop_point:SP_4858,Ferro Lebres,11
+2292520,13:25:00,13:25:10,stop_point:SP_4856,Lardenne,12
+2292520,13:25:00,13:25:10,stop_point:SP_723,Poutier,13
+2292520,13:26:00,13:26:10,stop_point:SP_442,Salinié,14
+2292520,13:27:00,13:27:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292520,13:27:00,13:27:10,stop_point:SP_3164,Gare de Lardenne,16
+2292520,13:27:00,13:27:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292520,13:28:00,13:28:10,stop_point:SP_360,Capelles,18
+2292520,13:29:00,13:29:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292520,13:30:00,13:30:10,stop_point:SP_3643,Flambère,20
+2292520,13:32:00,13:32:10,stop_point:SP_3454,Jaufré Rudel,21
+2292520,13:33:00,13:33:10,stop_point:SP_771,Carlos Gardel,22
+2292520,13:34:00,13:34:10,stop_point:SP_2185,Ancely,23
+2292520,13:35:00,13:35:10,stop_point:SP_1198,Arènes Romaines,24
+2292520,13:36:00,13:36:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292520,13:37:00,13:37:10,stop_point:SP_1319,Pelletier Purpan,26
+2292521,13:50:00,13:50:10,stop_point:SP_4009,Basso Cambo,1
+2292521,13:52:00,13:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292521,13:54:00,13:54:10,stop_point:SP_2513,Passerieu,3
+2292521,13:54:00,13:54:10,stop_point:SP_3683,Pradettes,4
+2292521,13:55:00,13:55:10,stop_point:SP_3071,Bordeblanche,5
+2292521,13:55:00,13:55:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292521,13:56:00,13:56:10,stop_point:SP_898,Villèle,7
+2292521,13:57:00,13:57:10,stop_point:SP_3117,Mazaygues,8
+2292521,13:58:00,13:58:10,stop_point:SP_1622,Corneillan,9
+2292521,13:59:00,13:59:10,stop_point:SP_4857,Zamenhof,10
+2292521,13:59:00,13:59:10,stop_point:SP_4858,Ferro Lebres,11
+2292521,14:00:00,14:00:10,stop_point:SP_4856,Lardenne,12
+2292521,14:00:00,14:00:10,stop_point:SP_723,Poutier,13
+2292521,14:01:00,14:01:10,stop_point:SP_442,Salinié,14
+2292521,14:02:00,14:02:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292521,14:02:00,14:02:10,stop_point:SP_3164,Gare de Lardenne,16
+2292521,14:02:00,14:02:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292521,14:03:00,14:03:10,stop_point:SP_360,Capelles,18
+2292521,14:04:00,14:04:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292521,14:05:00,14:05:10,stop_point:SP_3643,Flambère,20
+2292521,14:07:00,14:07:10,stop_point:SP_3454,Jaufré Rudel,21
+2292521,14:08:00,14:08:10,stop_point:SP_771,Carlos Gardel,22
+2292521,14:09:00,14:09:10,stop_point:SP_2185,Ancely,23
+2292521,14:10:00,14:10:10,stop_point:SP_1198,Arènes Romaines,24
+2292521,14:11:00,14:11:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292521,14:12:00,14:12:10,stop_point:SP_1319,Pelletier Purpan,26
+2292522,14:20:00,14:20:10,stop_point:SP_4009,Basso Cambo,1
+2292522,14:22:00,14:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292522,14:24:00,14:24:10,stop_point:SP_2513,Passerieu,3
+2292522,14:24:00,14:24:10,stop_point:SP_3683,Pradettes,4
+2292522,14:25:00,14:25:10,stop_point:SP_3071,Bordeblanche,5
+2292522,14:26:00,14:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292522,14:27:00,14:27:10,stop_point:SP_898,Villèle,7
+2292522,14:27:00,14:27:10,stop_point:SP_3117,Mazaygues,8
+2292522,14:28:00,14:28:10,stop_point:SP_1622,Corneillan,9
+2292522,14:29:00,14:29:10,stop_point:SP_4857,Zamenhof,10
+2292522,14:30:00,14:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292522,14:31:00,14:31:10,stop_point:SP_4856,Lardenne,12
+2292522,14:31:00,14:31:10,stop_point:SP_723,Poutier,13
+2292522,14:32:00,14:32:10,stop_point:SP_442,Salinié,14
+2292522,14:33:00,14:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292522,14:33:00,14:33:10,stop_point:SP_3164,Gare de Lardenne,16
+2292522,14:33:00,14:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292522,14:34:00,14:34:10,stop_point:SP_360,Capelles,18
+2292522,14:35:00,14:35:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292522,14:36:00,14:36:10,stop_point:SP_3643,Flambère,20
+2292522,14:38:00,14:38:10,stop_point:SP_3454,Jaufré Rudel,21
+2292522,14:39:00,14:39:10,stop_point:SP_771,Carlos Gardel,22
+2292522,14:40:00,14:40:10,stop_point:SP_2185,Ancely,23
+2292522,14:41:00,14:41:10,stop_point:SP_1198,Arènes Romaines,24
+2292522,14:42:00,14:42:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292522,14:43:00,14:43:10,stop_point:SP_1319,Pelletier Purpan,26
+2292523,14:50:00,14:50:10,stop_point:SP_4009,Basso Cambo,1
+2292523,14:52:00,14:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292523,14:54:00,14:54:10,stop_point:SP_2513,Passerieu,3
+2292523,14:54:00,14:54:10,stop_point:SP_3683,Pradettes,4
+2292523,14:55:00,14:55:10,stop_point:SP_3071,Bordeblanche,5
+2292523,14:56:00,14:56:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292523,14:57:00,14:57:10,stop_point:SP_898,Villèle,7
+2292523,14:57:00,14:57:10,stop_point:SP_3117,Mazaygues,8
+2292523,14:58:00,14:58:10,stop_point:SP_1622,Corneillan,9
+2292523,14:59:00,14:59:10,stop_point:SP_4857,Zamenhof,10
+2292523,15:00:00,15:00:10,stop_point:SP_4858,Ferro Lebres,11
+2292523,15:01:00,15:01:10,stop_point:SP_4856,Lardenne,12
+2292523,15:01:00,15:01:10,stop_point:SP_723,Poutier,13
+2292523,15:02:00,15:02:10,stop_point:SP_442,Salinié,14
+2292523,15:03:00,15:03:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292523,15:03:00,15:03:10,stop_point:SP_3164,Gare de Lardenne,16
+2292523,15:03:00,15:03:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292523,15:04:00,15:04:10,stop_point:SP_360,Capelles,18
+2292523,15:05:00,15:05:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292523,15:06:00,15:06:10,stop_point:SP_3643,Flambère,20
+2292523,15:08:00,15:08:10,stop_point:SP_3454,Jaufré Rudel,21
+2292523,15:09:00,15:09:10,stop_point:SP_771,Carlos Gardel,22
+2292523,15:10:00,15:10:10,stop_point:SP_2185,Ancely,23
+2292523,15:11:00,15:11:10,stop_point:SP_1198,Arènes Romaines,24
+2292523,15:12:00,15:12:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292523,15:13:00,15:13:10,stop_point:SP_1319,Pelletier Purpan,26
+2292524,15:20:00,15:20:10,stop_point:SP_4009,Basso Cambo,1
+2292524,15:22:00,15:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292524,15:24:00,15:24:10,stop_point:SP_2513,Passerieu,3
+2292524,15:24:00,15:24:10,stop_point:SP_3683,Pradettes,4
+2292524,15:25:00,15:25:10,stop_point:SP_3071,Bordeblanche,5
+2292524,15:26:00,15:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292524,15:27:00,15:27:10,stop_point:SP_898,Villèle,7
+2292524,15:27:00,15:27:10,stop_point:SP_3117,Mazaygues,8
+2292524,15:28:00,15:28:10,stop_point:SP_1622,Corneillan,9
+2292524,15:29:00,15:29:10,stop_point:SP_4857,Zamenhof,10
+2292524,15:30:00,15:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292524,15:31:00,15:31:10,stop_point:SP_4856,Lardenne,12
+2292524,15:31:00,15:31:10,stop_point:SP_723,Poutier,13
+2292524,15:32:00,15:32:10,stop_point:SP_442,Salinié,14
+2292524,15:33:00,15:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292524,15:33:00,15:33:10,stop_point:SP_3164,Gare de Lardenne,16
+2292524,15:33:00,15:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292524,15:34:00,15:34:10,stop_point:SP_360,Capelles,18
+2292524,15:35:00,15:35:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292524,15:36:00,15:36:10,stop_point:SP_3643,Flambère,20
+2292524,15:38:00,15:38:10,stop_point:SP_3454,Jaufré Rudel,21
+2292524,15:39:00,15:39:10,stop_point:SP_771,Carlos Gardel,22
+2292524,15:40:00,15:40:10,stop_point:SP_2185,Ancely,23
+2292524,15:41:00,15:41:10,stop_point:SP_1198,Arènes Romaines,24
+2292524,15:42:00,15:42:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292524,15:43:00,15:43:10,stop_point:SP_1319,Pelletier Purpan,26
+2292525,15:50:00,15:50:10,stop_point:SP_4009,Basso Cambo,1
+2292525,15:52:00,15:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292525,15:54:00,15:54:10,stop_point:SP_2513,Passerieu,3
+2292525,15:54:00,15:54:10,stop_point:SP_3683,Pradettes,4
+2292525,15:55:00,15:55:10,stop_point:SP_3071,Bordeblanche,5
+2292525,15:56:00,15:56:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292525,15:57:00,15:57:10,stop_point:SP_898,Villèle,7
+2292525,15:57:00,15:57:10,stop_point:SP_3117,Mazaygues,8
+2292525,15:58:00,15:58:10,stop_point:SP_1622,Corneillan,9
+2292525,15:59:00,15:59:10,stop_point:SP_4857,Zamenhof,10
+2292525,16:00:00,16:00:10,stop_point:SP_4858,Ferro Lebres,11
+2292525,16:01:00,16:01:10,stop_point:SP_4856,Lardenne,12
+2292525,16:01:00,16:01:10,stop_point:SP_723,Poutier,13
+2292525,16:02:00,16:02:10,stop_point:SP_442,Salinié,14
+2292525,16:03:00,16:03:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292525,16:03:00,16:03:10,stop_point:SP_3164,Gare de Lardenne,16
+2292525,16:03:00,16:03:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292525,16:04:00,16:04:10,stop_point:SP_360,Capelles,18
+2292525,16:05:00,16:05:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292525,16:06:00,16:06:10,stop_point:SP_3643,Flambère,20
+2292525,16:08:00,16:08:10,stop_point:SP_3454,Jaufré Rudel,21
+2292525,16:09:00,16:09:10,stop_point:SP_771,Carlos Gardel,22
+2292525,16:10:00,16:10:10,stop_point:SP_2185,Ancely,23
+2292525,16:11:00,16:11:10,stop_point:SP_1198,Arènes Romaines,24
+2292525,16:12:00,16:12:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292525,16:13:00,16:13:10,stop_point:SP_1319,Pelletier Purpan,26
+2292526,16:20:00,16:20:10,stop_point:SP_4009,Basso Cambo,1
+2292526,16:22:00,16:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292526,16:24:00,16:24:10,stop_point:SP_2513,Passerieu,3
+2292526,16:24:00,16:24:10,stop_point:SP_3683,Pradettes,4
+2292526,16:25:00,16:25:10,stop_point:SP_3071,Bordeblanche,5
+2292526,16:26:00,16:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292526,16:27:00,16:27:10,stop_point:SP_898,Villèle,7
+2292526,16:27:00,16:27:10,stop_point:SP_3117,Mazaygues,8
+2292526,16:28:00,16:28:10,stop_point:SP_1622,Corneillan,9
+2292526,16:29:00,16:29:10,stop_point:SP_4857,Zamenhof,10
+2292526,16:30:00,16:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292526,16:31:00,16:31:10,stop_point:SP_4856,Lardenne,12
+2292526,16:31:00,16:31:10,stop_point:SP_723,Poutier,13
+2292526,16:32:00,16:32:10,stop_point:SP_442,Salinié,14
+2292526,16:33:00,16:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292526,16:33:00,16:33:10,stop_point:SP_3164,Gare de Lardenne,16
+2292526,16:33:00,16:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292526,16:34:00,16:34:10,stop_point:SP_360,Capelles,18
+2292526,16:35:00,16:35:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292526,16:36:00,16:36:10,stop_point:SP_3643,Flambère,20
+2292526,16:38:00,16:38:10,stop_point:SP_3454,Jaufré Rudel,21
+2292526,16:39:00,16:39:10,stop_point:SP_771,Carlos Gardel,22
+2292526,16:40:00,16:40:10,stop_point:SP_2185,Ancely,23
+2292526,16:41:00,16:41:10,stop_point:SP_1198,Arènes Romaines,24
+2292526,16:42:00,16:42:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292526,16:43:00,16:43:10,stop_point:SP_1319,Pelletier Purpan,26
+2292527,16:50:00,16:50:10,stop_point:SP_4009,Basso Cambo,1
+2292527,16:52:00,16:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292527,16:54:00,16:54:10,stop_point:SP_2513,Passerieu,3
+2292527,16:54:00,16:54:10,stop_point:SP_3683,Pradettes,4
+2292527,16:55:00,16:55:10,stop_point:SP_3071,Bordeblanche,5
+2292527,16:56:00,16:56:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292527,16:57:00,16:57:10,stop_point:SP_898,Villèle,7
+2292527,16:57:00,16:57:10,stop_point:SP_3117,Mazaygues,8
+2292527,16:58:00,16:58:10,stop_point:SP_1622,Corneillan,9
+2292527,16:59:00,16:59:10,stop_point:SP_4857,Zamenhof,10
+2292527,17:00:00,17:00:10,stop_point:SP_4858,Ferro Lebres,11
+2292527,17:01:00,17:01:10,stop_point:SP_4856,Lardenne,12
+2292527,17:01:00,17:01:10,stop_point:SP_723,Poutier,13
+2292527,17:02:00,17:02:10,stop_point:SP_442,Salinié,14
+2292527,17:03:00,17:03:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292527,17:03:00,17:03:10,stop_point:SP_3164,Gare de Lardenne,16
+2292527,17:03:00,17:03:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292527,17:04:00,17:04:10,stop_point:SP_360,Capelles,18
+2292527,17:05:00,17:05:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292527,17:06:00,17:06:10,stop_point:SP_3643,Flambère,20
+2292527,17:08:00,17:08:10,stop_point:SP_3454,Jaufré Rudel,21
+2292527,17:09:00,17:09:10,stop_point:SP_771,Carlos Gardel,22
+2292527,17:10:00,17:10:10,stop_point:SP_2185,Ancely,23
+2292527,17:11:00,17:11:10,stop_point:SP_1198,Arènes Romaines,24
+2292527,17:12:00,17:12:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292527,17:13:00,17:13:10,stop_point:SP_1319,Pelletier Purpan,26
+2292528,17:20:00,17:20:10,stop_point:SP_4009,Basso Cambo,1
+2292528,17:22:00,17:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292528,17:24:00,17:24:10,stop_point:SP_2513,Passerieu,3
+2292528,17:24:00,17:24:10,stop_point:SP_3683,Pradettes,4
+2292528,17:25:00,17:25:10,stop_point:SP_3071,Bordeblanche,5
+2292528,17:26:00,17:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292528,17:27:00,17:27:10,stop_point:SP_898,Villèle,7
+2292528,17:27:00,17:27:10,stop_point:SP_3117,Mazaygues,8
+2292528,17:28:00,17:28:10,stop_point:SP_1622,Corneillan,9
+2292528,17:29:00,17:29:10,stop_point:SP_4857,Zamenhof,10
+2292528,17:30:00,17:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292528,17:31:00,17:31:10,stop_point:SP_4856,Lardenne,12
+2292528,17:31:00,17:31:10,stop_point:SP_723,Poutier,13
+2292528,17:32:00,17:32:10,stop_point:SP_442,Salinié,14
+2292528,17:33:00,17:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292528,17:34:00,17:34:10,stop_point:SP_3164,Gare de Lardenne,16
+2292528,17:34:00,17:34:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292528,17:35:00,17:35:10,stop_point:SP_360,Capelles,18
+2292528,17:36:00,17:36:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292528,17:37:00,17:37:10,stop_point:SP_3643,Flambère,20
+2292528,17:39:00,17:39:10,stop_point:SP_3454,Jaufré Rudel,21
+2292528,17:40:00,17:40:10,stop_point:SP_771,Carlos Gardel,22
+2292528,17:41:00,17:41:10,stop_point:SP_2185,Ancely,23
+2292528,17:42:00,17:42:10,stop_point:SP_1198,Arènes Romaines,24
+2292528,17:43:00,17:43:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292528,17:44:00,17:44:10,stop_point:SP_1319,Pelletier Purpan,26
+2292529,17:50:00,17:50:10,stop_point:SP_4009,Basso Cambo,1
+2292529,17:52:00,17:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292529,17:54:00,17:54:10,stop_point:SP_2513,Passerieu,3
+2292529,17:54:00,17:54:10,stop_point:SP_3683,Pradettes,4
+2292529,17:55:00,17:55:10,stop_point:SP_3071,Bordeblanche,5
+2292529,17:56:00,17:56:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292529,17:57:00,17:57:10,stop_point:SP_898,Villèle,7
+2292529,17:57:00,17:57:10,stop_point:SP_3117,Mazaygues,8
+2292529,17:58:00,17:58:10,stop_point:SP_1622,Corneillan,9
+2292529,17:59:00,17:59:10,stop_point:SP_4857,Zamenhof,10
+2292529,18:00:00,18:00:10,stop_point:SP_4858,Ferro Lebres,11
+2292529,18:01:00,18:01:10,stop_point:SP_4856,Lardenne,12
+2292529,18:01:00,18:01:10,stop_point:SP_723,Poutier,13
+2292529,18:02:00,18:02:10,stop_point:SP_442,Salinié,14
+2292529,18:03:00,18:03:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292529,18:04:00,18:04:10,stop_point:SP_3164,Gare de Lardenne,16
+2292529,18:04:00,18:04:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292529,18:05:00,18:05:10,stop_point:SP_360,Capelles,18
+2292529,18:06:00,18:06:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292529,18:07:00,18:07:10,stop_point:SP_3643,Flambère,20
+2292529,18:09:00,18:09:10,stop_point:SP_3454,Jaufré Rudel,21
+2292529,18:10:00,18:10:10,stop_point:SP_771,Carlos Gardel,22
+2292529,18:11:00,18:11:10,stop_point:SP_2185,Ancely,23
+2292529,18:12:00,18:12:10,stop_point:SP_1198,Arènes Romaines,24
+2292529,18:13:00,18:13:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292529,18:14:00,18:14:10,stop_point:SP_1319,Pelletier Purpan,26
+2292530,18:20:00,18:20:10,stop_point:SP_4009,Basso Cambo,1
+2292530,18:22:00,18:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292530,18:24:00,18:24:10,stop_point:SP_2513,Passerieu,3
+2292530,18:24:00,18:24:10,stop_point:SP_3683,Pradettes,4
+2292530,18:25:00,18:25:10,stop_point:SP_3071,Bordeblanche,5
+2292530,18:26:00,18:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292530,18:27:00,18:27:10,stop_point:SP_898,Villèle,7
+2292530,18:27:00,18:27:10,stop_point:SP_3117,Mazaygues,8
+2292530,18:28:00,18:28:10,stop_point:SP_1622,Corneillan,9
+2292530,18:29:00,18:29:10,stop_point:SP_4857,Zamenhof,10
+2292530,18:30:00,18:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292530,18:31:00,18:31:10,stop_point:SP_4856,Lardenne,12
+2292530,18:31:00,18:31:10,stop_point:SP_723,Poutier,13
+2292530,18:32:00,18:32:10,stop_point:SP_442,Salinié,14
+2292530,18:33:00,18:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292530,18:33:00,18:33:10,stop_point:SP_3164,Gare de Lardenne,16
+2292530,18:33:00,18:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292530,18:34:00,18:34:10,stop_point:SP_360,Capelles,18
+2292530,18:35:00,18:35:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292530,18:36:00,18:36:10,stop_point:SP_3643,Flambère,20
+2292530,18:38:00,18:38:10,stop_point:SP_3454,Jaufré Rudel,21
+2292530,18:39:00,18:39:10,stop_point:SP_771,Carlos Gardel,22
+2292530,18:40:00,18:40:10,stop_point:SP_2185,Ancely,23
+2292530,18:41:00,18:41:10,stop_point:SP_1198,Arènes Romaines,24
+2292530,18:42:00,18:42:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292530,18:43:00,18:43:10,stop_point:SP_1319,Pelletier Purpan,26
+2292531,18:50:00,18:50:10,stop_point:SP_4009,Basso Cambo,1
+2292531,18:52:00,18:52:10,stop_point:SP_2306,Ecole Espagnole,2
+2292531,18:54:00,18:54:10,stop_point:SP_2513,Passerieu,3
+2292531,18:54:00,18:54:10,stop_point:SP_3683,Pradettes,4
+2292531,18:55:00,18:55:10,stop_point:SP_3071,Bordeblanche,5
+2292531,18:56:00,18:56:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292531,18:57:00,18:57:10,stop_point:SP_898,Villèle,7
+2292531,18:57:00,18:57:10,stop_point:SP_3117,Mazaygues,8
+2292531,18:58:00,18:58:10,stop_point:SP_1622,Corneillan,9
+2292531,18:59:00,18:59:10,stop_point:SP_4857,Zamenhof,10
+2292531,19:00:00,19:00:10,stop_point:SP_4858,Ferro Lebres,11
+2292531,19:01:00,19:01:10,stop_point:SP_4856,Lardenne,12
+2292531,19:01:00,19:01:10,stop_point:SP_723,Poutier,13
+2292531,19:02:00,19:02:10,stop_point:SP_442,Salinié,14
+2292531,19:03:00,19:03:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292531,19:03:00,19:03:10,stop_point:SP_3164,Gare de Lardenne,16
+2292531,19:03:00,19:03:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292531,19:04:00,19:04:10,stop_point:SP_360,Capelles,18
+2292531,19:05:00,19:05:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292531,19:06:00,19:06:10,stop_point:SP_3643,Flambère,20
+2292531,19:08:00,19:08:10,stop_point:SP_3454,Jaufré Rudel,21
+2292531,19:09:00,19:09:10,stop_point:SP_771,Carlos Gardel,22
+2292531,19:10:00,19:10:10,stop_point:SP_2185,Ancely,23
+2292531,19:11:00,19:11:10,stop_point:SP_1198,Arènes Romaines,24
+2292531,19:12:00,19:12:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292531,19:13:00,19:13:10,stop_point:SP_1319,Pelletier Purpan,26
+2292532,19:20:00,19:20:10,stop_point:SP_4009,Basso Cambo,1
+2292532,19:22:00,19:22:10,stop_point:SP_2306,Ecole Espagnole,2
+2292532,19:24:00,19:24:10,stop_point:SP_2513,Passerieu,3
+2292532,19:24:00,19:24:10,stop_point:SP_3683,Pradettes,4
+2292532,19:25:00,19:25:10,stop_point:SP_3071,Bordeblanche,5
+2292532,19:26:00,19:26:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292532,19:27:00,19:27:10,stop_point:SP_898,Villèle,7
+2292532,19:27:00,19:27:10,stop_point:SP_3117,Mazaygues,8
+2292532,19:28:00,19:28:10,stop_point:SP_1622,Corneillan,9
+2292532,19:29:00,19:29:10,stop_point:SP_4857,Zamenhof,10
+2292532,19:30:00,19:30:10,stop_point:SP_4858,Ferro Lebres,11
+2292532,19:31:00,19:31:10,stop_point:SP_4856,Lardenne,12
+2292532,19:31:00,19:31:10,stop_point:SP_723,Poutier,13
+2292532,19:32:00,19:32:10,stop_point:SP_442,Salinié,14
+2292532,19:33:00,19:33:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292532,19:33:00,19:33:10,stop_point:SP_3164,Gare de Lardenne,16
+2292532,19:33:00,19:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292532,19:34:00,19:34:10,stop_point:SP_360,Capelles,18
+2292532,19:35:00,19:35:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292532,19:36:00,19:36:10,stop_point:SP_3643,Flambère,20
+2292532,19:38:00,19:38:10,stop_point:SP_3454,Jaufré Rudel,21
+2292532,19:39:00,19:39:10,stop_point:SP_771,Carlos Gardel,22
+2292532,19:40:00,19:40:10,stop_point:SP_2185,Ancely,23
+2292532,19:41:00,19:41:10,stop_point:SP_1198,Arènes Romaines,24
+2292532,19:42:00,19:42:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292532,19:43:00,19:43:10,stop_point:SP_1319,Pelletier Purpan,26
+2292533,19:55:00,19:55:10,stop_point:SP_4009,Basso Cambo,1
+2292533,19:57:00,19:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292533,19:59:00,19:59:10,stop_point:SP_2513,Passerieu,3
+2292533,19:59:00,19:59:10,stop_point:SP_3683,Pradettes,4
+2292533,20:00:00,20:00:10,stop_point:SP_3071,Bordeblanche,5
+2292533,20:01:00,20:01:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292533,20:02:00,20:02:10,stop_point:SP_898,Villèle,7
+2292533,20:02:00,20:02:10,stop_point:SP_3117,Mazaygues,8
+2292533,20:03:00,20:03:10,stop_point:SP_1622,Corneillan,9
+2292533,20:04:00,20:04:10,stop_point:SP_4857,Zamenhof,10
+2292533,20:05:00,20:05:10,stop_point:SP_4858,Ferro Lebres,11
+2292533,20:06:00,20:06:10,stop_point:SP_4856,Lardenne,12
+2292533,20:06:00,20:06:10,stop_point:SP_723,Poutier,13
+2292533,20:07:00,20:07:10,stop_point:SP_442,Salinié,14
+2292533,20:08:00,20:08:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292533,20:08:00,20:08:10,stop_point:SP_3164,Gare de Lardenne,16
+2292533,20:08:00,20:08:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292533,20:09:00,20:09:10,stop_point:SP_360,Capelles,18
+2292533,20:10:00,20:10:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292533,20:11:00,20:11:10,stop_point:SP_3643,Flambère,20
+2292533,20:13:00,20:13:10,stop_point:SP_3454,Jaufré Rudel,21
+2292533,20:14:00,20:14:10,stop_point:SP_771,Carlos Gardel,22
+2292533,20:15:00,20:15:10,stop_point:SP_2185,Ancely,23
+2292533,20:16:00,20:16:10,stop_point:SP_1198,Arènes Romaines,24
+2292533,20:17:00,20:17:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292533,20:18:00,20:18:10,stop_point:SP_1319,Pelletier Purpan,26
+2292534,20:30:00,20:30:10,stop_point:SP_4009,Basso Cambo,1
+2292534,20:32:00,20:32:10,stop_point:SP_2306,Ecole Espagnole,2
+2292534,20:34:00,20:34:10,stop_point:SP_2513,Passerieu,3
+2292534,20:34:00,20:34:10,stop_point:SP_3683,Pradettes,4
+2292534,20:35:00,20:35:10,stop_point:SP_3071,Bordeblanche,5
+2292534,20:35:00,20:35:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292534,20:36:00,20:36:10,stop_point:SP_898,Villèle,7
+2292534,20:37:00,20:37:10,stop_point:SP_3117,Mazaygues,8
+2292534,20:38:00,20:38:10,stop_point:SP_1622,Corneillan,9
+2292534,20:39:00,20:39:10,stop_point:SP_4857,Zamenhof,10
+2292534,20:39:00,20:39:10,stop_point:SP_4858,Ferro Lebres,11
+2292534,20:40:00,20:40:10,stop_point:SP_4856,Lardenne,12
+2292534,20:40:00,20:40:10,stop_point:SP_723,Poutier,13
+2292534,20:41:00,20:41:10,stop_point:SP_442,Salinié,14
+2292534,20:42:00,20:42:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292534,20:42:00,20:42:10,stop_point:SP_3164,Gare de Lardenne,16
+2292534,20:42:00,20:42:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292534,20:43:00,20:43:10,stop_point:SP_360,Capelles,18
+2292534,20:44:00,20:44:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292534,20:45:00,20:45:10,stop_point:SP_3643,Flambère,20
+2292534,20:46:00,20:46:10,stop_point:SP_3454,Jaufré Rudel,21
+2292534,20:47:00,20:47:10,stop_point:SP_771,Carlos Gardel,22
+2292534,20:48:00,20:48:10,stop_point:SP_2185,Ancely,23
+2292534,20:49:00,20:49:10,stop_point:SP_1198,Arènes Romaines,24
+2292534,20:50:00,20:50:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292534,20:51:00,20:51:10,stop_point:SP_1319,Pelletier Purpan,26
+2292535,06:30:00,06:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292535,06:31:00,06:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292535,06:32:00,06:32:10,stop_point:SP_214,Arènes Romaines,3
+2292535,06:33:00,06:33:10,stop_point:SP_2466,Ancely,4
+2292535,06:35:00,06:35:10,stop_point:SP_1137,Carlos Gardel,5
+2292535,06:36:00,06:36:10,stop_point:SP_927,Jaufré Rudel,6
+2292535,06:37:00,06:37:10,stop_point:SP_1452,Flambère,7
+2292535,06:38:00,06:38:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292535,06:39:00,06:39:10,stop_point:SP_49,Capelles,9
+2292535,06:40:00,06:40:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292535,06:40:00,06:40:10,stop_point:SP_660,Gare de Lardenne,11
+2292535,06:40:00,06:40:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292535,06:41:00,06:41:10,stop_point:SP_3812,Salinié,13
+2292535,06:42:00,06:42:10,stop_point:SP_3502,Poutier,14
+2292535,06:42:00,06:42:10,stop_point:SP_4861,Lardenne,15
+2292535,06:43:00,06:43:10,stop_point:SP_4859,Ferro Lebres,16
+2292535,06:43:00,06:43:10,stop_point:SP_4855,Zamenhof,17
+2292535,06:45:00,06:45:10,stop_point:SP_1629,Corneillan,18
+2292535,06:45:00,06:45:10,stop_point:SP_161,Mazaygues,19
+2292535,06:46:00,06:46:10,stop_point:SP_1492,Villèle,20
+2292535,06:46:00,06:46:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292535,06:47:00,06:47:10,stop_point:SP_3103,Bordeblanche,22
+2292535,06:48:00,06:48:10,stop_point:SP_418,Pradettes,23
+2292535,06:49:00,06:49:10,stop_point:SP_2683,Passerieu,24
+2292535,06:50:00,06:50:10,stop_point:SP_2548,Ecole Espagnole,25
+2292535,06:53:00,06:53:10,stop_point:SP_4009,Basso Cambo,26
+2292536,07:10:00,07:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292536,07:11:00,07:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292536,07:12:00,07:12:10,stop_point:SP_214,Arènes Romaines,3
+2292536,07:13:00,07:13:10,stop_point:SP_2466,Ancely,4
+2292536,07:15:00,07:15:10,stop_point:SP_1137,Carlos Gardel,5
+2292536,07:16:00,07:16:10,stop_point:SP_927,Jaufré Rudel,6
+2292536,07:17:00,07:17:10,stop_point:SP_1452,Flambère,7
+2292536,07:18:00,07:18:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292536,07:19:00,07:19:10,stop_point:SP_49,Capelles,9
+2292536,07:20:00,07:20:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292536,07:20:00,07:20:10,stop_point:SP_660,Gare de Lardenne,11
+2292536,07:20:00,07:20:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292536,07:21:00,07:21:10,stop_point:SP_3812,Salinié,13
+2292536,07:22:00,07:22:10,stop_point:SP_3502,Poutier,14
+2292536,07:22:00,07:22:10,stop_point:SP_4861,Lardenne,15
+2292536,07:23:00,07:23:10,stop_point:SP_4859,Ferro Lebres,16
+2292536,07:24:00,07:24:10,stop_point:SP_4855,Zamenhof,17
+2292536,07:25:00,07:25:10,stop_point:SP_1629,Corneillan,18
+2292536,07:26:00,07:26:10,stop_point:SP_161,Mazaygues,19
+2292536,07:27:00,07:27:10,stop_point:SP_1492,Villèle,20
+2292536,07:28:00,07:28:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292536,07:29:00,07:29:10,stop_point:SP_3103,Bordeblanche,22
+2292536,07:30:00,07:30:10,stop_point:SP_418,Pradettes,23
+2292536,07:31:00,07:31:10,stop_point:SP_2683,Passerieu,24
+2292536,07:32:00,07:32:10,stop_point:SP_2548,Ecole Espagnole,25
+2292536,07:35:00,07:35:10,stop_point:SP_4009,Basso Cambo,26
+2292537,07:50:00,07:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292537,07:51:00,07:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292537,07:52:00,07:52:10,stop_point:SP_214,Arènes Romaines,3
+2292537,07:53:00,07:53:10,stop_point:SP_2466,Ancely,4
+2292537,07:55:00,07:55:10,stop_point:SP_1137,Carlos Gardel,5
+2292537,07:56:00,07:56:10,stop_point:SP_927,Jaufré Rudel,6
+2292537,07:57:00,07:57:10,stop_point:SP_1452,Flambère,7
+2292537,07:58:00,07:58:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292537,07:59:00,07:59:10,stop_point:SP_49,Capelles,9
+2292537,08:00:00,08:00:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292537,08:00:00,08:00:10,stop_point:SP_660,Gare de Lardenne,11
+2292537,08:00:00,08:00:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292537,08:01:00,08:01:10,stop_point:SP_3812,Salinié,13
+2292537,08:02:00,08:02:10,stop_point:SP_3502,Poutier,14
+2292537,08:02:00,08:02:10,stop_point:SP_4861,Lardenne,15
+2292537,08:03:00,08:03:10,stop_point:SP_4859,Ferro Lebres,16
+2292537,08:04:00,08:04:10,stop_point:SP_4855,Zamenhof,17
+2292537,08:05:00,08:05:10,stop_point:SP_1629,Corneillan,18
+2292537,08:06:00,08:06:10,stop_point:SP_161,Mazaygues,19
+2292537,08:07:00,08:07:10,stop_point:SP_1492,Villèle,20
+2292537,08:08:00,08:08:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292537,08:09:00,08:09:10,stop_point:SP_3103,Bordeblanche,22
+2292537,08:10:00,08:10:10,stop_point:SP_418,Pradettes,23
+2292537,08:11:00,08:11:10,stop_point:SP_2683,Passerieu,24
+2292537,08:12:00,08:12:10,stop_point:SP_2548,Ecole Espagnole,25
+2292537,08:15:00,08:15:10,stop_point:SP_4009,Basso Cambo,26
+2292538,08:30:00,08:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292538,08:31:00,08:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292538,08:32:00,08:32:10,stop_point:SP_214,Arènes Romaines,3
+2292538,08:33:00,08:33:10,stop_point:SP_2466,Ancely,4
+2292538,08:35:00,08:35:10,stop_point:SP_1137,Carlos Gardel,5
+2292538,08:36:00,08:36:10,stop_point:SP_927,Jaufré Rudel,6
+2292538,08:37:00,08:37:10,stop_point:SP_1452,Flambère,7
+2292538,08:38:00,08:38:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292538,08:39:00,08:39:10,stop_point:SP_49,Capelles,9
+2292538,08:40:00,08:40:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292538,08:40:00,08:40:10,stop_point:SP_660,Gare de Lardenne,11
+2292538,08:40:00,08:40:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292538,08:41:00,08:41:10,stop_point:SP_3812,Salinié,13
+2292538,08:42:00,08:42:10,stop_point:SP_3502,Poutier,14
+2292538,08:42:00,08:42:10,stop_point:SP_4861,Lardenne,15
+2292538,08:43:00,08:43:10,stop_point:SP_4859,Ferro Lebres,16
+2292538,08:44:00,08:44:10,stop_point:SP_4855,Zamenhof,17
+2292538,08:45:00,08:45:10,stop_point:SP_1629,Corneillan,18
+2292538,08:46:00,08:46:10,stop_point:SP_161,Mazaygues,19
+2292538,08:47:00,08:47:10,stop_point:SP_1492,Villèle,20
+2292538,08:48:00,08:48:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292538,08:49:00,08:49:10,stop_point:SP_3103,Bordeblanche,22
+2292538,08:50:00,08:50:10,stop_point:SP_418,Pradettes,23
+2292538,08:51:00,08:51:10,stop_point:SP_2683,Passerieu,24
+2292538,08:52:00,08:52:10,stop_point:SP_2548,Ecole Espagnole,25
+2292538,08:55:00,08:55:10,stop_point:SP_4009,Basso Cambo,26
+2292539,09:10:00,09:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292539,09:11:00,09:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292539,09:12:00,09:12:10,stop_point:SP_214,Arènes Romaines,3
+2292539,09:13:00,09:13:10,stop_point:SP_2466,Ancely,4
+2292539,09:15:00,09:15:10,stop_point:SP_1137,Carlos Gardel,5
+2292539,09:16:00,09:16:10,stop_point:SP_927,Jaufré Rudel,6
+2292539,09:17:00,09:17:10,stop_point:SP_1452,Flambère,7
+2292539,09:18:00,09:18:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292539,09:19:00,09:19:10,stop_point:SP_49,Capelles,9
+2292539,09:20:00,09:20:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292539,09:20:00,09:20:10,stop_point:SP_660,Gare de Lardenne,11
+2292539,09:21:00,09:21:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292539,09:22:00,09:22:10,stop_point:SP_3812,Salinié,13
+2292539,09:22:00,09:22:10,stop_point:SP_3502,Poutier,14
+2292539,09:23:00,09:23:10,stop_point:SP_4861,Lardenne,15
+2292539,09:24:00,09:24:10,stop_point:SP_4859,Ferro Lebres,16
+2292539,09:25:00,09:25:10,stop_point:SP_4855,Zamenhof,17
+2292539,09:26:00,09:26:10,stop_point:SP_1629,Corneillan,18
+2292539,09:27:00,09:27:10,stop_point:SP_161,Mazaygues,19
+2292539,09:28:00,09:28:10,stop_point:SP_1492,Villèle,20
+2292539,09:29:00,09:29:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292539,09:30:00,09:30:10,stop_point:SP_3103,Bordeblanche,22
+2292539,09:31:00,09:31:10,stop_point:SP_418,Pradettes,23
+2292539,09:32:00,09:32:10,stop_point:SP_2683,Passerieu,24
+2292539,09:33:00,09:33:10,stop_point:SP_2548,Ecole Espagnole,25
+2292539,09:36:00,09:36:10,stop_point:SP_4009,Basso Cambo,26
+2292540,09:50:00,09:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292540,09:51:00,09:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292540,09:52:00,09:52:10,stop_point:SP_214,Arènes Romaines,3
+2292540,09:53:00,09:53:10,stop_point:SP_2466,Ancely,4
+2292540,09:55:00,09:55:10,stop_point:SP_1137,Carlos Gardel,5
+2292540,09:56:00,09:56:10,stop_point:SP_927,Jaufré Rudel,6
+2292540,09:57:00,09:57:10,stop_point:SP_1452,Flambère,7
+2292540,09:58:00,09:58:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292540,09:59:00,09:59:10,stop_point:SP_49,Capelles,9
+2292540,10:00:00,10:00:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292540,10:00:00,10:00:10,stop_point:SP_660,Gare de Lardenne,11
+2292540,10:01:00,10:01:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292540,10:02:00,10:02:10,stop_point:SP_3812,Salinié,13
+2292540,10:02:00,10:02:10,stop_point:SP_3502,Poutier,14
+2292540,10:03:00,10:03:10,stop_point:SP_4861,Lardenne,15
+2292540,10:04:00,10:04:10,stop_point:SP_4859,Ferro Lebres,16
+2292540,10:05:00,10:05:10,stop_point:SP_4855,Zamenhof,17
+2292540,10:06:00,10:06:10,stop_point:SP_1629,Corneillan,18
+2292540,10:07:00,10:07:10,stop_point:SP_161,Mazaygues,19
+2292540,10:08:00,10:08:10,stop_point:SP_1492,Villèle,20
+2292540,10:09:00,10:09:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292540,10:10:00,10:10:10,stop_point:SP_3103,Bordeblanche,22
+2292540,10:11:00,10:11:10,stop_point:SP_418,Pradettes,23
+2292540,10:12:00,10:12:10,stop_point:SP_2683,Passerieu,24
+2292540,10:13:00,10:13:10,stop_point:SP_2548,Ecole Espagnole,25
+2292540,10:16:00,10:16:10,stop_point:SP_4009,Basso Cambo,26
+2292541,10:30:00,10:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292541,10:31:00,10:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292541,10:33:00,10:33:10,stop_point:SP_214,Arènes Romaines,3
+2292541,10:34:00,10:34:10,stop_point:SP_2466,Ancely,4
+2292541,10:36:00,10:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292541,10:37:00,10:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292541,10:37:00,10:37:10,stop_point:SP_1452,Flambère,7
+2292541,10:39:00,10:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292541,10:40:00,10:40:10,stop_point:SP_49,Capelles,9
+2292541,10:41:00,10:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292541,10:41:00,10:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292541,10:42:00,10:42:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292541,10:43:00,10:43:10,stop_point:SP_3812,Salinié,13
+2292541,10:43:00,10:43:10,stop_point:SP_3502,Poutier,14
+2292541,10:44:00,10:44:10,stop_point:SP_4861,Lardenne,15
+2292541,10:45:00,10:45:10,stop_point:SP_4859,Ferro Lebres,16
+2292541,10:46:00,10:46:10,stop_point:SP_4855,Zamenhof,17
+2292541,10:47:00,10:47:10,stop_point:SP_1629,Corneillan,18
+2292541,10:48:00,10:48:10,stop_point:SP_161,Mazaygues,19
+2292541,10:49:00,10:49:10,stop_point:SP_1492,Villèle,20
+2292541,10:50:00,10:50:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292541,10:51:00,10:51:10,stop_point:SP_3103,Bordeblanche,22
+2292541,10:52:00,10:52:10,stop_point:SP_418,Pradettes,23
+2292541,10:53:00,10:53:10,stop_point:SP_2683,Passerieu,24
+2292541,10:54:00,10:54:10,stop_point:SP_2548,Ecole Espagnole,25
+2292541,10:57:00,10:57:10,stop_point:SP_4009,Basso Cambo,26
+2292542,11:10:00,11:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292542,11:11:00,11:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292542,11:13:00,11:13:10,stop_point:SP_214,Arènes Romaines,3
+2292542,11:14:00,11:14:10,stop_point:SP_2466,Ancely,4
+2292542,11:16:00,11:16:10,stop_point:SP_1137,Carlos Gardel,5
+2292542,11:17:00,11:17:10,stop_point:SP_927,Jaufré Rudel,6
+2292542,11:17:00,11:17:10,stop_point:SP_1452,Flambère,7
+2292542,11:19:00,11:19:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292542,11:20:00,11:20:10,stop_point:SP_49,Capelles,9
+2292542,11:21:00,11:21:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292542,11:21:00,11:21:10,stop_point:SP_660,Gare de Lardenne,11
+2292542,11:22:00,11:22:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292542,11:23:00,11:23:10,stop_point:SP_3812,Salinié,13
+2292542,11:23:00,11:23:10,stop_point:SP_3502,Poutier,14
+2292542,11:24:00,11:24:10,stop_point:SP_4861,Lardenne,15
+2292542,11:25:00,11:25:10,stop_point:SP_4859,Ferro Lebres,16
+2292542,11:26:00,11:26:10,stop_point:SP_4855,Zamenhof,17
+2292542,11:27:00,11:27:10,stop_point:SP_1629,Corneillan,18
+2292542,11:28:00,11:28:10,stop_point:SP_161,Mazaygues,19
+2292542,11:29:00,11:29:10,stop_point:SP_1492,Villèle,20
+2292542,11:30:00,11:30:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292542,11:31:00,11:31:10,stop_point:SP_3103,Bordeblanche,22
+2292542,11:32:00,11:32:10,stop_point:SP_418,Pradettes,23
+2292542,11:33:00,11:33:10,stop_point:SP_2683,Passerieu,24
+2292542,11:34:00,11:34:10,stop_point:SP_2548,Ecole Espagnole,25
+2292542,11:37:00,11:37:10,stop_point:SP_4009,Basso Cambo,26
+2292543,11:50:00,11:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292543,11:51:00,11:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292543,11:53:00,11:53:10,stop_point:SP_214,Arènes Romaines,3
+2292543,11:54:00,11:54:10,stop_point:SP_2466,Ancely,4
+2292543,11:56:00,11:56:10,stop_point:SP_1137,Carlos Gardel,5
+2292543,11:57:00,11:57:10,stop_point:SP_927,Jaufré Rudel,6
+2292543,11:57:00,11:57:10,stop_point:SP_1452,Flambère,7
+2292543,11:59:00,11:59:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292543,12:00:00,12:00:10,stop_point:SP_49,Capelles,9
+2292543,12:01:00,12:01:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292543,12:01:00,12:01:10,stop_point:SP_660,Gare de Lardenne,11
+2292543,12:02:00,12:02:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292543,12:03:00,12:03:10,stop_point:SP_3812,Salinié,13
+2292543,12:03:00,12:03:10,stop_point:SP_3502,Poutier,14
+2292543,12:04:00,12:04:10,stop_point:SP_4861,Lardenne,15
+2292543,12:05:00,12:05:10,stop_point:SP_4859,Ferro Lebres,16
+2292543,12:06:00,12:06:10,stop_point:SP_4855,Zamenhof,17
+2292543,12:07:00,12:07:10,stop_point:SP_1629,Corneillan,18
+2292543,12:08:00,12:08:10,stop_point:SP_161,Mazaygues,19
+2292543,12:09:00,12:09:10,stop_point:SP_1492,Villèle,20
+2292543,12:10:00,12:10:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292543,12:11:00,12:11:10,stop_point:SP_3103,Bordeblanche,22
+2292543,12:12:00,12:12:10,stop_point:SP_418,Pradettes,23
+2292543,12:13:00,12:13:10,stop_point:SP_2683,Passerieu,24
+2292543,12:14:00,12:14:10,stop_point:SP_2548,Ecole Espagnole,25
+2292543,12:17:00,12:17:10,stop_point:SP_4009,Basso Cambo,26
+2292544,12:30:00,12:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292544,12:31:00,12:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292544,12:33:00,12:33:10,stop_point:SP_214,Arènes Romaines,3
+2292544,12:34:00,12:34:10,stop_point:SP_2466,Ancely,4
+2292544,12:36:00,12:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292544,12:37:00,12:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292544,12:37:00,12:37:10,stop_point:SP_1452,Flambère,7
+2292544,12:39:00,12:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292544,12:40:00,12:40:10,stop_point:SP_49,Capelles,9
+2292544,12:41:00,12:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292544,12:41:00,12:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292544,12:42:00,12:42:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292544,12:43:00,12:43:10,stop_point:SP_3812,Salinié,13
+2292544,12:43:00,12:43:10,stop_point:SP_3502,Poutier,14
+2292544,12:44:00,12:44:10,stop_point:SP_4861,Lardenne,15
+2292544,12:45:00,12:45:10,stop_point:SP_4859,Ferro Lebres,16
+2292544,12:46:00,12:46:10,stop_point:SP_4855,Zamenhof,17
+2292544,12:47:00,12:47:10,stop_point:SP_1629,Corneillan,18
+2292544,12:48:00,12:48:10,stop_point:SP_161,Mazaygues,19
+2292544,12:49:00,12:49:10,stop_point:SP_1492,Villèle,20
+2292544,12:50:00,12:50:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292544,12:51:00,12:51:10,stop_point:SP_3103,Bordeblanche,22
+2292544,12:52:00,12:52:10,stop_point:SP_418,Pradettes,23
+2292544,12:53:00,12:53:10,stop_point:SP_2683,Passerieu,24
+2292544,12:54:00,12:54:10,stop_point:SP_2548,Ecole Espagnole,25
+2292544,12:57:00,12:57:10,stop_point:SP_4009,Basso Cambo,26
+2292545,13:00:00,13:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292545,13:01:00,13:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292545,13:03:00,13:03:10,stop_point:SP_214,Arènes Romaines,3
+2292545,13:04:00,13:04:10,stop_point:SP_2466,Ancely,4
+2292545,13:06:00,13:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292545,13:07:00,13:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292545,13:07:00,13:07:10,stop_point:SP_1452,Flambère,7
+2292545,13:09:00,13:09:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292545,13:10:00,13:10:10,stop_point:SP_49,Capelles,9
+2292545,13:11:00,13:11:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292545,13:11:00,13:11:10,stop_point:SP_660,Gare de Lardenne,11
+2292545,13:11:00,13:11:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292545,13:12:00,13:12:10,stop_point:SP_3812,Salinié,13
+2292545,13:13:00,13:13:10,stop_point:SP_3502,Poutier,14
+2292545,13:13:00,13:13:10,stop_point:SP_4861,Lardenne,15
+2292545,13:14:00,13:14:10,stop_point:SP_4859,Ferro Lebres,16
+2292545,13:15:00,13:15:10,stop_point:SP_4855,Zamenhof,17
+2292545,13:16:00,13:16:10,stop_point:SP_1629,Corneillan,18
+2292545,13:17:00,13:17:10,stop_point:SP_161,Mazaygues,19
+2292545,13:18:00,13:18:10,stop_point:SP_1492,Villèle,20
+2292545,13:19:00,13:19:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292545,13:20:00,13:20:10,stop_point:SP_3103,Bordeblanche,22
+2292545,13:21:00,13:21:10,stop_point:SP_418,Pradettes,23
+2292545,13:22:00,13:22:10,stop_point:SP_2683,Passerieu,24
+2292545,13:23:00,13:23:10,stop_point:SP_2548,Ecole Espagnole,25
+2292545,13:26:00,13:26:10,stop_point:SP_4009,Basso Cambo,26
+2292546,13:30:00,13:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292546,13:31:00,13:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292546,13:33:00,13:33:10,stop_point:SP_214,Arènes Romaines,3
+2292546,13:34:00,13:34:10,stop_point:SP_2466,Ancely,4
+2292546,13:36:00,13:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292546,13:37:00,13:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292546,13:37:00,13:37:10,stop_point:SP_1452,Flambère,7
+2292546,13:39:00,13:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292546,13:40:00,13:40:10,stop_point:SP_49,Capelles,9
+2292546,13:41:00,13:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292546,13:41:00,13:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292546,13:41:00,13:41:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292546,13:42:00,13:42:10,stop_point:SP_3812,Salinié,13
+2292546,13:43:00,13:43:10,stop_point:SP_3502,Poutier,14
+2292546,13:43:00,13:43:10,stop_point:SP_4861,Lardenne,15
+2292546,13:44:00,13:44:10,stop_point:SP_4859,Ferro Lebres,16
+2292546,13:45:00,13:45:10,stop_point:SP_4855,Zamenhof,17
+2292546,13:46:00,13:46:10,stop_point:SP_1629,Corneillan,18
+2292546,13:47:00,13:47:10,stop_point:SP_161,Mazaygues,19
+2292546,13:48:00,13:48:10,stop_point:SP_1492,Villèle,20
+2292546,13:49:00,13:49:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292546,13:50:00,13:50:10,stop_point:SP_3103,Bordeblanche,22
+2292546,13:51:00,13:51:10,stop_point:SP_418,Pradettes,23
+2292546,13:52:00,13:52:10,stop_point:SP_2683,Passerieu,24
+2292546,13:53:00,13:53:10,stop_point:SP_2548,Ecole Espagnole,25
+2292546,13:56:00,13:56:10,stop_point:SP_4009,Basso Cambo,26
+2292547,14:00:00,14:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292547,14:01:00,14:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292547,14:03:00,14:03:10,stop_point:SP_214,Arènes Romaines,3
+2292547,14:04:00,14:04:10,stop_point:SP_2466,Ancely,4
+2292547,14:06:00,14:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292547,14:07:00,14:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292547,14:07:00,14:07:10,stop_point:SP_1452,Flambère,7
+2292547,14:09:00,14:09:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292547,14:10:00,14:10:10,stop_point:SP_49,Capelles,9
+2292547,14:11:00,14:11:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292547,14:11:00,14:11:10,stop_point:SP_660,Gare de Lardenne,11
+2292547,14:11:00,14:11:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292547,14:12:00,14:12:10,stop_point:SP_3812,Salinié,13
+2292547,14:13:00,14:13:10,stop_point:SP_3502,Poutier,14
+2292547,14:13:00,14:13:10,stop_point:SP_4861,Lardenne,15
+2292547,14:14:00,14:14:10,stop_point:SP_4859,Ferro Lebres,16
+2292547,14:15:00,14:15:10,stop_point:SP_4855,Zamenhof,17
+2292547,14:16:00,14:16:10,stop_point:SP_1629,Corneillan,18
+2292547,14:17:00,14:17:10,stop_point:SP_161,Mazaygues,19
+2292547,14:18:00,14:18:10,stop_point:SP_1492,Villèle,20
+2292547,14:19:00,14:19:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292547,14:20:00,14:20:10,stop_point:SP_3103,Bordeblanche,22
+2292547,14:21:00,14:21:10,stop_point:SP_418,Pradettes,23
+2292547,14:22:00,14:22:10,stop_point:SP_2683,Passerieu,24
+2292547,14:23:00,14:23:10,stop_point:SP_2548,Ecole Espagnole,25
+2292547,14:26:00,14:26:10,stop_point:SP_4009,Basso Cambo,26
+2292548,14:30:00,14:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292548,14:31:00,14:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292548,14:33:00,14:33:10,stop_point:SP_214,Arènes Romaines,3
+2292548,14:34:00,14:34:10,stop_point:SP_2466,Ancely,4
+2292548,14:36:00,14:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292548,14:37:00,14:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292548,14:37:00,14:37:10,stop_point:SP_1452,Flambère,7
+2292548,14:39:00,14:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292548,14:40:00,14:40:10,stop_point:SP_49,Capelles,9
+2292548,14:41:00,14:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292548,14:41:00,14:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292548,14:41:00,14:41:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292548,14:42:00,14:42:10,stop_point:SP_3812,Salinié,13
+2292548,14:43:00,14:43:10,stop_point:SP_3502,Poutier,14
+2292548,14:43:00,14:43:10,stop_point:SP_4861,Lardenne,15
+2292548,14:44:00,14:44:10,stop_point:SP_4859,Ferro Lebres,16
+2292548,14:45:00,14:45:10,stop_point:SP_4855,Zamenhof,17
+2292548,14:46:00,14:46:10,stop_point:SP_1629,Corneillan,18
+2292548,14:47:00,14:47:10,stop_point:SP_161,Mazaygues,19
+2292548,14:48:00,14:48:10,stop_point:SP_1492,Villèle,20
+2292548,14:49:00,14:49:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292548,14:50:00,14:50:10,stop_point:SP_3103,Bordeblanche,22
+2292548,14:51:00,14:51:10,stop_point:SP_418,Pradettes,23
+2292548,14:52:00,14:52:10,stop_point:SP_2683,Passerieu,24
+2292548,14:53:00,14:53:10,stop_point:SP_2548,Ecole Espagnole,25
+2292548,14:56:00,14:56:10,stop_point:SP_4009,Basso Cambo,26
+2292549,15:00:00,15:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292549,15:01:00,15:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292549,15:03:00,15:03:10,stop_point:SP_214,Arènes Romaines,3
+2292549,15:04:00,15:04:10,stop_point:SP_2466,Ancely,4
+2292549,15:06:00,15:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292549,15:07:00,15:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292549,15:07:00,15:07:10,stop_point:SP_1452,Flambère,7
+2292549,15:09:00,15:09:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292549,15:10:00,15:10:10,stop_point:SP_49,Capelles,9
+2292549,15:11:00,15:11:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292549,15:11:00,15:11:10,stop_point:SP_660,Gare de Lardenne,11
+2292549,15:12:00,15:12:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292549,15:13:00,15:13:10,stop_point:SP_3812,Salinié,13
+2292549,15:13:00,15:13:10,stop_point:SP_3502,Poutier,14
+2292549,15:14:00,15:14:10,stop_point:SP_4861,Lardenne,15
+2292549,15:15:00,15:15:10,stop_point:SP_4859,Ferro Lebres,16
+2292549,15:16:00,15:16:10,stop_point:SP_4855,Zamenhof,17
+2292549,15:17:00,15:17:10,stop_point:SP_1629,Corneillan,18
+2292549,15:18:00,15:18:10,stop_point:SP_161,Mazaygues,19
+2292549,15:19:00,15:19:10,stop_point:SP_1492,Villèle,20
+2292549,15:20:00,15:20:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292549,15:21:00,15:21:10,stop_point:SP_3103,Bordeblanche,22
+2292549,15:22:00,15:22:10,stop_point:SP_418,Pradettes,23
+2292549,15:23:00,15:23:10,stop_point:SP_2683,Passerieu,24
+2292549,15:24:00,15:24:10,stop_point:SP_2548,Ecole Espagnole,25
+2292549,15:27:00,15:27:10,stop_point:SP_4009,Basso Cambo,26
+2292550,15:30:00,15:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292550,15:31:00,15:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292550,15:33:00,15:33:10,stop_point:SP_214,Arènes Romaines,3
+2292550,15:34:00,15:34:10,stop_point:SP_2466,Ancely,4
+2292550,15:36:00,15:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292550,15:37:00,15:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292550,15:37:00,15:37:10,stop_point:SP_1452,Flambère,7
+2292550,15:39:00,15:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292550,15:40:00,15:40:10,stop_point:SP_49,Capelles,9
+2292550,15:41:00,15:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292550,15:41:00,15:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292550,15:42:00,15:42:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292550,15:43:00,15:43:10,stop_point:SP_3812,Salinié,13
+2292550,15:43:00,15:43:10,stop_point:SP_3502,Poutier,14
+2292550,15:44:00,15:44:10,stop_point:SP_4861,Lardenne,15
+2292550,15:45:00,15:45:10,stop_point:SP_4859,Ferro Lebres,16
+2292550,15:46:00,15:46:10,stop_point:SP_4855,Zamenhof,17
+2292550,15:47:00,15:47:10,stop_point:SP_1629,Corneillan,18
+2292550,15:48:00,15:48:10,stop_point:SP_161,Mazaygues,19
+2292550,15:49:00,15:49:10,stop_point:SP_1492,Villèle,20
+2292550,15:50:00,15:50:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292550,15:51:00,15:51:10,stop_point:SP_3103,Bordeblanche,22
+2292550,15:52:00,15:52:10,stop_point:SP_418,Pradettes,23
+2292550,15:53:00,15:53:10,stop_point:SP_2683,Passerieu,24
+2292550,15:54:00,15:54:10,stop_point:SP_2548,Ecole Espagnole,25
+2292550,15:57:00,15:57:10,stop_point:SP_4009,Basso Cambo,26
+2292551,16:00:00,16:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292551,16:01:00,16:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292551,16:03:00,16:03:10,stop_point:SP_214,Arènes Romaines,3
+2292551,16:04:00,16:04:10,stop_point:SP_2466,Ancely,4
+2292551,16:06:00,16:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292551,16:07:00,16:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292551,16:07:00,16:07:10,stop_point:SP_1452,Flambère,7
+2292551,16:09:00,16:09:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292551,16:10:00,16:10:10,stop_point:SP_49,Capelles,9
+2292551,16:11:00,16:11:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292551,16:11:00,16:11:10,stop_point:SP_660,Gare de Lardenne,11
+2292551,16:12:00,16:12:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292551,16:13:00,16:13:10,stop_point:SP_3812,Salinié,13
+2292551,16:13:00,16:13:10,stop_point:SP_3502,Poutier,14
+2292551,16:14:00,16:14:10,stop_point:SP_4861,Lardenne,15
+2292551,16:15:00,16:15:10,stop_point:SP_4859,Ferro Lebres,16
+2292551,16:16:00,16:16:10,stop_point:SP_4855,Zamenhof,17
+2292551,16:17:00,16:17:10,stop_point:SP_1629,Corneillan,18
+2292551,16:18:00,16:18:10,stop_point:SP_161,Mazaygues,19
+2292551,16:19:00,16:19:10,stop_point:SP_1492,Villèle,20
+2292551,16:20:00,16:20:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292551,16:21:00,16:21:10,stop_point:SP_3103,Bordeblanche,22
+2292551,16:22:00,16:22:10,stop_point:SP_418,Pradettes,23
+2292551,16:23:00,16:23:10,stop_point:SP_2683,Passerieu,24
+2292551,16:24:00,16:24:10,stop_point:SP_2548,Ecole Espagnole,25
+2292551,16:27:00,16:27:10,stop_point:SP_4009,Basso Cambo,26
+2292552,16:30:00,16:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292552,16:32:00,16:32:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292552,16:33:00,16:33:10,stop_point:SP_214,Arènes Romaines,3
+2292552,16:35:00,16:35:10,stop_point:SP_2466,Ancely,4
+2292552,16:37:00,16:37:10,stop_point:SP_1137,Carlos Gardel,5
+2292552,16:38:00,16:38:10,stop_point:SP_927,Jaufré Rudel,6
+2292552,16:39:00,16:39:10,stop_point:SP_1452,Flambère,7
+2292552,16:41:00,16:41:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292552,16:42:00,16:42:10,stop_point:SP_49,Capelles,9
+2292552,16:43:00,16:43:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292552,16:44:00,16:44:10,stop_point:SP_660,Gare de Lardenne,11
+2292552,16:45:00,16:45:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292552,16:46:00,16:46:10,stop_point:SP_3812,Salinié,13
+2292552,16:46:00,16:46:10,stop_point:SP_3502,Poutier,14
+2292552,16:47:00,16:47:10,stop_point:SP_4861,Lardenne,15
+2292552,16:48:00,16:48:10,stop_point:SP_4859,Ferro Lebres,16
+2292552,16:49:00,16:49:10,stop_point:SP_4855,Zamenhof,17
+2292552,16:50:00,16:50:10,stop_point:SP_1629,Corneillan,18
+2292552,16:51:00,16:51:10,stop_point:SP_161,Mazaygues,19
+2292552,16:52:00,16:52:10,stop_point:SP_1492,Villèle,20
+2292552,16:53:00,16:53:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292552,16:54:00,16:54:10,stop_point:SP_3103,Bordeblanche,22
+2292552,16:55:00,16:55:10,stop_point:SP_418,Pradettes,23
+2292552,16:56:00,16:56:10,stop_point:SP_2683,Passerieu,24
+2292552,16:57:00,16:57:10,stop_point:SP_2548,Ecole Espagnole,25
+2292552,17:00:00,17:00:10,stop_point:SP_4009,Basso Cambo,26
+2292553,17:00:00,17:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292553,17:02:00,17:02:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292553,17:03:00,17:03:10,stop_point:SP_214,Arènes Romaines,3
+2292553,17:05:00,17:05:10,stop_point:SP_2466,Ancely,4
+2292553,17:07:00,17:07:10,stop_point:SP_1137,Carlos Gardel,5
+2292553,17:08:00,17:08:10,stop_point:SP_927,Jaufré Rudel,6
+2292553,17:09:00,17:09:10,stop_point:SP_1452,Flambère,7
+2292553,17:11:00,17:11:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292553,17:12:00,17:12:10,stop_point:SP_49,Capelles,9
+2292553,17:13:00,17:13:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292553,17:14:00,17:14:10,stop_point:SP_660,Gare de Lardenne,11
+2292553,17:15:00,17:15:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292553,17:16:00,17:16:10,stop_point:SP_3812,Salinié,13
+2292553,17:16:00,17:16:10,stop_point:SP_3502,Poutier,14
+2292553,17:17:00,17:17:10,stop_point:SP_4861,Lardenne,15
+2292553,17:18:00,17:18:10,stop_point:SP_4859,Ferro Lebres,16
+2292553,17:19:00,17:19:10,stop_point:SP_4855,Zamenhof,17
+2292553,17:20:00,17:20:10,stop_point:SP_1629,Corneillan,18
+2292553,17:21:00,17:21:10,stop_point:SP_161,Mazaygues,19
+2292553,17:22:00,17:22:10,stop_point:SP_1492,Villèle,20
+2292553,17:23:00,17:23:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292553,17:24:00,17:24:10,stop_point:SP_3103,Bordeblanche,22
+2292553,17:25:00,17:25:10,stop_point:SP_418,Pradettes,23
+2292553,17:26:00,17:26:10,stop_point:SP_2683,Passerieu,24
+2292553,17:27:00,17:27:10,stop_point:SP_2548,Ecole Espagnole,25
+2292553,17:30:00,17:30:10,stop_point:SP_4009,Basso Cambo,26
+2292554,17:30:00,17:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292554,17:31:00,17:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292554,17:33:00,17:33:10,stop_point:SP_214,Arènes Romaines,3
+2292554,17:34:00,17:34:10,stop_point:SP_2466,Ancely,4
+2292554,17:36:00,17:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292554,17:37:00,17:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292554,17:38:00,17:38:10,stop_point:SP_1452,Flambère,7
+2292554,17:40:00,17:40:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292554,17:41:00,17:41:10,stop_point:SP_49,Capelles,9
+2292554,17:42:00,17:42:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292554,17:42:00,17:42:10,stop_point:SP_660,Gare de Lardenne,11
+2292554,17:43:00,17:43:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292554,17:44:00,17:44:10,stop_point:SP_3812,Salinié,13
+2292554,17:44:00,17:44:10,stop_point:SP_3502,Poutier,14
+2292554,17:45:00,17:45:10,stop_point:SP_4861,Lardenne,15
+2292554,17:46:00,17:46:10,stop_point:SP_4859,Ferro Lebres,16
+2292554,17:47:00,17:47:10,stop_point:SP_4855,Zamenhof,17
+2292554,17:48:00,17:48:10,stop_point:SP_1629,Corneillan,18
+2292554,17:49:00,17:49:10,stop_point:SP_161,Mazaygues,19
+2292554,17:50:00,17:50:10,stop_point:SP_1492,Villèle,20
+2292554,17:51:00,17:51:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292554,17:52:00,17:52:10,stop_point:SP_3103,Bordeblanche,22
+2292554,17:53:00,17:53:10,stop_point:SP_418,Pradettes,23
+2292554,17:54:00,17:54:10,stop_point:SP_2683,Passerieu,24
+2292554,17:55:00,17:55:10,stop_point:SP_2548,Ecole Espagnole,25
+2292554,17:58:00,17:58:10,stop_point:SP_4009,Basso Cambo,26
+2292555,18:00:00,18:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292555,18:01:00,18:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292555,18:03:00,18:03:10,stop_point:SP_214,Arènes Romaines,3
+2292555,18:04:00,18:04:10,stop_point:SP_2466,Ancely,4
+2292555,18:06:00,18:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292555,18:07:00,18:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292555,18:08:00,18:08:10,stop_point:SP_1452,Flambère,7
+2292555,18:10:00,18:10:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292555,18:11:00,18:11:10,stop_point:SP_49,Capelles,9
+2292555,18:12:00,18:12:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292555,18:12:00,18:12:10,stop_point:SP_660,Gare de Lardenne,11
+2292555,18:13:00,18:13:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292555,18:14:00,18:14:10,stop_point:SP_3812,Salinié,13
+2292555,18:14:00,18:14:10,stop_point:SP_3502,Poutier,14
+2292555,18:15:00,18:15:10,stop_point:SP_4861,Lardenne,15
+2292555,18:16:00,18:16:10,stop_point:SP_4859,Ferro Lebres,16
+2292555,18:17:00,18:17:10,stop_point:SP_4855,Zamenhof,17
+2292555,18:18:00,18:18:10,stop_point:SP_1629,Corneillan,18
+2292555,18:19:00,18:19:10,stop_point:SP_161,Mazaygues,19
+2292555,18:20:00,18:20:10,stop_point:SP_1492,Villèle,20
+2292555,18:21:00,18:21:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292555,18:22:00,18:22:10,stop_point:SP_3103,Bordeblanche,22
+2292555,18:23:00,18:23:10,stop_point:SP_418,Pradettes,23
+2292555,18:24:00,18:24:10,stop_point:SP_2683,Passerieu,24
+2292555,18:25:00,18:25:10,stop_point:SP_2548,Ecole Espagnole,25
+2292555,18:28:00,18:28:10,stop_point:SP_4009,Basso Cambo,26
+2292556,18:35:00,18:35:10,stop_point:SP_1319,Pelletier Purpan,1
+2292556,18:36:00,18:36:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292556,18:38:00,18:38:10,stop_point:SP_214,Arènes Romaines,3
+2292556,18:39:00,18:39:10,stop_point:SP_2466,Ancely,4
+2292556,18:41:00,18:41:10,stop_point:SP_1137,Carlos Gardel,5
+2292556,18:42:00,18:42:10,stop_point:SP_927,Jaufré Rudel,6
+2292556,18:43:00,18:43:10,stop_point:SP_1452,Flambère,7
+2292556,18:45:00,18:45:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292556,18:46:00,18:46:10,stop_point:SP_49,Capelles,9
+2292556,18:47:00,18:47:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292556,18:47:00,18:47:10,stop_point:SP_660,Gare de Lardenne,11
+2292556,18:48:00,18:48:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292556,18:49:00,18:49:10,stop_point:SP_3812,Salinié,13
+2292556,18:49:00,18:49:10,stop_point:SP_3502,Poutier,14
+2292556,18:50:00,18:50:10,stop_point:SP_4861,Lardenne,15
+2292556,18:51:00,18:51:10,stop_point:SP_4859,Ferro Lebres,16
+2292556,18:52:00,18:52:10,stop_point:SP_4855,Zamenhof,17
+2292556,18:53:00,18:53:10,stop_point:SP_1629,Corneillan,18
+2292556,18:54:00,18:54:10,stop_point:SP_161,Mazaygues,19
+2292556,18:55:00,18:55:10,stop_point:SP_1492,Villèle,20
+2292556,18:56:00,18:56:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292556,18:57:00,18:57:10,stop_point:SP_3103,Bordeblanche,22
+2292556,18:58:00,18:58:10,stop_point:SP_418,Pradettes,23
+2292556,18:59:00,18:59:10,stop_point:SP_2683,Passerieu,24
+2292556,19:00:00,19:00:10,stop_point:SP_2548,Ecole Espagnole,25
+2292556,19:03:00,19:03:10,stop_point:SP_4009,Basso Cambo,26
+2292557,19:10:00,19:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292557,19:11:00,19:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292557,19:13:00,19:13:10,stop_point:SP_214,Arènes Romaines,3
+2292557,19:14:00,19:14:10,stop_point:SP_2466,Ancely,4
+2292557,19:16:00,19:16:10,stop_point:SP_1137,Carlos Gardel,5
+2292557,19:17:00,19:17:10,stop_point:SP_927,Jaufré Rudel,6
+2292557,19:17:00,19:17:10,stop_point:SP_1452,Flambère,7
+2292557,19:19:00,19:19:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292557,19:20:00,19:20:10,stop_point:SP_49,Capelles,9
+2292557,19:21:00,19:21:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292557,19:21:00,19:21:10,stop_point:SP_660,Gare de Lardenne,11
+2292557,19:22:00,19:22:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292557,19:23:00,19:23:10,stop_point:SP_3812,Salinié,13
+2292557,19:23:00,19:23:10,stop_point:SP_3502,Poutier,14
+2292557,19:24:00,19:24:10,stop_point:SP_4861,Lardenne,15
+2292557,19:25:00,19:25:10,stop_point:SP_4859,Ferro Lebres,16
+2292557,19:26:00,19:26:10,stop_point:SP_4855,Zamenhof,17
+2292557,19:27:00,19:27:10,stop_point:SP_1629,Corneillan,18
+2292557,19:28:00,19:28:10,stop_point:SP_161,Mazaygues,19
+2292557,19:29:00,19:29:10,stop_point:SP_1492,Villèle,20
+2292557,19:29:00,19:29:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292557,19:30:00,19:30:10,stop_point:SP_3103,Bordeblanche,22
+2292557,19:31:00,19:31:10,stop_point:SP_418,Pradettes,23
+2292557,19:32:00,19:32:10,stop_point:SP_2683,Passerieu,24
+2292557,19:33:00,19:33:10,stop_point:SP_2548,Ecole Espagnole,25
+2292557,19:36:00,19:36:10,stop_point:SP_4009,Basso Cambo,26
+2292558,19:50:00,19:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292558,19:51:00,19:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292558,19:53:00,19:53:10,stop_point:SP_214,Arènes Romaines,3
+2292558,19:54:00,19:54:10,stop_point:SP_2466,Ancely,4
+2292558,19:56:00,19:56:10,stop_point:SP_1137,Carlos Gardel,5
+2292558,19:57:00,19:57:10,stop_point:SP_927,Jaufré Rudel,6
+2292558,19:57:00,19:57:10,stop_point:SP_1452,Flambère,7
+2292558,19:59:00,19:59:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292558,20:00:00,20:00:10,stop_point:SP_49,Capelles,9
+2292558,20:01:00,20:01:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292558,20:01:00,20:01:10,stop_point:SP_660,Gare de Lardenne,11
+2292558,20:02:00,20:02:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292558,20:03:00,20:03:10,stop_point:SP_3812,Salinié,13
+2292558,20:03:00,20:03:10,stop_point:SP_3502,Poutier,14
+2292558,20:04:00,20:04:10,stop_point:SP_4861,Lardenne,15
+2292558,20:05:00,20:05:10,stop_point:SP_4859,Ferro Lebres,16
+2292558,20:06:00,20:06:10,stop_point:SP_4855,Zamenhof,17
+2292558,20:07:00,20:07:10,stop_point:SP_1629,Corneillan,18
+2292558,20:08:00,20:08:10,stop_point:SP_161,Mazaygues,19
+2292558,20:09:00,20:09:10,stop_point:SP_1492,Villèle,20
+2292558,20:09:00,20:09:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292558,20:10:00,20:10:10,stop_point:SP_3103,Bordeblanche,22
+2292558,20:11:00,20:11:10,stop_point:SP_418,Pradettes,23
+2292558,20:12:00,20:12:10,stop_point:SP_2683,Passerieu,24
+2292558,20:13:00,20:13:10,stop_point:SP_2548,Ecole Espagnole,25
+2292558,20:16:00,20:16:10,stop_point:SP_4009,Basso Cambo,26
+2292559,20:30:00,20:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292559,20:31:00,20:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292559,20:33:00,20:33:10,stop_point:SP_214,Arènes Romaines,3
+2292559,20:34:00,20:34:10,stop_point:SP_2466,Ancely,4
+2292559,20:36:00,20:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292559,20:37:00,20:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292559,20:37:00,20:37:10,stop_point:SP_1452,Flambère,7
+2292559,20:39:00,20:39:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292559,20:40:00,20:40:10,stop_point:SP_49,Capelles,9
+2292559,20:41:00,20:41:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292559,20:41:00,20:41:10,stop_point:SP_660,Gare de Lardenne,11
+2292559,20:42:00,20:42:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292559,20:43:00,20:43:10,stop_point:SP_3812,Salinié,13
+2292559,20:43:00,20:43:10,stop_point:SP_3502,Poutier,14
+2292559,20:44:00,20:44:10,stop_point:SP_4861,Lardenne,15
+2292559,20:45:00,20:45:10,stop_point:SP_4859,Ferro Lebres,16
+2292559,20:45:00,20:45:10,stop_point:SP_4855,Zamenhof,17
+2292559,20:47:00,20:47:10,stop_point:SP_1629,Corneillan,18
+2292559,20:47:00,20:47:10,stop_point:SP_161,Mazaygues,19
+2292559,20:48:00,20:48:10,stop_point:SP_1492,Villèle,20
+2292559,20:48:00,20:48:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292559,20:49:00,20:49:10,stop_point:SP_3103,Bordeblanche,22
+2292559,20:50:00,20:50:10,stop_point:SP_418,Pradettes,23
+2292559,20:51:00,20:51:10,stop_point:SP_2683,Passerieu,24
+2292559,20:52:00,20:52:10,stop_point:SP_2548,Ecole Espagnole,25
+2292559,20:55:00,20:55:10,stop_point:SP_4009,Basso Cambo,26
+2292560,05:55:00,05:55:10,stop_point:SP_4009,Basso Cambo,1
+2292560,05:57:00,05:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292560,05:58:00,05:58:10,stop_point:SP_2513,Passerieu,3
+2292560,05:58:00,05:58:10,stop_point:SP_3683,Pradettes,4
+2292560,05:59:00,05:59:10,stop_point:SP_3071,Bordeblanche,5
+2292560,06:00:00,06:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292560,06:01:00,06:01:10,stop_point:SP_898,Villèle,7
+2292560,06:01:00,06:01:10,stop_point:SP_3117,Mazaygues,8
+2292560,06:02:00,06:02:10,stop_point:SP_1622,Corneillan,9
+2292560,06:03:00,06:03:10,stop_point:SP_4857,Zamenhof,10
+2292560,06:04:00,06:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292560,06:05:00,06:05:10,stop_point:SP_4856,Lardenne,12
+2292560,06:05:00,06:05:10,stop_point:SP_723,Poutier,13
+2292560,06:06:00,06:06:10,stop_point:SP_442,Salinié,14
+2292560,06:07:00,06:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292560,06:07:00,06:07:10,stop_point:SP_3164,Gare de Lardenne,16
+2292560,06:07:00,06:07:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292560,06:08:00,06:08:10,stop_point:SP_360,Capelles,18
+2292560,06:09:00,06:09:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292560,06:10:00,06:10:10,stop_point:SP_3643,Flambère,20
+2292560,06:11:00,06:11:10,stop_point:SP_3454,Jaufré Rudel,21
+2292560,06:12:00,06:12:10,stop_point:SP_771,Carlos Gardel,22
+2292560,06:13:00,06:13:10,stop_point:SP_2185,Ancely,23
+2292560,06:14:00,06:14:10,stop_point:SP_1198,Arènes Romaines,24
+2292560,06:15:00,06:15:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292560,06:16:00,06:16:10,stop_point:SP_1319,Pelletier Purpan,26
+2292561,06:30:00,06:30:10,stop_point:SP_4009,Basso Cambo,1
+2292561,06:32:00,06:32:10,stop_point:SP_2306,Ecole Espagnole,2
+2292561,06:33:00,06:33:10,stop_point:SP_2513,Passerieu,3
+2292561,06:33:00,06:33:10,stop_point:SP_3683,Pradettes,4
+2292561,06:34:00,06:34:10,stop_point:SP_3071,Bordeblanche,5
+2292561,06:35:00,06:35:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292561,06:36:00,06:36:10,stop_point:SP_898,Villèle,7
+2292561,06:36:00,06:36:10,stop_point:SP_3117,Mazaygues,8
+2292561,06:37:00,06:37:10,stop_point:SP_1622,Corneillan,9
+2292561,06:38:00,06:38:10,stop_point:SP_4857,Zamenhof,10
+2292561,06:39:00,06:39:10,stop_point:SP_4858,Ferro Lebres,11
+2292561,06:40:00,06:40:10,stop_point:SP_4856,Lardenne,12
+2292561,06:40:00,06:40:10,stop_point:SP_723,Poutier,13
+2292561,06:41:00,06:41:10,stop_point:SP_442,Salinié,14
+2292561,06:42:00,06:42:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292561,06:42:00,06:42:10,stop_point:SP_3164,Gare de Lardenne,16
+2292561,06:42:00,06:42:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292561,06:43:00,06:43:10,stop_point:SP_360,Capelles,18
+2292561,06:44:00,06:44:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292561,06:45:00,06:45:10,stop_point:SP_3643,Flambère,20
+2292561,06:46:00,06:46:10,stop_point:SP_3454,Jaufré Rudel,21
+2292561,06:47:00,06:47:10,stop_point:SP_771,Carlos Gardel,22
+2292561,06:48:00,06:48:10,stop_point:SP_2185,Ancely,23
+2292561,06:49:00,06:49:10,stop_point:SP_1198,Arènes Romaines,24
+2292561,06:50:00,06:50:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292561,06:51:00,06:51:10,stop_point:SP_1319,Pelletier Purpan,26
+2292562,06:55:00,06:55:10,stop_point:SP_4009,Basso Cambo,1
+2292562,06:57:00,06:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292562,06:58:00,06:58:10,stop_point:SP_2513,Passerieu,3
+2292562,06:58:00,06:58:10,stop_point:SP_3683,Pradettes,4
+2292562,06:59:00,06:59:10,stop_point:SP_3071,Bordeblanche,5
+2292562,07:00:00,07:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292562,07:01:00,07:01:10,stop_point:SP_898,Villèle,7
+2292562,07:01:00,07:01:10,stop_point:SP_3117,Mazaygues,8
+2292562,07:02:00,07:02:10,stop_point:SP_1622,Corneillan,9
+2292562,07:03:00,07:03:10,stop_point:SP_4857,Zamenhof,10
+2292562,07:04:00,07:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292562,07:05:00,07:05:10,stop_point:SP_4856,Lardenne,12
+2292562,07:05:00,07:05:10,stop_point:SP_723,Poutier,13
+2292562,07:06:00,07:06:10,stop_point:SP_442,Salinié,14
+2292562,07:07:00,07:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292562,07:08:00,07:08:10,stop_point:SP_3164,Gare de Lardenne,16
+2292562,07:08:00,07:08:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292562,07:09:00,07:09:10,stop_point:SP_360,Capelles,18
+2292562,07:10:00,07:10:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292562,07:11:00,07:11:10,stop_point:SP_3643,Flambère,20
+2292562,07:13:00,07:13:10,stop_point:SP_3454,Jaufré Rudel,21
+2292562,07:14:00,07:14:10,stop_point:SP_771,Carlos Gardel,22
+2292562,07:15:00,07:15:10,stop_point:SP_2185,Ancely,23
+2292562,07:16:00,07:16:10,stop_point:SP_1198,Arènes Romaines,24
+2292562,07:17:00,07:17:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292562,07:18:00,07:18:10,stop_point:SP_1319,Pelletier Purpan,26
+2292563,07:15:00,07:15:10,stop_point:SP_4009,Basso Cambo,1
+2292563,07:17:00,07:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292563,07:19:00,07:19:10,stop_point:SP_2513,Passerieu,3
+2292563,07:19:00,07:19:10,stop_point:SP_3683,Pradettes,4
+2292563,07:20:00,07:20:10,stop_point:SP_3071,Bordeblanche,5
+2292563,07:21:00,07:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292563,07:22:00,07:22:10,stop_point:SP_898,Villèle,7
+2292563,07:23:00,07:23:10,stop_point:SP_3117,Mazaygues,8
+2292563,07:24:00,07:24:10,stop_point:SP_1622,Corneillan,9
+2292563,07:25:00,07:25:10,stop_point:SP_4857,Zamenhof,10
+2292563,07:26:00,07:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292563,07:27:00,07:27:10,stop_point:SP_4856,Lardenne,12
+2292563,07:27:00,07:27:10,stop_point:SP_723,Poutier,13
+2292563,07:28:00,07:28:10,stop_point:SP_442,Salinié,14
+2292563,07:29:00,07:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292563,07:30:00,07:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292563,07:30:00,07:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292563,07:31:00,07:31:10,stop_point:SP_360,Capelles,18
+2292563,07:32:00,07:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292563,07:33:00,07:33:10,stop_point:SP_3643,Flambère,20
+2292563,07:35:00,07:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292563,07:36:00,07:36:10,stop_point:SP_771,Carlos Gardel,22
+2292563,07:37:00,07:37:10,stop_point:SP_2185,Ancely,23
+2292563,07:38:00,07:38:10,stop_point:SP_1198,Arènes Romaines,24
+2292563,07:39:00,07:39:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292563,07:40:00,07:40:10,stop_point:SP_1319,Pelletier Purpan,26
+2292564,07:35:00,07:35:10,stop_point:SP_4009,Basso Cambo,1
+2292564,07:37:00,07:37:10,stop_point:SP_2306,Ecole Espagnole,2
+2292564,07:39:00,07:39:10,stop_point:SP_2513,Passerieu,3
+2292564,07:39:00,07:39:10,stop_point:SP_3683,Pradettes,4
+2292564,07:40:00,07:40:10,stop_point:SP_3071,Bordeblanche,5
+2292564,07:41:00,07:41:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292564,07:42:00,07:42:10,stop_point:SP_898,Villèle,7
+2292564,07:43:00,07:43:10,stop_point:SP_3117,Mazaygues,8
+2292564,07:44:00,07:44:10,stop_point:SP_1622,Corneillan,9
+2292564,07:45:00,07:45:10,stop_point:SP_4857,Zamenhof,10
+2292564,07:46:00,07:46:10,stop_point:SP_4858,Ferro Lebres,11
+2292564,07:47:00,07:47:10,stop_point:SP_4856,Lardenne,12
+2292564,07:47:00,07:47:10,stop_point:SP_723,Poutier,13
+2292564,07:48:00,07:48:10,stop_point:SP_442,Salinié,14
+2292564,07:49:00,07:49:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292564,07:50:00,07:50:10,stop_point:SP_3164,Gare de Lardenne,16
+2292564,07:51:00,07:51:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292564,07:52:00,07:52:10,stop_point:SP_360,Capelles,18
+2292564,07:53:00,07:53:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292564,07:54:00,07:54:10,stop_point:SP_3643,Flambère,20
+2292564,07:56:00,07:56:10,stop_point:SP_3454,Jaufré Rudel,21
+2292564,07:57:00,07:57:10,stop_point:SP_771,Carlos Gardel,22
+2292564,07:58:00,07:58:10,stop_point:SP_2185,Ancely,23
+2292564,07:59:00,07:59:10,stop_point:SP_1198,Arènes Romaines,24
+2292564,08:00:00,08:00:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292564,08:01:00,08:01:10,stop_point:SP_1319,Pelletier Purpan,26
+2292565,07:55:00,07:55:10,stop_point:SP_4009,Basso Cambo,1
+2292565,07:57:00,07:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292565,07:59:00,07:59:10,stop_point:SP_2513,Passerieu,3
+2292565,07:59:00,07:59:10,stop_point:SP_3683,Pradettes,4
+2292565,08:00:00,08:00:10,stop_point:SP_3071,Bordeblanche,5
+2292565,08:01:00,08:01:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292565,08:02:00,08:02:10,stop_point:SP_898,Villèle,7
+2292565,08:03:00,08:03:10,stop_point:SP_3117,Mazaygues,8
+2292565,08:04:00,08:04:10,stop_point:SP_1622,Corneillan,9
+2292565,08:06:00,08:06:10,stop_point:SP_4857,Zamenhof,10
+2292565,08:07:00,08:07:10,stop_point:SP_4858,Ferro Lebres,11
+2292565,08:08:00,08:08:10,stop_point:SP_4856,Lardenne,12
+2292565,08:08:00,08:08:10,stop_point:SP_723,Poutier,13
+2292565,08:09:00,08:09:10,stop_point:SP_442,Salinié,14
+2292565,08:10:00,08:10:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292565,08:11:00,08:11:10,stop_point:SP_3164,Gare de Lardenne,16
+2292565,08:12:00,08:12:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292565,08:13:00,08:13:10,stop_point:SP_360,Capelles,18
+2292565,08:14:00,08:14:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292565,08:15:00,08:15:10,stop_point:SP_3643,Flambère,20
+2292565,08:17:00,08:17:10,stop_point:SP_3454,Jaufré Rudel,21
+2292565,08:18:00,08:18:10,stop_point:SP_771,Carlos Gardel,22
+2292565,08:19:00,08:19:10,stop_point:SP_2185,Ancely,23
+2292565,08:21:00,08:21:10,stop_point:SP_1198,Arènes Romaines,24
+2292565,08:22:00,08:22:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292565,08:23:00,08:23:10,stop_point:SP_1319,Pelletier Purpan,26
+2292566,08:15:00,08:15:10,stop_point:SP_4009,Basso Cambo,1
+2292566,08:17:00,08:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292566,08:19:00,08:19:10,stop_point:SP_2513,Passerieu,3
+2292566,08:19:00,08:19:10,stop_point:SP_3683,Pradettes,4
+2292566,08:20:00,08:20:10,stop_point:SP_3071,Bordeblanche,5
+2292566,08:21:00,08:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292566,08:22:00,08:22:10,stop_point:SP_898,Villèle,7
+2292566,08:23:00,08:23:10,stop_point:SP_3117,Mazaygues,8
+2292566,08:24:00,08:24:10,stop_point:SP_1622,Corneillan,9
+2292566,08:26:00,08:26:10,stop_point:SP_4857,Zamenhof,10
+2292566,08:27:00,08:27:10,stop_point:SP_4858,Ferro Lebres,11
+2292566,08:28:00,08:28:10,stop_point:SP_4856,Lardenne,12
+2292566,08:29:00,08:29:10,stop_point:SP_723,Poutier,13
+2292566,08:30:00,08:30:10,stop_point:SP_442,Salinié,14
+2292566,08:31:00,08:31:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292566,08:32:00,08:32:10,stop_point:SP_3164,Gare de Lardenne,16
+2292566,08:33:00,08:33:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292566,08:34:00,08:34:10,stop_point:SP_360,Capelles,18
+2292566,08:36:00,08:36:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292566,08:37:00,08:37:10,stop_point:SP_3643,Flambère,20
+2292566,08:39:00,08:39:10,stop_point:SP_3454,Jaufré Rudel,21
+2292566,08:40:00,08:40:10,stop_point:SP_771,Carlos Gardel,22
+2292566,08:41:00,08:41:10,stop_point:SP_2185,Ancely,23
+2292566,08:43:00,08:43:10,stop_point:SP_1198,Arènes Romaines,24
+2292566,08:44:00,08:44:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292566,08:45:00,08:45:10,stop_point:SP_1319,Pelletier Purpan,26
+2292567,08:35:00,08:35:10,stop_point:SP_4009,Basso Cambo,1
+2292567,08:37:00,08:37:10,stop_point:SP_2306,Ecole Espagnole,2
+2292567,08:39:00,08:39:10,stop_point:SP_2513,Passerieu,3
+2292567,08:39:00,08:39:10,stop_point:SP_3683,Pradettes,4
+2292567,08:40:00,08:40:10,stop_point:SP_3071,Bordeblanche,5
+2292567,08:41:00,08:41:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292567,08:42:00,08:42:10,stop_point:SP_898,Villèle,7
+2292567,08:43:00,08:43:10,stop_point:SP_3117,Mazaygues,8
+2292567,08:44:00,08:44:10,stop_point:SP_1622,Corneillan,9
+2292567,08:46:00,08:46:10,stop_point:SP_4857,Zamenhof,10
+2292567,08:47:00,08:47:10,stop_point:SP_4858,Ferro Lebres,11
+2292567,08:48:00,08:48:10,stop_point:SP_4856,Lardenne,12
+2292567,08:49:00,08:49:10,stop_point:SP_723,Poutier,13
+2292567,08:50:00,08:50:10,stop_point:SP_442,Salinié,14
+2292567,08:51:00,08:51:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292567,08:52:00,08:52:10,stop_point:SP_3164,Gare de Lardenne,16
+2292567,08:52:00,08:52:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292567,08:53:00,08:53:10,stop_point:SP_360,Capelles,18
+2292567,08:55:00,08:55:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292567,08:56:00,08:56:10,stop_point:SP_3643,Flambère,20
+2292567,08:58:00,08:58:10,stop_point:SP_3454,Jaufré Rudel,21
+2292567,08:59:00,08:59:10,stop_point:SP_771,Carlos Gardel,22
+2292567,09:00:00,09:00:10,stop_point:SP_2185,Ancely,23
+2292567,09:02:00,09:02:10,stop_point:SP_1198,Arènes Romaines,24
+2292567,09:03:00,09:03:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292567,09:04:00,09:04:10,stop_point:SP_1319,Pelletier Purpan,26
+2292568,08:55:00,08:55:10,stop_point:SP_4009,Basso Cambo,1
+2292568,08:57:00,08:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292568,08:59:00,08:59:10,stop_point:SP_2513,Passerieu,3
+2292568,08:59:00,08:59:10,stop_point:SP_3683,Pradettes,4
+2292568,09:00:00,09:00:10,stop_point:SP_3071,Bordeblanche,5
+2292568,09:01:00,09:01:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292568,09:02:00,09:02:10,stop_point:SP_898,Villèle,7
+2292568,09:03:00,09:03:10,stop_point:SP_3117,Mazaygues,8
+2292568,09:04:00,09:04:10,stop_point:SP_1622,Corneillan,9
+2292568,09:05:00,09:05:10,stop_point:SP_4857,Zamenhof,10
+2292568,09:06:00,09:06:10,stop_point:SP_4858,Ferro Lebres,11
+2292568,09:07:00,09:07:10,stop_point:SP_4856,Lardenne,12
+2292568,09:07:00,09:07:10,stop_point:SP_723,Poutier,13
+2292568,09:08:00,09:08:10,stop_point:SP_442,Salinié,14
+2292568,09:09:00,09:09:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292568,09:10:00,09:10:10,stop_point:SP_3164,Gare de Lardenne,16
+2292568,09:11:00,09:11:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292568,09:12:00,09:12:10,stop_point:SP_360,Capelles,18
+2292568,09:13:00,09:13:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292568,09:14:00,09:14:10,stop_point:SP_3643,Flambère,20
+2292568,09:16:00,09:16:10,stop_point:SP_3454,Jaufré Rudel,21
+2292568,09:17:00,09:17:10,stop_point:SP_771,Carlos Gardel,22
+2292568,09:18:00,09:18:10,stop_point:SP_2185,Ancely,23
+2292568,09:20:00,09:20:10,stop_point:SP_1198,Arènes Romaines,24
+2292568,09:21:00,09:21:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292568,09:22:00,09:22:10,stop_point:SP_1319,Pelletier Purpan,26
+2292569,09:15:00,09:15:10,stop_point:SP_4009,Basso Cambo,1
+2292569,09:17:00,09:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292569,09:19:00,09:19:10,stop_point:SP_2513,Passerieu,3
+2292569,09:19:00,09:19:10,stop_point:SP_3683,Pradettes,4
+2292569,09:20:00,09:20:10,stop_point:SP_3071,Bordeblanche,5
+2292569,09:21:00,09:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292569,09:22:00,09:22:10,stop_point:SP_898,Villèle,7
+2292569,09:23:00,09:23:10,stop_point:SP_3117,Mazaygues,8
+2292569,09:24:00,09:24:10,stop_point:SP_1622,Corneillan,9
+2292569,09:25:00,09:25:10,stop_point:SP_4857,Zamenhof,10
+2292569,09:26:00,09:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292569,09:27:00,09:27:10,stop_point:SP_4856,Lardenne,12
+2292569,09:27:00,09:27:10,stop_point:SP_723,Poutier,13
+2292569,09:28:00,09:28:10,stop_point:SP_442,Salinié,14
+2292569,09:29:00,09:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292569,09:30:00,09:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292569,09:30:00,09:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292569,09:31:00,09:31:10,stop_point:SP_360,Capelles,18
+2292569,09:32:00,09:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292569,09:33:00,09:33:10,stop_point:SP_3643,Flambère,20
+2292569,09:35:00,09:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292569,09:36:00,09:36:10,stop_point:SP_771,Carlos Gardel,22
+2292569,09:37:00,09:37:10,stop_point:SP_2185,Ancely,23
+2292569,09:39:00,09:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292569,09:40:00,09:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292569,09:41:00,09:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292570,09:45:00,09:45:10,stop_point:SP_4009,Basso Cambo,1
+2292570,09:47:00,09:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292570,09:49:00,09:49:10,stop_point:SP_2513,Passerieu,3
+2292570,09:49:00,09:49:10,stop_point:SP_3683,Pradettes,4
+2292570,09:50:00,09:50:10,stop_point:SP_3071,Bordeblanche,5
+2292570,09:51:00,09:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292570,09:52:00,09:52:10,stop_point:SP_898,Villèle,7
+2292570,09:53:00,09:53:10,stop_point:SP_3117,Mazaygues,8
+2292570,09:54:00,09:54:10,stop_point:SP_1622,Corneillan,9
+2292570,09:55:00,09:55:10,stop_point:SP_4857,Zamenhof,10
+2292570,09:56:00,09:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292570,09:57:00,09:57:10,stop_point:SP_4856,Lardenne,12
+2292570,09:57:00,09:57:10,stop_point:SP_723,Poutier,13
+2292570,09:58:00,09:58:10,stop_point:SP_442,Salinié,14
+2292570,09:59:00,09:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292570,10:00:00,10:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292570,10:00:00,10:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292570,10:01:00,10:01:10,stop_point:SP_360,Capelles,18
+2292570,10:02:00,10:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292570,10:03:00,10:03:10,stop_point:SP_3643,Flambère,20
+2292570,10:05:00,10:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292570,10:06:00,10:06:10,stop_point:SP_771,Carlos Gardel,22
+2292570,10:07:00,10:07:10,stop_point:SP_2185,Ancely,23
+2292570,10:09:00,10:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292570,10:10:00,10:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292570,10:11:00,10:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292571,10:15:00,10:15:10,stop_point:SP_4009,Basso Cambo,1
+2292571,10:17:00,10:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292571,10:19:00,10:19:10,stop_point:SP_2513,Passerieu,3
+2292571,10:19:00,10:19:10,stop_point:SP_3683,Pradettes,4
+2292571,10:20:00,10:20:10,stop_point:SP_3071,Bordeblanche,5
+2292571,10:21:00,10:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292571,10:22:00,10:22:10,stop_point:SP_898,Villèle,7
+2292571,10:23:00,10:23:10,stop_point:SP_3117,Mazaygues,8
+2292571,10:24:00,10:24:10,stop_point:SP_1622,Corneillan,9
+2292571,10:25:00,10:25:10,stop_point:SP_4857,Zamenhof,10
+2292571,10:26:00,10:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292571,10:27:00,10:27:10,stop_point:SP_4856,Lardenne,12
+2292571,10:27:00,10:27:10,stop_point:SP_723,Poutier,13
+2292571,10:28:00,10:28:10,stop_point:SP_442,Salinié,14
+2292571,10:29:00,10:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292571,10:30:00,10:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292571,10:30:00,10:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292571,10:31:00,10:31:10,stop_point:SP_360,Capelles,18
+2292571,10:32:00,10:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292571,10:33:00,10:33:10,stop_point:SP_3643,Flambère,20
+2292571,10:35:00,10:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292571,10:36:00,10:36:10,stop_point:SP_771,Carlos Gardel,22
+2292571,10:37:00,10:37:10,stop_point:SP_2185,Ancely,23
+2292571,10:39:00,10:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292571,10:40:00,10:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292571,10:41:00,10:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292572,10:45:00,10:45:10,stop_point:SP_4009,Basso Cambo,1
+2292572,10:47:00,10:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292572,10:49:00,10:49:10,stop_point:SP_2513,Passerieu,3
+2292572,10:49:00,10:49:10,stop_point:SP_3683,Pradettes,4
+2292572,10:50:00,10:50:10,stop_point:SP_3071,Bordeblanche,5
+2292572,10:51:00,10:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292572,10:52:00,10:52:10,stop_point:SP_898,Villèle,7
+2292572,10:53:00,10:53:10,stop_point:SP_3117,Mazaygues,8
+2292572,10:54:00,10:54:10,stop_point:SP_1622,Corneillan,9
+2292572,10:55:00,10:55:10,stop_point:SP_4857,Zamenhof,10
+2292572,10:56:00,10:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292572,10:57:00,10:57:10,stop_point:SP_4856,Lardenne,12
+2292572,10:57:00,10:57:10,stop_point:SP_723,Poutier,13
+2292572,10:58:00,10:58:10,stop_point:SP_442,Salinié,14
+2292572,10:59:00,10:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292572,11:00:00,11:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292572,11:00:00,11:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292572,11:01:00,11:01:10,stop_point:SP_360,Capelles,18
+2292572,11:02:00,11:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292572,11:03:00,11:03:10,stop_point:SP_3643,Flambère,20
+2292572,11:05:00,11:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292572,11:06:00,11:06:10,stop_point:SP_771,Carlos Gardel,22
+2292572,11:07:00,11:07:10,stop_point:SP_2185,Ancely,23
+2292572,11:09:00,11:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292572,11:10:00,11:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292572,11:11:00,11:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292573,11:15:00,11:15:10,stop_point:SP_4009,Basso Cambo,1
+2292573,11:17:00,11:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292573,11:19:00,11:19:10,stop_point:SP_2513,Passerieu,3
+2292573,11:19:00,11:19:10,stop_point:SP_3683,Pradettes,4
+2292573,11:20:00,11:20:10,stop_point:SP_3071,Bordeblanche,5
+2292573,11:21:00,11:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292573,11:22:00,11:22:10,stop_point:SP_898,Villèle,7
+2292573,11:23:00,11:23:10,stop_point:SP_3117,Mazaygues,8
+2292573,11:24:00,11:24:10,stop_point:SP_1622,Corneillan,9
+2292573,11:25:00,11:25:10,stop_point:SP_4857,Zamenhof,10
+2292573,11:26:00,11:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292573,11:27:00,11:27:10,stop_point:SP_4856,Lardenne,12
+2292573,11:27:00,11:27:10,stop_point:SP_723,Poutier,13
+2292573,11:28:00,11:28:10,stop_point:SP_442,Salinié,14
+2292573,11:29:00,11:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292573,11:30:00,11:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292573,11:30:00,11:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292573,11:31:00,11:31:10,stop_point:SP_360,Capelles,18
+2292573,11:32:00,11:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292573,11:33:00,11:33:10,stop_point:SP_3643,Flambère,20
+2292573,11:35:00,11:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292573,11:36:00,11:36:10,stop_point:SP_771,Carlos Gardel,22
+2292573,11:37:00,11:37:10,stop_point:SP_2185,Ancely,23
+2292573,11:39:00,11:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292573,11:40:00,11:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292573,11:41:00,11:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292574,11:45:00,11:45:10,stop_point:SP_4009,Basso Cambo,1
+2292574,11:47:00,11:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292574,11:49:00,11:49:10,stop_point:SP_2513,Passerieu,3
+2292574,11:49:00,11:49:10,stop_point:SP_3683,Pradettes,4
+2292574,11:50:00,11:50:10,stop_point:SP_3071,Bordeblanche,5
+2292574,11:51:00,11:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292574,11:52:00,11:52:10,stop_point:SP_898,Villèle,7
+2292574,11:53:00,11:53:10,stop_point:SP_3117,Mazaygues,8
+2292574,11:54:00,11:54:10,stop_point:SP_1622,Corneillan,9
+2292574,11:55:00,11:55:10,stop_point:SP_4857,Zamenhof,10
+2292574,11:56:00,11:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292574,11:57:00,11:57:10,stop_point:SP_4856,Lardenne,12
+2292574,11:57:00,11:57:10,stop_point:SP_723,Poutier,13
+2292574,11:58:00,11:58:10,stop_point:SP_442,Salinié,14
+2292574,11:59:00,11:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292574,12:00:00,12:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292574,12:00:00,12:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292574,12:01:00,12:01:10,stop_point:SP_360,Capelles,18
+2292574,12:02:00,12:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292574,12:03:00,12:03:10,stop_point:SP_3643,Flambère,20
+2292574,12:05:00,12:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292574,12:06:00,12:06:10,stop_point:SP_771,Carlos Gardel,22
+2292574,12:07:00,12:07:10,stop_point:SP_2185,Ancely,23
+2292574,12:09:00,12:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292574,12:10:00,12:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292574,12:11:00,12:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292575,12:15:00,12:15:10,stop_point:SP_4009,Basso Cambo,1
+2292575,12:17:00,12:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292575,12:19:00,12:19:10,stop_point:SP_2513,Passerieu,3
+2292575,12:19:00,12:19:10,stop_point:SP_3683,Pradettes,4
+2292575,12:20:00,12:20:10,stop_point:SP_3071,Bordeblanche,5
+2292575,12:21:00,12:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292575,12:22:00,12:22:10,stop_point:SP_898,Villèle,7
+2292575,12:23:00,12:23:10,stop_point:SP_3117,Mazaygues,8
+2292575,12:24:00,12:24:10,stop_point:SP_1622,Corneillan,9
+2292575,12:25:00,12:25:10,stop_point:SP_4857,Zamenhof,10
+2292575,12:26:00,12:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292575,12:27:00,12:27:10,stop_point:SP_4856,Lardenne,12
+2292575,12:27:00,12:27:10,stop_point:SP_723,Poutier,13
+2292575,12:28:00,12:28:10,stop_point:SP_442,Salinié,14
+2292575,12:29:00,12:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292575,12:30:00,12:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292575,12:30:00,12:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292575,12:31:00,12:31:10,stop_point:SP_360,Capelles,18
+2292575,12:32:00,12:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292575,12:33:00,12:33:10,stop_point:SP_3643,Flambère,20
+2292575,12:35:00,12:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292575,12:36:00,12:36:10,stop_point:SP_771,Carlos Gardel,22
+2292575,12:37:00,12:37:10,stop_point:SP_2185,Ancely,23
+2292575,12:39:00,12:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292575,12:40:00,12:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292575,12:41:00,12:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292576,12:45:00,12:45:10,stop_point:SP_4009,Basso Cambo,1
+2292576,12:47:00,12:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292576,12:49:00,12:49:10,stop_point:SP_2513,Passerieu,3
+2292576,12:49:00,12:49:10,stop_point:SP_3683,Pradettes,4
+2292576,12:50:00,12:50:10,stop_point:SP_3071,Bordeblanche,5
+2292576,12:51:00,12:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292576,12:52:00,12:52:10,stop_point:SP_898,Villèle,7
+2292576,12:53:00,12:53:10,stop_point:SP_3117,Mazaygues,8
+2292576,12:54:00,12:54:10,stop_point:SP_1622,Corneillan,9
+2292576,12:55:00,12:55:10,stop_point:SP_4857,Zamenhof,10
+2292576,12:56:00,12:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292576,12:57:00,12:57:10,stop_point:SP_4856,Lardenne,12
+2292576,12:57:00,12:57:10,stop_point:SP_723,Poutier,13
+2292576,12:58:00,12:58:10,stop_point:SP_442,Salinié,14
+2292576,12:59:00,12:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292576,13:00:00,13:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292576,13:00:00,13:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292576,13:01:00,13:01:10,stop_point:SP_360,Capelles,18
+2292576,13:02:00,13:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292576,13:03:00,13:03:10,stop_point:SP_3643,Flambère,20
+2292576,13:05:00,13:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292576,13:06:00,13:06:10,stop_point:SP_771,Carlos Gardel,22
+2292576,13:07:00,13:07:10,stop_point:SP_2185,Ancely,23
+2292576,13:09:00,13:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292576,13:10:00,13:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292576,13:11:00,13:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292577,13:15:00,13:15:10,stop_point:SP_4009,Basso Cambo,1
+2292577,13:17:00,13:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292577,13:19:00,13:19:10,stop_point:SP_2513,Passerieu,3
+2292577,13:19:00,13:19:10,stop_point:SP_3683,Pradettes,4
+2292577,13:20:00,13:20:10,stop_point:SP_3071,Bordeblanche,5
+2292577,13:21:00,13:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292577,13:22:00,13:22:10,stop_point:SP_898,Villèle,7
+2292577,13:23:00,13:23:10,stop_point:SP_3117,Mazaygues,8
+2292577,13:24:00,13:24:10,stop_point:SP_1622,Corneillan,9
+2292577,13:25:00,13:25:10,stop_point:SP_4857,Zamenhof,10
+2292577,13:26:00,13:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292577,13:27:00,13:27:10,stop_point:SP_4856,Lardenne,12
+2292577,13:27:00,13:27:10,stop_point:SP_723,Poutier,13
+2292577,13:28:00,13:28:10,stop_point:SP_442,Salinié,14
+2292577,13:29:00,13:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292577,13:30:00,13:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292577,13:30:00,13:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292577,13:31:00,13:31:10,stop_point:SP_360,Capelles,18
+2292577,13:32:00,13:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292577,13:33:00,13:33:10,stop_point:SP_3643,Flambère,20
+2292577,13:35:00,13:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292577,13:36:00,13:36:10,stop_point:SP_771,Carlos Gardel,22
+2292577,13:37:00,13:37:10,stop_point:SP_2185,Ancely,23
+2292577,13:39:00,13:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292577,13:40:00,13:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292577,13:41:00,13:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292578,13:45:00,13:45:10,stop_point:SP_4009,Basso Cambo,1
+2292578,13:47:00,13:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292578,13:49:00,13:49:10,stop_point:SP_2513,Passerieu,3
+2292578,13:49:00,13:49:10,stop_point:SP_3683,Pradettes,4
+2292578,13:50:00,13:50:10,stop_point:SP_3071,Bordeblanche,5
+2292578,13:51:00,13:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292578,13:52:00,13:52:10,stop_point:SP_898,Villèle,7
+2292578,13:53:00,13:53:10,stop_point:SP_3117,Mazaygues,8
+2292578,13:54:00,13:54:10,stop_point:SP_1622,Corneillan,9
+2292578,13:55:00,13:55:10,stop_point:SP_4857,Zamenhof,10
+2292578,13:56:00,13:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292578,13:57:00,13:57:10,stop_point:SP_4856,Lardenne,12
+2292578,13:57:00,13:57:10,stop_point:SP_723,Poutier,13
+2292578,13:58:00,13:58:10,stop_point:SP_442,Salinié,14
+2292578,13:59:00,13:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292578,14:00:00,14:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292578,14:00:00,14:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292578,14:01:00,14:01:10,stop_point:SP_360,Capelles,18
+2292578,14:02:00,14:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292578,14:03:00,14:03:10,stop_point:SP_3643,Flambère,20
+2292578,14:05:00,14:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292578,14:06:00,14:06:10,stop_point:SP_771,Carlos Gardel,22
+2292578,14:07:00,14:07:10,stop_point:SP_2185,Ancely,23
+2292578,14:09:00,14:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292578,14:10:00,14:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292578,14:11:00,14:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292579,14:15:00,14:15:10,stop_point:SP_4009,Basso Cambo,1
+2292579,14:17:00,14:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292579,14:19:00,14:19:10,stop_point:SP_2513,Passerieu,3
+2292579,14:19:00,14:19:10,stop_point:SP_3683,Pradettes,4
+2292579,14:20:00,14:20:10,stop_point:SP_3071,Bordeblanche,5
+2292579,14:21:00,14:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292579,14:22:00,14:22:10,stop_point:SP_898,Villèle,7
+2292579,14:23:00,14:23:10,stop_point:SP_3117,Mazaygues,8
+2292579,14:24:00,14:24:10,stop_point:SP_1622,Corneillan,9
+2292579,14:25:00,14:25:10,stop_point:SP_4857,Zamenhof,10
+2292579,14:26:00,14:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292579,14:27:00,14:27:10,stop_point:SP_4856,Lardenne,12
+2292579,14:27:00,14:27:10,stop_point:SP_723,Poutier,13
+2292579,14:28:00,14:28:10,stop_point:SP_442,Salinié,14
+2292579,14:29:00,14:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292579,14:30:00,14:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292579,14:30:00,14:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292579,14:31:00,14:31:10,stop_point:SP_360,Capelles,18
+2292579,14:32:00,14:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292579,14:33:00,14:33:10,stop_point:SP_3643,Flambère,20
+2292579,14:35:00,14:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292579,14:36:00,14:36:10,stop_point:SP_771,Carlos Gardel,22
+2292579,14:37:00,14:37:10,stop_point:SP_2185,Ancely,23
+2292579,14:39:00,14:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292579,14:40:00,14:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292579,14:41:00,14:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292580,14:45:00,14:45:10,stop_point:SP_4009,Basso Cambo,1
+2292580,14:47:00,14:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292580,14:49:00,14:49:10,stop_point:SP_2513,Passerieu,3
+2292580,14:49:00,14:49:10,stop_point:SP_3683,Pradettes,4
+2292580,14:50:00,14:50:10,stop_point:SP_3071,Bordeblanche,5
+2292580,14:51:00,14:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292580,14:52:00,14:52:10,stop_point:SP_898,Villèle,7
+2292580,14:53:00,14:53:10,stop_point:SP_3117,Mazaygues,8
+2292580,14:54:00,14:54:10,stop_point:SP_1622,Corneillan,9
+2292580,14:55:00,14:55:10,stop_point:SP_4857,Zamenhof,10
+2292580,14:56:00,14:56:10,stop_point:SP_4858,Ferro Lebres,11
+2292580,14:57:00,14:57:10,stop_point:SP_4856,Lardenne,12
+2292580,14:57:00,14:57:10,stop_point:SP_723,Poutier,13
+2292580,14:58:00,14:58:10,stop_point:SP_442,Salinié,14
+2292580,14:59:00,14:59:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292580,15:00:00,15:00:10,stop_point:SP_3164,Gare de Lardenne,16
+2292580,15:00:00,15:00:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292580,15:01:00,15:01:10,stop_point:SP_360,Capelles,18
+2292580,15:02:00,15:02:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292580,15:03:00,15:03:10,stop_point:SP_3643,Flambère,20
+2292580,15:05:00,15:05:10,stop_point:SP_3454,Jaufré Rudel,21
+2292580,15:06:00,15:06:10,stop_point:SP_771,Carlos Gardel,22
+2292580,15:07:00,15:07:10,stop_point:SP_2185,Ancely,23
+2292580,15:09:00,15:09:10,stop_point:SP_1198,Arènes Romaines,24
+2292580,15:10:00,15:10:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292580,15:11:00,15:11:10,stop_point:SP_1319,Pelletier Purpan,26
+2292581,15:15:00,15:15:10,stop_point:SP_4009,Basso Cambo,1
+2292581,15:17:00,15:17:10,stop_point:SP_2306,Ecole Espagnole,2
+2292581,15:19:00,15:19:10,stop_point:SP_2513,Passerieu,3
+2292581,15:19:00,15:19:10,stop_point:SP_3683,Pradettes,4
+2292581,15:20:00,15:20:10,stop_point:SP_3071,Bordeblanche,5
+2292581,15:21:00,15:21:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292581,15:22:00,15:22:10,stop_point:SP_898,Villèle,7
+2292581,15:23:00,15:23:10,stop_point:SP_3117,Mazaygues,8
+2292581,15:24:00,15:24:10,stop_point:SP_1622,Corneillan,9
+2292581,15:25:00,15:25:10,stop_point:SP_4857,Zamenhof,10
+2292581,15:26:00,15:26:10,stop_point:SP_4858,Ferro Lebres,11
+2292581,15:27:00,15:27:10,stop_point:SP_4856,Lardenne,12
+2292581,15:27:00,15:27:10,stop_point:SP_723,Poutier,13
+2292581,15:28:00,15:28:10,stop_point:SP_442,Salinié,14
+2292581,15:29:00,15:29:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292581,15:30:00,15:30:10,stop_point:SP_3164,Gare de Lardenne,16
+2292581,15:30:00,15:30:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292581,15:31:00,15:31:10,stop_point:SP_360,Capelles,18
+2292581,15:32:00,15:32:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292581,15:33:00,15:33:10,stop_point:SP_3643,Flambère,20
+2292581,15:35:00,15:35:10,stop_point:SP_3454,Jaufré Rudel,21
+2292581,15:36:00,15:36:10,stop_point:SP_771,Carlos Gardel,22
+2292581,15:37:00,15:37:10,stop_point:SP_2185,Ancely,23
+2292581,15:39:00,15:39:10,stop_point:SP_1198,Arènes Romaines,24
+2292581,15:40:00,15:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292581,15:41:00,15:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292582,15:45:00,15:45:10,stop_point:SP_4009,Basso Cambo,1
+2292582,15:47:00,15:47:10,stop_point:SP_2306,Ecole Espagnole,2
+2292582,15:49:00,15:49:10,stop_point:SP_2513,Passerieu,3
+2292582,15:49:00,15:49:10,stop_point:SP_3683,Pradettes,4
+2292582,15:50:00,15:50:10,stop_point:SP_3071,Bordeblanche,5
+2292582,15:51:00,15:51:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292582,15:52:00,15:52:10,stop_point:SP_898,Villèle,7
+2292582,15:53:00,15:53:10,stop_point:SP_3117,Mazaygues,8
+2292582,15:54:00,15:54:10,stop_point:SP_1622,Corneillan,9
+2292582,15:56:00,15:56:10,stop_point:SP_4857,Zamenhof,10
+2292582,15:57:00,15:57:10,stop_point:SP_4858,Ferro Lebres,11
+2292582,15:58:00,15:58:10,stop_point:SP_4856,Lardenne,12
+2292582,15:58:00,15:58:10,stop_point:SP_723,Poutier,13
+2292582,15:59:00,15:59:10,stop_point:SP_442,Salinié,14
+2292582,16:00:00,16:00:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292582,16:01:00,16:01:10,stop_point:SP_3164,Gare de Lardenne,16
+2292582,16:01:00,16:01:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292582,16:02:00,16:02:10,stop_point:SP_360,Capelles,18
+2292582,16:03:00,16:03:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292582,16:05:00,16:05:10,stop_point:SP_3643,Flambère,20
+2292582,16:07:00,16:07:10,stop_point:SP_3454,Jaufré Rudel,21
+2292582,16:08:00,16:08:10,stop_point:SP_771,Carlos Gardel,22
+2292582,16:10:00,16:10:10,stop_point:SP_2185,Ancely,23
+2292582,16:12:00,16:12:10,stop_point:SP_1198,Arènes Romaines,24
+2292582,16:14:00,16:14:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292582,16:15:00,16:15:10,stop_point:SP_1319,Pelletier Purpan,26
+2292583,16:10:00,16:10:10,stop_point:SP_4009,Basso Cambo,1
+2292583,16:12:00,16:12:10,stop_point:SP_2306,Ecole Espagnole,2
+2292583,16:14:00,16:14:10,stop_point:SP_2513,Passerieu,3
+2292583,16:14:00,16:14:10,stop_point:SP_3683,Pradettes,4
+2292583,16:15:00,16:15:10,stop_point:SP_3071,Bordeblanche,5
+2292583,16:16:00,16:16:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292583,16:17:00,16:17:10,stop_point:SP_898,Villèle,7
+2292583,16:18:00,16:18:10,stop_point:SP_3117,Mazaygues,8
+2292583,16:19:00,16:19:10,stop_point:SP_1622,Corneillan,9
+2292583,16:21:00,16:21:10,stop_point:SP_4857,Zamenhof,10
+2292583,16:22:00,16:22:10,stop_point:SP_4858,Ferro Lebres,11
+2292583,16:23:00,16:23:10,stop_point:SP_4856,Lardenne,12
+2292583,16:23:00,16:23:10,stop_point:SP_723,Poutier,13
+2292583,16:24:00,16:24:10,stop_point:SP_442,Salinié,14
+2292583,16:25:00,16:25:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292583,16:26:00,16:26:10,stop_point:SP_3164,Gare de Lardenne,16
+2292583,16:26:00,16:26:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292583,16:27:00,16:27:10,stop_point:SP_360,Capelles,18
+2292583,16:28:00,16:28:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292583,16:30:00,16:30:10,stop_point:SP_3643,Flambère,20
+2292583,16:32:00,16:32:10,stop_point:SP_3454,Jaufré Rudel,21
+2292583,16:33:00,16:33:10,stop_point:SP_771,Carlos Gardel,22
+2292583,16:35:00,16:35:10,stop_point:SP_2185,Ancely,23
+2292583,16:37:00,16:37:10,stop_point:SP_1198,Arènes Romaines,24
+2292583,16:39:00,16:39:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292583,16:40:00,16:40:10,stop_point:SP_1319,Pelletier Purpan,26
+2292584,16:30:00,16:30:10,stop_point:SP_4009,Basso Cambo,1
+2292584,16:32:00,16:32:10,stop_point:SP_2306,Ecole Espagnole,2
+2292584,16:34:00,16:34:10,stop_point:SP_2513,Passerieu,3
+2292584,16:34:00,16:34:10,stop_point:SP_3683,Pradettes,4
+2292584,16:35:00,16:35:10,stop_point:SP_3071,Bordeblanche,5
+2292584,16:36:00,16:36:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292584,16:37:00,16:37:10,stop_point:SP_898,Villèle,7
+2292584,16:38:00,16:38:10,stop_point:SP_3117,Mazaygues,8
+2292584,16:39:00,16:39:10,stop_point:SP_1622,Corneillan,9
+2292584,16:41:00,16:41:10,stop_point:SP_4857,Zamenhof,10
+2292584,16:42:00,16:42:10,stop_point:SP_4858,Ferro Lebres,11
+2292584,16:43:00,16:43:10,stop_point:SP_4856,Lardenne,12
+2292584,16:43:00,16:43:10,stop_point:SP_723,Poutier,13
+2292584,16:44:00,16:44:10,stop_point:SP_442,Salinié,14
+2292584,16:45:00,16:45:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292584,16:46:00,16:46:10,stop_point:SP_3164,Gare de Lardenne,16
+2292584,16:46:00,16:46:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292584,16:47:00,16:47:10,stop_point:SP_360,Capelles,18
+2292584,16:48:00,16:48:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292584,16:50:00,16:50:10,stop_point:SP_3643,Flambère,20
+2292584,16:52:00,16:52:10,stop_point:SP_3454,Jaufré Rudel,21
+2292584,16:53:00,16:53:10,stop_point:SP_771,Carlos Gardel,22
+2292584,16:55:00,16:55:10,stop_point:SP_2185,Ancely,23
+2292584,16:57:00,16:57:10,stop_point:SP_1198,Arènes Romaines,24
+2292584,16:59:00,16:59:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292584,17:00:00,17:00:10,stop_point:SP_1319,Pelletier Purpan,26
+2292585,16:50:00,16:50:10,stop_point:SP_4009,Basso Cambo,1
+2292585,16:53:00,16:53:10,stop_point:SP_2306,Ecole Espagnole,2
+2292585,16:54:00,16:54:10,stop_point:SP_2513,Passerieu,3
+2292585,16:55:00,16:55:10,stop_point:SP_3683,Pradettes,4
+2292585,16:56:00,16:56:10,stop_point:SP_3071,Bordeblanche,5
+2292585,16:57:00,16:57:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292585,16:58:00,16:58:10,stop_point:SP_898,Villèle,7
+2292585,16:59:00,16:59:10,stop_point:SP_3117,Mazaygues,8
+2292585,17:00:00,17:00:10,stop_point:SP_1622,Corneillan,9
+2292585,17:02:00,17:02:10,stop_point:SP_4857,Zamenhof,10
+2292585,17:03:00,17:03:10,stop_point:SP_4858,Ferro Lebres,11
+2292585,17:04:00,17:04:10,stop_point:SP_4856,Lardenne,12
+2292585,17:04:00,17:04:10,stop_point:SP_723,Poutier,13
+2292585,17:05:00,17:05:10,stop_point:SP_442,Salinié,14
+2292585,17:06:00,17:06:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292585,17:07:00,17:07:10,stop_point:SP_3164,Gare de Lardenne,16
+2292585,17:07:00,17:07:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292585,17:08:00,17:08:10,stop_point:SP_360,Capelles,18
+2292585,17:09:00,17:09:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292585,17:11:00,17:11:10,stop_point:SP_3643,Flambère,20
+2292585,17:14:00,17:14:10,stop_point:SP_3454,Jaufré Rudel,21
+2292585,17:15:00,17:15:10,stop_point:SP_771,Carlos Gardel,22
+2292585,17:17:00,17:17:10,stop_point:SP_2185,Ancely,23
+2292585,17:19:00,17:19:10,stop_point:SP_1198,Arènes Romaines,24
+2292585,17:22:00,17:22:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292585,17:23:00,17:23:10,stop_point:SP_1319,Pelletier Purpan,26
+2292586,17:10:00,17:10:10,stop_point:SP_4009,Basso Cambo,1
+2292586,17:13:00,17:13:10,stop_point:SP_2306,Ecole Espagnole,2
+2292586,17:14:00,17:14:10,stop_point:SP_2513,Passerieu,3
+2292586,17:15:00,17:15:10,stop_point:SP_3683,Pradettes,4
+2292586,17:16:00,17:16:10,stop_point:SP_3071,Bordeblanche,5
+2292586,17:17:00,17:17:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292586,17:18:00,17:18:10,stop_point:SP_898,Villèle,7
+2292586,17:19:00,17:19:10,stop_point:SP_3117,Mazaygues,8
+2292586,17:20:00,17:20:10,stop_point:SP_1622,Corneillan,9
+2292586,17:22:00,17:22:10,stop_point:SP_4857,Zamenhof,10
+2292586,17:23:00,17:23:10,stop_point:SP_4858,Ferro Lebres,11
+2292586,17:24:00,17:24:10,stop_point:SP_4856,Lardenne,12
+2292586,17:25:00,17:25:10,stop_point:SP_723,Poutier,13
+2292586,17:26:00,17:26:10,stop_point:SP_442,Salinié,14
+2292586,17:27:00,17:27:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292586,17:28:00,17:28:10,stop_point:SP_3164,Gare de Lardenne,16
+2292586,17:28:00,17:28:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292586,17:29:00,17:29:10,stop_point:SP_360,Capelles,18
+2292586,17:31:00,17:31:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292586,17:34:00,17:34:10,stop_point:SP_3643,Flambère,20
+2292586,17:37:00,17:37:10,stop_point:SP_3454,Jaufré Rudel,21
+2292586,17:38:00,17:38:10,stop_point:SP_771,Carlos Gardel,22
+2292586,17:40:00,17:40:10,stop_point:SP_2185,Ancely,23
+2292586,17:43:00,17:43:10,stop_point:SP_1198,Arènes Romaines,24
+2292586,17:46:00,17:46:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292586,17:47:00,17:47:10,stop_point:SP_1319,Pelletier Purpan,26
+2292587,17:30:00,17:30:10,stop_point:SP_4009,Basso Cambo,1
+2292587,17:33:00,17:33:10,stop_point:SP_2306,Ecole Espagnole,2
+2292587,17:34:00,17:34:10,stop_point:SP_2513,Passerieu,3
+2292587,17:35:00,17:35:10,stop_point:SP_3683,Pradettes,4
+2292587,17:36:00,17:36:10,stop_point:SP_3071,Bordeblanche,5
+2292587,17:37:00,17:37:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292587,17:38:00,17:38:10,stop_point:SP_898,Villèle,7
+2292587,17:39:00,17:39:10,stop_point:SP_3117,Mazaygues,8
+2292587,17:40:00,17:40:10,stop_point:SP_1622,Corneillan,9
+2292587,17:42:00,17:42:10,stop_point:SP_4857,Zamenhof,10
+2292587,17:43:00,17:43:10,stop_point:SP_4858,Ferro Lebres,11
+2292587,17:44:00,17:44:10,stop_point:SP_4856,Lardenne,12
+2292587,17:44:00,17:44:10,stop_point:SP_723,Poutier,13
+2292587,17:45:00,17:45:10,stop_point:SP_442,Salinié,14
+2292587,17:46:00,17:46:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292587,17:47:00,17:47:10,stop_point:SP_3164,Gare de Lardenne,16
+2292587,17:47:00,17:47:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292587,17:48:00,17:48:10,stop_point:SP_360,Capelles,18
+2292587,17:49:00,17:49:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292587,17:52:00,17:52:10,stop_point:SP_3643,Flambère,20
+2292587,17:55:00,17:55:10,stop_point:SP_3454,Jaufré Rudel,21
+2292587,17:56:00,17:56:10,stop_point:SP_771,Carlos Gardel,22
+2292587,17:58:00,17:58:10,stop_point:SP_2185,Ancely,23
+2292587,18:01:00,18:01:10,stop_point:SP_1198,Arènes Romaines,24
+2292587,18:04:00,18:04:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292587,18:05:00,18:05:10,stop_point:SP_1319,Pelletier Purpan,26
+2292588,17:50:00,17:50:10,stop_point:SP_4009,Basso Cambo,1
+2292588,17:53:00,17:53:10,stop_point:SP_2306,Ecole Espagnole,2
+2292588,17:54:00,17:54:10,stop_point:SP_2513,Passerieu,3
+2292588,17:55:00,17:55:10,stop_point:SP_3683,Pradettes,4
+2292588,17:56:00,17:56:10,stop_point:SP_3071,Bordeblanche,5
+2292588,17:57:00,17:57:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292588,17:58:00,17:58:10,stop_point:SP_898,Villèle,7
+2292588,17:59:00,17:59:10,stop_point:SP_3117,Mazaygues,8
+2292588,18:00:00,18:00:10,stop_point:SP_1622,Corneillan,9
+2292588,18:02:00,18:02:10,stop_point:SP_4857,Zamenhof,10
+2292588,18:03:00,18:03:10,stop_point:SP_4858,Ferro Lebres,11
+2292588,18:04:00,18:04:10,stop_point:SP_4856,Lardenne,12
+2292588,18:04:00,18:04:10,stop_point:SP_723,Poutier,13
+2292588,18:05:00,18:05:10,stop_point:SP_442,Salinié,14
+2292588,18:06:00,18:06:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292588,18:07:00,18:07:10,stop_point:SP_3164,Gare de Lardenne,16
+2292588,18:07:00,18:07:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292588,18:08:00,18:08:10,stop_point:SP_360,Capelles,18
+2292588,18:09:00,18:09:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292588,18:11:00,18:11:10,stop_point:SP_3643,Flambère,20
+2292588,18:13:00,18:13:10,stop_point:SP_3454,Jaufré Rudel,21
+2292588,18:14:00,18:14:10,stop_point:SP_771,Carlos Gardel,22
+2292588,18:16:00,18:16:10,stop_point:SP_2185,Ancely,23
+2292588,18:18:00,18:18:10,stop_point:SP_1198,Arènes Romaines,24
+2292588,18:20:00,18:20:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292588,18:21:00,18:21:10,stop_point:SP_1319,Pelletier Purpan,26
+2292589,18:10:00,18:10:10,stop_point:SP_4009,Basso Cambo,1
+2292589,18:13:00,18:13:10,stop_point:SP_2306,Ecole Espagnole,2
+2292589,18:14:00,18:14:10,stop_point:SP_2513,Passerieu,3
+2292589,18:15:00,18:15:10,stop_point:SP_3683,Pradettes,4
+2292589,18:16:00,18:16:10,stop_point:SP_3071,Bordeblanche,5
+2292589,18:17:00,18:17:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292589,18:18:00,18:18:10,stop_point:SP_898,Villèle,7
+2292589,18:19:00,18:19:10,stop_point:SP_3117,Mazaygues,8
+2292589,18:20:00,18:20:10,stop_point:SP_1622,Corneillan,9
+2292589,18:22:00,18:22:10,stop_point:SP_4857,Zamenhof,10
+2292589,18:23:00,18:23:10,stop_point:SP_4858,Ferro Lebres,11
+2292589,18:24:00,18:24:10,stop_point:SP_4856,Lardenne,12
+2292589,18:24:00,18:24:10,stop_point:SP_723,Poutier,13
+2292589,18:25:00,18:25:10,stop_point:SP_442,Salinié,14
+2292589,18:26:00,18:26:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292589,18:27:00,18:27:10,stop_point:SP_3164,Gare de Lardenne,16
+2292589,18:27:00,18:27:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292589,18:28:00,18:28:10,stop_point:SP_360,Capelles,18
+2292589,18:29:00,18:29:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292589,18:31:00,18:31:10,stop_point:SP_3643,Flambère,20
+2292589,18:33:00,18:33:10,stop_point:SP_3454,Jaufré Rudel,21
+2292589,18:34:00,18:34:10,stop_point:SP_771,Carlos Gardel,22
+2292589,18:36:00,18:36:10,stop_point:SP_2185,Ancely,23
+2292589,18:38:00,18:38:10,stop_point:SP_1198,Arènes Romaines,24
+2292589,18:40:00,18:40:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292589,18:41:00,18:41:10,stop_point:SP_1319,Pelletier Purpan,26
+2292590,18:30:00,18:30:10,stop_point:SP_4009,Basso Cambo,1
+2292590,18:32:00,18:32:10,stop_point:SP_2306,Ecole Espagnole,2
+2292590,18:34:00,18:34:10,stop_point:SP_2513,Passerieu,3
+2292590,18:34:00,18:34:10,stop_point:SP_3683,Pradettes,4
+2292590,18:35:00,18:35:10,stop_point:SP_3071,Bordeblanche,5
+2292590,18:36:00,18:36:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292590,18:37:00,18:37:10,stop_point:SP_898,Villèle,7
+2292590,18:38:00,18:38:10,stop_point:SP_3117,Mazaygues,8
+2292590,18:39:00,18:39:10,stop_point:SP_1622,Corneillan,9
+2292590,18:41:00,18:41:10,stop_point:SP_4857,Zamenhof,10
+2292590,18:42:00,18:42:10,stop_point:SP_4858,Ferro Lebres,11
+2292590,18:43:00,18:43:10,stop_point:SP_4856,Lardenne,12
+2292590,18:43:00,18:43:10,stop_point:SP_723,Poutier,13
+2292590,18:44:00,18:44:10,stop_point:SP_442,Salinié,14
+2292590,18:45:00,18:45:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292590,18:45:00,18:45:10,stop_point:SP_3164,Gare de Lardenne,16
+2292590,18:45:00,18:45:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292590,18:46:00,18:46:10,stop_point:SP_360,Capelles,18
+2292590,18:47:00,18:47:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292590,18:49:00,18:49:10,stop_point:SP_3643,Flambère,20
+2292590,18:50:00,18:50:10,stop_point:SP_3454,Jaufré Rudel,21
+2292590,18:52:00,18:52:10,stop_point:SP_771,Carlos Gardel,22
+2292590,18:53:00,18:53:10,stop_point:SP_2185,Ancely,23
+2292590,18:54:00,18:54:10,stop_point:SP_1198,Arènes Romaines,24
+2292590,18:56:00,18:56:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292590,18:57:00,18:57:10,stop_point:SP_1319,Pelletier Purpan,26
+2292591,18:55:00,18:55:10,stop_point:SP_4009,Basso Cambo,1
+2292591,18:57:00,18:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292591,18:59:00,18:59:10,stop_point:SP_2513,Passerieu,3
+2292591,18:59:00,18:59:10,stop_point:SP_3683,Pradettes,4
+2292591,19:00:00,19:00:10,stop_point:SP_3071,Bordeblanche,5
+2292591,19:01:00,19:01:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292591,19:02:00,19:02:10,stop_point:SP_898,Villèle,7
+2292591,19:03:00,19:03:10,stop_point:SP_3117,Mazaygues,8
+2292591,19:04:00,19:04:10,stop_point:SP_1622,Corneillan,9
+2292591,19:06:00,19:06:10,stop_point:SP_4857,Zamenhof,10
+2292591,19:07:00,19:07:10,stop_point:SP_4858,Ferro Lebres,11
+2292591,19:08:00,19:08:10,stop_point:SP_4856,Lardenne,12
+2292591,19:08:00,19:08:10,stop_point:SP_723,Poutier,13
+2292591,19:09:00,19:09:10,stop_point:SP_442,Salinié,14
+2292591,19:10:00,19:10:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292591,19:10:00,19:10:10,stop_point:SP_3164,Gare de Lardenne,16
+2292591,19:10:00,19:10:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292591,19:11:00,19:11:10,stop_point:SP_360,Capelles,18
+2292591,19:12:00,19:12:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292591,19:14:00,19:14:10,stop_point:SP_3643,Flambère,20
+2292591,19:15:00,19:15:10,stop_point:SP_3454,Jaufré Rudel,21
+2292591,19:17:00,19:17:10,stop_point:SP_771,Carlos Gardel,22
+2292591,19:18:00,19:18:10,stop_point:SP_2185,Ancely,23
+2292591,19:19:00,19:19:10,stop_point:SP_1198,Arènes Romaines,24
+2292591,19:21:00,19:21:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292591,19:22:00,19:22:10,stop_point:SP_1319,Pelletier Purpan,26
+2292592,19:25:00,19:25:10,stop_point:SP_4009,Basso Cambo,1
+2292592,19:27:00,19:27:10,stop_point:SP_2306,Ecole Espagnole,2
+2292592,19:29:00,19:29:10,stop_point:SP_2513,Passerieu,3
+2292592,19:29:00,19:29:10,stop_point:SP_3683,Pradettes,4
+2292592,19:30:00,19:30:10,stop_point:SP_3071,Bordeblanche,5
+2292592,19:31:00,19:31:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292592,19:32:00,19:32:10,stop_point:SP_898,Villèle,7
+2292592,19:32:00,19:32:10,stop_point:SP_3117,Mazaygues,8
+2292592,19:33:00,19:33:10,stop_point:SP_1622,Corneillan,9
+2292592,19:34:00,19:34:10,stop_point:SP_4857,Zamenhof,10
+2292592,19:35:00,19:35:10,stop_point:SP_4858,Ferro Lebres,11
+2292592,19:36:00,19:36:10,stop_point:SP_4856,Lardenne,12
+2292592,19:36:00,19:36:10,stop_point:SP_723,Poutier,13
+2292592,19:37:00,19:37:10,stop_point:SP_442,Salinié,14
+2292592,19:38:00,19:38:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292592,19:38:00,19:38:10,stop_point:SP_3164,Gare de Lardenne,16
+2292592,19:38:00,19:38:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292592,19:39:00,19:39:10,stop_point:SP_360,Capelles,18
+2292592,19:40:00,19:40:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292592,19:42:00,19:42:10,stop_point:SP_3643,Flambère,20
+2292592,19:43:00,19:43:10,stop_point:SP_3454,Jaufré Rudel,21
+2292592,19:45:00,19:45:10,stop_point:SP_771,Carlos Gardel,22
+2292592,19:46:00,19:46:10,stop_point:SP_2185,Ancely,23
+2292592,19:47:00,19:47:10,stop_point:SP_1198,Arènes Romaines,24
+2292592,19:49:00,19:49:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292592,19:50:00,19:50:10,stop_point:SP_1319,Pelletier Purpan,26
+2292593,19:55:00,19:55:10,stop_point:SP_4009,Basso Cambo,1
+2292593,19:57:00,19:57:10,stop_point:SP_2306,Ecole Espagnole,2
+2292593,19:58:00,19:58:10,stop_point:SP_2513,Passerieu,3
+2292593,19:58:00,19:58:10,stop_point:SP_3683,Pradettes,4
+2292593,19:59:00,19:59:10,stop_point:SP_3071,Bordeblanche,5
+2292593,20:00:00,20:00:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292593,20:01:00,20:01:10,stop_point:SP_898,Villèle,7
+2292593,20:01:00,20:01:10,stop_point:SP_3117,Mazaygues,8
+2292593,20:02:00,20:02:10,stop_point:SP_1622,Corneillan,9
+2292593,20:03:00,20:03:10,stop_point:SP_4857,Zamenhof,10
+2292593,20:04:00,20:04:10,stop_point:SP_4858,Ferro Lebres,11
+2292593,20:05:00,20:05:10,stop_point:SP_4856,Lardenne,12
+2292593,20:05:00,20:05:10,stop_point:SP_723,Poutier,13
+2292593,20:06:00,20:06:10,stop_point:SP_442,Salinié,14
+2292593,20:07:00,20:07:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292593,20:07:00,20:07:10,stop_point:SP_3164,Gare de Lardenne,16
+2292593,20:07:00,20:07:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292593,20:08:00,20:08:10,stop_point:SP_360,Capelles,18
+2292593,20:09:00,20:09:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292593,20:10:00,20:10:10,stop_point:SP_3643,Flambère,20
+2292593,20:12:00,20:12:10,stop_point:SP_3454,Jaufré Rudel,21
+2292593,20:13:00,20:13:10,stop_point:SP_771,Carlos Gardel,22
+2292593,20:14:00,20:14:10,stop_point:SP_2185,Ancely,23
+2292593,20:16:00,20:16:10,stop_point:SP_1198,Arènes Romaines,24
+2292593,20:17:00,20:17:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292593,20:18:00,20:18:10,stop_point:SP_1319,Pelletier Purpan,26
+2292594,20:25:00,20:25:10,stop_point:SP_4009,Basso Cambo,1
+2292594,20:27:00,20:27:10,stop_point:SP_2306,Ecole Espagnole,2
+2292594,20:28:00,20:28:10,stop_point:SP_2513,Passerieu,3
+2292594,20:28:00,20:28:10,stop_point:SP_3683,Pradettes,4
+2292594,20:29:00,20:29:10,stop_point:SP_3071,Bordeblanche,5
+2292594,20:30:00,20:30:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292594,20:31:00,20:31:10,stop_point:SP_898,Villèle,7
+2292594,20:31:00,20:31:10,stop_point:SP_3117,Mazaygues,8
+2292594,20:32:00,20:32:10,stop_point:SP_1622,Corneillan,9
+2292594,20:33:00,20:33:10,stop_point:SP_4857,Zamenhof,10
+2292594,20:34:00,20:34:10,stop_point:SP_4858,Ferro Lebres,11
+2292594,20:35:00,20:35:10,stop_point:SP_4856,Lardenne,12
+2292594,20:35:00,20:35:10,stop_point:SP_723,Poutier,13
+2292594,20:36:00,20:36:10,stop_point:SP_442,Salinié,14
+2292594,20:37:00,20:37:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292594,20:37:00,20:37:10,stop_point:SP_3164,Gare de Lardenne,16
+2292594,20:37:00,20:37:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292594,20:38:00,20:38:10,stop_point:SP_360,Capelles,18
+2292594,20:39:00,20:39:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292594,20:40:00,20:40:10,stop_point:SP_3643,Flambère,20
+2292594,20:42:00,20:42:10,stop_point:SP_3454,Jaufré Rudel,21
+2292594,20:43:00,20:43:10,stop_point:SP_771,Carlos Gardel,22
+2292594,20:44:00,20:44:10,stop_point:SP_2185,Ancely,23
+2292594,20:45:00,20:45:10,stop_point:SP_1198,Arènes Romaines,24
+2292594,20:46:00,20:46:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292594,20:47:00,20:47:10,stop_point:SP_1319,Pelletier Purpan,26
+2292595,21:00:00,21:00:10,stop_point:SP_4009,Basso Cambo,1
+2292595,21:02:00,21:02:10,stop_point:SP_2306,Ecole Espagnole,2
+2292595,21:03:00,21:03:10,stop_point:SP_2513,Passerieu,3
+2292595,21:03:00,21:03:10,stop_point:SP_3683,Pradettes,4
+2292595,21:04:00,21:04:10,stop_point:SP_3071,Bordeblanche,5
+2292595,21:05:00,21:05:10,stop_point:SP_4863,Ancien Tri Postal,6
+2292595,21:06:00,21:06:10,stop_point:SP_898,Villèle,7
+2292595,21:06:00,21:06:10,stop_point:SP_3117,Mazaygues,8
+2292595,21:07:00,21:07:10,stop_point:SP_1622,Corneillan,9
+2292595,21:08:00,21:08:10,stop_point:SP_4857,Zamenhof,10
+2292595,21:09:00,21:09:10,stop_point:SP_4858,Ferro Lebres,11
+2292595,21:10:00,21:10:10,stop_point:SP_4856,Lardenne,12
+2292595,21:10:00,21:10:10,stop_point:SP_723,Poutier,13
+2292595,21:11:00,21:11:10,stop_point:SP_442,Salinié,14
+2292595,21:12:00,21:12:10,stop_point:SP_3375,Ecole Police et Cadastre,15
+2292595,21:12:00,21:12:10,stop_point:SP_3164,Gare de Lardenne,16
+2292595,21:12:00,21:12:10,stop_point:SP_2655,Ecole Vétérinaire,17
+2292595,21:13:00,21:13:10,stop_point:SP_360,Capelles,18
+2292595,21:14:00,21:14:10,stop_point:SP_2993,Ecole Croix-Rouge,19
+2292595,21:15:00,21:15:10,stop_point:SP_3643,Flambère,20
+2292595,21:17:00,21:17:10,stop_point:SP_3454,Jaufré Rudel,21
+2292595,21:18:00,21:18:10,stop_point:SP_771,Carlos Gardel,22
+2292595,21:19:00,21:19:10,stop_point:SP_2185,Ancely,23
+2292595,21:20:00,21:20:10,stop_point:SP_1198,Arènes Romaines,24
+2292595,21:21:00,21:21:10,stop_point:SP_690,Ctre Cial Purpan Est,25
+2292595,21:22:00,21:22:10,stop_point:SP_1319,Pelletier Purpan,26
+2292596,05:55:00,05:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292596,05:56:00,05:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292596,05:57:00,05:57:10,stop_point:SP_214,Arènes Romaines,3
+2292596,05:58:00,05:58:10,stop_point:SP_2466,Ancely,4
+2292596,06:00:00,06:00:10,stop_point:SP_1137,Carlos Gardel,5
+2292596,06:01:00,06:01:10,stop_point:SP_927,Jaufré Rudel,6
+2292596,06:02:00,06:02:10,stop_point:SP_1452,Flambère,7
+2292596,06:03:00,06:03:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292596,06:04:00,06:04:10,stop_point:SP_49,Capelles,9
+2292596,06:05:00,06:05:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292596,06:05:00,06:05:10,stop_point:SP_660,Gare de Lardenne,11
+2292596,06:05:00,06:05:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292596,06:06:00,06:06:10,stop_point:SP_3812,Salinié,13
+2292596,06:07:00,06:07:10,stop_point:SP_3502,Poutier,14
+2292596,06:07:00,06:07:10,stop_point:SP_4861,Lardenne,15
+2292596,06:08:00,06:08:10,stop_point:SP_4859,Ferro Lebres,16
+2292596,06:09:00,06:09:10,stop_point:SP_4855,Zamenhof,17
+2292596,06:10:00,06:10:10,stop_point:SP_1629,Corneillan,18
+2292596,06:11:00,06:11:10,stop_point:SP_161,Mazaygues,19
+2292596,06:12:00,06:12:10,stop_point:SP_1492,Villèle,20
+2292596,06:13:00,06:13:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292596,06:14:00,06:14:10,stop_point:SP_3103,Bordeblanche,22
+2292596,06:15:00,06:15:10,stop_point:SP_418,Pradettes,23
+2292596,06:16:00,06:16:10,stop_point:SP_2683,Passerieu,24
+2292596,06:17:00,06:17:10,stop_point:SP_2548,Ecole Espagnole,25
+2292596,06:19:00,06:19:10,stop_point:SP_4009,Basso Cambo,26
+2292597,06:25:00,06:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292597,06:26:00,06:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292597,06:27:00,06:27:10,stop_point:SP_214,Arènes Romaines,3
+2292597,06:28:00,06:28:10,stop_point:SP_2466,Ancely,4
+2292597,06:30:00,06:30:10,stop_point:SP_1137,Carlos Gardel,5
+2292597,06:31:00,06:31:10,stop_point:SP_927,Jaufré Rudel,6
+2292597,06:32:00,06:32:10,stop_point:SP_1452,Flambère,7
+2292597,06:33:00,06:33:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292597,06:34:00,06:34:10,stop_point:SP_49,Capelles,9
+2292597,06:35:00,06:35:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292597,06:35:00,06:35:10,stop_point:SP_660,Gare de Lardenne,11
+2292597,06:35:00,06:35:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292597,06:36:00,06:36:10,stop_point:SP_3812,Salinié,13
+2292597,06:37:00,06:37:10,stop_point:SP_3502,Poutier,14
+2292597,06:37:00,06:37:10,stop_point:SP_4861,Lardenne,15
+2292597,06:38:00,06:38:10,stop_point:SP_4859,Ferro Lebres,16
+2292597,06:39:00,06:39:10,stop_point:SP_4855,Zamenhof,17
+2292597,06:40:00,06:40:10,stop_point:SP_1629,Corneillan,18
+2292597,06:41:00,06:41:10,stop_point:SP_161,Mazaygues,19
+2292597,06:42:00,06:42:10,stop_point:SP_1492,Villèle,20
+2292597,06:43:00,06:43:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292597,06:44:00,06:44:10,stop_point:SP_3103,Bordeblanche,22
+2292597,06:45:00,06:45:10,stop_point:SP_418,Pradettes,23
+2292597,06:46:00,06:46:10,stop_point:SP_2683,Passerieu,24
+2292597,06:47:00,06:47:10,stop_point:SP_2548,Ecole Espagnole,25
+2292597,06:49:00,06:49:10,stop_point:SP_4009,Basso Cambo,26
+2292598,06:50:00,06:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292598,06:51:00,06:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292598,06:53:00,06:53:10,stop_point:SP_214,Arènes Romaines,3
+2292598,06:54:00,06:54:10,stop_point:SP_2466,Ancely,4
+2292598,06:56:00,06:56:10,stop_point:SP_1137,Carlos Gardel,5
+2292598,06:57:00,06:57:10,stop_point:SP_927,Jaufré Rudel,6
+2292598,06:57:00,06:57:10,stop_point:SP_1452,Flambère,7
+2292598,06:59:00,06:59:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292598,07:00:00,07:00:10,stop_point:SP_49,Capelles,9
+2292598,07:01:00,07:01:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292598,07:02:00,07:02:10,stop_point:SP_660,Gare de Lardenne,11
+2292598,07:03:00,07:03:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292598,07:04:00,07:04:10,stop_point:SP_3812,Salinié,13
+2292598,07:04:00,07:04:10,stop_point:SP_3502,Poutier,14
+2292598,07:05:00,07:05:10,stop_point:SP_4861,Lardenne,15
+2292598,07:06:00,07:06:10,stop_point:SP_4859,Ferro Lebres,16
+2292598,07:07:00,07:07:10,stop_point:SP_4855,Zamenhof,17
+2292598,07:08:00,07:08:10,stop_point:SP_1629,Corneillan,18
+2292598,07:09:00,07:09:10,stop_point:SP_161,Mazaygues,19
+2292598,07:10:00,07:10:10,stop_point:SP_1492,Villèle,20
+2292598,07:11:00,07:11:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292598,07:12:00,07:12:10,stop_point:SP_3103,Bordeblanche,22
+2292598,07:13:00,07:13:10,stop_point:SP_418,Pradettes,23
+2292598,07:14:00,07:14:10,stop_point:SP_2683,Passerieu,24
+2292598,07:15:00,07:15:10,stop_point:SP_2548,Ecole Espagnole,25
+2292598,07:17:00,07:17:10,stop_point:SP_4009,Basso Cambo,26
+2292599,07:10:00,07:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292599,07:11:00,07:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292599,07:13:00,07:13:10,stop_point:SP_214,Arènes Romaines,3
+2292599,07:14:00,07:14:10,stop_point:SP_2466,Ancely,4
+2292599,07:16:00,07:16:10,stop_point:SP_1137,Carlos Gardel,5
+2292599,07:17:00,07:17:10,stop_point:SP_927,Jaufré Rudel,6
+2292599,07:17:00,07:17:10,stop_point:SP_1452,Flambère,7
+2292599,07:19:00,07:19:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292599,07:20:00,07:20:10,stop_point:SP_49,Capelles,9
+2292599,07:21:00,07:21:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292599,07:22:00,07:22:10,stop_point:SP_660,Gare de Lardenne,11
+2292599,07:23:00,07:23:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292599,07:24:00,07:24:10,stop_point:SP_3812,Salinié,13
+2292599,07:24:00,07:24:10,stop_point:SP_3502,Poutier,14
+2292599,07:25:00,07:25:10,stop_point:SP_4861,Lardenne,15
+2292599,07:26:00,07:26:10,stop_point:SP_4859,Ferro Lebres,16
+2292599,07:27:00,07:27:10,stop_point:SP_4855,Zamenhof,17
+2292599,07:28:00,07:28:10,stop_point:SP_1629,Corneillan,18
+2292599,07:29:00,07:29:10,stop_point:SP_161,Mazaygues,19
+2292599,07:30:00,07:30:10,stop_point:SP_1492,Villèle,20
+2292599,07:31:00,07:31:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292599,07:32:00,07:32:10,stop_point:SP_3103,Bordeblanche,22
+2292599,07:33:00,07:33:10,stop_point:SP_418,Pradettes,23
+2292599,07:34:00,07:34:10,stop_point:SP_2683,Passerieu,24
+2292599,07:35:00,07:35:10,stop_point:SP_2548,Ecole Espagnole,25
+2292599,07:37:00,07:37:10,stop_point:SP_4009,Basso Cambo,26
+2292600,07:30:00,07:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292600,07:31:00,07:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292600,07:33:00,07:33:10,stop_point:SP_214,Arènes Romaines,3
+2292600,07:34:00,07:34:10,stop_point:SP_2466,Ancely,4
+2292600,07:36:00,07:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292600,07:37:00,07:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292600,07:38:00,07:38:10,stop_point:SP_1452,Flambère,7
+2292600,07:40:00,07:40:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292600,07:41:00,07:41:10,stop_point:SP_49,Capelles,9
+2292600,07:42:00,07:42:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292600,07:43:00,07:43:10,stop_point:SP_660,Gare de Lardenne,11
+2292600,07:44:00,07:44:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292600,07:45:00,07:45:10,stop_point:SP_3812,Salinié,13
+2292600,07:45:00,07:45:10,stop_point:SP_3502,Poutier,14
+2292600,07:46:00,07:46:10,stop_point:SP_4861,Lardenne,15
+2292600,07:47:00,07:47:10,stop_point:SP_4859,Ferro Lebres,16
+2292600,07:48:00,07:48:10,stop_point:SP_4855,Zamenhof,17
+2292600,07:49:00,07:49:10,stop_point:SP_1629,Corneillan,18
+2292600,07:50:00,07:50:10,stop_point:SP_161,Mazaygues,19
+2292600,07:51:00,07:51:10,stop_point:SP_1492,Villèle,20
+2292600,07:52:00,07:52:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292600,07:53:00,07:53:10,stop_point:SP_3103,Bordeblanche,22
+2292600,07:54:00,07:54:10,stop_point:SP_418,Pradettes,23
+2292600,07:55:00,07:55:10,stop_point:SP_2683,Passerieu,24
+2292600,07:57:00,07:57:10,stop_point:SP_2548,Ecole Espagnole,25
+2292600,08:00:00,08:00:10,stop_point:SP_4009,Basso Cambo,26
+2292601,07:50:00,07:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292601,07:52:00,07:52:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292601,07:53:00,07:53:10,stop_point:SP_214,Arènes Romaines,3
+2292601,07:55:00,07:55:10,stop_point:SP_2466,Ancely,4
+2292601,07:57:00,07:57:10,stop_point:SP_1137,Carlos Gardel,5
+2292601,07:58:00,07:58:10,stop_point:SP_927,Jaufré Rudel,6
+2292601,07:59:00,07:59:10,stop_point:SP_1452,Flambère,7
+2292601,08:01:00,08:01:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292601,08:03:00,08:03:10,stop_point:SP_49,Capelles,9
+2292601,08:04:00,08:04:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292601,08:04:00,08:04:10,stop_point:SP_660,Gare de Lardenne,11
+2292601,08:05:00,08:05:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292601,08:06:00,08:06:10,stop_point:SP_3812,Salinié,13
+2292601,08:07:00,08:07:10,stop_point:SP_3502,Poutier,14
+2292601,08:08:00,08:08:10,stop_point:SP_4861,Lardenne,15
+2292601,08:09:00,08:09:10,stop_point:SP_4859,Ferro Lebres,16
+2292601,08:10:00,08:10:10,stop_point:SP_4855,Zamenhof,17
+2292601,08:12:00,08:12:10,stop_point:SP_1629,Corneillan,18
+2292601,08:13:00,08:13:10,stop_point:SP_161,Mazaygues,19
+2292601,08:14:00,08:14:10,stop_point:SP_1492,Villèle,20
+2292601,08:15:00,08:15:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292601,08:16:00,08:16:10,stop_point:SP_3103,Bordeblanche,22
+2292601,08:17:00,08:17:10,stop_point:SP_418,Pradettes,23
+2292601,08:18:00,08:18:10,stop_point:SP_2683,Passerieu,24
+2292601,08:21:00,08:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292601,08:25:00,08:25:10,stop_point:SP_4009,Basso Cambo,26
+2292602,08:10:00,08:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292602,08:12:00,08:12:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292602,08:13:00,08:13:10,stop_point:SP_214,Arènes Romaines,3
+2292602,08:15:00,08:15:10,stop_point:SP_2466,Ancely,4
+2292602,08:17:00,08:17:10,stop_point:SP_1137,Carlos Gardel,5
+2292602,08:19:00,08:19:10,stop_point:SP_927,Jaufré Rudel,6
+2292602,08:20:00,08:20:10,stop_point:SP_1452,Flambère,7
+2292602,08:22:00,08:22:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292602,08:24:00,08:24:10,stop_point:SP_49,Capelles,9
+2292602,08:25:00,08:25:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292602,08:25:00,08:25:10,stop_point:SP_660,Gare de Lardenne,11
+2292602,08:26:00,08:26:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292602,08:27:00,08:27:10,stop_point:SP_3812,Salinié,13
+2292602,08:28:00,08:28:10,stop_point:SP_3502,Poutier,14
+2292602,08:29:00,08:29:10,stop_point:SP_4861,Lardenne,15
+2292602,08:30:00,08:30:10,stop_point:SP_4859,Ferro Lebres,16
+2292602,08:31:00,08:31:10,stop_point:SP_4855,Zamenhof,17
+2292602,08:33:00,08:33:10,stop_point:SP_1629,Corneillan,18
+2292602,08:34:00,08:34:10,stop_point:SP_161,Mazaygues,19
+2292602,08:35:00,08:35:10,stop_point:SP_1492,Villèle,20
+2292602,08:36:00,08:36:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292602,08:37:00,08:37:10,stop_point:SP_3103,Bordeblanche,22
+2292602,08:38:00,08:38:10,stop_point:SP_418,Pradettes,23
+2292602,08:39:00,08:39:10,stop_point:SP_2683,Passerieu,24
+2292602,08:42:00,08:42:10,stop_point:SP_2548,Ecole Espagnole,25
+2292602,08:46:00,08:46:10,stop_point:SP_4009,Basso Cambo,26
+2292603,08:30:00,08:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292603,08:32:00,08:32:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292603,08:33:00,08:33:10,stop_point:SP_214,Arènes Romaines,3
+2292603,08:35:00,08:35:10,stop_point:SP_2466,Ancely,4
+2292603,08:37:00,08:37:10,stop_point:SP_1137,Carlos Gardel,5
+2292603,08:39:00,08:39:10,stop_point:SP_927,Jaufré Rudel,6
+2292603,08:40:00,08:40:10,stop_point:SP_1452,Flambère,7
+2292603,08:42:00,08:42:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292603,08:43:00,08:43:10,stop_point:SP_49,Capelles,9
+2292603,08:44:00,08:44:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292603,08:45:00,08:45:10,stop_point:SP_660,Gare de Lardenne,11
+2292603,08:46:00,08:46:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292603,08:47:00,08:47:10,stop_point:SP_3812,Salinié,13
+2292603,08:47:00,08:47:10,stop_point:SP_3502,Poutier,14
+2292603,08:48:00,08:48:10,stop_point:SP_4861,Lardenne,15
+2292603,08:49:00,08:49:10,stop_point:SP_4859,Ferro Lebres,16
+2292603,08:50:00,08:50:10,stop_point:SP_4855,Zamenhof,17
+2292603,08:51:00,08:51:10,stop_point:SP_1629,Corneillan,18
+2292603,08:52:00,08:52:10,stop_point:SP_161,Mazaygues,19
+2292603,08:53:00,08:53:10,stop_point:SP_1492,Villèle,20
+2292603,08:54:00,08:54:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292603,08:55:00,08:55:10,stop_point:SP_3103,Bordeblanche,22
+2292603,08:56:00,08:56:10,stop_point:SP_418,Pradettes,23
+2292603,08:57:00,08:57:10,stop_point:SP_2683,Passerieu,24
+2292603,08:58:00,08:58:10,stop_point:SP_2548,Ecole Espagnole,25
+2292603,09:01:00,09:01:10,stop_point:SP_4009,Basso Cambo,26
+2292604,08:50:00,08:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292604,08:51:00,08:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292604,08:53:00,08:53:10,stop_point:SP_214,Arènes Romaines,3
+2292604,08:54:00,08:54:10,stop_point:SP_2466,Ancely,4
+2292604,08:56:00,08:56:10,stop_point:SP_1137,Carlos Gardel,5
+2292604,08:57:00,08:57:10,stop_point:SP_927,Jaufré Rudel,6
+2292604,08:58:00,08:58:10,stop_point:SP_1452,Flambère,7
+2292604,09:00:00,09:00:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292604,09:01:00,09:01:10,stop_point:SP_49,Capelles,9
+2292604,09:02:00,09:02:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292604,09:03:00,09:03:10,stop_point:SP_660,Gare de Lardenne,11
+2292604,09:04:00,09:04:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292604,09:05:00,09:05:10,stop_point:SP_3812,Salinié,13
+2292604,09:05:00,09:05:10,stop_point:SP_3502,Poutier,14
+2292604,09:06:00,09:06:10,stop_point:SP_4861,Lardenne,15
+2292604,09:07:00,09:07:10,stop_point:SP_4859,Ferro Lebres,16
+2292604,09:08:00,09:08:10,stop_point:SP_4855,Zamenhof,17
+2292604,09:09:00,09:09:10,stop_point:SP_1629,Corneillan,18
+2292604,09:10:00,09:10:10,stop_point:SP_161,Mazaygues,19
+2292604,09:11:00,09:11:10,stop_point:SP_1492,Villèle,20
+2292604,09:12:00,09:12:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292604,09:13:00,09:13:10,stop_point:SP_3103,Bordeblanche,22
+2292604,09:14:00,09:14:10,stop_point:SP_418,Pradettes,23
+2292604,09:15:00,09:15:10,stop_point:SP_2683,Passerieu,24
+2292604,09:16:00,09:16:10,stop_point:SP_2548,Ecole Espagnole,25
+2292604,09:19:00,09:19:10,stop_point:SP_4009,Basso Cambo,26
+2292605,09:10:00,09:10:10,stop_point:SP_1319,Pelletier Purpan,1
+2292605,09:11:00,09:11:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292605,09:13:00,09:13:10,stop_point:SP_214,Arènes Romaines,3
+2292605,09:14:00,09:14:10,stop_point:SP_2466,Ancely,4
+2292605,09:16:00,09:16:10,stop_point:SP_1137,Carlos Gardel,5
+2292605,09:17:00,09:17:10,stop_point:SP_927,Jaufré Rudel,6
+2292605,09:18:00,09:18:10,stop_point:SP_1452,Flambère,7
+2292605,09:20:00,09:20:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292605,09:21:00,09:21:10,stop_point:SP_49,Capelles,9
+2292605,09:22:00,09:22:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292605,09:23:00,09:23:10,stop_point:SP_660,Gare de Lardenne,11
+2292605,09:24:00,09:24:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292605,09:25:00,09:25:10,stop_point:SP_3812,Salinié,13
+2292605,09:25:00,09:25:10,stop_point:SP_3502,Poutier,14
+2292605,09:26:00,09:26:10,stop_point:SP_4861,Lardenne,15
+2292605,09:27:00,09:27:10,stop_point:SP_4859,Ferro Lebres,16
+2292605,09:28:00,09:28:10,stop_point:SP_4855,Zamenhof,17
+2292605,09:29:00,09:29:10,stop_point:SP_1629,Corneillan,18
+2292605,09:30:00,09:30:10,stop_point:SP_161,Mazaygues,19
+2292605,09:31:00,09:31:10,stop_point:SP_1492,Villèle,20
+2292605,09:32:00,09:32:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292605,09:33:00,09:33:10,stop_point:SP_3103,Bordeblanche,22
+2292605,09:34:00,09:34:10,stop_point:SP_418,Pradettes,23
+2292605,09:35:00,09:35:10,stop_point:SP_2683,Passerieu,24
+2292605,09:36:00,09:36:10,stop_point:SP_2548,Ecole Espagnole,25
+2292605,09:39:00,09:39:10,stop_point:SP_4009,Basso Cambo,26
+2292606,09:30:00,09:30:10,stop_point:SP_1319,Pelletier Purpan,1
+2292606,09:31:00,09:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292606,09:33:00,09:33:10,stop_point:SP_214,Arènes Romaines,3
+2292606,09:34:00,09:34:10,stop_point:SP_2466,Ancely,4
+2292606,09:36:00,09:36:10,stop_point:SP_1137,Carlos Gardel,5
+2292606,09:37:00,09:37:10,stop_point:SP_927,Jaufré Rudel,6
+2292606,09:38:00,09:38:10,stop_point:SP_1452,Flambère,7
+2292606,09:40:00,09:40:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292606,09:41:00,09:41:10,stop_point:SP_49,Capelles,9
+2292606,09:42:00,09:42:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292606,09:43:00,09:43:10,stop_point:SP_660,Gare de Lardenne,11
+2292606,09:44:00,09:44:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292606,09:45:00,09:45:10,stop_point:SP_3812,Salinié,13
+2292606,09:45:00,09:45:10,stop_point:SP_3502,Poutier,14
+2292606,09:46:00,09:46:10,stop_point:SP_4861,Lardenne,15
+2292606,09:47:00,09:47:10,stop_point:SP_4859,Ferro Lebres,16
+2292606,09:48:00,09:48:10,stop_point:SP_4855,Zamenhof,17
+2292606,09:49:00,09:49:10,stop_point:SP_1629,Corneillan,18
+2292606,09:50:00,09:50:10,stop_point:SP_161,Mazaygues,19
+2292606,09:51:00,09:51:10,stop_point:SP_1492,Villèle,20
+2292606,09:52:00,09:52:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292606,09:53:00,09:53:10,stop_point:SP_3103,Bordeblanche,22
+2292606,09:54:00,09:54:10,stop_point:SP_418,Pradettes,23
+2292606,09:55:00,09:55:10,stop_point:SP_2683,Passerieu,24
+2292606,09:56:00,09:56:10,stop_point:SP_2548,Ecole Espagnole,25
+2292606,09:59:00,09:59:10,stop_point:SP_4009,Basso Cambo,26
+2292607,09:55:00,09:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292607,09:56:00,09:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292607,09:58:00,09:58:10,stop_point:SP_214,Arènes Romaines,3
+2292607,09:59:00,09:59:10,stop_point:SP_2466,Ancely,4
+2292607,10:01:00,10:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292607,10:02:00,10:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292607,10:03:00,10:03:10,stop_point:SP_1452,Flambère,7
+2292607,10:05:00,10:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292607,10:06:00,10:06:10,stop_point:SP_49,Capelles,9
+2292607,10:07:00,10:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292607,10:08:00,10:08:10,stop_point:SP_660,Gare de Lardenne,11
+2292607,10:09:00,10:09:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292607,10:10:00,10:10:10,stop_point:SP_3812,Salinié,13
+2292607,10:10:00,10:10:10,stop_point:SP_3502,Poutier,14
+2292607,10:11:00,10:11:10,stop_point:SP_4861,Lardenne,15
+2292607,10:12:00,10:12:10,stop_point:SP_4859,Ferro Lebres,16
+2292607,10:13:00,10:13:10,stop_point:SP_4855,Zamenhof,17
+2292607,10:14:00,10:14:10,stop_point:SP_1629,Corneillan,18
+2292607,10:15:00,10:15:10,stop_point:SP_161,Mazaygues,19
+2292607,10:16:00,10:16:10,stop_point:SP_1492,Villèle,20
+2292607,10:17:00,10:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292607,10:18:00,10:18:10,stop_point:SP_3103,Bordeblanche,22
+2292607,10:19:00,10:19:10,stop_point:SP_418,Pradettes,23
+2292607,10:20:00,10:20:10,stop_point:SP_2683,Passerieu,24
+2292607,10:21:00,10:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292607,10:24:00,10:24:10,stop_point:SP_4009,Basso Cambo,26
+2292608,10:25:00,10:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292608,10:26:00,10:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292608,10:28:00,10:28:10,stop_point:SP_214,Arènes Romaines,3
+2292608,10:29:00,10:29:10,stop_point:SP_2466,Ancely,4
+2292608,10:31:00,10:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292608,10:32:00,10:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292608,10:33:00,10:33:10,stop_point:SP_1452,Flambère,7
+2292608,10:35:00,10:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292608,10:36:00,10:36:10,stop_point:SP_49,Capelles,9
+2292608,10:37:00,10:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292608,10:37:00,10:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292608,10:38:00,10:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292608,10:39:00,10:39:10,stop_point:SP_3812,Salinié,13
+2292608,10:39:00,10:39:10,stop_point:SP_3502,Poutier,14
+2292608,10:40:00,10:40:10,stop_point:SP_4861,Lardenne,15
+2292608,10:41:00,10:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292608,10:42:00,10:42:10,stop_point:SP_4855,Zamenhof,17
+2292608,10:43:00,10:43:10,stop_point:SP_1629,Corneillan,18
+2292608,10:44:00,10:44:10,stop_point:SP_161,Mazaygues,19
+2292608,10:45:00,10:45:10,stop_point:SP_1492,Villèle,20
+2292608,10:46:00,10:46:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292608,10:47:00,10:47:10,stop_point:SP_3103,Bordeblanche,22
+2292608,10:48:00,10:48:10,stop_point:SP_418,Pradettes,23
+2292608,10:49:00,10:49:10,stop_point:SP_2683,Passerieu,24
+2292608,10:50:00,10:50:10,stop_point:SP_2548,Ecole Espagnole,25
+2292608,10:53:00,10:53:10,stop_point:SP_4009,Basso Cambo,26
+2292609,10:55:00,10:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292609,10:56:00,10:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292609,10:58:00,10:58:10,stop_point:SP_214,Arènes Romaines,3
+2292609,10:59:00,10:59:10,stop_point:SP_2466,Ancely,4
+2292609,11:01:00,11:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292609,11:02:00,11:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292609,11:03:00,11:03:10,stop_point:SP_1452,Flambère,7
+2292609,11:05:00,11:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292609,11:06:00,11:06:10,stop_point:SP_49,Capelles,9
+2292609,11:07:00,11:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292609,11:07:00,11:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292609,11:08:00,11:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292609,11:09:00,11:09:10,stop_point:SP_3812,Salinié,13
+2292609,11:09:00,11:09:10,stop_point:SP_3502,Poutier,14
+2292609,11:10:00,11:10:10,stop_point:SP_4861,Lardenne,15
+2292609,11:11:00,11:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292609,11:12:00,11:12:10,stop_point:SP_4855,Zamenhof,17
+2292609,11:14:00,11:14:10,stop_point:SP_1629,Corneillan,18
+2292609,11:15:00,11:15:10,stop_point:SP_161,Mazaygues,19
+2292609,11:16:00,11:16:10,stop_point:SP_1492,Villèle,20
+2292609,11:17:00,11:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292609,11:18:00,11:18:10,stop_point:SP_3103,Bordeblanche,22
+2292609,11:19:00,11:19:10,stop_point:SP_418,Pradettes,23
+2292609,11:20:00,11:20:10,stop_point:SP_2683,Passerieu,24
+2292609,11:21:00,11:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292609,11:24:00,11:24:10,stop_point:SP_4009,Basso Cambo,26
+2292610,11:25:00,11:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292610,11:26:00,11:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292610,11:28:00,11:28:10,stop_point:SP_214,Arènes Romaines,3
+2292610,11:29:00,11:29:10,stop_point:SP_2466,Ancely,4
+2292610,11:31:00,11:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292610,11:32:00,11:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292610,11:33:00,11:33:10,stop_point:SP_1452,Flambère,7
+2292610,11:35:00,11:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292610,11:36:00,11:36:10,stop_point:SP_49,Capelles,9
+2292610,11:37:00,11:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292610,11:37:00,11:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292610,11:38:00,11:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292610,11:39:00,11:39:10,stop_point:SP_3812,Salinié,13
+2292610,11:39:00,11:39:10,stop_point:SP_3502,Poutier,14
+2292610,11:40:00,11:40:10,stop_point:SP_4861,Lardenne,15
+2292610,11:41:00,11:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292610,11:42:00,11:42:10,stop_point:SP_4855,Zamenhof,17
+2292610,11:44:00,11:44:10,stop_point:SP_1629,Corneillan,18
+2292610,11:45:00,11:45:10,stop_point:SP_161,Mazaygues,19
+2292610,11:46:00,11:46:10,stop_point:SP_1492,Villèle,20
+2292610,11:47:00,11:47:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292610,11:48:00,11:48:10,stop_point:SP_3103,Bordeblanche,22
+2292610,11:49:00,11:49:10,stop_point:SP_418,Pradettes,23
+2292610,11:50:00,11:50:10,stop_point:SP_2683,Passerieu,24
+2292610,11:51:00,11:51:10,stop_point:SP_2548,Ecole Espagnole,25
+2292610,11:54:00,11:54:10,stop_point:SP_4009,Basso Cambo,26
+2292611,11:55:00,11:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292611,11:56:00,11:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292611,11:58:00,11:58:10,stop_point:SP_214,Arènes Romaines,3
+2292611,11:59:00,11:59:10,stop_point:SP_2466,Ancely,4
+2292611,12:01:00,12:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292611,12:02:00,12:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292611,12:03:00,12:03:10,stop_point:SP_1452,Flambère,7
+2292611,12:05:00,12:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292611,12:06:00,12:06:10,stop_point:SP_49,Capelles,9
+2292611,12:07:00,12:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292611,12:07:00,12:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292611,12:08:00,12:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292611,12:09:00,12:09:10,stop_point:SP_3812,Salinié,13
+2292611,12:09:00,12:09:10,stop_point:SP_3502,Poutier,14
+2292611,12:10:00,12:10:10,stop_point:SP_4861,Lardenne,15
+2292611,12:11:00,12:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292611,12:12:00,12:12:10,stop_point:SP_4855,Zamenhof,17
+2292611,12:14:00,12:14:10,stop_point:SP_1629,Corneillan,18
+2292611,12:15:00,12:15:10,stop_point:SP_161,Mazaygues,19
+2292611,12:16:00,12:16:10,stop_point:SP_1492,Villèle,20
+2292611,12:17:00,12:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292611,12:18:00,12:18:10,stop_point:SP_3103,Bordeblanche,22
+2292611,12:19:00,12:19:10,stop_point:SP_418,Pradettes,23
+2292611,12:20:00,12:20:10,stop_point:SP_2683,Passerieu,24
+2292611,12:21:00,12:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292611,12:24:00,12:24:10,stop_point:SP_4009,Basso Cambo,26
+2292612,12:25:00,12:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292612,12:26:00,12:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292612,12:28:00,12:28:10,stop_point:SP_214,Arènes Romaines,3
+2292612,12:29:00,12:29:10,stop_point:SP_2466,Ancely,4
+2292612,12:31:00,12:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292612,12:32:00,12:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292612,12:33:00,12:33:10,stop_point:SP_1452,Flambère,7
+2292612,12:35:00,12:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292612,12:36:00,12:36:10,stop_point:SP_49,Capelles,9
+2292612,12:37:00,12:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292612,12:37:00,12:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292612,12:38:00,12:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292612,12:39:00,12:39:10,stop_point:SP_3812,Salinié,13
+2292612,12:39:00,12:39:10,stop_point:SP_3502,Poutier,14
+2292612,12:40:00,12:40:10,stop_point:SP_4861,Lardenne,15
+2292612,12:41:00,12:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292612,12:42:00,12:42:10,stop_point:SP_4855,Zamenhof,17
+2292612,12:44:00,12:44:10,stop_point:SP_1629,Corneillan,18
+2292612,12:45:00,12:45:10,stop_point:SP_161,Mazaygues,19
+2292612,12:46:00,12:46:10,stop_point:SP_1492,Villèle,20
+2292612,12:47:00,12:47:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292612,12:48:00,12:48:10,stop_point:SP_3103,Bordeblanche,22
+2292612,12:49:00,12:49:10,stop_point:SP_418,Pradettes,23
+2292612,12:50:00,12:50:10,stop_point:SP_2683,Passerieu,24
+2292612,12:51:00,12:51:10,stop_point:SP_2548,Ecole Espagnole,25
+2292612,12:54:00,12:54:10,stop_point:SP_4009,Basso Cambo,26
+2292613,12:55:00,12:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292613,12:56:00,12:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292613,12:58:00,12:58:10,stop_point:SP_214,Arènes Romaines,3
+2292613,12:59:00,12:59:10,stop_point:SP_2466,Ancely,4
+2292613,13:01:00,13:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292613,13:02:00,13:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292613,13:03:00,13:03:10,stop_point:SP_1452,Flambère,7
+2292613,13:05:00,13:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292613,13:06:00,13:06:10,stop_point:SP_49,Capelles,9
+2292613,13:07:00,13:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292613,13:07:00,13:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292613,13:08:00,13:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292613,13:09:00,13:09:10,stop_point:SP_3812,Salinié,13
+2292613,13:09:00,13:09:10,stop_point:SP_3502,Poutier,14
+2292613,13:10:00,13:10:10,stop_point:SP_4861,Lardenne,15
+2292613,13:11:00,13:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292613,13:12:00,13:12:10,stop_point:SP_4855,Zamenhof,17
+2292613,13:14:00,13:14:10,stop_point:SP_1629,Corneillan,18
+2292613,13:15:00,13:15:10,stop_point:SP_161,Mazaygues,19
+2292613,13:16:00,13:16:10,stop_point:SP_1492,Villèle,20
+2292613,13:17:00,13:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292613,13:18:00,13:18:10,stop_point:SP_3103,Bordeblanche,22
+2292613,13:19:00,13:19:10,stop_point:SP_418,Pradettes,23
+2292613,13:20:00,13:20:10,stop_point:SP_2683,Passerieu,24
+2292613,13:21:00,13:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292613,13:24:00,13:24:10,stop_point:SP_4009,Basso Cambo,26
+2292614,13:25:00,13:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292614,13:26:00,13:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292614,13:28:00,13:28:10,stop_point:SP_214,Arènes Romaines,3
+2292614,13:29:00,13:29:10,stop_point:SP_2466,Ancely,4
+2292614,13:31:00,13:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292614,13:32:00,13:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292614,13:33:00,13:33:10,stop_point:SP_1452,Flambère,7
+2292614,13:35:00,13:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292614,13:36:00,13:36:10,stop_point:SP_49,Capelles,9
+2292614,13:37:00,13:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292614,13:37:00,13:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292614,13:38:00,13:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292614,13:39:00,13:39:10,stop_point:SP_3812,Salinié,13
+2292614,13:39:00,13:39:10,stop_point:SP_3502,Poutier,14
+2292614,13:40:00,13:40:10,stop_point:SP_4861,Lardenne,15
+2292614,13:41:00,13:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292614,13:42:00,13:42:10,stop_point:SP_4855,Zamenhof,17
+2292614,13:44:00,13:44:10,stop_point:SP_1629,Corneillan,18
+2292614,13:45:00,13:45:10,stop_point:SP_161,Mazaygues,19
+2292614,13:46:00,13:46:10,stop_point:SP_1492,Villèle,20
+2292614,13:47:00,13:47:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292614,13:48:00,13:48:10,stop_point:SP_3103,Bordeblanche,22
+2292614,13:49:00,13:49:10,stop_point:SP_418,Pradettes,23
+2292614,13:50:00,13:50:10,stop_point:SP_2683,Passerieu,24
+2292614,13:51:00,13:51:10,stop_point:SP_2548,Ecole Espagnole,25
+2292614,13:54:00,13:54:10,stop_point:SP_4009,Basso Cambo,26
+2292615,13:55:00,13:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292615,13:56:00,13:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292615,13:58:00,13:58:10,stop_point:SP_214,Arènes Romaines,3
+2292615,13:59:00,13:59:10,stop_point:SP_2466,Ancely,4
+2292615,14:01:00,14:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292615,14:02:00,14:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292615,14:03:00,14:03:10,stop_point:SP_1452,Flambère,7
+2292615,14:05:00,14:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292615,14:06:00,14:06:10,stop_point:SP_49,Capelles,9
+2292615,14:07:00,14:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292615,14:07:00,14:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292615,14:08:00,14:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292615,14:09:00,14:09:10,stop_point:SP_3812,Salinié,13
+2292615,14:09:00,14:09:10,stop_point:SP_3502,Poutier,14
+2292615,14:10:00,14:10:10,stop_point:SP_4861,Lardenne,15
+2292615,14:11:00,14:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292615,14:12:00,14:12:10,stop_point:SP_4855,Zamenhof,17
+2292615,14:14:00,14:14:10,stop_point:SP_1629,Corneillan,18
+2292615,14:15:00,14:15:10,stop_point:SP_161,Mazaygues,19
+2292615,14:16:00,14:16:10,stop_point:SP_1492,Villèle,20
+2292615,14:17:00,14:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292615,14:18:00,14:18:10,stop_point:SP_3103,Bordeblanche,22
+2292615,14:19:00,14:19:10,stop_point:SP_418,Pradettes,23
+2292615,14:20:00,14:20:10,stop_point:SP_2683,Passerieu,24
+2292615,14:21:00,14:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292615,14:24:00,14:24:10,stop_point:SP_4009,Basso Cambo,26
+2292616,14:25:00,14:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292616,14:26:00,14:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292616,14:28:00,14:28:10,stop_point:SP_214,Arènes Romaines,3
+2292616,14:29:00,14:29:10,stop_point:SP_2466,Ancely,4
+2292616,14:31:00,14:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292616,14:32:00,14:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292616,14:33:00,14:33:10,stop_point:SP_1452,Flambère,7
+2292616,14:35:00,14:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292616,14:36:00,14:36:10,stop_point:SP_49,Capelles,9
+2292616,14:37:00,14:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292616,14:37:00,14:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292616,14:38:00,14:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292616,14:39:00,14:39:10,stop_point:SP_3812,Salinié,13
+2292616,14:39:00,14:39:10,stop_point:SP_3502,Poutier,14
+2292616,14:40:00,14:40:10,stop_point:SP_4861,Lardenne,15
+2292616,14:41:00,14:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292616,14:42:00,14:42:10,stop_point:SP_4855,Zamenhof,17
+2292616,14:44:00,14:44:10,stop_point:SP_1629,Corneillan,18
+2292616,14:45:00,14:45:10,stop_point:SP_161,Mazaygues,19
+2292616,14:46:00,14:46:10,stop_point:SP_1492,Villèle,20
+2292616,14:47:00,14:47:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292616,14:48:00,14:48:10,stop_point:SP_3103,Bordeblanche,22
+2292616,14:49:00,14:49:10,stop_point:SP_418,Pradettes,23
+2292616,14:50:00,14:50:10,stop_point:SP_2683,Passerieu,24
+2292616,14:51:00,14:51:10,stop_point:SP_2548,Ecole Espagnole,25
+2292616,14:54:00,14:54:10,stop_point:SP_4009,Basso Cambo,26
+2292617,14:55:00,14:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292617,14:56:00,14:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292617,14:58:00,14:58:10,stop_point:SP_214,Arènes Romaines,3
+2292617,14:59:00,14:59:10,stop_point:SP_2466,Ancely,4
+2292617,15:01:00,15:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292617,15:02:00,15:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292617,15:03:00,15:03:10,stop_point:SP_1452,Flambère,7
+2292617,15:05:00,15:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292617,15:06:00,15:06:10,stop_point:SP_49,Capelles,9
+2292617,15:07:00,15:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292617,15:07:00,15:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292617,15:08:00,15:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292617,15:09:00,15:09:10,stop_point:SP_3812,Salinié,13
+2292617,15:09:00,15:09:10,stop_point:SP_3502,Poutier,14
+2292617,15:10:00,15:10:10,stop_point:SP_4861,Lardenne,15
+2292617,15:11:00,15:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292617,15:12:00,15:12:10,stop_point:SP_4855,Zamenhof,17
+2292617,15:14:00,15:14:10,stop_point:SP_1629,Corneillan,18
+2292617,15:15:00,15:15:10,stop_point:SP_161,Mazaygues,19
+2292617,15:16:00,15:16:10,stop_point:SP_1492,Villèle,20
+2292617,15:17:00,15:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292617,15:18:00,15:18:10,stop_point:SP_3103,Bordeblanche,22
+2292617,15:19:00,15:19:10,stop_point:SP_418,Pradettes,23
+2292617,15:20:00,15:20:10,stop_point:SP_2683,Passerieu,24
+2292617,15:21:00,15:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292617,15:24:00,15:24:10,stop_point:SP_4009,Basso Cambo,26
+2292618,15:25:00,15:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292618,15:26:00,15:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292618,15:28:00,15:28:10,stop_point:SP_214,Arènes Romaines,3
+2292618,15:29:00,15:29:10,stop_point:SP_2466,Ancely,4
+2292618,15:31:00,15:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292618,15:32:00,15:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292618,15:33:00,15:33:10,stop_point:SP_1452,Flambère,7
+2292618,15:35:00,15:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292618,15:36:00,15:36:10,stop_point:SP_49,Capelles,9
+2292618,15:37:00,15:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292618,15:38:00,15:38:10,stop_point:SP_660,Gare de Lardenne,11
+2292618,15:39:00,15:39:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292618,15:40:00,15:40:10,stop_point:SP_3812,Salinié,13
+2292618,15:40:00,15:40:10,stop_point:SP_3502,Poutier,14
+2292618,15:41:00,15:41:10,stop_point:SP_4861,Lardenne,15
+2292618,15:42:00,15:42:10,stop_point:SP_4859,Ferro Lebres,16
+2292618,15:43:00,15:43:10,stop_point:SP_4855,Zamenhof,17
+2292618,15:45:00,15:45:10,stop_point:SP_1629,Corneillan,18
+2292618,15:46:00,15:46:10,stop_point:SP_161,Mazaygues,19
+2292618,15:47:00,15:47:10,stop_point:SP_1492,Villèle,20
+2292618,15:48:00,15:48:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292618,15:49:00,15:49:10,stop_point:SP_3103,Bordeblanche,22
+2292618,15:50:00,15:50:10,stop_point:SP_418,Pradettes,23
+2292618,15:51:00,15:51:10,stop_point:SP_2683,Passerieu,24
+2292618,15:52:00,15:52:10,stop_point:SP_2548,Ecole Espagnole,25
+2292618,15:55:00,15:55:10,stop_point:SP_4009,Basso Cambo,26
+2292619,15:50:00,15:50:10,stop_point:SP_1319,Pelletier Purpan,1
+2292619,15:51:00,15:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292619,15:53:00,15:53:10,stop_point:SP_214,Arènes Romaines,3
+2292619,15:54:00,15:54:10,stop_point:SP_2466,Ancely,4
+2292619,15:56:00,15:56:10,stop_point:SP_1137,Carlos Gardel,5
+2292619,15:57:00,15:57:10,stop_point:SP_927,Jaufré Rudel,6
+2292619,15:58:00,15:58:10,stop_point:SP_1452,Flambère,7
+2292619,16:00:00,16:00:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292619,16:01:00,16:01:10,stop_point:SP_49,Capelles,9
+2292619,16:02:00,16:02:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292619,16:03:00,16:03:10,stop_point:SP_660,Gare de Lardenne,11
+2292619,16:04:00,16:04:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292619,16:05:00,16:05:10,stop_point:SP_3812,Salinié,13
+2292619,16:05:00,16:05:10,stop_point:SP_3502,Poutier,14
+2292619,16:06:00,16:06:10,stop_point:SP_4861,Lardenne,15
+2292619,16:07:00,16:07:10,stop_point:SP_4859,Ferro Lebres,16
+2292619,16:08:00,16:08:10,stop_point:SP_4855,Zamenhof,17
+2292619,16:10:00,16:10:10,stop_point:SP_1629,Corneillan,18
+2292619,16:11:00,16:11:10,stop_point:SP_161,Mazaygues,19
+2292619,16:12:00,16:12:10,stop_point:SP_1492,Villèle,20
+2292619,16:13:00,16:13:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292619,16:14:00,16:14:10,stop_point:SP_3103,Bordeblanche,22
+2292619,16:15:00,16:15:10,stop_point:SP_418,Pradettes,23
+2292619,16:16:00,16:16:10,stop_point:SP_2683,Passerieu,24
+2292619,16:17:00,16:17:10,stop_point:SP_2548,Ecole Espagnole,25
+2292619,16:20:00,16:20:10,stop_point:SP_4009,Basso Cambo,26
+2292620,16:15:00,16:15:10,stop_point:SP_1319,Pelletier Purpan,1
+2292620,16:17:00,16:17:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292620,16:19:00,16:19:10,stop_point:SP_214,Arènes Romaines,3
+2292620,16:21:00,16:21:10,stop_point:SP_2466,Ancely,4
+2292620,16:23:00,16:23:10,stop_point:SP_1137,Carlos Gardel,5
+2292620,16:25:00,16:25:10,stop_point:SP_927,Jaufré Rudel,6
+2292620,16:26:00,16:26:10,stop_point:SP_1452,Flambère,7
+2292620,16:28:00,16:28:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292620,16:29:00,16:29:10,stop_point:SP_49,Capelles,9
+2292620,16:30:00,16:30:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292620,16:31:00,16:31:10,stop_point:SP_660,Gare de Lardenne,11
+2292620,16:32:00,16:32:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292620,16:33:00,16:33:10,stop_point:SP_3812,Salinié,13
+2292620,16:33:00,16:33:10,stop_point:SP_3502,Poutier,14
+2292620,16:34:00,16:34:10,stop_point:SP_4861,Lardenne,15
+2292620,16:35:00,16:35:10,stop_point:SP_4859,Ferro Lebres,16
+2292620,16:36:00,16:36:10,stop_point:SP_4855,Zamenhof,17
+2292620,16:38:00,16:38:10,stop_point:SP_1629,Corneillan,18
+2292620,16:39:00,16:39:10,stop_point:SP_161,Mazaygues,19
+2292620,16:40:00,16:40:10,stop_point:SP_1492,Villèle,20
+2292620,16:41:00,16:41:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292620,16:42:00,16:42:10,stop_point:SP_3103,Bordeblanche,22
+2292620,16:43:00,16:43:10,stop_point:SP_418,Pradettes,23
+2292620,16:44:00,16:44:10,stop_point:SP_2683,Passerieu,24
+2292620,16:45:00,16:45:10,stop_point:SP_2548,Ecole Espagnole,25
+2292620,16:48:00,16:48:10,stop_point:SP_4009,Basso Cambo,26
+2292621,16:35:00,16:35:10,stop_point:SP_1319,Pelletier Purpan,1
+2292621,16:37:00,16:37:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292621,16:39:00,16:39:10,stop_point:SP_214,Arènes Romaines,3
+2292621,16:41:00,16:41:10,stop_point:SP_2466,Ancely,4
+2292621,16:44:00,16:44:10,stop_point:SP_1137,Carlos Gardel,5
+2292621,16:46:00,16:46:10,stop_point:SP_927,Jaufré Rudel,6
+2292621,16:47:00,16:47:10,stop_point:SP_1452,Flambère,7
+2292621,16:50:00,16:50:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292621,16:51:00,16:51:10,stop_point:SP_49,Capelles,9
+2292621,16:52:00,16:52:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292621,16:53:00,16:53:10,stop_point:SP_660,Gare de Lardenne,11
+2292621,16:54:00,16:54:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292621,16:55:00,16:55:10,stop_point:SP_3812,Salinié,13
+2292621,16:55:00,16:55:10,stop_point:SP_3502,Poutier,14
+2292621,16:56:00,16:56:10,stop_point:SP_4861,Lardenne,15
+2292621,16:57:00,16:57:10,stop_point:SP_4859,Ferro Lebres,16
+2292621,16:58:00,16:58:10,stop_point:SP_4855,Zamenhof,17
+2292621,17:00:00,17:00:10,stop_point:SP_1629,Corneillan,18
+2292621,17:01:00,17:01:10,stop_point:SP_161,Mazaygues,19
+2292621,17:02:00,17:02:10,stop_point:SP_1492,Villèle,20
+2292621,17:03:00,17:03:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292621,17:04:00,17:04:10,stop_point:SP_3103,Bordeblanche,22
+2292621,17:05:00,17:05:10,stop_point:SP_418,Pradettes,23
+2292621,17:06:00,17:06:10,stop_point:SP_2683,Passerieu,24
+2292621,17:07:00,17:07:10,stop_point:SP_2548,Ecole Espagnole,25
+2292621,17:10:00,17:10:10,stop_point:SP_4009,Basso Cambo,26
+2292622,16:55:00,16:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292622,16:57:00,16:57:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292622,16:59:00,16:59:10,stop_point:SP_214,Arènes Romaines,3
+2292622,17:02:00,17:02:10,stop_point:SP_2466,Ancely,4
+2292622,17:05:00,17:05:10,stop_point:SP_1137,Carlos Gardel,5
+2292622,17:07:00,17:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292622,17:08:00,17:08:10,stop_point:SP_1452,Flambère,7
+2292622,17:11:00,17:11:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292622,17:12:00,17:12:10,stop_point:SP_49,Capelles,9
+2292622,17:13:00,17:13:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292622,17:14:00,17:14:10,stop_point:SP_660,Gare de Lardenne,11
+2292622,17:15:00,17:15:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292622,17:16:00,17:16:10,stop_point:SP_3812,Salinié,13
+2292622,17:16:00,17:16:10,stop_point:SP_3502,Poutier,14
+2292622,17:17:00,17:17:10,stop_point:SP_4861,Lardenne,15
+2292622,17:18:00,17:18:10,stop_point:SP_4859,Ferro Lebres,16
+2292622,17:19:00,17:19:10,stop_point:SP_4855,Zamenhof,17
+2292622,17:21:00,17:21:10,stop_point:SP_1629,Corneillan,18
+2292622,17:23:00,17:23:10,stop_point:SP_161,Mazaygues,19
+2292622,17:24:00,17:24:10,stop_point:SP_1492,Villèle,20
+2292622,17:24:00,17:24:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292622,17:26:00,17:26:10,stop_point:SP_3103,Bordeblanche,22
+2292622,17:27:00,17:27:10,stop_point:SP_418,Pradettes,23
+2292622,17:28:00,17:28:10,stop_point:SP_2683,Passerieu,24
+2292622,17:30:00,17:30:10,stop_point:SP_2548,Ecole Espagnole,25
+2292622,17:34:00,17:34:10,stop_point:SP_4009,Basso Cambo,26
+2292623,17:15:00,17:15:10,stop_point:SP_1319,Pelletier Purpan,1
+2292623,17:18:00,17:18:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292623,17:21:00,17:21:10,stop_point:SP_214,Arènes Romaines,3
+2292623,17:24:00,17:24:10,stop_point:SP_2466,Ancely,4
+2292623,17:27:00,17:27:10,stop_point:SP_1137,Carlos Gardel,5
+2292623,17:30:00,17:30:10,stop_point:SP_927,Jaufré Rudel,6
+2292623,17:31:00,17:31:10,stop_point:SP_1452,Flambère,7
+2292623,17:35:00,17:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292623,17:36:00,17:36:10,stop_point:SP_49,Capelles,9
+2292623,17:37:00,17:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292623,17:38:00,17:38:10,stop_point:SP_660,Gare de Lardenne,11
+2292623,17:39:00,17:39:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292623,17:40:00,17:40:10,stop_point:SP_3812,Salinié,13
+2292623,17:40:00,17:40:10,stop_point:SP_3502,Poutier,14
+2292623,17:41:00,17:41:10,stop_point:SP_4861,Lardenne,15
+2292623,17:42:00,17:42:10,stop_point:SP_4859,Ferro Lebres,16
+2292623,17:43:00,17:43:10,stop_point:SP_4855,Zamenhof,17
+2292623,17:45:00,17:45:10,stop_point:SP_1629,Corneillan,18
+2292623,17:47:00,17:47:10,stop_point:SP_161,Mazaygues,19
+2292623,17:48:00,17:48:10,stop_point:SP_1492,Villèle,20
+2292623,17:48:00,17:48:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292623,17:50:00,17:50:10,stop_point:SP_3103,Bordeblanche,22
+2292623,17:51:00,17:51:10,stop_point:SP_418,Pradettes,23
+2292623,17:52:00,17:52:10,stop_point:SP_2683,Passerieu,24
+2292623,17:54:00,17:54:10,stop_point:SP_2548,Ecole Espagnole,25
+2292623,17:58:00,17:58:10,stop_point:SP_4009,Basso Cambo,26
+2292624,17:35:00,17:35:10,stop_point:SP_1319,Pelletier Purpan,1
+2292624,17:38:00,17:38:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292624,17:41:00,17:41:10,stop_point:SP_214,Arènes Romaines,3
+2292624,17:44:00,17:44:10,stop_point:SP_2466,Ancely,4
+2292624,17:47:00,17:47:10,stop_point:SP_1137,Carlos Gardel,5
+2292624,17:50:00,17:50:10,stop_point:SP_927,Jaufré Rudel,6
+2292624,17:51:00,17:51:10,stop_point:SP_1452,Flambère,7
+2292624,17:55:00,17:55:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292624,17:56:00,17:56:10,stop_point:SP_49,Capelles,9
+2292624,17:57:00,17:57:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292624,17:58:00,17:58:10,stop_point:SP_660,Gare de Lardenne,11
+2292624,17:59:00,17:59:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292624,18:00:00,18:00:10,stop_point:SP_3812,Salinié,13
+2292624,18:00:00,18:00:10,stop_point:SP_3502,Poutier,14
+2292624,18:01:00,18:01:10,stop_point:SP_4861,Lardenne,15
+2292624,18:02:00,18:02:10,stop_point:SP_4859,Ferro Lebres,16
+2292624,18:03:00,18:03:10,stop_point:SP_4855,Zamenhof,17
+2292624,18:05:00,18:05:10,stop_point:SP_1629,Corneillan,18
+2292624,18:07:00,18:07:10,stop_point:SP_161,Mazaygues,19
+2292624,18:08:00,18:08:10,stop_point:SP_1492,Villèle,20
+2292624,18:08:00,18:08:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292624,18:10:00,18:10:10,stop_point:SP_3103,Bordeblanche,22
+2292624,18:11:00,18:11:10,stop_point:SP_418,Pradettes,23
+2292624,18:12:00,18:12:10,stop_point:SP_2683,Passerieu,24
+2292624,18:13:00,18:13:10,stop_point:SP_2548,Ecole Espagnole,25
+2292624,18:16:00,18:16:10,stop_point:SP_4009,Basso Cambo,26
+2292625,17:55:00,17:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292625,17:58:00,17:58:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292625,18:01:00,18:01:10,stop_point:SP_214,Arènes Romaines,3
+2292625,18:04:00,18:04:10,stop_point:SP_2466,Ancely,4
+2292625,18:07:00,18:07:10,stop_point:SP_1137,Carlos Gardel,5
+2292625,18:10:00,18:10:10,stop_point:SP_927,Jaufré Rudel,6
+2292625,18:11:00,18:11:10,stop_point:SP_1452,Flambère,7
+2292625,18:15:00,18:15:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292625,18:16:00,18:16:10,stop_point:SP_49,Capelles,9
+2292625,18:17:00,18:17:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292625,18:18:00,18:18:10,stop_point:SP_660,Gare de Lardenne,11
+2292625,18:19:00,18:19:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292625,18:20:00,18:20:10,stop_point:SP_3812,Salinié,13
+2292625,18:20:00,18:20:10,stop_point:SP_3502,Poutier,14
+2292625,18:21:00,18:21:10,stop_point:SP_4861,Lardenne,15
+2292625,18:22:00,18:22:10,stop_point:SP_4859,Ferro Lebres,16
+2292625,18:23:00,18:23:10,stop_point:SP_4855,Zamenhof,17
+2292625,18:25:00,18:25:10,stop_point:SP_1629,Corneillan,18
+2292625,18:27:00,18:27:10,stop_point:SP_161,Mazaygues,19
+2292625,18:28:00,18:28:10,stop_point:SP_1492,Villèle,20
+2292625,18:28:00,18:28:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292625,18:30:00,18:30:10,stop_point:SP_3103,Bordeblanche,22
+2292625,18:31:00,18:31:10,stop_point:SP_418,Pradettes,23
+2292625,18:32:00,18:32:10,stop_point:SP_2683,Passerieu,24
+2292625,18:33:00,18:33:10,stop_point:SP_2548,Ecole Espagnole,25
+2292625,18:36:00,18:36:10,stop_point:SP_4009,Basso Cambo,26
+2292626,18:15:00,18:15:10,stop_point:SP_1319,Pelletier Purpan,1
+2292626,18:17:00,18:17:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292626,18:19:00,18:19:10,stop_point:SP_214,Arènes Romaines,3
+2292626,18:21:00,18:21:10,stop_point:SP_2466,Ancely,4
+2292626,18:24:00,18:24:10,stop_point:SP_1137,Carlos Gardel,5
+2292626,18:25:00,18:25:10,stop_point:SP_927,Jaufré Rudel,6
+2292626,18:26:00,18:26:10,stop_point:SP_1452,Flambère,7
+2292626,18:29:00,18:29:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292626,18:30:00,18:30:10,stop_point:SP_49,Capelles,9
+2292626,18:31:00,18:31:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292626,18:32:00,18:32:10,stop_point:SP_660,Gare de Lardenne,11
+2292626,18:33:00,18:33:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292626,18:34:00,18:34:10,stop_point:SP_3812,Salinié,13
+2292626,18:34:00,18:34:10,stop_point:SP_3502,Poutier,14
+2292626,18:35:00,18:35:10,stop_point:SP_4861,Lardenne,15
+2292626,18:36:00,18:36:10,stop_point:SP_4859,Ferro Lebres,16
+2292626,18:37:00,18:37:10,stop_point:SP_4855,Zamenhof,17
+2292626,18:39:00,18:39:10,stop_point:SP_1629,Corneillan,18
+2292626,18:40:00,18:40:10,stop_point:SP_161,Mazaygues,19
+2292626,18:41:00,18:41:10,stop_point:SP_1492,Villèle,20
+2292626,18:42:00,18:42:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292626,18:43:00,18:43:10,stop_point:SP_3103,Bordeblanche,22
+2292626,18:44:00,18:44:10,stop_point:SP_418,Pradettes,23
+2292626,18:45:00,18:45:10,stop_point:SP_2683,Passerieu,24
+2292626,18:46:00,18:46:10,stop_point:SP_2548,Ecole Espagnole,25
+2292626,18:49:00,18:49:10,stop_point:SP_4009,Basso Cambo,26
+2292627,18:35:00,18:35:10,stop_point:SP_1319,Pelletier Purpan,1
+2292627,18:37:00,18:37:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292627,18:38:00,18:38:10,stop_point:SP_214,Arènes Romaines,3
+2292627,18:40:00,18:40:10,stop_point:SP_2466,Ancely,4
+2292627,18:42:00,18:42:10,stop_point:SP_1137,Carlos Gardel,5
+2292627,18:44:00,18:44:10,stop_point:SP_927,Jaufré Rudel,6
+2292627,18:45:00,18:45:10,stop_point:SP_1452,Flambère,7
+2292627,18:47:00,18:47:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292627,18:48:00,18:48:10,stop_point:SP_49,Capelles,9
+2292627,18:49:00,18:49:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292627,18:49:00,18:49:10,stop_point:SP_660,Gare de Lardenne,11
+2292627,18:50:00,18:50:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292627,18:51:00,18:51:10,stop_point:SP_3812,Salinié,13
+2292627,18:51:00,18:51:10,stop_point:SP_3502,Poutier,14
+2292627,18:52:00,18:52:10,stop_point:SP_4861,Lardenne,15
+2292627,18:53:00,18:53:10,stop_point:SP_4859,Ferro Lebres,16
+2292627,18:54:00,18:54:10,stop_point:SP_4855,Zamenhof,17
+2292627,18:56:00,18:56:10,stop_point:SP_1629,Corneillan,18
+2292627,18:57:00,18:57:10,stop_point:SP_161,Mazaygues,19
+2292627,18:58:00,18:58:10,stop_point:SP_1492,Villèle,20
+2292627,18:59:00,18:59:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292627,19:00:00,19:00:10,stop_point:SP_3103,Bordeblanche,22
+2292627,19:01:00,19:01:10,stop_point:SP_418,Pradettes,23
+2292627,19:02:00,19:02:10,stop_point:SP_2683,Passerieu,24
+2292627,19:03:00,19:03:10,stop_point:SP_2548,Ecole Espagnole,25
+2292627,19:06:00,19:06:10,stop_point:SP_4009,Basso Cambo,26
+2292628,18:55:00,18:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292628,18:56:00,18:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292628,18:58:00,18:58:10,stop_point:SP_214,Arènes Romaines,3
+2292628,18:59:00,18:59:10,stop_point:SP_2466,Ancely,4
+2292628,19:01:00,19:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292628,19:02:00,19:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292628,19:03:00,19:03:10,stop_point:SP_1452,Flambère,7
+2292628,19:05:00,19:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292628,19:06:00,19:06:10,stop_point:SP_49,Capelles,9
+2292628,19:07:00,19:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292628,19:07:00,19:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292628,19:08:00,19:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292628,19:09:00,19:09:10,stop_point:SP_3812,Salinié,13
+2292628,19:09:00,19:09:10,stop_point:SP_3502,Poutier,14
+2292628,19:10:00,19:10:10,stop_point:SP_4861,Lardenne,15
+2292628,19:11:00,19:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292628,19:12:00,19:12:10,stop_point:SP_4855,Zamenhof,17
+2292628,19:13:00,19:13:10,stop_point:SP_1629,Corneillan,18
+2292628,19:14:00,19:14:10,stop_point:SP_161,Mazaygues,19
+2292628,19:15:00,19:15:10,stop_point:SP_1492,Villèle,20
+2292628,19:16:00,19:16:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292628,19:17:00,19:17:10,stop_point:SP_3103,Bordeblanche,22
+2292628,19:18:00,19:18:10,stop_point:SP_418,Pradettes,23
+2292628,19:19:00,19:19:10,stop_point:SP_2683,Passerieu,24
+2292628,19:20:00,19:20:10,stop_point:SP_2548,Ecole Espagnole,25
+2292628,19:23:00,19:23:10,stop_point:SP_4009,Basso Cambo,26
+2292629,19:25:00,19:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292629,19:26:00,19:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292629,19:28:00,19:28:10,stop_point:SP_214,Arènes Romaines,3
+2292629,19:29:00,19:29:10,stop_point:SP_2466,Ancely,4
+2292629,19:31:00,19:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292629,19:32:00,19:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292629,19:33:00,19:33:10,stop_point:SP_1452,Flambère,7
+2292629,19:35:00,19:35:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292629,19:36:00,19:36:10,stop_point:SP_49,Capelles,9
+2292629,19:37:00,19:37:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292629,19:37:00,19:37:10,stop_point:SP_660,Gare de Lardenne,11
+2292629,19:38:00,19:38:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292629,19:39:00,19:39:10,stop_point:SP_3812,Salinié,13
+2292629,19:39:00,19:39:10,stop_point:SP_3502,Poutier,14
+2292629,19:40:00,19:40:10,stop_point:SP_4861,Lardenne,15
+2292629,19:41:00,19:41:10,stop_point:SP_4859,Ferro Lebres,16
+2292629,19:41:00,19:41:10,stop_point:SP_4855,Zamenhof,17
+2292629,19:43:00,19:43:10,stop_point:SP_1629,Corneillan,18
+2292629,19:43:00,19:43:10,stop_point:SP_161,Mazaygues,19
+2292629,19:44:00,19:44:10,stop_point:SP_1492,Villèle,20
+2292629,19:44:00,19:44:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292629,19:45:00,19:45:10,stop_point:SP_3103,Bordeblanche,22
+2292629,19:46:00,19:46:10,stop_point:SP_418,Pradettes,23
+2292629,19:47:00,19:47:10,stop_point:SP_2683,Passerieu,24
+2292629,19:48:00,19:48:10,stop_point:SP_2548,Ecole Espagnole,25
+2292629,19:51:00,19:51:10,stop_point:SP_4009,Basso Cambo,26
+2292630,19:55:00,19:55:10,stop_point:SP_1319,Pelletier Purpan,1
+2292630,19:56:00,19:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292630,19:58:00,19:58:10,stop_point:SP_214,Arènes Romaines,3
+2292630,19:59:00,19:59:10,stop_point:SP_2466,Ancely,4
+2292630,20:01:00,20:01:10,stop_point:SP_1137,Carlos Gardel,5
+2292630,20:02:00,20:02:10,stop_point:SP_927,Jaufré Rudel,6
+2292630,20:03:00,20:03:10,stop_point:SP_1452,Flambère,7
+2292630,20:05:00,20:05:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292630,20:06:00,20:06:10,stop_point:SP_49,Capelles,9
+2292630,20:07:00,20:07:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292630,20:07:00,20:07:10,stop_point:SP_660,Gare de Lardenne,11
+2292630,20:08:00,20:08:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292630,20:09:00,20:09:10,stop_point:SP_3812,Salinié,13
+2292630,20:09:00,20:09:10,stop_point:SP_3502,Poutier,14
+2292630,20:10:00,20:10:10,stop_point:SP_4861,Lardenne,15
+2292630,20:11:00,20:11:10,stop_point:SP_4859,Ferro Lebres,16
+2292630,20:11:00,20:11:10,stop_point:SP_4855,Zamenhof,17
+2292630,20:13:00,20:13:10,stop_point:SP_1629,Corneillan,18
+2292630,20:13:00,20:13:10,stop_point:SP_161,Mazaygues,19
+2292630,20:14:00,20:14:10,stop_point:SP_1492,Villèle,20
+2292630,20:14:00,20:14:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292630,20:15:00,20:15:10,stop_point:SP_3103,Bordeblanche,22
+2292630,20:16:00,20:16:10,stop_point:SP_418,Pradettes,23
+2292630,20:17:00,20:17:10,stop_point:SP_2683,Passerieu,24
+2292630,20:18:00,20:18:10,stop_point:SP_2548,Ecole Espagnole,25
+2292630,20:21:00,20:21:10,stop_point:SP_4009,Basso Cambo,26
+2292631,20:25:00,20:25:10,stop_point:SP_1319,Pelletier Purpan,1
+2292631,20:26:00,20:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292631,20:28:00,20:28:10,stop_point:SP_214,Arènes Romaines,3
+2292631,20:29:00,20:29:10,stop_point:SP_2466,Ancely,4
+2292631,20:31:00,20:31:10,stop_point:SP_1137,Carlos Gardel,5
+2292631,20:32:00,20:32:10,stop_point:SP_927,Jaufré Rudel,6
+2292631,20:32:00,20:32:10,stop_point:SP_1452,Flambère,7
+2292631,20:34:00,20:34:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292631,20:35:00,20:35:10,stop_point:SP_49,Capelles,9
+2292631,20:36:00,20:36:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292631,20:36:00,20:36:10,stop_point:SP_660,Gare de Lardenne,11
+2292631,20:36:00,20:36:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292631,20:37:00,20:37:10,stop_point:SP_3812,Salinié,13
+2292631,20:38:00,20:38:10,stop_point:SP_3502,Poutier,14
+2292631,20:38:00,20:38:10,stop_point:SP_4861,Lardenne,15
+2292631,20:39:00,20:39:10,stop_point:SP_4859,Ferro Lebres,16
+2292631,20:39:00,20:39:10,stop_point:SP_4855,Zamenhof,17
+2292631,20:41:00,20:41:10,stop_point:SP_1629,Corneillan,18
+2292631,20:41:00,20:41:10,stop_point:SP_161,Mazaygues,19
+2292631,20:42:00,20:42:10,stop_point:SP_1492,Villèle,20
+2292631,20:42:00,20:42:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292631,20:43:00,20:43:10,stop_point:SP_3103,Bordeblanche,22
+2292631,20:44:00,20:44:10,stop_point:SP_418,Pradettes,23
+2292631,20:45:00,20:45:10,stop_point:SP_2683,Passerieu,24
+2292631,20:46:00,20:46:10,stop_point:SP_2548,Ecole Espagnole,25
+2292631,20:49:00,20:49:10,stop_point:SP_4009,Basso Cambo,26
+2292632,21:00:00,21:00:10,stop_point:SP_1319,Pelletier Purpan,1
+2292632,21:01:00,21:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,2
+2292632,21:03:00,21:03:10,stop_point:SP_214,Arènes Romaines,3
+2292632,21:04:00,21:04:10,stop_point:SP_2466,Ancely,4
+2292632,21:06:00,21:06:10,stop_point:SP_1137,Carlos Gardel,5
+2292632,21:07:00,21:07:10,stop_point:SP_927,Jaufré Rudel,6
+2292632,21:07:00,21:07:10,stop_point:SP_1452,Flambère,7
+2292632,21:09:00,21:09:10,stop_point:SP_663,Ecole Croix-Rouge,8
+2292632,21:10:00,21:10:10,stop_point:SP_49,Capelles,9
+2292632,21:11:00,21:11:10,stop_point:SP_2785,Ecole Vétérinaire,10
+2292632,21:11:00,21:11:10,stop_point:SP_660,Gare de Lardenne,11
+2292632,21:11:00,21:11:10,stop_point:SP_3816,Ecole Police et Cadastre,12
+2292632,21:12:00,21:12:10,stop_point:SP_3812,Salinié,13
+2292632,21:13:00,21:13:10,stop_point:SP_3502,Poutier,14
+2292632,21:13:00,21:13:10,stop_point:SP_4861,Lardenne,15
+2292632,21:14:00,21:14:10,stop_point:SP_4859,Ferro Lebres,16
+2292632,21:14:00,21:14:10,stop_point:SP_4855,Zamenhof,17
+2292632,21:16:00,21:16:10,stop_point:SP_1629,Corneillan,18
+2292632,21:16:00,21:16:10,stop_point:SP_161,Mazaygues,19
+2292632,21:17:00,21:17:10,stop_point:SP_1492,Villèle,20
+2292632,21:17:00,21:17:10,stop_point:SP_4862,Ancien Tri Postal,21
+2292632,21:18:00,21:18:10,stop_point:SP_3103,Bordeblanche,22
+2292632,21:19:00,21:19:10,stop_point:SP_418,Pradettes,23
+2292632,21:20:00,21:20:10,stop_point:SP_2683,Passerieu,24
+2292632,21:21:00,21:21:10,stop_point:SP_2548,Ecole Espagnole,25
+2292632,21:24:00,21:24:10,stop_point:SP_4009,Basso Cambo,26

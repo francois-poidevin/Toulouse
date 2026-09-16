@@ -1,0 +1,3233 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2291880,06:10:00,06:10:10,stop_point:SP_3140,Oncopole Courrière,1
+2291880,06:11:00,06:11:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291880,06:11:00,06:11:10,stop_point:SP_3604,IUC,3
+2291880,06:12:00,06:12:10,stop_point:SP_3185,Route d'Espagne,4
+2291880,06:13:00,06:13:10,stop_point:SP_4907,Joulin,5
+2291880,06:17:00,06:17:10,stop_point:SP_2955,Eisenhower Est,6
+2291880,06:18:00,06:18:10,stop_point:SP_1948,René Valmy,7
+2291880,06:19:00,06:19:10,stop_point:SP_3703,Lestang,8
+2291880,06:20:00,06:20:10,stop_point:SP_2011,Ourliac,9
+2291880,06:20:00,06:20:10,stop_point:SP_16,Desnos,10
+2291880,06:22:00,06:22:10,stop_point:SP_1244,Place Bouillière,11
+2291880,06:23:00,06:23:10,stop_point:SP_2701,Basso Cambo,12
+2291880,06:24:00,06:24:10,stop_point:SP_1645,Mesplé,13
+2291880,06:25:00,06:25:10,stop_point:SP_3138,Mounède,14
+2291880,06:26:00,06:26:10,stop_point:SP_5066,Déodat Roché,15
+2291880,06:27:00,06:27:10,stop_point:SP_670,Vandel,16
+2291880,06:28:00,06:28:10,stop_point:SP_3974,Phidias,17
+2291880,06:29:00,06:29:10,stop_point:SP_3556,Grynfogel,18
+2291880,06:32:00,06:32:10,stop_point:SP_396,St-Exupéry,19
+2291880,06:33:00,06:33:10,stop_point:SP_5072,Solidarité,20
+2291880,06:34:00,06:34:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291880,06:35:00,06:35:10,stop_point:SP_4924,Saint Granier,22
+2291880,06:35:00,06:35:10,stop_point:SP_4921,Sévérac,23
+2291880,06:36:00,06:36:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291880,06:38:00,06:38:10,stop_point:SP_4890,Benozzi,25
+2291880,06:39:00,06:39:10,stop_point:SP_4889,Caulet,26
+2291880,06:40:00,06:40:10,stop_point:SP_4888,Fontaine,27
+2291880,06:42:00,06:42:10,stop_point:SP_4458,Oratoire,28
+2291880,06:43:00,06:43:10,stop_point:SP_3247,Naurouze,29
+2291880,06:44:00,06:44:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291880,06:45:00,06:45:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291880,06:47:00,06:47:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291881,06:40:00,06:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291881,06:41:00,06:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291881,06:41:00,06:41:10,stop_point:SP_3604,IUC,3
+2291881,06:42:00,06:42:10,stop_point:SP_3185,Route d'Espagne,4
+2291881,06:43:00,06:43:10,stop_point:SP_4907,Joulin,5
+2291881,06:47:00,06:47:10,stop_point:SP_2955,Eisenhower Est,6
+2291881,06:48:00,06:48:10,stop_point:SP_1948,René Valmy,7
+2291881,06:49:00,06:49:10,stop_point:SP_3703,Lestang,8
+2291881,06:50:00,06:50:10,stop_point:SP_2011,Ourliac,9
+2291881,06:50:00,06:50:10,stop_point:SP_16,Desnos,10
+2291881,06:52:00,06:52:10,stop_point:SP_1244,Place Bouillière,11
+2291881,06:53:00,06:53:10,stop_point:SP_2701,Basso Cambo,12
+2291881,06:54:00,06:54:10,stop_point:SP_1645,Mesplé,13
+2291881,06:55:00,06:55:10,stop_point:SP_3138,Mounède,14
+2291881,06:56:00,06:56:10,stop_point:SP_5066,Déodat Roché,15
+2291881,06:57:00,06:57:10,stop_point:SP_670,Vandel,16
+2291881,06:58:00,06:58:10,stop_point:SP_3974,Phidias,17
+2291881,06:59:00,06:59:10,stop_point:SP_3556,Grynfogel,18
+2291881,07:02:00,07:02:10,stop_point:SP_396,St-Exupéry,19
+2291881,07:04:00,07:04:10,stop_point:SP_5072,Solidarité,20
+2291881,07:05:00,07:05:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291881,07:07:00,07:07:10,stop_point:SP_4924,Saint Granier,22
+2291881,07:08:00,07:08:10,stop_point:SP_4921,Sévérac,23
+2291881,07:09:00,07:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291881,07:11:00,07:11:10,stop_point:SP_4890,Benozzi,25
+2291881,07:12:00,07:12:10,stop_point:SP_4889,Caulet,26
+2291881,07:13:00,07:13:10,stop_point:SP_4888,Fontaine,27
+2291881,07:15:00,07:15:10,stop_point:SP_4458,Oratoire,28
+2291881,07:16:00,07:16:10,stop_point:SP_3247,Naurouze,29
+2291881,07:17:00,07:17:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291881,07:18:00,07:18:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291881,07:20:00,07:20:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291882,06:50:00,06:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291882,06:51:00,06:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291882,06:51:00,06:51:10,stop_point:SP_3604,IUC,3
+2291882,06:52:00,06:52:10,stop_point:SP_3185,Route d'Espagne,4
+2291882,06:53:00,06:53:10,stop_point:SP_4907,Joulin,5
+2291882,06:57:00,06:57:10,stop_point:SP_2955,Eisenhower Est,6
+2291882,06:58:00,06:58:10,stop_point:SP_1948,René Valmy,7
+2291882,06:59:00,06:59:10,stop_point:SP_3703,Lestang,8
+2291882,07:00:00,07:00:10,stop_point:SP_2011,Ourliac,9
+2291882,07:00:00,07:00:10,stop_point:SP_16,Desnos,10
+2291882,07:02:00,07:02:10,stop_point:SP_1244,Place Bouillière,11
+2291882,07:03:00,07:03:10,stop_point:SP_2701,Basso Cambo,12
+2291882,07:05:00,07:05:10,stop_point:SP_1645,Mesplé,13
+2291882,07:05:00,07:05:10,stop_point:SP_3138,Mounède,14
+2291882,07:06:00,07:06:10,stop_point:SP_5066,Déodat Roché,15
+2291882,07:07:00,07:07:10,stop_point:SP_670,Vandel,16
+2291882,07:09:00,07:09:10,stop_point:SP_3974,Phidias,17
+2291882,07:10:00,07:10:10,stop_point:SP_3556,Grynfogel,18
+2291882,07:13:00,07:13:10,stop_point:SP_396,St-Exupéry,19
+2291882,07:15:00,07:15:10,stop_point:SP_5072,Solidarité,20
+2291882,07:16:00,07:16:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291882,07:18:00,07:18:10,stop_point:SP_4924,Saint Granier,22
+2291882,07:19:00,07:19:10,stop_point:SP_4921,Sévérac,23
+2291882,07:20:00,07:20:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291882,07:22:00,07:22:10,stop_point:SP_4890,Benozzi,25
+2291882,07:23:00,07:23:10,stop_point:SP_4889,Caulet,26
+2291882,07:24:00,07:24:10,stop_point:SP_4888,Fontaine,27
+2291882,07:26:00,07:26:10,stop_point:SP_4458,Oratoire,28
+2291882,07:27:00,07:27:10,stop_point:SP_3247,Naurouze,29
+2291882,07:28:00,07:28:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291882,07:29:00,07:29:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291882,07:31:00,07:31:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291883,07:00:00,07:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291883,07:01:00,07:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291883,07:01:00,07:01:10,stop_point:SP_3604,IUC,3
+2291883,07:03:00,07:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291883,07:03:00,07:03:10,stop_point:SP_4907,Joulin,5
+2291883,07:08:00,07:08:10,stop_point:SP_2955,Eisenhower Est,6
+2291883,07:09:00,07:09:10,stop_point:SP_1948,René Valmy,7
+2291883,07:11:00,07:11:10,stop_point:SP_3703,Lestang,8
+2291883,07:11:00,07:11:10,stop_point:SP_2011,Ourliac,9
+2291883,07:13:00,07:13:10,stop_point:SP_16,Desnos,10
+2291883,07:15:00,07:15:10,stop_point:SP_1244,Place Bouillière,11
+2291883,07:16:00,07:16:10,stop_point:SP_2701,Basso Cambo,12
+2291883,07:18:00,07:18:10,stop_point:SP_1645,Mesplé,13
+2291883,07:18:00,07:18:10,stop_point:SP_3138,Mounède,14
+2291883,07:19:00,07:19:10,stop_point:SP_5066,Déodat Roché,15
+2291883,07:20:00,07:20:10,stop_point:SP_670,Vandel,16
+2291883,07:22:00,07:22:10,stop_point:SP_3974,Phidias,17
+2291883,07:23:00,07:23:10,stop_point:SP_3556,Grynfogel,18
+2291883,07:26:00,07:26:10,stop_point:SP_396,St-Exupéry,19
+2291883,07:28:00,07:28:10,stop_point:SP_5072,Solidarité,20
+2291883,07:29:00,07:29:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291883,07:31:00,07:31:10,stop_point:SP_4924,Saint Granier,22
+2291883,07:32:00,07:32:10,stop_point:SP_4921,Sévérac,23
+2291883,07:33:00,07:33:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291883,07:35:00,07:35:10,stop_point:SP_4890,Benozzi,25
+2291883,07:36:00,07:36:10,stop_point:SP_4889,Caulet,26
+2291883,07:37:00,07:37:10,stop_point:SP_4888,Fontaine,27
+2291883,07:39:00,07:39:10,stop_point:SP_4458,Oratoire,28
+2291883,07:40:00,07:40:10,stop_point:SP_3247,Naurouze,29
+2291883,07:41:00,07:41:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291883,07:42:00,07:42:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291883,07:44:00,07:44:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291884,07:10:00,07:10:10,stop_point:SP_3140,Oncopole Courrière,1
+2291884,07:11:00,07:11:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291884,07:11:00,07:11:10,stop_point:SP_3604,IUC,3
+2291884,07:13:00,07:13:10,stop_point:SP_3185,Route d'Espagne,4
+2291884,07:13:00,07:13:10,stop_point:SP_4907,Joulin,5
+2291884,07:18:00,07:18:10,stop_point:SP_2955,Eisenhower Est,6
+2291884,07:19:00,07:19:10,stop_point:SP_1948,René Valmy,7
+2291884,07:21:00,07:21:10,stop_point:SP_3703,Lestang,8
+2291884,07:21:00,07:21:10,stop_point:SP_2011,Ourliac,9
+2291884,07:23:00,07:23:10,stop_point:SP_16,Desnos,10
+2291884,07:25:00,07:25:10,stop_point:SP_1244,Place Bouillière,11
+2291884,07:26:00,07:26:10,stop_point:SP_2701,Basso Cambo,12
+2291884,07:28:00,07:28:10,stop_point:SP_1645,Mesplé,13
+2291884,07:28:00,07:28:10,stop_point:SP_3138,Mounède,14
+2291884,07:29:00,07:29:10,stop_point:SP_5066,Déodat Roché,15
+2291884,07:30:00,07:30:10,stop_point:SP_670,Vandel,16
+2291884,07:32:00,07:32:10,stop_point:SP_3974,Phidias,17
+2291884,07:33:00,07:33:10,stop_point:SP_3556,Grynfogel,18
+2291884,07:36:00,07:36:10,stop_point:SP_396,St-Exupéry,19
+2291884,07:38:00,07:38:10,stop_point:SP_5072,Solidarité,20
+2291884,07:39:00,07:39:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291884,07:41:00,07:41:10,stop_point:SP_4924,Saint Granier,22
+2291884,07:42:00,07:42:10,stop_point:SP_4921,Sévérac,23
+2291884,07:43:00,07:43:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291884,07:45:00,07:45:10,stop_point:SP_4890,Benozzi,25
+2291884,07:46:00,07:46:10,stop_point:SP_4889,Caulet,26
+2291884,07:47:00,07:47:10,stop_point:SP_4888,Fontaine,27
+2291884,07:49:00,07:49:10,stop_point:SP_4458,Oratoire,28
+2291884,07:50:00,07:50:10,stop_point:SP_3247,Naurouze,29
+2291884,07:51:00,07:51:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291884,07:52:00,07:52:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291884,07:54:00,07:54:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291885,07:20:00,07:20:10,stop_point:SP_3140,Oncopole Courrière,1
+2291885,07:21:00,07:21:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291885,07:21:00,07:21:10,stop_point:SP_3604,IUC,3
+2291885,07:23:00,07:23:10,stop_point:SP_3185,Route d'Espagne,4
+2291885,07:23:00,07:23:10,stop_point:SP_4907,Joulin,5
+2291885,07:28:00,07:28:10,stop_point:SP_2955,Eisenhower Est,6
+2291885,07:29:00,07:29:10,stop_point:SP_1948,René Valmy,7
+2291885,07:31:00,07:31:10,stop_point:SP_3703,Lestang,8
+2291885,07:31:00,07:31:10,stop_point:SP_2011,Ourliac,9
+2291885,07:33:00,07:33:10,stop_point:SP_16,Desnos,10
+2291885,07:35:00,07:35:10,stop_point:SP_1244,Place Bouillière,11
+2291885,07:36:00,07:36:10,stop_point:SP_2701,Basso Cambo,12
+2291885,07:38:00,07:38:10,stop_point:SP_1645,Mesplé,13
+2291885,07:38:00,07:38:10,stop_point:SP_3138,Mounède,14
+2291885,07:39:00,07:39:10,stop_point:SP_5066,Déodat Roché,15
+2291885,07:40:00,07:40:10,stop_point:SP_670,Vandel,16
+2291885,07:42:00,07:42:10,stop_point:SP_3974,Phidias,17
+2291885,07:43:00,07:43:10,stop_point:SP_3556,Grynfogel,18
+2291885,07:46:00,07:46:10,stop_point:SP_396,St-Exupéry,19
+2291885,07:48:00,07:48:10,stop_point:SP_5072,Solidarité,20
+2291885,07:49:00,07:49:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291885,07:51:00,07:51:10,stop_point:SP_4924,Saint Granier,22
+2291885,07:52:00,07:52:10,stop_point:SP_4921,Sévérac,23
+2291885,07:53:00,07:53:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291885,07:55:00,07:55:10,stop_point:SP_4890,Benozzi,25
+2291885,07:56:00,07:56:10,stop_point:SP_4889,Caulet,26
+2291885,07:57:00,07:57:10,stop_point:SP_4888,Fontaine,27
+2291885,07:59:00,07:59:10,stop_point:SP_4458,Oratoire,28
+2291885,08:00:00,08:00:10,stop_point:SP_3247,Naurouze,29
+2291885,08:01:00,08:01:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291885,08:02:00,08:02:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291885,08:04:00,08:04:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291886,07:30:00,07:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291886,07:31:00,07:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291886,07:31:00,07:31:10,stop_point:SP_3604,IUC,3
+2291886,07:33:00,07:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291886,07:33:00,07:33:10,stop_point:SP_4907,Joulin,5
+2291886,07:38:00,07:38:10,stop_point:SP_2955,Eisenhower Est,6
+2291886,07:39:00,07:39:10,stop_point:SP_1948,René Valmy,7
+2291886,07:41:00,07:41:10,stop_point:SP_3703,Lestang,8
+2291886,07:41:00,07:41:10,stop_point:SP_2011,Ourliac,9
+2291886,07:43:00,07:43:10,stop_point:SP_16,Desnos,10
+2291886,07:45:00,07:45:10,stop_point:SP_1244,Place Bouillière,11
+2291886,07:46:00,07:46:10,stop_point:SP_2701,Basso Cambo,12
+2291886,07:48:00,07:48:10,stop_point:SP_1645,Mesplé,13
+2291886,07:48:00,07:48:10,stop_point:SP_3138,Mounède,14
+2291886,07:49:00,07:49:10,stop_point:SP_5066,Déodat Roché,15
+2291886,07:50:00,07:50:10,stop_point:SP_670,Vandel,16
+2291886,07:52:00,07:52:10,stop_point:SP_3974,Phidias,17
+2291886,07:53:00,07:53:10,stop_point:SP_3556,Grynfogel,18
+2291886,07:56:00,07:56:10,stop_point:SP_396,St-Exupéry,19
+2291886,07:58:00,07:58:10,stop_point:SP_5072,Solidarité,20
+2291886,07:59:00,07:59:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291886,08:01:00,08:01:10,stop_point:SP_4924,Saint Granier,22
+2291886,08:02:00,08:02:10,stop_point:SP_4921,Sévérac,23
+2291886,08:03:00,08:03:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291886,08:05:00,08:05:10,stop_point:SP_4890,Benozzi,25
+2291886,08:06:00,08:06:10,stop_point:SP_4889,Caulet,26
+2291886,08:07:00,08:07:10,stop_point:SP_4888,Fontaine,27
+2291886,08:09:00,08:09:10,stop_point:SP_4458,Oratoire,28
+2291886,08:10:00,08:10:10,stop_point:SP_3247,Naurouze,29
+2291886,08:11:00,08:11:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291886,08:12:00,08:12:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291886,08:14:00,08:14:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291887,07:40:00,07:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291887,07:41:00,07:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291887,07:41:00,07:41:10,stop_point:SP_3604,IUC,3
+2291887,07:43:00,07:43:10,stop_point:SP_3185,Route d'Espagne,4
+2291887,07:43:00,07:43:10,stop_point:SP_4907,Joulin,5
+2291887,07:48:00,07:48:10,stop_point:SP_2955,Eisenhower Est,6
+2291887,07:49:00,07:49:10,stop_point:SP_1948,René Valmy,7
+2291887,07:51:00,07:51:10,stop_point:SP_3703,Lestang,8
+2291887,07:51:00,07:51:10,stop_point:SP_2011,Ourliac,9
+2291887,07:53:00,07:53:10,stop_point:SP_16,Desnos,10
+2291887,07:55:00,07:55:10,stop_point:SP_1244,Place Bouillière,11
+2291887,07:56:00,07:56:10,stop_point:SP_2701,Basso Cambo,12
+2291887,07:58:00,07:58:10,stop_point:SP_1645,Mesplé,13
+2291887,07:58:00,07:58:10,stop_point:SP_3138,Mounède,14
+2291887,07:59:00,07:59:10,stop_point:SP_5066,Déodat Roché,15
+2291887,08:00:00,08:00:10,stop_point:SP_670,Vandel,16
+2291887,08:02:00,08:02:10,stop_point:SP_3974,Phidias,17
+2291887,08:03:00,08:03:10,stop_point:SP_3556,Grynfogel,18
+2291887,08:06:00,08:06:10,stop_point:SP_396,St-Exupéry,19
+2291887,08:08:00,08:08:10,stop_point:SP_5072,Solidarité,20
+2291887,08:09:00,08:09:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291887,08:11:00,08:11:10,stop_point:SP_4924,Saint Granier,22
+2291887,08:12:00,08:12:10,stop_point:SP_4921,Sévérac,23
+2291887,08:13:00,08:13:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291887,08:15:00,08:15:10,stop_point:SP_4890,Benozzi,25
+2291887,08:16:00,08:16:10,stop_point:SP_4889,Caulet,26
+2291887,08:17:00,08:17:10,stop_point:SP_4888,Fontaine,27
+2291887,08:19:00,08:19:10,stop_point:SP_4458,Oratoire,28
+2291887,08:20:00,08:20:10,stop_point:SP_3247,Naurouze,29
+2291887,08:21:00,08:21:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291887,08:22:00,08:22:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291887,08:24:00,08:24:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291888,07:50:00,07:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291888,07:51:00,07:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291888,07:51:00,07:51:10,stop_point:SP_3604,IUC,3
+2291888,07:53:00,07:53:10,stop_point:SP_3185,Route d'Espagne,4
+2291888,07:53:00,07:53:10,stop_point:SP_4907,Joulin,5
+2291888,07:58:00,07:58:10,stop_point:SP_2955,Eisenhower Est,6
+2291888,07:59:00,07:59:10,stop_point:SP_1948,René Valmy,7
+2291888,08:01:00,08:01:10,stop_point:SP_3703,Lestang,8
+2291888,08:01:00,08:01:10,stop_point:SP_2011,Ourliac,9
+2291888,08:03:00,08:03:10,stop_point:SP_16,Desnos,10
+2291888,08:05:00,08:05:10,stop_point:SP_1244,Place Bouillière,11
+2291888,08:06:00,08:06:10,stop_point:SP_2701,Basso Cambo,12
+2291888,08:08:00,08:08:10,stop_point:SP_1645,Mesplé,13
+2291888,08:08:00,08:08:10,stop_point:SP_3138,Mounède,14
+2291888,08:09:00,08:09:10,stop_point:SP_5066,Déodat Roché,15
+2291888,08:10:00,08:10:10,stop_point:SP_670,Vandel,16
+2291888,08:12:00,08:12:10,stop_point:SP_3974,Phidias,17
+2291888,08:13:00,08:13:10,stop_point:SP_3556,Grynfogel,18
+2291888,08:16:00,08:16:10,stop_point:SP_396,St-Exupéry,19
+2291888,08:18:00,08:18:10,stop_point:SP_5072,Solidarité,20
+2291888,08:19:00,08:19:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291888,08:21:00,08:21:10,stop_point:SP_4924,Saint Granier,22
+2291888,08:22:00,08:22:10,stop_point:SP_4921,Sévérac,23
+2291888,08:23:00,08:23:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291888,08:25:00,08:25:10,stop_point:SP_4890,Benozzi,25
+2291888,08:26:00,08:26:10,stop_point:SP_4889,Caulet,26
+2291888,08:27:00,08:27:10,stop_point:SP_4888,Fontaine,27
+2291888,08:29:00,08:29:10,stop_point:SP_4458,Oratoire,28
+2291888,08:30:00,08:30:10,stop_point:SP_3247,Naurouze,29
+2291888,08:31:00,08:31:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291888,08:32:00,08:32:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291888,08:34:00,08:34:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291889,08:00:00,08:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291889,08:01:00,08:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291889,08:01:00,08:01:10,stop_point:SP_3604,IUC,3
+2291889,08:03:00,08:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291889,08:04:00,08:04:10,stop_point:SP_4907,Joulin,5
+2291889,08:09:00,08:09:10,stop_point:SP_2955,Eisenhower Est,6
+2291889,08:10:00,08:10:10,stop_point:SP_1948,René Valmy,7
+2291889,08:12:00,08:12:10,stop_point:SP_3703,Lestang,8
+2291889,08:13:00,08:13:10,stop_point:SP_2011,Ourliac,9
+2291889,08:14:00,08:14:10,stop_point:SP_16,Desnos,10
+2291889,08:17:00,08:17:10,stop_point:SP_1244,Place Bouillière,11
+2291889,08:18:00,08:18:10,stop_point:SP_2701,Basso Cambo,12
+2291889,08:20:00,08:20:10,stop_point:SP_1645,Mesplé,13
+2291889,08:20:00,08:20:10,stop_point:SP_3138,Mounède,14
+2291889,08:21:00,08:21:10,stop_point:SP_5066,Déodat Roché,15
+2291889,08:22:00,08:22:10,stop_point:SP_670,Vandel,16
+2291889,08:24:00,08:24:10,stop_point:SP_3974,Phidias,17
+2291889,08:25:00,08:25:10,stop_point:SP_3556,Grynfogel,18
+2291889,08:28:00,08:28:10,stop_point:SP_396,St-Exupéry,19
+2291889,08:30:00,08:30:10,stop_point:SP_5072,Solidarité,20
+2291889,08:31:00,08:31:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291889,08:33:00,08:33:10,stop_point:SP_4924,Saint Granier,22
+2291889,08:34:00,08:34:10,stop_point:SP_4921,Sévérac,23
+2291889,08:35:00,08:35:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291889,08:37:00,08:37:10,stop_point:SP_4890,Benozzi,25
+2291889,08:37:00,08:37:10,stop_point:SP_4889,Caulet,26
+2291889,08:38:00,08:38:10,stop_point:SP_4888,Fontaine,27
+2291889,08:40:00,08:40:10,stop_point:SP_4458,Oratoire,28
+2291889,08:41:00,08:41:10,stop_point:SP_3247,Naurouze,29
+2291889,08:42:00,08:42:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291889,08:43:00,08:43:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291889,08:45:00,08:45:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291890,08:10:00,08:10:10,stop_point:SP_3140,Oncopole Courrière,1
+2291890,08:11:00,08:11:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291890,08:11:00,08:11:10,stop_point:SP_3604,IUC,3
+2291890,08:13:00,08:13:10,stop_point:SP_3185,Route d'Espagne,4
+2291890,08:14:00,08:14:10,stop_point:SP_4907,Joulin,5
+2291890,08:19:00,08:19:10,stop_point:SP_2955,Eisenhower Est,6
+2291890,08:20:00,08:20:10,stop_point:SP_1948,René Valmy,7
+2291890,08:22:00,08:22:10,stop_point:SP_3703,Lestang,8
+2291890,08:23:00,08:23:10,stop_point:SP_2011,Ourliac,9
+2291890,08:24:00,08:24:10,stop_point:SP_16,Desnos,10
+2291890,08:27:00,08:27:10,stop_point:SP_1244,Place Bouillière,11
+2291890,08:28:00,08:28:10,stop_point:SP_2701,Basso Cambo,12
+2291890,08:30:00,08:30:10,stop_point:SP_1645,Mesplé,13
+2291890,08:30:00,08:30:10,stop_point:SP_3138,Mounède,14
+2291890,08:31:00,08:31:10,stop_point:SP_5066,Déodat Roché,15
+2291890,08:32:00,08:32:10,stop_point:SP_670,Vandel,16
+2291890,08:34:00,08:34:10,stop_point:SP_3974,Phidias,17
+2291890,08:35:00,08:35:10,stop_point:SP_3556,Grynfogel,18
+2291890,08:38:00,08:38:10,stop_point:SP_396,St-Exupéry,19
+2291890,08:40:00,08:40:10,stop_point:SP_5072,Solidarité,20
+2291890,08:41:00,08:41:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291890,08:43:00,08:43:10,stop_point:SP_4924,Saint Granier,22
+2291890,08:44:00,08:44:10,stop_point:SP_4921,Sévérac,23
+2291890,08:45:00,08:45:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291890,08:47:00,08:47:10,stop_point:SP_4890,Benozzi,25
+2291890,08:47:00,08:47:10,stop_point:SP_4889,Caulet,26
+2291890,08:48:00,08:48:10,stop_point:SP_4888,Fontaine,27
+2291890,08:50:00,08:50:10,stop_point:SP_4458,Oratoire,28
+2291890,08:51:00,08:51:10,stop_point:SP_3247,Naurouze,29
+2291890,08:52:00,08:52:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291890,08:53:00,08:53:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291890,08:55:00,08:55:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291891,08:20:00,08:20:10,stop_point:SP_3140,Oncopole Courrière,1
+2291891,08:21:00,08:21:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291891,08:21:00,08:21:10,stop_point:SP_3604,IUC,3
+2291891,08:23:00,08:23:10,stop_point:SP_3185,Route d'Espagne,4
+2291891,08:24:00,08:24:10,stop_point:SP_4907,Joulin,5
+2291891,08:29:00,08:29:10,stop_point:SP_2955,Eisenhower Est,6
+2291891,08:30:00,08:30:10,stop_point:SP_1948,René Valmy,7
+2291891,08:32:00,08:32:10,stop_point:SP_3703,Lestang,8
+2291891,08:33:00,08:33:10,stop_point:SP_2011,Ourliac,9
+2291891,08:34:00,08:34:10,stop_point:SP_16,Desnos,10
+2291891,08:37:00,08:37:10,stop_point:SP_1244,Place Bouillière,11
+2291891,08:38:00,08:38:10,stop_point:SP_2701,Basso Cambo,12
+2291891,08:40:00,08:40:10,stop_point:SP_1645,Mesplé,13
+2291891,08:40:00,08:40:10,stop_point:SP_3138,Mounède,14
+2291891,08:41:00,08:41:10,stop_point:SP_5066,Déodat Roché,15
+2291891,08:42:00,08:42:10,stop_point:SP_670,Vandel,16
+2291891,08:44:00,08:44:10,stop_point:SP_3974,Phidias,17
+2291891,08:45:00,08:45:10,stop_point:SP_3556,Grynfogel,18
+2291891,08:48:00,08:48:10,stop_point:SP_396,St-Exupéry,19
+2291891,08:50:00,08:50:10,stop_point:SP_5072,Solidarité,20
+2291891,08:51:00,08:51:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291891,08:53:00,08:53:10,stop_point:SP_4924,Saint Granier,22
+2291891,08:54:00,08:54:10,stop_point:SP_4921,Sévérac,23
+2291891,08:55:00,08:55:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291891,08:57:00,08:57:10,stop_point:SP_4890,Benozzi,25
+2291891,08:57:00,08:57:10,stop_point:SP_4889,Caulet,26
+2291891,08:58:00,08:58:10,stop_point:SP_4888,Fontaine,27
+2291891,09:00:00,09:00:10,stop_point:SP_4458,Oratoire,28
+2291891,09:01:00,09:01:10,stop_point:SP_3247,Naurouze,29
+2291891,09:02:00,09:02:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291891,09:03:00,09:03:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291891,09:05:00,09:05:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291892,08:30:00,08:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291892,08:31:00,08:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291892,08:31:00,08:31:10,stop_point:SP_3604,IUC,3
+2291892,08:33:00,08:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291892,08:34:00,08:34:10,stop_point:SP_4907,Joulin,5
+2291892,08:39:00,08:39:10,stop_point:SP_2955,Eisenhower Est,6
+2291892,08:40:00,08:40:10,stop_point:SP_1948,René Valmy,7
+2291892,08:42:00,08:42:10,stop_point:SP_3703,Lestang,8
+2291892,08:43:00,08:43:10,stop_point:SP_2011,Ourliac,9
+2291892,08:44:00,08:44:10,stop_point:SP_16,Desnos,10
+2291892,08:47:00,08:47:10,stop_point:SP_1244,Place Bouillière,11
+2291892,08:48:00,08:48:10,stop_point:SP_2701,Basso Cambo,12
+2291892,08:50:00,08:50:10,stop_point:SP_1645,Mesplé,13
+2291892,08:50:00,08:50:10,stop_point:SP_3138,Mounède,14
+2291892,08:51:00,08:51:10,stop_point:SP_5066,Déodat Roché,15
+2291892,08:52:00,08:52:10,stop_point:SP_670,Vandel,16
+2291892,08:54:00,08:54:10,stop_point:SP_3974,Phidias,17
+2291892,08:55:00,08:55:10,stop_point:SP_3556,Grynfogel,18
+2291892,08:58:00,08:58:10,stop_point:SP_396,St-Exupéry,19
+2291892,09:00:00,09:00:10,stop_point:SP_5072,Solidarité,20
+2291892,09:02:00,09:02:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291892,09:03:00,09:03:10,stop_point:SP_4924,Saint Granier,22
+2291892,09:04:00,09:04:10,stop_point:SP_4921,Sévérac,23
+2291892,09:06:00,09:06:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291892,09:08:00,09:08:10,stop_point:SP_4890,Benozzi,25
+2291892,09:08:00,09:08:10,stop_point:SP_4889,Caulet,26
+2291892,09:09:00,09:09:10,stop_point:SP_4888,Fontaine,27
+2291892,09:11:00,09:11:10,stop_point:SP_4458,Oratoire,28
+2291892,09:12:00,09:12:10,stop_point:SP_3247,Naurouze,29
+2291892,09:13:00,09:13:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291892,09:14:00,09:14:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291892,09:16:00,09:16:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291893,08:40:00,08:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291893,08:41:00,08:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291893,08:41:00,08:41:10,stop_point:SP_3604,IUC,3
+2291893,08:43:00,08:43:10,stop_point:SP_3185,Route d'Espagne,4
+2291893,08:44:00,08:44:10,stop_point:SP_4907,Joulin,5
+2291893,08:49:00,08:49:10,stop_point:SP_2955,Eisenhower Est,6
+2291893,08:50:00,08:50:10,stop_point:SP_1948,René Valmy,7
+2291893,08:52:00,08:52:10,stop_point:SP_3703,Lestang,8
+2291893,08:53:00,08:53:10,stop_point:SP_2011,Ourliac,9
+2291893,08:54:00,08:54:10,stop_point:SP_16,Desnos,10
+2291893,08:57:00,08:57:10,stop_point:SP_1244,Place Bouillière,11
+2291893,08:58:00,08:58:10,stop_point:SP_2701,Basso Cambo,12
+2291893,09:00:00,09:00:10,stop_point:SP_1645,Mesplé,13
+2291893,09:00:00,09:00:10,stop_point:SP_3138,Mounède,14
+2291893,09:01:00,09:01:10,stop_point:SP_5066,Déodat Roché,15
+2291893,09:02:00,09:02:10,stop_point:SP_670,Vandel,16
+2291893,09:04:00,09:04:10,stop_point:SP_3974,Phidias,17
+2291893,09:05:00,09:05:10,stop_point:SP_3556,Grynfogel,18
+2291893,09:08:00,09:08:10,stop_point:SP_396,St-Exupéry,19
+2291893,09:10:00,09:10:10,stop_point:SP_5072,Solidarité,20
+2291893,09:12:00,09:12:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291893,09:13:00,09:13:10,stop_point:SP_4924,Saint Granier,22
+2291893,09:14:00,09:14:10,stop_point:SP_4921,Sévérac,23
+2291893,09:16:00,09:16:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291893,09:18:00,09:18:10,stop_point:SP_4890,Benozzi,25
+2291893,09:18:00,09:18:10,stop_point:SP_4889,Caulet,26
+2291893,09:19:00,09:19:10,stop_point:SP_4888,Fontaine,27
+2291893,09:21:00,09:21:10,stop_point:SP_4458,Oratoire,28
+2291893,09:22:00,09:22:10,stop_point:SP_3247,Naurouze,29
+2291893,09:23:00,09:23:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291893,09:24:00,09:24:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291893,09:26:00,09:26:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291894,08:50:00,08:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291894,08:51:00,08:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291894,08:51:00,08:51:10,stop_point:SP_3604,IUC,3
+2291894,08:53:00,08:53:10,stop_point:SP_3185,Route d'Espagne,4
+2291894,08:54:00,08:54:10,stop_point:SP_4907,Joulin,5
+2291894,08:59:00,08:59:10,stop_point:SP_2955,Eisenhower Est,6
+2291894,09:00:00,09:00:10,stop_point:SP_1948,René Valmy,7
+2291894,09:02:00,09:02:10,stop_point:SP_3703,Lestang,8
+2291894,09:03:00,09:03:10,stop_point:SP_2011,Ourliac,9
+2291894,09:04:00,09:04:10,stop_point:SP_16,Desnos,10
+2291894,09:07:00,09:07:10,stop_point:SP_1244,Place Bouillière,11
+2291894,09:08:00,09:08:10,stop_point:SP_2701,Basso Cambo,12
+2291894,09:10:00,09:10:10,stop_point:SP_1645,Mesplé,13
+2291894,09:10:00,09:10:10,stop_point:SP_3138,Mounède,14
+2291894,09:11:00,09:11:10,stop_point:SP_5066,Déodat Roché,15
+2291894,09:12:00,09:12:10,stop_point:SP_670,Vandel,16
+2291894,09:14:00,09:14:10,stop_point:SP_3974,Phidias,17
+2291894,09:15:00,09:15:10,stop_point:SP_3556,Grynfogel,18
+2291894,09:18:00,09:18:10,stop_point:SP_396,St-Exupéry,19
+2291894,09:20:00,09:20:10,stop_point:SP_5072,Solidarité,20
+2291894,09:21:00,09:21:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291894,09:23:00,09:23:10,stop_point:SP_4924,Saint Granier,22
+2291894,09:24:00,09:24:10,stop_point:SP_4921,Sévérac,23
+2291894,09:25:00,09:25:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291894,09:27:00,09:27:10,stop_point:SP_4890,Benozzi,25
+2291894,09:27:00,09:27:10,stop_point:SP_4889,Caulet,26
+2291894,09:28:00,09:28:10,stop_point:SP_4888,Fontaine,27
+2291894,09:30:00,09:30:10,stop_point:SP_4458,Oratoire,28
+2291894,09:31:00,09:31:10,stop_point:SP_3247,Naurouze,29
+2291894,09:32:00,09:32:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291894,09:33:00,09:33:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291894,09:35:00,09:35:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291895,09:15:00,09:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291895,09:16:00,09:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291895,09:16:00,09:16:10,stop_point:SP_3604,IUC,3
+2291895,09:18:00,09:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291895,09:18:00,09:18:10,stop_point:SP_4907,Joulin,5
+2291895,09:23:00,09:23:10,stop_point:SP_2955,Eisenhower Est,6
+2291895,09:24:00,09:24:10,stop_point:SP_1948,René Valmy,7
+2291895,09:26:00,09:26:10,stop_point:SP_3703,Lestang,8
+2291895,09:26:00,09:26:10,stop_point:SP_2011,Ourliac,9
+2291895,09:28:00,09:28:10,stop_point:SP_16,Desnos,10
+2291895,09:30:00,09:30:10,stop_point:SP_1244,Place Bouillière,11
+2291895,09:31:00,09:31:10,stop_point:SP_2701,Basso Cambo,12
+2291895,09:33:00,09:33:10,stop_point:SP_1645,Mesplé,13
+2291895,09:33:00,09:33:10,stop_point:SP_3138,Mounède,14
+2291895,09:34:00,09:34:10,stop_point:SP_5066,Déodat Roché,15
+2291895,09:35:00,09:35:10,stop_point:SP_670,Vandel,16
+2291895,09:37:00,09:37:10,stop_point:SP_3974,Phidias,17
+2291895,09:38:00,09:38:10,stop_point:SP_3556,Grynfogel,18
+2291895,09:41:00,09:41:10,stop_point:SP_396,St-Exupéry,19
+2291895,09:43:00,09:43:10,stop_point:SP_5072,Solidarité,20
+2291895,09:44:00,09:44:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291895,09:45:00,09:45:10,stop_point:SP_4924,Saint Granier,22
+2291895,09:46:00,09:46:10,stop_point:SP_4921,Sévérac,23
+2291895,09:47:00,09:47:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291895,09:49:00,09:49:10,stop_point:SP_4890,Benozzi,25
+2291895,09:49:00,09:49:10,stop_point:SP_4889,Caulet,26
+2291895,09:50:00,09:50:10,stop_point:SP_4888,Fontaine,27
+2291895,09:52:00,09:52:10,stop_point:SP_4458,Oratoire,28
+2291895,09:53:00,09:53:10,stop_point:SP_3247,Naurouze,29
+2291895,09:54:00,09:54:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291895,09:55:00,09:55:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291895,09:57:00,09:57:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291896,09:45:00,09:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291896,09:46:00,09:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291896,09:46:00,09:46:10,stop_point:SP_3604,IUC,3
+2291896,09:47:00,09:47:10,stop_point:SP_3185,Route d'Espagne,4
+2291896,09:48:00,09:48:10,stop_point:SP_4907,Joulin,5
+2291896,09:52:00,09:52:10,stop_point:SP_2955,Eisenhower Est,6
+2291896,09:53:00,09:53:10,stop_point:SP_1948,René Valmy,7
+2291896,09:54:00,09:54:10,stop_point:SP_3703,Lestang,8
+2291896,09:55:00,09:55:10,stop_point:SP_2011,Ourliac,9
+2291896,09:56:00,09:56:10,stop_point:SP_16,Desnos,10
+2291896,09:58:00,09:58:10,stop_point:SP_1244,Place Bouillière,11
+2291896,09:59:00,09:59:10,stop_point:SP_2701,Basso Cambo,12
+2291896,10:00:00,10:00:10,stop_point:SP_1645,Mesplé,13
+2291896,10:01:00,10:01:10,stop_point:SP_3138,Mounède,14
+2291896,10:02:00,10:02:10,stop_point:SP_5066,Déodat Roché,15
+2291896,10:03:00,10:03:10,stop_point:SP_670,Vandel,16
+2291896,10:04:00,10:04:10,stop_point:SP_3974,Phidias,17
+2291896,10:05:00,10:05:10,stop_point:SP_3556,Grynfogel,18
+2291896,10:08:00,10:08:10,stop_point:SP_396,St-Exupéry,19
+2291896,10:10:00,10:10:10,stop_point:SP_5072,Solidarité,20
+2291896,10:11:00,10:11:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291896,10:12:00,10:12:10,stop_point:SP_4924,Saint Granier,22
+2291896,10:13:00,10:13:10,stop_point:SP_4921,Sévérac,23
+2291896,10:14:00,10:14:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291896,10:16:00,10:16:10,stop_point:SP_4890,Benozzi,25
+2291896,10:16:00,10:16:10,stop_point:SP_4889,Caulet,26
+2291896,10:17:00,10:17:10,stop_point:SP_4888,Fontaine,27
+2291896,10:18:00,10:18:10,stop_point:SP_4458,Oratoire,28
+2291896,10:19:00,10:19:10,stop_point:SP_3247,Naurouze,29
+2291896,10:20:00,10:20:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291896,10:22:00,10:22:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291896,10:23:00,10:23:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291897,10:15:00,10:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291897,10:16:00,10:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291897,10:16:00,10:16:10,stop_point:SP_3604,IUC,3
+2291897,10:17:00,10:17:10,stop_point:SP_3185,Route d'Espagne,4
+2291897,10:18:00,10:18:10,stop_point:SP_4907,Joulin,5
+2291897,10:22:00,10:22:10,stop_point:SP_2955,Eisenhower Est,6
+2291897,10:23:00,10:23:10,stop_point:SP_1948,René Valmy,7
+2291897,10:24:00,10:24:10,stop_point:SP_3703,Lestang,8
+2291897,10:25:00,10:25:10,stop_point:SP_2011,Ourliac,9
+2291897,10:26:00,10:26:10,stop_point:SP_16,Desnos,10
+2291897,10:28:00,10:28:10,stop_point:SP_1244,Place Bouillière,11
+2291897,10:29:00,10:29:10,stop_point:SP_2701,Basso Cambo,12
+2291897,10:30:00,10:30:10,stop_point:SP_1645,Mesplé,13
+2291897,10:31:00,10:31:10,stop_point:SP_3138,Mounède,14
+2291897,10:32:00,10:32:10,stop_point:SP_5066,Déodat Roché,15
+2291897,10:33:00,10:33:10,stop_point:SP_670,Vandel,16
+2291897,10:34:00,10:34:10,stop_point:SP_3974,Phidias,17
+2291897,10:35:00,10:35:10,stop_point:SP_3556,Grynfogel,18
+2291897,10:38:00,10:38:10,stop_point:SP_396,St-Exupéry,19
+2291897,10:40:00,10:40:10,stop_point:SP_5072,Solidarité,20
+2291897,10:41:00,10:41:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291897,10:42:00,10:42:10,stop_point:SP_4924,Saint Granier,22
+2291897,10:43:00,10:43:10,stop_point:SP_4921,Sévérac,23
+2291897,10:44:00,10:44:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291897,10:46:00,10:46:10,stop_point:SP_4890,Benozzi,25
+2291897,10:46:00,10:46:10,stop_point:SP_4889,Caulet,26
+2291897,10:47:00,10:47:10,stop_point:SP_4888,Fontaine,27
+2291897,10:48:00,10:48:10,stop_point:SP_4458,Oratoire,28
+2291897,10:49:00,10:49:10,stop_point:SP_3247,Naurouze,29
+2291897,10:50:00,10:50:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291897,10:52:00,10:52:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291897,10:53:00,10:53:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291898,10:45:00,10:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291898,10:46:00,10:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291898,10:46:00,10:46:10,stop_point:SP_3604,IUC,3
+2291898,10:47:00,10:47:10,stop_point:SP_3185,Route d'Espagne,4
+2291898,10:48:00,10:48:10,stop_point:SP_4907,Joulin,5
+2291898,10:52:00,10:52:10,stop_point:SP_2955,Eisenhower Est,6
+2291898,10:53:00,10:53:10,stop_point:SP_1948,René Valmy,7
+2291898,10:54:00,10:54:10,stop_point:SP_3703,Lestang,8
+2291898,10:55:00,10:55:10,stop_point:SP_2011,Ourliac,9
+2291898,10:56:00,10:56:10,stop_point:SP_16,Desnos,10
+2291898,10:58:00,10:58:10,stop_point:SP_1244,Place Bouillière,11
+2291898,10:59:00,10:59:10,stop_point:SP_2701,Basso Cambo,12
+2291898,11:00:00,11:00:10,stop_point:SP_1645,Mesplé,13
+2291898,11:01:00,11:01:10,stop_point:SP_3138,Mounède,14
+2291898,11:02:00,11:02:10,stop_point:SP_5066,Déodat Roché,15
+2291898,11:03:00,11:03:10,stop_point:SP_670,Vandel,16
+2291898,11:04:00,11:04:10,stop_point:SP_3974,Phidias,17
+2291898,11:05:00,11:05:10,stop_point:SP_3556,Grynfogel,18
+2291898,11:08:00,11:08:10,stop_point:SP_396,St-Exupéry,19
+2291898,11:10:00,11:10:10,stop_point:SP_5072,Solidarité,20
+2291898,11:11:00,11:11:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291898,11:12:00,11:12:10,stop_point:SP_4924,Saint Granier,22
+2291898,11:13:00,11:13:10,stop_point:SP_4921,Sévérac,23
+2291898,11:14:00,11:14:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291898,11:16:00,11:16:10,stop_point:SP_4890,Benozzi,25
+2291898,11:16:00,11:16:10,stop_point:SP_4889,Caulet,26
+2291898,11:17:00,11:17:10,stop_point:SP_4888,Fontaine,27
+2291898,11:18:00,11:18:10,stop_point:SP_4458,Oratoire,28
+2291898,11:19:00,11:19:10,stop_point:SP_3247,Naurouze,29
+2291898,11:20:00,11:20:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291898,11:22:00,11:22:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291898,11:23:00,11:23:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291899,11:15:00,11:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291899,11:16:00,11:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291899,11:16:00,11:16:10,stop_point:SP_3604,IUC,3
+2291899,11:17:00,11:17:10,stop_point:SP_3185,Route d'Espagne,4
+2291899,11:18:00,11:18:10,stop_point:SP_4907,Joulin,5
+2291899,11:22:00,11:22:10,stop_point:SP_2955,Eisenhower Est,6
+2291899,11:23:00,11:23:10,stop_point:SP_1948,René Valmy,7
+2291899,11:24:00,11:24:10,stop_point:SP_3703,Lestang,8
+2291899,11:25:00,11:25:10,stop_point:SP_2011,Ourliac,9
+2291899,11:26:00,11:26:10,stop_point:SP_16,Desnos,10
+2291899,11:28:00,11:28:10,stop_point:SP_1244,Place Bouillière,11
+2291899,11:29:00,11:29:10,stop_point:SP_2701,Basso Cambo,12
+2291899,11:30:00,11:30:10,stop_point:SP_1645,Mesplé,13
+2291899,11:31:00,11:31:10,stop_point:SP_3138,Mounède,14
+2291899,11:32:00,11:32:10,stop_point:SP_5066,Déodat Roché,15
+2291899,11:33:00,11:33:10,stop_point:SP_670,Vandel,16
+2291899,11:34:00,11:34:10,stop_point:SP_3974,Phidias,17
+2291899,11:35:00,11:35:10,stop_point:SP_3556,Grynfogel,18
+2291899,11:38:00,11:38:10,stop_point:SP_396,St-Exupéry,19
+2291899,11:40:00,11:40:10,stop_point:SP_5072,Solidarité,20
+2291899,11:41:00,11:41:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291899,11:42:00,11:42:10,stop_point:SP_4924,Saint Granier,22
+2291899,11:43:00,11:43:10,stop_point:SP_4921,Sévérac,23
+2291899,11:44:00,11:44:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291899,11:46:00,11:46:10,stop_point:SP_4890,Benozzi,25
+2291899,11:46:00,11:46:10,stop_point:SP_4889,Caulet,26
+2291899,11:47:00,11:47:10,stop_point:SP_4888,Fontaine,27
+2291899,11:48:00,11:48:10,stop_point:SP_4458,Oratoire,28
+2291899,11:49:00,11:49:10,stop_point:SP_3247,Naurouze,29
+2291899,11:50:00,11:50:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291899,11:52:00,11:52:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291899,11:53:00,11:53:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291900,11:45:00,11:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291900,11:46:00,11:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291900,11:46:00,11:46:10,stop_point:SP_3604,IUC,3
+2291900,11:47:00,11:47:10,stop_point:SP_3185,Route d'Espagne,4
+2291900,11:48:00,11:48:10,stop_point:SP_4907,Joulin,5
+2291900,11:52:00,11:52:10,stop_point:SP_2955,Eisenhower Est,6
+2291900,11:53:00,11:53:10,stop_point:SP_1948,René Valmy,7
+2291900,11:54:00,11:54:10,stop_point:SP_3703,Lestang,8
+2291900,11:55:00,11:55:10,stop_point:SP_2011,Ourliac,9
+2291900,11:56:00,11:56:10,stop_point:SP_16,Desnos,10
+2291900,11:58:00,11:58:10,stop_point:SP_1244,Place Bouillière,11
+2291900,11:59:00,11:59:10,stop_point:SP_2701,Basso Cambo,12
+2291900,12:00:00,12:00:10,stop_point:SP_1645,Mesplé,13
+2291900,12:01:00,12:01:10,stop_point:SP_3138,Mounède,14
+2291900,12:02:00,12:02:10,stop_point:SP_5066,Déodat Roché,15
+2291900,12:03:00,12:03:10,stop_point:SP_670,Vandel,16
+2291900,12:04:00,12:04:10,stop_point:SP_3974,Phidias,17
+2291900,12:05:00,12:05:10,stop_point:SP_3556,Grynfogel,18
+2291900,12:08:00,12:08:10,stop_point:SP_396,St-Exupéry,19
+2291900,12:10:00,12:10:10,stop_point:SP_5072,Solidarité,20
+2291900,12:11:00,12:11:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291900,12:12:00,12:12:10,stop_point:SP_4924,Saint Granier,22
+2291900,12:13:00,12:13:10,stop_point:SP_4921,Sévérac,23
+2291900,12:14:00,12:14:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291900,12:16:00,12:16:10,stop_point:SP_4890,Benozzi,25
+2291900,12:16:00,12:16:10,stop_point:SP_4889,Caulet,26
+2291900,12:17:00,12:17:10,stop_point:SP_4888,Fontaine,27
+2291900,12:18:00,12:18:10,stop_point:SP_4458,Oratoire,28
+2291900,12:19:00,12:19:10,stop_point:SP_3247,Naurouze,29
+2291900,12:20:00,12:20:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291900,12:22:00,12:22:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291900,12:23:00,12:23:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291901,12:15:00,12:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291901,12:16:00,12:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291901,12:16:00,12:16:10,stop_point:SP_3604,IUC,3
+2291901,12:18:00,12:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291901,12:18:00,12:18:10,stop_point:SP_4907,Joulin,5
+2291901,12:23:00,12:23:10,stop_point:SP_2955,Eisenhower Est,6
+2291901,12:24:00,12:24:10,stop_point:SP_1948,René Valmy,7
+2291901,12:25:00,12:25:10,stop_point:SP_3703,Lestang,8
+2291901,12:26:00,12:26:10,stop_point:SP_2011,Ourliac,9
+2291901,12:27:00,12:27:10,stop_point:SP_16,Desnos,10
+2291901,12:29:00,12:29:10,stop_point:SP_1244,Place Bouillière,11
+2291901,12:30:00,12:30:10,stop_point:SP_2701,Basso Cambo,12
+2291901,12:32:00,12:32:10,stop_point:SP_1645,Mesplé,13
+2291901,12:32:00,12:32:10,stop_point:SP_3138,Mounède,14
+2291901,12:33:00,12:33:10,stop_point:SP_5066,Déodat Roché,15
+2291901,12:34:00,12:34:10,stop_point:SP_670,Vandel,16
+2291901,12:36:00,12:36:10,stop_point:SP_3974,Phidias,17
+2291901,12:37:00,12:37:10,stop_point:SP_3556,Grynfogel,18
+2291901,12:40:00,12:40:10,stop_point:SP_396,St-Exupéry,19
+2291901,12:42:00,12:42:10,stop_point:SP_5072,Solidarité,20
+2291901,12:43:00,12:43:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291901,12:44:00,12:44:10,stop_point:SP_4924,Saint Granier,22
+2291901,12:45:00,12:45:10,stop_point:SP_4921,Sévérac,23
+2291901,12:46:00,12:46:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291901,12:48:00,12:48:10,stop_point:SP_4890,Benozzi,25
+2291901,12:48:00,12:48:10,stop_point:SP_4889,Caulet,26
+2291901,12:49:00,12:49:10,stop_point:SP_4888,Fontaine,27
+2291901,12:50:00,12:50:10,stop_point:SP_4458,Oratoire,28
+2291901,12:51:00,12:51:10,stop_point:SP_3247,Naurouze,29
+2291901,12:52:00,12:52:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291901,12:54:00,12:54:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291901,12:55:00,12:55:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291902,12:45:00,12:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291902,12:46:00,12:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291902,12:46:00,12:46:10,stop_point:SP_3604,IUC,3
+2291902,12:48:00,12:48:10,stop_point:SP_3185,Route d'Espagne,4
+2291902,12:48:00,12:48:10,stop_point:SP_4907,Joulin,5
+2291902,12:53:00,12:53:10,stop_point:SP_2955,Eisenhower Est,6
+2291902,12:54:00,12:54:10,stop_point:SP_1948,René Valmy,7
+2291902,12:55:00,12:55:10,stop_point:SP_3703,Lestang,8
+2291902,12:56:00,12:56:10,stop_point:SP_2011,Ourliac,9
+2291902,12:57:00,12:57:10,stop_point:SP_16,Desnos,10
+2291902,12:59:00,12:59:10,stop_point:SP_1244,Place Bouillière,11
+2291902,13:00:00,13:00:10,stop_point:SP_2701,Basso Cambo,12
+2291902,13:01:00,13:01:10,stop_point:SP_1645,Mesplé,13
+2291902,13:02:00,13:02:10,stop_point:SP_3138,Mounède,14
+2291902,13:03:00,13:03:10,stop_point:SP_5066,Déodat Roché,15
+2291902,13:04:00,13:04:10,stop_point:SP_670,Vandel,16
+2291902,13:05:00,13:05:10,stop_point:SP_3974,Phidias,17
+2291902,13:06:00,13:06:10,stop_point:SP_3556,Grynfogel,18
+2291902,13:09:00,13:09:10,stop_point:SP_396,St-Exupéry,19
+2291902,13:11:00,13:11:10,stop_point:SP_5072,Solidarité,20
+2291902,13:12:00,13:12:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291902,13:13:00,13:13:10,stop_point:SP_4924,Saint Granier,22
+2291902,13:14:00,13:14:10,stop_point:SP_4921,Sévérac,23
+2291902,13:15:00,13:15:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291902,13:17:00,13:17:10,stop_point:SP_4890,Benozzi,25
+2291902,13:17:00,13:17:10,stop_point:SP_4889,Caulet,26
+2291902,13:18:00,13:18:10,stop_point:SP_4888,Fontaine,27
+2291902,13:19:00,13:19:10,stop_point:SP_4458,Oratoire,28
+2291902,13:20:00,13:20:10,stop_point:SP_3247,Naurouze,29
+2291902,13:21:00,13:21:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291902,13:23:00,13:23:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291902,13:24:00,13:24:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291903,13:15:00,13:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291903,13:16:00,13:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291903,13:16:00,13:16:10,stop_point:SP_3604,IUC,3
+2291903,13:18:00,13:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291903,13:18:00,13:18:10,stop_point:SP_4907,Joulin,5
+2291903,13:23:00,13:23:10,stop_point:SP_2955,Eisenhower Est,6
+2291903,13:24:00,13:24:10,stop_point:SP_1948,René Valmy,7
+2291903,13:25:00,13:25:10,stop_point:SP_3703,Lestang,8
+2291903,13:26:00,13:26:10,stop_point:SP_2011,Ourliac,9
+2291903,13:27:00,13:27:10,stop_point:SP_16,Desnos,10
+2291903,13:29:00,13:29:10,stop_point:SP_1244,Place Bouillière,11
+2291903,13:30:00,13:30:10,stop_point:SP_2701,Basso Cambo,12
+2291903,13:31:00,13:31:10,stop_point:SP_1645,Mesplé,13
+2291903,13:32:00,13:32:10,stop_point:SP_3138,Mounède,14
+2291903,13:33:00,13:33:10,stop_point:SP_5066,Déodat Roché,15
+2291903,13:34:00,13:34:10,stop_point:SP_670,Vandel,16
+2291903,13:35:00,13:35:10,stop_point:SP_3974,Phidias,17
+2291903,13:36:00,13:36:10,stop_point:SP_3556,Grynfogel,18
+2291903,13:39:00,13:39:10,stop_point:SP_396,St-Exupéry,19
+2291903,13:41:00,13:41:10,stop_point:SP_5072,Solidarité,20
+2291903,13:42:00,13:42:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291903,13:43:00,13:43:10,stop_point:SP_4924,Saint Granier,22
+2291903,13:44:00,13:44:10,stop_point:SP_4921,Sévérac,23
+2291903,13:45:00,13:45:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291903,13:47:00,13:47:10,stop_point:SP_4890,Benozzi,25
+2291903,13:47:00,13:47:10,stop_point:SP_4889,Caulet,26
+2291903,13:48:00,13:48:10,stop_point:SP_4888,Fontaine,27
+2291903,13:49:00,13:49:10,stop_point:SP_4458,Oratoire,28
+2291903,13:50:00,13:50:10,stop_point:SP_3247,Naurouze,29
+2291903,13:51:00,13:51:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291903,13:53:00,13:53:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291903,13:54:00,13:54:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291904,13:45:00,13:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291904,13:46:00,13:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291904,13:46:00,13:46:10,stop_point:SP_3604,IUC,3
+2291904,13:48:00,13:48:10,stop_point:SP_3185,Route d'Espagne,4
+2291904,13:48:00,13:48:10,stop_point:SP_4907,Joulin,5
+2291904,13:53:00,13:53:10,stop_point:SP_2955,Eisenhower Est,6
+2291904,13:54:00,13:54:10,stop_point:SP_1948,René Valmy,7
+2291904,13:55:00,13:55:10,stop_point:SP_3703,Lestang,8
+2291904,13:56:00,13:56:10,stop_point:SP_2011,Ourliac,9
+2291904,13:57:00,13:57:10,stop_point:SP_16,Desnos,10
+2291904,13:59:00,13:59:10,stop_point:SP_1244,Place Bouillière,11
+2291904,14:00:00,14:00:10,stop_point:SP_2701,Basso Cambo,12
+2291904,14:01:00,14:01:10,stop_point:SP_1645,Mesplé,13
+2291904,14:02:00,14:02:10,stop_point:SP_3138,Mounède,14
+2291904,14:03:00,14:03:10,stop_point:SP_5066,Déodat Roché,15
+2291904,14:04:00,14:04:10,stop_point:SP_670,Vandel,16
+2291904,14:05:00,14:05:10,stop_point:SP_3974,Phidias,17
+2291904,14:06:00,14:06:10,stop_point:SP_3556,Grynfogel,18
+2291904,14:09:00,14:09:10,stop_point:SP_396,St-Exupéry,19
+2291904,14:11:00,14:11:10,stop_point:SP_5072,Solidarité,20
+2291904,14:12:00,14:12:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291904,14:13:00,14:13:10,stop_point:SP_4924,Saint Granier,22
+2291904,14:14:00,14:14:10,stop_point:SP_4921,Sévérac,23
+2291904,14:15:00,14:15:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291904,14:17:00,14:17:10,stop_point:SP_4890,Benozzi,25
+2291904,14:17:00,14:17:10,stop_point:SP_4889,Caulet,26
+2291904,14:18:00,14:18:10,stop_point:SP_4888,Fontaine,27
+2291904,14:19:00,14:19:10,stop_point:SP_4458,Oratoire,28
+2291904,14:20:00,14:20:10,stop_point:SP_3247,Naurouze,29
+2291904,14:21:00,14:21:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291904,14:23:00,14:23:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291904,14:24:00,14:24:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291905,14:15:00,14:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291905,14:16:00,14:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291905,14:16:00,14:16:10,stop_point:SP_3604,IUC,3
+2291905,14:18:00,14:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291905,14:18:00,14:18:10,stop_point:SP_4907,Joulin,5
+2291905,14:23:00,14:23:10,stop_point:SP_2955,Eisenhower Est,6
+2291905,14:24:00,14:24:10,stop_point:SP_1948,René Valmy,7
+2291905,14:25:00,14:25:10,stop_point:SP_3703,Lestang,8
+2291905,14:26:00,14:26:10,stop_point:SP_2011,Ourliac,9
+2291905,14:27:00,14:27:10,stop_point:SP_16,Desnos,10
+2291905,14:29:00,14:29:10,stop_point:SP_1244,Place Bouillière,11
+2291905,14:30:00,14:30:10,stop_point:SP_2701,Basso Cambo,12
+2291905,14:31:00,14:31:10,stop_point:SP_1645,Mesplé,13
+2291905,14:32:00,14:32:10,stop_point:SP_3138,Mounède,14
+2291905,14:33:00,14:33:10,stop_point:SP_5066,Déodat Roché,15
+2291905,14:34:00,14:34:10,stop_point:SP_670,Vandel,16
+2291905,14:35:00,14:35:10,stop_point:SP_3974,Phidias,17
+2291905,14:36:00,14:36:10,stop_point:SP_3556,Grynfogel,18
+2291905,14:39:00,14:39:10,stop_point:SP_396,St-Exupéry,19
+2291905,14:41:00,14:41:10,stop_point:SP_5072,Solidarité,20
+2291905,14:42:00,14:42:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291905,14:43:00,14:43:10,stop_point:SP_4924,Saint Granier,22
+2291905,14:44:00,14:44:10,stop_point:SP_4921,Sévérac,23
+2291905,14:45:00,14:45:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291905,14:47:00,14:47:10,stop_point:SP_4890,Benozzi,25
+2291905,14:47:00,14:47:10,stop_point:SP_4889,Caulet,26
+2291905,14:48:00,14:48:10,stop_point:SP_4888,Fontaine,27
+2291905,14:49:00,14:49:10,stop_point:SP_4458,Oratoire,28
+2291905,14:50:00,14:50:10,stop_point:SP_3247,Naurouze,29
+2291905,14:51:00,14:51:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291905,14:53:00,14:53:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291905,14:54:00,14:54:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291906,14:45:00,14:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291906,14:46:00,14:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291906,14:46:00,14:46:10,stop_point:SP_3604,IUC,3
+2291906,14:48:00,14:48:10,stop_point:SP_3185,Route d'Espagne,4
+2291906,14:48:00,14:48:10,stop_point:SP_4907,Joulin,5
+2291906,14:53:00,14:53:10,stop_point:SP_2955,Eisenhower Est,6
+2291906,14:54:00,14:54:10,stop_point:SP_1948,René Valmy,7
+2291906,14:55:00,14:55:10,stop_point:SP_3703,Lestang,8
+2291906,14:56:00,14:56:10,stop_point:SP_2011,Ourliac,9
+2291906,14:57:00,14:57:10,stop_point:SP_16,Desnos,10
+2291906,14:59:00,14:59:10,stop_point:SP_1244,Place Bouillière,11
+2291906,15:00:00,15:00:10,stop_point:SP_2701,Basso Cambo,12
+2291906,15:01:00,15:01:10,stop_point:SP_1645,Mesplé,13
+2291906,15:02:00,15:02:10,stop_point:SP_3138,Mounède,14
+2291906,15:03:00,15:03:10,stop_point:SP_5066,Déodat Roché,15
+2291906,15:04:00,15:04:10,stop_point:SP_670,Vandel,16
+2291906,15:05:00,15:05:10,stop_point:SP_3974,Phidias,17
+2291906,15:06:00,15:06:10,stop_point:SP_3556,Grynfogel,18
+2291906,15:09:00,15:09:10,stop_point:SP_396,St-Exupéry,19
+2291906,15:11:00,15:11:10,stop_point:SP_5072,Solidarité,20
+2291906,15:12:00,15:12:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291906,15:13:00,15:13:10,stop_point:SP_4924,Saint Granier,22
+2291906,15:14:00,15:14:10,stop_point:SP_4921,Sévérac,23
+2291906,15:15:00,15:15:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291906,15:17:00,15:17:10,stop_point:SP_4890,Benozzi,25
+2291906,15:17:00,15:17:10,stop_point:SP_4889,Caulet,26
+2291906,15:18:00,15:18:10,stop_point:SP_4888,Fontaine,27
+2291906,15:19:00,15:19:10,stop_point:SP_4458,Oratoire,28
+2291906,15:20:00,15:20:10,stop_point:SP_3247,Naurouze,29
+2291906,15:21:00,15:21:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291906,15:23:00,15:23:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291906,15:24:00,15:24:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291907,15:15:00,15:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291907,15:16:00,15:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291907,15:16:00,15:16:10,stop_point:SP_3604,IUC,3
+2291907,15:18:00,15:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291907,15:18:00,15:18:10,stop_point:SP_4907,Joulin,5
+2291907,15:23:00,15:23:10,stop_point:SP_2955,Eisenhower Est,6
+2291907,15:24:00,15:24:10,stop_point:SP_1948,René Valmy,7
+2291907,15:25:00,15:25:10,stop_point:SP_3703,Lestang,8
+2291907,15:26:00,15:26:10,stop_point:SP_2011,Ourliac,9
+2291907,15:27:00,15:27:10,stop_point:SP_16,Desnos,10
+2291907,15:29:00,15:29:10,stop_point:SP_1244,Place Bouillière,11
+2291907,15:30:00,15:30:10,stop_point:SP_2701,Basso Cambo,12
+2291907,15:31:00,15:31:10,stop_point:SP_1645,Mesplé,13
+2291907,15:32:00,15:32:10,stop_point:SP_3138,Mounède,14
+2291907,15:33:00,15:33:10,stop_point:SP_5066,Déodat Roché,15
+2291907,15:34:00,15:34:10,stop_point:SP_670,Vandel,16
+2291907,15:35:00,15:35:10,stop_point:SP_3974,Phidias,17
+2291907,15:36:00,15:36:10,stop_point:SP_3556,Grynfogel,18
+2291907,15:39:00,15:39:10,stop_point:SP_396,St-Exupéry,19
+2291907,15:41:00,15:41:10,stop_point:SP_5072,Solidarité,20
+2291907,15:42:00,15:42:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291907,15:43:00,15:43:10,stop_point:SP_4924,Saint Granier,22
+2291907,15:44:00,15:44:10,stop_point:SP_4921,Sévérac,23
+2291907,15:45:00,15:45:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291907,15:47:00,15:47:10,stop_point:SP_4890,Benozzi,25
+2291907,15:47:00,15:47:10,stop_point:SP_4889,Caulet,26
+2291907,15:48:00,15:48:10,stop_point:SP_4888,Fontaine,27
+2291907,15:49:00,15:49:10,stop_point:SP_4458,Oratoire,28
+2291907,15:50:00,15:50:10,stop_point:SP_3247,Naurouze,29
+2291907,15:51:00,15:51:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291907,15:53:00,15:53:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291907,15:54:00,15:54:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291908,15:45:00,15:45:10,stop_point:SP_3140,Oncopole Courrière,1
+2291908,15:46:00,15:46:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291908,15:46:00,15:46:10,stop_point:SP_3604,IUC,3
+2291908,15:48:00,15:48:10,stop_point:SP_3185,Route d'Espagne,4
+2291908,15:48:00,15:48:10,stop_point:SP_4907,Joulin,5
+2291908,15:53:00,15:53:10,stop_point:SP_2955,Eisenhower Est,6
+2291908,15:54:00,15:54:10,stop_point:SP_1948,René Valmy,7
+2291908,15:55:00,15:55:10,stop_point:SP_3703,Lestang,8
+2291908,15:56:00,15:56:10,stop_point:SP_2011,Ourliac,9
+2291908,15:57:00,15:57:10,stop_point:SP_16,Desnos,10
+2291908,15:59:00,15:59:10,stop_point:SP_1244,Place Bouillière,11
+2291908,16:00:00,16:00:10,stop_point:SP_2701,Basso Cambo,12
+2291908,16:02:00,16:02:10,stop_point:SP_1645,Mesplé,13
+2291908,16:03:00,16:03:10,stop_point:SP_3138,Mounède,14
+2291908,16:04:00,16:04:10,stop_point:SP_5066,Déodat Roché,15
+2291908,16:05:00,16:05:10,stop_point:SP_670,Vandel,16
+2291908,16:06:00,16:06:10,stop_point:SP_3974,Phidias,17
+2291908,16:07:00,16:07:10,stop_point:SP_3556,Grynfogel,18
+2291908,16:11:00,16:11:10,stop_point:SP_396,St-Exupéry,19
+2291908,16:13:00,16:13:10,stop_point:SP_5072,Solidarité,20
+2291908,16:14:00,16:14:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291908,16:15:00,16:15:10,stop_point:SP_4924,Saint Granier,22
+2291908,16:16:00,16:16:10,stop_point:SP_4921,Sévérac,23
+2291908,16:17:00,16:17:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291908,16:19:00,16:19:10,stop_point:SP_4890,Benozzi,25
+2291908,16:19:00,16:19:10,stop_point:SP_4889,Caulet,26
+2291908,16:20:00,16:20:10,stop_point:SP_4888,Fontaine,27
+2291908,16:22:00,16:22:10,stop_point:SP_4458,Oratoire,28
+2291908,16:23:00,16:23:10,stop_point:SP_3247,Naurouze,29
+2291908,16:24:00,16:24:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291908,16:25:00,16:25:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291908,16:27:00,16:27:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291909,16:15:00,16:15:10,stop_point:SP_3140,Oncopole Courrière,1
+2291909,16:16:00,16:16:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291909,16:16:00,16:16:10,stop_point:SP_3604,IUC,3
+2291909,16:18:00,16:18:10,stop_point:SP_3185,Route d'Espagne,4
+2291909,16:19:00,16:19:10,stop_point:SP_4907,Joulin,5
+2291909,16:24:00,16:24:10,stop_point:SP_2955,Eisenhower Est,6
+2291909,16:25:00,16:25:10,stop_point:SP_1948,René Valmy,7
+2291909,16:27:00,16:27:10,stop_point:SP_3703,Lestang,8
+2291909,16:27:00,16:27:10,stop_point:SP_2011,Ourliac,9
+2291909,16:29:00,16:29:10,stop_point:SP_16,Desnos,10
+2291909,16:31:00,16:31:10,stop_point:SP_1244,Place Bouillière,11
+2291909,16:32:00,16:32:10,stop_point:SP_2701,Basso Cambo,12
+2291909,16:34:00,16:34:10,stop_point:SP_1645,Mesplé,13
+2291909,16:35:00,16:35:10,stop_point:SP_3138,Mounède,14
+2291909,16:36:00,16:36:10,stop_point:SP_5066,Déodat Roché,15
+2291909,16:37:00,16:37:10,stop_point:SP_670,Vandel,16
+2291909,16:38:00,16:38:10,stop_point:SP_3974,Phidias,17
+2291909,16:39:00,16:39:10,stop_point:SP_3556,Grynfogel,18
+2291909,16:43:00,16:43:10,stop_point:SP_396,St-Exupéry,19
+2291909,16:45:00,16:45:10,stop_point:SP_5072,Solidarité,20
+2291909,16:46:00,16:46:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291909,16:47:00,16:47:10,stop_point:SP_4924,Saint Granier,22
+2291909,16:48:00,16:48:10,stop_point:SP_4921,Sévérac,23
+2291909,16:49:00,16:49:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291909,16:51:00,16:51:10,stop_point:SP_4890,Benozzi,25
+2291909,16:51:00,16:51:10,stop_point:SP_4889,Caulet,26
+2291909,16:52:00,16:52:10,stop_point:SP_4888,Fontaine,27
+2291909,16:54:00,16:54:10,stop_point:SP_4458,Oratoire,28
+2291909,16:55:00,16:55:10,stop_point:SP_3247,Naurouze,29
+2291909,16:56:00,16:56:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291909,16:57:00,16:57:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291909,16:59:00,16:59:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291910,16:30:00,16:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291910,16:31:00,16:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291910,16:31:00,16:31:10,stop_point:SP_3604,IUC,3
+2291910,16:33:00,16:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291910,16:34:00,16:34:10,stop_point:SP_4907,Joulin,5
+2291910,16:39:00,16:39:10,stop_point:SP_2955,Eisenhower Est,6
+2291910,16:40:00,16:40:10,stop_point:SP_1948,René Valmy,7
+2291910,16:42:00,16:42:10,stop_point:SP_3703,Lestang,8
+2291910,16:42:00,16:42:10,stop_point:SP_2011,Ourliac,9
+2291910,16:44:00,16:44:10,stop_point:SP_16,Desnos,10
+2291910,16:46:00,16:46:10,stop_point:SP_1244,Place Bouillière,11
+2291910,16:47:00,16:47:10,stop_point:SP_2701,Basso Cambo,12
+2291910,16:49:00,16:49:10,stop_point:SP_1645,Mesplé,13
+2291910,16:50:00,16:50:10,stop_point:SP_3138,Mounède,14
+2291910,16:51:00,16:51:10,stop_point:SP_5066,Déodat Roché,15
+2291910,16:52:00,16:52:10,stop_point:SP_670,Vandel,16
+2291910,16:53:00,16:53:10,stop_point:SP_3974,Phidias,17
+2291910,16:54:00,16:54:10,stop_point:SP_3556,Grynfogel,18
+2291910,16:58:00,16:58:10,stop_point:SP_396,St-Exupéry,19
+2291910,17:00:00,17:00:10,stop_point:SP_5072,Solidarité,20
+2291910,17:01:00,17:01:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291910,17:02:00,17:02:10,stop_point:SP_4924,Saint Granier,22
+2291910,17:03:00,17:03:10,stop_point:SP_4921,Sévérac,23
+2291910,17:04:00,17:04:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291910,17:06:00,17:06:10,stop_point:SP_4890,Benozzi,25
+2291910,17:06:00,17:06:10,stop_point:SP_4889,Caulet,26
+2291910,17:07:00,17:07:10,stop_point:SP_4888,Fontaine,27
+2291910,17:09:00,17:09:10,stop_point:SP_4458,Oratoire,28
+2291910,17:10:00,17:10:10,stop_point:SP_3247,Naurouze,29
+2291910,17:11:00,17:11:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291910,17:12:00,17:12:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291910,17:14:00,17:14:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291911,16:40:00,16:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291911,16:41:00,16:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291911,16:41:00,16:41:10,stop_point:SP_3604,IUC,3
+2291911,16:43:00,16:43:10,stop_point:SP_3185,Route d'Espagne,4
+2291911,16:44:00,16:44:10,stop_point:SP_4907,Joulin,5
+2291911,16:49:00,16:49:10,stop_point:SP_2955,Eisenhower Est,6
+2291911,16:50:00,16:50:10,stop_point:SP_1948,René Valmy,7
+2291911,16:52:00,16:52:10,stop_point:SP_3703,Lestang,8
+2291911,16:52:00,16:52:10,stop_point:SP_2011,Ourliac,9
+2291911,16:54:00,16:54:10,stop_point:SP_16,Desnos,10
+2291911,16:56:00,16:56:10,stop_point:SP_1244,Place Bouillière,11
+2291911,16:57:00,16:57:10,stop_point:SP_2701,Basso Cambo,12
+2291911,16:59:00,16:59:10,stop_point:SP_1645,Mesplé,13
+2291911,17:00:00,17:00:10,stop_point:SP_3138,Mounède,14
+2291911,17:01:00,17:01:10,stop_point:SP_5066,Déodat Roché,15
+2291911,17:02:00,17:02:10,stop_point:SP_670,Vandel,16
+2291911,17:03:00,17:03:10,stop_point:SP_3974,Phidias,17
+2291911,17:04:00,17:04:10,stop_point:SP_3556,Grynfogel,18
+2291911,17:08:00,17:08:10,stop_point:SP_396,St-Exupéry,19
+2291911,17:10:00,17:10:10,stop_point:SP_5072,Solidarité,20
+2291911,17:11:00,17:11:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291911,17:12:00,17:12:10,stop_point:SP_4924,Saint Granier,22
+2291911,17:13:00,17:13:10,stop_point:SP_4921,Sévérac,23
+2291911,17:14:00,17:14:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291911,17:16:00,17:16:10,stop_point:SP_4890,Benozzi,25
+2291911,17:16:00,17:16:10,stop_point:SP_4889,Caulet,26
+2291911,17:17:00,17:17:10,stop_point:SP_4888,Fontaine,27
+2291911,17:19:00,17:19:10,stop_point:SP_4458,Oratoire,28
+2291911,17:20:00,17:20:10,stop_point:SP_3247,Naurouze,29
+2291911,17:21:00,17:21:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291911,17:22:00,17:22:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291911,17:24:00,17:24:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291912,16:50:00,16:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291912,16:51:00,16:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291912,16:51:00,16:51:10,stop_point:SP_3604,IUC,3
+2291912,16:53:00,16:53:10,stop_point:SP_3185,Route d'Espagne,4
+2291912,16:54:00,16:54:10,stop_point:SP_4907,Joulin,5
+2291912,16:59:00,16:59:10,stop_point:SP_2955,Eisenhower Est,6
+2291912,17:00:00,17:00:10,stop_point:SP_1948,René Valmy,7
+2291912,17:02:00,17:02:10,stop_point:SP_3703,Lestang,8
+2291912,17:02:00,17:02:10,stop_point:SP_2011,Ourliac,9
+2291912,17:04:00,17:04:10,stop_point:SP_16,Desnos,10
+2291912,17:06:00,17:06:10,stop_point:SP_1244,Place Bouillière,11
+2291912,17:07:00,17:07:10,stop_point:SP_2701,Basso Cambo,12
+2291912,17:09:00,17:09:10,stop_point:SP_1645,Mesplé,13
+2291912,17:10:00,17:10:10,stop_point:SP_3138,Mounède,14
+2291912,17:11:00,17:11:10,stop_point:SP_5066,Déodat Roché,15
+2291912,17:12:00,17:12:10,stop_point:SP_670,Vandel,16
+2291912,17:13:00,17:13:10,stop_point:SP_3974,Phidias,17
+2291912,17:14:00,17:14:10,stop_point:SP_3556,Grynfogel,18
+2291912,17:18:00,17:18:10,stop_point:SP_396,St-Exupéry,19
+2291912,17:20:00,17:20:10,stop_point:SP_5072,Solidarité,20
+2291912,17:22:00,17:22:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291912,17:23:00,17:23:10,stop_point:SP_4924,Saint Granier,22
+2291912,17:24:00,17:24:10,stop_point:SP_4921,Sévérac,23
+2291912,17:26:00,17:26:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291912,17:28:00,17:28:10,stop_point:SP_4890,Benozzi,25
+2291912,17:28:00,17:28:10,stop_point:SP_4889,Caulet,26
+2291912,17:29:00,17:29:10,stop_point:SP_4888,Fontaine,27
+2291912,17:31:00,17:31:10,stop_point:SP_4458,Oratoire,28
+2291912,17:32:00,17:32:10,stop_point:SP_3247,Naurouze,29
+2291912,17:33:00,17:33:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291912,17:34:00,17:34:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291912,17:36:00,17:36:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291913,17:00:00,17:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291913,17:01:00,17:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291913,17:01:00,17:01:10,stop_point:SP_3604,IUC,3
+2291913,17:03:00,17:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291913,17:04:00,17:04:10,stop_point:SP_4907,Joulin,5
+2291913,17:09:00,17:09:10,stop_point:SP_2955,Eisenhower Est,6
+2291913,17:10:00,17:10:10,stop_point:SP_1948,René Valmy,7
+2291913,17:12:00,17:12:10,stop_point:SP_3703,Lestang,8
+2291913,17:12:00,17:12:10,stop_point:SP_2011,Ourliac,9
+2291913,17:14:00,17:14:10,stop_point:SP_16,Desnos,10
+2291913,17:16:00,17:16:10,stop_point:SP_1244,Place Bouillière,11
+2291913,17:17:00,17:17:10,stop_point:SP_2701,Basso Cambo,12
+2291913,17:19:00,17:19:10,stop_point:SP_1645,Mesplé,13
+2291913,17:20:00,17:20:10,stop_point:SP_3138,Mounède,14
+2291913,17:21:00,17:21:10,stop_point:SP_5066,Déodat Roché,15
+2291913,17:22:00,17:22:10,stop_point:SP_670,Vandel,16
+2291913,17:23:00,17:23:10,stop_point:SP_3974,Phidias,17
+2291913,17:24:00,17:24:10,stop_point:SP_3556,Grynfogel,18
+2291913,17:28:00,17:28:10,stop_point:SP_396,St-Exupéry,19
+2291913,17:31:00,17:31:10,stop_point:SP_5072,Solidarité,20
+2291913,17:32:00,17:32:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291913,17:34:00,17:34:10,stop_point:SP_4924,Saint Granier,22
+2291913,17:35:00,17:35:10,stop_point:SP_4921,Sévérac,23
+2291913,17:37:00,17:37:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291913,17:39:00,17:39:10,stop_point:SP_4890,Benozzi,25
+2291913,17:39:00,17:39:10,stop_point:SP_4889,Caulet,26
+2291913,17:40:00,17:40:10,stop_point:SP_4888,Fontaine,27
+2291913,17:42:00,17:42:10,stop_point:SP_4458,Oratoire,28
+2291913,17:43:00,17:43:10,stop_point:SP_3247,Naurouze,29
+2291913,17:44:00,17:44:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291913,17:45:00,17:45:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291913,17:47:00,17:47:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291914,17:10:00,17:10:10,stop_point:SP_3140,Oncopole Courrière,1
+2291914,17:11:00,17:11:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291914,17:11:00,17:11:10,stop_point:SP_3604,IUC,3
+2291914,17:13:00,17:13:10,stop_point:SP_3185,Route d'Espagne,4
+2291914,17:14:00,17:14:10,stop_point:SP_4907,Joulin,5
+2291914,17:19:00,17:19:10,stop_point:SP_2955,Eisenhower Est,6
+2291914,17:20:00,17:20:10,stop_point:SP_1948,René Valmy,7
+2291914,17:22:00,17:22:10,stop_point:SP_3703,Lestang,8
+2291914,17:22:00,17:22:10,stop_point:SP_2011,Ourliac,9
+2291914,17:24:00,17:24:10,stop_point:SP_16,Desnos,10
+2291914,17:26:00,17:26:10,stop_point:SP_1244,Place Bouillière,11
+2291914,17:27:00,17:27:10,stop_point:SP_2701,Basso Cambo,12
+2291914,17:29:00,17:29:10,stop_point:SP_1645,Mesplé,13
+2291914,17:30:00,17:30:10,stop_point:SP_3138,Mounède,14
+2291914,17:31:00,17:31:10,stop_point:SP_5066,Déodat Roché,15
+2291914,17:32:00,17:32:10,stop_point:SP_670,Vandel,16
+2291914,17:33:00,17:33:10,stop_point:SP_3974,Phidias,17
+2291914,17:34:00,17:34:10,stop_point:SP_3556,Grynfogel,18
+2291914,17:38:00,17:38:10,stop_point:SP_396,St-Exupéry,19
+2291914,17:41:00,17:41:10,stop_point:SP_5072,Solidarité,20
+2291914,17:42:00,17:42:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291914,17:44:00,17:44:10,stop_point:SP_4924,Saint Granier,22
+2291914,17:45:00,17:45:10,stop_point:SP_4921,Sévérac,23
+2291914,17:47:00,17:47:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291914,17:49:00,17:49:10,stop_point:SP_4890,Benozzi,25
+2291914,17:49:00,17:49:10,stop_point:SP_4889,Caulet,26
+2291914,17:50:00,17:50:10,stop_point:SP_4888,Fontaine,27
+2291914,17:52:00,17:52:10,stop_point:SP_4458,Oratoire,28
+2291914,17:53:00,17:53:10,stop_point:SP_3247,Naurouze,29
+2291914,17:54:00,17:54:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291914,17:55:00,17:55:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291914,17:57:00,17:57:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291915,17:20:00,17:20:10,stop_point:SP_3140,Oncopole Courrière,1
+2291915,17:21:00,17:21:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291915,17:21:00,17:21:10,stop_point:SP_3604,IUC,3
+2291915,17:23:00,17:23:10,stop_point:SP_3185,Route d'Espagne,4
+2291915,17:24:00,17:24:10,stop_point:SP_4907,Joulin,5
+2291915,17:29:00,17:29:10,stop_point:SP_2955,Eisenhower Est,6
+2291915,17:30:00,17:30:10,stop_point:SP_1948,René Valmy,7
+2291915,17:32:00,17:32:10,stop_point:SP_3703,Lestang,8
+2291915,17:32:00,17:32:10,stop_point:SP_2011,Ourliac,9
+2291915,17:34:00,17:34:10,stop_point:SP_16,Desnos,10
+2291915,17:36:00,17:36:10,stop_point:SP_1244,Place Bouillière,11
+2291915,17:37:00,17:37:10,stop_point:SP_2701,Basso Cambo,12
+2291915,17:39:00,17:39:10,stop_point:SP_1645,Mesplé,13
+2291915,17:40:00,17:40:10,stop_point:SP_3138,Mounède,14
+2291915,17:41:00,17:41:10,stop_point:SP_5066,Déodat Roché,15
+2291915,17:42:00,17:42:10,stop_point:SP_670,Vandel,16
+2291915,17:43:00,17:43:10,stop_point:SP_3974,Phidias,17
+2291915,17:44:00,17:44:10,stop_point:SP_3556,Grynfogel,18
+2291915,17:48:00,17:48:10,stop_point:SP_396,St-Exupéry,19
+2291915,17:51:00,17:51:10,stop_point:SP_5072,Solidarité,20
+2291915,17:52:00,17:52:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291915,17:54:00,17:54:10,stop_point:SP_4924,Saint Granier,22
+2291915,17:55:00,17:55:10,stop_point:SP_4921,Sévérac,23
+2291915,17:57:00,17:57:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291915,17:59:00,17:59:10,stop_point:SP_4890,Benozzi,25
+2291915,17:59:00,17:59:10,stop_point:SP_4889,Caulet,26
+2291915,18:00:00,18:00:10,stop_point:SP_4888,Fontaine,27
+2291915,18:02:00,18:02:10,stop_point:SP_4458,Oratoire,28
+2291915,18:03:00,18:03:10,stop_point:SP_3247,Naurouze,29
+2291915,18:04:00,18:04:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291915,18:05:00,18:05:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291915,18:07:00,18:07:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291916,17:30:00,17:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291916,17:31:00,17:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291916,17:31:00,17:31:10,stop_point:SP_3604,IUC,3
+2291916,17:33:00,17:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291916,17:34:00,17:34:10,stop_point:SP_4907,Joulin,5
+2291916,17:39:00,17:39:10,stop_point:SP_2955,Eisenhower Est,6
+2291916,17:40:00,17:40:10,stop_point:SP_1948,René Valmy,7
+2291916,17:42:00,17:42:10,stop_point:SP_3703,Lestang,8
+2291916,17:42:00,17:42:10,stop_point:SP_2011,Ourliac,9
+2291916,17:44:00,17:44:10,stop_point:SP_16,Desnos,10
+2291916,17:46:00,17:46:10,stop_point:SP_1244,Place Bouillière,11
+2291916,17:47:00,17:47:10,stop_point:SP_2701,Basso Cambo,12
+2291916,17:49:00,17:49:10,stop_point:SP_1645,Mesplé,13
+2291916,17:50:00,17:50:10,stop_point:SP_3138,Mounède,14
+2291916,17:51:00,17:51:10,stop_point:SP_5066,Déodat Roché,15
+2291916,17:52:00,17:52:10,stop_point:SP_670,Vandel,16
+2291916,17:53:00,17:53:10,stop_point:SP_3974,Phidias,17
+2291916,17:54:00,17:54:10,stop_point:SP_3556,Grynfogel,18
+2291916,17:58:00,17:58:10,stop_point:SP_396,St-Exupéry,19
+2291916,18:01:00,18:01:10,stop_point:SP_5072,Solidarité,20
+2291916,18:02:00,18:02:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291916,18:04:00,18:04:10,stop_point:SP_4924,Saint Granier,22
+2291916,18:05:00,18:05:10,stop_point:SP_4921,Sévérac,23
+2291916,18:07:00,18:07:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291916,18:09:00,18:09:10,stop_point:SP_4890,Benozzi,25
+2291916,18:09:00,18:09:10,stop_point:SP_4889,Caulet,26
+2291916,18:10:00,18:10:10,stop_point:SP_4888,Fontaine,27
+2291916,18:12:00,18:12:10,stop_point:SP_4458,Oratoire,28
+2291916,18:13:00,18:13:10,stop_point:SP_3247,Naurouze,29
+2291916,18:14:00,18:14:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291916,18:15:00,18:15:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291916,18:17:00,18:17:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291917,17:40:00,17:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291917,17:41:00,17:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291917,17:41:00,17:41:10,stop_point:SP_3604,IUC,3
+2291917,17:43:00,17:43:10,stop_point:SP_3185,Route d'Espagne,4
+2291917,17:44:00,17:44:10,stop_point:SP_4907,Joulin,5
+2291917,17:49:00,17:49:10,stop_point:SP_2955,Eisenhower Est,6
+2291917,17:50:00,17:50:10,stop_point:SP_1948,René Valmy,7
+2291917,17:52:00,17:52:10,stop_point:SP_3703,Lestang,8
+2291917,17:52:00,17:52:10,stop_point:SP_2011,Ourliac,9
+2291917,17:54:00,17:54:10,stop_point:SP_16,Desnos,10
+2291917,17:56:00,17:56:10,stop_point:SP_1244,Place Bouillière,11
+2291917,17:57:00,17:57:10,stop_point:SP_2701,Basso Cambo,12
+2291917,17:59:00,17:59:10,stop_point:SP_1645,Mesplé,13
+2291917,18:00:00,18:00:10,stop_point:SP_3138,Mounède,14
+2291917,18:01:00,18:01:10,stop_point:SP_5066,Déodat Roché,15
+2291917,18:02:00,18:02:10,stop_point:SP_670,Vandel,16
+2291917,18:03:00,18:03:10,stop_point:SP_3974,Phidias,17
+2291917,18:04:00,18:04:10,stop_point:SP_3556,Grynfogel,18
+2291917,18:08:00,18:08:10,stop_point:SP_396,St-Exupéry,19
+2291917,18:11:00,18:11:10,stop_point:SP_5072,Solidarité,20
+2291917,18:12:00,18:12:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291917,18:14:00,18:14:10,stop_point:SP_4924,Saint Granier,22
+2291917,18:15:00,18:15:10,stop_point:SP_4921,Sévérac,23
+2291917,18:17:00,18:17:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291917,18:19:00,18:19:10,stop_point:SP_4890,Benozzi,25
+2291917,18:19:00,18:19:10,stop_point:SP_4889,Caulet,26
+2291917,18:20:00,18:20:10,stop_point:SP_4888,Fontaine,27
+2291917,18:22:00,18:22:10,stop_point:SP_4458,Oratoire,28
+2291917,18:23:00,18:23:10,stop_point:SP_3247,Naurouze,29
+2291917,18:24:00,18:24:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291917,18:25:00,18:25:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291917,18:27:00,18:27:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291918,17:50:00,17:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291918,17:51:00,17:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291918,17:51:00,17:51:10,stop_point:SP_3604,IUC,3
+2291918,17:53:00,17:53:10,stop_point:SP_3185,Route d'Espagne,4
+2291918,17:54:00,17:54:10,stop_point:SP_4907,Joulin,5
+2291918,17:59:00,17:59:10,stop_point:SP_2955,Eisenhower Est,6
+2291918,18:00:00,18:00:10,stop_point:SP_1948,René Valmy,7
+2291918,18:02:00,18:02:10,stop_point:SP_3703,Lestang,8
+2291918,18:02:00,18:02:10,stop_point:SP_2011,Ourliac,9
+2291918,18:04:00,18:04:10,stop_point:SP_16,Desnos,10
+2291918,18:06:00,18:06:10,stop_point:SP_1244,Place Bouillière,11
+2291918,18:07:00,18:07:10,stop_point:SP_2701,Basso Cambo,12
+2291918,18:09:00,18:09:10,stop_point:SP_1645,Mesplé,13
+2291918,18:10:00,18:10:10,stop_point:SP_3138,Mounède,14
+2291918,18:11:00,18:11:10,stop_point:SP_5066,Déodat Roché,15
+2291918,18:12:00,18:12:10,stop_point:SP_670,Vandel,16
+2291918,18:13:00,18:13:10,stop_point:SP_3974,Phidias,17
+2291918,18:14:00,18:14:10,stop_point:SP_3556,Grynfogel,18
+2291918,18:18:00,18:18:10,stop_point:SP_396,St-Exupéry,19
+2291918,18:20:00,18:20:10,stop_point:SP_5072,Solidarité,20
+2291918,18:21:00,18:21:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291918,18:23:00,18:23:10,stop_point:SP_4924,Saint Granier,22
+2291918,18:24:00,18:24:10,stop_point:SP_4921,Sévérac,23
+2291918,18:25:00,18:25:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291918,18:27:00,18:27:10,stop_point:SP_4890,Benozzi,25
+2291918,18:27:00,18:27:10,stop_point:SP_4889,Caulet,26
+2291918,18:28:00,18:28:10,stop_point:SP_4888,Fontaine,27
+2291918,18:30:00,18:30:10,stop_point:SP_4458,Oratoire,28
+2291918,18:31:00,18:31:10,stop_point:SP_3247,Naurouze,29
+2291918,18:32:00,18:32:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291918,18:33:00,18:33:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291918,18:35:00,18:35:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291919,18:00:00,18:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291919,18:01:00,18:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291919,18:01:00,18:01:10,stop_point:SP_3604,IUC,3
+2291919,18:03:00,18:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291919,18:04:00,18:04:10,stop_point:SP_4907,Joulin,5
+2291919,18:09:00,18:09:10,stop_point:SP_2955,Eisenhower Est,6
+2291919,18:10:00,18:10:10,stop_point:SP_1948,René Valmy,7
+2291919,18:12:00,18:12:10,stop_point:SP_3703,Lestang,8
+2291919,18:12:00,18:12:10,stop_point:SP_2011,Ourliac,9
+2291919,18:14:00,18:14:10,stop_point:SP_16,Desnos,10
+2291919,18:16:00,18:16:10,stop_point:SP_1244,Place Bouillière,11
+2291919,18:17:00,18:17:10,stop_point:SP_2701,Basso Cambo,12
+2291919,18:19:00,18:19:10,stop_point:SP_1645,Mesplé,13
+2291919,18:20:00,18:20:10,stop_point:SP_3138,Mounède,14
+2291919,18:21:00,18:21:10,stop_point:SP_5066,Déodat Roché,15
+2291919,18:22:00,18:22:10,stop_point:SP_670,Vandel,16
+2291919,18:23:00,18:23:10,stop_point:SP_3974,Phidias,17
+2291919,18:24:00,18:24:10,stop_point:SP_3556,Grynfogel,18
+2291919,18:28:00,18:28:10,stop_point:SP_396,St-Exupéry,19
+2291919,18:30:00,18:30:10,stop_point:SP_5072,Solidarité,20
+2291919,18:31:00,18:31:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291919,18:33:00,18:33:10,stop_point:SP_4924,Saint Granier,22
+2291919,18:34:00,18:34:10,stop_point:SP_4921,Sévérac,23
+2291919,18:35:00,18:35:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291919,18:37:00,18:37:10,stop_point:SP_4890,Benozzi,25
+2291919,18:37:00,18:37:10,stop_point:SP_4889,Caulet,26
+2291919,18:38:00,18:38:10,stop_point:SP_4888,Fontaine,27
+2291919,18:40:00,18:40:10,stop_point:SP_4458,Oratoire,28
+2291919,18:41:00,18:41:10,stop_point:SP_3247,Naurouze,29
+2291919,18:42:00,18:42:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291919,18:43:00,18:43:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291919,18:45:00,18:45:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291920,18:10:00,18:10:10,stop_point:SP_3140,Oncopole Courrière,1
+2291920,18:11:00,18:11:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291920,18:11:00,18:11:10,stop_point:SP_3604,IUC,3
+2291920,18:13:00,18:13:10,stop_point:SP_3185,Route d'Espagne,4
+2291920,18:14:00,18:14:10,stop_point:SP_4907,Joulin,5
+2291920,18:19:00,18:19:10,stop_point:SP_2955,Eisenhower Est,6
+2291920,18:20:00,18:20:10,stop_point:SP_1948,René Valmy,7
+2291920,18:22:00,18:22:10,stop_point:SP_3703,Lestang,8
+2291920,18:22:00,18:22:10,stop_point:SP_2011,Ourliac,9
+2291920,18:24:00,18:24:10,stop_point:SP_16,Desnos,10
+2291920,18:26:00,18:26:10,stop_point:SP_1244,Place Bouillière,11
+2291920,18:27:00,18:27:10,stop_point:SP_2701,Basso Cambo,12
+2291920,18:29:00,18:29:10,stop_point:SP_1645,Mesplé,13
+2291920,18:29:00,18:29:10,stop_point:SP_3138,Mounède,14
+2291920,18:30:00,18:30:10,stop_point:SP_5066,Déodat Roché,15
+2291920,18:31:00,18:31:10,stop_point:SP_670,Vandel,16
+2291920,18:33:00,18:33:10,stop_point:SP_3974,Phidias,17
+2291920,18:34:00,18:34:10,stop_point:SP_3556,Grynfogel,18
+2291920,18:37:00,18:37:10,stop_point:SP_396,St-Exupéry,19
+2291920,18:39:00,18:39:10,stop_point:SP_5072,Solidarité,20
+2291920,18:40:00,18:40:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291920,18:42:00,18:42:10,stop_point:SP_4924,Saint Granier,22
+2291920,18:43:00,18:43:10,stop_point:SP_4921,Sévérac,23
+2291920,18:44:00,18:44:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291920,18:46:00,18:46:10,stop_point:SP_4890,Benozzi,25
+2291920,18:46:00,18:46:10,stop_point:SP_4889,Caulet,26
+2291920,18:47:00,18:47:10,stop_point:SP_4888,Fontaine,27
+2291920,18:49:00,18:49:10,stop_point:SP_4458,Oratoire,28
+2291920,18:50:00,18:50:10,stop_point:SP_3247,Naurouze,29
+2291920,18:51:00,18:51:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291920,18:52:00,18:52:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291920,18:54:00,18:54:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291921,18:20:00,18:20:10,stop_point:SP_3140,Oncopole Courrière,1
+2291921,18:21:00,18:21:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291921,18:21:00,18:21:10,stop_point:SP_3604,IUC,3
+2291921,18:23:00,18:23:10,stop_point:SP_3185,Route d'Espagne,4
+2291921,18:24:00,18:24:10,stop_point:SP_4907,Joulin,5
+2291921,18:29:00,18:29:10,stop_point:SP_2955,Eisenhower Est,6
+2291921,18:30:00,18:30:10,stop_point:SP_1948,René Valmy,7
+2291921,18:32:00,18:32:10,stop_point:SP_3703,Lestang,8
+2291921,18:32:00,18:32:10,stop_point:SP_2011,Ourliac,9
+2291921,18:34:00,18:34:10,stop_point:SP_16,Desnos,10
+2291921,18:36:00,18:36:10,stop_point:SP_1244,Place Bouillière,11
+2291921,18:37:00,18:37:10,stop_point:SP_2701,Basso Cambo,12
+2291921,18:39:00,18:39:10,stop_point:SP_1645,Mesplé,13
+2291921,18:39:00,18:39:10,stop_point:SP_3138,Mounède,14
+2291921,18:40:00,18:40:10,stop_point:SP_5066,Déodat Roché,15
+2291921,18:41:00,18:41:10,stop_point:SP_670,Vandel,16
+2291921,18:43:00,18:43:10,stop_point:SP_3974,Phidias,17
+2291921,18:44:00,18:44:10,stop_point:SP_3556,Grynfogel,18
+2291921,18:47:00,18:47:10,stop_point:SP_396,St-Exupéry,19
+2291921,18:49:00,18:49:10,stop_point:SP_5072,Solidarité,20
+2291921,18:50:00,18:50:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291921,18:52:00,18:52:10,stop_point:SP_4924,Saint Granier,22
+2291921,18:53:00,18:53:10,stop_point:SP_4921,Sévérac,23
+2291921,18:54:00,18:54:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291921,18:56:00,18:56:10,stop_point:SP_4890,Benozzi,25
+2291921,18:56:00,18:56:10,stop_point:SP_4889,Caulet,26
+2291921,18:57:00,18:57:10,stop_point:SP_4888,Fontaine,27
+2291921,18:59:00,18:59:10,stop_point:SP_4458,Oratoire,28
+2291921,19:00:00,19:00:10,stop_point:SP_3247,Naurouze,29
+2291921,19:01:00,19:01:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291921,19:02:00,19:02:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291921,19:04:00,19:04:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291922,18:30:00,18:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291922,18:31:00,18:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291922,18:31:00,18:31:10,stop_point:SP_3604,IUC,3
+2291922,18:33:00,18:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291922,18:33:00,18:33:10,stop_point:SP_4907,Joulin,5
+2291922,18:38:00,18:38:10,stop_point:SP_2955,Eisenhower Est,6
+2291922,18:39:00,18:39:10,stop_point:SP_1948,René Valmy,7
+2291922,18:40:00,18:40:10,stop_point:SP_3703,Lestang,8
+2291922,18:41:00,18:41:10,stop_point:SP_2011,Ourliac,9
+2291922,18:42:00,18:42:10,stop_point:SP_16,Desnos,10
+2291922,18:44:00,18:44:10,stop_point:SP_1244,Place Bouillière,11
+2291922,18:45:00,18:45:10,stop_point:SP_2701,Basso Cambo,12
+2291922,18:47:00,18:47:10,stop_point:SP_1645,Mesplé,13
+2291922,18:47:00,18:47:10,stop_point:SP_3138,Mounède,14
+2291922,18:48:00,18:48:10,stop_point:SP_5066,Déodat Roché,15
+2291922,18:49:00,18:49:10,stop_point:SP_670,Vandel,16
+2291922,18:51:00,18:51:10,stop_point:SP_3974,Phidias,17
+2291922,18:52:00,18:52:10,stop_point:SP_3556,Grynfogel,18
+2291922,18:55:00,18:55:10,stop_point:SP_396,St-Exupéry,19
+2291922,18:57:00,18:57:10,stop_point:SP_5072,Solidarité,20
+2291922,18:58:00,18:58:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291922,19:00:00,19:00:10,stop_point:SP_4924,Saint Granier,22
+2291922,19:01:00,19:01:10,stop_point:SP_4921,Sévérac,23
+2291922,19:02:00,19:02:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291922,19:04:00,19:04:10,stop_point:SP_4890,Benozzi,25
+2291922,19:04:00,19:04:10,stop_point:SP_4889,Caulet,26
+2291922,19:05:00,19:05:10,stop_point:SP_4888,Fontaine,27
+2291922,19:07:00,19:07:10,stop_point:SP_4458,Oratoire,28
+2291922,19:08:00,19:08:10,stop_point:SP_3247,Naurouze,29
+2291922,19:09:00,19:09:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291922,19:10:00,19:10:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291922,19:12:00,19:12:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291923,18:40:00,18:40:10,stop_point:SP_3140,Oncopole Courrière,1
+2291923,18:41:00,18:41:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291923,18:41:00,18:41:10,stop_point:SP_3604,IUC,3
+2291923,18:43:00,18:43:10,stop_point:SP_3185,Route d'Espagne,4
+2291923,18:43:00,18:43:10,stop_point:SP_4907,Joulin,5
+2291923,18:48:00,18:48:10,stop_point:SP_2955,Eisenhower Est,6
+2291923,18:49:00,18:49:10,stop_point:SP_1948,René Valmy,7
+2291923,18:50:00,18:50:10,stop_point:SP_3703,Lestang,8
+2291923,18:51:00,18:51:10,stop_point:SP_2011,Ourliac,9
+2291923,18:52:00,18:52:10,stop_point:SP_16,Desnos,10
+2291923,18:54:00,18:54:10,stop_point:SP_1244,Place Bouillière,11
+2291923,18:55:00,18:55:10,stop_point:SP_2701,Basso Cambo,12
+2291923,18:57:00,18:57:10,stop_point:SP_1645,Mesplé,13
+2291923,18:57:00,18:57:10,stop_point:SP_3138,Mounède,14
+2291923,18:58:00,18:58:10,stop_point:SP_5066,Déodat Roché,15
+2291923,18:59:00,18:59:10,stop_point:SP_670,Vandel,16
+2291923,19:01:00,19:01:10,stop_point:SP_3974,Phidias,17
+2291923,19:02:00,19:02:10,stop_point:SP_3556,Grynfogel,18
+2291923,19:05:00,19:05:10,stop_point:SP_396,St-Exupéry,19
+2291923,19:07:00,19:07:10,stop_point:SP_5072,Solidarité,20
+2291923,19:08:00,19:08:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291923,19:09:00,19:09:10,stop_point:SP_4924,Saint Granier,22
+2291923,19:10:00,19:10:10,stop_point:SP_4921,Sévérac,23
+2291923,19:11:00,19:11:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291923,19:13:00,19:13:10,stop_point:SP_4890,Benozzi,25
+2291923,19:13:00,19:13:10,stop_point:SP_4889,Caulet,26
+2291923,19:14:00,19:14:10,stop_point:SP_4888,Fontaine,27
+2291923,19:16:00,19:16:10,stop_point:SP_4458,Oratoire,28
+2291923,19:17:00,19:17:10,stop_point:SP_3247,Naurouze,29
+2291923,19:18:00,19:18:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291923,19:19:00,19:19:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291923,19:21:00,19:21:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291924,18:50:00,18:50:10,stop_point:SP_3140,Oncopole Courrière,1
+2291924,18:51:00,18:51:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291924,18:51:00,18:51:10,stop_point:SP_3604,IUC,3
+2291924,18:53:00,18:53:10,stop_point:SP_3185,Route d'Espagne,4
+2291924,18:53:00,18:53:10,stop_point:SP_4907,Joulin,5
+2291924,18:58:00,18:58:10,stop_point:SP_2955,Eisenhower Est,6
+2291924,18:59:00,18:59:10,stop_point:SP_1948,René Valmy,7
+2291924,19:00:00,19:00:10,stop_point:SP_3703,Lestang,8
+2291924,19:01:00,19:01:10,stop_point:SP_2011,Ourliac,9
+2291924,19:02:00,19:02:10,stop_point:SP_16,Desnos,10
+2291924,19:04:00,19:04:10,stop_point:SP_1244,Place Bouillière,11
+2291924,19:05:00,19:05:10,stop_point:SP_2701,Basso Cambo,12
+2291924,19:07:00,19:07:10,stop_point:SP_1645,Mesplé,13
+2291924,19:07:00,19:07:10,stop_point:SP_3138,Mounède,14
+2291924,19:08:00,19:08:10,stop_point:SP_5066,Déodat Roché,15
+2291924,19:09:00,19:09:10,stop_point:SP_670,Vandel,16
+2291924,19:11:00,19:11:10,stop_point:SP_3974,Phidias,17
+2291924,19:12:00,19:12:10,stop_point:SP_3556,Grynfogel,18
+2291924,19:15:00,19:15:10,stop_point:SP_396,St-Exupéry,19
+2291924,19:17:00,19:17:10,stop_point:SP_5072,Solidarité,20
+2291924,19:17:00,19:17:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291924,19:18:00,19:18:10,stop_point:SP_4924,Saint Granier,22
+2291924,19:19:00,19:19:10,stop_point:SP_4921,Sévérac,23
+2291924,19:20:00,19:20:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291924,19:22:00,19:22:10,stop_point:SP_4890,Benozzi,25
+2291924,19:22:00,19:22:10,stop_point:SP_4889,Caulet,26
+2291924,19:23:00,19:23:10,stop_point:SP_4888,Fontaine,27
+2291924,19:25:00,19:25:10,stop_point:SP_4458,Oratoire,28
+2291924,19:26:00,19:26:10,stop_point:SP_3247,Naurouze,29
+2291924,19:27:00,19:27:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291924,19:28:00,19:28:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291924,19:30:00,19:30:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291925,19:00:00,19:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291925,19:01:00,19:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291925,19:01:00,19:01:10,stop_point:SP_3604,IUC,3
+2291925,19:03:00,19:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291925,19:03:00,19:03:10,stop_point:SP_4907,Joulin,5
+2291925,19:08:00,19:08:10,stop_point:SP_2955,Eisenhower Est,6
+2291925,19:09:00,19:09:10,stop_point:SP_1948,René Valmy,7
+2291925,19:10:00,19:10:10,stop_point:SP_3703,Lestang,8
+2291925,19:11:00,19:11:10,stop_point:SP_2011,Ourliac,9
+2291925,19:12:00,19:12:10,stop_point:SP_16,Desnos,10
+2291925,19:14:00,19:14:10,stop_point:SP_1244,Place Bouillière,11
+2291925,19:15:00,19:15:10,stop_point:SP_2701,Basso Cambo,12
+2291925,19:17:00,19:17:10,stop_point:SP_1645,Mesplé,13
+2291925,19:17:00,19:17:10,stop_point:SP_3138,Mounède,14
+2291925,19:18:00,19:18:10,stop_point:SP_5066,Déodat Roché,15
+2291925,19:19:00,19:19:10,stop_point:SP_670,Vandel,16
+2291925,19:21:00,19:21:10,stop_point:SP_3974,Phidias,17
+2291925,19:22:00,19:22:10,stop_point:SP_3556,Grynfogel,18
+2291925,19:25:00,19:25:10,stop_point:SP_396,St-Exupéry,19
+2291925,19:27:00,19:27:10,stop_point:SP_5072,Solidarité,20
+2291925,19:27:00,19:27:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291925,19:28:00,19:28:10,stop_point:SP_4924,Saint Granier,22
+2291925,19:29:00,19:29:10,stop_point:SP_4921,Sévérac,23
+2291925,19:30:00,19:30:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291925,19:32:00,19:32:10,stop_point:SP_4890,Benozzi,25
+2291925,19:32:00,19:32:10,stop_point:SP_4889,Caulet,26
+2291925,19:33:00,19:33:10,stop_point:SP_4888,Fontaine,27
+2291925,19:34:00,19:34:10,stop_point:SP_4458,Oratoire,28
+2291925,19:35:00,19:35:10,stop_point:SP_3247,Naurouze,29
+2291925,19:36:00,19:36:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291925,19:37:00,19:37:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291925,19:38:00,19:38:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291926,19:30:00,19:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291926,19:31:00,19:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291926,19:31:00,19:31:10,stop_point:SP_3604,IUC,3
+2291926,19:33:00,19:33:10,stop_point:SP_3185,Route d'Espagne,4
+2291926,19:33:00,19:33:10,stop_point:SP_4907,Joulin,5
+2291926,19:38:00,19:38:10,stop_point:SP_2955,Eisenhower Est,6
+2291926,19:39:00,19:39:10,stop_point:SP_1948,René Valmy,7
+2291926,19:40:00,19:40:10,stop_point:SP_3703,Lestang,8
+2291926,19:41:00,19:41:10,stop_point:SP_2011,Ourliac,9
+2291926,19:41:00,19:41:10,stop_point:SP_16,Desnos,10
+2291926,19:43:00,19:43:10,stop_point:SP_1244,Place Bouillière,11
+2291926,19:44:00,19:44:10,stop_point:SP_2701,Basso Cambo,12
+2291926,19:46:00,19:46:10,stop_point:SP_1645,Mesplé,13
+2291926,19:46:00,19:46:10,stop_point:SP_3138,Mounède,14
+2291926,19:47:00,19:47:10,stop_point:SP_5066,Déodat Roché,15
+2291926,19:48:00,19:48:10,stop_point:SP_670,Vandel,16
+2291926,19:50:00,19:50:10,stop_point:SP_3974,Phidias,17
+2291926,19:51:00,19:51:10,stop_point:SP_3556,Grynfogel,18
+2291926,19:54:00,19:54:10,stop_point:SP_396,St-Exupéry,19
+2291926,19:56:00,19:56:10,stop_point:SP_5072,Solidarité,20
+2291926,19:56:00,19:56:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291926,19:57:00,19:57:10,stop_point:SP_4924,Saint Granier,22
+2291926,19:58:00,19:58:10,stop_point:SP_4921,Sévérac,23
+2291926,19:59:00,19:59:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291926,20:01:00,20:01:10,stop_point:SP_4890,Benozzi,25
+2291926,20:01:00,20:01:10,stop_point:SP_4889,Caulet,26
+2291926,20:02:00,20:02:10,stop_point:SP_4888,Fontaine,27
+2291926,20:03:00,20:03:10,stop_point:SP_4458,Oratoire,28
+2291926,20:04:00,20:04:10,stop_point:SP_3247,Naurouze,29
+2291926,20:05:00,20:05:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291926,20:06:00,20:06:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291926,20:07:00,20:07:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291927,20:00:00,20:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291927,20:01:00,20:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291927,20:01:00,20:01:10,stop_point:SP_3604,IUC,3
+2291927,20:03:00,20:03:10,stop_point:SP_3185,Route d'Espagne,4
+2291927,20:03:00,20:03:10,stop_point:SP_4907,Joulin,5
+2291927,20:08:00,20:08:10,stop_point:SP_2955,Eisenhower Est,6
+2291927,20:09:00,20:09:10,stop_point:SP_1948,René Valmy,7
+2291927,20:10:00,20:10:10,stop_point:SP_3703,Lestang,8
+2291927,20:11:00,20:11:10,stop_point:SP_2011,Ourliac,9
+2291927,20:11:00,20:11:10,stop_point:SP_16,Desnos,10
+2291927,20:13:00,20:13:10,stop_point:SP_1244,Place Bouillière,11
+2291927,20:14:00,20:14:10,stop_point:SP_2701,Basso Cambo,12
+2291927,20:15:00,20:15:10,stop_point:SP_1645,Mesplé,13
+2291927,20:16:00,20:16:10,stop_point:SP_3138,Mounède,14
+2291927,20:17:00,20:17:10,stop_point:SP_5066,Déodat Roché,15
+2291927,20:18:00,20:18:10,stop_point:SP_670,Vandel,16
+2291927,20:19:00,20:19:10,stop_point:SP_3974,Phidias,17
+2291927,20:20:00,20:20:10,stop_point:SP_3556,Grynfogel,18
+2291927,20:23:00,20:23:10,stop_point:SP_396,St-Exupéry,19
+2291927,20:25:00,20:25:10,stop_point:SP_5072,Solidarité,20
+2291927,20:25:00,20:25:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291927,20:26:00,20:26:10,stop_point:SP_4924,Saint Granier,22
+2291927,20:27:00,20:27:10,stop_point:SP_4921,Sévérac,23
+2291927,20:28:00,20:28:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291927,20:30:00,20:30:10,stop_point:SP_4890,Benozzi,25
+2291927,20:30:00,20:30:10,stop_point:SP_4889,Caulet,26
+2291927,20:31:00,20:31:10,stop_point:SP_4888,Fontaine,27
+2291927,20:32:00,20:32:10,stop_point:SP_4458,Oratoire,28
+2291927,20:33:00,20:33:10,stop_point:SP_3247,Naurouze,29
+2291927,20:34:00,20:34:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291927,20:35:00,20:35:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291927,20:36:00,20:36:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291928,20:30:00,20:30:10,stop_point:SP_3140,Oncopole Courrière,1
+2291928,20:31:00,20:31:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291928,20:31:00,20:31:10,stop_point:SP_3604,IUC,3
+2291928,20:32:00,20:32:10,stop_point:SP_3185,Route d'Espagne,4
+2291928,20:33:00,20:33:10,stop_point:SP_4907,Joulin,5
+2291928,20:37:00,20:37:10,stop_point:SP_2955,Eisenhower Est,6
+2291928,20:38:00,20:38:10,stop_point:SP_1948,René Valmy,7
+2291928,20:39:00,20:39:10,stop_point:SP_3703,Lestang,8
+2291928,20:40:00,20:40:10,stop_point:SP_2011,Ourliac,9
+2291928,20:40:00,20:40:10,stop_point:SP_16,Desnos,10
+2291928,20:42:00,20:42:10,stop_point:SP_1244,Place Bouillière,11
+2291928,20:43:00,20:43:10,stop_point:SP_2701,Basso Cambo,12
+2291928,20:44:00,20:44:10,stop_point:SP_1645,Mesplé,13
+2291928,20:45:00,20:45:10,stop_point:SP_3138,Mounède,14
+2291928,20:46:00,20:46:10,stop_point:SP_5066,Déodat Roché,15
+2291928,20:47:00,20:47:10,stop_point:SP_670,Vandel,16
+2291928,20:48:00,20:48:10,stop_point:SP_3974,Phidias,17
+2291928,20:49:00,20:49:10,stop_point:SP_3556,Grynfogel,18
+2291928,20:52:00,20:52:10,stop_point:SP_396,St-Exupéry,19
+2291928,20:53:00,20:53:10,stop_point:SP_5072,Solidarité,20
+2291928,20:54:00,20:54:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291928,20:55:00,20:55:10,stop_point:SP_4924,Saint Granier,22
+2291928,20:55:00,20:55:10,stop_point:SP_4921,Sévérac,23
+2291928,20:56:00,20:56:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291928,20:58:00,20:58:10,stop_point:SP_4890,Benozzi,25
+2291928,20:58:00,20:58:10,stop_point:SP_4889,Caulet,26
+2291928,20:59:00,20:59:10,stop_point:SP_4888,Fontaine,27
+2291928,21:00:00,21:00:10,stop_point:SP_4458,Oratoire,28
+2291928,21:01:00,21:01:10,stop_point:SP_3247,Naurouze,29
+2291928,21:02:00,21:02:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291928,21:03:00,21:03:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291928,21:04:00,21:04:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291929,21:00:00,21:00:10,stop_point:SP_3140,Oncopole Courrière,1
+2291929,21:01:00,21:01:10,stop_point:SP_5097,Oncopole - Lise Enjalbert,2
+2291929,21:01:00,21:01:10,stop_point:SP_3604,IUC,3
+2291929,21:02:00,21:02:10,stop_point:SP_3185,Route d'Espagne,4
+2291929,21:03:00,21:03:10,stop_point:SP_4907,Joulin,5
+2291929,21:07:00,21:07:10,stop_point:SP_2955,Eisenhower Est,6
+2291929,21:08:00,21:08:10,stop_point:SP_1948,René Valmy,7
+2291929,21:09:00,21:09:10,stop_point:SP_3703,Lestang,8
+2291929,21:09:00,21:09:10,stop_point:SP_2011,Ourliac,9
+2291929,21:10:00,21:10:10,stop_point:SP_16,Desnos,10
+2291929,21:11:00,21:11:10,stop_point:SP_1244,Place Bouillière,11
+2291929,21:12:00,21:12:10,stop_point:SP_2701,Basso Cambo,12
+2291929,21:13:00,21:13:10,stop_point:SP_1645,Mesplé,13
+2291929,21:14:00,21:14:10,stop_point:SP_3138,Mounède,14
+2291929,21:15:00,21:15:10,stop_point:SP_5066,Déodat Roché,15
+2291929,21:16:00,21:16:10,stop_point:SP_670,Vandel,16
+2291929,21:17:00,21:17:10,stop_point:SP_3974,Phidias,17
+2291929,21:18:00,21:18:10,stop_point:SP_3556,Grynfogel,18
+2291929,21:21:00,21:21:10,stop_point:SP_396,St-Exupéry,19
+2291929,21:22:00,21:22:10,stop_point:SP_5072,Solidarité,20
+2291929,21:23:00,21:23:10,stop_point:SP_4923,Fabre d'Eglantine,21
+2291929,21:24:00,21:24:10,stop_point:SP_4924,Saint Granier,22
+2291929,21:24:00,21:24:10,stop_point:SP_4921,Sévérac,23
+2291929,21:25:00,21:25:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,24
+2291929,21:27:00,21:27:10,stop_point:SP_4890,Benozzi,25
+2291929,21:27:00,21:27:10,stop_point:SP_4889,Caulet,26
+2291929,21:28:00,21:28:10,stop_point:SP_4888,Fontaine,27
+2291929,21:29:00,21:29:10,stop_point:SP_4458,Oratoire,28
+2291929,21:30:00,21:30:10,stop_point:SP_3247,Naurouze,29
+2291929,21:31:00,21:31:10,stop_point:SP_2943,Bascule - Seycheron,30
+2291929,21:32:00,21:32:10,stop_point:SP_4452,Médiathèque Pavillon Blanc,31
+2291929,21:33:00,21:33:10,stop_point:SP_3198,Colomiers Gare SNCF,32
+2291930,06:00:00,06:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291930,06:01:00,06:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291930,06:02:00,06:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291930,06:03:00,06:03:10,stop_point:SP_3370,Naurouze,4
+2291930,06:04:00,06:04:10,stop_point:SP_4456,Oratoire,5
+2291930,06:06:00,06:06:10,stop_point:SP_5638,Caulet,6
+2291930,06:06:00,06:06:10,stop_point:SP_4891,Benozzi,7
+2291930,06:08:00,06:08:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291930,06:09:00,06:09:10,stop_point:SP_4925,Sévérac,9
+2291930,06:10:00,06:10:10,stop_point:SP_4922,Saint Granier,10
+2291930,06:11:00,06:11:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291930,06:12:00,06:12:10,stop_point:SP_5071,Solidarité,12
+2291930,06:14:00,06:14:10,stop_point:SP_2196,St-Exupéry,13
+2291930,06:18:00,06:18:10,stop_point:SP_346,Grynfogel,14
+2291930,06:19:00,06:19:10,stop_point:SP_3076,Phidias,15
+2291930,06:20:00,06:20:10,stop_point:SP_905,Vandel,16
+2291930,06:21:00,06:21:10,stop_point:SP_5067,Déodat Roché,17
+2291930,06:22:00,06:22:10,stop_point:SP_2122,Mounède,18
+2291930,06:23:00,06:23:10,stop_point:SP_1867,Mesplé,19
+2291930,06:24:00,06:24:10,stop_point:SP_2054,Basso Cambo,20
+2291930,06:25:00,06:25:10,stop_point:SP_1298,Place Bouillière,21
+2291930,06:27:00,06:27:10,stop_point:SP_5,Desnos,22
+2291930,06:28:00,06:28:10,stop_point:SP_334,Ourliac,23
+2291930,06:29:00,06:29:10,stop_point:SP_5102,Lestang,24
+2291930,06:30:00,06:30:10,stop_point:SP_1357,René Valmy,25
+2291930,06:31:00,06:31:10,stop_point:SP_2042,Eisenhower Est,26
+2291930,06:36:00,06:36:10,stop_point:SP_4906,Joulin,27
+2291930,06:36:00,06:36:10,stop_point:SP_3681,Route d'Espagne,28
+2291930,06:37:00,06:37:10,stop_point:SP_2892,IUC,29
+2291930,06:38:00,06:38:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291930,06:38:00,06:38:10,stop_point:SP_2663,Oncopole Courrière,31
+2291930,06:39:00,06:39:10,stop_point:SP_3140,Oncopole Courrière,32
+2291931,06:30:00,06:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291931,06:31:00,06:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291931,06:32:00,06:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291931,06:33:00,06:33:10,stop_point:SP_3370,Naurouze,4
+2291931,06:34:00,06:34:10,stop_point:SP_4456,Oratoire,5
+2291931,06:36:00,06:36:10,stop_point:SP_5638,Caulet,6
+2291931,06:36:00,06:36:10,stop_point:SP_4891,Benozzi,7
+2291931,06:38:00,06:38:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291931,06:39:00,06:39:10,stop_point:SP_4925,Sévérac,9
+2291931,06:40:00,06:40:10,stop_point:SP_4922,Saint Granier,10
+2291931,06:41:00,06:41:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291931,06:42:00,06:42:10,stop_point:SP_5071,Solidarité,12
+2291931,06:44:00,06:44:10,stop_point:SP_2196,St-Exupéry,13
+2291931,06:48:00,06:48:10,stop_point:SP_346,Grynfogel,14
+2291931,06:49:00,06:49:10,stop_point:SP_3076,Phidias,15
+2291931,06:50:00,06:50:10,stop_point:SP_905,Vandel,16
+2291931,06:52:00,06:52:10,stop_point:SP_5067,Déodat Roché,17
+2291931,06:53:00,06:53:10,stop_point:SP_2122,Mounède,18
+2291931,06:53:00,06:53:10,stop_point:SP_1867,Mesplé,19
+2291931,06:55:00,06:55:10,stop_point:SP_2054,Basso Cambo,20
+2291931,06:56:00,06:56:10,stop_point:SP_1298,Place Bouillière,21
+2291931,06:59:00,06:59:10,stop_point:SP_5,Desnos,22
+2291931,07:00:00,07:00:10,stop_point:SP_334,Ourliac,23
+2291931,07:01:00,07:01:10,stop_point:SP_5102,Lestang,24
+2291931,07:02:00,07:02:10,stop_point:SP_1357,René Valmy,25
+2291931,07:03:00,07:03:10,stop_point:SP_2042,Eisenhower Est,26
+2291931,07:08:00,07:08:10,stop_point:SP_4906,Joulin,27
+2291931,07:08:00,07:08:10,stop_point:SP_3681,Route d'Espagne,28
+2291931,07:09:00,07:09:10,stop_point:SP_2892,IUC,29
+2291931,07:10:00,07:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291931,07:10:00,07:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291931,07:11:00,07:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291932,06:40:00,06:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291932,06:41:00,06:41:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291932,06:42:00,06:42:10,stop_point:SP_131,Bascule - Seycheron,3
+2291932,06:43:00,06:43:10,stop_point:SP_3370,Naurouze,4
+2291932,06:44:00,06:44:10,stop_point:SP_4456,Oratoire,5
+2291932,06:46:00,06:46:10,stop_point:SP_5638,Caulet,6
+2291932,06:46:00,06:46:10,stop_point:SP_4891,Benozzi,7
+2291932,06:48:00,06:48:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291932,06:49:00,06:49:10,stop_point:SP_4925,Sévérac,9
+2291932,06:50:00,06:50:10,stop_point:SP_4922,Saint Granier,10
+2291932,06:51:00,06:51:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291932,06:52:00,06:52:10,stop_point:SP_5071,Solidarité,12
+2291932,06:54:00,06:54:10,stop_point:SP_2196,St-Exupéry,13
+2291932,06:58:00,06:58:10,stop_point:SP_346,Grynfogel,14
+2291932,06:59:00,06:59:10,stop_point:SP_3076,Phidias,15
+2291932,07:00:00,07:00:10,stop_point:SP_905,Vandel,16
+2291932,07:02:00,07:02:10,stop_point:SP_5067,Déodat Roché,17
+2291932,07:03:00,07:03:10,stop_point:SP_2122,Mounède,18
+2291932,07:03:00,07:03:10,stop_point:SP_1867,Mesplé,19
+2291932,07:05:00,07:05:10,stop_point:SP_2054,Basso Cambo,20
+2291932,07:06:00,07:06:10,stop_point:SP_1298,Place Bouillière,21
+2291932,07:09:00,07:09:10,stop_point:SP_5,Desnos,22
+2291932,07:10:00,07:10:10,stop_point:SP_334,Ourliac,23
+2291932,07:11:00,07:11:10,stop_point:SP_5102,Lestang,24
+2291932,07:12:00,07:12:10,stop_point:SP_1357,René Valmy,25
+2291932,07:13:00,07:13:10,stop_point:SP_2042,Eisenhower Est,26
+2291932,07:18:00,07:18:10,stop_point:SP_4906,Joulin,27
+2291932,07:18:00,07:18:10,stop_point:SP_3681,Route d'Espagne,28
+2291932,07:19:00,07:19:10,stop_point:SP_2892,IUC,29
+2291932,07:20:00,07:20:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291932,07:20:00,07:20:10,stop_point:SP_2663,Oncopole Courrière,31
+2291932,07:21:00,07:21:10,stop_point:SP_3140,Oncopole Courrière,32
+2291933,06:50:00,06:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291933,06:51:00,06:51:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291933,06:52:00,06:52:10,stop_point:SP_131,Bascule - Seycheron,3
+2291933,06:53:00,06:53:10,stop_point:SP_3370,Naurouze,4
+2291933,06:54:00,06:54:10,stop_point:SP_4456,Oratoire,5
+2291933,06:56:00,06:56:10,stop_point:SP_5638,Caulet,6
+2291933,06:56:00,06:56:10,stop_point:SP_4891,Benozzi,7
+2291933,06:58:00,06:58:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291933,06:59:00,06:59:10,stop_point:SP_4925,Sévérac,9
+2291933,07:00:00,07:00:10,stop_point:SP_4922,Saint Granier,10
+2291933,07:01:00,07:01:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291933,07:02:00,07:02:10,stop_point:SP_5071,Solidarité,12
+2291933,07:04:00,07:04:10,stop_point:SP_2196,St-Exupéry,13
+2291933,07:08:00,07:08:10,stop_point:SP_346,Grynfogel,14
+2291933,07:09:00,07:09:10,stop_point:SP_3076,Phidias,15
+2291933,07:10:00,07:10:10,stop_point:SP_905,Vandel,16
+2291933,07:12:00,07:12:10,stop_point:SP_5067,Déodat Roché,17
+2291933,07:13:00,07:13:10,stop_point:SP_2122,Mounède,18
+2291933,07:13:00,07:13:10,stop_point:SP_1867,Mesplé,19
+2291933,07:15:00,07:15:10,stop_point:SP_2054,Basso Cambo,20
+2291933,07:16:00,07:16:10,stop_point:SP_1298,Place Bouillière,21
+2291933,07:19:00,07:19:10,stop_point:SP_5,Desnos,22
+2291933,07:20:00,07:20:10,stop_point:SP_334,Ourliac,23
+2291933,07:21:00,07:21:10,stop_point:SP_5102,Lestang,24
+2291933,07:22:00,07:22:10,stop_point:SP_1357,René Valmy,25
+2291933,07:23:00,07:23:10,stop_point:SP_2042,Eisenhower Est,26
+2291933,07:28:00,07:28:10,stop_point:SP_4906,Joulin,27
+2291933,07:28:00,07:28:10,stop_point:SP_3681,Route d'Espagne,28
+2291933,07:29:00,07:29:10,stop_point:SP_2892,IUC,29
+2291933,07:30:00,07:30:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291933,07:30:00,07:30:10,stop_point:SP_2663,Oncopole Courrière,31
+2291933,07:31:00,07:31:10,stop_point:SP_3140,Oncopole Courrière,32
+2291934,07:00:00,07:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291934,07:02:00,07:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291934,07:03:00,07:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291934,07:03:00,07:03:10,stop_point:SP_3370,Naurouze,4
+2291934,07:05:00,07:05:10,stop_point:SP_4456,Oratoire,5
+2291934,07:07:00,07:07:10,stop_point:SP_5638,Caulet,6
+2291934,07:07:00,07:07:10,stop_point:SP_4891,Benozzi,7
+2291934,07:09:00,07:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291934,07:10:00,07:10:10,stop_point:SP_4925,Sévérac,9
+2291934,07:11:00,07:11:10,stop_point:SP_4922,Saint Granier,10
+2291934,07:12:00,07:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291934,07:13:00,07:13:10,stop_point:SP_5071,Solidarité,12
+2291934,07:15:00,07:15:10,stop_point:SP_2196,St-Exupéry,13
+2291934,07:19:00,07:19:10,stop_point:SP_346,Grynfogel,14
+2291934,07:20:00,07:20:10,stop_point:SP_3076,Phidias,15
+2291934,07:21:00,07:21:10,stop_point:SP_905,Vandel,16
+2291934,07:23:00,07:23:10,stop_point:SP_5067,Déodat Roché,17
+2291934,07:24:00,07:24:10,stop_point:SP_2122,Mounède,18
+2291934,07:24:00,07:24:10,stop_point:SP_1867,Mesplé,19
+2291934,07:26:00,07:26:10,stop_point:SP_2054,Basso Cambo,20
+2291934,07:27:00,07:27:10,stop_point:SP_1298,Place Bouillière,21
+2291934,07:30:00,07:30:10,stop_point:SP_5,Desnos,22
+2291934,07:31:00,07:31:10,stop_point:SP_334,Ourliac,23
+2291934,07:32:00,07:32:10,stop_point:SP_5102,Lestang,24
+2291934,07:33:00,07:33:10,stop_point:SP_1357,René Valmy,25
+2291934,07:34:00,07:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291934,07:39:00,07:39:10,stop_point:SP_4906,Joulin,27
+2291934,07:39:00,07:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291934,07:40:00,07:40:10,stop_point:SP_2892,IUC,29
+2291934,07:41:00,07:41:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291934,07:41:00,07:41:10,stop_point:SP_2663,Oncopole Courrière,31
+2291934,07:42:00,07:42:10,stop_point:SP_3140,Oncopole Courrière,32
+2291935,07:10:00,07:10:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291935,07:12:00,07:12:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291935,07:13:00,07:13:10,stop_point:SP_131,Bascule - Seycheron,3
+2291935,07:13:00,07:13:10,stop_point:SP_3370,Naurouze,4
+2291935,07:15:00,07:15:10,stop_point:SP_4456,Oratoire,5
+2291935,07:17:00,07:17:10,stop_point:SP_5638,Caulet,6
+2291935,07:17:00,07:17:10,stop_point:SP_4891,Benozzi,7
+2291935,07:19:00,07:19:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291935,07:20:00,07:20:10,stop_point:SP_4925,Sévérac,9
+2291935,07:21:00,07:21:10,stop_point:SP_4922,Saint Granier,10
+2291935,07:22:00,07:22:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291935,07:24:00,07:24:10,stop_point:SP_5071,Solidarité,12
+2291935,07:26:00,07:26:10,stop_point:SP_2196,St-Exupéry,13
+2291935,07:30:00,07:30:10,stop_point:SP_346,Grynfogel,14
+2291935,07:32:00,07:32:10,stop_point:SP_3076,Phidias,15
+2291935,07:33:00,07:33:10,stop_point:SP_905,Vandel,16
+2291935,07:34:00,07:34:10,stop_point:SP_5067,Déodat Roché,17
+2291935,07:35:00,07:35:10,stop_point:SP_2122,Mounède,18
+2291935,07:36:00,07:36:10,stop_point:SP_1867,Mesplé,19
+2291935,07:38:00,07:38:10,stop_point:SP_2054,Basso Cambo,20
+2291935,07:39:00,07:39:10,stop_point:SP_1298,Place Bouillière,21
+2291935,07:42:00,07:42:10,stop_point:SP_5,Desnos,22
+2291935,07:43:00,07:43:10,stop_point:SP_334,Ourliac,23
+2291935,07:44:00,07:44:10,stop_point:SP_5102,Lestang,24
+2291935,07:45:00,07:45:10,stop_point:SP_1357,René Valmy,25
+2291935,07:46:00,07:46:10,stop_point:SP_2042,Eisenhower Est,26
+2291935,07:51:00,07:51:10,stop_point:SP_4906,Joulin,27
+2291935,07:51:00,07:51:10,stop_point:SP_3681,Route d'Espagne,28
+2291935,07:52:00,07:52:10,stop_point:SP_2892,IUC,29
+2291935,07:53:00,07:53:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291935,07:53:00,07:53:10,stop_point:SP_2663,Oncopole Courrière,31
+2291935,07:54:00,07:54:10,stop_point:SP_3140,Oncopole Courrière,32
+2291936,07:20:00,07:20:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291936,07:22:00,07:22:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291936,07:23:00,07:23:10,stop_point:SP_131,Bascule - Seycheron,3
+2291936,07:23:00,07:23:10,stop_point:SP_3370,Naurouze,4
+2291936,07:25:00,07:25:10,stop_point:SP_4456,Oratoire,5
+2291936,07:27:00,07:27:10,stop_point:SP_5638,Caulet,6
+2291936,07:27:00,07:27:10,stop_point:SP_4891,Benozzi,7
+2291936,07:30:00,07:30:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291936,07:31:00,07:31:10,stop_point:SP_4925,Sévérac,9
+2291936,07:32:00,07:32:10,stop_point:SP_4922,Saint Granier,10
+2291936,07:33:00,07:33:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291936,07:35:00,07:35:10,stop_point:SP_5071,Solidarité,12
+2291936,07:37:00,07:37:10,stop_point:SP_2196,St-Exupéry,13
+2291936,07:42:00,07:42:10,stop_point:SP_346,Grynfogel,14
+2291936,07:43:00,07:43:10,stop_point:SP_3076,Phidias,15
+2291936,07:45:00,07:45:10,stop_point:SP_905,Vandel,16
+2291936,07:46:00,07:46:10,stop_point:SP_5067,Déodat Roché,17
+2291936,07:47:00,07:47:10,stop_point:SP_2122,Mounède,18
+2291936,07:48:00,07:48:10,stop_point:SP_1867,Mesplé,19
+2291936,07:50:00,07:50:10,stop_point:SP_2054,Basso Cambo,20
+2291936,07:51:00,07:51:10,stop_point:SP_1298,Place Bouillière,21
+2291936,07:54:00,07:54:10,stop_point:SP_5,Desnos,22
+2291936,07:55:00,07:55:10,stop_point:SP_334,Ourliac,23
+2291936,07:56:00,07:56:10,stop_point:SP_5102,Lestang,24
+2291936,07:57:00,07:57:10,stop_point:SP_1357,René Valmy,25
+2291936,07:58:00,07:58:10,stop_point:SP_2042,Eisenhower Est,26
+2291936,08:03:00,08:03:10,stop_point:SP_4906,Joulin,27
+2291936,08:03:00,08:03:10,stop_point:SP_3681,Route d'Espagne,28
+2291936,08:04:00,08:04:10,stop_point:SP_2892,IUC,29
+2291936,08:05:00,08:05:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291936,08:05:00,08:05:10,stop_point:SP_2663,Oncopole Courrière,31
+2291936,08:06:00,08:06:10,stop_point:SP_3140,Oncopole Courrière,32
+2291937,07:30:00,07:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291937,07:32:00,07:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291937,07:33:00,07:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291937,07:33:00,07:33:10,stop_point:SP_3370,Naurouze,4
+2291937,07:35:00,07:35:10,stop_point:SP_4456,Oratoire,5
+2291937,07:37:00,07:37:10,stop_point:SP_5638,Caulet,6
+2291937,07:37:00,07:37:10,stop_point:SP_4891,Benozzi,7
+2291937,07:40:00,07:40:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291937,07:41:00,07:41:10,stop_point:SP_4925,Sévérac,9
+2291937,07:42:00,07:42:10,stop_point:SP_4922,Saint Granier,10
+2291937,07:43:00,07:43:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291937,07:45:00,07:45:10,stop_point:SP_5071,Solidarité,12
+2291937,07:47:00,07:47:10,stop_point:SP_2196,St-Exupéry,13
+2291937,07:52:00,07:52:10,stop_point:SP_346,Grynfogel,14
+2291937,07:53:00,07:53:10,stop_point:SP_3076,Phidias,15
+2291937,07:55:00,07:55:10,stop_point:SP_905,Vandel,16
+2291937,07:56:00,07:56:10,stop_point:SP_5067,Déodat Roché,17
+2291937,07:57:00,07:57:10,stop_point:SP_2122,Mounède,18
+2291937,07:58:00,07:58:10,stop_point:SP_1867,Mesplé,19
+2291937,08:00:00,08:00:10,stop_point:SP_2054,Basso Cambo,20
+2291937,08:02:00,08:02:10,stop_point:SP_1298,Place Bouillière,21
+2291937,08:04:00,08:04:10,stop_point:SP_5,Desnos,22
+2291937,08:05:00,08:05:10,stop_point:SP_334,Ourliac,23
+2291937,08:06:00,08:06:10,stop_point:SP_5102,Lestang,24
+2291937,08:08:00,08:08:10,stop_point:SP_1357,René Valmy,25
+2291937,08:09:00,08:09:10,stop_point:SP_2042,Eisenhower Est,26
+2291937,08:14:00,08:14:10,stop_point:SP_4906,Joulin,27
+2291937,08:14:00,08:14:10,stop_point:SP_3681,Route d'Espagne,28
+2291937,08:15:00,08:15:10,stop_point:SP_2892,IUC,29
+2291937,08:16:00,08:16:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291937,08:16:00,08:16:10,stop_point:SP_2663,Oncopole Courrière,31
+2291937,08:17:00,08:17:10,stop_point:SP_3140,Oncopole Courrière,32
+2291938,07:40:00,07:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291938,07:42:00,07:42:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291938,07:43:00,07:43:10,stop_point:SP_131,Bascule - Seycheron,3
+2291938,07:43:00,07:43:10,stop_point:SP_3370,Naurouze,4
+2291938,07:45:00,07:45:10,stop_point:SP_4456,Oratoire,5
+2291938,07:47:00,07:47:10,stop_point:SP_5638,Caulet,6
+2291938,07:47:00,07:47:10,stop_point:SP_4891,Benozzi,7
+2291938,07:50:00,07:50:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291938,07:51:00,07:51:10,stop_point:SP_4925,Sévérac,9
+2291938,07:52:00,07:52:10,stop_point:SP_4922,Saint Granier,10
+2291938,07:53:00,07:53:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291938,07:55:00,07:55:10,stop_point:SP_5071,Solidarité,12
+2291938,07:57:00,07:57:10,stop_point:SP_2196,St-Exupéry,13
+2291938,08:02:00,08:02:10,stop_point:SP_346,Grynfogel,14
+2291938,08:03:00,08:03:10,stop_point:SP_3076,Phidias,15
+2291938,08:05:00,08:05:10,stop_point:SP_905,Vandel,16
+2291938,08:06:00,08:06:10,stop_point:SP_5067,Déodat Roché,17
+2291938,08:07:00,08:07:10,stop_point:SP_2122,Mounède,18
+2291938,08:08:00,08:08:10,stop_point:SP_1867,Mesplé,19
+2291938,08:10:00,08:10:10,stop_point:SP_2054,Basso Cambo,20
+2291938,08:12:00,08:12:10,stop_point:SP_1298,Place Bouillière,21
+2291938,08:14:00,08:14:10,stop_point:SP_5,Desnos,22
+2291938,08:15:00,08:15:10,stop_point:SP_334,Ourliac,23
+2291938,08:16:00,08:16:10,stop_point:SP_5102,Lestang,24
+2291938,08:18:00,08:18:10,stop_point:SP_1357,René Valmy,25
+2291938,08:19:00,08:19:10,stop_point:SP_2042,Eisenhower Est,26
+2291938,08:24:00,08:24:10,stop_point:SP_4906,Joulin,27
+2291938,08:24:00,08:24:10,stop_point:SP_3681,Route d'Espagne,28
+2291938,08:25:00,08:25:10,stop_point:SP_2892,IUC,29
+2291938,08:26:00,08:26:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291938,08:26:00,08:26:10,stop_point:SP_2663,Oncopole Courrière,31
+2291938,08:27:00,08:27:10,stop_point:SP_3140,Oncopole Courrière,32
+2291939,07:50:00,07:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291939,07:52:00,07:52:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291939,07:53:00,07:53:10,stop_point:SP_131,Bascule - Seycheron,3
+2291939,07:53:00,07:53:10,stop_point:SP_3370,Naurouze,4
+2291939,07:55:00,07:55:10,stop_point:SP_4456,Oratoire,5
+2291939,07:57:00,07:57:10,stop_point:SP_5638,Caulet,6
+2291939,07:57:00,07:57:10,stop_point:SP_4891,Benozzi,7
+2291939,08:00:00,08:00:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291939,08:01:00,08:01:10,stop_point:SP_4925,Sévérac,9
+2291939,08:03:00,08:03:10,stop_point:SP_4922,Saint Granier,10
+2291939,08:04:00,08:04:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291939,08:05:00,08:05:10,stop_point:SP_5071,Solidarité,12
+2291939,08:08:00,08:08:10,stop_point:SP_2196,St-Exupéry,13
+2291939,08:13:00,08:13:10,stop_point:SP_346,Grynfogel,14
+2291939,08:14:00,08:14:10,stop_point:SP_3076,Phidias,15
+2291939,08:16:00,08:16:10,stop_point:SP_905,Vandel,16
+2291939,08:17:00,08:17:10,stop_point:SP_5067,Déodat Roché,17
+2291939,08:18:00,08:18:10,stop_point:SP_2122,Mounède,18
+2291939,08:19:00,08:19:10,stop_point:SP_1867,Mesplé,19
+2291939,08:21:00,08:21:10,stop_point:SP_2054,Basso Cambo,20
+2291939,08:23:00,08:23:10,stop_point:SP_1298,Place Bouillière,21
+2291939,08:25:00,08:25:10,stop_point:SP_5,Desnos,22
+2291939,08:26:00,08:26:10,stop_point:SP_334,Ourliac,23
+2291939,08:27:00,08:27:10,stop_point:SP_5102,Lestang,24
+2291939,08:29:00,08:29:10,stop_point:SP_1357,René Valmy,25
+2291939,08:30:00,08:30:10,stop_point:SP_2042,Eisenhower Est,26
+2291939,08:35:00,08:35:10,stop_point:SP_4906,Joulin,27
+2291939,08:35:00,08:35:10,stop_point:SP_3681,Route d'Espagne,28
+2291939,08:36:00,08:36:10,stop_point:SP_2892,IUC,29
+2291939,08:37:00,08:37:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291939,08:37:00,08:37:10,stop_point:SP_2663,Oncopole Courrière,31
+2291939,08:38:00,08:38:10,stop_point:SP_3140,Oncopole Courrière,32
+2291940,08:00:00,08:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291940,08:02:00,08:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291940,08:03:00,08:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291940,08:03:00,08:03:10,stop_point:SP_3370,Naurouze,4
+2291940,08:05:00,08:05:10,stop_point:SP_4456,Oratoire,5
+2291940,08:07:00,08:07:10,stop_point:SP_5638,Caulet,6
+2291940,08:07:00,08:07:10,stop_point:SP_4891,Benozzi,7
+2291940,08:10:00,08:10:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291940,08:11:00,08:11:10,stop_point:SP_4925,Sévérac,9
+2291940,08:13:00,08:13:10,stop_point:SP_4922,Saint Granier,10
+2291940,08:14:00,08:14:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291940,08:15:00,08:15:10,stop_point:SP_5071,Solidarité,12
+2291940,08:18:00,08:18:10,stop_point:SP_2196,St-Exupéry,13
+2291940,08:23:00,08:23:10,stop_point:SP_346,Grynfogel,14
+2291940,08:24:00,08:24:10,stop_point:SP_3076,Phidias,15
+2291940,08:26:00,08:26:10,stop_point:SP_905,Vandel,16
+2291940,08:27:00,08:27:10,stop_point:SP_5067,Déodat Roché,17
+2291940,08:28:00,08:28:10,stop_point:SP_2122,Mounède,18
+2291940,08:29:00,08:29:10,stop_point:SP_1867,Mesplé,19
+2291940,08:31:00,08:31:10,stop_point:SP_2054,Basso Cambo,20
+2291940,08:33:00,08:33:10,stop_point:SP_1298,Place Bouillière,21
+2291940,08:35:00,08:35:10,stop_point:SP_5,Desnos,22
+2291940,08:36:00,08:36:10,stop_point:SP_334,Ourliac,23
+2291940,08:37:00,08:37:10,stop_point:SP_5102,Lestang,24
+2291940,08:39:00,08:39:10,stop_point:SP_1357,René Valmy,25
+2291940,08:40:00,08:40:10,stop_point:SP_2042,Eisenhower Est,26
+2291940,08:45:00,08:45:10,stop_point:SP_4906,Joulin,27
+2291940,08:45:00,08:45:10,stop_point:SP_3681,Route d'Espagne,28
+2291940,08:46:00,08:46:10,stop_point:SP_2892,IUC,29
+2291940,08:47:00,08:47:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291940,08:47:00,08:47:10,stop_point:SP_2663,Oncopole Courrière,31
+2291940,08:48:00,08:48:10,stop_point:SP_3140,Oncopole Courrière,32
+2291941,08:10:00,08:10:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291941,08:12:00,08:12:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291941,08:13:00,08:13:10,stop_point:SP_131,Bascule - Seycheron,3
+2291941,08:13:00,08:13:10,stop_point:SP_3370,Naurouze,4
+2291941,08:15:00,08:15:10,stop_point:SP_4456,Oratoire,5
+2291941,08:17:00,08:17:10,stop_point:SP_5638,Caulet,6
+2291941,08:17:00,08:17:10,stop_point:SP_4891,Benozzi,7
+2291941,08:20:00,08:20:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291941,08:21:00,08:21:10,stop_point:SP_4925,Sévérac,9
+2291941,08:23:00,08:23:10,stop_point:SP_4922,Saint Granier,10
+2291941,08:24:00,08:24:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291941,08:25:00,08:25:10,stop_point:SP_5071,Solidarité,12
+2291941,08:28:00,08:28:10,stop_point:SP_2196,St-Exupéry,13
+2291941,08:33:00,08:33:10,stop_point:SP_346,Grynfogel,14
+2291941,08:34:00,08:34:10,stop_point:SP_3076,Phidias,15
+2291941,08:36:00,08:36:10,stop_point:SP_905,Vandel,16
+2291941,08:37:00,08:37:10,stop_point:SP_5067,Déodat Roché,17
+2291941,08:38:00,08:38:10,stop_point:SP_2122,Mounède,18
+2291941,08:39:00,08:39:10,stop_point:SP_1867,Mesplé,19
+2291941,08:41:00,08:41:10,stop_point:SP_2054,Basso Cambo,20
+2291941,08:43:00,08:43:10,stop_point:SP_1298,Place Bouillière,21
+2291941,08:45:00,08:45:10,stop_point:SP_5,Desnos,22
+2291941,08:46:00,08:46:10,stop_point:SP_334,Ourliac,23
+2291941,08:47:00,08:47:10,stop_point:SP_5102,Lestang,24
+2291941,08:49:00,08:49:10,stop_point:SP_1357,René Valmy,25
+2291941,08:50:00,08:50:10,stop_point:SP_2042,Eisenhower Est,26
+2291941,08:55:00,08:55:10,stop_point:SP_4906,Joulin,27
+2291941,08:55:00,08:55:10,stop_point:SP_3681,Route d'Espagne,28
+2291941,08:56:00,08:56:10,stop_point:SP_2892,IUC,29
+2291941,08:57:00,08:57:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291941,08:57:00,08:57:10,stop_point:SP_2663,Oncopole Courrière,31
+2291941,08:58:00,08:58:10,stop_point:SP_3140,Oncopole Courrière,32
+2291942,08:20:00,08:20:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291942,08:22:00,08:22:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291942,08:23:00,08:23:10,stop_point:SP_131,Bascule - Seycheron,3
+2291942,08:23:00,08:23:10,stop_point:SP_3370,Naurouze,4
+2291942,08:25:00,08:25:10,stop_point:SP_4456,Oratoire,5
+2291942,08:27:00,08:27:10,stop_point:SP_5638,Caulet,6
+2291942,08:27:00,08:27:10,stop_point:SP_4891,Benozzi,7
+2291942,08:30:00,08:30:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291942,08:31:00,08:31:10,stop_point:SP_4925,Sévérac,9
+2291942,08:33:00,08:33:10,stop_point:SP_4922,Saint Granier,10
+2291942,08:34:00,08:34:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291942,08:35:00,08:35:10,stop_point:SP_5071,Solidarité,12
+2291942,08:38:00,08:38:10,stop_point:SP_2196,St-Exupéry,13
+2291942,08:43:00,08:43:10,stop_point:SP_346,Grynfogel,14
+2291942,08:44:00,08:44:10,stop_point:SP_3076,Phidias,15
+2291942,08:46:00,08:46:10,stop_point:SP_905,Vandel,16
+2291942,08:47:00,08:47:10,stop_point:SP_5067,Déodat Roché,17
+2291942,08:48:00,08:48:10,stop_point:SP_2122,Mounède,18
+2291942,08:49:00,08:49:10,stop_point:SP_1867,Mesplé,19
+2291942,08:51:00,08:51:10,stop_point:SP_2054,Basso Cambo,20
+2291942,08:53:00,08:53:10,stop_point:SP_1298,Place Bouillière,21
+2291942,08:55:00,08:55:10,stop_point:SP_5,Desnos,22
+2291942,08:56:00,08:56:10,stop_point:SP_334,Ourliac,23
+2291942,08:57:00,08:57:10,stop_point:SP_5102,Lestang,24
+2291942,08:59:00,08:59:10,stop_point:SP_1357,René Valmy,25
+2291942,09:00:00,09:00:10,stop_point:SP_2042,Eisenhower Est,26
+2291942,09:04:00,09:04:10,stop_point:SP_4906,Joulin,27
+2291942,09:05:00,09:05:10,stop_point:SP_3681,Route d'Espagne,28
+2291942,09:05:00,09:05:10,stop_point:SP_2892,IUC,29
+2291942,09:06:00,09:06:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291942,09:06:00,09:06:10,stop_point:SP_2663,Oncopole Courrière,31
+2291942,09:07:00,09:07:10,stop_point:SP_3140,Oncopole Courrière,32
+2291943,08:30:00,08:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291943,08:32:00,08:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291943,08:33:00,08:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291943,08:33:00,08:33:10,stop_point:SP_3370,Naurouze,4
+2291943,08:35:00,08:35:10,stop_point:SP_4456,Oratoire,5
+2291943,08:37:00,08:37:10,stop_point:SP_5638,Caulet,6
+2291943,08:37:00,08:37:10,stop_point:SP_4891,Benozzi,7
+2291943,08:40:00,08:40:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291943,08:41:00,08:41:10,stop_point:SP_4925,Sévérac,9
+2291943,08:43:00,08:43:10,stop_point:SP_4922,Saint Granier,10
+2291943,08:44:00,08:44:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291943,08:45:00,08:45:10,stop_point:SP_5071,Solidarité,12
+2291943,08:48:00,08:48:10,stop_point:SP_2196,St-Exupéry,13
+2291943,08:52:00,08:52:10,stop_point:SP_346,Grynfogel,14
+2291943,08:54:00,08:54:10,stop_point:SP_3076,Phidias,15
+2291943,08:55:00,08:55:10,stop_point:SP_905,Vandel,16
+2291943,08:56:00,08:56:10,stop_point:SP_5067,Déodat Roché,17
+2291943,08:57:00,08:57:10,stop_point:SP_2122,Mounède,18
+2291943,08:58:00,08:58:10,stop_point:SP_1867,Mesplé,19
+2291943,09:00:00,09:00:10,stop_point:SP_2054,Basso Cambo,20
+2291943,09:01:00,09:01:10,stop_point:SP_1298,Place Bouillière,21
+2291943,09:04:00,09:04:10,stop_point:SP_5,Desnos,22
+2291943,09:05:00,09:05:10,stop_point:SP_334,Ourliac,23
+2291943,09:06:00,09:06:10,stop_point:SP_5102,Lestang,24
+2291943,09:07:00,09:07:10,stop_point:SP_1357,René Valmy,25
+2291943,09:08:00,09:08:10,stop_point:SP_2042,Eisenhower Est,26
+2291943,09:12:00,09:12:10,stop_point:SP_4906,Joulin,27
+2291943,09:13:00,09:13:10,stop_point:SP_3681,Route d'Espagne,28
+2291943,09:13:00,09:13:10,stop_point:SP_2892,IUC,29
+2291943,09:14:00,09:14:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291943,09:14:00,09:14:10,stop_point:SP_2663,Oncopole Courrière,31
+2291943,09:15:00,09:15:10,stop_point:SP_3140,Oncopole Courrière,32
+2291944,08:40:00,08:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291944,08:42:00,08:42:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291944,08:43:00,08:43:10,stop_point:SP_131,Bascule - Seycheron,3
+2291944,08:43:00,08:43:10,stop_point:SP_3370,Naurouze,4
+2291944,08:45:00,08:45:10,stop_point:SP_4456,Oratoire,5
+2291944,08:47:00,08:47:10,stop_point:SP_5638,Caulet,6
+2291944,08:47:00,08:47:10,stop_point:SP_4891,Benozzi,7
+2291944,08:50:00,08:50:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291944,08:51:00,08:51:10,stop_point:SP_4925,Sévérac,9
+2291944,08:53:00,08:53:10,stop_point:SP_4922,Saint Granier,10
+2291944,08:54:00,08:54:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291944,08:55:00,08:55:10,stop_point:SP_5071,Solidarité,12
+2291944,08:58:00,08:58:10,stop_point:SP_2196,St-Exupéry,13
+2291944,09:02:00,09:02:10,stop_point:SP_346,Grynfogel,14
+2291944,09:03:00,09:03:10,stop_point:SP_3076,Phidias,15
+2291944,09:04:00,09:04:10,stop_point:SP_905,Vandel,16
+2291944,09:06:00,09:06:10,stop_point:SP_5067,Déodat Roché,17
+2291944,09:07:00,09:07:10,stop_point:SP_2122,Mounède,18
+2291944,09:07:00,09:07:10,stop_point:SP_1867,Mesplé,19
+2291944,09:09:00,09:09:10,stop_point:SP_2054,Basso Cambo,20
+2291944,09:10:00,09:10:10,stop_point:SP_1298,Place Bouillière,21
+2291944,09:13:00,09:13:10,stop_point:SP_5,Desnos,22
+2291944,09:14:00,09:14:10,stop_point:SP_334,Ourliac,23
+2291944,09:15:00,09:15:10,stop_point:SP_5102,Lestang,24
+2291944,09:16:00,09:16:10,stop_point:SP_1357,René Valmy,25
+2291944,09:17:00,09:17:10,stop_point:SP_2042,Eisenhower Est,26
+2291944,09:21:00,09:21:10,stop_point:SP_4906,Joulin,27
+2291944,09:22:00,09:22:10,stop_point:SP_3681,Route d'Espagne,28
+2291944,09:22:00,09:22:10,stop_point:SP_2892,IUC,29
+2291944,09:23:00,09:23:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291944,09:23:00,09:23:10,stop_point:SP_2663,Oncopole Courrière,31
+2291944,09:24:00,09:24:10,stop_point:SP_3140,Oncopole Courrière,32
+2291945,08:50:00,08:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291945,08:52:00,08:52:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291945,08:53:00,08:53:10,stop_point:SP_131,Bascule - Seycheron,3
+2291945,08:53:00,08:53:10,stop_point:SP_3370,Naurouze,4
+2291945,08:55:00,08:55:10,stop_point:SP_4456,Oratoire,5
+2291945,08:57:00,08:57:10,stop_point:SP_5638,Caulet,6
+2291945,08:57:00,08:57:10,stop_point:SP_4891,Benozzi,7
+2291945,09:00:00,09:00:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291945,09:01:00,09:01:10,stop_point:SP_4925,Sévérac,9
+2291945,09:02:00,09:02:10,stop_point:SP_4922,Saint Granier,10
+2291945,09:03:00,09:03:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291945,09:04:00,09:04:10,stop_point:SP_5071,Solidarité,12
+2291945,09:06:00,09:06:10,stop_point:SP_2196,St-Exupéry,13
+2291945,09:10:00,09:10:10,stop_point:SP_346,Grynfogel,14
+2291945,09:11:00,09:11:10,stop_point:SP_3076,Phidias,15
+2291945,09:12:00,09:12:10,stop_point:SP_905,Vandel,16
+2291945,09:14:00,09:14:10,stop_point:SP_5067,Déodat Roché,17
+2291945,09:15:00,09:15:10,stop_point:SP_2122,Mounède,18
+2291945,09:15:00,09:15:10,stop_point:SP_1867,Mesplé,19
+2291945,09:17:00,09:17:10,stop_point:SP_2054,Basso Cambo,20
+2291945,09:18:00,09:18:10,stop_point:SP_1298,Place Bouillière,21
+2291945,09:21:00,09:21:10,stop_point:SP_5,Desnos,22
+2291945,09:22:00,09:22:10,stop_point:SP_334,Ourliac,23
+2291945,09:23:00,09:23:10,stop_point:SP_5102,Lestang,24
+2291945,09:24:00,09:24:10,stop_point:SP_1357,René Valmy,25
+2291945,09:25:00,09:25:10,stop_point:SP_2042,Eisenhower Est,26
+2291945,09:29:00,09:29:10,stop_point:SP_4906,Joulin,27
+2291945,09:30:00,09:30:10,stop_point:SP_3681,Route d'Espagne,28
+2291945,09:30:00,09:30:10,stop_point:SP_2892,IUC,29
+2291945,09:31:00,09:31:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291945,09:31:00,09:31:10,stop_point:SP_2663,Oncopole Courrière,31
+2291945,09:32:00,09:32:10,stop_point:SP_3140,Oncopole Courrière,32
+2291946,09:00:00,09:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291946,09:01:00,09:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291946,09:02:00,09:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291946,09:03:00,09:03:10,stop_point:SP_3370,Naurouze,4
+2291946,09:04:00,09:04:10,stop_point:SP_4456,Oratoire,5
+2291946,09:06:00,09:06:10,stop_point:SP_5638,Caulet,6
+2291946,09:06:00,09:06:10,stop_point:SP_4891,Benozzi,7
+2291946,09:09:00,09:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291946,09:10:00,09:10:10,stop_point:SP_4925,Sévérac,9
+2291946,09:11:00,09:11:10,stop_point:SP_4922,Saint Granier,10
+2291946,09:12:00,09:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291946,09:13:00,09:13:10,stop_point:SP_5071,Solidarité,12
+2291946,09:15:00,09:15:10,stop_point:SP_2196,St-Exupéry,13
+2291946,09:19:00,09:19:10,stop_point:SP_346,Grynfogel,14
+2291946,09:20:00,09:20:10,stop_point:SP_3076,Phidias,15
+2291946,09:21:00,09:21:10,stop_point:SP_905,Vandel,16
+2291946,09:23:00,09:23:10,stop_point:SP_5067,Déodat Roché,17
+2291946,09:24:00,09:24:10,stop_point:SP_2122,Mounède,18
+2291946,09:24:00,09:24:10,stop_point:SP_1867,Mesplé,19
+2291946,09:26:00,09:26:10,stop_point:SP_2054,Basso Cambo,20
+2291946,09:27:00,09:27:10,stop_point:SP_1298,Place Bouillière,21
+2291946,09:30:00,09:30:10,stop_point:SP_5,Desnos,22
+2291946,09:31:00,09:31:10,stop_point:SP_334,Ourliac,23
+2291946,09:32:00,09:32:10,stop_point:SP_5102,Lestang,24
+2291946,09:33:00,09:33:10,stop_point:SP_1357,René Valmy,25
+2291946,09:34:00,09:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291946,09:38:00,09:38:10,stop_point:SP_4906,Joulin,27
+2291946,09:39:00,09:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291946,09:39:00,09:39:10,stop_point:SP_2892,IUC,29
+2291946,09:40:00,09:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291946,09:40:00,09:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291946,09:41:00,09:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291947,09:30:00,09:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291947,09:31:00,09:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291947,09:32:00,09:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291947,09:33:00,09:33:10,stop_point:SP_3370,Naurouze,4
+2291947,09:34:00,09:34:10,stop_point:SP_4456,Oratoire,5
+2291947,09:36:00,09:36:10,stop_point:SP_5638,Caulet,6
+2291947,09:36:00,09:36:10,stop_point:SP_4891,Benozzi,7
+2291947,09:39:00,09:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291947,09:40:00,09:40:10,stop_point:SP_4925,Sévérac,9
+2291947,09:41:00,09:41:10,stop_point:SP_4922,Saint Granier,10
+2291947,09:42:00,09:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291947,09:43:00,09:43:10,stop_point:SP_5071,Solidarité,12
+2291947,09:45:00,09:45:10,stop_point:SP_2196,St-Exupéry,13
+2291947,09:49:00,09:49:10,stop_point:SP_346,Grynfogel,14
+2291947,09:50:00,09:50:10,stop_point:SP_3076,Phidias,15
+2291947,09:51:00,09:51:10,stop_point:SP_905,Vandel,16
+2291947,09:53:00,09:53:10,stop_point:SP_5067,Déodat Roché,17
+2291947,09:54:00,09:54:10,stop_point:SP_2122,Mounède,18
+2291947,09:54:00,09:54:10,stop_point:SP_1867,Mesplé,19
+2291947,09:56:00,09:56:10,stop_point:SP_2054,Basso Cambo,20
+2291947,09:57:00,09:57:10,stop_point:SP_1298,Place Bouillière,21
+2291947,10:00:00,10:00:10,stop_point:SP_5,Desnos,22
+2291947,10:01:00,10:01:10,stop_point:SP_334,Ourliac,23
+2291947,10:02:00,10:02:10,stop_point:SP_5102,Lestang,24
+2291947,10:03:00,10:03:10,stop_point:SP_1357,René Valmy,25
+2291947,10:04:00,10:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291947,10:08:00,10:08:10,stop_point:SP_4906,Joulin,27
+2291947,10:09:00,10:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291947,10:09:00,10:09:10,stop_point:SP_2892,IUC,29
+2291947,10:10:00,10:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291947,10:10:00,10:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291947,10:11:00,10:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291948,10:00:00,10:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291948,10:02:00,10:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291948,10:03:00,10:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291948,10:03:00,10:03:10,stop_point:SP_3370,Naurouze,4
+2291948,10:05:00,10:05:10,stop_point:SP_4456,Oratoire,5
+2291948,10:07:00,10:07:10,stop_point:SP_5638,Caulet,6
+2291948,10:07:00,10:07:10,stop_point:SP_4891,Benozzi,7
+2291948,10:09:00,10:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291948,10:10:00,10:10:10,stop_point:SP_4925,Sévérac,9
+2291948,10:11:00,10:11:10,stop_point:SP_4922,Saint Granier,10
+2291948,10:12:00,10:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291948,10:13:00,10:13:10,stop_point:SP_5071,Solidarité,12
+2291948,10:15:00,10:15:10,stop_point:SP_2196,St-Exupéry,13
+2291948,10:19:00,10:19:10,stop_point:SP_346,Grynfogel,14
+2291948,10:20:00,10:20:10,stop_point:SP_3076,Phidias,15
+2291948,10:21:00,10:21:10,stop_point:SP_905,Vandel,16
+2291948,10:23:00,10:23:10,stop_point:SP_5067,Déodat Roché,17
+2291948,10:24:00,10:24:10,stop_point:SP_2122,Mounède,18
+2291948,10:24:00,10:24:10,stop_point:SP_1867,Mesplé,19
+2291948,10:26:00,10:26:10,stop_point:SP_2054,Basso Cambo,20
+2291948,10:27:00,10:27:10,stop_point:SP_1298,Place Bouillière,21
+2291948,10:30:00,10:30:10,stop_point:SP_5,Desnos,22
+2291948,10:31:00,10:31:10,stop_point:SP_334,Ourliac,23
+2291948,10:32:00,10:32:10,stop_point:SP_5102,Lestang,24
+2291948,10:33:00,10:33:10,stop_point:SP_1357,René Valmy,25
+2291948,10:34:00,10:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291948,10:38:00,10:38:10,stop_point:SP_4906,Joulin,27
+2291948,10:39:00,10:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291948,10:39:00,10:39:10,stop_point:SP_2892,IUC,29
+2291948,10:40:00,10:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291948,10:40:00,10:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291948,10:41:00,10:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291949,10:30:00,10:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291949,10:32:00,10:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291949,10:33:00,10:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291949,10:33:00,10:33:10,stop_point:SP_3370,Naurouze,4
+2291949,10:35:00,10:35:10,stop_point:SP_4456,Oratoire,5
+2291949,10:37:00,10:37:10,stop_point:SP_5638,Caulet,6
+2291949,10:37:00,10:37:10,stop_point:SP_4891,Benozzi,7
+2291949,10:39:00,10:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291949,10:40:00,10:40:10,stop_point:SP_4925,Sévérac,9
+2291949,10:41:00,10:41:10,stop_point:SP_4922,Saint Granier,10
+2291949,10:42:00,10:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291949,10:43:00,10:43:10,stop_point:SP_5071,Solidarité,12
+2291949,10:45:00,10:45:10,stop_point:SP_2196,St-Exupéry,13
+2291949,10:49:00,10:49:10,stop_point:SP_346,Grynfogel,14
+2291949,10:50:00,10:50:10,stop_point:SP_3076,Phidias,15
+2291949,10:51:00,10:51:10,stop_point:SP_905,Vandel,16
+2291949,10:53:00,10:53:10,stop_point:SP_5067,Déodat Roché,17
+2291949,10:54:00,10:54:10,stop_point:SP_2122,Mounède,18
+2291949,10:54:00,10:54:10,stop_point:SP_1867,Mesplé,19
+2291949,10:56:00,10:56:10,stop_point:SP_2054,Basso Cambo,20
+2291949,10:57:00,10:57:10,stop_point:SP_1298,Place Bouillière,21
+2291949,11:00:00,11:00:10,stop_point:SP_5,Desnos,22
+2291949,11:01:00,11:01:10,stop_point:SP_334,Ourliac,23
+2291949,11:02:00,11:02:10,stop_point:SP_5102,Lestang,24
+2291949,11:03:00,11:03:10,stop_point:SP_1357,René Valmy,25
+2291949,11:04:00,11:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291949,11:08:00,11:08:10,stop_point:SP_4906,Joulin,27
+2291949,11:09:00,11:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291949,11:09:00,11:09:10,stop_point:SP_2892,IUC,29
+2291949,11:10:00,11:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291949,11:10:00,11:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291949,11:11:00,11:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291950,11:00:00,11:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291950,11:02:00,11:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291950,11:03:00,11:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291950,11:03:00,11:03:10,stop_point:SP_3370,Naurouze,4
+2291950,11:05:00,11:05:10,stop_point:SP_4456,Oratoire,5
+2291950,11:07:00,11:07:10,stop_point:SP_5638,Caulet,6
+2291950,11:07:00,11:07:10,stop_point:SP_4891,Benozzi,7
+2291950,11:09:00,11:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291950,11:10:00,11:10:10,stop_point:SP_4925,Sévérac,9
+2291950,11:11:00,11:11:10,stop_point:SP_4922,Saint Granier,10
+2291950,11:12:00,11:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291950,11:13:00,11:13:10,stop_point:SP_5071,Solidarité,12
+2291950,11:15:00,11:15:10,stop_point:SP_2196,St-Exupéry,13
+2291950,11:19:00,11:19:10,stop_point:SP_346,Grynfogel,14
+2291950,11:20:00,11:20:10,stop_point:SP_3076,Phidias,15
+2291950,11:21:00,11:21:10,stop_point:SP_905,Vandel,16
+2291950,11:23:00,11:23:10,stop_point:SP_5067,Déodat Roché,17
+2291950,11:24:00,11:24:10,stop_point:SP_2122,Mounède,18
+2291950,11:24:00,11:24:10,stop_point:SP_1867,Mesplé,19
+2291950,11:26:00,11:26:10,stop_point:SP_2054,Basso Cambo,20
+2291950,11:27:00,11:27:10,stop_point:SP_1298,Place Bouillière,21
+2291950,11:30:00,11:30:10,stop_point:SP_5,Desnos,22
+2291950,11:31:00,11:31:10,stop_point:SP_334,Ourliac,23
+2291950,11:32:00,11:32:10,stop_point:SP_5102,Lestang,24
+2291950,11:33:00,11:33:10,stop_point:SP_1357,René Valmy,25
+2291950,11:34:00,11:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291950,11:38:00,11:38:10,stop_point:SP_4906,Joulin,27
+2291950,11:39:00,11:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291950,11:39:00,11:39:10,stop_point:SP_2892,IUC,29
+2291950,11:40:00,11:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291950,11:40:00,11:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291950,11:41:00,11:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291951,11:30:00,11:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291951,11:32:00,11:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291951,11:33:00,11:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291951,11:33:00,11:33:10,stop_point:SP_3370,Naurouze,4
+2291951,11:35:00,11:35:10,stop_point:SP_4456,Oratoire,5
+2291951,11:37:00,11:37:10,stop_point:SP_5638,Caulet,6
+2291951,11:37:00,11:37:10,stop_point:SP_4891,Benozzi,7
+2291951,11:39:00,11:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291951,11:40:00,11:40:10,stop_point:SP_4925,Sévérac,9
+2291951,11:41:00,11:41:10,stop_point:SP_4922,Saint Granier,10
+2291951,11:42:00,11:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291951,11:43:00,11:43:10,stop_point:SP_5071,Solidarité,12
+2291951,11:45:00,11:45:10,stop_point:SP_2196,St-Exupéry,13
+2291951,11:49:00,11:49:10,stop_point:SP_346,Grynfogel,14
+2291951,11:50:00,11:50:10,stop_point:SP_3076,Phidias,15
+2291951,11:51:00,11:51:10,stop_point:SP_905,Vandel,16
+2291951,11:53:00,11:53:10,stop_point:SP_5067,Déodat Roché,17
+2291951,11:54:00,11:54:10,stop_point:SP_2122,Mounède,18
+2291951,11:54:00,11:54:10,stop_point:SP_1867,Mesplé,19
+2291951,11:56:00,11:56:10,stop_point:SP_2054,Basso Cambo,20
+2291951,11:57:00,11:57:10,stop_point:SP_1298,Place Bouillière,21
+2291951,12:00:00,12:00:10,stop_point:SP_5,Desnos,22
+2291951,12:01:00,12:01:10,stop_point:SP_334,Ourliac,23
+2291951,12:02:00,12:02:10,stop_point:SP_5102,Lestang,24
+2291951,12:03:00,12:03:10,stop_point:SP_1357,René Valmy,25
+2291951,12:04:00,12:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291951,12:08:00,12:08:10,stop_point:SP_4906,Joulin,27
+2291951,12:09:00,12:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291951,12:09:00,12:09:10,stop_point:SP_2892,IUC,29
+2291951,12:10:00,12:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291951,12:10:00,12:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291951,12:11:00,12:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291952,12:00:00,12:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291952,12:02:00,12:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291952,12:03:00,12:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291952,12:03:00,12:03:10,stop_point:SP_3370,Naurouze,4
+2291952,12:05:00,12:05:10,stop_point:SP_4456,Oratoire,5
+2291952,12:07:00,12:07:10,stop_point:SP_5638,Caulet,6
+2291952,12:07:00,12:07:10,stop_point:SP_4891,Benozzi,7
+2291952,12:09:00,12:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291952,12:10:00,12:10:10,stop_point:SP_4925,Sévérac,9
+2291952,12:11:00,12:11:10,stop_point:SP_4922,Saint Granier,10
+2291952,12:12:00,12:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291952,12:13:00,12:13:10,stop_point:SP_5071,Solidarité,12
+2291952,12:15:00,12:15:10,stop_point:SP_2196,St-Exupéry,13
+2291952,12:20:00,12:20:10,stop_point:SP_346,Grynfogel,14
+2291952,12:21:00,12:21:10,stop_point:SP_3076,Phidias,15
+2291952,12:23:00,12:23:10,stop_point:SP_905,Vandel,16
+2291952,12:24:00,12:24:10,stop_point:SP_5067,Déodat Roché,17
+2291952,12:25:00,12:25:10,stop_point:SP_2122,Mounède,18
+2291952,12:26:00,12:26:10,stop_point:SP_1867,Mesplé,19
+2291952,12:28:00,12:28:10,stop_point:SP_2054,Basso Cambo,20
+2291952,12:29:00,12:29:10,stop_point:SP_1298,Place Bouillière,21
+2291952,12:32:00,12:32:10,stop_point:SP_5,Desnos,22
+2291952,12:33:00,12:33:10,stop_point:SP_334,Ourliac,23
+2291952,12:34:00,12:34:10,stop_point:SP_5102,Lestang,24
+2291952,12:35:00,12:35:10,stop_point:SP_1357,René Valmy,25
+2291952,12:36:00,12:36:10,stop_point:SP_2042,Eisenhower Est,26
+2291952,12:40:00,12:40:10,stop_point:SP_4906,Joulin,27
+2291952,12:41:00,12:41:10,stop_point:SP_3681,Route d'Espagne,28
+2291952,12:41:00,12:41:10,stop_point:SP_2892,IUC,29
+2291952,12:42:00,12:42:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291952,12:42:00,12:42:10,stop_point:SP_2663,Oncopole Courrière,31
+2291952,12:43:00,12:43:10,stop_point:SP_3140,Oncopole Courrière,32
+2291953,12:30:00,12:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291953,12:32:00,12:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291953,12:33:00,12:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291953,12:33:00,12:33:10,stop_point:SP_3370,Naurouze,4
+2291953,12:35:00,12:35:10,stop_point:SP_4456,Oratoire,5
+2291953,12:37:00,12:37:10,stop_point:SP_5638,Caulet,6
+2291953,12:37:00,12:37:10,stop_point:SP_4891,Benozzi,7
+2291953,12:39:00,12:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291953,12:40:00,12:40:10,stop_point:SP_4925,Sévérac,9
+2291953,12:41:00,12:41:10,stop_point:SP_4922,Saint Granier,10
+2291953,12:42:00,12:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291953,12:43:00,12:43:10,stop_point:SP_5071,Solidarité,12
+2291953,12:45:00,12:45:10,stop_point:SP_2196,St-Exupéry,13
+2291953,12:49:00,12:49:10,stop_point:SP_346,Grynfogel,14
+2291953,12:50:00,12:50:10,stop_point:SP_3076,Phidias,15
+2291953,12:51:00,12:51:10,stop_point:SP_905,Vandel,16
+2291953,12:53:00,12:53:10,stop_point:SP_5067,Déodat Roché,17
+2291953,12:54:00,12:54:10,stop_point:SP_2122,Mounède,18
+2291953,12:54:00,12:54:10,stop_point:SP_1867,Mesplé,19
+2291953,12:56:00,12:56:10,stop_point:SP_2054,Basso Cambo,20
+2291953,12:57:00,12:57:10,stop_point:SP_1298,Place Bouillière,21
+2291953,13:00:00,13:00:10,stop_point:SP_5,Desnos,22
+2291953,13:01:00,13:01:10,stop_point:SP_334,Ourliac,23
+2291953,13:02:00,13:02:10,stop_point:SP_5102,Lestang,24
+2291953,13:03:00,13:03:10,stop_point:SP_1357,René Valmy,25
+2291953,13:04:00,13:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291953,13:08:00,13:08:10,stop_point:SP_4906,Joulin,27
+2291953,13:09:00,13:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291953,13:09:00,13:09:10,stop_point:SP_2892,IUC,29
+2291953,13:10:00,13:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291953,13:10:00,13:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291953,13:11:00,13:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291954,13:00:00,13:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291954,13:02:00,13:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291954,13:03:00,13:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291954,13:03:00,13:03:10,stop_point:SP_3370,Naurouze,4
+2291954,13:05:00,13:05:10,stop_point:SP_4456,Oratoire,5
+2291954,13:07:00,13:07:10,stop_point:SP_5638,Caulet,6
+2291954,13:07:00,13:07:10,stop_point:SP_4891,Benozzi,7
+2291954,13:09:00,13:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291954,13:10:00,13:10:10,stop_point:SP_4925,Sévérac,9
+2291954,13:11:00,13:11:10,stop_point:SP_4922,Saint Granier,10
+2291954,13:12:00,13:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291954,13:13:00,13:13:10,stop_point:SP_5071,Solidarité,12
+2291954,13:15:00,13:15:10,stop_point:SP_2196,St-Exupéry,13
+2291954,13:19:00,13:19:10,stop_point:SP_346,Grynfogel,14
+2291954,13:20:00,13:20:10,stop_point:SP_3076,Phidias,15
+2291954,13:21:00,13:21:10,stop_point:SP_905,Vandel,16
+2291954,13:23:00,13:23:10,stop_point:SP_5067,Déodat Roché,17
+2291954,13:24:00,13:24:10,stop_point:SP_2122,Mounède,18
+2291954,13:24:00,13:24:10,stop_point:SP_1867,Mesplé,19
+2291954,13:26:00,13:26:10,stop_point:SP_2054,Basso Cambo,20
+2291954,13:27:00,13:27:10,stop_point:SP_1298,Place Bouillière,21
+2291954,13:30:00,13:30:10,stop_point:SP_5,Desnos,22
+2291954,13:31:00,13:31:10,stop_point:SP_334,Ourliac,23
+2291954,13:32:00,13:32:10,stop_point:SP_5102,Lestang,24
+2291954,13:33:00,13:33:10,stop_point:SP_1357,René Valmy,25
+2291954,13:34:00,13:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291954,13:38:00,13:38:10,stop_point:SP_4906,Joulin,27
+2291954,13:39:00,13:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291954,13:39:00,13:39:10,stop_point:SP_2892,IUC,29
+2291954,13:40:00,13:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291954,13:40:00,13:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291954,13:41:00,13:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291955,13:30:00,13:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291955,13:32:00,13:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291955,13:33:00,13:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291955,13:33:00,13:33:10,stop_point:SP_3370,Naurouze,4
+2291955,13:35:00,13:35:10,stop_point:SP_4456,Oratoire,5
+2291955,13:37:00,13:37:10,stop_point:SP_5638,Caulet,6
+2291955,13:37:00,13:37:10,stop_point:SP_4891,Benozzi,7
+2291955,13:39:00,13:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291955,13:40:00,13:40:10,stop_point:SP_4925,Sévérac,9
+2291955,13:41:00,13:41:10,stop_point:SP_4922,Saint Granier,10
+2291955,13:42:00,13:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291955,13:43:00,13:43:10,stop_point:SP_5071,Solidarité,12
+2291955,13:45:00,13:45:10,stop_point:SP_2196,St-Exupéry,13
+2291955,13:49:00,13:49:10,stop_point:SP_346,Grynfogel,14
+2291955,13:50:00,13:50:10,stop_point:SP_3076,Phidias,15
+2291955,13:51:00,13:51:10,stop_point:SP_905,Vandel,16
+2291955,13:53:00,13:53:10,stop_point:SP_5067,Déodat Roché,17
+2291955,13:54:00,13:54:10,stop_point:SP_2122,Mounède,18
+2291955,13:54:00,13:54:10,stop_point:SP_1867,Mesplé,19
+2291955,13:56:00,13:56:10,stop_point:SP_2054,Basso Cambo,20
+2291955,13:57:00,13:57:10,stop_point:SP_1298,Place Bouillière,21
+2291955,14:00:00,14:00:10,stop_point:SP_5,Desnos,22
+2291955,14:01:00,14:01:10,stop_point:SP_334,Ourliac,23
+2291955,14:02:00,14:02:10,stop_point:SP_5102,Lestang,24
+2291955,14:03:00,14:03:10,stop_point:SP_1357,René Valmy,25
+2291955,14:04:00,14:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291955,14:08:00,14:08:10,stop_point:SP_4906,Joulin,27
+2291955,14:09:00,14:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291955,14:09:00,14:09:10,stop_point:SP_2892,IUC,29
+2291955,14:10:00,14:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291955,14:10:00,14:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291955,14:11:00,14:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291956,14:00:00,14:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291956,14:02:00,14:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291956,14:03:00,14:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291956,14:03:00,14:03:10,stop_point:SP_3370,Naurouze,4
+2291956,14:05:00,14:05:10,stop_point:SP_4456,Oratoire,5
+2291956,14:07:00,14:07:10,stop_point:SP_5638,Caulet,6
+2291956,14:07:00,14:07:10,stop_point:SP_4891,Benozzi,7
+2291956,14:09:00,14:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291956,14:10:00,14:10:10,stop_point:SP_4925,Sévérac,9
+2291956,14:11:00,14:11:10,stop_point:SP_4922,Saint Granier,10
+2291956,14:12:00,14:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291956,14:13:00,14:13:10,stop_point:SP_5071,Solidarité,12
+2291956,14:15:00,14:15:10,stop_point:SP_2196,St-Exupéry,13
+2291956,14:19:00,14:19:10,stop_point:SP_346,Grynfogel,14
+2291956,14:20:00,14:20:10,stop_point:SP_3076,Phidias,15
+2291956,14:21:00,14:21:10,stop_point:SP_905,Vandel,16
+2291956,14:23:00,14:23:10,stop_point:SP_5067,Déodat Roché,17
+2291956,14:24:00,14:24:10,stop_point:SP_2122,Mounède,18
+2291956,14:24:00,14:24:10,stop_point:SP_1867,Mesplé,19
+2291956,14:26:00,14:26:10,stop_point:SP_2054,Basso Cambo,20
+2291956,14:27:00,14:27:10,stop_point:SP_1298,Place Bouillière,21
+2291956,14:30:00,14:30:10,stop_point:SP_5,Desnos,22
+2291956,14:31:00,14:31:10,stop_point:SP_334,Ourliac,23
+2291956,14:32:00,14:32:10,stop_point:SP_5102,Lestang,24
+2291956,14:33:00,14:33:10,stop_point:SP_1357,René Valmy,25
+2291956,14:34:00,14:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291956,14:38:00,14:38:10,stop_point:SP_4906,Joulin,27
+2291956,14:39:00,14:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291956,14:39:00,14:39:10,stop_point:SP_2892,IUC,29
+2291956,14:40:00,14:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291956,14:40:00,14:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291956,14:41:00,14:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291957,14:30:00,14:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291957,14:32:00,14:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291957,14:33:00,14:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291957,14:33:00,14:33:10,stop_point:SP_3370,Naurouze,4
+2291957,14:35:00,14:35:10,stop_point:SP_4456,Oratoire,5
+2291957,14:37:00,14:37:10,stop_point:SP_5638,Caulet,6
+2291957,14:37:00,14:37:10,stop_point:SP_4891,Benozzi,7
+2291957,14:39:00,14:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291957,14:40:00,14:40:10,stop_point:SP_4925,Sévérac,9
+2291957,14:41:00,14:41:10,stop_point:SP_4922,Saint Granier,10
+2291957,14:42:00,14:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291957,14:43:00,14:43:10,stop_point:SP_5071,Solidarité,12
+2291957,14:45:00,14:45:10,stop_point:SP_2196,St-Exupéry,13
+2291957,14:49:00,14:49:10,stop_point:SP_346,Grynfogel,14
+2291957,14:50:00,14:50:10,stop_point:SP_3076,Phidias,15
+2291957,14:51:00,14:51:10,stop_point:SP_905,Vandel,16
+2291957,14:53:00,14:53:10,stop_point:SP_5067,Déodat Roché,17
+2291957,14:54:00,14:54:10,stop_point:SP_2122,Mounède,18
+2291957,14:54:00,14:54:10,stop_point:SP_1867,Mesplé,19
+2291957,14:56:00,14:56:10,stop_point:SP_2054,Basso Cambo,20
+2291957,14:57:00,14:57:10,stop_point:SP_1298,Place Bouillière,21
+2291957,15:00:00,15:00:10,stop_point:SP_5,Desnos,22
+2291957,15:01:00,15:01:10,stop_point:SP_334,Ourliac,23
+2291957,15:02:00,15:02:10,stop_point:SP_5102,Lestang,24
+2291957,15:03:00,15:03:10,stop_point:SP_1357,René Valmy,25
+2291957,15:04:00,15:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291957,15:08:00,15:08:10,stop_point:SP_4906,Joulin,27
+2291957,15:09:00,15:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291957,15:09:00,15:09:10,stop_point:SP_2892,IUC,29
+2291957,15:10:00,15:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291957,15:10:00,15:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291957,15:11:00,15:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291958,15:00:00,15:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291958,15:02:00,15:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291958,15:03:00,15:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291958,15:03:00,15:03:10,stop_point:SP_3370,Naurouze,4
+2291958,15:05:00,15:05:10,stop_point:SP_4456,Oratoire,5
+2291958,15:07:00,15:07:10,stop_point:SP_5638,Caulet,6
+2291958,15:07:00,15:07:10,stop_point:SP_4891,Benozzi,7
+2291958,15:09:00,15:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291958,15:10:00,15:10:10,stop_point:SP_4925,Sévérac,9
+2291958,15:11:00,15:11:10,stop_point:SP_4922,Saint Granier,10
+2291958,15:12:00,15:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291958,15:13:00,15:13:10,stop_point:SP_5071,Solidarité,12
+2291958,15:15:00,15:15:10,stop_point:SP_2196,St-Exupéry,13
+2291958,15:19:00,15:19:10,stop_point:SP_346,Grynfogel,14
+2291958,15:20:00,15:20:10,stop_point:SP_3076,Phidias,15
+2291958,15:21:00,15:21:10,stop_point:SP_905,Vandel,16
+2291958,15:23:00,15:23:10,stop_point:SP_5067,Déodat Roché,17
+2291958,15:24:00,15:24:10,stop_point:SP_2122,Mounède,18
+2291958,15:24:00,15:24:10,stop_point:SP_1867,Mesplé,19
+2291958,15:26:00,15:26:10,stop_point:SP_2054,Basso Cambo,20
+2291958,15:27:00,15:27:10,stop_point:SP_1298,Place Bouillière,21
+2291958,15:30:00,15:30:10,stop_point:SP_5,Desnos,22
+2291958,15:31:00,15:31:10,stop_point:SP_334,Ourliac,23
+2291958,15:32:00,15:32:10,stop_point:SP_5102,Lestang,24
+2291958,15:33:00,15:33:10,stop_point:SP_1357,René Valmy,25
+2291958,15:34:00,15:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291958,15:38:00,15:38:10,stop_point:SP_4906,Joulin,27
+2291958,15:39:00,15:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291958,15:39:00,15:39:10,stop_point:SP_2892,IUC,29
+2291958,15:40:00,15:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291958,15:40:00,15:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291958,15:41:00,15:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291959,15:30:00,15:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291959,15:32:00,15:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291959,15:33:00,15:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291959,15:33:00,15:33:10,stop_point:SP_3370,Naurouze,4
+2291959,15:35:00,15:35:10,stop_point:SP_4456,Oratoire,5
+2291959,15:37:00,15:37:10,stop_point:SP_5638,Caulet,6
+2291959,15:37:00,15:37:10,stop_point:SP_4891,Benozzi,7
+2291959,15:40:00,15:40:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291959,15:41:00,15:41:10,stop_point:SP_4925,Sévérac,9
+2291959,15:42:00,15:42:10,stop_point:SP_4922,Saint Granier,10
+2291959,15:43:00,15:43:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291959,15:44:00,15:44:10,stop_point:SP_5071,Solidarité,12
+2291959,15:46:00,15:46:10,stop_point:SP_2196,St-Exupéry,13
+2291959,15:50:00,15:50:10,stop_point:SP_346,Grynfogel,14
+2291959,15:51:00,15:51:10,stop_point:SP_3076,Phidias,15
+2291959,15:52:00,15:52:10,stop_point:SP_905,Vandel,16
+2291959,15:54:00,15:54:10,stop_point:SP_5067,Déodat Roché,17
+2291959,15:55:00,15:55:10,stop_point:SP_2122,Mounède,18
+2291959,15:55:00,15:55:10,stop_point:SP_1867,Mesplé,19
+2291959,15:57:00,15:57:10,stop_point:SP_2054,Basso Cambo,20
+2291959,15:58:00,15:58:10,stop_point:SP_1298,Place Bouillière,21
+2291959,16:01:00,16:01:10,stop_point:SP_5,Desnos,22
+2291959,16:02:00,16:02:10,stop_point:SP_334,Ourliac,23
+2291959,16:03:00,16:03:10,stop_point:SP_5102,Lestang,24
+2291959,16:04:00,16:04:10,stop_point:SP_1357,René Valmy,25
+2291959,16:05:00,16:05:10,stop_point:SP_2042,Eisenhower Est,26
+2291959,16:10:00,16:10:10,stop_point:SP_4906,Joulin,27
+2291959,16:10:00,16:10:10,stop_point:SP_3681,Route d'Espagne,28
+2291959,16:11:00,16:11:10,stop_point:SP_2892,IUC,29
+2291959,16:12:00,16:12:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291959,16:12:00,16:12:10,stop_point:SP_2663,Oncopole Courrière,31
+2291959,16:13:00,16:13:10,stop_point:SP_3140,Oncopole Courrière,32
+2291960,16:00:00,16:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291960,16:02:00,16:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291960,16:03:00,16:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291960,16:03:00,16:03:10,stop_point:SP_3370,Naurouze,4
+2291960,16:05:00,16:05:10,stop_point:SP_4456,Oratoire,5
+2291960,16:07:00,16:07:10,stop_point:SP_5638,Caulet,6
+2291960,16:07:00,16:07:10,stop_point:SP_4891,Benozzi,7
+2291960,16:10:00,16:10:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291960,16:11:00,16:11:10,stop_point:SP_4925,Sévérac,9
+2291960,16:12:00,16:12:10,stop_point:SP_4922,Saint Granier,10
+2291960,16:13:00,16:13:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291960,16:14:00,16:14:10,stop_point:SP_5071,Solidarité,12
+2291960,16:16:00,16:16:10,stop_point:SP_2196,St-Exupéry,13
+2291960,16:21:00,16:21:10,stop_point:SP_346,Grynfogel,14
+2291960,16:22:00,16:22:10,stop_point:SP_3076,Phidias,15
+2291960,16:24:00,16:24:10,stop_point:SP_905,Vandel,16
+2291960,16:25:00,16:25:10,stop_point:SP_5067,Déodat Roché,17
+2291960,16:26:00,16:26:10,stop_point:SP_2122,Mounède,18
+2291960,16:27:00,16:27:10,stop_point:SP_1867,Mesplé,19
+2291960,16:29:00,16:29:10,stop_point:SP_2054,Basso Cambo,20
+2291960,16:30:00,16:30:10,stop_point:SP_1298,Place Bouillière,21
+2291960,16:33:00,16:33:10,stop_point:SP_5,Desnos,22
+2291960,16:34:00,16:34:10,stop_point:SP_334,Ourliac,23
+2291960,16:35:00,16:35:10,stop_point:SP_5102,Lestang,24
+2291960,16:36:00,16:36:10,stop_point:SP_1357,René Valmy,25
+2291960,16:37:00,16:37:10,stop_point:SP_2042,Eisenhower Est,26
+2291960,16:42:00,16:42:10,stop_point:SP_4906,Joulin,27
+2291960,16:42:00,16:42:10,stop_point:SP_3681,Route d'Espagne,28
+2291960,16:43:00,16:43:10,stop_point:SP_2892,IUC,29
+2291960,16:44:00,16:44:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291960,16:44:00,16:44:10,stop_point:SP_2663,Oncopole Courrière,31
+2291960,16:45:00,16:45:10,stop_point:SP_3140,Oncopole Courrière,32
+2291961,16:30:00,16:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291961,16:32:00,16:32:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291961,16:33:00,16:33:10,stop_point:SP_131,Bascule - Seycheron,3
+2291961,16:33:00,16:33:10,stop_point:SP_3370,Naurouze,4
+2291961,16:35:00,16:35:10,stop_point:SP_4456,Oratoire,5
+2291961,16:37:00,16:37:10,stop_point:SP_5638,Caulet,6
+2291961,16:37:00,16:37:10,stop_point:SP_4891,Benozzi,7
+2291961,16:40:00,16:40:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291961,16:41:00,16:41:10,stop_point:SP_4925,Sévérac,9
+2291961,16:42:00,16:42:10,stop_point:SP_4922,Saint Granier,10
+2291961,16:43:00,16:43:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291961,16:45:00,16:45:10,stop_point:SP_5071,Solidarité,12
+2291961,16:47:00,16:47:10,stop_point:SP_2196,St-Exupéry,13
+2291961,16:52:00,16:52:10,stop_point:SP_346,Grynfogel,14
+2291961,16:53:00,16:53:10,stop_point:SP_3076,Phidias,15
+2291961,16:55:00,16:55:10,stop_point:SP_905,Vandel,16
+2291961,16:56:00,16:56:10,stop_point:SP_5067,Déodat Roché,17
+2291961,16:57:00,16:57:10,stop_point:SP_2122,Mounède,18
+2291961,16:58:00,16:58:10,stop_point:SP_1867,Mesplé,19
+2291961,17:00:00,17:00:10,stop_point:SP_2054,Basso Cambo,20
+2291961,17:02:00,17:02:10,stop_point:SP_1298,Place Bouillière,21
+2291961,17:05:00,17:05:10,stop_point:SP_5,Desnos,22
+2291961,17:06:00,17:06:10,stop_point:SP_334,Ourliac,23
+2291961,17:07:00,17:07:10,stop_point:SP_5102,Lestang,24
+2291961,17:09:00,17:09:10,stop_point:SP_1357,René Valmy,25
+2291961,17:10:00,17:10:10,stop_point:SP_2042,Eisenhower Est,26
+2291961,17:15:00,17:15:10,stop_point:SP_4906,Joulin,27
+2291961,17:15:00,17:15:10,stop_point:SP_3681,Route d'Espagne,28
+2291961,17:16:00,17:16:10,stop_point:SP_2892,IUC,29
+2291961,17:17:00,17:17:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291961,17:17:00,17:17:10,stop_point:SP_2663,Oncopole Courrière,31
+2291961,17:18:00,17:18:10,stop_point:SP_3140,Oncopole Courrière,32
+2291962,16:40:00,16:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291962,16:42:00,16:42:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291962,16:43:00,16:43:10,stop_point:SP_131,Bascule - Seycheron,3
+2291962,16:43:00,16:43:10,stop_point:SP_3370,Naurouze,4
+2291962,16:45:00,16:45:10,stop_point:SP_4456,Oratoire,5
+2291962,16:47:00,16:47:10,stop_point:SP_5638,Caulet,6
+2291962,16:47:00,16:47:10,stop_point:SP_4891,Benozzi,7
+2291962,16:50:00,16:50:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291962,16:51:00,16:51:10,stop_point:SP_4925,Sévérac,9
+2291962,16:52:00,16:52:10,stop_point:SP_4922,Saint Granier,10
+2291962,16:53:00,16:53:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291962,16:55:00,16:55:10,stop_point:SP_5071,Solidarité,12
+2291962,16:57:00,16:57:10,stop_point:SP_2196,St-Exupéry,13
+2291962,17:02:00,17:02:10,stop_point:SP_346,Grynfogel,14
+2291962,17:04:00,17:04:10,stop_point:SP_3076,Phidias,15
+2291962,17:06:00,17:06:10,stop_point:SP_905,Vandel,16
+2291962,17:08:00,17:08:10,stop_point:SP_5067,Déodat Roché,17
+2291962,17:09:00,17:09:10,stop_point:SP_2122,Mounède,18
+2291962,17:10:00,17:10:10,stop_point:SP_1867,Mesplé,19
+2291962,17:12:00,17:12:10,stop_point:SP_2054,Basso Cambo,20
+2291962,17:14:00,17:14:10,stop_point:SP_1298,Place Bouillière,21
+2291962,17:17:00,17:17:10,stop_point:SP_5,Desnos,22
+2291962,17:18:00,17:18:10,stop_point:SP_334,Ourliac,23
+2291962,17:19:00,17:19:10,stop_point:SP_5102,Lestang,24
+2291962,17:21:00,17:21:10,stop_point:SP_1357,René Valmy,25
+2291962,17:22:00,17:22:10,stop_point:SP_2042,Eisenhower Est,26
+2291962,17:27:00,17:27:10,stop_point:SP_4906,Joulin,27
+2291962,17:27:00,17:27:10,stop_point:SP_3681,Route d'Espagne,28
+2291962,17:28:00,17:28:10,stop_point:SP_2892,IUC,29
+2291962,17:29:00,17:29:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291962,17:29:00,17:29:10,stop_point:SP_2663,Oncopole Courrière,31
+2291962,17:30:00,17:30:10,stop_point:SP_3140,Oncopole Courrière,32
+2291963,16:50:00,16:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291963,16:52:00,16:52:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291963,16:53:00,16:53:10,stop_point:SP_131,Bascule - Seycheron,3
+2291963,16:53:00,16:53:10,stop_point:SP_3370,Naurouze,4
+2291963,16:55:00,16:55:10,stop_point:SP_4456,Oratoire,5
+2291963,16:57:00,16:57:10,stop_point:SP_5638,Caulet,6
+2291963,16:57:00,16:57:10,stop_point:SP_4891,Benozzi,7
+2291963,17:00:00,17:00:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291963,17:01:00,17:01:10,stop_point:SP_4925,Sévérac,9
+2291963,17:02:00,17:02:10,stop_point:SP_4922,Saint Granier,10
+2291963,17:03:00,17:03:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291963,17:05:00,17:05:10,stop_point:SP_5071,Solidarité,12
+2291963,17:07:00,17:07:10,stop_point:SP_2196,St-Exupéry,13
+2291963,17:12:00,17:12:10,stop_point:SP_346,Grynfogel,14
+2291963,17:14:00,17:14:10,stop_point:SP_3076,Phidias,15
+2291963,17:16:00,17:16:10,stop_point:SP_905,Vandel,16
+2291963,17:18:00,17:18:10,stop_point:SP_5067,Déodat Roché,17
+2291963,17:19:00,17:19:10,stop_point:SP_2122,Mounède,18
+2291963,17:20:00,17:20:10,stop_point:SP_1867,Mesplé,19
+2291963,17:22:00,17:22:10,stop_point:SP_2054,Basso Cambo,20
+2291963,17:24:00,17:24:10,stop_point:SP_1298,Place Bouillière,21
+2291963,17:27:00,17:27:10,stop_point:SP_5,Desnos,22
+2291963,17:28:00,17:28:10,stop_point:SP_334,Ourliac,23
+2291963,17:29:00,17:29:10,stop_point:SP_5102,Lestang,24
+2291963,17:31:00,17:31:10,stop_point:SP_1357,René Valmy,25
+2291963,17:32:00,17:32:10,stop_point:SP_2042,Eisenhower Est,26
+2291963,17:37:00,17:37:10,stop_point:SP_4906,Joulin,27
+2291963,17:37:00,17:37:10,stop_point:SP_3681,Route d'Espagne,28
+2291963,17:38:00,17:38:10,stop_point:SP_2892,IUC,29
+2291963,17:39:00,17:39:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291963,17:39:00,17:39:10,stop_point:SP_2663,Oncopole Courrière,31
+2291963,17:40:00,17:40:10,stop_point:SP_3140,Oncopole Courrière,32
+2291964,17:00:00,17:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291964,17:02:00,17:02:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291964,17:03:00,17:03:10,stop_point:SP_131,Bascule - Seycheron,3
+2291964,17:03:00,17:03:10,stop_point:SP_3370,Naurouze,4
+2291964,17:05:00,17:05:10,stop_point:SP_4456,Oratoire,5
+2291964,17:07:00,17:07:10,stop_point:SP_5638,Caulet,6
+2291964,17:07:00,17:07:10,stop_point:SP_4891,Benozzi,7
+2291964,17:10:00,17:10:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291964,17:11:00,17:11:10,stop_point:SP_4925,Sévérac,9
+2291964,17:12:00,17:12:10,stop_point:SP_4922,Saint Granier,10
+2291964,17:13:00,17:13:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291964,17:15:00,17:15:10,stop_point:SP_5071,Solidarité,12
+2291964,17:17:00,17:17:10,stop_point:SP_2196,St-Exupéry,13
+2291964,17:22:00,17:22:10,stop_point:SP_346,Grynfogel,14
+2291964,17:24:00,17:24:10,stop_point:SP_3076,Phidias,15
+2291964,17:26:00,17:26:10,stop_point:SP_905,Vandel,16
+2291964,17:28:00,17:28:10,stop_point:SP_5067,Déodat Roché,17
+2291964,17:29:00,17:29:10,stop_point:SP_2122,Mounède,18
+2291964,17:30:00,17:30:10,stop_point:SP_1867,Mesplé,19
+2291964,17:32:00,17:32:10,stop_point:SP_2054,Basso Cambo,20
+2291964,17:34:00,17:34:10,stop_point:SP_1298,Place Bouillière,21
+2291964,17:37:00,17:37:10,stop_point:SP_5,Desnos,22
+2291964,17:38:00,17:38:10,stop_point:SP_334,Ourliac,23
+2291964,17:39:00,17:39:10,stop_point:SP_5102,Lestang,24
+2291964,17:41:00,17:41:10,stop_point:SP_1357,René Valmy,25
+2291964,17:42:00,17:42:10,stop_point:SP_2042,Eisenhower Est,26
+2291964,17:47:00,17:47:10,stop_point:SP_4906,Joulin,27
+2291964,17:47:00,17:47:10,stop_point:SP_3681,Route d'Espagne,28
+2291964,17:48:00,17:48:10,stop_point:SP_2892,IUC,29
+2291964,17:49:00,17:49:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291964,17:49:00,17:49:10,stop_point:SP_2663,Oncopole Courrière,31
+2291964,17:50:00,17:50:10,stop_point:SP_3140,Oncopole Courrière,32
+2291965,17:10:00,17:10:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291965,17:12:00,17:12:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291965,17:13:00,17:13:10,stop_point:SP_131,Bascule - Seycheron,3
+2291965,17:13:00,17:13:10,stop_point:SP_3370,Naurouze,4
+2291965,17:15:00,17:15:10,stop_point:SP_4456,Oratoire,5
+2291965,17:17:00,17:17:10,stop_point:SP_5638,Caulet,6
+2291965,17:17:00,17:17:10,stop_point:SP_4891,Benozzi,7
+2291965,17:20:00,17:20:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291965,17:21:00,17:21:10,stop_point:SP_4925,Sévérac,9
+2291965,17:22:00,17:22:10,stop_point:SP_4922,Saint Granier,10
+2291965,17:23:00,17:23:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291965,17:25:00,17:25:10,stop_point:SP_5071,Solidarité,12
+2291965,17:27:00,17:27:10,stop_point:SP_2196,St-Exupéry,13
+2291965,17:32:00,17:32:10,stop_point:SP_346,Grynfogel,14
+2291965,17:34:00,17:34:10,stop_point:SP_3076,Phidias,15
+2291965,17:36:00,17:36:10,stop_point:SP_905,Vandel,16
+2291965,17:38:00,17:38:10,stop_point:SP_5067,Déodat Roché,17
+2291965,17:39:00,17:39:10,stop_point:SP_2122,Mounède,18
+2291965,17:40:00,17:40:10,stop_point:SP_1867,Mesplé,19
+2291965,17:42:00,17:42:10,stop_point:SP_2054,Basso Cambo,20
+2291965,17:44:00,17:44:10,stop_point:SP_1298,Place Bouillière,21
+2291965,17:47:00,17:47:10,stop_point:SP_5,Desnos,22
+2291965,17:48:00,17:48:10,stop_point:SP_334,Ourliac,23
+2291965,17:49:00,17:49:10,stop_point:SP_5102,Lestang,24
+2291965,17:51:00,17:51:10,stop_point:SP_1357,René Valmy,25
+2291965,17:52:00,17:52:10,stop_point:SP_2042,Eisenhower Est,26
+2291965,17:57:00,17:57:10,stop_point:SP_4906,Joulin,27
+2291965,17:57:00,17:57:10,stop_point:SP_3681,Route d'Espagne,28
+2291965,17:58:00,17:58:10,stop_point:SP_2892,IUC,29
+2291965,17:59:00,17:59:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291965,17:59:00,17:59:10,stop_point:SP_2663,Oncopole Courrière,31
+2291965,18:00:00,18:00:10,stop_point:SP_3140,Oncopole Courrière,32
+2291966,17:20:00,17:20:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291966,17:21:00,17:21:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291966,17:22:00,17:22:10,stop_point:SP_131,Bascule - Seycheron,3
+2291966,17:23:00,17:23:10,stop_point:SP_3370,Naurouze,4
+2291966,17:24:00,17:24:10,stop_point:SP_4456,Oratoire,5
+2291966,17:26:00,17:26:10,stop_point:SP_5638,Caulet,6
+2291966,17:26:00,17:26:10,stop_point:SP_4891,Benozzi,7
+2291966,17:29:00,17:29:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291966,17:30:00,17:30:10,stop_point:SP_4925,Sévérac,9
+2291966,17:31:00,17:31:10,stop_point:SP_4922,Saint Granier,10
+2291966,17:32:00,17:32:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291966,17:34:00,17:34:10,stop_point:SP_5071,Solidarité,12
+2291966,17:36:00,17:36:10,stop_point:SP_2196,St-Exupéry,13
+2291966,17:41:00,17:41:10,stop_point:SP_346,Grynfogel,14
+2291966,17:43:00,17:43:10,stop_point:SP_3076,Phidias,15
+2291966,17:45:00,17:45:10,stop_point:SP_905,Vandel,16
+2291966,17:47:00,17:47:10,stop_point:SP_5067,Déodat Roché,17
+2291966,17:48:00,17:48:10,stop_point:SP_2122,Mounède,18
+2291966,17:49:00,17:49:10,stop_point:SP_1867,Mesplé,19
+2291966,17:51:00,17:51:10,stop_point:SP_2054,Basso Cambo,20
+2291966,17:53:00,17:53:10,stop_point:SP_1298,Place Bouillière,21
+2291966,17:56:00,17:56:10,stop_point:SP_5,Desnos,22
+2291966,17:57:00,17:57:10,stop_point:SP_334,Ourliac,23
+2291966,17:58:00,17:58:10,stop_point:SP_5102,Lestang,24
+2291966,18:00:00,18:00:10,stop_point:SP_1357,René Valmy,25
+2291966,18:01:00,18:01:10,stop_point:SP_2042,Eisenhower Est,26
+2291966,18:06:00,18:06:10,stop_point:SP_4906,Joulin,27
+2291966,18:06:00,18:06:10,stop_point:SP_3681,Route d'Espagne,28
+2291966,18:07:00,18:07:10,stop_point:SP_2892,IUC,29
+2291966,18:08:00,18:08:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291966,18:08:00,18:08:10,stop_point:SP_2663,Oncopole Courrière,31
+2291966,18:09:00,18:09:10,stop_point:SP_3140,Oncopole Courrière,32
+2291967,17:30:00,17:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291967,17:31:00,17:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291967,17:32:00,17:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291967,17:33:00,17:33:10,stop_point:SP_3370,Naurouze,4
+2291967,17:34:00,17:34:10,stop_point:SP_4456,Oratoire,5
+2291967,17:36:00,17:36:10,stop_point:SP_5638,Caulet,6
+2291967,17:36:00,17:36:10,stop_point:SP_4891,Benozzi,7
+2291967,17:39:00,17:39:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291967,17:40:00,17:40:10,stop_point:SP_4925,Sévérac,9
+2291967,17:41:00,17:41:10,stop_point:SP_4922,Saint Granier,10
+2291967,17:42:00,17:42:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291967,17:43:00,17:43:10,stop_point:SP_5071,Solidarité,12
+2291967,17:45:00,17:45:10,stop_point:SP_2196,St-Exupéry,13
+2291967,17:50:00,17:50:10,stop_point:SP_346,Grynfogel,14
+2291967,17:52:00,17:52:10,stop_point:SP_3076,Phidias,15
+2291967,17:54:00,17:54:10,stop_point:SP_905,Vandel,16
+2291967,17:56:00,17:56:10,stop_point:SP_5067,Déodat Roché,17
+2291967,17:57:00,17:57:10,stop_point:SP_2122,Mounède,18
+2291967,17:58:00,17:58:10,stop_point:SP_1867,Mesplé,19
+2291967,18:00:00,18:00:10,stop_point:SP_2054,Basso Cambo,20
+2291967,18:02:00,18:02:10,stop_point:SP_1298,Place Bouillière,21
+2291967,18:05:00,18:05:10,stop_point:SP_5,Desnos,22
+2291967,18:06:00,18:06:10,stop_point:SP_334,Ourliac,23
+2291967,18:07:00,18:07:10,stop_point:SP_5102,Lestang,24
+2291967,18:09:00,18:09:10,stop_point:SP_1357,René Valmy,25
+2291967,18:10:00,18:10:10,stop_point:SP_2042,Eisenhower Est,26
+2291967,18:15:00,18:15:10,stop_point:SP_4906,Joulin,27
+2291967,18:15:00,18:15:10,stop_point:SP_3681,Route d'Espagne,28
+2291967,18:16:00,18:16:10,stop_point:SP_2892,IUC,29
+2291967,18:17:00,18:17:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291967,18:17:00,18:17:10,stop_point:SP_2663,Oncopole Courrière,31
+2291967,18:18:00,18:18:10,stop_point:SP_3140,Oncopole Courrière,32
+2291968,17:40:00,17:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291968,17:41:00,17:41:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291968,17:42:00,17:42:10,stop_point:SP_131,Bascule - Seycheron,3
+2291968,17:43:00,17:43:10,stop_point:SP_3370,Naurouze,4
+2291968,17:44:00,17:44:10,stop_point:SP_4456,Oratoire,5
+2291968,17:46:00,17:46:10,stop_point:SP_5638,Caulet,6
+2291968,17:46:00,17:46:10,stop_point:SP_4891,Benozzi,7
+2291968,17:49:00,17:49:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291968,17:50:00,17:50:10,stop_point:SP_4925,Sévérac,9
+2291968,17:51:00,17:51:10,stop_point:SP_4922,Saint Granier,10
+2291968,17:52:00,17:52:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291968,17:53:00,17:53:10,stop_point:SP_5071,Solidarité,12
+2291968,17:55:00,17:55:10,stop_point:SP_2196,St-Exupéry,13
+2291968,18:00:00,18:00:10,stop_point:SP_346,Grynfogel,14
+2291968,18:02:00,18:02:10,stop_point:SP_3076,Phidias,15
+2291968,18:04:00,18:04:10,stop_point:SP_905,Vandel,16
+2291968,18:06:00,18:06:10,stop_point:SP_5067,Déodat Roché,17
+2291968,18:07:00,18:07:10,stop_point:SP_2122,Mounède,18
+2291968,18:08:00,18:08:10,stop_point:SP_1867,Mesplé,19
+2291968,18:10:00,18:10:10,stop_point:SP_2054,Basso Cambo,20
+2291968,18:12:00,18:12:10,stop_point:SP_1298,Place Bouillière,21
+2291968,18:15:00,18:15:10,stop_point:SP_5,Desnos,22
+2291968,18:16:00,18:16:10,stop_point:SP_334,Ourliac,23
+2291968,18:17:00,18:17:10,stop_point:SP_5102,Lestang,24
+2291968,18:19:00,18:19:10,stop_point:SP_1357,René Valmy,25
+2291968,18:20:00,18:20:10,stop_point:SP_2042,Eisenhower Est,26
+2291968,18:25:00,18:25:10,stop_point:SP_4906,Joulin,27
+2291968,18:25:00,18:25:10,stop_point:SP_3681,Route d'Espagne,28
+2291968,18:26:00,18:26:10,stop_point:SP_2892,IUC,29
+2291968,18:27:00,18:27:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291968,18:27:00,18:27:10,stop_point:SP_2663,Oncopole Courrière,31
+2291968,18:28:00,18:28:10,stop_point:SP_3140,Oncopole Courrière,32
+2291969,17:50:00,17:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291969,17:51:00,17:51:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291969,17:52:00,17:52:10,stop_point:SP_131,Bascule - Seycheron,3
+2291969,17:53:00,17:53:10,stop_point:SP_3370,Naurouze,4
+2291969,17:54:00,17:54:10,stop_point:SP_4456,Oratoire,5
+2291969,17:56:00,17:56:10,stop_point:SP_5638,Caulet,6
+2291969,17:56:00,17:56:10,stop_point:SP_4891,Benozzi,7
+2291969,17:59:00,17:59:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291969,18:00:00,18:00:10,stop_point:SP_4925,Sévérac,9
+2291969,18:01:00,18:01:10,stop_point:SP_4922,Saint Granier,10
+2291969,18:02:00,18:02:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291969,18:03:00,18:03:10,stop_point:SP_5071,Solidarité,12
+2291969,18:05:00,18:05:10,stop_point:SP_2196,St-Exupéry,13
+2291969,18:10:00,18:10:10,stop_point:SP_346,Grynfogel,14
+2291969,18:12:00,18:12:10,stop_point:SP_3076,Phidias,15
+2291969,18:14:00,18:14:10,stop_point:SP_905,Vandel,16
+2291969,18:16:00,18:16:10,stop_point:SP_5067,Déodat Roché,17
+2291969,18:17:00,18:17:10,stop_point:SP_2122,Mounède,18
+2291969,18:18:00,18:18:10,stop_point:SP_1867,Mesplé,19
+2291969,18:20:00,18:20:10,stop_point:SP_2054,Basso Cambo,20
+2291969,18:22:00,18:22:10,stop_point:SP_1298,Place Bouillière,21
+2291969,18:25:00,18:25:10,stop_point:SP_5,Desnos,22
+2291969,18:26:00,18:26:10,stop_point:SP_334,Ourliac,23
+2291969,18:27:00,18:27:10,stop_point:SP_5102,Lestang,24
+2291969,18:29:00,18:29:10,stop_point:SP_1357,René Valmy,25
+2291969,18:30:00,18:30:10,stop_point:SP_2042,Eisenhower Est,26
+2291969,18:35:00,18:35:10,stop_point:SP_4906,Joulin,27
+2291969,18:35:00,18:35:10,stop_point:SP_3681,Route d'Espagne,28
+2291969,18:36:00,18:36:10,stop_point:SP_2892,IUC,29
+2291969,18:37:00,18:37:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291969,18:37:00,18:37:10,stop_point:SP_2663,Oncopole Courrière,31
+2291969,18:38:00,18:38:10,stop_point:SP_3140,Oncopole Courrière,32
+2291970,18:00:00,18:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291970,18:01:00,18:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291970,18:02:00,18:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291970,18:03:00,18:03:10,stop_point:SP_3370,Naurouze,4
+2291970,18:04:00,18:04:10,stop_point:SP_4456,Oratoire,5
+2291970,18:06:00,18:06:10,stop_point:SP_5638,Caulet,6
+2291970,18:06:00,18:06:10,stop_point:SP_4891,Benozzi,7
+2291970,18:09:00,18:09:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291970,18:10:00,18:10:10,stop_point:SP_4925,Sévérac,9
+2291970,18:11:00,18:11:10,stop_point:SP_4922,Saint Granier,10
+2291970,18:12:00,18:12:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291970,18:13:00,18:13:10,stop_point:SP_5071,Solidarité,12
+2291970,18:15:00,18:15:10,stop_point:SP_2196,St-Exupéry,13
+2291970,18:20:00,18:20:10,stop_point:SP_346,Grynfogel,14
+2291970,18:22:00,18:22:10,stop_point:SP_3076,Phidias,15
+2291970,18:24:00,18:24:10,stop_point:SP_905,Vandel,16
+2291970,18:26:00,18:26:10,stop_point:SP_5067,Déodat Roché,17
+2291970,18:27:00,18:27:10,stop_point:SP_2122,Mounède,18
+2291970,18:28:00,18:28:10,stop_point:SP_1867,Mesplé,19
+2291970,18:30:00,18:30:10,stop_point:SP_2054,Basso Cambo,20
+2291970,18:32:00,18:32:10,stop_point:SP_1298,Place Bouillière,21
+2291970,18:34:00,18:34:10,stop_point:SP_5,Desnos,22
+2291970,18:35:00,18:35:10,stop_point:SP_334,Ourliac,23
+2291970,18:36:00,18:36:10,stop_point:SP_5102,Lestang,24
+2291970,18:38:00,18:38:10,stop_point:SP_1357,René Valmy,25
+2291970,18:39:00,18:39:10,stop_point:SP_2042,Eisenhower Est,26
+2291970,18:44:00,18:44:10,stop_point:SP_4906,Joulin,27
+2291970,18:44:00,18:44:10,stop_point:SP_3681,Route d'Espagne,28
+2291970,18:45:00,18:45:10,stop_point:SP_2892,IUC,29
+2291970,18:46:00,18:46:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291970,18:46:00,18:46:10,stop_point:SP_2663,Oncopole Courrière,31
+2291970,18:47:00,18:47:10,stop_point:SP_3140,Oncopole Courrière,32
+2291971,18:10:00,18:10:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291971,18:11:00,18:11:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291971,18:12:00,18:12:10,stop_point:SP_131,Bascule - Seycheron,3
+2291971,18:13:00,18:13:10,stop_point:SP_3370,Naurouze,4
+2291971,18:14:00,18:14:10,stop_point:SP_4456,Oratoire,5
+2291971,18:16:00,18:16:10,stop_point:SP_5638,Caulet,6
+2291971,18:16:00,18:16:10,stop_point:SP_4891,Benozzi,7
+2291971,18:19:00,18:19:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291971,18:20:00,18:20:10,stop_point:SP_4925,Sévérac,9
+2291971,18:21:00,18:21:10,stop_point:SP_4922,Saint Granier,10
+2291971,18:22:00,18:22:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291971,18:23:00,18:23:10,stop_point:SP_5071,Solidarité,12
+2291971,18:25:00,18:25:10,stop_point:SP_2196,St-Exupéry,13
+2291971,18:30:00,18:30:10,stop_point:SP_346,Grynfogel,14
+2291971,18:31:00,18:31:10,stop_point:SP_3076,Phidias,15
+2291971,18:33:00,18:33:10,stop_point:SP_905,Vandel,16
+2291971,18:34:00,18:34:10,stop_point:SP_5067,Déodat Roché,17
+2291971,18:35:00,18:35:10,stop_point:SP_2122,Mounède,18
+2291971,18:36:00,18:36:10,stop_point:SP_1867,Mesplé,19
+2291971,18:38:00,18:38:10,stop_point:SP_2054,Basso Cambo,20
+2291971,18:40:00,18:40:10,stop_point:SP_1298,Place Bouillière,21
+2291971,18:42:00,18:42:10,stop_point:SP_5,Desnos,22
+2291971,18:43:00,18:43:10,stop_point:SP_334,Ourliac,23
+2291971,18:44:00,18:44:10,stop_point:SP_5102,Lestang,24
+2291971,18:46:00,18:46:10,stop_point:SP_1357,René Valmy,25
+2291971,18:47:00,18:47:10,stop_point:SP_2042,Eisenhower Est,26
+2291971,18:52:00,18:52:10,stop_point:SP_4906,Joulin,27
+2291971,18:52:00,18:52:10,stop_point:SP_3681,Route d'Espagne,28
+2291971,18:53:00,18:53:10,stop_point:SP_2892,IUC,29
+2291971,18:54:00,18:54:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291971,18:54:00,18:54:10,stop_point:SP_2663,Oncopole Courrière,31
+2291971,18:55:00,18:55:10,stop_point:SP_3140,Oncopole Courrière,32
+2291972,18:20:00,18:20:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291972,18:21:00,18:21:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291972,18:22:00,18:22:10,stop_point:SP_131,Bascule - Seycheron,3
+2291972,18:23:00,18:23:10,stop_point:SP_3370,Naurouze,4
+2291972,18:24:00,18:24:10,stop_point:SP_4456,Oratoire,5
+2291972,18:26:00,18:26:10,stop_point:SP_5638,Caulet,6
+2291972,18:26:00,18:26:10,stop_point:SP_4891,Benozzi,7
+2291972,18:29:00,18:29:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291972,18:30:00,18:30:10,stop_point:SP_4925,Sévérac,9
+2291972,18:31:00,18:31:10,stop_point:SP_4922,Saint Granier,10
+2291972,18:32:00,18:32:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291972,18:33:00,18:33:10,stop_point:SP_5071,Solidarité,12
+2291972,18:35:00,18:35:10,stop_point:SP_2196,St-Exupéry,13
+2291972,18:39:00,18:39:10,stop_point:SP_346,Grynfogel,14
+2291972,18:41:00,18:41:10,stop_point:SP_3076,Phidias,15
+2291972,18:42:00,18:42:10,stop_point:SP_905,Vandel,16
+2291972,18:43:00,18:43:10,stop_point:SP_5067,Déodat Roché,17
+2291972,18:44:00,18:44:10,stop_point:SP_2122,Mounède,18
+2291972,18:45:00,18:45:10,stop_point:SP_1867,Mesplé,19
+2291972,18:47:00,18:47:10,stop_point:SP_2054,Basso Cambo,20
+2291972,18:49:00,18:49:10,stop_point:SP_1298,Place Bouillière,21
+2291972,18:51:00,18:51:10,stop_point:SP_5,Desnos,22
+2291972,18:52:00,18:52:10,stop_point:SP_334,Ourliac,23
+2291972,18:53:00,18:53:10,stop_point:SP_5102,Lestang,24
+2291972,18:55:00,18:55:10,stop_point:SP_1357,René Valmy,25
+2291972,18:56:00,18:56:10,stop_point:SP_2042,Eisenhower Est,26
+2291972,19:01:00,19:01:10,stop_point:SP_4906,Joulin,27
+2291972,19:01:00,19:01:10,stop_point:SP_3681,Route d'Espagne,28
+2291972,19:02:00,19:02:10,stop_point:SP_2892,IUC,29
+2291972,19:03:00,19:03:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291972,19:03:00,19:03:10,stop_point:SP_2663,Oncopole Courrière,31
+2291972,19:04:00,19:04:10,stop_point:SP_3140,Oncopole Courrière,32
+2291973,18:30:00,18:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291973,18:31:00,18:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291973,18:32:00,18:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291973,18:33:00,18:33:10,stop_point:SP_3370,Naurouze,4
+2291973,18:34:00,18:34:10,stop_point:SP_4456,Oratoire,5
+2291973,18:36:00,18:36:10,stop_point:SP_5638,Caulet,6
+2291973,18:36:00,18:36:10,stop_point:SP_4891,Benozzi,7
+2291973,18:38:00,18:38:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291973,18:39:00,18:39:10,stop_point:SP_4925,Sévérac,9
+2291973,18:40:00,18:40:10,stop_point:SP_4922,Saint Granier,10
+2291973,18:41:00,18:41:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291973,18:42:00,18:42:10,stop_point:SP_5071,Solidarité,12
+2291973,18:44:00,18:44:10,stop_point:SP_2196,St-Exupéry,13
+2291973,18:48:00,18:48:10,stop_point:SP_346,Grynfogel,14
+2291973,18:50:00,18:50:10,stop_point:SP_3076,Phidias,15
+2291973,18:51:00,18:51:10,stop_point:SP_905,Vandel,16
+2291973,18:52:00,18:52:10,stop_point:SP_5067,Déodat Roché,17
+2291973,18:53:00,18:53:10,stop_point:SP_2122,Mounède,18
+2291973,18:54:00,18:54:10,stop_point:SP_1867,Mesplé,19
+2291973,18:56:00,18:56:10,stop_point:SP_2054,Basso Cambo,20
+2291973,18:57:00,18:57:10,stop_point:SP_1298,Place Bouillière,21
+2291973,19:00:00,19:00:10,stop_point:SP_5,Desnos,22
+2291973,19:01:00,19:01:10,stop_point:SP_334,Ourliac,23
+2291973,19:02:00,19:02:10,stop_point:SP_5102,Lestang,24
+2291973,19:03:00,19:03:10,stop_point:SP_1357,René Valmy,25
+2291973,19:04:00,19:04:10,stop_point:SP_2042,Eisenhower Est,26
+2291973,19:08:00,19:08:10,stop_point:SP_4906,Joulin,27
+2291973,19:09:00,19:09:10,stop_point:SP_3681,Route d'Espagne,28
+2291973,19:09:00,19:09:10,stop_point:SP_2892,IUC,29
+2291973,19:10:00,19:10:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291973,19:10:00,19:10:10,stop_point:SP_2663,Oncopole Courrière,31
+2291973,19:11:00,19:11:10,stop_point:SP_3140,Oncopole Courrière,32
+2291974,18:40:00,18:40:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291974,18:41:00,18:41:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291974,18:42:00,18:42:10,stop_point:SP_131,Bascule - Seycheron,3
+2291974,18:43:00,18:43:10,stop_point:SP_3370,Naurouze,4
+2291974,18:44:00,18:44:10,stop_point:SP_4456,Oratoire,5
+2291974,18:46:00,18:46:10,stop_point:SP_5638,Caulet,6
+2291974,18:46:00,18:46:10,stop_point:SP_4891,Benozzi,7
+2291974,18:48:00,18:48:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291974,18:49:00,18:49:10,stop_point:SP_4925,Sévérac,9
+2291974,18:50:00,18:50:10,stop_point:SP_4922,Saint Granier,10
+2291974,18:51:00,18:51:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291974,18:52:00,18:52:10,stop_point:SP_5071,Solidarité,12
+2291974,18:54:00,18:54:10,stop_point:SP_2196,St-Exupéry,13
+2291974,18:58:00,18:58:10,stop_point:SP_346,Grynfogel,14
+2291974,19:00:00,19:00:10,stop_point:SP_3076,Phidias,15
+2291974,19:01:00,19:01:10,stop_point:SP_905,Vandel,16
+2291974,19:02:00,19:02:10,stop_point:SP_5067,Déodat Roché,17
+2291974,19:03:00,19:03:10,stop_point:SP_2122,Mounède,18
+2291974,19:04:00,19:04:10,stop_point:SP_1867,Mesplé,19
+2291974,19:06:00,19:06:10,stop_point:SP_2054,Basso Cambo,20
+2291974,19:07:00,19:07:10,stop_point:SP_1298,Place Bouillière,21
+2291974,19:10:00,19:10:10,stop_point:SP_5,Desnos,22
+2291974,19:11:00,19:11:10,stop_point:SP_334,Ourliac,23
+2291974,19:12:00,19:12:10,stop_point:SP_5102,Lestang,24
+2291974,19:13:00,19:13:10,stop_point:SP_1357,René Valmy,25
+2291974,19:14:00,19:14:10,stop_point:SP_2042,Eisenhower Est,26
+2291974,19:18:00,19:18:10,stop_point:SP_4906,Joulin,27
+2291974,19:19:00,19:19:10,stop_point:SP_3681,Route d'Espagne,28
+2291974,19:19:00,19:19:10,stop_point:SP_2892,IUC,29
+2291974,19:20:00,19:20:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291974,19:20:00,19:20:10,stop_point:SP_2663,Oncopole Courrière,31
+2291974,19:21:00,19:21:10,stop_point:SP_3140,Oncopole Courrière,32
+2291975,18:50:00,18:50:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291975,18:51:00,18:51:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291975,18:52:00,18:52:10,stop_point:SP_131,Bascule - Seycheron,3
+2291975,18:53:00,18:53:10,stop_point:SP_3370,Naurouze,4
+2291975,18:54:00,18:54:10,stop_point:SP_4456,Oratoire,5
+2291975,18:56:00,18:56:10,stop_point:SP_5638,Caulet,6
+2291975,18:56:00,18:56:10,stop_point:SP_4891,Benozzi,7
+2291975,18:58:00,18:58:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291975,18:59:00,18:59:10,stop_point:SP_4925,Sévérac,9
+2291975,19:00:00,19:00:10,stop_point:SP_4922,Saint Granier,10
+2291975,19:01:00,19:01:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291975,19:02:00,19:02:10,stop_point:SP_5071,Solidarité,12
+2291975,19:04:00,19:04:10,stop_point:SP_2196,St-Exupéry,13
+2291975,19:08:00,19:08:10,stop_point:SP_346,Grynfogel,14
+2291975,19:10:00,19:10:10,stop_point:SP_3076,Phidias,15
+2291975,19:11:00,19:11:10,stop_point:SP_905,Vandel,16
+2291975,19:12:00,19:12:10,stop_point:SP_5067,Déodat Roché,17
+2291975,19:13:00,19:13:10,stop_point:SP_2122,Mounède,18
+2291975,19:14:00,19:14:10,stop_point:SP_1867,Mesplé,19
+2291975,19:16:00,19:16:10,stop_point:SP_2054,Basso Cambo,20
+2291975,19:17:00,19:17:10,stop_point:SP_1298,Place Bouillière,21
+2291975,19:20:00,19:20:10,stop_point:SP_5,Desnos,22
+2291975,19:21:00,19:21:10,stop_point:SP_334,Ourliac,23
+2291975,19:22:00,19:22:10,stop_point:SP_5102,Lestang,24
+2291975,19:23:00,19:23:10,stop_point:SP_1357,René Valmy,25
+2291975,19:24:00,19:24:10,stop_point:SP_2042,Eisenhower Est,26
+2291975,19:28:00,19:28:10,stop_point:SP_4906,Joulin,27
+2291975,19:29:00,19:29:10,stop_point:SP_3681,Route d'Espagne,28
+2291975,19:29:00,19:29:10,stop_point:SP_2892,IUC,29
+2291975,19:30:00,19:30:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291975,19:30:00,19:30:10,stop_point:SP_2663,Oncopole Courrière,31
+2291975,19:31:00,19:31:10,stop_point:SP_3140,Oncopole Courrière,32
+2291976,19:00:00,19:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291976,19:01:00,19:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291976,19:02:00,19:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291976,19:03:00,19:03:10,stop_point:SP_3370,Naurouze,4
+2291976,19:04:00,19:04:10,stop_point:SP_4456,Oratoire,5
+2291976,19:06:00,19:06:10,stop_point:SP_5638,Caulet,6
+2291976,19:06:00,19:06:10,stop_point:SP_4891,Benozzi,7
+2291976,19:08:00,19:08:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291976,19:09:00,19:09:10,stop_point:SP_4925,Sévérac,9
+2291976,19:10:00,19:10:10,stop_point:SP_4922,Saint Granier,10
+2291976,19:11:00,19:11:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291976,19:12:00,19:12:10,stop_point:SP_5071,Solidarité,12
+2291976,19:14:00,19:14:10,stop_point:SP_2196,St-Exupéry,13
+2291976,19:18:00,19:18:10,stop_point:SP_346,Grynfogel,14
+2291976,19:20:00,19:20:10,stop_point:SP_3076,Phidias,15
+2291976,19:21:00,19:21:10,stop_point:SP_905,Vandel,16
+2291976,19:22:00,19:22:10,stop_point:SP_5067,Déodat Roché,17
+2291976,19:23:00,19:23:10,stop_point:SP_2122,Mounède,18
+2291976,19:24:00,19:24:10,stop_point:SP_1867,Mesplé,19
+2291976,19:26:00,19:26:10,stop_point:SP_2054,Basso Cambo,20
+2291976,19:27:00,19:27:10,stop_point:SP_1298,Place Bouillière,21
+2291976,19:30:00,19:30:10,stop_point:SP_5,Desnos,22
+2291976,19:31:00,19:31:10,stop_point:SP_334,Ourliac,23
+2291976,19:32:00,19:32:10,stop_point:SP_5102,Lestang,24
+2291976,19:33:00,19:33:10,stop_point:SP_1357,René Valmy,25
+2291976,19:34:00,19:34:10,stop_point:SP_2042,Eisenhower Est,26
+2291976,19:38:00,19:38:10,stop_point:SP_4906,Joulin,27
+2291976,19:39:00,19:39:10,stop_point:SP_3681,Route d'Espagne,28
+2291976,19:39:00,19:39:10,stop_point:SP_2892,IUC,29
+2291976,19:40:00,19:40:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291976,19:40:00,19:40:10,stop_point:SP_2663,Oncopole Courrière,31
+2291976,19:41:00,19:41:10,stop_point:SP_3140,Oncopole Courrière,32
+2291977,19:30:00,19:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291977,19:31:00,19:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291977,19:32:00,19:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291977,19:33:00,19:33:10,stop_point:SP_3370,Naurouze,4
+2291977,19:34:00,19:34:10,stop_point:SP_4456,Oratoire,5
+2291977,19:36:00,19:36:10,stop_point:SP_5638,Caulet,6
+2291977,19:36:00,19:36:10,stop_point:SP_4891,Benozzi,7
+2291977,19:38:00,19:38:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291977,19:39:00,19:39:10,stop_point:SP_4925,Sévérac,9
+2291977,19:40:00,19:40:10,stop_point:SP_4922,Saint Granier,10
+2291977,19:41:00,19:41:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291977,19:42:00,19:42:10,stop_point:SP_5071,Solidarité,12
+2291977,19:44:00,19:44:10,stop_point:SP_2196,St-Exupéry,13
+2291977,19:48:00,19:48:10,stop_point:SP_346,Grynfogel,14
+2291977,19:49:00,19:49:10,stop_point:SP_3076,Phidias,15
+2291977,19:50:00,19:50:10,stop_point:SP_905,Vandel,16
+2291977,19:52:00,19:52:10,stop_point:SP_5067,Déodat Roché,17
+2291977,19:53:00,19:53:10,stop_point:SP_2122,Mounède,18
+2291977,19:53:00,19:53:10,stop_point:SP_1867,Mesplé,19
+2291977,19:55:00,19:55:10,stop_point:SP_2054,Basso Cambo,20
+2291977,19:56:00,19:56:10,stop_point:SP_1298,Place Bouillière,21
+2291977,19:59:00,19:59:10,stop_point:SP_5,Desnos,22
+2291977,20:00:00,20:00:10,stop_point:SP_334,Ourliac,23
+2291977,20:01:00,20:01:10,stop_point:SP_5102,Lestang,24
+2291977,20:02:00,20:02:10,stop_point:SP_1357,René Valmy,25
+2291977,20:03:00,20:03:10,stop_point:SP_2042,Eisenhower Est,26
+2291977,20:07:00,20:07:10,stop_point:SP_4906,Joulin,27
+2291977,20:08:00,20:08:10,stop_point:SP_3681,Route d'Espagne,28
+2291977,20:08:00,20:08:10,stop_point:SP_2892,IUC,29
+2291977,20:09:00,20:09:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291977,20:09:00,20:09:10,stop_point:SP_2663,Oncopole Courrière,31
+2291977,20:10:00,20:10:10,stop_point:SP_3140,Oncopole Courrière,32
+2291978,20:00:00,20:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291978,20:01:00,20:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291978,20:02:00,20:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291978,20:03:00,20:03:10,stop_point:SP_3370,Naurouze,4
+2291978,20:04:00,20:04:10,stop_point:SP_4456,Oratoire,5
+2291978,20:06:00,20:06:10,stop_point:SP_5638,Caulet,6
+2291978,20:06:00,20:06:10,stop_point:SP_4891,Benozzi,7
+2291978,20:08:00,20:08:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291978,20:09:00,20:09:10,stop_point:SP_4925,Sévérac,9
+2291978,20:10:00,20:10:10,stop_point:SP_4922,Saint Granier,10
+2291978,20:10:00,20:10:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291978,20:11:00,20:11:10,stop_point:SP_5071,Solidarité,12
+2291978,20:13:00,20:13:10,stop_point:SP_2196,St-Exupéry,13
+2291978,20:17:00,20:17:10,stop_point:SP_346,Grynfogel,14
+2291978,20:18:00,20:18:10,stop_point:SP_3076,Phidias,15
+2291978,20:19:00,20:19:10,stop_point:SP_905,Vandel,16
+2291978,20:21:00,20:21:10,stop_point:SP_5067,Déodat Roché,17
+2291978,20:22:00,20:22:10,stop_point:SP_2122,Mounède,18
+2291978,20:22:00,20:22:10,stop_point:SP_1867,Mesplé,19
+2291978,20:24:00,20:24:10,stop_point:SP_2054,Basso Cambo,20
+2291978,20:25:00,20:25:10,stop_point:SP_1298,Place Bouillière,21
+2291978,20:28:00,20:28:10,stop_point:SP_5,Desnos,22
+2291978,20:29:00,20:29:10,stop_point:SP_334,Ourliac,23
+2291978,20:30:00,20:30:10,stop_point:SP_5102,Lestang,24
+2291978,20:31:00,20:31:10,stop_point:SP_1357,René Valmy,25
+2291978,20:32:00,20:32:10,stop_point:SP_2042,Eisenhower Est,26
+2291978,20:36:00,20:36:10,stop_point:SP_4906,Joulin,27
+2291978,20:37:00,20:37:10,stop_point:SP_3681,Route d'Espagne,28
+2291978,20:37:00,20:37:10,stop_point:SP_2892,IUC,29
+2291978,20:38:00,20:38:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291978,20:38:00,20:38:10,stop_point:SP_2663,Oncopole Courrière,31
+2291978,20:39:00,20:39:10,stop_point:SP_3140,Oncopole Courrière,32
+2291979,20:30:00,20:30:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291979,20:31:00,20:31:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291979,20:32:00,20:32:10,stop_point:SP_131,Bascule - Seycheron,3
+2291979,20:33:00,20:33:10,stop_point:SP_3370,Naurouze,4
+2291979,20:34:00,20:34:10,stop_point:SP_4456,Oratoire,5
+2291979,20:36:00,20:36:10,stop_point:SP_5638,Caulet,6
+2291979,20:36:00,20:36:10,stop_point:SP_4891,Benozzi,7
+2291979,20:38:00,20:38:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291979,20:39:00,20:39:10,stop_point:SP_4925,Sévérac,9
+2291979,20:40:00,20:40:10,stop_point:SP_4922,Saint Granier,10
+2291979,20:40:00,20:40:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291979,20:41:00,20:41:10,stop_point:SP_5071,Solidarité,12
+2291979,20:43:00,20:43:10,stop_point:SP_2196,St-Exupéry,13
+2291979,20:47:00,20:47:10,stop_point:SP_346,Grynfogel,14
+2291979,20:48:00,20:48:10,stop_point:SP_3076,Phidias,15
+2291979,20:49:00,20:49:10,stop_point:SP_905,Vandel,16
+2291979,20:50:00,20:50:10,stop_point:SP_5067,Déodat Roché,17
+2291979,20:51:00,20:51:10,stop_point:SP_2122,Mounède,18
+2291979,20:52:00,20:52:10,stop_point:SP_1867,Mesplé,19
+2291979,20:53:00,20:53:10,stop_point:SP_2054,Basso Cambo,20
+2291979,20:54:00,20:54:10,stop_point:SP_1298,Place Bouillière,21
+2291979,20:57:00,20:57:10,stop_point:SP_5,Desnos,22
+2291979,20:58:00,20:58:10,stop_point:SP_334,Ourliac,23
+2291979,20:59:00,20:59:10,stop_point:SP_5102,Lestang,24
+2291979,21:00:00,21:00:10,stop_point:SP_1357,René Valmy,25
+2291979,21:01:00,21:01:10,stop_point:SP_2042,Eisenhower Est,26
+2291979,21:05:00,21:05:10,stop_point:SP_4906,Joulin,27
+2291979,21:06:00,21:06:10,stop_point:SP_3681,Route d'Espagne,28
+2291979,21:06:00,21:06:10,stop_point:SP_2892,IUC,29
+2291979,21:07:00,21:07:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291979,21:07:00,21:07:10,stop_point:SP_2663,Oncopole Courrière,31
+2291979,21:08:00,21:08:10,stop_point:SP_3140,Oncopole Courrière,32
+2291980,21:00:00,21:00:10,stop_point:SP_3198,Colomiers Gare SNCF,1
+2291980,21:01:00,21:01:10,stop_point:SP_4450,Médiathèque Pavillon Blanc,2
+2291980,21:02:00,21:02:10,stop_point:SP_131,Bascule - Seycheron,3
+2291980,21:02:00,21:02:10,stop_point:SP_3370,Naurouze,4
+2291980,21:04:00,21:04:10,stop_point:SP_4456,Oratoire,5
+2291980,21:05:00,21:05:10,stop_point:SP_5638,Caulet,6
+2291980,21:05:00,21:05:10,stop_point:SP_4891,Benozzi,7
+2291980,21:07:00,21:07:10,stop_point:SP_4892,Colomiers Ramassiers Gare SNCF,8
+2291980,21:08:00,21:08:10,stop_point:SP_4925,Sévérac,9
+2291980,21:09:00,21:09:10,stop_point:SP_4922,Saint Granier,10
+2291980,21:09:00,21:09:10,stop_point:SP_4926,Fabre d'Eglantine,11
+2291980,21:10:00,21:10:10,stop_point:SP_5071,Solidarité,12
+2291980,21:12:00,21:12:10,stop_point:SP_2196,St-Exupéry,13
+2291980,21:16:00,21:16:10,stop_point:SP_346,Grynfogel,14
+2291980,21:17:00,21:17:10,stop_point:SP_3076,Phidias,15
+2291980,21:18:00,21:18:10,stop_point:SP_905,Vandel,16
+2291980,21:19:00,21:19:10,stop_point:SP_5067,Déodat Roché,17
+2291980,21:20:00,21:20:10,stop_point:SP_2122,Mounède,18
+2291980,21:21:00,21:21:10,stop_point:SP_1867,Mesplé,19
+2291980,21:22:00,21:22:10,stop_point:SP_2054,Basso Cambo,20
+2291980,21:23:00,21:23:10,stop_point:SP_1298,Place Bouillière,21
+2291980,21:25:00,21:25:10,stop_point:SP_5,Desnos,22
+2291980,21:26:00,21:26:10,stop_point:SP_334,Ourliac,23
+2291980,21:26:00,21:26:10,stop_point:SP_5102,Lestang,24
+2291980,21:27:00,21:27:10,stop_point:SP_1357,René Valmy,25
+2291980,21:28:00,21:28:10,stop_point:SP_2042,Eisenhower Est,26
+2291980,21:32:00,21:32:10,stop_point:SP_4906,Joulin,27
+2291980,21:33:00,21:33:10,stop_point:SP_3681,Route d'Espagne,28
+2291980,21:33:00,21:33:10,stop_point:SP_2892,IUC,29
+2291980,21:34:00,21:34:10,stop_point:SP_5096,Oncopole - Lise Enjalbert,30
+2291980,21:34:00,21:34:10,stop_point:SP_2663,Oncopole Courrière,31
+2291980,21:35:00,21:35:10,stop_point:SP_3140,Oncopole Courrière,32

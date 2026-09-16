@@ -1,0 +1,232 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2402273,06:10:00,06:10:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402273,06:12:00,06:12:10,stop_point:SP_4338,Peyramont,2
+2402273,06:20:00,06:20:10,stop_point:SP_4598,La Carrère,3
+2402273,06:21:00,06:21:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402273,06:22:00,06:22:10,stop_point:SP_4593,Mairie Labastidette,5
+2402273,06:23:00,06:23:10,stop_point:SP_4607,Banqué,6
+2402273,06:23:00,06:23:10,stop_point:SP_4587,La Carrère,7
+2402273,06:24:00,06:24:10,stop_point:SP_4589,Denton,8
+2402273,06:25:00,06:25:10,stop_point:SP_4588,Cabanac,9
+2402273,06:28:00,06:28:10,stop_point:SP_4602,Grand Place,10
+2402273,06:29:00,06:29:10,stop_point:SP_4608,St-Clar Mairie,11
+2402274,07:00:00,07:00:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402274,07:02:00,07:02:10,stop_point:SP_4338,Peyramont,2
+2402274,07:10:00,07:10:10,stop_point:SP_4598,La Carrère,3
+2402274,07:11:00,07:11:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402274,07:12:00,07:12:10,stop_point:SP_4593,Mairie Labastidette,5
+2402274,07:13:00,07:13:10,stop_point:SP_4607,Banqué,6
+2402274,07:13:00,07:13:10,stop_point:SP_4587,La Carrère,7
+2402274,07:14:00,07:14:10,stop_point:SP_4589,Denton,8
+2402274,07:15:00,07:15:10,stop_point:SP_4588,Cabanac,9
+2402274,07:19:00,07:19:10,stop_point:SP_4602,Grand Place,10
+2402274,07:20:00,07:20:10,stop_point:SP_4608,St-Clar Mairie,11
+2402275,08:00:00,08:00:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402275,08:02:00,08:02:10,stop_point:SP_4338,Peyramont,2
+2402275,08:11:00,08:11:10,stop_point:SP_4598,La Carrère,3
+2402275,08:12:00,08:12:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402275,08:13:00,08:13:10,stop_point:SP_4593,Mairie Labastidette,5
+2402275,08:14:00,08:14:10,stop_point:SP_4607,Banqué,6
+2402275,08:14:00,08:14:10,stop_point:SP_4587,La Carrère,7
+2402275,08:15:00,08:15:10,stop_point:SP_4589,Denton,8
+2402275,08:16:00,08:16:10,stop_point:SP_4588,Cabanac,9
+2402275,08:19:00,08:19:10,stop_point:SP_4602,Grand Place,10
+2402275,08:20:00,08:20:10,stop_point:SP_4608,St-Clar Mairie,11
+2402276,09:00:00,09:00:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402276,09:02:00,09:02:10,stop_point:SP_4338,Peyramont,2
+2402276,09:11:00,09:11:10,stop_point:SP_4598,La Carrère,3
+2402276,09:12:00,09:12:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402276,09:13:00,09:13:10,stop_point:SP_4593,Mairie Labastidette,5
+2402276,09:14:00,09:14:10,stop_point:SP_4607,Banqué,6
+2402276,09:14:00,09:14:10,stop_point:SP_4587,La Carrère,7
+2402276,09:15:00,09:15:10,stop_point:SP_4589,Denton,8
+2402276,09:16:00,09:16:10,stop_point:SP_4588,Cabanac,9
+2402276,09:19:00,09:19:10,stop_point:SP_4602,Grand Place,10
+2402276,09:20:00,09:20:10,stop_point:SP_4608,St-Clar Mairie,11
+2402277,11:20:00,11:20:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402277,11:22:00,11:22:10,stop_point:SP_4338,Peyramont,2
+2402277,11:31:00,11:31:10,stop_point:SP_4598,La Carrère,3
+2402277,11:32:00,11:32:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402277,11:33:00,11:33:10,stop_point:SP_4593,Mairie Labastidette,5
+2402277,11:34:00,11:34:10,stop_point:SP_4607,Banqué,6
+2402277,11:34:00,11:34:10,stop_point:SP_4587,La Carrère,7
+2402277,11:35:00,11:35:10,stop_point:SP_4589,Denton,8
+2402277,11:36:00,11:36:10,stop_point:SP_4588,Cabanac,9
+2402277,11:39:00,11:39:10,stop_point:SP_4602,Grand Place,10
+2402277,11:40:00,11:40:10,stop_point:SP_4608,St-Clar Mairie,11
+2402278,12:10:00,12:10:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402278,12:12:00,12:12:10,stop_point:SP_4338,Peyramont,2
+2402278,12:21:00,12:21:10,stop_point:SP_4598,La Carrère,3
+2402278,12:22:00,12:22:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402278,12:23:00,12:23:10,stop_point:SP_4593,Mairie Labastidette,5
+2402278,12:24:00,12:24:10,stop_point:SP_4607,Banqué,6
+2402278,12:24:00,12:24:10,stop_point:SP_4587,La Carrère,7
+2402278,12:25:00,12:25:10,stop_point:SP_4589,Denton,8
+2402278,12:26:00,12:26:10,stop_point:SP_4588,Cabanac,9
+2402278,12:29:00,12:29:10,stop_point:SP_4602,Grand Place,10
+2402278,12:30:00,12:30:10,stop_point:SP_4608,St-Clar Mairie,11
+2402279,13:05:00,13:05:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402279,13:07:00,13:07:10,stop_point:SP_4338,Peyramont,2
+2402279,13:16:00,13:16:10,stop_point:SP_4598,La Carrère,3
+2402279,13:17:00,13:17:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402279,13:18:00,13:18:10,stop_point:SP_4593,Mairie Labastidette,5
+2402279,13:19:00,13:19:10,stop_point:SP_4607,Banqué,6
+2402279,13:19:00,13:19:10,stop_point:SP_4587,La Carrère,7
+2402279,13:20:00,13:20:10,stop_point:SP_4589,Denton,8
+2402279,13:21:00,13:21:10,stop_point:SP_4588,Cabanac,9
+2402279,13:24:00,13:24:10,stop_point:SP_4602,Grand Place,10
+2402279,13:25:00,13:25:10,stop_point:SP_4608,St-Clar Mairie,11
+2402280,16:35:00,16:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402280,16:37:00,16:37:10,stop_point:SP_4338,Peyramont,2
+2402280,16:47:00,16:47:10,stop_point:SP_4598,La Carrère,3
+2402280,16:48:00,16:48:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402280,16:49:00,16:49:10,stop_point:SP_4593,Mairie Labastidette,5
+2402280,16:50:00,16:50:10,stop_point:SP_4607,Banqué,6
+2402280,16:50:00,16:50:10,stop_point:SP_4587,La Carrère,7
+2402280,16:51:00,16:51:10,stop_point:SP_4589,Denton,8
+2402280,16:52:00,16:52:10,stop_point:SP_4588,Cabanac,9
+2402280,16:55:00,16:55:10,stop_point:SP_4602,Grand Place,10
+2402280,16:56:00,16:56:10,stop_point:SP_4608,St-Clar Mairie,11
+2402281,17:25:00,17:25:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402281,17:28:00,17:28:10,stop_point:SP_4338,Peyramont,2
+2402281,17:39:00,17:39:10,stop_point:SP_4598,La Carrère,3
+2402281,17:41:00,17:41:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402281,17:42:00,17:42:10,stop_point:SP_4593,Mairie Labastidette,5
+2402281,17:43:00,17:43:10,stop_point:SP_4607,Banqué,6
+2402281,17:43:00,17:43:10,stop_point:SP_4587,La Carrère,7
+2402281,17:44:00,17:44:10,stop_point:SP_4589,Denton,8
+2402281,17:45:00,17:45:10,stop_point:SP_4588,Cabanac,9
+2402281,17:49:00,17:49:10,stop_point:SP_4602,Grand Place,10
+2402281,17:50:00,17:50:10,stop_point:SP_4608,St-Clar Mairie,11
+2402282,18:25:00,18:25:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402282,18:27:00,18:27:10,stop_point:SP_4338,Peyramont,2
+2402282,18:37:00,18:37:10,stop_point:SP_4598,La Carrère,3
+2402282,18:38:00,18:38:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402282,18:39:00,18:39:10,stop_point:SP_4593,Mairie Labastidette,5
+2402282,18:40:00,18:40:10,stop_point:SP_4607,Banqué,6
+2402282,18:40:00,18:40:10,stop_point:SP_4587,La Carrère,7
+2402282,18:41:00,18:41:10,stop_point:SP_4589,Denton,8
+2402282,18:42:00,18:42:10,stop_point:SP_4588,Cabanac,9
+2402282,18:45:00,18:45:10,stop_point:SP_4602,Grand Place,10
+2402282,18:46:00,18:46:10,stop_point:SP_4608,St-Clar Mairie,11
+2402283,19:15:00,19:15:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2402283,19:17:00,19:17:10,stop_point:SP_4338,Peyramont,2
+2402283,19:26:00,19:26:10,stop_point:SP_4598,La Carrère,3
+2402283,19:27:00,19:27:10,stop_point:SP_4610,Ecoles Labastidette,4
+2402283,19:28:00,19:28:10,stop_point:SP_4593,Mairie Labastidette,5
+2402283,19:29:00,19:29:10,stop_point:SP_4607,Banqué,6
+2402283,19:29:00,19:29:10,stop_point:SP_4587,La Carrère,7
+2402283,19:30:00,19:30:10,stop_point:SP_4589,Denton,8
+2402283,19:31:00,19:31:10,stop_point:SP_4588,Cabanac,9
+2402283,19:34:00,19:34:10,stop_point:SP_4602,Grand Place,10
+2402283,19:34:00,19:34:10,stop_point:SP_4608,St-Clar Mairie,11
+2402284,06:35:00,06:35:10,stop_point:SP_4608,St-Clar Mairie,1
+2402284,06:38:00,06:38:10,stop_point:SP_4600,Cabanac,2
+2402284,06:38:00,06:38:10,stop_point:SP_4584,Denton,3
+2402284,06:39:00,06:39:10,stop_point:SP_4598,La Carrère,4
+2402284,06:41:00,06:41:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402284,06:42:00,06:42:10,stop_point:SP_4593,Mairie Labastidette,6
+2402284,06:43:00,06:43:10,stop_point:SP_4607,Banqué,7
+2402284,06:43:00,06:43:10,stop_point:SP_4587,La Carrère,8
+2402284,06:51:00,06:51:10,stop_point:SP_4419,Peyramont,9
+2402284,06:52:00,06:52:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402285,07:25:00,07:25:10,stop_point:SP_4608,St-Clar Mairie,1
+2402285,07:28:00,07:28:10,stop_point:SP_4600,Cabanac,2
+2402285,07:29:00,07:29:10,stop_point:SP_4584,Denton,3
+2402285,07:30:00,07:30:10,stop_point:SP_4598,La Carrère,4
+2402285,07:33:00,07:33:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402285,07:34:00,07:34:10,stop_point:SP_4593,Mairie Labastidette,6
+2402285,07:35:00,07:35:10,stop_point:SP_4607,Banqué,7
+2402285,07:36:00,07:36:10,stop_point:SP_4587,La Carrère,8
+2402285,07:45:00,07:45:10,stop_point:SP_4419,Peyramont,9
+2402285,07:47:00,07:47:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402286,08:25:00,08:25:10,stop_point:SP_4608,St-Clar Mairie,1
+2402286,08:28:00,08:28:10,stop_point:SP_4600,Cabanac,2
+2402286,08:28:00,08:28:10,stop_point:SP_4584,Denton,3
+2402286,08:29:00,08:29:10,stop_point:SP_4598,La Carrère,4
+2402286,08:32:00,08:32:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402286,08:33:00,08:33:10,stop_point:SP_4593,Mairie Labastidette,6
+2402286,08:34:00,08:34:10,stop_point:SP_4607,Banqué,7
+2402286,08:34:00,08:34:10,stop_point:SP_4587,La Carrère,8
+2402286,08:42:00,08:42:10,stop_point:SP_4419,Peyramont,9
+2402286,08:43:00,08:43:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402287,09:25:00,09:25:10,stop_point:SP_4608,St-Clar Mairie,1
+2402287,09:28:00,09:28:10,stop_point:SP_4600,Cabanac,2
+2402287,09:28:00,09:28:10,stop_point:SP_4584,Denton,3
+2402287,09:29:00,09:29:10,stop_point:SP_4598,La Carrère,4
+2402287,09:32:00,09:32:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402287,09:33:00,09:33:10,stop_point:SP_4593,Mairie Labastidette,6
+2402287,09:34:00,09:34:10,stop_point:SP_4607,Banqué,7
+2402287,09:34:00,09:34:10,stop_point:SP_4587,La Carrère,8
+2402287,09:42:00,09:42:10,stop_point:SP_4419,Peyramont,9
+2402287,09:43:00,09:43:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402288,11:45:00,11:45:10,stop_point:SP_4608,St-Clar Mairie,1
+2402288,11:48:00,11:48:10,stop_point:SP_4600,Cabanac,2
+2402288,11:48:00,11:48:10,stop_point:SP_4584,Denton,3
+2402288,11:49:00,11:49:10,stop_point:SP_4598,La Carrère,4
+2402288,11:51:00,11:51:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402288,11:52:00,11:52:10,stop_point:SP_4593,Mairie Labastidette,6
+2402288,11:53:00,11:53:10,stop_point:SP_4607,Banqué,7
+2402288,11:53:00,11:53:10,stop_point:SP_4587,La Carrère,8
+2402288,12:01:00,12:01:10,stop_point:SP_4419,Peyramont,9
+2402288,12:02:00,12:02:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402289,12:35:00,12:35:10,stop_point:SP_4608,St-Clar Mairie,1
+2402289,12:38:00,12:38:10,stop_point:SP_4600,Cabanac,2
+2402289,12:38:00,12:38:10,stop_point:SP_4584,Denton,3
+2402289,12:39:00,12:39:10,stop_point:SP_4598,La Carrère,4
+2402289,12:41:00,12:41:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402289,12:42:00,12:42:10,stop_point:SP_4593,Mairie Labastidette,6
+2402289,12:43:00,12:43:10,stop_point:SP_4607,Banqué,7
+2402289,12:43:00,12:43:10,stop_point:SP_4587,La Carrère,8
+2402289,12:51:00,12:51:10,stop_point:SP_4419,Peyramont,9
+2402289,12:52:00,12:52:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402290,13:30:00,13:30:10,stop_point:SP_4608,St-Clar Mairie,1
+2402290,13:33:00,13:33:10,stop_point:SP_4600,Cabanac,2
+2402290,13:33:00,13:33:10,stop_point:SP_4584,Denton,3
+2402290,13:34:00,13:34:10,stop_point:SP_4598,La Carrère,4
+2402290,13:36:00,13:36:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402290,13:37:00,13:37:10,stop_point:SP_4593,Mairie Labastidette,6
+2402290,13:37:00,13:37:10,stop_point:SP_4607,Banqué,7
+2402290,13:38:00,13:38:10,stop_point:SP_4587,La Carrère,8
+2402290,13:45:00,13:45:10,stop_point:SP_4419,Peyramont,9
+2402290,13:46:00,13:46:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402291,17:00:00,17:00:10,stop_point:SP_4608,St-Clar Mairie,1
+2402291,17:03:00,17:03:10,stop_point:SP_4600,Cabanac,2
+2402291,17:03:00,17:03:10,stop_point:SP_4584,Denton,3
+2402291,17:04:00,17:04:10,stop_point:SP_4598,La Carrère,4
+2402291,17:06:00,17:06:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402291,17:07:00,17:07:10,stop_point:SP_4593,Mairie Labastidette,6
+2402291,17:08:00,17:08:10,stop_point:SP_4607,Banqué,7
+2402291,17:08:00,17:08:10,stop_point:SP_4587,La Carrère,8
+2402291,17:16:00,17:16:10,stop_point:SP_4419,Peyramont,9
+2402291,17:17:00,17:17:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402292,17:55:00,17:55:10,stop_point:SP_4608,St-Clar Mairie,1
+2402292,17:58:00,17:58:10,stop_point:SP_4600,Cabanac,2
+2402292,17:58:00,17:58:10,stop_point:SP_4584,Denton,3
+2402292,17:59:00,17:59:10,stop_point:SP_4598,La Carrère,4
+2402292,18:01:00,18:01:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402292,18:02:00,18:02:10,stop_point:SP_4593,Mairie Labastidette,6
+2402292,18:03:00,18:03:10,stop_point:SP_4607,Banqué,7
+2402292,18:03:00,18:03:10,stop_point:SP_4587,La Carrère,8
+2402292,18:11:00,18:11:10,stop_point:SP_4419,Peyramont,9
+2402292,18:12:00,18:12:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402293,18:50:00,18:50:10,stop_point:SP_4608,St-Clar Mairie,1
+2402293,18:53:00,18:53:10,stop_point:SP_4600,Cabanac,2
+2402293,18:53:00,18:53:10,stop_point:SP_4584,Denton,3
+2402293,18:54:00,18:54:10,stop_point:SP_4598,La Carrère,4
+2402293,18:56:00,18:56:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402293,18:57:00,18:57:10,stop_point:SP_4593,Mairie Labastidette,6
+2402293,18:58:00,18:58:10,stop_point:SP_4607,Banqué,7
+2402293,18:58:00,18:58:10,stop_point:SP_4587,La Carrère,8
+2402293,19:06:00,19:06:10,stop_point:SP_4419,Peyramont,9
+2402293,19:07:00,19:07:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10
+2402294,19:40:00,19:40:10,stop_point:SP_4608,St-Clar Mairie,1
+2402294,19:43:00,19:43:10,stop_point:SP_4600,Cabanac,2
+2402294,19:43:00,19:43:10,stop_point:SP_4584,Denton,3
+2402294,19:44:00,19:44:10,stop_point:SP_4598,La Carrère,4
+2402294,19:45:00,19:45:10,stop_point:SP_4610,Ecoles Labastidette,5
+2402294,19:46:00,19:46:10,stop_point:SP_4593,Mairie Labastidette,6
+2402294,19:46:00,19:46:10,stop_point:SP_4607,Banqué,7
+2402294,19:47:00,19:47:10,stop_point:SP_4587,La Carrère,8
+2402294,19:54:00,19:54:10,stop_point:SP_4419,Peyramont,9
+2402294,19:55:00,19:55:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,10

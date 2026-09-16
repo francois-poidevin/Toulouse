@@ -1,0 +1,141 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2376874,21:20:00,21:20:10,stop_point:SP_3132,Arènes,1
+2376874,21:25:00,21:25:10,stop_point:SP_325,Zénith,2
+2376874,21:27:00,21:27:10,stop_point:SP_3548,Cartoucherie,3
+2376874,21:28:00,21:28:10,stop_point:SP_2242,Chardonnet,4
+2376874,21:31:00,21:31:10,stop_point:SP_214,Arènes Romaines,5
+2376874,21:33:00,21:33:10,stop_point:SP_2466,Ancely,6
+2376874,21:36:00,21:36:10,stop_point:SP_21,Servanty-Airbus,7
+2376874,21:39:00,21:39:10,stop_point:SP_1921,Dewoitine,8
+2376874,21:42:00,21:42:10,stop_point:SP_297,Daurat,9
+2376874,21:45:00,21:45:10,stop_point:SP_724,Aéroport,10
+2376875,21:50:00,21:50:10,stop_point:SP_3132,Arènes,1
+2376875,21:55:00,21:55:10,stop_point:SP_325,Zénith,2
+2376875,21:57:00,21:57:10,stop_point:SP_3548,Cartoucherie,3
+2376875,21:58:00,21:58:10,stop_point:SP_2242,Chardonnet,4
+2376875,22:01:00,22:01:10,stop_point:SP_214,Arènes Romaines,5
+2376875,22:03:00,22:03:10,stop_point:SP_2466,Ancely,6
+2376875,22:06:00,22:06:10,stop_point:SP_21,Servanty-Airbus,7
+2376875,22:09:00,22:09:10,stop_point:SP_1921,Dewoitine,8
+2376875,22:12:00,22:12:10,stop_point:SP_297,Daurat,9
+2376875,22:15:00,22:15:10,stop_point:SP_724,Aéroport,10
+2376876,22:20:00,22:20:10,stop_point:SP_3132,Arènes,1
+2376876,22:25:00,22:25:10,stop_point:SP_325,Zénith,2
+2376876,22:27:00,22:27:10,stop_point:SP_3548,Cartoucherie,3
+2376876,22:28:00,22:28:10,stop_point:SP_2242,Chardonnet,4
+2376876,22:31:00,22:31:10,stop_point:SP_214,Arènes Romaines,5
+2376876,22:33:00,22:33:10,stop_point:SP_2466,Ancely,6
+2376876,22:36:00,22:36:10,stop_point:SP_21,Servanty-Airbus,7
+2376876,22:39:00,22:39:10,stop_point:SP_1921,Dewoitine,8
+2376876,22:42:00,22:42:10,stop_point:SP_297,Daurat,9
+2376876,22:45:00,22:45:10,stop_point:SP_724,Aéroport,10
+2376877,22:50:00,22:50:10,stop_point:SP_3132,Arènes,1
+2376877,22:55:00,22:55:10,stop_point:SP_325,Zénith,2
+2376877,22:57:00,22:57:10,stop_point:SP_3548,Cartoucherie,3
+2376877,22:58:00,22:58:10,stop_point:SP_2242,Chardonnet,4
+2376877,23:01:00,23:01:10,stop_point:SP_214,Arènes Romaines,5
+2376877,23:03:00,23:03:10,stop_point:SP_2466,Ancely,6
+2376877,23:06:00,23:06:10,stop_point:SP_21,Servanty-Airbus,7
+2376877,23:09:00,23:09:10,stop_point:SP_1921,Dewoitine,8
+2376877,23:12:00,23:12:10,stop_point:SP_297,Daurat,9
+2376877,23:15:00,23:15:10,stop_point:SP_724,Aéroport,10
+2376878,23:20:00,23:20:10,stop_point:SP_3132,Arènes,1
+2376878,23:25:00,23:25:10,stop_point:SP_325,Zénith,2
+2376878,23:27:00,23:27:10,stop_point:SP_3548,Cartoucherie,3
+2376878,23:28:00,23:28:10,stop_point:SP_2242,Chardonnet,4
+2376878,23:31:00,23:31:10,stop_point:SP_214,Arènes Romaines,5
+2376878,23:33:00,23:33:10,stop_point:SP_2466,Ancely,6
+2376878,23:36:00,23:36:10,stop_point:SP_21,Servanty-Airbus,7
+2376878,23:39:00,23:39:10,stop_point:SP_1921,Dewoitine,8
+2376878,23:42:00,23:42:10,stop_point:SP_297,Daurat,9
+2376878,23:45:00,23:45:10,stop_point:SP_724,Aéroport,10
+2376879,23:50:00,23:50:10,stop_point:SP_3132,Arènes,1
+2376879,23:55:00,23:55:10,stop_point:SP_325,Zénith,2
+2376879,23:57:00,23:57:10,stop_point:SP_3548,Cartoucherie,3
+2376879,23:58:00,23:58:10,stop_point:SP_2242,Chardonnet,4
+2376879,24:01:00,24:01:10,stop_point:SP_214,Arènes Romaines,5
+2376879,24:03:00,24:03:10,stop_point:SP_2466,Ancely,6
+2376879,24:06:00,24:06:10,stop_point:SP_21,Servanty-Airbus,7
+2376879,24:09:00,24:09:10,stop_point:SP_1921,Dewoitine,8
+2376879,24:12:00,24:12:10,stop_point:SP_297,Daurat,9
+2376879,24:15:00,24:15:10,stop_point:SP_724,Aéroport,10
+2376880,24:25:00,24:25:10,stop_point:SP_3132,Arènes,1
+2376880,24:30:00,24:30:10,stop_point:SP_325,Zénith,2
+2376880,24:32:00,24:32:10,stop_point:SP_3548,Cartoucherie,3
+2376880,24:33:00,24:33:10,stop_point:SP_2242,Chardonnet,4
+2376880,24:36:00,24:36:10,stop_point:SP_214,Arènes Romaines,5
+2376880,24:38:00,24:38:10,stop_point:SP_2466,Ancely,6
+2376880,24:41:00,24:41:10,stop_point:SP_21,Servanty-Airbus,7
+2376880,24:44:00,24:44:10,stop_point:SP_1921,Dewoitine,8
+2376880,24:47:00,24:47:10,stop_point:SP_297,Daurat,9
+2376880,24:50:00,24:50:10,stop_point:SP_724,Aéroport,10
+2376881,20:55:00,20:55:10,stop_point:SP_724,Aéroport,1
+2376881,20:58:00,20:58:10,stop_point:SP_3199,Daurat,2
+2376881,21:00:00,21:00:10,stop_point:SP_197,Dewoitine,3
+2376881,21:03:00,21:03:10,stop_point:SP_2966,Aérospatiale,4
+2376881,21:06:00,21:06:10,stop_point:SP_2228,Ancely,5
+2376881,21:07:00,21:07:10,stop_point:SP_1198,Arènes Romaines,6
+2376881,21:10:00,21:10:10,stop_point:SP_1837,Chardonnet,7
+2376881,21:12:00,21:12:10,stop_point:SP_2084,Cartoucherie,8
+2376881,21:13:00,21:13:10,stop_point:SP_2059,Zénith,9
+2376881,21:17:00,21:17:10,stop_point:SP_3132,Arènes,10
+2376882,21:25:00,21:25:10,stop_point:SP_724,Aéroport,1
+2376882,21:28:00,21:28:10,stop_point:SP_3199,Daurat,2
+2376882,21:30:00,21:30:10,stop_point:SP_197,Dewoitine,3
+2376882,21:33:00,21:33:10,stop_point:SP_2966,Aérospatiale,4
+2376882,21:36:00,21:36:10,stop_point:SP_2228,Ancely,5
+2376882,21:37:00,21:37:10,stop_point:SP_1198,Arènes Romaines,6
+2376882,21:40:00,21:40:10,stop_point:SP_1837,Chardonnet,7
+2376882,21:42:00,21:42:10,stop_point:SP_2084,Cartoucherie,8
+2376882,21:43:00,21:43:10,stop_point:SP_2059,Zénith,9
+2376882,21:47:00,21:47:10,stop_point:SP_3132,Arènes,10
+2376883,21:55:00,21:55:10,stop_point:SP_724,Aéroport,1
+2376883,21:58:00,21:58:10,stop_point:SP_3199,Daurat,2
+2376883,22:00:00,22:00:10,stop_point:SP_197,Dewoitine,3
+2376883,22:03:00,22:03:10,stop_point:SP_2966,Aérospatiale,4
+2376883,22:06:00,22:06:10,stop_point:SP_2228,Ancely,5
+2376883,22:07:00,22:07:10,stop_point:SP_1198,Arènes Romaines,6
+2376883,22:10:00,22:10:10,stop_point:SP_1837,Chardonnet,7
+2376883,22:12:00,22:12:10,stop_point:SP_2084,Cartoucherie,8
+2376883,22:13:00,22:13:10,stop_point:SP_2059,Zénith,9
+2376883,22:17:00,22:17:10,stop_point:SP_3132,Arènes,10
+2376884,22:25:00,22:25:10,stop_point:SP_724,Aéroport,1
+2376884,22:28:00,22:28:10,stop_point:SP_3199,Daurat,2
+2376884,22:30:00,22:30:10,stop_point:SP_197,Dewoitine,3
+2376884,22:33:00,22:33:10,stop_point:SP_2966,Aérospatiale,4
+2376884,22:36:00,22:36:10,stop_point:SP_2228,Ancely,5
+2376884,22:37:00,22:37:10,stop_point:SP_1198,Arènes Romaines,6
+2376884,22:40:00,22:40:10,stop_point:SP_1837,Chardonnet,7
+2376884,22:42:00,22:42:10,stop_point:SP_2084,Cartoucherie,8
+2376884,22:43:00,22:43:10,stop_point:SP_2059,Zénith,9
+2376884,22:47:00,22:47:10,stop_point:SP_3132,Arènes,10
+2376885,22:55:00,22:55:10,stop_point:SP_724,Aéroport,1
+2376885,22:58:00,22:58:10,stop_point:SP_3199,Daurat,2
+2376885,23:00:00,23:00:10,stop_point:SP_197,Dewoitine,3
+2376885,23:03:00,23:03:10,stop_point:SP_2966,Aérospatiale,4
+2376885,23:06:00,23:06:10,stop_point:SP_2228,Ancely,5
+2376885,23:07:00,23:07:10,stop_point:SP_1198,Arènes Romaines,6
+2376885,23:10:00,23:10:10,stop_point:SP_1837,Chardonnet,7
+2376885,23:12:00,23:12:10,stop_point:SP_2084,Cartoucherie,8
+2376885,23:13:00,23:13:10,stop_point:SP_2059,Zénith,9
+2376885,23:17:00,23:17:10,stop_point:SP_3132,Arènes,10
+2376886,23:25:00,23:25:10,stop_point:SP_724,Aéroport,1
+2376886,23:28:00,23:28:10,stop_point:SP_3199,Daurat,2
+2376886,23:30:00,23:30:10,stop_point:SP_197,Dewoitine,3
+2376886,23:33:00,23:33:10,stop_point:SP_2966,Aérospatiale,4
+2376886,23:36:00,23:36:10,stop_point:SP_2228,Ancely,5
+2376886,23:37:00,23:37:10,stop_point:SP_1198,Arènes Romaines,6
+2376886,23:40:00,23:40:10,stop_point:SP_1837,Chardonnet,7
+2376886,23:42:00,23:42:10,stop_point:SP_2084,Cartoucherie,8
+2376886,23:43:00,23:43:10,stop_point:SP_2059,Zénith,9
+2376886,23:47:00,23:47:10,stop_point:SP_3132,Arènes,10
+2376887,24:00:00,24:00:10,stop_point:SP_724,Aéroport,1
+2376887,24:03:00,24:03:10,stop_point:SP_3199,Daurat,2
+2376887,24:05:00,24:05:10,stop_point:SP_197,Dewoitine,3
+2376887,24:08:00,24:08:10,stop_point:SP_2966,Aérospatiale,4
+2376887,24:11:00,24:11:10,stop_point:SP_2228,Ancely,5
+2376887,24:12:00,24:12:10,stop_point:SP_1198,Arènes Romaines,6
+2376887,24:15:00,24:15:10,stop_point:SP_1837,Chardonnet,7
+2376887,24:17:00,24:17:10,stop_point:SP_2084,Cartoucherie,8
+2376887,24:18:00,24:18:10,stop_point:SP_2059,Zénith,9
+2376887,24:22:00,24:22:10,stop_point:SP_3132,Arènes,10

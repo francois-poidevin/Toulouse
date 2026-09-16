@@ -1,0 +1,337 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2292754,06:05:00,06:05:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292754,06:06:00,06:06:10,stop_point:SP_4530,Moulin D'Augé,2
+2292754,06:08:00,06:08:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292754,06:09:00,06:09:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292754,06:09:00,06:09:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292754,06:10:00,06:10:10,stop_point:SP_4765,Bertoulots,6
+2292754,06:11:00,06:11:10,stop_point:SP_4772,La Petite Maymie,7
+2292754,06:13:00,06:13:10,stop_point:SP_4535,Les Vivans,8
+2292754,06:14:00,06:14:10,stop_point:SP_4531,Vernole,9
+2292754,06:15:00,06:15:10,stop_point:SP_4415,J. Lestrade,10
+2292754,06:16:00,06:16:10,stop_point:SP_554,Gaston Bonheur,11
+2292754,06:17:00,06:17:10,stop_point:SP_914,Niel,12
+2292754,06:17:00,06:17:10,stop_point:SP_530,Séro,13
+2292754,06:18:00,06:18:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292755,06:35:00,06:35:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292755,06:36:00,06:36:10,stop_point:SP_4530,Moulin D'Augé,2
+2292755,06:38:00,06:38:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292755,06:39:00,06:39:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292755,06:39:00,06:39:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292755,06:40:00,06:40:10,stop_point:SP_4765,Bertoulots,6
+2292755,06:41:00,06:41:10,stop_point:SP_4772,La Petite Maymie,7
+2292755,06:43:00,06:43:10,stop_point:SP_4535,Les Vivans,8
+2292755,06:44:00,06:44:10,stop_point:SP_4531,Vernole,9
+2292755,06:45:00,06:45:10,stop_point:SP_4415,J. Lestrade,10
+2292755,06:46:00,06:46:10,stop_point:SP_554,Gaston Bonheur,11
+2292755,06:47:00,06:47:10,stop_point:SP_914,Niel,12
+2292755,06:47:00,06:47:10,stop_point:SP_530,Séro,13
+2292755,06:48:00,06:48:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292756,07:10:00,07:10:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292756,07:11:00,07:11:10,stop_point:SP_4530,Moulin D'Augé,2
+2292756,07:13:00,07:13:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292756,07:14:00,07:14:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292756,07:14:00,07:14:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292756,07:15:00,07:15:10,stop_point:SP_4765,Bertoulots,6
+2292756,07:16:00,07:16:10,stop_point:SP_4772,La Petite Maymie,7
+2292756,07:18:00,07:18:10,stop_point:SP_4535,Les Vivans,8
+2292756,07:19:00,07:19:10,stop_point:SP_4531,Vernole,9
+2292756,07:20:00,07:20:10,stop_point:SP_4415,J. Lestrade,10
+2292756,07:21:00,07:21:10,stop_point:SP_554,Gaston Bonheur,11
+2292756,07:23:00,07:23:10,stop_point:SP_914,Niel,12
+2292756,07:24:00,07:24:10,stop_point:SP_530,Séro,13
+2292756,07:25:00,07:25:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292757,07:30:00,07:30:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292757,07:32:00,07:32:10,stop_point:SP_4530,Moulin D'Augé,2
+2292757,07:34:00,07:34:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292757,07:35:00,07:35:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292757,07:35:00,07:35:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292757,07:36:00,07:36:10,stop_point:SP_4765,Bertoulots,6
+2292757,07:37:00,07:37:10,stop_point:SP_4772,La Petite Maymie,7
+2292757,07:39:00,07:39:10,stop_point:SP_4535,Les Vivans,8
+2292757,07:40:00,07:40:10,stop_point:SP_4531,Vernole,9
+2292757,07:42:00,07:42:10,stop_point:SP_4415,J. Lestrade,10
+2292757,07:44:00,07:44:10,stop_point:SP_554,Gaston Bonheur,11
+2292757,07:47:00,07:47:10,stop_point:SP_914,Niel,12
+2292757,07:47:00,07:47:10,stop_point:SP_530,Séro,13
+2292757,07:49:00,07:49:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292758,08:05:00,08:05:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292758,08:07:00,08:07:10,stop_point:SP_4530,Moulin D'Augé,2
+2292758,08:09:00,08:09:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292758,08:10:00,08:10:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292758,08:10:00,08:10:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292758,08:11:00,08:11:10,stop_point:SP_4765,Bertoulots,6
+2292758,08:12:00,08:12:10,stop_point:SP_4772,La Petite Maymie,7
+2292758,08:14:00,08:14:10,stop_point:SP_4535,Les Vivans,8
+2292758,08:15:00,08:15:10,stop_point:SP_4531,Vernole,9
+2292758,08:17:00,08:17:10,stop_point:SP_4415,J. Lestrade,10
+2292758,08:19:00,08:19:10,stop_point:SP_554,Gaston Bonheur,11
+2292758,08:21:00,08:21:10,stop_point:SP_914,Niel,12
+2292758,08:21:00,08:21:10,stop_point:SP_530,Séro,13
+2292758,08:23:00,08:23:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292759,12:40:00,12:40:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292759,12:42:00,12:42:10,stop_point:SP_4530,Moulin D'Augé,2
+2292759,12:44:00,12:44:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292759,12:45:00,12:45:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292759,12:45:00,12:45:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292759,12:46:00,12:46:10,stop_point:SP_4765,Bertoulots,6
+2292759,12:47:00,12:47:10,stop_point:SP_4772,La Petite Maymie,7
+2292759,12:48:00,12:48:10,stop_point:SP_4535,Les Vivans,8
+2292759,12:49:00,12:49:10,stop_point:SP_4531,Vernole,9
+2292759,12:50:00,12:50:10,stop_point:SP_4415,J. Lestrade,10
+2292759,12:51:00,12:51:10,stop_point:SP_554,Gaston Bonheur,11
+2292759,12:53:00,12:53:10,stop_point:SP_914,Niel,12
+2292759,12:54:00,12:54:10,stop_point:SP_530,Séro,13
+2292759,12:55:00,12:55:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292760,13:25:00,13:25:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292760,13:27:00,13:27:10,stop_point:SP_4530,Moulin D'Augé,2
+2292760,13:29:00,13:29:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292760,13:30:00,13:30:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292760,13:30:00,13:30:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292760,13:31:00,13:31:10,stop_point:SP_4765,Bertoulots,6
+2292760,13:32:00,13:32:10,stop_point:SP_4772,La Petite Maymie,7
+2292760,13:33:00,13:33:10,stop_point:SP_4535,Les Vivans,8
+2292760,13:34:00,13:34:10,stop_point:SP_4531,Vernole,9
+2292760,13:35:00,13:35:10,stop_point:SP_4415,J. Lestrade,10
+2292760,13:36:00,13:36:10,stop_point:SP_554,Gaston Bonheur,11
+2292760,13:38:00,13:38:10,stop_point:SP_914,Niel,12
+2292760,13:39:00,13:39:10,stop_point:SP_530,Séro,13
+2292760,13:40:00,13:40:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292761,16:55:00,16:55:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292761,16:57:00,16:57:10,stop_point:SP_4530,Moulin D'Augé,2
+2292761,16:59:00,16:59:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292761,17:00:00,17:00:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292761,17:00:00,17:00:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292761,17:01:00,17:01:10,stop_point:SP_4765,Bertoulots,6
+2292761,17:02:00,17:02:10,stop_point:SP_4772,La Petite Maymie,7
+2292761,17:04:00,17:04:10,stop_point:SP_4535,Les Vivans,8
+2292761,17:05:00,17:05:10,stop_point:SP_4531,Vernole,9
+2292761,17:06:00,17:06:10,stop_point:SP_4415,J. Lestrade,10
+2292761,17:08:00,17:08:10,stop_point:SP_554,Gaston Bonheur,11
+2292761,17:10:00,17:10:10,stop_point:SP_914,Niel,12
+2292761,17:10:00,17:10:10,stop_point:SP_530,Séro,13
+2292761,17:12:00,17:12:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292762,17:45:00,17:45:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292762,17:47:00,17:47:10,stop_point:SP_4530,Moulin D'Augé,2
+2292762,17:49:00,17:49:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292762,17:50:00,17:50:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292762,17:50:00,17:50:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292762,17:51:00,17:51:10,stop_point:SP_4765,Bertoulots,6
+2292762,17:52:00,17:52:10,stop_point:SP_4772,La Petite Maymie,7
+2292762,17:54:00,17:54:10,stop_point:SP_4535,Les Vivans,8
+2292762,17:55:00,17:55:10,stop_point:SP_4531,Vernole,9
+2292762,17:56:00,17:56:10,stop_point:SP_4415,J. Lestrade,10
+2292762,17:58:00,17:58:10,stop_point:SP_554,Gaston Bonheur,11
+2292762,18:00:00,18:00:10,stop_point:SP_914,Niel,12
+2292762,18:00:00,18:00:10,stop_point:SP_530,Séro,13
+2292762,18:02:00,18:02:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292763,18:30:00,18:30:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292763,18:32:00,18:32:10,stop_point:SP_4530,Moulin D'Augé,2
+2292763,18:34:00,18:34:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292763,18:35:00,18:35:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292763,18:35:00,18:35:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292763,18:36:00,18:36:10,stop_point:SP_4765,Bertoulots,6
+2292763,18:37:00,18:37:10,stop_point:SP_4772,La Petite Maymie,7
+2292763,18:39:00,18:39:10,stop_point:SP_4535,Les Vivans,8
+2292763,18:40:00,18:40:10,stop_point:SP_4531,Vernole,9
+2292763,18:41:00,18:41:10,stop_point:SP_4415,J. Lestrade,10
+2292763,18:43:00,18:43:10,stop_point:SP_554,Gaston Bonheur,11
+2292763,18:45:00,18:45:10,stop_point:SP_914,Niel,12
+2292763,18:45:00,18:45:10,stop_point:SP_530,Séro,13
+2292763,18:47:00,18:47:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292764,19:15:00,19:15:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292764,19:16:00,19:16:10,stop_point:SP_4530,Moulin D'Augé,2
+2292764,19:18:00,19:18:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292764,19:19:00,19:19:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292764,19:19:00,19:19:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292764,19:20:00,19:20:10,stop_point:SP_4765,Bertoulots,6
+2292764,19:21:00,19:21:10,stop_point:SP_4772,La Petite Maymie,7
+2292764,19:22:00,19:22:10,stop_point:SP_4535,Les Vivans,8
+2292764,19:23:00,19:23:10,stop_point:SP_4531,Vernole,9
+2292764,19:24:00,19:24:10,stop_point:SP_4415,J. Lestrade,10
+2292764,19:25:00,19:25:10,stop_point:SP_554,Gaston Bonheur,11
+2292764,19:27:00,19:27:10,stop_point:SP_914,Niel,12
+2292764,19:28:00,19:28:10,stop_point:SP_530,Séro,13
+2292764,19:29:00,19:29:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292765,19:30:00,19:30:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,1
+2292765,19:31:00,19:31:10,stop_point:SP_4530,Moulin D'Augé,2
+2292765,19:33:00,19:33:10,stop_point:SP_4539,La Croix Blanche 2,3
+2292765,19:34:00,19:34:10,stop_point:SP_4533,La Croix Blanche 1,4
+2292765,19:34:00,19:34:10,stop_point:SP_4538,Plaine Du Pitou,5
+2292765,19:35:00,19:35:10,stop_point:SP_4765,Bertoulots,6
+2292765,19:36:00,19:36:10,stop_point:SP_4772,La Petite Maymie,7
+2292765,19:37:00,19:37:10,stop_point:SP_4535,Les Vivans,8
+2292765,19:38:00,19:38:10,stop_point:SP_4531,Vernole,9
+2292765,19:39:00,19:39:10,stop_point:SP_4415,J. Lestrade,10
+2292765,19:40:00,19:40:10,stop_point:SP_554,Gaston Bonheur,11
+2292765,19:42:00,19:42:10,stop_point:SP_914,Niel,12
+2292765,19:43:00,19:43:10,stop_point:SP_530,Séro,13
+2292765,19:44:00,19:44:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,14
+2292766,06:00:00,06:00:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292766,06:01:00,06:01:10,stop_point:SP_834,Séro,2
+2292766,06:02:00,06:02:10,stop_point:SP_3522,Niel,3
+2292766,06:03:00,06:03:10,stop_point:SP_191,Gaston Bonheur,4
+2292766,06:04:00,06:04:10,stop_point:SP_4380,J. Lestrade,5
+2292766,06:06:00,06:06:10,stop_point:SP_4528,Vernole,6
+2292766,06:07:00,06:07:10,stop_point:SP_4523,Les Vivans,7
+2292766,06:08:00,06:08:10,stop_point:SP_4770,La Petite Maymie,8
+2292766,06:09:00,06:09:10,stop_point:SP_4767,Bertoulots,9
+2292766,06:10:00,06:10:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292766,06:11:00,06:11:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292766,06:12:00,06:12:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292766,06:14:00,06:14:10,stop_point:SP_4527,Moulin D'Augé,13
+2292766,06:15:00,06:15:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292767,06:35:00,06:35:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292767,06:36:00,06:36:10,stop_point:SP_834,Séro,2
+2292767,06:37:00,06:37:10,stop_point:SP_3522,Niel,3
+2292767,06:38:00,06:38:10,stop_point:SP_191,Gaston Bonheur,4
+2292767,06:39:00,06:39:10,stop_point:SP_4380,J. Lestrade,5
+2292767,06:41:00,06:41:10,stop_point:SP_4528,Vernole,6
+2292767,06:42:00,06:42:10,stop_point:SP_4523,Les Vivans,7
+2292767,06:43:00,06:43:10,stop_point:SP_4770,La Petite Maymie,8
+2292767,06:44:00,06:44:10,stop_point:SP_4767,Bertoulots,9
+2292767,06:45:00,06:45:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292767,06:46:00,06:46:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292767,06:47:00,06:47:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292767,06:49:00,06:49:10,stop_point:SP_4527,Moulin D'Augé,13
+2292767,06:50:00,06:50:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292768,07:00:00,07:00:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292768,07:01:00,07:01:10,stop_point:SP_834,Séro,2
+2292768,07:02:00,07:02:10,stop_point:SP_3522,Niel,3
+2292768,07:03:00,07:03:10,stop_point:SP_191,Gaston Bonheur,4
+2292768,07:04:00,07:04:10,stop_point:SP_4380,J. Lestrade,5
+2292768,07:06:00,07:06:10,stop_point:SP_4528,Vernole,6
+2292768,07:07:00,07:07:10,stop_point:SP_4523,Les Vivans,7
+2292768,07:08:00,07:08:10,stop_point:SP_4770,La Petite Maymie,8
+2292768,07:09:00,07:09:10,stop_point:SP_4767,Bertoulots,9
+2292768,07:10:00,07:10:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292768,07:11:00,07:11:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292768,07:12:00,07:12:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292768,07:14:00,07:14:10,stop_point:SP_4527,Moulin D'Augé,13
+2292768,07:15:00,07:15:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292769,07:45:00,07:45:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292769,07:46:00,07:46:10,stop_point:SP_834,Séro,2
+2292769,07:47:00,07:47:10,stop_point:SP_3522,Niel,3
+2292769,07:49:00,07:49:10,stop_point:SP_191,Gaston Bonheur,4
+2292769,07:50:00,07:50:10,stop_point:SP_4380,J. Lestrade,5
+2292769,07:52:00,07:52:10,stop_point:SP_4528,Vernole,6
+2292769,07:53:00,07:53:10,stop_point:SP_4523,Les Vivans,7
+2292769,07:54:00,07:54:10,stop_point:SP_4770,La Petite Maymie,8
+2292769,07:55:00,07:55:10,stop_point:SP_4767,Bertoulots,9
+2292769,07:56:00,07:56:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292769,07:57:00,07:57:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292769,07:58:00,07:58:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292769,08:00:00,08:00:10,stop_point:SP_4527,Moulin D'Augé,13
+2292769,08:01:00,08:01:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292770,12:20:00,12:20:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292770,12:22:00,12:22:10,stop_point:SP_834,Séro,2
+2292770,12:22:00,12:22:10,stop_point:SP_3522,Niel,3
+2292770,12:25:00,12:25:10,stop_point:SP_191,Gaston Bonheur,4
+2292770,12:26:00,12:26:10,stop_point:SP_4380,J. Lestrade,5
+2292770,12:28:00,12:28:10,stop_point:SP_4528,Vernole,6
+2292770,12:29:00,12:29:10,stop_point:SP_4523,Les Vivans,7
+2292770,12:30:00,12:30:10,stop_point:SP_4770,La Petite Maymie,8
+2292770,12:31:00,12:31:10,stop_point:SP_4767,Bertoulots,9
+2292770,12:32:00,12:32:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292770,12:33:00,12:33:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292770,12:34:00,12:34:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292770,12:36:00,12:36:10,stop_point:SP_4527,Moulin D'Augé,13
+2292770,12:37:00,12:37:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292771,13:05:00,13:05:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292771,13:07:00,13:07:10,stop_point:SP_834,Séro,2
+2292771,13:07:00,13:07:10,stop_point:SP_3522,Niel,3
+2292771,13:10:00,13:10:10,stop_point:SP_191,Gaston Bonheur,4
+2292771,13:11:00,13:11:10,stop_point:SP_4380,J. Lestrade,5
+2292771,13:13:00,13:13:10,stop_point:SP_4528,Vernole,6
+2292771,13:14:00,13:14:10,stop_point:SP_4523,Les Vivans,7
+2292771,13:15:00,13:15:10,stop_point:SP_4770,La Petite Maymie,8
+2292771,13:16:00,13:16:10,stop_point:SP_4767,Bertoulots,9
+2292771,13:17:00,13:17:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292771,13:18:00,13:18:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292771,13:19:00,13:19:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292771,13:21:00,13:21:10,stop_point:SP_4527,Moulin D'Augé,13
+2292771,13:22:00,13:22:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292772,16:35:00,16:35:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292772,16:37:00,16:37:10,stop_point:SP_834,Séro,2
+2292772,16:38:00,16:38:10,stop_point:SP_3522,Niel,3
+2292772,16:40:00,16:40:10,stop_point:SP_191,Gaston Bonheur,4
+2292772,16:42:00,16:42:10,stop_point:SP_4380,J. Lestrade,5
+2292772,16:44:00,16:44:10,stop_point:SP_4528,Vernole,6
+2292772,16:45:00,16:45:10,stop_point:SP_4523,Les Vivans,7
+2292772,16:47:00,16:47:10,stop_point:SP_4770,La Petite Maymie,8
+2292772,16:48:00,16:48:10,stop_point:SP_4767,Bertoulots,9
+2292772,16:49:00,16:49:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292772,16:50:00,16:50:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292772,16:51:00,16:51:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292772,16:54:00,16:54:10,stop_point:SP_4527,Moulin D'Augé,13
+2292772,16:55:00,16:55:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292773,17:22:00,17:22:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292773,17:24:00,17:24:10,stop_point:SP_834,Séro,2
+2292773,17:25:00,17:25:10,stop_point:SP_3522,Niel,3
+2292773,17:27:00,17:27:10,stop_point:SP_191,Gaston Bonheur,4
+2292773,17:29:00,17:29:10,stop_point:SP_4380,J. Lestrade,5
+2292773,17:31:00,17:31:10,stop_point:SP_4528,Vernole,6
+2292773,17:32:00,17:32:10,stop_point:SP_4523,Les Vivans,7
+2292773,17:34:00,17:34:10,stop_point:SP_4770,La Petite Maymie,8
+2292773,17:35:00,17:35:10,stop_point:SP_4767,Bertoulots,9
+2292773,17:36:00,17:36:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292773,17:38:00,17:38:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292773,17:38:00,17:38:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292773,17:42:00,17:42:10,stop_point:SP_4527,Moulin D'Augé,13
+2292773,17:43:00,17:43:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292774,18:07:00,18:07:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292774,18:09:00,18:09:10,stop_point:SP_834,Séro,2
+2292774,18:10:00,18:10:10,stop_point:SP_3522,Niel,3
+2292774,18:12:00,18:12:10,stop_point:SP_191,Gaston Bonheur,4
+2292774,18:14:00,18:14:10,stop_point:SP_4380,J. Lestrade,5
+2292774,18:16:00,18:16:10,stop_point:SP_4528,Vernole,6
+2292774,18:17:00,18:17:10,stop_point:SP_4523,Les Vivans,7
+2292774,18:19:00,18:19:10,stop_point:SP_4770,La Petite Maymie,8
+2292774,18:20:00,18:20:10,stop_point:SP_4767,Bertoulots,9
+2292774,18:21:00,18:21:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292774,18:23:00,18:23:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292774,18:23:00,18:23:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292774,18:27:00,18:27:10,stop_point:SP_4527,Moulin D'Augé,13
+2292774,18:28:00,18:28:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292775,18:52:00,18:52:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292775,18:54:00,18:54:10,stop_point:SP_834,Séro,2
+2292775,18:54:00,18:54:10,stop_point:SP_3522,Niel,3
+2292775,18:57:00,18:57:10,stop_point:SP_191,Gaston Bonheur,4
+2292775,18:58:00,18:58:10,stop_point:SP_4380,J. Lestrade,5
+2292775,19:00:00,19:00:10,stop_point:SP_4528,Vernole,6
+2292775,19:01:00,19:01:10,stop_point:SP_4523,Les Vivans,7
+2292775,19:03:00,19:03:10,stop_point:SP_4770,La Petite Maymie,8
+2292775,19:04:00,19:04:10,stop_point:SP_4767,Bertoulots,9
+2292775,19:05:00,19:05:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292775,19:07:00,19:07:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292775,19:07:00,19:07:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292775,19:11:00,19:11:10,stop_point:SP_4527,Moulin D'Augé,13
+2292775,19:12:00,19:12:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292776,19:10:00,19:10:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292776,19:11:00,19:11:10,stop_point:SP_834,Séro,2
+2292776,19:12:00,19:12:10,stop_point:SP_3522,Niel,3
+2292776,19:14:00,19:14:10,stop_point:SP_191,Gaston Bonheur,4
+2292776,19:15:00,19:15:10,stop_point:SP_4380,J. Lestrade,5
+2292776,19:17:00,19:17:10,stop_point:SP_4528,Vernole,6
+2292776,19:18:00,19:18:10,stop_point:SP_4523,Les Vivans,7
+2292776,19:19:00,19:19:10,stop_point:SP_4770,La Petite Maymie,8
+2292776,19:20:00,19:20:10,stop_point:SP_4767,Bertoulots,9
+2292776,19:21:00,19:21:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292776,19:22:00,19:22:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292776,19:23:00,19:23:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292776,19:26:00,19:26:10,stop_point:SP_4527,Moulin D'Augé,13
+2292776,19:27:00,19:27:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14
+2292777,19:35:00,19:35:10,stop_point:SP_5172,Muret Gare SNCF - Parvis,1
+2292777,19:36:00,19:36:10,stop_point:SP_834,Séro,2
+2292777,19:37:00,19:37:10,stop_point:SP_3522,Niel,3
+2292777,19:39:00,19:39:10,stop_point:SP_191,Gaston Bonheur,4
+2292777,19:40:00,19:40:10,stop_point:SP_4380,J. Lestrade,5
+2292777,19:42:00,19:42:10,stop_point:SP_4528,Vernole,6
+2292777,19:43:00,19:43:10,stop_point:SP_4523,Les Vivans,7
+2292777,19:44:00,19:44:10,stop_point:SP_4770,La Petite Maymie,8
+2292777,19:45:00,19:45:10,stop_point:SP_4767,Bertoulots,9
+2292777,19:46:00,19:46:10,stop_point:SP_4537,Plaine Du Pitou,10
+2292777,19:47:00,19:47:10,stop_point:SP_4540,La Croix Blanche 1,11
+2292777,19:48:00,19:48:10,stop_point:SP_4525,La Croix Blanche 2,12
+2292777,19:50:00,19:50:10,stop_point:SP_4527,Moulin D'Augé,13
+2292777,19:51:00,19:51:10,stop_point:SP_4536,Eaunes Zac Du Mandarin,14

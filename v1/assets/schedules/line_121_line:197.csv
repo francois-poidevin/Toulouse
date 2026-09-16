@@ -1,0 +1,932 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2297742,06:45:00,06:45:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297742,06:46:00,06:46:10,stop_point:SP_2921,Montel,2
+2297742,06:47:00,06:47:10,stop_point:SP_634,Mitterrand,3
+2297742,06:48:00,06:48:10,stop_point:SP_2117,Gymnase,4
+2297742,06:48:00,06:48:10,stop_point:SP_3096,Rouergue,5
+2297742,06:48:00,06:48:10,stop_point:SP_2634,Ile de France,6
+2297742,06:49:00,06:49:10,stop_point:SP_3904,Camargue,7
+2297742,06:50:00,06:50:10,stop_point:SP_3995,Touraine,8
+2297742,06:51:00,06:51:10,stop_point:SP_5081,Chandelier,9
+2297742,06:52:00,06:52:10,stop_point:SP_5166,Tertre,10
+2297742,06:53:00,06:53:10,stop_point:SP_5122,Fanjeau,11
+2297742,06:53:00,06:53:10,stop_point:SP_5078,Valette Haut,12
+2297742,06:54:00,06:54:10,stop_point:SP_5080,Gibecière,13
+2297742,06:55:00,06:55:10,stop_point:SP_5086,Peyrette,14
+2297742,06:56:00,06:56:10,stop_point:SP_2053,Mûriers,15
+2297742,06:57:00,06:57:10,stop_point:SP_2526,Puymorens,16
+2297742,06:57:00,06:57:10,stop_point:SP_2568,Taure,17
+2297742,06:59:00,06:59:10,stop_point:SP_1734,Italiens,18
+2297742,06:59:00,06:59:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297742,07:00:00,07:00:10,stop_point:SP_5091,Les Baraques,20
+2297742,07:01:00,07:01:10,stop_point:SP_5085,Stade,21
+2297742,07:02:00,07:02:10,stop_point:SP_5088,Grand Bois,22
+2297742,07:03:00,07:03:10,stop_point:SP_5092,Oliviers,23
+2297742,07:05:00,07:05:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297743,07:20:00,07:20:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297743,07:21:00,07:21:10,stop_point:SP_2921,Montel,2
+2297743,07:22:00,07:22:10,stop_point:SP_634,Mitterrand,3
+2297743,07:23:00,07:23:10,stop_point:SP_2117,Gymnase,4
+2297743,07:23:00,07:23:10,stop_point:SP_3096,Rouergue,5
+2297743,07:23:00,07:23:10,stop_point:SP_2634,Ile de France,6
+2297743,07:24:00,07:24:10,stop_point:SP_3904,Camargue,7
+2297743,07:25:00,07:25:10,stop_point:SP_3995,Touraine,8
+2297743,07:26:00,07:26:10,stop_point:SP_5081,Chandelier,9
+2297743,07:27:00,07:27:10,stop_point:SP_5166,Tertre,10
+2297743,07:28:00,07:28:10,stop_point:SP_5122,Fanjeau,11
+2297743,07:28:00,07:28:10,stop_point:SP_5078,Valette Haut,12
+2297743,07:29:00,07:29:10,stop_point:SP_5080,Gibecière,13
+2297743,07:30:00,07:30:10,stop_point:SP_5086,Peyrette,14
+2297743,07:31:00,07:31:10,stop_point:SP_2053,Mûriers,15
+2297743,07:32:00,07:32:10,stop_point:SP_2526,Puymorens,16
+2297743,07:32:00,07:32:10,stop_point:SP_2568,Taure,17
+2297743,07:34:00,07:34:10,stop_point:SP_1734,Italiens,18
+2297743,07:34:00,07:34:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297743,07:35:00,07:35:10,stop_point:SP_5091,Les Baraques,20
+2297743,07:36:00,07:36:10,stop_point:SP_5085,Stade,21
+2297743,07:37:00,07:37:10,stop_point:SP_5088,Grand Bois,22
+2297743,07:38:00,07:38:10,stop_point:SP_5092,Oliviers,23
+2297743,07:40:00,07:40:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297744,07:50:00,07:50:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297744,07:51:00,07:51:10,stop_point:SP_2921,Montel,2
+2297744,07:52:00,07:52:10,stop_point:SP_634,Mitterrand,3
+2297744,07:53:00,07:53:10,stop_point:SP_2117,Gymnase,4
+2297744,07:53:00,07:53:10,stop_point:SP_3096,Rouergue,5
+2297744,07:54:00,07:54:10,stop_point:SP_2634,Ile de France,6
+2297744,07:55:00,07:55:10,stop_point:SP_3904,Camargue,7
+2297744,07:56:00,07:56:10,stop_point:SP_3995,Touraine,8
+2297744,07:57:00,07:57:10,stop_point:SP_5081,Chandelier,9
+2297744,07:58:00,07:58:10,stop_point:SP_5166,Tertre,10
+2297744,08:00:00,08:00:10,stop_point:SP_5122,Fanjeau,11
+2297744,08:01:00,08:01:10,stop_point:SP_5078,Valette Haut,12
+2297744,08:02:00,08:02:10,stop_point:SP_5080,Gibecière,13
+2297744,08:03:00,08:03:10,stop_point:SP_5086,Peyrette,14
+2297744,08:04:00,08:04:10,stop_point:SP_2053,Mûriers,15
+2297744,08:05:00,08:05:10,stop_point:SP_2526,Puymorens,16
+2297744,08:05:00,08:05:10,stop_point:SP_2568,Taure,17
+2297744,08:07:00,08:07:10,stop_point:SP_1734,Italiens,18
+2297744,08:07:00,08:07:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297744,08:08:00,08:08:10,stop_point:SP_5091,Les Baraques,20
+2297744,08:09:00,08:09:10,stop_point:SP_5085,Stade,21
+2297744,08:10:00,08:10:10,stop_point:SP_5088,Grand Bois,22
+2297744,08:11:00,08:11:10,stop_point:SP_5092,Oliviers,23
+2297744,08:13:00,08:13:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297745,08:20:00,08:20:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297745,08:21:00,08:21:10,stop_point:SP_2921,Montel,2
+2297745,08:22:00,08:22:10,stop_point:SP_634,Mitterrand,3
+2297745,08:23:00,08:23:10,stop_point:SP_2117,Gymnase,4
+2297745,08:23:00,08:23:10,stop_point:SP_3096,Rouergue,5
+2297745,08:23:00,08:23:10,stop_point:SP_2634,Ile de France,6
+2297745,08:24:00,08:24:10,stop_point:SP_3904,Camargue,7
+2297745,08:25:00,08:25:10,stop_point:SP_3995,Touraine,8
+2297745,08:26:00,08:26:10,stop_point:SP_5081,Chandelier,9
+2297745,08:27:00,08:27:10,stop_point:SP_5166,Tertre,10
+2297745,08:28:00,08:28:10,stop_point:SP_5122,Fanjeau,11
+2297745,08:29:00,08:29:10,stop_point:SP_5078,Valette Haut,12
+2297745,08:30:00,08:30:10,stop_point:SP_5080,Gibecière,13
+2297745,08:31:00,08:31:10,stop_point:SP_5086,Peyrette,14
+2297745,08:32:00,08:32:10,stop_point:SP_2053,Mûriers,15
+2297745,08:33:00,08:33:10,stop_point:SP_2526,Puymorens,16
+2297745,08:33:00,08:33:10,stop_point:SP_2568,Taure,17
+2297745,08:35:00,08:35:10,stop_point:SP_1734,Italiens,18
+2297745,08:35:00,08:35:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297745,08:36:00,08:36:10,stop_point:SP_5091,Les Baraques,20
+2297745,08:37:00,08:37:10,stop_point:SP_5085,Stade,21
+2297745,08:38:00,08:38:10,stop_point:SP_5088,Grand Bois,22
+2297745,08:39:00,08:39:10,stop_point:SP_5092,Oliviers,23
+2297745,08:41:00,08:41:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297746,08:50:00,08:50:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297746,08:51:00,08:51:10,stop_point:SP_2921,Montel,2
+2297746,08:52:00,08:52:10,stop_point:SP_634,Mitterrand,3
+2297746,08:53:00,08:53:10,stop_point:SP_2117,Gymnase,4
+2297746,08:53:00,08:53:10,stop_point:SP_3096,Rouergue,5
+2297746,08:53:00,08:53:10,stop_point:SP_2634,Ile de France,6
+2297746,08:54:00,08:54:10,stop_point:SP_3904,Camargue,7
+2297746,08:55:00,08:55:10,stop_point:SP_3995,Touraine,8
+2297746,08:56:00,08:56:10,stop_point:SP_5081,Chandelier,9
+2297746,08:57:00,08:57:10,stop_point:SP_5166,Tertre,10
+2297746,08:58:00,08:58:10,stop_point:SP_5122,Fanjeau,11
+2297746,08:59:00,08:59:10,stop_point:SP_5078,Valette Haut,12
+2297746,09:00:00,09:00:10,stop_point:SP_5080,Gibecière,13
+2297746,09:01:00,09:01:10,stop_point:SP_5086,Peyrette,14
+2297746,09:02:00,09:02:10,stop_point:SP_2053,Mûriers,15
+2297746,09:03:00,09:03:10,stop_point:SP_2526,Puymorens,16
+2297746,09:03:00,09:03:10,stop_point:SP_2568,Taure,17
+2297746,09:05:00,09:05:10,stop_point:SP_1734,Italiens,18
+2297746,09:05:00,09:05:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297746,09:06:00,09:06:10,stop_point:SP_5091,Les Baraques,20
+2297746,09:07:00,09:07:10,stop_point:SP_5085,Stade,21
+2297746,09:08:00,09:08:10,stop_point:SP_5088,Grand Bois,22
+2297746,09:09:00,09:09:10,stop_point:SP_5092,Oliviers,23
+2297746,09:11:00,09:11:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297747,09:20:00,09:20:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297747,09:21:00,09:21:10,stop_point:SP_2921,Montel,2
+2297747,09:22:00,09:22:10,stop_point:SP_634,Mitterrand,3
+2297747,09:23:00,09:23:10,stop_point:SP_2117,Gymnase,4
+2297747,09:23:00,09:23:10,stop_point:SP_3096,Rouergue,5
+2297747,09:23:00,09:23:10,stop_point:SP_2634,Ile de France,6
+2297747,09:24:00,09:24:10,stop_point:SP_3904,Camargue,7
+2297747,09:25:00,09:25:10,stop_point:SP_3995,Touraine,8
+2297747,09:26:00,09:26:10,stop_point:SP_5081,Chandelier,9
+2297747,09:27:00,09:27:10,stop_point:SP_5166,Tertre,10
+2297747,09:28:00,09:28:10,stop_point:SP_5122,Fanjeau,11
+2297747,09:28:00,09:28:10,stop_point:SP_5078,Valette Haut,12
+2297747,09:29:00,09:29:10,stop_point:SP_5080,Gibecière,13
+2297747,09:30:00,09:30:10,stop_point:SP_5086,Peyrette,14
+2297747,09:31:00,09:31:10,stop_point:SP_2053,Mûriers,15
+2297747,09:32:00,09:32:10,stop_point:SP_2526,Puymorens,16
+2297747,09:32:00,09:32:10,stop_point:SP_2568,Taure,17
+2297747,09:33:00,09:33:10,stop_point:SP_1734,Italiens,18
+2297747,09:34:00,09:34:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297747,09:35:00,09:35:10,stop_point:SP_5091,Les Baraques,20
+2297747,09:36:00,09:36:10,stop_point:SP_5085,Stade,21
+2297747,09:36:00,09:36:10,stop_point:SP_5088,Grand Bois,22
+2297747,09:37:00,09:37:10,stop_point:SP_5092,Oliviers,23
+2297747,09:39:00,09:39:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297748,09:50:00,09:50:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297748,09:51:00,09:51:10,stop_point:SP_2921,Montel,2
+2297748,09:52:00,09:52:10,stop_point:SP_634,Mitterrand,3
+2297748,09:53:00,09:53:10,stop_point:SP_2117,Gymnase,4
+2297748,09:53:00,09:53:10,stop_point:SP_3096,Rouergue,5
+2297748,09:53:00,09:53:10,stop_point:SP_2634,Ile de France,6
+2297748,09:54:00,09:54:10,stop_point:SP_3904,Camargue,7
+2297748,09:55:00,09:55:10,stop_point:SP_3995,Touraine,8
+2297748,09:56:00,09:56:10,stop_point:SP_5081,Chandelier,9
+2297748,09:57:00,09:57:10,stop_point:SP_5166,Tertre,10
+2297748,09:58:00,09:58:10,stop_point:SP_5122,Fanjeau,11
+2297748,09:58:00,09:58:10,stop_point:SP_5078,Valette Haut,12
+2297748,09:59:00,09:59:10,stop_point:SP_5080,Gibecière,13
+2297748,10:00:00,10:00:10,stop_point:SP_5086,Peyrette,14
+2297748,10:01:00,10:01:10,stop_point:SP_2053,Mûriers,15
+2297748,10:02:00,10:02:10,stop_point:SP_2526,Puymorens,16
+2297748,10:02:00,10:02:10,stop_point:SP_2568,Taure,17
+2297748,10:03:00,10:03:10,stop_point:SP_1734,Italiens,18
+2297748,10:04:00,10:04:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297748,10:05:00,10:05:10,stop_point:SP_5091,Les Baraques,20
+2297748,10:06:00,10:06:10,stop_point:SP_5085,Stade,21
+2297748,10:06:00,10:06:10,stop_point:SP_5088,Grand Bois,22
+2297748,10:07:00,10:07:10,stop_point:SP_5092,Oliviers,23
+2297748,10:09:00,10:09:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297749,10:50:00,10:50:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297749,10:51:00,10:51:10,stop_point:SP_2921,Montel,2
+2297749,10:52:00,10:52:10,stop_point:SP_634,Mitterrand,3
+2297749,10:53:00,10:53:10,stop_point:SP_2117,Gymnase,4
+2297749,10:53:00,10:53:10,stop_point:SP_3096,Rouergue,5
+2297749,10:53:00,10:53:10,stop_point:SP_2634,Ile de France,6
+2297749,10:54:00,10:54:10,stop_point:SP_3904,Camargue,7
+2297749,10:55:00,10:55:10,stop_point:SP_3995,Touraine,8
+2297749,10:56:00,10:56:10,stop_point:SP_5081,Chandelier,9
+2297749,10:57:00,10:57:10,stop_point:SP_5166,Tertre,10
+2297749,10:58:00,10:58:10,stop_point:SP_5122,Fanjeau,11
+2297749,10:58:00,10:58:10,stop_point:SP_5078,Valette Haut,12
+2297749,10:59:00,10:59:10,stop_point:SP_5080,Gibecière,13
+2297749,11:00:00,11:00:10,stop_point:SP_5086,Peyrette,14
+2297749,11:01:00,11:01:10,stop_point:SP_2053,Mûriers,15
+2297749,11:02:00,11:02:10,stop_point:SP_2526,Puymorens,16
+2297749,11:02:00,11:02:10,stop_point:SP_2568,Taure,17
+2297749,11:03:00,11:03:10,stop_point:SP_1734,Italiens,18
+2297749,11:04:00,11:04:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297749,11:05:00,11:05:10,stop_point:SP_5091,Les Baraques,20
+2297749,11:06:00,11:06:10,stop_point:SP_5085,Stade,21
+2297749,11:06:00,11:06:10,stop_point:SP_5088,Grand Bois,22
+2297749,11:07:00,11:07:10,stop_point:SP_5092,Oliviers,23
+2297749,11:09:00,11:09:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297750,11:50:00,11:50:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297750,11:51:00,11:51:10,stop_point:SP_2921,Montel,2
+2297750,11:52:00,11:52:10,stop_point:SP_634,Mitterrand,3
+2297750,11:53:00,11:53:10,stop_point:SP_2117,Gymnase,4
+2297750,11:53:00,11:53:10,stop_point:SP_3096,Rouergue,5
+2297750,11:53:00,11:53:10,stop_point:SP_2634,Ile de France,6
+2297750,11:54:00,11:54:10,stop_point:SP_3904,Camargue,7
+2297750,11:55:00,11:55:10,stop_point:SP_3995,Touraine,8
+2297750,11:56:00,11:56:10,stop_point:SP_5081,Chandelier,9
+2297750,11:57:00,11:57:10,stop_point:SP_5166,Tertre,10
+2297750,11:58:00,11:58:10,stop_point:SP_5122,Fanjeau,11
+2297750,11:58:00,11:58:10,stop_point:SP_5078,Valette Haut,12
+2297750,11:59:00,11:59:10,stop_point:SP_5080,Gibecière,13
+2297750,12:00:00,12:00:10,stop_point:SP_5086,Peyrette,14
+2297750,12:01:00,12:01:10,stop_point:SP_2053,Mûriers,15
+2297750,12:02:00,12:02:10,stop_point:SP_2526,Puymorens,16
+2297750,12:02:00,12:02:10,stop_point:SP_2568,Taure,17
+2297750,12:03:00,12:03:10,stop_point:SP_1734,Italiens,18
+2297750,12:04:00,12:04:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297750,12:05:00,12:05:10,stop_point:SP_5091,Les Baraques,20
+2297750,12:06:00,12:06:10,stop_point:SP_5085,Stade,21
+2297750,12:06:00,12:06:10,stop_point:SP_5088,Grand Bois,22
+2297750,12:07:00,12:07:10,stop_point:SP_5092,Oliviers,23
+2297750,12:09:00,12:09:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297751,13:05:00,13:05:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297751,13:06:00,13:06:10,stop_point:SP_2921,Montel,2
+2297751,13:07:00,13:07:10,stop_point:SP_634,Mitterrand,3
+2297751,13:08:00,13:08:10,stop_point:SP_2117,Gymnase,4
+2297751,13:08:00,13:08:10,stop_point:SP_3096,Rouergue,5
+2297751,13:08:00,13:08:10,stop_point:SP_2634,Ile de France,6
+2297751,13:09:00,13:09:10,stop_point:SP_3904,Camargue,7
+2297751,13:10:00,13:10:10,stop_point:SP_3995,Touraine,8
+2297751,13:11:00,13:11:10,stop_point:SP_5081,Chandelier,9
+2297751,13:12:00,13:12:10,stop_point:SP_5166,Tertre,10
+2297751,13:13:00,13:13:10,stop_point:SP_5122,Fanjeau,11
+2297751,13:13:00,13:13:10,stop_point:SP_5078,Valette Haut,12
+2297751,13:14:00,13:14:10,stop_point:SP_5080,Gibecière,13
+2297751,13:15:00,13:15:10,stop_point:SP_5086,Peyrette,14
+2297751,13:16:00,13:16:10,stop_point:SP_2053,Mûriers,15
+2297751,13:17:00,13:17:10,stop_point:SP_2526,Puymorens,16
+2297751,13:17:00,13:17:10,stop_point:SP_2568,Taure,17
+2297751,13:19:00,13:19:10,stop_point:SP_1734,Italiens,18
+2297751,13:19:00,13:19:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297751,13:20:00,13:20:10,stop_point:SP_5091,Les Baraques,20
+2297751,13:21:00,13:21:10,stop_point:SP_5085,Stade,21
+2297751,13:22:00,13:22:10,stop_point:SP_5088,Grand Bois,22
+2297751,13:23:00,13:23:10,stop_point:SP_5092,Oliviers,23
+2297751,13:25:00,13:25:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297752,14:05:00,14:05:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297752,14:06:00,14:06:10,stop_point:SP_2921,Montel,2
+2297752,14:07:00,14:07:10,stop_point:SP_634,Mitterrand,3
+2297752,14:08:00,14:08:10,stop_point:SP_2117,Gymnase,4
+2297752,14:08:00,14:08:10,stop_point:SP_3096,Rouergue,5
+2297752,14:08:00,14:08:10,stop_point:SP_2634,Ile de France,6
+2297752,14:09:00,14:09:10,stop_point:SP_3904,Camargue,7
+2297752,14:10:00,14:10:10,stop_point:SP_3995,Touraine,8
+2297752,14:11:00,14:11:10,stop_point:SP_5081,Chandelier,9
+2297752,14:12:00,14:12:10,stop_point:SP_5166,Tertre,10
+2297752,14:13:00,14:13:10,stop_point:SP_5122,Fanjeau,11
+2297752,14:13:00,14:13:10,stop_point:SP_5078,Valette Haut,12
+2297752,14:14:00,14:14:10,stop_point:SP_5080,Gibecière,13
+2297752,14:15:00,14:15:10,stop_point:SP_5086,Peyrette,14
+2297752,14:16:00,14:16:10,stop_point:SP_2053,Mûriers,15
+2297752,14:17:00,14:17:10,stop_point:SP_2526,Puymorens,16
+2297752,14:17:00,14:17:10,stop_point:SP_2568,Taure,17
+2297752,14:19:00,14:19:10,stop_point:SP_1734,Italiens,18
+2297752,14:19:00,14:19:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297752,14:20:00,14:20:10,stop_point:SP_5091,Les Baraques,20
+2297752,14:21:00,14:21:10,stop_point:SP_5085,Stade,21
+2297752,14:22:00,14:22:10,stop_point:SP_5088,Grand Bois,22
+2297752,14:23:00,14:23:10,stop_point:SP_5092,Oliviers,23
+2297752,14:25:00,14:25:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297753,15:05:00,15:05:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297753,15:06:00,15:06:10,stop_point:SP_2921,Montel,2
+2297753,15:07:00,15:07:10,stop_point:SP_634,Mitterrand,3
+2297753,15:08:00,15:08:10,stop_point:SP_2117,Gymnase,4
+2297753,15:08:00,15:08:10,stop_point:SP_3096,Rouergue,5
+2297753,15:08:00,15:08:10,stop_point:SP_2634,Ile de France,6
+2297753,15:09:00,15:09:10,stop_point:SP_3904,Camargue,7
+2297753,15:10:00,15:10:10,stop_point:SP_3995,Touraine,8
+2297753,15:11:00,15:11:10,stop_point:SP_5081,Chandelier,9
+2297753,15:12:00,15:12:10,stop_point:SP_5166,Tertre,10
+2297753,15:13:00,15:13:10,stop_point:SP_5122,Fanjeau,11
+2297753,15:13:00,15:13:10,stop_point:SP_5078,Valette Haut,12
+2297753,15:14:00,15:14:10,stop_point:SP_5080,Gibecière,13
+2297753,15:15:00,15:15:10,stop_point:SP_5086,Peyrette,14
+2297753,15:16:00,15:16:10,stop_point:SP_2053,Mûriers,15
+2297753,15:17:00,15:17:10,stop_point:SP_2526,Puymorens,16
+2297753,15:17:00,15:17:10,stop_point:SP_2568,Taure,17
+2297753,15:19:00,15:19:10,stop_point:SP_1734,Italiens,18
+2297753,15:19:00,15:19:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297753,15:20:00,15:20:10,stop_point:SP_5091,Les Baraques,20
+2297753,15:21:00,15:21:10,stop_point:SP_5085,Stade,21
+2297753,15:22:00,15:22:10,stop_point:SP_5088,Grand Bois,22
+2297753,15:23:00,15:23:10,stop_point:SP_5092,Oliviers,23
+2297753,15:25:00,15:25:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297754,16:10:00,16:10:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297754,16:11:00,16:11:10,stop_point:SP_2921,Montel,2
+2297754,16:12:00,16:12:10,stop_point:SP_634,Mitterrand,3
+2297754,16:13:00,16:13:10,stop_point:SP_2117,Gymnase,4
+2297754,16:13:00,16:13:10,stop_point:SP_3096,Rouergue,5
+2297754,16:14:00,16:14:10,stop_point:SP_2634,Ile de France,6
+2297754,16:15:00,16:15:10,stop_point:SP_3904,Camargue,7
+2297754,16:16:00,16:16:10,stop_point:SP_3995,Touraine,8
+2297754,16:17:00,16:17:10,stop_point:SP_5081,Chandelier,9
+2297754,16:18:00,16:18:10,stop_point:SP_5166,Tertre,10
+2297754,16:19:00,16:19:10,stop_point:SP_5122,Fanjeau,11
+2297754,16:19:00,16:19:10,stop_point:SP_5078,Valette Haut,12
+2297754,16:20:00,16:20:10,stop_point:SP_5080,Gibecière,13
+2297754,16:21:00,16:21:10,stop_point:SP_5086,Peyrette,14
+2297754,16:23:00,16:23:10,stop_point:SP_2053,Mûriers,15
+2297754,16:24:00,16:24:10,stop_point:SP_2526,Puymorens,16
+2297754,16:24:00,16:24:10,stop_point:SP_2568,Taure,17
+2297754,16:26:00,16:26:10,stop_point:SP_1734,Italiens,18
+2297754,16:26:00,16:26:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297754,16:27:00,16:27:10,stop_point:SP_5091,Les Baraques,20
+2297754,16:28:00,16:28:10,stop_point:SP_5085,Stade,21
+2297754,16:29:00,16:29:10,stop_point:SP_5088,Grand Bois,22
+2297754,16:30:00,16:30:10,stop_point:SP_5092,Oliviers,23
+2297754,16:32:00,16:32:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297755,16:45:00,16:45:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297755,16:46:00,16:46:10,stop_point:SP_2921,Montel,2
+2297755,16:47:00,16:47:10,stop_point:SP_634,Mitterrand,3
+2297755,16:48:00,16:48:10,stop_point:SP_2117,Gymnase,4
+2297755,16:48:00,16:48:10,stop_point:SP_3096,Rouergue,5
+2297755,16:49:00,16:49:10,stop_point:SP_2634,Ile de France,6
+2297755,16:50:00,16:50:10,stop_point:SP_3904,Camargue,7
+2297755,16:51:00,16:51:10,stop_point:SP_3995,Touraine,8
+2297755,16:52:00,16:52:10,stop_point:SP_5081,Chandelier,9
+2297755,16:53:00,16:53:10,stop_point:SP_5166,Tertre,10
+2297755,16:54:00,16:54:10,stop_point:SP_5122,Fanjeau,11
+2297755,16:54:00,16:54:10,stop_point:SP_5078,Valette Haut,12
+2297755,16:55:00,16:55:10,stop_point:SP_5080,Gibecière,13
+2297755,16:56:00,16:56:10,stop_point:SP_5086,Peyrette,14
+2297755,16:57:00,16:57:10,stop_point:SP_2053,Mûriers,15
+2297755,16:58:00,16:58:10,stop_point:SP_2526,Puymorens,16
+2297755,16:58:00,16:58:10,stop_point:SP_2568,Taure,17
+2297755,17:00:00,17:00:10,stop_point:SP_1734,Italiens,18
+2297755,17:00:00,17:00:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297755,17:01:00,17:01:10,stop_point:SP_5091,Les Baraques,20
+2297755,17:02:00,17:02:10,stop_point:SP_5085,Stade,21
+2297755,17:03:00,17:03:10,stop_point:SP_5088,Grand Bois,22
+2297755,17:04:00,17:04:10,stop_point:SP_5092,Oliviers,23
+2297755,17:06:00,17:06:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297756,17:15:00,17:15:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297756,17:16:00,17:16:10,stop_point:SP_2921,Montel,2
+2297756,17:17:00,17:17:10,stop_point:SP_634,Mitterrand,3
+2297756,17:18:00,17:18:10,stop_point:SP_2117,Gymnase,4
+2297756,17:18:00,17:18:10,stop_point:SP_3096,Rouergue,5
+2297756,17:19:00,17:19:10,stop_point:SP_2634,Ile de France,6
+2297756,17:20:00,17:20:10,stop_point:SP_3904,Camargue,7
+2297756,17:21:00,17:21:10,stop_point:SP_3995,Touraine,8
+2297756,17:22:00,17:22:10,stop_point:SP_5081,Chandelier,9
+2297756,17:23:00,17:23:10,stop_point:SP_5166,Tertre,10
+2297756,17:24:00,17:24:10,stop_point:SP_5122,Fanjeau,11
+2297756,17:24:00,17:24:10,stop_point:SP_5078,Valette Haut,12
+2297756,17:25:00,17:25:10,stop_point:SP_5080,Gibecière,13
+2297756,17:26:00,17:26:10,stop_point:SP_5086,Peyrette,14
+2297756,17:27:00,17:27:10,stop_point:SP_2053,Mûriers,15
+2297756,17:28:00,17:28:10,stop_point:SP_2526,Puymorens,16
+2297756,17:28:00,17:28:10,stop_point:SP_2568,Taure,17
+2297756,17:30:00,17:30:10,stop_point:SP_1734,Italiens,18
+2297756,17:30:00,17:30:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297756,17:31:00,17:31:10,stop_point:SP_5091,Les Baraques,20
+2297756,17:32:00,17:32:10,stop_point:SP_5085,Stade,21
+2297756,17:33:00,17:33:10,stop_point:SP_5088,Grand Bois,22
+2297756,17:34:00,17:34:10,stop_point:SP_5092,Oliviers,23
+2297756,17:36:00,17:36:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297757,17:45:00,17:45:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297757,17:46:00,17:46:10,stop_point:SP_2921,Montel,2
+2297757,17:47:00,17:47:10,stop_point:SP_634,Mitterrand,3
+2297757,17:48:00,17:48:10,stop_point:SP_2117,Gymnase,4
+2297757,17:48:00,17:48:10,stop_point:SP_3096,Rouergue,5
+2297757,17:49:00,17:49:10,stop_point:SP_2634,Ile de France,6
+2297757,17:50:00,17:50:10,stop_point:SP_3904,Camargue,7
+2297757,17:51:00,17:51:10,stop_point:SP_3995,Touraine,8
+2297757,17:52:00,17:52:10,stop_point:SP_5081,Chandelier,9
+2297757,17:53:00,17:53:10,stop_point:SP_5166,Tertre,10
+2297757,17:54:00,17:54:10,stop_point:SP_5122,Fanjeau,11
+2297757,17:54:00,17:54:10,stop_point:SP_5078,Valette Haut,12
+2297757,17:55:00,17:55:10,stop_point:SP_5080,Gibecière,13
+2297757,17:56:00,17:56:10,stop_point:SP_5086,Peyrette,14
+2297757,17:57:00,17:57:10,stop_point:SP_2053,Mûriers,15
+2297757,17:58:00,17:58:10,stop_point:SP_2526,Puymorens,16
+2297757,17:58:00,17:58:10,stop_point:SP_2568,Taure,17
+2297757,18:00:00,18:00:10,stop_point:SP_1734,Italiens,18
+2297757,18:00:00,18:00:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297757,18:01:00,18:01:10,stop_point:SP_5091,Les Baraques,20
+2297757,18:02:00,18:02:10,stop_point:SP_5085,Stade,21
+2297757,18:03:00,18:03:10,stop_point:SP_5088,Grand Bois,22
+2297757,18:04:00,18:04:10,stop_point:SP_5092,Oliviers,23
+2297757,18:06:00,18:06:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297758,18:15:00,18:15:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297758,18:16:00,18:16:10,stop_point:SP_2921,Montel,2
+2297758,18:17:00,18:17:10,stop_point:SP_634,Mitterrand,3
+2297758,18:18:00,18:18:10,stop_point:SP_2117,Gymnase,4
+2297758,18:18:00,18:18:10,stop_point:SP_3096,Rouergue,5
+2297758,18:19:00,18:19:10,stop_point:SP_2634,Ile de France,6
+2297758,18:20:00,18:20:10,stop_point:SP_3904,Camargue,7
+2297758,18:21:00,18:21:10,stop_point:SP_3995,Touraine,8
+2297758,18:22:00,18:22:10,stop_point:SP_5081,Chandelier,9
+2297758,18:23:00,18:23:10,stop_point:SP_5166,Tertre,10
+2297758,18:24:00,18:24:10,stop_point:SP_5122,Fanjeau,11
+2297758,18:24:00,18:24:10,stop_point:SP_5078,Valette Haut,12
+2297758,18:25:00,18:25:10,stop_point:SP_5080,Gibecière,13
+2297758,18:26:00,18:26:10,stop_point:SP_5086,Peyrette,14
+2297758,18:27:00,18:27:10,stop_point:SP_2053,Mûriers,15
+2297758,18:28:00,18:28:10,stop_point:SP_2526,Puymorens,16
+2297758,18:28:00,18:28:10,stop_point:SP_2568,Taure,17
+2297758,18:30:00,18:30:10,stop_point:SP_1734,Italiens,18
+2297758,18:30:00,18:30:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297758,18:31:00,18:31:10,stop_point:SP_5091,Les Baraques,20
+2297758,18:32:00,18:32:10,stop_point:SP_5085,Stade,21
+2297758,18:33:00,18:33:10,stop_point:SP_5088,Grand Bois,22
+2297758,18:34:00,18:34:10,stop_point:SP_5092,Oliviers,23
+2297758,18:36:00,18:36:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297759,18:45:00,18:45:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297759,18:46:00,18:46:10,stop_point:SP_2921,Montel,2
+2297759,18:47:00,18:47:10,stop_point:SP_634,Mitterrand,3
+2297759,18:48:00,18:48:10,stop_point:SP_2117,Gymnase,4
+2297759,18:48:00,18:48:10,stop_point:SP_3096,Rouergue,5
+2297759,18:48:00,18:48:10,stop_point:SP_2634,Ile de France,6
+2297759,18:49:00,18:49:10,stop_point:SP_3904,Camargue,7
+2297759,18:50:00,18:50:10,stop_point:SP_3995,Touraine,8
+2297759,18:51:00,18:51:10,stop_point:SP_5081,Chandelier,9
+2297759,18:52:00,18:52:10,stop_point:SP_5166,Tertre,10
+2297759,18:53:00,18:53:10,stop_point:SP_5122,Fanjeau,11
+2297759,18:53:00,18:53:10,stop_point:SP_5078,Valette Haut,12
+2297759,18:54:00,18:54:10,stop_point:SP_5080,Gibecière,13
+2297759,18:55:00,18:55:10,stop_point:SP_5086,Peyrette,14
+2297759,18:56:00,18:56:10,stop_point:SP_2053,Mûriers,15
+2297759,18:57:00,18:57:10,stop_point:SP_2526,Puymorens,16
+2297759,18:57:00,18:57:10,stop_point:SP_2568,Taure,17
+2297759,18:59:00,18:59:10,stop_point:SP_1734,Italiens,18
+2297759,18:59:00,18:59:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297759,19:00:00,19:00:10,stop_point:SP_5091,Les Baraques,20
+2297759,19:01:00,19:01:10,stop_point:SP_5085,Stade,21
+2297759,19:02:00,19:02:10,stop_point:SP_5088,Grand Bois,22
+2297759,19:03:00,19:03:10,stop_point:SP_5092,Oliviers,23
+2297759,19:05:00,19:05:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297760,19:35:00,19:35:10,stop_point:SP_414,Tournefeuille Les Chênes,1
+2297760,19:36:00,19:36:10,stop_point:SP_2921,Montel,2
+2297760,19:37:00,19:37:10,stop_point:SP_634,Mitterrand,3
+2297760,19:38:00,19:38:10,stop_point:SP_2117,Gymnase,4
+2297760,19:38:00,19:38:10,stop_point:SP_3096,Rouergue,5
+2297760,19:38:00,19:38:10,stop_point:SP_2634,Ile de France,6
+2297760,19:39:00,19:39:10,stop_point:SP_3904,Camargue,7
+2297760,19:40:00,19:40:10,stop_point:SP_3995,Touraine,8
+2297760,19:41:00,19:41:10,stop_point:SP_5081,Chandelier,9
+2297760,19:42:00,19:42:10,stop_point:SP_5166,Tertre,10
+2297760,19:43:00,19:43:10,stop_point:SP_5122,Fanjeau,11
+2297760,19:43:00,19:43:10,stop_point:SP_5078,Valette Haut,12
+2297760,19:44:00,19:44:10,stop_point:SP_5080,Gibecière,13
+2297760,19:45:00,19:45:10,stop_point:SP_5086,Peyrette,14
+2297760,19:46:00,19:46:10,stop_point:SP_2053,Mûriers,15
+2297760,19:47:00,19:47:10,stop_point:SP_2526,Puymorens,16
+2297760,19:47:00,19:47:10,stop_point:SP_2568,Taure,17
+2297760,19:49:00,19:49:10,stop_point:SP_1734,Italiens,18
+2297760,19:49:00,19:49:10,stop_point:SP_2773,Mairie La Salvetat,19
+2297760,19:50:00,19:50:10,stop_point:SP_5091,Les Baraques,20
+2297760,19:51:00,19:51:10,stop_point:SP_5085,Stade,21
+2297760,19:52:00,19:52:10,stop_point:SP_5088,Grand Bois,22
+2297760,19:53:00,19:53:10,stop_point:SP_5092,Oliviers,23
+2297760,19:55:00,19:55:10,stop_point:SP_5087,La Salvetat Apouticayre,24
+2297761,06:15:00,06:15:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297761,06:17:00,06:17:10,stop_point:SP_5084,Oliviers,2
+2297761,06:18:00,06:18:10,stop_point:SP_5093,Grand Bois,3
+2297761,06:19:00,06:19:10,stop_point:SP_5089,Stade,4
+2297761,06:20:00,06:20:10,stop_point:SP_5090,Les Baraques,5
+2297761,06:21:00,06:21:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297761,06:21:00,06:21:10,stop_point:SP_881,Italiens,7
+2297761,06:22:00,06:22:10,stop_point:SP_3139,Taure,8
+2297761,06:23:00,06:23:10,stop_point:SP_2144,Puymorens,9
+2297761,06:24:00,06:24:10,stop_point:SP_2494,Mûriers,10
+2297761,06:25:00,06:25:10,stop_point:SP_5137,Peyrette,11
+2297761,06:26:00,06:26:10,stop_point:SP_5083,Gibecière,12
+2297761,06:26:00,06:26:10,stop_point:SP_5082,Valette Haut,13
+2297761,06:27:00,06:27:10,stop_point:SP_5121,Fanjeau,14
+2297761,06:28:00,06:28:10,stop_point:SP_5165,Tertre,15
+2297761,06:28:00,06:28:10,stop_point:SP_5079,Chandelier,16
+2297761,06:29:00,06:29:10,stop_point:SP_2347,Touraine,17
+2297761,06:31:00,06:31:10,stop_point:SP_1974,Camargue,18
+2297761,06:31:00,06:31:10,stop_point:SP_2678,Ile de France,19
+2297761,06:32:00,06:32:10,stop_point:SP_3160,Rouergue,20
+2297761,06:33:00,06:33:10,stop_point:SP_3413,Gymnase,21
+2297761,06:34:00,06:34:10,stop_point:SP_3673,Mitterrand,22
+2297761,06:35:00,06:35:10,stop_point:SP_1551,Montel,23
+2297761,06:36:00,06:36:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297761,06:38:00,06:38:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297762,06:45:00,06:45:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297762,06:47:00,06:47:10,stop_point:SP_5084,Oliviers,2
+2297762,06:48:00,06:48:10,stop_point:SP_5093,Grand Bois,3
+2297762,06:49:00,06:49:10,stop_point:SP_5089,Stade,4
+2297762,06:50:00,06:50:10,stop_point:SP_5090,Les Baraques,5
+2297762,06:52:00,06:52:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297762,06:52:00,06:52:10,stop_point:SP_881,Italiens,7
+2297762,06:53:00,06:53:10,stop_point:SP_3139,Taure,8
+2297762,06:54:00,06:54:10,stop_point:SP_2144,Puymorens,9
+2297762,06:55:00,06:55:10,stop_point:SP_2494,Mûriers,10
+2297762,06:56:00,06:56:10,stop_point:SP_5137,Peyrette,11
+2297762,06:57:00,06:57:10,stop_point:SP_5083,Gibecière,12
+2297762,06:58:00,06:58:10,stop_point:SP_5082,Valette Haut,13
+2297762,06:58:00,06:58:10,stop_point:SP_5121,Fanjeau,14
+2297762,06:59:00,06:59:10,stop_point:SP_5165,Tertre,15
+2297762,07:00:00,07:00:10,stop_point:SP_5079,Chandelier,16
+2297762,07:01:00,07:01:10,stop_point:SP_2347,Touraine,17
+2297762,07:03:00,07:03:10,stop_point:SP_1974,Camargue,18
+2297762,07:03:00,07:03:10,stop_point:SP_2678,Ile de France,19
+2297762,07:04:00,07:04:10,stop_point:SP_3160,Rouergue,20
+2297762,07:05:00,07:05:10,stop_point:SP_3413,Gymnase,21
+2297762,07:06:00,07:06:10,stop_point:SP_3673,Mitterrand,22
+2297762,07:07:00,07:07:10,stop_point:SP_1551,Montel,23
+2297762,07:08:00,07:08:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297762,07:09:00,07:09:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297763,07:20:00,07:20:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297763,07:22:00,07:22:10,stop_point:SP_5084,Oliviers,2
+2297763,07:23:00,07:23:10,stop_point:SP_5093,Grand Bois,3
+2297763,07:24:00,07:24:10,stop_point:SP_5089,Stade,4
+2297763,07:25:00,07:25:10,stop_point:SP_5090,Les Baraques,5
+2297763,07:27:00,07:27:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297763,07:27:00,07:27:10,stop_point:SP_881,Italiens,7
+2297763,07:28:00,07:28:10,stop_point:SP_3139,Taure,8
+2297763,07:29:00,07:29:10,stop_point:SP_2144,Puymorens,9
+2297763,07:30:00,07:30:10,stop_point:SP_2494,Mûriers,10
+2297763,07:31:00,07:31:10,stop_point:SP_5137,Peyrette,11
+2297763,07:32:00,07:32:10,stop_point:SP_5083,Gibecière,12
+2297763,07:33:00,07:33:10,stop_point:SP_5082,Valette Haut,13
+2297763,07:33:00,07:33:10,stop_point:SP_5121,Fanjeau,14
+2297763,07:34:00,07:34:10,stop_point:SP_5165,Tertre,15
+2297763,07:35:00,07:35:10,stop_point:SP_5079,Chandelier,16
+2297763,07:36:00,07:36:10,stop_point:SP_2347,Touraine,17
+2297763,07:38:00,07:38:10,stop_point:SP_1974,Camargue,18
+2297763,07:39:00,07:39:10,stop_point:SP_2678,Ile de France,19
+2297763,07:40:00,07:40:10,stop_point:SP_3160,Rouergue,20
+2297763,07:41:00,07:41:10,stop_point:SP_3413,Gymnase,21
+2297763,07:42:00,07:42:10,stop_point:SP_3673,Mitterrand,22
+2297763,07:43:00,07:43:10,stop_point:SP_1551,Montel,23
+2297763,07:44:00,07:44:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297763,07:45:00,07:45:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297764,07:50:00,07:50:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297764,07:52:00,07:52:10,stop_point:SP_5084,Oliviers,2
+2297764,07:53:00,07:53:10,stop_point:SP_5093,Grand Bois,3
+2297764,07:54:00,07:54:10,stop_point:SP_5089,Stade,4
+2297764,07:55:00,07:55:10,stop_point:SP_5090,Les Baraques,5
+2297764,07:57:00,07:57:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297764,07:57:00,07:57:10,stop_point:SP_881,Italiens,7
+2297764,07:58:00,07:58:10,stop_point:SP_3139,Taure,8
+2297764,07:59:00,07:59:10,stop_point:SP_2144,Puymorens,9
+2297764,08:00:00,08:00:10,stop_point:SP_2494,Mûriers,10
+2297764,08:01:00,08:01:10,stop_point:SP_5137,Peyrette,11
+2297764,08:02:00,08:02:10,stop_point:SP_5083,Gibecière,12
+2297764,08:02:00,08:02:10,stop_point:SP_5082,Valette Haut,13
+2297764,08:03:00,08:03:10,stop_point:SP_5121,Fanjeau,14
+2297764,08:04:00,08:04:10,stop_point:SP_5165,Tertre,15
+2297764,08:04:00,08:04:10,stop_point:SP_5079,Chandelier,16
+2297764,08:05:00,08:05:10,stop_point:SP_2347,Touraine,17
+2297764,08:07:00,08:07:10,stop_point:SP_1974,Camargue,18
+2297764,08:08:00,08:08:10,stop_point:SP_2678,Ile de France,19
+2297764,08:09:00,08:09:10,stop_point:SP_3160,Rouergue,20
+2297764,08:10:00,08:10:10,stop_point:SP_3413,Gymnase,21
+2297764,08:11:00,08:11:10,stop_point:SP_3673,Mitterrand,22
+2297764,08:12:00,08:12:10,stop_point:SP_1551,Montel,23
+2297764,08:13:00,08:13:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297764,08:14:00,08:14:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297765,08:20:00,08:20:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297765,08:22:00,08:22:10,stop_point:SP_5084,Oliviers,2
+2297765,08:24:00,08:24:10,stop_point:SP_5093,Grand Bois,3
+2297765,08:24:00,08:24:10,stop_point:SP_5089,Stade,4
+2297765,08:26:00,08:26:10,stop_point:SP_5090,Les Baraques,5
+2297765,08:27:00,08:27:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297765,08:28:00,08:28:10,stop_point:SP_881,Italiens,7
+2297765,08:29:00,08:29:10,stop_point:SP_3139,Taure,8
+2297765,08:30:00,08:30:10,stop_point:SP_2144,Puymorens,9
+2297765,08:31:00,08:31:10,stop_point:SP_2494,Mûriers,10
+2297765,08:32:00,08:32:10,stop_point:SP_5137,Peyrette,11
+2297765,08:33:00,08:33:10,stop_point:SP_5083,Gibecière,12
+2297765,08:34:00,08:34:10,stop_point:SP_5082,Valette Haut,13
+2297765,08:34:00,08:34:10,stop_point:SP_5121,Fanjeau,14
+2297765,08:35:00,08:35:10,stop_point:SP_5165,Tertre,15
+2297765,08:36:00,08:36:10,stop_point:SP_5079,Chandelier,16
+2297765,08:37:00,08:37:10,stop_point:SP_2347,Touraine,17
+2297765,08:39:00,08:39:10,stop_point:SP_1974,Camargue,18
+2297765,08:40:00,08:40:10,stop_point:SP_2678,Ile de France,19
+2297765,08:41:00,08:41:10,stop_point:SP_3160,Rouergue,20
+2297765,08:42:00,08:42:10,stop_point:SP_3413,Gymnase,21
+2297765,08:43:00,08:43:10,stop_point:SP_3673,Mitterrand,22
+2297765,08:44:00,08:44:10,stop_point:SP_1551,Montel,23
+2297765,08:45:00,08:45:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297765,08:46:00,08:46:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297766,08:50:00,08:50:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297766,08:52:00,08:52:10,stop_point:SP_5084,Oliviers,2
+2297766,08:53:00,08:53:10,stop_point:SP_5093,Grand Bois,3
+2297766,08:54:00,08:54:10,stop_point:SP_5089,Stade,4
+2297766,08:55:00,08:55:10,stop_point:SP_5090,Les Baraques,5
+2297766,08:56:00,08:56:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297766,08:56:00,08:56:10,stop_point:SP_881,Italiens,7
+2297766,08:57:00,08:57:10,stop_point:SP_3139,Taure,8
+2297766,08:58:00,08:58:10,stop_point:SP_2144,Puymorens,9
+2297766,08:59:00,08:59:10,stop_point:SP_2494,Mûriers,10
+2297766,09:00:00,09:00:10,stop_point:SP_5137,Peyrette,11
+2297766,09:01:00,09:01:10,stop_point:SP_5083,Gibecière,12
+2297766,09:01:00,09:01:10,stop_point:SP_5082,Valette Haut,13
+2297766,09:02:00,09:02:10,stop_point:SP_5121,Fanjeau,14
+2297766,09:03:00,09:03:10,stop_point:SP_5165,Tertre,15
+2297766,09:03:00,09:03:10,stop_point:SP_5079,Chandelier,16
+2297766,09:04:00,09:04:10,stop_point:SP_2347,Touraine,17
+2297766,09:06:00,09:06:10,stop_point:SP_1974,Camargue,18
+2297766,09:06:00,09:06:10,stop_point:SP_2678,Ile de France,19
+2297766,09:07:00,09:07:10,stop_point:SP_3160,Rouergue,20
+2297766,09:08:00,09:08:10,stop_point:SP_3413,Gymnase,21
+2297766,09:09:00,09:09:10,stop_point:SP_3673,Mitterrand,22
+2297766,09:10:00,09:10:10,stop_point:SP_1551,Montel,23
+2297766,09:11:00,09:11:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297766,09:12:00,09:12:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297767,09:20:00,09:20:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297767,09:22:00,09:22:10,stop_point:SP_5084,Oliviers,2
+2297767,09:23:00,09:23:10,stop_point:SP_5093,Grand Bois,3
+2297767,09:24:00,09:24:10,stop_point:SP_5089,Stade,4
+2297767,09:25:00,09:25:10,stop_point:SP_5090,Les Baraques,5
+2297767,09:26:00,09:26:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297767,09:26:00,09:26:10,stop_point:SP_881,Italiens,7
+2297767,09:27:00,09:27:10,stop_point:SP_3139,Taure,8
+2297767,09:28:00,09:28:10,stop_point:SP_2144,Puymorens,9
+2297767,09:29:00,09:29:10,stop_point:SP_2494,Mûriers,10
+2297767,09:30:00,09:30:10,stop_point:SP_5137,Peyrette,11
+2297767,09:31:00,09:31:10,stop_point:SP_5083,Gibecière,12
+2297767,09:31:00,09:31:10,stop_point:SP_5082,Valette Haut,13
+2297767,09:32:00,09:32:10,stop_point:SP_5121,Fanjeau,14
+2297767,09:33:00,09:33:10,stop_point:SP_5165,Tertre,15
+2297767,09:33:00,09:33:10,stop_point:SP_5079,Chandelier,16
+2297767,09:34:00,09:34:10,stop_point:SP_2347,Touraine,17
+2297767,09:36:00,09:36:10,stop_point:SP_1974,Camargue,18
+2297767,09:36:00,09:36:10,stop_point:SP_2678,Ile de France,19
+2297767,09:37:00,09:37:10,stop_point:SP_3160,Rouergue,20
+2297767,09:38:00,09:38:10,stop_point:SP_3413,Gymnase,21
+2297767,09:39:00,09:39:10,stop_point:SP_3673,Mitterrand,22
+2297767,09:40:00,09:40:10,stop_point:SP_1551,Montel,23
+2297767,09:41:00,09:41:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297767,09:42:00,09:42:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297768,10:20:00,10:20:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297768,10:22:00,10:22:10,stop_point:SP_5084,Oliviers,2
+2297768,10:23:00,10:23:10,stop_point:SP_5093,Grand Bois,3
+2297768,10:24:00,10:24:10,stop_point:SP_5089,Stade,4
+2297768,10:25:00,10:25:10,stop_point:SP_5090,Les Baraques,5
+2297768,10:26:00,10:26:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297768,10:26:00,10:26:10,stop_point:SP_881,Italiens,7
+2297768,10:27:00,10:27:10,stop_point:SP_3139,Taure,8
+2297768,10:28:00,10:28:10,stop_point:SP_2144,Puymorens,9
+2297768,10:29:00,10:29:10,stop_point:SP_2494,Mûriers,10
+2297768,10:30:00,10:30:10,stop_point:SP_5137,Peyrette,11
+2297768,10:31:00,10:31:10,stop_point:SP_5083,Gibecière,12
+2297768,10:31:00,10:31:10,stop_point:SP_5082,Valette Haut,13
+2297768,10:32:00,10:32:10,stop_point:SP_5121,Fanjeau,14
+2297768,10:33:00,10:33:10,stop_point:SP_5165,Tertre,15
+2297768,10:33:00,10:33:10,stop_point:SP_5079,Chandelier,16
+2297768,10:34:00,10:34:10,stop_point:SP_2347,Touraine,17
+2297768,10:36:00,10:36:10,stop_point:SP_1974,Camargue,18
+2297768,10:36:00,10:36:10,stop_point:SP_2678,Ile de France,19
+2297768,10:37:00,10:37:10,stop_point:SP_3160,Rouergue,20
+2297768,10:38:00,10:38:10,stop_point:SP_3413,Gymnase,21
+2297768,10:39:00,10:39:10,stop_point:SP_3673,Mitterrand,22
+2297768,10:40:00,10:40:10,stop_point:SP_1551,Montel,23
+2297768,10:41:00,10:41:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297768,10:42:00,10:42:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297769,11:20:00,11:20:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297769,11:22:00,11:22:10,stop_point:SP_5084,Oliviers,2
+2297769,11:23:00,11:23:10,stop_point:SP_5093,Grand Bois,3
+2297769,11:24:00,11:24:10,stop_point:SP_5089,Stade,4
+2297769,11:25:00,11:25:10,stop_point:SP_5090,Les Baraques,5
+2297769,11:26:00,11:26:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297769,11:26:00,11:26:10,stop_point:SP_881,Italiens,7
+2297769,11:27:00,11:27:10,stop_point:SP_3139,Taure,8
+2297769,11:28:00,11:28:10,stop_point:SP_2144,Puymorens,9
+2297769,11:29:00,11:29:10,stop_point:SP_2494,Mûriers,10
+2297769,11:30:00,11:30:10,stop_point:SP_5137,Peyrette,11
+2297769,11:31:00,11:31:10,stop_point:SP_5083,Gibecière,12
+2297769,11:31:00,11:31:10,stop_point:SP_5082,Valette Haut,13
+2297769,11:32:00,11:32:10,stop_point:SP_5121,Fanjeau,14
+2297769,11:33:00,11:33:10,stop_point:SP_5165,Tertre,15
+2297769,11:33:00,11:33:10,stop_point:SP_5079,Chandelier,16
+2297769,11:34:00,11:34:10,stop_point:SP_2347,Touraine,17
+2297769,11:36:00,11:36:10,stop_point:SP_1974,Camargue,18
+2297769,11:36:00,11:36:10,stop_point:SP_2678,Ile de France,19
+2297769,11:37:00,11:37:10,stop_point:SP_3160,Rouergue,20
+2297769,11:38:00,11:38:10,stop_point:SP_3413,Gymnase,21
+2297769,11:39:00,11:39:10,stop_point:SP_3673,Mitterrand,22
+2297769,11:40:00,11:40:10,stop_point:SP_1551,Montel,23
+2297769,11:41:00,11:41:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297769,11:42:00,11:42:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297770,12:40:00,12:40:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297770,12:42:00,12:42:10,stop_point:SP_5084,Oliviers,2
+2297770,12:43:00,12:43:10,stop_point:SP_5093,Grand Bois,3
+2297770,12:44:00,12:44:10,stop_point:SP_5089,Stade,4
+2297770,12:45:00,12:45:10,stop_point:SP_5090,Les Baraques,5
+2297770,12:46:00,12:46:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297770,12:46:00,12:46:10,stop_point:SP_881,Italiens,7
+2297770,12:47:00,12:47:10,stop_point:SP_3139,Taure,8
+2297770,12:48:00,12:48:10,stop_point:SP_2144,Puymorens,9
+2297770,12:49:00,12:49:10,stop_point:SP_2494,Mûriers,10
+2297770,12:51:00,12:51:10,stop_point:SP_5137,Peyrette,11
+2297770,12:52:00,12:52:10,stop_point:SP_5083,Gibecière,12
+2297770,12:52:00,12:52:10,stop_point:SP_5082,Valette Haut,13
+2297770,12:53:00,12:53:10,stop_point:SP_5121,Fanjeau,14
+2297770,12:54:00,12:54:10,stop_point:SP_5165,Tertre,15
+2297770,12:54:00,12:54:10,stop_point:SP_5079,Chandelier,16
+2297770,12:55:00,12:55:10,stop_point:SP_2347,Touraine,17
+2297770,12:57:00,12:57:10,stop_point:SP_1974,Camargue,18
+2297770,12:57:00,12:57:10,stop_point:SP_2678,Ile de France,19
+2297770,12:58:00,12:58:10,stop_point:SP_3160,Rouergue,20
+2297770,12:59:00,12:59:10,stop_point:SP_3413,Gymnase,21
+2297770,13:00:00,13:00:10,stop_point:SP_3673,Mitterrand,22
+2297770,13:01:00,13:01:10,stop_point:SP_1551,Montel,23
+2297770,13:02:00,13:02:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297770,13:04:00,13:04:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297771,13:35:00,13:35:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297771,13:37:00,13:37:10,stop_point:SP_5084,Oliviers,2
+2297771,13:38:00,13:38:10,stop_point:SP_5093,Grand Bois,3
+2297771,13:39:00,13:39:10,stop_point:SP_5089,Stade,4
+2297771,13:40:00,13:40:10,stop_point:SP_5090,Les Baraques,5
+2297771,13:41:00,13:41:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297771,13:41:00,13:41:10,stop_point:SP_881,Italiens,7
+2297771,13:42:00,13:42:10,stop_point:SP_3139,Taure,8
+2297771,13:43:00,13:43:10,stop_point:SP_2144,Puymorens,9
+2297771,13:44:00,13:44:10,stop_point:SP_2494,Mûriers,10
+2297771,13:45:00,13:45:10,stop_point:SP_5137,Peyrette,11
+2297771,13:46:00,13:46:10,stop_point:SP_5083,Gibecière,12
+2297771,13:46:00,13:46:10,stop_point:SP_5082,Valette Haut,13
+2297771,13:47:00,13:47:10,stop_point:SP_5121,Fanjeau,14
+2297771,13:48:00,13:48:10,stop_point:SP_5165,Tertre,15
+2297771,13:48:00,13:48:10,stop_point:SP_5079,Chandelier,16
+2297771,13:49:00,13:49:10,stop_point:SP_2347,Touraine,17
+2297771,13:51:00,13:51:10,stop_point:SP_1974,Camargue,18
+2297771,13:51:00,13:51:10,stop_point:SP_2678,Ile de France,19
+2297771,13:52:00,13:52:10,stop_point:SP_3160,Rouergue,20
+2297771,13:53:00,13:53:10,stop_point:SP_3413,Gymnase,21
+2297771,13:54:00,13:54:10,stop_point:SP_3673,Mitterrand,22
+2297771,13:55:00,13:55:10,stop_point:SP_1551,Montel,23
+2297771,13:56:00,13:56:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297771,13:58:00,13:58:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297772,14:35:00,14:35:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297772,14:37:00,14:37:10,stop_point:SP_5084,Oliviers,2
+2297772,14:38:00,14:38:10,stop_point:SP_5093,Grand Bois,3
+2297772,14:39:00,14:39:10,stop_point:SP_5089,Stade,4
+2297772,14:40:00,14:40:10,stop_point:SP_5090,Les Baraques,5
+2297772,14:41:00,14:41:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297772,14:41:00,14:41:10,stop_point:SP_881,Italiens,7
+2297772,14:42:00,14:42:10,stop_point:SP_3139,Taure,8
+2297772,14:43:00,14:43:10,stop_point:SP_2144,Puymorens,9
+2297772,14:44:00,14:44:10,stop_point:SP_2494,Mûriers,10
+2297772,14:45:00,14:45:10,stop_point:SP_5137,Peyrette,11
+2297772,14:46:00,14:46:10,stop_point:SP_5083,Gibecière,12
+2297772,14:46:00,14:46:10,stop_point:SP_5082,Valette Haut,13
+2297772,14:47:00,14:47:10,stop_point:SP_5121,Fanjeau,14
+2297772,14:48:00,14:48:10,stop_point:SP_5165,Tertre,15
+2297772,14:48:00,14:48:10,stop_point:SP_5079,Chandelier,16
+2297772,14:49:00,14:49:10,stop_point:SP_2347,Touraine,17
+2297772,14:51:00,14:51:10,stop_point:SP_1974,Camargue,18
+2297772,14:51:00,14:51:10,stop_point:SP_2678,Ile de France,19
+2297772,14:52:00,14:52:10,stop_point:SP_3160,Rouergue,20
+2297772,14:53:00,14:53:10,stop_point:SP_3413,Gymnase,21
+2297772,14:54:00,14:54:10,stop_point:SP_3673,Mitterrand,22
+2297772,14:55:00,14:55:10,stop_point:SP_1551,Montel,23
+2297772,14:56:00,14:56:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297772,14:58:00,14:58:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297773,15:40:00,15:40:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297773,15:42:00,15:42:10,stop_point:SP_5084,Oliviers,2
+2297773,15:43:00,15:43:10,stop_point:SP_5093,Grand Bois,3
+2297773,15:44:00,15:44:10,stop_point:SP_5089,Stade,4
+2297773,15:45:00,15:45:10,stop_point:SP_5090,Les Baraques,5
+2297773,15:46:00,15:46:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297773,15:46:00,15:46:10,stop_point:SP_881,Italiens,7
+2297773,15:47:00,15:47:10,stop_point:SP_3139,Taure,8
+2297773,15:48:00,15:48:10,stop_point:SP_2144,Puymorens,9
+2297773,15:49:00,15:49:10,stop_point:SP_2494,Mûriers,10
+2297773,15:50:00,15:50:10,stop_point:SP_5137,Peyrette,11
+2297773,15:51:00,15:51:10,stop_point:SP_5083,Gibecière,12
+2297773,15:51:00,15:51:10,stop_point:SP_5082,Valette Haut,13
+2297773,15:52:00,15:52:10,stop_point:SP_5121,Fanjeau,14
+2297773,15:53:00,15:53:10,stop_point:SP_5165,Tertre,15
+2297773,15:53:00,15:53:10,stop_point:SP_5079,Chandelier,16
+2297773,15:54:00,15:54:10,stop_point:SP_2347,Touraine,17
+2297773,15:56:00,15:56:10,stop_point:SP_1974,Camargue,18
+2297773,15:56:00,15:56:10,stop_point:SP_2678,Ile de France,19
+2297773,15:57:00,15:57:10,stop_point:SP_3160,Rouergue,20
+2297773,15:58:00,15:58:10,stop_point:SP_3413,Gymnase,21
+2297773,15:59:00,15:59:10,stop_point:SP_3673,Mitterrand,22
+2297773,16:00:00,16:00:10,stop_point:SP_1551,Montel,23
+2297773,16:01:00,16:01:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297773,16:03:00,16:03:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297774,16:45:00,16:45:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297774,16:47:00,16:47:10,stop_point:SP_5084,Oliviers,2
+2297774,16:48:00,16:48:10,stop_point:SP_5093,Grand Bois,3
+2297774,16:49:00,16:49:10,stop_point:SP_5089,Stade,4
+2297774,16:50:00,16:50:10,stop_point:SP_5090,Les Baraques,5
+2297774,16:51:00,16:51:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297774,16:51:00,16:51:10,stop_point:SP_881,Italiens,7
+2297774,16:52:00,16:52:10,stop_point:SP_3139,Taure,8
+2297774,16:53:00,16:53:10,stop_point:SP_2144,Puymorens,9
+2297774,16:54:00,16:54:10,stop_point:SP_2494,Mûriers,10
+2297774,16:55:00,16:55:10,stop_point:SP_5137,Peyrette,11
+2297774,16:56:00,16:56:10,stop_point:SP_5083,Gibecière,12
+2297774,16:57:00,16:57:10,stop_point:SP_5082,Valette Haut,13
+2297774,16:57:00,16:57:10,stop_point:SP_5121,Fanjeau,14
+2297774,16:58:00,16:58:10,stop_point:SP_5165,Tertre,15
+2297774,16:59:00,16:59:10,stop_point:SP_5079,Chandelier,16
+2297774,17:00:00,17:00:10,stop_point:SP_2347,Touraine,17
+2297774,17:02:00,17:02:10,stop_point:SP_1974,Camargue,18
+2297774,17:02:00,17:02:10,stop_point:SP_2678,Ile de France,19
+2297774,17:03:00,17:03:10,stop_point:SP_3160,Rouergue,20
+2297774,17:04:00,17:04:10,stop_point:SP_3413,Gymnase,21
+2297774,17:05:00,17:05:10,stop_point:SP_3673,Mitterrand,22
+2297774,17:06:00,17:06:10,stop_point:SP_1551,Montel,23
+2297774,17:07:00,17:07:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297774,17:09:00,17:09:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297775,17:15:00,17:15:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297775,17:17:00,17:17:10,stop_point:SP_5084,Oliviers,2
+2297775,17:18:00,17:18:10,stop_point:SP_5093,Grand Bois,3
+2297775,17:19:00,17:19:10,stop_point:SP_5089,Stade,4
+2297775,17:20:00,17:20:10,stop_point:SP_5090,Les Baraques,5
+2297775,17:22:00,17:22:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297775,17:22:00,17:22:10,stop_point:SP_881,Italiens,7
+2297775,17:23:00,17:23:10,stop_point:SP_3139,Taure,8
+2297775,17:24:00,17:24:10,stop_point:SP_2144,Puymorens,9
+2297775,17:25:00,17:25:10,stop_point:SP_2494,Mûriers,10
+2297775,17:27:00,17:27:10,stop_point:SP_5137,Peyrette,11
+2297775,17:28:00,17:28:10,stop_point:SP_5083,Gibecière,12
+2297775,17:28:00,17:28:10,stop_point:SP_5082,Valette Haut,13
+2297775,17:29:00,17:29:10,stop_point:SP_5121,Fanjeau,14
+2297775,17:30:00,17:30:10,stop_point:SP_5165,Tertre,15
+2297775,17:30:00,17:30:10,stop_point:SP_5079,Chandelier,16
+2297775,17:31:00,17:31:10,stop_point:SP_2347,Touraine,17
+2297775,17:33:00,17:33:10,stop_point:SP_1974,Camargue,18
+2297775,17:33:00,17:33:10,stop_point:SP_2678,Ile de France,19
+2297775,17:34:00,17:34:10,stop_point:SP_3160,Rouergue,20
+2297775,17:35:00,17:35:10,stop_point:SP_3413,Gymnase,21
+2297775,17:36:00,17:36:10,stop_point:SP_3673,Mitterrand,22
+2297775,17:37:00,17:37:10,stop_point:SP_1551,Montel,23
+2297775,17:38:00,17:38:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297775,17:40:00,17:40:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297776,17:45:00,17:45:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297776,17:47:00,17:47:10,stop_point:SP_5084,Oliviers,2
+2297776,17:48:00,17:48:10,stop_point:SP_5093,Grand Bois,3
+2297776,17:49:00,17:49:10,stop_point:SP_5089,Stade,4
+2297776,17:50:00,17:50:10,stop_point:SP_5090,Les Baraques,5
+2297776,17:51:00,17:51:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297776,17:51:00,17:51:10,stop_point:SP_881,Italiens,7
+2297776,17:52:00,17:52:10,stop_point:SP_3139,Taure,8
+2297776,17:53:00,17:53:10,stop_point:SP_2144,Puymorens,9
+2297776,17:54:00,17:54:10,stop_point:SP_2494,Mûriers,10
+2297776,17:55:00,17:55:10,stop_point:SP_5137,Peyrette,11
+2297776,17:56:00,17:56:10,stop_point:SP_5083,Gibecière,12
+2297776,17:56:00,17:56:10,stop_point:SP_5082,Valette Haut,13
+2297776,17:57:00,17:57:10,stop_point:SP_5121,Fanjeau,14
+2297776,17:58:00,17:58:10,stop_point:SP_5165,Tertre,15
+2297776,17:58:00,17:58:10,stop_point:SP_5079,Chandelier,16
+2297776,17:59:00,17:59:10,stop_point:SP_2347,Touraine,17
+2297776,18:01:00,18:01:10,stop_point:SP_1974,Camargue,18
+2297776,18:01:00,18:01:10,stop_point:SP_2678,Ile de France,19
+2297776,18:02:00,18:02:10,stop_point:SP_3160,Rouergue,20
+2297776,18:03:00,18:03:10,stop_point:SP_3413,Gymnase,21
+2297776,18:04:00,18:04:10,stop_point:SP_3673,Mitterrand,22
+2297776,18:05:00,18:05:10,stop_point:SP_1551,Montel,23
+2297776,18:06:00,18:06:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297776,18:08:00,18:08:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297777,18:15:00,18:15:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297777,18:17:00,18:17:10,stop_point:SP_5084,Oliviers,2
+2297777,18:18:00,18:18:10,stop_point:SP_5093,Grand Bois,3
+2297777,18:19:00,18:19:10,stop_point:SP_5089,Stade,4
+2297777,18:20:00,18:20:10,stop_point:SP_5090,Les Baraques,5
+2297777,18:21:00,18:21:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297777,18:21:00,18:21:10,stop_point:SP_881,Italiens,7
+2297777,18:22:00,18:22:10,stop_point:SP_3139,Taure,8
+2297777,18:23:00,18:23:10,stop_point:SP_2144,Puymorens,9
+2297777,18:24:00,18:24:10,stop_point:SP_2494,Mûriers,10
+2297777,18:25:00,18:25:10,stop_point:SP_5137,Peyrette,11
+2297777,18:26:00,18:26:10,stop_point:SP_5083,Gibecière,12
+2297777,18:26:00,18:26:10,stop_point:SP_5082,Valette Haut,13
+2297777,18:27:00,18:27:10,stop_point:SP_5121,Fanjeau,14
+2297777,18:28:00,18:28:10,stop_point:SP_5165,Tertre,15
+2297777,18:28:00,18:28:10,stop_point:SP_5079,Chandelier,16
+2297777,18:29:00,18:29:10,stop_point:SP_2347,Touraine,17
+2297777,18:31:00,18:31:10,stop_point:SP_1974,Camargue,18
+2297777,18:31:00,18:31:10,stop_point:SP_2678,Ile de France,19
+2297777,18:32:00,18:32:10,stop_point:SP_3160,Rouergue,20
+2297777,18:33:00,18:33:10,stop_point:SP_3413,Gymnase,21
+2297777,18:34:00,18:34:10,stop_point:SP_3673,Mitterrand,22
+2297777,18:35:00,18:35:10,stop_point:SP_1551,Montel,23
+2297777,18:36:00,18:36:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297777,18:38:00,18:38:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297778,18:45:00,18:45:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297778,18:47:00,18:47:10,stop_point:SP_5084,Oliviers,2
+2297778,18:48:00,18:48:10,stop_point:SP_5093,Grand Bois,3
+2297778,18:48:00,18:48:10,stop_point:SP_5089,Stade,4
+2297778,18:49:00,18:49:10,stop_point:SP_5090,Les Baraques,5
+2297778,18:50:00,18:50:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297778,18:51:00,18:51:10,stop_point:SP_881,Italiens,7
+2297778,18:52:00,18:52:10,stop_point:SP_3139,Taure,8
+2297778,18:52:00,18:52:10,stop_point:SP_2144,Puymorens,9
+2297778,18:53:00,18:53:10,stop_point:SP_2494,Mûriers,10
+2297778,18:54:00,18:54:10,stop_point:SP_5137,Peyrette,11
+2297778,18:54:00,18:54:10,stop_point:SP_5083,Gibecière,12
+2297778,18:55:00,18:55:10,stop_point:SP_5082,Valette Haut,13
+2297778,18:55:00,18:55:10,stop_point:SP_5121,Fanjeau,14
+2297778,18:56:00,18:56:10,stop_point:SP_5165,Tertre,15
+2297778,18:56:00,18:56:10,stop_point:SP_5079,Chandelier,16
+2297778,18:57:00,18:57:10,stop_point:SP_2347,Touraine,17
+2297778,18:58:00,18:58:10,stop_point:SP_1974,Camargue,18
+2297778,18:59:00,18:59:10,stop_point:SP_2678,Ile de France,19
+2297778,19:00:00,19:00:10,stop_point:SP_3160,Rouergue,20
+2297778,19:01:00,19:01:10,stop_point:SP_3413,Gymnase,21
+2297778,19:01:00,19:01:10,stop_point:SP_3673,Mitterrand,22
+2297778,19:02:00,19:02:10,stop_point:SP_1551,Montel,23
+2297778,19:03:00,19:03:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297778,19:05:00,19:05:10,stop_point:SP_414,Tournefeuille Les Chênes,25
+2297779,19:10:00,19:10:10,stop_point:SP_5087,La Salvetat Apouticayre,1
+2297779,19:12:00,19:12:10,stop_point:SP_5084,Oliviers,2
+2297779,19:13:00,19:13:10,stop_point:SP_5093,Grand Bois,3
+2297779,19:13:00,19:13:10,stop_point:SP_5089,Stade,4
+2297779,19:14:00,19:14:10,stop_point:SP_5090,Les Baraques,5
+2297779,19:15:00,19:15:10,stop_point:SP_3521,Mairie La Salvetat,6
+2297779,19:16:00,19:16:10,stop_point:SP_881,Italiens,7
+2297779,19:17:00,19:17:10,stop_point:SP_3139,Taure,8
+2297779,19:17:00,19:17:10,stop_point:SP_2144,Puymorens,9
+2297779,19:18:00,19:18:10,stop_point:SP_2494,Mûriers,10
+2297779,19:19:00,19:19:10,stop_point:SP_5137,Peyrette,11
+2297779,19:19:00,19:19:10,stop_point:SP_5083,Gibecière,12
+2297779,19:20:00,19:20:10,stop_point:SP_5082,Valette Haut,13
+2297779,19:20:00,19:20:10,stop_point:SP_5121,Fanjeau,14
+2297779,19:21:00,19:21:10,stop_point:SP_5165,Tertre,15
+2297779,19:21:00,19:21:10,stop_point:SP_5079,Chandelier,16
+2297779,19:22:00,19:22:10,stop_point:SP_2347,Touraine,17
+2297779,19:23:00,19:23:10,stop_point:SP_1974,Camargue,18
+2297779,19:24:00,19:24:10,stop_point:SP_2678,Ile de France,19
+2297779,19:25:00,19:25:10,stop_point:SP_3160,Rouergue,20
+2297779,19:26:00,19:26:10,stop_point:SP_3413,Gymnase,21
+2297779,19:26:00,19:26:10,stop_point:SP_3673,Mitterrand,22
+2297779,19:27:00,19:27:10,stop_point:SP_1551,Montel,23
+2297779,19:28:00,19:28:10,stop_point:SP_1439,Tournefeuille Les Chênes,24
+2297779,19:30:00,19:30:10,stop_point:SP_414,Tournefeuille Les Chênes,25

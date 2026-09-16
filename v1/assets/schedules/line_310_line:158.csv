@@ -1,0 +1,37 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2293038,15:10:00,15:10:10,stop_point:SP_4793,Muret Gare SNCF - Parvis,1
+2293038,15:11:00,15:11:10,stop_point:SP_834,Séro,2
+2293038,15:12:00,15:12:10,stop_point:SP_3522,Niel,3
+2293038,15:14:00,15:14:10,stop_point:SP_191,Gaston Bonheur,4
+2293038,15:14:00,15:14:10,stop_point:SP_5390,Muret Lycée,5
+2293038,15:15:00,15:15:10,stop_point:SP_4327,Collège Bétance,6
+2293038,15:19:00,15:19:10,stop_point:SP_4548,P. Mendès France,7
+2293038,15:21:00,15:21:10,stop_point:SP_4567,Baïolvilla,8
+2293038,15:24:00,15:24:10,stop_point:SP_5637,Muret Estantens Eglise,9
+2293039,17:35:00,17:35:10,stop_point:SP_4793,Muret Gare SNCF - Parvis,1
+2293039,17:38:00,17:38:10,stop_point:SP_834,Séro,2
+2293039,17:39:00,17:39:10,stop_point:SP_3522,Niel,3
+2293039,17:43:00,17:43:10,stop_point:SP_191,Gaston Bonheur,4
+2293039,17:43:00,17:43:10,stop_point:SP_5390,Muret Lycée,5
+2293039,17:44:00,17:44:10,stop_point:SP_4327,Collège Bétance,6
+2293039,17:49:00,17:49:10,stop_point:SP_4548,P. Mendès France,7
+2293039,17:51:00,17:51:10,stop_point:SP_4567,Baïolvilla,8
+2293039,17:53:00,17:53:10,stop_point:SP_5637,Muret Estantens Eglise,9
+2293040,07:30:00,07:30:10,stop_point:SP_5637,Muret Estantens Eglise,1
+2293040,07:31:00,07:31:10,stop_point:SP_4546,Baïolvilla,2
+2293040,07:33:00,07:33:10,stop_point:SP_4561,P. Mendès France,3
+2293040,07:39:00,07:39:10,stop_point:SP_4774,Collège Bétance,4
+2293040,07:39:00,07:39:10,stop_point:SP_5389,Muret Lycée,5
+2293040,07:40:00,07:40:10,stop_point:SP_554,Gaston Bonheur,6
+2293040,07:42:00,07:42:10,stop_point:SP_914,Niel,7
+2293040,07:43:00,07:43:10,stop_point:SP_530,Séro,8
+2293040,07:44:00,07:44:10,stop_point:SP_4793,Muret Gare SNCF - Parvis,9
+2293041,08:15:00,08:15:10,stop_point:SP_5637,Muret Estantens Eglise,1
+2293041,08:16:00,08:16:10,stop_point:SP_4546,Baïolvilla,2
+2293041,08:18:00,08:18:10,stop_point:SP_4561,P. Mendès France,3
+2293041,08:24:00,08:24:10,stop_point:SP_4774,Collège Bétance,4
+2293041,08:24:00,08:24:10,stop_point:SP_5389,Muret Lycée,5
+2293041,08:25:00,08:25:10,stop_point:SP_554,Gaston Bonheur,6
+2293041,08:27:00,08:27:10,stop_point:SP_914,Niel,7
+2293041,08:28:00,08:28:10,stop_point:SP_530,Séro,8
+2293041,08:29:00,08:29:10,stop_point:SP_4793,Muret Gare SNCF - Parvis,9

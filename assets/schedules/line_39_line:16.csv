@@ -1,0 +1,2789 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2286953,05:55:00,05:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286953,05:56:00,05:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286953,05:57:00,05:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286953,05:57:00,05:57:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286953,05:58:00,05:58:10,stop_point:SP_1660,Arago,5
+2286953,05:59:00,05:59:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286953,05:59:00,05:59:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286953,06:00:00,06:00:10,stop_point:SP_3535,Ste-Hélène,8
+2286953,06:00:00,06:00:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286953,06:01:00,06:01:10,stop_point:SP_2616,Ste-Augustine,10
+2286953,06:01:00,06:01:10,stop_point:SP_975,Roubichou,11
+2286953,06:02:00,06:02:10,stop_point:SP_1929,Amouroux,12
+2286954,06:39:00,06:39:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286954,06:40:00,06:40:10,stop_point:SP_3762,Place Roquelaine,2
+2286954,06:41:00,06:41:10,stop_point:SP_3728,Pont Matabiau,3
+2286954,06:41:00,06:41:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286954,06:42:00,06:42:10,stop_point:SP_1660,Arago,5
+2286954,06:43:00,06:43:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286954,06:43:00,06:43:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286954,06:44:00,06:44:10,stop_point:SP_3535,Ste-Hélène,8
+2286954,06:44:00,06:44:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286954,06:45:00,06:45:10,stop_point:SP_2616,Ste-Augustine,10
+2286954,06:45:00,06:45:10,stop_point:SP_975,Roubichou,11
+2286954,06:46:00,06:46:10,stop_point:SP_1929,Amouroux,12
+2286955,07:22:00,07:22:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286955,07:23:00,07:23:10,stop_point:SP_3762,Place Roquelaine,2
+2286955,07:24:00,07:24:10,stop_point:SP_3728,Pont Matabiau,3
+2286955,07:24:00,07:24:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286955,07:25:00,07:25:10,stop_point:SP_1660,Arago,5
+2286955,07:26:00,07:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286955,07:26:00,07:26:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286955,07:27:00,07:27:10,stop_point:SP_3535,Ste-Hélène,8
+2286955,07:27:00,07:27:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286955,07:28:00,07:28:10,stop_point:SP_2616,Ste-Augustine,10
+2286955,07:28:00,07:28:10,stop_point:SP_975,Roubichou,11
+2286955,07:29:00,07:29:10,stop_point:SP_1929,Amouroux,12
+2286956,07:43:00,07:43:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286956,07:44:00,07:44:10,stop_point:SP_3762,Place Roquelaine,2
+2286956,07:45:00,07:45:10,stop_point:SP_3728,Pont Matabiau,3
+2286956,07:45:00,07:45:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286956,07:46:00,07:46:10,stop_point:SP_1660,Arago,5
+2286956,07:47:00,07:47:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286956,07:47:00,07:47:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286956,07:48:00,07:48:10,stop_point:SP_3535,Ste-Hélène,8
+2286956,07:48:00,07:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286956,07:49:00,07:49:10,stop_point:SP_2616,Ste-Augustine,10
+2286956,07:49:00,07:49:10,stop_point:SP_975,Roubichou,11
+2286956,07:50:00,07:50:10,stop_point:SP_1929,Amouroux,12
+2286957,08:07:00,08:07:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286957,08:08:00,08:08:10,stop_point:SP_3762,Place Roquelaine,2
+2286957,08:09:00,08:09:10,stop_point:SP_3728,Pont Matabiau,3
+2286957,08:09:00,08:09:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286957,08:10:00,08:10:10,stop_point:SP_1660,Arago,5
+2286957,08:11:00,08:11:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286957,08:11:00,08:11:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286957,08:12:00,08:12:10,stop_point:SP_3535,Ste-Hélène,8
+2286957,08:12:00,08:12:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286957,08:13:00,08:13:10,stop_point:SP_2616,Ste-Augustine,10
+2286957,08:13:00,08:13:10,stop_point:SP_975,Roubichou,11
+2286957,08:14:00,08:14:10,stop_point:SP_1929,Amouroux,12
+2286958,08:31:00,08:31:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286958,08:32:00,08:32:10,stop_point:SP_3762,Place Roquelaine,2
+2286958,08:33:00,08:33:10,stop_point:SP_3728,Pont Matabiau,3
+2286958,08:33:00,08:33:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286958,08:34:00,08:34:10,stop_point:SP_1660,Arago,5
+2286958,08:35:00,08:35:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286958,08:35:00,08:35:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286958,08:36:00,08:36:10,stop_point:SP_3535,Ste-Hélène,8
+2286958,08:36:00,08:36:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286958,08:37:00,08:37:10,stop_point:SP_2616,Ste-Augustine,10
+2286958,08:37:00,08:37:10,stop_point:SP_975,Roubichou,11
+2286958,08:38:00,08:38:10,stop_point:SP_1929,Amouroux,12
+2286959,08:55:00,08:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286959,08:56:00,08:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286959,08:57:00,08:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286959,08:57:00,08:57:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286959,08:58:00,08:58:10,stop_point:SP_1660,Arago,5
+2286959,08:59:00,08:59:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286959,08:59:00,08:59:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286959,09:00:00,09:00:10,stop_point:SP_3535,Ste-Hélène,8
+2286959,09:00:00,09:00:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286959,09:01:00,09:01:10,stop_point:SP_2616,Ste-Augustine,10
+2286959,09:01:00,09:01:10,stop_point:SP_975,Roubichou,11
+2286959,09:02:00,09:02:10,stop_point:SP_1929,Amouroux,12
+2286960,09:20:00,09:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286960,09:21:00,09:21:10,stop_point:SP_3762,Place Roquelaine,2
+2286960,09:22:00,09:22:10,stop_point:SP_3728,Pont Matabiau,3
+2286960,09:23:00,09:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286960,09:24:00,09:24:10,stop_point:SP_1660,Arago,5
+2286960,09:25:00,09:25:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286960,09:26:00,09:26:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286960,09:26:00,09:26:10,stop_point:SP_3535,Ste-Hélène,8
+2286960,09:27:00,09:27:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286960,09:28:00,09:28:10,stop_point:SP_2616,Ste-Augustine,10
+2286960,09:28:00,09:28:10,stop_point:SP_975,Roubichou,11
+2286960,09:29:00,09:29:10,stop_point:SP_1929,Amouroux,12
+2286961,09:45:00,09:45:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286961,09:46:00,09:46:10,stop_point:SP_3762,Place Roquelaine,2
+2286961,09:47:00,09:47:10,stop_point:SP_3728,Pont Matabiau,3
+2286961,09:48:00,09:48:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286961,09:49:00,09:49:10,stop_point:SP_1660,Arago,5
+2286961,09:50:00,09:50:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286961,09:51:00,09:51:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286961,09:51:00,09:51:10,stop_point:SP_3535,Ste-Hélène,8
+2286961,09:52:00,09:52:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286961,09:53:00,09:53:10,stop_point:SP_2616,Ste-Augustine,10
+2286961,09:53:00,09:53:10,stop_point:SP_975,Roubichou,11
+2286961,09:54:00,09:54:10,stop_point:SP_1929,Amouroux,12
+2286962,10:10:00,10:10:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286962,10:11:00,10:11:10,stop_point:SP_3762,Place Roquelaine,2
+2286962,10:12:00,10:12:10,stop_point:SP_3728,Pont Matabiau,3
+2286962,10:13:00,10:13:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286962,10:14:00,10:14:10,stop_point:SP_1660,Arago,5
+2286962,10:15:00,10:15:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286962,10:16:00,10:16:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286962,10:16:00,10:16:10,stop_point:SP_3535,Ste-Hélène,8
+2286962,10:17:00,10:17:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286962,10:18:00,10:18:10,stop_point:SP_2616,Ste-Augustine,10
+2286962,10:18:00,10:18:10,stop_point:SP_975,Roubichou,11
+2286962,10:19:00,10:19:10,stop_point:SP_1929,Amouroux,12
+2286963,10:35:00,10:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286963,10:36:00,10:36:10,stop_point:SP_3762,Place Roquelaine,2
+2286963,10:37:00,10:37:10,stop_point:SP_3728,Pont Matabiau,3
+2286963,10:38:00,10:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286963,10:39:00,10:39:10,stop_point:SP_1660,Arago,5
+2286963,10:40:00,10:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286963,10:41:00,10:41:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286963,10:42:00,10:42:10,stop_point:SP_3535,Ste-Hélène,8
+2286963,10:43:00,10:43:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286963,10:44:00,10:44:10,stop_point:SP_2616,Ste-Augustine,10
+2286963,10:44:00,10:44:10,stop_point:SP_975,Roubichou,11
+2286963,10:45:00,10:45:10,stop_point:SP_1929,Amouroux,12
+2286964,11:00:00,11:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286964,11:01:00,11:01:10,stop_point:SP_3762,Place Roquelaine,2
+2286964,11:02:00,11:02:10,stop_point:SP_3728,Pont Matabiau,3
+2286964,11:03:00,11:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286964,11:04:00,11:04:10,stop_point:SP_1660,Arago,5
+2286964,11:05:00,11:05:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286964,11:06:00,11:06:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286964,11:07:00,11:07:10,stop_point:SP_3535,Ste-Hélène,8
+2286964,11:08:00,11:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286964,11:09:00,11:09:10,stop_point:SP_2616,Ste-Augustine,10
+2286964,11:09:00,11:09:10,stop_point:SP_975,Roubichou,11
+2286964,11:10:00,11:10:10,stop_point:SP_1929,Amouroux,12
+2286965,11:25:00,11:25:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286965,11:26:00,11:26:10,stop_point:SP_3762,Place Roquelaine,2
+2286965,11:27:00,11:27:10,stop_point:SP_3728,Pont Matabiau,3
+2286965,11:28:00,11:28:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286965,11:29:00,11:29:10,stop_point:SP_1660,Arago,5
+2286965,11:30:00,11:30:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286965,11:31:00,11:31:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286965,11:32:00,11:32:10,stop_point:SP_3535,Ste-Hélène,8
+2286965,11:33:00,11:33:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286965,11:34:00,11:34:10,stop_point:SP_2616,Ste-Augustine,10
+2286965,11:34:00,11:34:10,stop_point:SP_975,Roubichou,11
+2286965,11:35:00,11:35:10,stop_point:SP_1929,Amouroux,12
+2286966,11:50:00,11:50:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286966,11:51:00,11:51:10,stop_point:SP_3762,Place Roquelaine,2
+2286966,11:52:00,11:52:10,stop_point:SP_3728,Pont Matabiau,3
+2286966,11:53:00,11:53:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286966,11:54:00,11:54:10,stop_point:SP_1660,Arago,5
+2286966,11:55:00,11:55:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286966,11:56:00,11:56:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286966,11:57:00,11:57:10,stop_point:SP_3535,Ste-Hélène,8
+2286966,11:58:00,11:58:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286966,11:59:00,11:59:10,stop_point:SP_2616,Ste-Augustine,10
+2286966,11:59:00,11:59:10,stop_point:SP_975,Roubichou,11
+2286966,12:00:00,12:00:10,stop_point:SP_1929,Amouroux,12
+2286967,12:15:00,12:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286967,12:16:00,12:16:10,stop_point:SP_3762,Place Roquelaine,2
+2286967,12:17:00,12:17:10,stop_point:SP_3728,Pont Matabiau,3
+2286967,12:18:00,12:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286967,12:19:00,12:19:10,stop_point:SP_1660,Arago,5
+2286967,12:20:00,12:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286967,12:21:00,12:21:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286967,12:22:00,12:22:10,stop_point:SP_3535,Ste-Hélène,8
+2286967,12:23:00,12:23:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286967,12:24:00,12:24:10,stop_point:SP_2616,Ste-Augustine,10
+2286967,12:24:00,12:24:10,stop_point:SP_975,Roubichou,11
+2286967,12:25:00,12:25:10,stop_point:SP_1929,Amouroux,12
+2286968,12:40:00,12:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286968,12:41:00,12:41:10,stop_point:SP_3762,Place Roquelaine,2
+2286968,12:42:00,12:42:10,stop_point:SP_3728,Pont Matabiau,3
+2286968,12:43:00,12:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286968,12:44:00,12:44:10,stop_point:SP_1660,Arago,5
+2286968,12:45:00,12:45:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286968,12:46:00,12:46:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286968,12:47:00,12:47:10,stop_point:SP_3535,Ste-Hélène,8
+2286968,12:48:00,12:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286968,12:49:00,12:49:10,stop_point:SP_2616,Ste-Augustine,10
+2286968,12:49:00,12:49:10,stop_point:SP_975,Roubichou,11
+2286968,12:50:00,12:50:10,stop_point:SP_1929,Amouroux,12
+2286969,13:05:00,13:05:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286969,13:06:00,13:06:10,stop_point:SP_3762,Place Roquelaine,2
+2286969,13:07:00,13:07:10,stop_point:SP_3728,Pont Matabiau,3
+2286969,13:08:00,13:08:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286969,13:09:00,13:09:10,stop_point:SP_1660,Arago,5
+2286969,13:10:00,13:10:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286969,13:11:00,13:11:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286969,13:12:00,13:12:10,stop_point:SP_3535,Ste-Hélène,8
+2286969,13:13:00,13:13:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286969,13:14:00,13:14:10,stop_point:SP_2616,Ste-Augustine,10
+2286969,13:14:00,13:14:10,stop_point:SP_975,Roubichou,11
+2286969,13:15:00,13:15:10,stop_point:SP_1929,Amouroux,12
+2286970,13:30:00,13:30:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286970,13:31:00,13:31:10,stop_point:SP_3762,Place Roquelaine,2
+2286970,13:32:00,13:32:10,stop_point:SP_3728,Pont Matabiau,3
+2286970,13:33:00,13:33:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286970,13:34:00,13:34:10,stop_point:SP_1660,Arago,5
+2286970,13:35:00,13:35:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286970,13:36:00,13:36:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286970,13:37:00,13:37:10,stop_point:SP_3535,Ste-Hélène,8
+2286970,13:38:00,13:38:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286970,13:39:00,13:39:10,stop_point:SP_2616,Ste-Augustine,10
+2286970,13:39:00,13:39:10,stop_point:SP_975,Roubichou,11
+2286970,13:40:00,13:40:10,stop_point:SP_1929,Amouroux,12
+2286971,13:55:00,13:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286971,13:56:00,13:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286971,13:57:00,13:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286971,13:58:00,13:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286971,13:59:00,13:59:10,stop_point:SP_1660,Arago,5
+2286971,14:00:00,14:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286971,14:01:00,14:01:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286971,14:02:00,14:02:10,stop_point:SP_3535,Ste-Hélène,8
+2286971,14:03:00,14:03:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286971,14:04:00,14:04:10,stop_point:SP_2616,Ste-Augustine,10
+2286971,14:04:00,14:04:10,stop_point:SP_975,Roubichou,11
+2286971,14:05:00,14:05:10,stop_point:SP_1929,Amouroux,12
+2286972,14:20:00,14:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286972,14:21:00,14:21:10,stop_point:SP_3762,Place Roquelaine,2
+2286972,14:22:00,14:22:10,stop_point:SP_3728,Pont Matabiau,3
+2286972,14:23:00,14:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286972,14:24:00,14:24:10,stop_point:SP_1660,Arago,5
+2286972,14:25:00,14:25:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286972,14:26:00,14:26:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286972,14:27:00,14:27:10,stop_point:SP_3535,Ste-Hélène,8
+2286972,14:28:00,14:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286972,14:29:00,14:29:10,stop_point:SP_2616,Ste-Augustine,10
+2286972,14:29:00,14:29:10,stop_point:SP_975,Roubichou,11
+2286972,14:30:00,14:30:10,stop_point:SP_1929,Amouroux,12
+2286973,14:45:00,14:45:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286973,14:46:00,14:46:10,stop_point:SP_3762,Place Roquelaine,2
+2286973,14:47:00,14:47:10,stop_point:SP_3728,Pont Matabiau,3
+2286973,14:48:00,14:48:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286973,14:49:00,14:49:10,stop_point:SP_1660,Arago,5
+2286973,14:50:00,14:50:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286973,14:51:00,14:51:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286973,14:52:00,14:52:10,stop_point:SP_3535,Ste-Hélène,8
+2286973,14:53:00,14:53:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286973,14:54:00,14:54:10,stop_point:SP_2616,Ste-Augustine,10
+2286973,14:54:00,14:54:10,stop_point:SP_975,Roubichou,11
+2286973,14:55:00,14:55:10,stop_point:SP_1929,Amouroux,12
+2286974,15:10:00,15:10:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286974,15:11:00,15:11:10,stop_point:SP_3762,Place Roquelaine,2
+2286974,15:12:00,15:12:10,stop_point:SP_3728,Pont Matabiau,3
+2286974,15:13:00,15:13:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286974,15:14:00,15:14:10,stop_point:SP_1660,Arago,5
+2286974,15:15:00,15:15:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286974,15:16:00,15:16:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286974,15:17:00,15:17:10,stop_point:SP_3535,Ste-Hélène,8
+2286974,15:18:00,15:18:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286974,15:19:00,15:19:10,stop_point:SP_2616,Ste-Augustine,10
+2286974,15:19:00,15:19:10,stop_point:SP_975,Roubichou,11
+2286974,15:20:00,15:20:10,stop_point:SP_1929,Amouroux,12
+2286975,15:35:00,15:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286975,15:36:00,15:36:10,stop_point:SP_3762,Place Roquelaine,2
+2286975,15:37:00,15:37:10,stop_point:SP_3728,Pont Matabiau,3
+2286975,15:38:00,15:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286975,15:39:00,15:39:10,stop_point:SP_1660,Arago,5
+2286975,15:40:00,15:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286975,15:41:00,15:41:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286975,15:42:00,15:42:10,stop_point:SP_3535,Ste-Hélène,8
+2286975,15:43:00,15:43:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286975,15:44:00,15:44:10,stop_point:SP_2616,Ste-Augustine,10
+2286975,15:44:00,15:44:10,stop_point:SP_975,Roubichou,11
+2286975,15:45:00,15:45:10,stop_point:SP_1929,Amouroux,12
+2286976,16:00:00,16:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286976,16:01:00,16:01:10,stop_point:SP_3762,Place Roquelaine,2
+2286976,16:02:00,16:02:10,stop_point:SP_3728,Pont Matabiau,3
+2286976,16:03:00,16:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286976,16:04:00,16:04:10,stop_point:SP_1660,Arago,5
+2286976,16:05:00,16:05:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286976,16:06:00,16:06:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286976,16:07:00,16:07:10,stop_point:SP_3535,Ste-Hélène,8
+2286976,16:08:00,16:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286976,16:09:00,16:09:10,stop_point:SP_2616,Ste-Augustine,10
+2286976,16:09:00,16:09:10,stop_point:SP_975,Roubichou,11
+2286976,16:10:00,16:10:10,stop_point:SP_1929,Amouroux,12
+2286977,16:25:00,16:25:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286977,16:26:00,16:26:10,stop_point:SP_3762,Place Roquelaine,2
+2286977,16:27:00,16:27:10,stop_point:SP_3728,Pont Matabiau,3
+2286977,16:28:00,16:28:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286977,16:29:00,16:29:10,stop_point:SP_1660,Arago,5
+2286977,16:30:00,16:30:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286977,16:31:00,16:31:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286977,16:32:00,16:32:10,stop_point:SP_3535,Ste-Hélène,8
+2286977,16:33:00,16:33:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286977,16:34:00,16:34:10,stop_point:SP_2616,Ste-Augustine,10
+2286977,16:34:00,16:34:10,stop_point:SP_975,Roubichou,11
+2286977,16:35:00,16:35:10,stop_point:SP_1929,Amouroux,12
+2286978,16:50:00,16:50:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286978,16:51:00,16:51:10,stop_point:SP_3762,Place Roquelaine,2
+2286978,16:52:00,16:52:10,stop_point:SP_3728,Pont Matabiau,3
+2286978,16:53:00,16:53:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286978,16:54:00,16:54:10,stop_point:SP_1660,Arago,5
+2286978,16:55:00,16:55:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286978,16:56:00,16:56:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286978,16:57:00,16:57:10,stop_point:SP_3535,Ste-Hélène,8
+2286978,16:58:00,16:58:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286978,16:59:00,16:59:10,stop_point:SP_2616,Ste-Augustine,10
+2286978,16:59:00,16:59:10,stop_point:SP_975,Roubichou,11
+2286978,17:00:00,17:00:10,stop_point:SP_1929,Amouroux,12
+2286979,17:14:00,17:14:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286979,17:15:00,17:15:10,stop_point:SP_3762,Place Roquelaine,2
+2286979,17:16:00,17:16:10,stop_point:SP_3728,Pont Matabiau,3
+2286979,17:17:00,17:17:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286979,17:18:00,17:18:10,stop_point:SP_1660,Arago,5
+2286979,17:19:00,17:19:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286979,17:20:00,17:20:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286979,17:21:00,17:21:10,stop_point:SP_3535,Ste-Hélène,8
+2286979,17:22:00,17:22:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286979,17:23:00,17:23:10,stop_point:SP_2616,Ste-Augustine,10
+2286979,17:23:00,17:23:10,stop_point:SP_975,Roubichou,11
+2286979,17:24:00,17:24:10,stop_point:SP_1929,Amouroux,12
+2286980,17:39:00,17:39:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286980,17:40:00,17:40:10,stop_point:SP_3762,Place Roquelaine,2
+2286980,17:41:00,17:41:10,stop_point:SP_3728,Pont Matabiau,3
+2286980,17:42:00,17:42:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286980,17:43:00,17:43:10,stop_point:SP_1660,Arago,5
+2286980,17:44:00,17:44:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286980,17:45:00,17:45:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286980,17:46:00,17:46:10,stop_point:SP_3535,Ste-Hélène,8
+2286980,17:47:00,17:47:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286980,17:48:00,17:48:10,stop_point:SP_2616,Ste-Augustine,10
+2286980,17:48:00,17:48:10,stop_point:SP_975,Roubichou,11
+2286980,17:49:00,17:49:10,stop_point:SP_1929,Amouroux,12
+2286981,18:04:00,18:04:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286981,18:05:00,18:05:10,stop_point:SP_3762,Place Roquelaine,2
+2286981,18:06:00,18:06:10,stop_point:SP_3728,Pont Matabiau,3
+2286981,18:07:00,18:07:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286981,18:08:00,18:08:10,stop_point:SP_1660,Arago,5
+2286981,18:09:00,18:09:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286981,18:10:00,18:10:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286981,18:11:00,18:11:10,stop_point:SP_3535,Ste-Hélène,8
+2286981,18:12:00,18:12:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286981,18:13:00,18:13:10,stop_point:SP_2616,Ste-Augustine,10
+2286981,18:13:00,18:13:10,stop_point:SP_975,Roubichou,11
+2286981,18:14:00,18:14:10,stop_point:SP_1929,Amouroux,12
+2286982,18:29:00,18:29:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286982,18:30:00,18:30:10,stop_point:SP_3762,Place Roquelaine,2
+2286982,18:31:00,18:31:10,stop_point:SP_3728,Pont Matabiau,3
+2286982,18:32:00,18:32:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286982,18:33:00,18:33:10,stop_point:SP_1660,Arago,5
+2286982,18:34:00,18:34:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286982,18:35:00,18:35:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286982,18:36:00,18:36:10,stop_point:SP_3535,Ste-Hélène,8
+2286982,18:37:00,18:37:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286982,18:38:00,18:38:10,stop_point:SP_2616,Ste-Augustine,10
+2286982,18:38:00,18:38:10,stop_point:SP_975,Roubichou,11
+2286982,18:39:00,18:39:10,stop_point:SP_1929,Amouroux,12
+2286983,18:54:00,18:54:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286983,18:55:00,18:55:10,stop_point:SP_3762,Place Roquelaine,2
+2286983,18:56:00,18:56:10,stop_point:SP_3728,Pont Matabiau,3
+2286983,18:57:00,18:57:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286983,18:58:00,18:58:10,stop_point:SP_1660,Arago,5
+2286983,18:59:00,18:59:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286983,19:00:00,19:00:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286983,19:00:00,19:00:10,stop_point:SP_3535,Ste-Hélène,8
+2286983,19:01:00,19:01:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286983,19:02:00,19:02:10,stop_point:SP_2616,Ste-Augustine,10
+2286983,19:02:00,19:02:10,stop_point:SP_975,Roubichou,11
+2286983,19:03:00,19:03:10,stop_point:SP_1929,Amouroux,12
+2286984,19:24:00,19:24:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286984,19:25:00,19:25:10,stop_point:SP_3762,Place Roquelaine,2
+2286984,19:26:00,19:26:10,stop_point:SP_3728,Pont Matabiau,3
+2286984,19:27:00,19:27:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286984,19:28:00,19:28:10,stop_point:SP_1660,Arago,5
+2286984,19:29:00,19:29:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286984,19:30:00,19:30:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286984,19:30:00,19:30:10,stop_point:SP_3535,Ste-Hélène,8
+2286984,19:31:00,19:31:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286984,19:32:00,19:32:10,stop_point:SP_2616,Ste-Augustine,10
+2286984,19:32:00,19:32:10,stop_point:SP_975,Roubichou,11
+2286984,19:33:00,19:33:10,stop_point:SP_1929,Amouroux,12
+2286985,19:55:00,19:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286985,19:56:00,19:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286985,19:57:00,19:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286985,19:58:00,19:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286985,19:59:00,19:59:10,stop_point:SP_1660,Arago,5
+2286985,20:00:00,20:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286985,20:01:00,20:01:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286985,20:01:00,20:01:10,stop_point:SP_3535,Ste-Hélène,8
+2286985,20:02:00,20:02:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286985,20:03:00,20:03:10,stop_point:SP_2616,Ste-Augustine,10
+2286985,20:03:00,20:03:10,stop_point:SP_975,Roubichou,11
+2286985,20:04:00,20:04:10,stop_point:SP_1929,Amouroux,12
+2286986,20:35:00,20:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286986,20:36:00,20:36:10,stop_point:SP_3762,Place Roquelaine,2
+2286986,20:37:00,20:37:10,stop_point:SP_3728,Pont Matabiau,3
+2286986,20:38:00,20:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286986,20:39:00,20:39:10,stop_point:SP_1660,Arago,5
+2286986,20:40:00,20:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286986,20:41:00,20:41:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286986,20:41:00,20:41:10,stop_point:SP_3535,Ste-Hélène,8
+2286986,20:42:00,20:42:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286986,20:43:00,20:43:10,stop_point:SP_2616,Ste-Augustine,10
+2286986,20:43:00,20:43:10,stop_point:SP_975,Roubichou,11
+2286986,20:44:00,20:44:10,stop_point:SP_1929,Amouroux,12
+2286987,21:15:00,21:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286987,21:16:00,21:16:10,stop_point:SP_3762,Place Roquelaine,2
+2286987,21:17:00,21:17:10,stop_point:SP_3728,Pont Matabiau,3
+2286987,21:18:00,21:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286987,21:19:00,21:19:10,stop_point:SP_1660,Arago,5
+2286987,21:20:00,21:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286987,21:20:00,21:20:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286987,21:21:00,21:21:10,stop_point:SP_3535,Ste-Hélène,8
+2286987,21:21:00,21:21:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286987,21:22:00,21:22:10,stop_point:SP_2616,Ste-Augustine,10
+2286987,21:22:00,21:22:10,stop_point:SP_975,Roubichou,11
+2286987,21:23:00,21:23:10,stop_point:SP_1929,Amouroux,12
+2286988,21:55:00,21:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286988,21:56:00,21:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286988,21:57:00,21:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286988,21:58:00,21:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286988,21:59:00,21:59:10,stop_point:SP_1660,Arago,5
+2286988,22:00:00,22:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286988,22:00:00,22:00:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286988,22:01:00,22:01:10,stop_point:SP_3535,Ste-Hélène,8
+2286988,22:01:00,22:01:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286988,22:02:00,22:02:10,stop_point:SP_2616,Ste-Augustine,10
+2286988,22:02:00,22:02:10,stop_point:SP_975,Roubichou,11
+2286988,22:03:00,22:03:10,stop_point:SP_1929,Amouroux,12
+2286989,22:35:00,22:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286989,22:36:00,22:36:10,stop_point:SP_3762,Place Roquelaine,2
+2286989,22:37:00,22:37:10,stop_point:SP_3728,Pont Matabiau,3
+2286989,22:38:00,22:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286989,22:39:00,22:39:10,stop_point:SP_1660,Arago,5
+2286989,22:40:00,22:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286989,22:40:00,22:40:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286989,22:41:00,22:41:10,stop_point:SP_3535,Ste-Hélène,8
+2286989,22:41:00,22:41:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286989,22:42:00,22:42:10,stop_point:SP_2616,Ste-Augustine,10
+2286989,22:42:00,22:42:10,stop_point:SP_975,Roubichou,11
+2286989,22:43:00,22:43:10,stop_point:SP_1929,Amouroux,12
+2286990,23:15:00,23:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286990,23:16:00,23:16:10,stop_point:SP_3762,Place Roquelaine,2
+2286990,23:17:00,23:17:10,stop_point:SP_3728,Pont Matabiau,3
+2286990,23:18:00,23:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286990,23:19:00,23:19:10,stop_point:SP_1660,Arago,5
+2286990,23:20:00,23:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286990,23:20:00,23:20:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286990,23:21:00,23:21:10,stop_point:SP_3535,Ste-Hélène,8
+2286990,23:21:00,23:21:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286990,23:22:00,23:22:10,stop_point:SP_2616,Ste-Augustine,10
+2286990,23:22:00,23:22:10,stop_point:SP_975,Roubichou,11
+2286990,23:23:00,23:23:10,stop_point:SP_1929,Amouroux,12
+2286991,23:55:00,23:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286991,23:56:00,23:56:10,stop_point:SP_3762,Place Roquelaine,2
+2286991,23:57:00,23:57:10,stop_point:SP_3728,Pont Matabiau,3
+2286991,23:58:00,23:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286991,23:59:00,23:59:10,stop_point:SP_1660,Arago,5
+2286991,24:00:00,24:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286991,24:00:00,24:00:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286991,24:01:00,24:01:10,stop_point:SP_3535,Ste-Hélène,8
+2286991,24:01:00,24:01:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286991,24:02:00,24:02:10,stop_point:SP_2616,Ste-Augustine,10
+2286991,24:02:00,24:02:10,stop_point:SP_975,Roubichou,11
+2286991,24:03:00,24:03:10,stop_point:SP_1929,Amouroux,12
+2286992,24:35:00,24:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286992,24:36:00,24:36:10,stop_point:SP_3762,Place Roquelaine,2
+2286992,24:37:00,24:37:10,stop_point:SP_3728,Pont Matabiau,3
+2286992,24:38:00,24:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286992,24:39:00,24:39:10,stop_point:SP_1660,Arago,5
+2286992,24:40:00,24:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286992,24:40:00,24:40:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286992,24:41:00,24:41:10,stop_point:SP_3535,Ste-Hélène,8
+2286992,24:41:00,24:41:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286992,24:42:00,24:42:10,stop_point:SP_2616,Ste-Augustine,10
+2286992,24:42:00,24:42:10,stop_point:SP_975,Roubichou,11
+2286992,24:43:00,24:43:10,stop_point:SP_1929,Amouroux,12
+2286993,25:05:00,25:05:10,stop_point:SP_1882,Jeanne d'Arc,1
+2286993,25:06:00,25:06:10,stop_point:SP_3762,Place Roquelaine,2
+2286993,25:07:00,25:07:10,stop_point:SP_3728,Pont Matabiau,3
+2286993,25:08:00,25:08:10,stop_point:SP_2713,Matabiau - Raynal,4
+2286993,25:09:00,25:09:10,stop_point:SP_1660,Arago,5
+2286993,25:10:00,25:10:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2286993,25:10:00,25:10:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2286993,25:11:00,25:11:10,stop_point:SP_3535,Ste-Hélène,8
+2286993,25:11:00,25:11:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2286993,25:12:00,25:12:10,stop_point:SP_2616,Ste-Augustine,10
+2286993,25:12:00,25:12:10,stop_point:SP_975,Roubichou,11
+2286993,25:13:00,25:13:10,stop_point:SP_1929,Amouroux,12
+2286994,05:35:00,05:35:10,stop_point:SP_1929,Amouroux,1
+2286994,05:36:00,05:36:10,stop_point:SP_3954,Roubichou,2
+2286994,05:36:00,05:36:10,stop_point:SP_904,Ste-Augustine,3
+2286994,05:37:00,05:37:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286994,05:37:00,05:37:10,stop_point:SP_3807,Ste-Hélène,5
+2286994,05:38:00,05:38:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286994,05:38:00,05:38:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286994,05:39:00,05:39:10,stop_point:SP_1873,Arago,8
+2286994,05:40:00,05:40:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286994,05:41:00,05:41:10,stop_point:SP_2745,Pont Matabiau,10
+2286994,05:42:00,05:42:10,stop_point:SP_667,Place Roquelaine,11
+2286994,05:43:00,05:43:10,stop_point:SP_201,Jeanne d'Arc,12
+2286994,05:44:00,05:44:10,stop_point:SP_1882,Jeanne d'Arc,13
+2286995,06:15:00,06:15:10,stop_point:SP_1929,Amouroux,1
+2286995,06:16:00,06:16:10,stop_point:SP_3954,Roubichou,2
+2286995,06:16:00,06:16:10,stop_point:SP_904,Ste-Augustine,3
+2286995,06:17:00,06:17:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286995,06:17:00,06:17:10,stop_point:SP_3807,Ste-Hélène,5
+2286995,06:18:00,06:18:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286995,06:18:00,06:18:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286995,06:19:00,06:19:10,stop_point:SP_1873,Arago,8
+2286995,06:21:00,06:21:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286995,06:22:00,06:22:10,stop_point:SP_2745,Pont Matabiau,10
+2286995,06:23:00,06:23:10,stop_point:SP_667,Place Roquelaine,11
+2286995,06:24:00,06:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2286995,06:25:00,06:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2286996,06:52:00,06:52:10,stop_point:SP_1929,Amouroux,1
+2286996,06:53:00,06:53:10,stop_point:SP_3954,Roubichou,2
+2286996,06:53:00,06:53:10,stop_point:SP_904,Ste-Augustine,3
+2286996,06:54:00,06:54:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286996,06:54:00,06:54:10,stop_point:SP_3807,Ste-Hélène,5
+2286996,06:55:00,06:55:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286996,06:55:00,06:55:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286996,06:56:00,06:56:10,stop_point:SP_1873,Arago,8
+2286996,06:58:00,06:58:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286996,06:59:00,06:59:10,stop_point:SP_2745,Pont Matabiau,10
+2286996,07:00:00,07:00:10,stop_point:SP_667,Place Roquelaine,11
+2286996,07:01:00,07:01:10,stop_point:SP_201,Jeanne d'Arc,12
+2286996,07:02:00,07:02:10,stop_point:SP_1882,Jeanne d'Arc,13
+2286997,07:17:00,07:17:10,stop_point:SP_1929,Amouroux,1
+2286997,07:18:00,07:18:10,stop_point:SP_3954,Roubichou,2
+2286997,07:18:00,07:18:10,stop_point:SP_904,Ste-Augustine,3
+2286997,07:19:00,07:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286997,07:19:00,07:19:10,stop_point:SP_3807,Ste-Hélène,5
+2286997,07:20:00,07:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286997,07:20:00,07:20:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286997,07:21:00,07:21:10,stop_point:SP_1873,Arago,8
+2286997,07:23:00,07:23:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286997,07:24:00,07:24:10,stop_point:SP_2745,Pont Matabiau,10
+2286997,07:25:00,07:25:10,stop_point:SP_667,Place Roquelaine,11
+2286997,07:26:00,07:26:10,stop_point:SP_201,Jeanne d'Arc,12
+2286997,07:27:00,07:27:10,stop_point:SP_1882,Jeanne d'Arc,13
+2286998,07:37:00,07:37:10,stop_point:SP_1929,Amouroux,1
+2286998,07:38:00,07:38:10,stop_point:SP_3954,Roubichou,2
+2286998,07:38:00,07:38:10,stop_point:SP_904,Ste-Augustine,3
+2286998,07:39:00,07:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286998,07:39:00,07:39:10,stop_point:SP_3807,Ste-Hélène,5
+2286998,07:40:00,07:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286998,07:40:00,07:40:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286998,07:41:00,07:41:10,stop_point:SP_1873,Arago,8
+2286998,07:43:00,07:43:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286998,07:44:00,07:44:10,stop_point:SP_2745,Pont Matabiau,10
+2286998,07:45:00,07:45:10,stop_point:SP_667,Place Roquelaine,11
+2286998,07:46:00,07:46:10,stop_point:SP_201,Jeanne d'Arc,12
+2286998,07:47:00,07:47:10,stop_point:SP_1882,Jeanne d'Arc,13
+2286999,07:58:00,07:58:10,stop_point:SP_1929,Amouroux,1
+2286999,07:59:00,07:59:10,stop_point:SP_3954,Roubichou,2
+2286999,07:59:00,07:59:10,stop_point:SP_904,Ste-Augustine,3
+2286999,08:00:00,08:00:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2286999,08:00:00,08:00:10,stop_point:SP_3807,Ste-Hélène,5
+2286999,08:01:00,08:01:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2286999,08:01:00,08:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2286999,08:02:00,08:02:10,stop_point:SP_1873,Arago,8
+2286999,08:04:00,08:04:10,stop_point:SP_2801,Matabiau - Raynal,9
+2286999,08:05:00,08:05:10,stop_point:SP_2745,Pont Matabiau,10
+2286999,08:06:00,08:06:10,stop_point:SP_667,Place Roquelaine,11
+2286999,08:07:00,08:07:10,stop_point:SP_201,Jeanne d'Arc,12
+2286999,08:08:00,08:08:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287000,08:22:00,08:22:10,stop_point:SP_1929,Amouroux,1
+2287000,08:23:00,08:23:10,stop_point:SP_3954,Roubichou,2
+2287000,08:23:00,08:23:10,stop_point:SP_904,Ste-Augustine,3
+2287000,08:24:00,08:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287000,08:24:00,08:24:10,stop_point:SP_3807,Ste-Hélène,5
+2287000,08:25:00,08:25:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287000,08:25:00,08:25:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287000,08:26:00,08:26:10,stop_point:SP_1873,Arago,8
+2287000,08:28:00,08:28:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287000,08:29:00,08:29:10,stop_point:SP_2745,Pont Matabiau,10
+2287000,08:30:00,08:30:10,stop_point:SP_667,Place Roquelaine,11
+2287000,08:31:00,08:31:10,stop_point:SP_201,Jeanne d'Arc,12
+2287000,08:32:00,08:32:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287001,08:47:00,08:47:10,stop_point:SP_1929,Amouroux,1
+2287001,08:48:00,08:48:10,stop_point:SP_3954,Roubichou,2
+2287001,08:48:00,08:48:10,stop_point:SP_904,Ste-Augustine,3
+2287001,08:49:00,08:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287001,08:50:00,08:50:10,stop_point:SP_3807,Ste-Hélène,5
+2287001,08:50:00,08:50:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287001,08:51:00,08:51:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287001,08:52:00,08:52:10,stop_point:SP_1873,Arago,8
+2287001,08:54:00,08:54:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287001,08:55:00,08:55:10,stop_point:SP_2745,Pont Matabiau,10
+2287001,08:56:00,08:56:10,stop_point:SP_667,Place Roquelaine,11
+2287001,08:58:00,08:58:10,stop_point:SP_201,Jeanne d'Arc,12
+2287001,08:59:00,08:59:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287002,09:12:00,09:12:10,stop_point:SP_1929,Amouroux,1
+2287002,09:13:00,09:13:10,stop_point:SP_3954,Roubichou,2
+2287002,09:13:00,09:13:10,stop_point:SP_904,Ste-Augustine,3
+2287002,09:14:00,09:14:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287002,09:15:00,09:15:10,stop_point:SP_3807,Ste-Hélène,5
+2287002,09:16:00,09:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287002,09:17:00,09:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287002,09:18:00,09:18:10,stop_point:SP_1873,Arago,8
+2287002,09:20:00,09:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287002,09:21:00,09:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287002,09:22:00,09:22:10,stop_point:SP_667,Place Roquelaine,11
+2287002,09:24:00,09:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287002,09:25:00,09:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287003,09:37:00,09:37:10,stop_point:SP_1929,Amouroux,1
+2287003,09:38:00,09:38:10,stop_point:SP_3954,Roubichou,2
+2287003,09:38:00,09:38:10,stop_point:SP_904,Ste-Augustine,3
+2287003,09:39:00,09:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287003,09:40:00,09:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287003,09:41:00,09:41:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287003,09:42:00,09:42:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287003,09:43:00,09:43:10,stop_point:SP_1873,Arago,8
+2287003,09:45:00,09:45:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287003,09:46:00,09:46:10,stop_point:SP_2745,Pont Matabiau,10
+2287003,09:47:00,09:47:10,stop_point:SP_667,Place Roquelaine,11
+2287003,09:49:00,09:49:10,stop_point:SP_201,Jeanne d'Arc,12
+2287003,09:50:00,09:50:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287004,10:02:00,10:02:10,stop_point:SP_1929,Amouroux,1
+2287004,10:03:00,10:03:10,stop_point:SP_3954,Roubichou,2
+2287004,10:03:00,10:03:10,stop_point:SP_904,Ste-Augustine,3
+2287004,10:04:00,10:04:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287004,10:05:00,10:05:10,stop_point:SP_3807,Ste-Hélène,5
+2287004,10:06:00,10:06:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287004,10:07:00,10:07:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287004,10:08:00,10:08:10,stop_point:SP_1873,Arago,8
+2287004,10:10:00,10:10:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287004,10:11:00,10:11:10,stop_point:SP_2745,Pont Matabiau,10
+2287004,10:12:00,10:12:10,stop_point:SP_667,Place Roquelaine,11
+2287004,10:14:00,10:14:10,stop_point:SP_201,Jeanne d'Arc,12
+2287004,10:15:00,10:15:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287005,10:27:00,10:27:10,stop_point:SP_1929,Amouroux,1
+2287005,10:28:00,10:28:10,stop_point:SP_3954,Roubichou,2
+2287005,10:28:00,10:28:10,stop_point:SP_904,Ste-Augustine,3
+2287005,10:29:00,10:29:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287005,10:30:00,10:30:10,stop_point:SP_3807,Ste-Hélène,5
+2287005,10:31:00,10:31:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287005,10:32:00,10:32:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287005,10:33:00,10:33:10,stop_point:SP_1873,Arago,8
+2287005,10:35:00,10:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287005,10:36:00,10:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287005,10:37:00,10:37:10,stop_point:SP_667,Place Roquelaine,11
+2287005,10:39:00,10:39:10,stop_point:SP_201,Jeanne d'Arc,12
+2287005,10:40:00,10:40:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287006,10:52:00,10:52:10,stop_point:SP_1929,Amouroux,1
+2287006,10:53:00,10:53:10,stop_point:SP_3954,Roubichou,2
+2287006,10:53:00,10:53:10,stop_point:SP_904,Ste-Augustine,3
+2287006,10:54:00,10:54:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287006,10:55:00,10:55:10,stop_point:SP_3807,Ste-Hélène,5
+2287006,10:56:00,10:56:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287006,10:57:00,10:57:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287006,10:58:00,10:58:10,stop_point:SP_1873,Arago,8
+2287006,11:00:00,11:00:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287006,11:01:00,11:01:10,stop_point:SP_2745,Pont Matabiau,10
+2287006,11:02:00,11:02:10,stop_point:SP_667,Place Roquelaine,11
+2287006,11:04:00,11:04:10,stop_point:SP_201,Jeanne d'Arc,12
+2287006,11:05:00,11:05:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287007,11:17:00,11:17:10,stop_point:SP_1929,Amouroux,1
+2287007,11:18:00,11:18:10,stop_point:SP_3954,Roubichou,2
+2287007,11:18:00,11:18:10,stop_point:SP_904,Ste-Augustine,3
+2287007,11:19:00,11:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287007,11:20:00,11:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287007,11:21:00,11:21:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287007,11:22:00,11:22:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287007,11:23:00,11:23:10,stop_point:SP_1873,Arago,8
+2287007,11:25:00,11:25:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287007,11:26:00,11:26:10,stop_point:SP_2745,Pont Matabiau,10
+2287007,11:27:00,11:27:10,stop_point:SP_667,Place Roquelaine,11
+2287007,11:29:00,11:29:10,stop_point:SP_201,Jeanne d'Arc,12
+2287007,11:30:00,11:30:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287008,11:42:00,11:42:10,stop_point:SP_1929,Amouroux,1
+2287008,11:43:00,11:43:10,stop_point:SP_3954,Roubichou,2
+2287008,11:43:00,11:43:10,stop_point:SP_904,Ste-Augustine,3
+2287008,11:44:00,11:44:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287008,11:45:00,11:45:10,stop_point:SP_3807,Ste-Hélène,5
+2287008,11:46:00,11:46:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287008,11:47:00,11:47:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287008,11:48:00,11:48:10,stop_point:SP_1873,Arago,8
+2287008,11:50:00,11:50:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287008,11:51:00,11:51:10,stop_point:SP_2745,Pont Matabiau,10
+2287008,11:52:00,11:52:10,stop_point:SP_667,Place Roquelaine,11
+2287008,11:54:00,11:54:10,stop_point:SP_201,Jeanne d'Arc,12
+2287008,11:55:00,11:55:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287009,12:07:00,12:07:10,stop_point:SP_1929,Amouroux,1
+2287009,12:08:00,12:08:10,stop_point:SP_3954,Roubichou,2
+2287009,12:08:00,12:08:10,stop_point:SP_904,Ste-Augustine,3
+2287009,12:09:00,12:09:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287009,12:10:00,12:10:10,stop_point:SP_3807,Ste-Hélène,5
+2287009,12:11:00,12:11:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287009,12:12:00,12:12:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287009,12:13:00,12:13:10,stop_point:SP_1873,Arago,8
+2287009,12:15:00,12:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287009,12:16:00,12:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287009,12:17:00,12:17:10,stop_point:SP_667,Place Roquelaine,11
+2287009,12:19:00,12:19:10,stop_point:SP_201,Jeanne d'Arc,12
+2287009,12:20:00,12:20:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287010,12:32:00,12:32:10,stop_point:SP_1929,Amouroux,1
+2287010,12:33:00,12:33:10,stop_point:SP_3954,Roubichou,2
+2287010,12:33:00,12:33:10,stop_point:SP_904,Ste-Augustine,3
+2287010,12:34:00,12:34:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287010,12:35:00,12:35:10,stop_point:SP_3807,Ste-Hélène,5
+2287010,12:35:00,12:35:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287010,12:36:00,12:36:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287010,12:37:00,12:37:10,stop_point:SP_1873,Arago,8
+2287010,12:39:00,12:39:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287010,12:40:00,12:40:10,stop_point:SP_2745,Pont Matabiau,10
+2287010,12:41:00,12:41:10,stop_point:SP_667,Place Roquelaine,11
+2287010,12:43:00,12:43:10,stop_point:SP_201,Jeanne d'Arc,12
+2287010,12:44:00,12:44:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287011,12:57:00,12:57:10,stop_point:SP_1929,Amouroux,1
+2287011,12:58:00,12:58:10,stop_point:SP_3954,Roubichou,2
+2287011,12:58:00,12:58:10,stop_point:SP_904,Ste-Augustine,3
+2287011,12:59:00,12:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287011,13:00:00,13:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287011,13:00:00,13:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287011,13:01:00,13:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287011,13:02:00,13:02:10,stop_point:SP_1873,Arago,8
+2287011,13:04:00,13:04:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287011,13:05:00,13:05:10,stop_point:SP_2745,Pont Matabiau,10
+2287011,13:06:00,13:06:10,stop_point:SP_667,Place Roquelaine,11
+2287011,13:08:00,13:08:10,stop_point:SP_201,Jeanne d'Arc,12
+2287011,13:09:00,13:09:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287012,13:22:00,13:22:10,stop_point:SP_1929,Amouroux,1
+2287012,13:23:00,13:23:10,stop_point:SP_3954,Roubichou,2
+2287012,13:23:00,13:23:10,stop_point:SP_904,Ste-Augustine,3
+2287012,13:24:00,13:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287012,13:25:00,13:25:10,stop_point:SP_3807,Ste-Hélène,5
+2287012,13:25:00,13:25:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287012,13:26:00,13:26:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287012,13:27:00,13:27:10,stop_point:SP_1873,Arago,8
+2287012,13:29:00,13:29:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287012,13:30:00,13:30:10,stop_point:SP_2745,Pont Matabiau,10
+2287012,13:31:00,13:31:10,stop_point:SP_667,Place Roquelaine,11
+2287012,13:33:00,13:33:10,stop_point:SP_201,Jeanne d'Arc,12
+2287012,13:34:00,13:34:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287013,13:47:00,13:47:10,stop_point:SP_1929,Amouroux,1
+2287013,13:48:00,13:48:10,stop_point:SP_3954,Roubichou,2
+2287013,13:48:00,13:48:10,stop_point:SP_904,Ste-Augustine,3
+2287013,13:49:00,13:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287013,13:50:00,13:50:10,stop_point:SP_3807,Ste-Hélène,5
+2287013,13:50:00,13:50:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287013,13:51:00,13:51:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287013,13:52:00,13:52:10,stop_point:SP_1873,Arago,8
+2287013,13:54:00,13:54:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287013,13:55:00,13:55:10,stop_point:SP_2745,Pont Matabiau,10
+2287013,13:56:00,13:56:10,stop_point:SP_667,Place Roquelaine,11
+2287013,13:58:00,13:58:10,stop_point:SP_201,Jeanne d'Arc,12
+2287013,13:59:00,13:59:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287014,14:12:00,14:12:10,stop_point:SP_1929,Amouroux,1
+2287014,14:13:00,14:13:10,stop_point:SP_3954,Roubichou,2
+2287014,14:13:00,14:13:10,stop_point:SP_904,Ste-Augustine,3
+2287014,14:14:00,14:14:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287014,14:15:00,14:15:10,stop_point:SP_3807,Ste-Hélène,5
+2287014,14:15:00,14:15:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287014,14:16:00,14:16:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287014,14:17:00,14:17:10,stop_point:SP_1873,Arago,8
+2287014,14:19:00,14:19:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287014,14:20:00,14:20:10,stop_point:SP_2745,Pont Matabiau,10
+2287014,14:21:00,14:21:10,stop_point:SP_667,Place Roquelaine,11
+2287014,14:23:00,14:23:10,stop_point:SP_201,Jeanne d'Arc,12
+2287014,14:24:00,14:24:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287015,14:37:00,14:37:10,stop_point:SP_1929,Amouroux,1
+2287015,14:38:00,14:38:10,stop_point:SP_3954,Roubichou,2
+2287015,14:38:00,14:38:10,stop_point:SP_904,Ste-Augustine,3
+2287015,14:39:00,14:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287015,14:40:00,14:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287015,14:40:00,14:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287015,14:41:00,14:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287015,14:42:00,14:42:10,stop_point:SP_1873,Arago,8
+2287015,14:44:00,14:44:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287015,14:45:00,14:45:10,stop_point:SP_2745,Pont Matabiau,10
+2287015,14:47:00,14:47:10,stop_point:SP_667,Place Roquelaine,11
+2287015,14:49:00,14:49:10,stop_point:SP_201,Jeanne d'Arc,12
+2287015,14:50:00,14:50:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287016,15:02:00,15:02:10,stop_point:SP_1929,Amouroux,1
+2287016,15:03:00,15:03:10,stop_point:SP_3954,Roubichou,2
+2287016,15:03:00,15:03:10,stop_point:SP_904,Ste-Augustine,3
+2287016,15:04:00,15:04:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287016,15:05:00,15:05:10,stop_point:SP_3807,Ste-Hélène,5
+2287016,15:05:00,15:05:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287016,15:06:00,15:06:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287016,15:07:00,15:07:10,stop_point:SP_1873,Arago,8
+2287016,15:09:00,15:09:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287016,15:10:00,15:10:10,stop_point:SP_2745,Pont Matabiau,10
+2287016,15:12:00,15:12:10,stop_point:SP_667,Place Roquelaine,11
+2287016,15:14:00,15:14:10,stop_point:SP_201,Jeanne d'Arc,12
+2287016,15:15:00,15:15:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287017,15:27:00,15:27:10,stop_point:SP_1929,Amouroux,1
+2287017,15:28:00,15:28:10,stop_point:SP_3954,Roubichou,2
+2287017,15:28:00,15:28:10,stop_point:SP_904,Ste-Augustine,3
+2287017,15:29:00,15:29:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287017,15:30:00,15:30:10,stop_point:SP_3807,Ste-Hélène,5
+2287017,15:30:00,15:30:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287017,15:31:00,15:31:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287017,15:32:00,15:32:10,stop_point:SP_1873,Arago,8
+2287017,15:34:00,15:34:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287017,15:35:00,15:35:10,stop_point:SP_2745,Pont Matabiau,10
+2287017,15:37:00,15:37:10,stop_point:SP_667,Place Roquelaine,11
+2287017,15:39:00,15:39:10,stop_point:SP_201,Jeanne d'Arc,12
+2287017,15:40:00,15:40:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287018,15:52:00,15:52:10,stop_point:SP_1929,Amouroux,1
+2287018,15:53:00,15:53:10,stop_point:SP_3954,Roubichou,2
+2287018,15:53:00,15:53:10,stop_point:SP_904,Ste-Augustine,3
+2287018,15:54:00,15:54:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287018,15:55:00,15:55:10,stop_point:SP_3807,Ste-Hélène,5
+2287018,15:55:00,15:55:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287018,15:56:00,15:56:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287018,15:57:00,15:57:10,stop_point:SP_1873,Arago,8
+2287018,15:59:00,15:59:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287018,16:00:00,16:00:10,stop_point:SP_2745,Pont Matabiau,10
+2287018,16:02:00,16:02:10,stop_point:SP_667,Place Roquelaine,11
+2287018,16:04:00,16:04:10,stop_point:SP_201,Jeanne d'Arc,12
+2287018,16:05:00,16:05:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287019,16:17:00,16:17:10,stop_point:SP_1929,Amouroux,1
+2287019,16:18:00,16:18:10,stop_point:SP_3954,Roubichou,2
+2287019,16:18:00,16:18:10,stop_point:SP_904,Ste-Augustine,3
+2287019,16:19:00,16:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287019,16:20:00,16:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287019,16:20:00,16:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287019,16:21:00,16:21:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287019,16:22:00,16:22:10,stop_point:SP_1873,Arago,8
+2287019,16:24:00,16:24:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287019,16:25:00,16:25:10,stop_point:SP_2745,Pont Matabiau,10
+2287019,16:27:00,16:27:10,stop_point:SP_667,Place Roquelaine,11
+2287019,16:29:00,16:29:10,stop_point:SP_201,Jeanne d'Arc,12
+2287019,16:30:00,16:30:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287020,16:42:00,16:42:10,stop_point:SP_1929,Amouroux,1
+2287020,16:43:00,16:43:10,stop_point:SP_3954,Roubichou,2
+2287020,16:43:00,16:43:10,stop_point:SP_904,Ste-Augustine,3
+2287020,16:44:00,16:44:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287020,16:45:00,16:45:10,stop_point:SP_3807,Ste-Hélène,5
+2287020,16:45:00,16:45:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287020,16:46:00,16:46:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287020,16:47:00,16:47:10,stop_point:SP_1873,Arago,8
+2287020,16:49:00,16:49:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287020,16:50:00,16:50:10,stop_point:SP_2745,Pont Matabiau,10
+2287020,16:52:00,16:52:10,stop_point:SP_667,Place Roquelaine,11
+2287020,16:54:00,16:54:10,stop_point:SP_201,Jeanne d'Arc,12
+2287020,16:55:00,16:55:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287021,17:07:00,17:07:10,stop_point:SP_1929,Amouroux,1
+2287021,17:08:00,17:08:10,stop_point:SP_3954,Roubichou,2
+2287021,17:08:00,17:08:10,stop_point:SP_904,Ste-Augustine,3
+2287021,17:09:00,17:09:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287021,17:09:00,17:09:10,stop_point:SP_3807,Ste-Hélène,5
+2287021,17:10:00,17:10:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287021,17:10:00,17:10:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287021,17:11:00,17:11:10,stop_point:SP_1873,Arago,8
+2287021,17:13:00,17:13:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287021,17:14:00,17:14:10,stop_point:SP_2745,Pont Matabiau,10
+2287021,17:16:00,17:16:10,stop_point:SP_667,Place Roquelaine,11
+2287021,17:18:00,17:18:10,stop_point:SP_201,Jeanne d'Arc,12
+2287021,17:19:00,17:19:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287022,17:32:00,17:32:10,stop_point:SP_1929,Amouroux,1
+2287022,17:33:00,17:33:10,stop_point:SP_3954,Roubichou,2
+2287022,17:33:00,17:33:10,stop_point:SP_904,Ste-Augustine,3
+2287022,17:34:00,17:34:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287022,17:34:00,17:34:10,stop_point:SP_3807,Ste-Hélène,5
+2287022,17:35:00,17:35:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287022,17:35:00,17:35:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287022,17:36:00,17:36:10,stop_point:SP_1873,Arago,8
+2287022,17:38:00,17:38:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287022,17:39:00,17:39:10,stop_point:SP_2745,Pont Matabiau,10
+2287022,17:41:00,17:41:10,stop_point:SP_667,Place Roquelaine,11
+2287022,17:43:00,17:43:10,stop_point:SP_201,Jeanne d'Arc,12
+2287022,17:44:00,17:44:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287023,17:57:00,17:57:10,stop_point:SP_1929,Amouroux,1
+2287023,17:58:00,17:58:10,stop_point:SP_3954,Roubichou,2
+2287023,17:58:00,17:58:10,stop_point:SP_904,Ste-Augustine,3
+2287023,17:59:00,17:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287023,17:59:00,17:59:10,stop_point:SP_3807,Ste-Hélène,5
+2287023,18:00:00,18:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287023,18:00:00,18:00:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287023,18:01:00,18:01:10,stop_point:SP_1873,Arago,8
+2287023,18:03:00,18:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287023,18:04:00,18:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287023,18:06:00,18:06:10,stop_point:SP_667,Place Roquelaine,11
+2287023,18:08:00,18:08:10,stop_point:SP_201,Jeanne d'Arc,12
+2287023,18:09:00,18:09:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287024,18:22:00,18:22:10,stop_point:SP_1929,Amouroux,1
+2287024,18:23:00,18:23:10,stop_point:SP_3954,Roubichou,2
+2287024,18:23:00,18:23:10,stop_point:SP_904,Ste-Augustine,3
+2287024,18:24:00,18:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287024,18:24:00,18:24:10,stop_point:SP_3807,Ste-Hélène,5
+2287024,18:25:00,18:25:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287024,18:25:00,18:25:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287024,18:26:00,18:26:10,stop_point:SP_1873,Arago,8
+2287024,18:28:00,18:28:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287024,18:29:00,18:29:10,stop_point:SP_2745,Pont Matabiau,10
+2287024,18:30:00,18:30:10,stop_point:SP_667,Place Roquelaine,11
+2287024,18:32:00,18:32:10,stop_point:SP_201,Jeanne d'Arc,12
+2287024,18:33:00,18:33:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287025,18:47:00,18:47:10,stop_point:SP_1929,Amouroux,1
+2287025,18:48:00,18:48:10,stop_point:SP_3954,Roubichou,2
+2287025,18:48:00,18:48:10,stop_point:SP_904,Ste-Augustine,3
+2287025,18:49:00,18:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287025,18:49:00,18:49:10,stop_point:SP_3807,Ste-Hélène,5
+2287025,18:50:00,18:50:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287025,18:50:00,18:50:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287025,18:51:00,18:51:10,stop_point:SP_1873,Arago,8
+2287025,18:53:00,18:53:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287025,18:54:00,18:54:10,stop_point:SP_2745,Pont Matabiau,10
+2287025,18:55:00,18:55:10,stop_point:SP_667,Place Roquelaine,11
+2287025,18:57:00,18:57:10,stop_point:SP_201,Jeanne d'Arc,12
+2287025,18:58:00,18:58:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287026,19:14:00,19:14:10,stop_point:SP_1929,Amouroux,1
+2287026,19:15:00,19:15:10,stop_point:SP_3954,Roubichou,2
+2287026,19:15:00,19:15:10,stop_point:SP_904,Ste-Augustine,3
+2287026,19:16:00,19:16:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287026,19:16:00,19:16:10,stop_point:SP_3807,Ste-Hélène,5
+2287026,19:17:00,19:17:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287026,19:17:00,19:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287026,19:18:00,19:18:10,stop_point:SP_1873,Arago,8
+2287026,19:20:00,19:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287026,19:21:00,19:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287026,19:22:00,19:22:10,stop_point:SP_667,Place Roquelaine,11
+2287026,19:24:00,19:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287026,19:25:00,19:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287027,19:42:00,19:42:10,stop_point:SP_1929,Amouroux,1
+2287027,19:43:00,19:43:10,stop_point:SP_3954,Roubichou,2
+2287027,19:43:00,19:43:10,stop_point:SP_904,Ste-Augustine,3
+2287027,19:44:00,19:44:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287027,19:44:00,19:44:10,stop_point:SP_3807,Ste-Hélène,5
+2287027,19:45:00,19:45:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287027,19:45:00,19:45:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287027,19:46:00,19:46:10,stop_point:SP_1873,Arago,8
+2287027,19:48:00,19:48:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287027,19:49:00,19:49:10,stop_point:SP_2745,Pont Matabiau,10
+2287027,19:50:00,19:50:10,stop_point:SP_667,Place Roquelaine,11
+2287027,19:52:00,19:52:10,stop_point:SP_201,Jeanne d'Arc,12
+2287027,19:53:00,19:53:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287028,20:12:00,20:12:10,stop_point:SP_1929,Amouroux,1
+2287028,20:13:00,20:13:10,stop_point:SP_3954,Roubichou,2
+2287028,20:13:00,20:13:10,stop_point:SP_904,Ste-Augustine,3
+2287028,20:14:00,20:14:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287028,20:14:00,20:14:10,stop_point:SP_3807,Ste-Hélène,5
+2287028,20:15:00,20:15:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287028,20:15:00,20:15:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287028,20:16:00,20:16:10,stop_point:SP_1873,Arago,8
+2287028,20:18:00,20:18:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287028,20:19:00,20:19:10,stop_point:SP_2745,Pont Matabiau,10
+2287028,20:20:00,20:20:10,stop_point:SP_667,Place Roquelaine,11
+2287028,20:22:00,20:22:10,stop_point:SP_201,Jeanne d'Arc,12
+2287028,20:23:00,20:23:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287029,20:51:00,20:51:10,stop_point:SP_1929,Amouroux,1
+2287029,20:52:00,20:52:10,stop_point:SP_3954,Roubichou,2
+2287029,20:52:00,20:52:10,stop_point:SP_904,Ste-Augustine,3
+2287029,20:53:00,20:53:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287029,20:53:00,20:53:10,stop_point:SP_3807,Ste-Hélène,5
+2287029,20:54:00,20:54:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287029,20:54:00,20:54:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287029,20:55:00,20:55:10,stop_point:SP_1873,Arago,8
+2287029,20:57:00,20:57:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287029,20:58:00,20:58:10,stop_point:SP_2745,Pont Matabiau,10
+2287029,20:59:00,20:59:10,stop_point:SP_667,Place Roquelaine,11
+2287029,21:01:00,21:01:10,stop_point:SP_201,Jeanne d'Arc,12
+2287029,21:02:00,21:02:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287030,21:30:00,21:30:10,stop_point:SP_1929,Amouroux,1
+2287030,21:31:00,21:31:10,stop_point:SP_3954,Roubichou,2
+2287030,21:31:00,21:31:10,stop_point:SP_904,Ste-Augustine,3
+2287030,21:32:00,21:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287030,21:32:00,21:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287030,21:33:00,21:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287030,21:33:00,21:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287030,21:34:00,21:34:10,stop_point:SP_1873,Arago,8
+2287030,21:36:00,21:36:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287030,21:37:00,21:37:10,stop_point:SP_2745,Pont Matabiau,10
+2287030,21:38:00,21:38:10,stop_point:SP_667,Place Roquelaine,11
+2287030,21:40:00,21:40:10,stop_point:SP_201,Jeanne d'Arc,12
+2287030,21:41:00,21:41:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287031,22:10:00,22:10:10,stop_point:SP_1929,Amouroux,1
+2287031,22:11:00,22:11:10,stop_point:SP_3954,Roubichou,2
+2287031,22:11:00,22:11:10,stop_point:SP_904,Ste-Augustine,3
+2287031,22:12:00,22:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287031,22:12:00,22:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287031,22:13:00,22:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287031,22:13:00,22:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287031,22:14:00,22:14:10,stop_point:SP_1873,Arago,8
+2287031,22:16:00,22:16:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287031,22:17:00,22:17:10,stop_point:SP_2745,Pont Matabiau,10
+2287031,22:18:00,22:18:10,stop_point:SP_667,Place Roquelaine,11
+2287031,22:19:00,22:19:10,stop_point:SP_201,Jeanne d'Arc,12
+2287031,22:20:00,22:20:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287032,22:50:00,22:50:10,stop_point:SP_1929,Amouroux,1
+2287032,22:51:00,22:51:10,stop_point:SP_3954,Roubichou,2
+2287032,22:51:00,22:51:10,stop_point:SP_904,Ste-Augustine,3
+2287032,22:52:00,22:52:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287032,22:52:00,22:52:10,stop_point:SP_3807,Ste-Hélène,5
+2287032,22:53:00,22:53:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287032,22:53:00,22:53:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287032,22:54:00,22:54:10,stop_point:SP_1873,Arago,8
+2287032,22:56:00,22:56:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287032,22:57:00,22:57:10,stop_point:SP_2745,Pont Matabiau,10
+2287032,22:58:00,22:58:10,stop_point:SP_667,Place Roquelaine,11
+2287032,22:59:00,22:59:10,stop_point:SP_201,Jeanne d'Arc,12
+2287032,23:00:00,23:00:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287033,23:30:00,23:30:10,stop_point:SP_1929,Amouroux,1
+2287033,23:31:00,23:31:10,stop_point:SP_3954,Roubichou,2
+2287033,23:31:00,23:31:10,stop_point:SP_904,Ste-Augustine,3
+2287033,23:32:00,23:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287033,23:32:00,23:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287033,23:33:00,23:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287033,23:33:00,23:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287033,23:34:00,23:34:10,stop_point:SP_1873,Arago,8
+2287033,23:35:00,23:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287033,23:36:00,23:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287033,23:37:00,23:37:10,stop_point:SP_667,Place Roquelaine,11
+2287033,23:38:00,23:38:10,stop_point:SP_201,Jeanne d'Arc,12
+2287033,23:39:00,23:39:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287034,24:10:00,24:10:10,stop_point:SP_1929,Amouroux,1
+2287034,24:11:00,24:11:10,stop_point:SP_3954,Roubichou,2
+2287034,24:11:00,24:11:10,stop_point:SP_904,Ste-Augustine,3
+2287034,24:12:00,24:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287034,24:12:00,24:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287034,24:13:00,24:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287034,24:13:00,24:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287034,24:14:00,24:14:10,stop_point:SP_1873,Arago,8
+2287034,24:15:00,24:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287034,24:16:00,24:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287034,24:17:00,24:17:10,stop_point:SP_667,Place Roquelaine,11
+2287034,24:18:00,24:18:10,stop_point:SP_201,Jeanne d'Arc,12
+2287034,24:19:00,24:19:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287035,24:50:00,24:50:10,stop_point:SP_1929,Amouroux,1
+2287035,24:51:00,24:51:10,stop_point:SP_3954,Roubichou,2
+2287035,24:51:00,24:51:10,stop_point:SP_904,Ste-Augustine,3
+2287035,24:52:00,24:52:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287035,24:52:00,24:52:10,stop_point:SP_3807,Ste-Hélène,5
+2287035,24:53:00,24:53:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287035,24:53:00,24:53:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287035,24:54:00,24:54:10,stop_point:SP_1873,Arago,8
+2287035,24:55:00,24:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287035,24:56:00,24:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287035,24:57:00,24:57:10,stop_point:SP_667,Place Roquelaine,11
+2287035,24:58:00,24:58:10,stop_point:SP_201,Jeanne d'Arc,12
+2287035,24:59:00,24:59:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287119,05:35:00,05:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287119,05:36:00,05:36:10,stop_point:SP_3762,Place Roquelaine,2
+2287119,05:37:00,05:37:10,stop_point:SP_3728,Pont Matabiau,3
+2287119,05:37:00,05:37:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287119,05:38:00,05:38:10,stop_point:SP_1660,Arago,5
+2287119,05:39:00,05:39:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287119,05:39:00,05:39:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287119,05:40:00,05:40:10,stop_point:SP_3535,Ste-Hélène,8
+2287119,05:40:00,05:40:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287119,05:41:00,05:41:10,stop_point:SP_2616,Ste-Augustine,10
+2287119,05:41:00,05:41:10,stop_point:SP_975,Roubichou,11
+2287119,05:42:00,05:42:10,stop_point:SP_1929,Amouroux,12
+2287120,06:00:00,06:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287120,06:01:00,06:01:10,stop_point:SP_3762,Place Roquelaine,2
+2287120,06:02:00,06:02:10,stop_point:SP_3728,Pont Matabiau,3
+2287120,06:02:00,06:02:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287120,06:03:00,06:03:10,stop_point:SP_1660,Arago,5
+2287120,06:04:00,06:04:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287120,06:04:00,06:04:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287120,06:05:00,06:05:10,stop_point:SP_3535,Ste-Hélène,8
+2287120,06:05:00,06:05:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287120,06:06:00,06:06:10,stop_point:SP_2616,Ste-Augustine,10
+2287120,06:06:00,06:06:10,stop_point:SP_975,Roubichou,11
+2287120,06:07:00,06:07:10,stop_point:SP_1929,Amouroux,12
+2287121,06:25:00,06:25:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287121,06:26:00,06:26:10,stop_point:SP_3762,Place Roquelaine,2
+2287121,06:27:00,06:27:10,stop_point:SP_3728,Pont Matabiau,3
+2287121,06:27:00,06:27:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287121,06:28:00,06:28:10,stop_point:SP_1660,Arago,5
+2287121,06:29:00,06:29:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287121,06:29:00,06:29:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287121,06:30:00,06:30:10,stop_point:SP_3535,Ste-Hélène,8
+2287121,06:30:00,06:30:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287121,06:31:00,06:31:10,stop_point:SP_2616,Ste-Augustine,10
+2287121,06:31:00,06:31:10,stop_point:SP_975,Roubichou,11
+2287121,06:32:00,06:32:10,stop_point:SP_1929,Amouroux,12
+2287122,06:50:00,06:50:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287122,06:51:00,06:51:10,stop_point:SP_3762,Place Roquelaine,2
+2287122,06:52:00,06:52:10,stop_point:SP_3728,Pont Matabiau,3
+2287122,06:53:00,06:53:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287122,06:54:00,06:54:10,stop_point:SP_1660,Arago,5
+2287122,06:55:00,06:55:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287122,06:55:00,06:55:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287122,06:56:00,06:56:10,stop_point:SP_3535,Ste-Hélène,8
+2287122,06:56:00,06:56:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287122,06:57:00,06:57:10,stop_point:SP_2616,Ste-Augustine,10
+2287122,06:57:00,06:57:10,stop_point:SP_975,Roubichou,11
+2287122,06:58:00,06:58:10,stop_point:SP_1929,Amouroux,12
+2287123,07:04:00,07:04:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287123,07:05:00,07:05:10,stop_point:SP_3762,Place Roquelaine,2
+2287123,07:06:00,07:06:10,stop_point:SP_3728,Pont Matabiau,3
+2287123,07:07:00,07:07:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287123,07:08:00,07:08:10,stop_point:SP_1660,Arago,5
+2287123,07:09:00,07:09:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287123,07:09:00,07:09:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287123,07:10:00,07:10:10,stop_point:SP_3535,Ste-Hélène,8
+2287123,07:10:00,07:10:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287123,07:11:00,07:11:10,stop_point:SP_2616,Ste-Augustine,10
+2287123,07:11:00,07:11:10,stop_point:SP_975,Roubichou,11
+2287123,07:12:00,07:12:10,stop_point:SP_1929,Amouroux,12
+2287124,07:38:00,07:38:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287124,07:39:00,07:39:10,stop_point:SP_3762,Place Roquelaine,2
+2287124,07:40:00,07:40:10,stop_point:SP_3728,Pont Matabiau,3
+2287124,07:41:00,07:41:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287124,07:42:00,07:42:10,stop_point:SP_1660,Arago,5
+2287124,07:43:00,07:43:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287124,07:44:00,07:44:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287124,07:44:00,07:44:10,stop_point:SP_3535,Ste-Hélène,8
+2287124,07:45:00,07:45:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287124,07:46:00,07:46:10,stop_point:SP_2616,Ste-Augustine,10
+2287124,07:46:00,07:46:10,stop_point:SP_975,Roubichou,11
+2287124,07:47:00,07:47:10,stop_point:SP_1929,Amouroux,12
+2287125,07:53:00,07:53:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287125,07:54:00,07:54:10,stop_point:SP_3762,Place Roquelaine,2
+2287125,07:55:00,07:55:10,stop_point:SP_3728,Pont Matabiau,3
+2287125,07:56:00,07:56:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287125,07:57:00,07:57:10,stop_point:SP_1660,Arago,5
+2287125,07:58:00,07:58:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287125,07:59:00,07:59:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287125,07:59:00,07:59:10,stop_point:SP_3535,Ste-Hélène,8
+2287125,08:00:00,08:00:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287125,08:01:00,08:01:10,stop_point:SP_2616,Ste-Augustine,10
+2287125,08:01:00,08:01:10,stop_point:SP_975,Roubichou,11
+2287125,08:02:00,08:02:10,stop_point:SP_1929,Amouroux,12
+2287126,08:29:00,08:29:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287126,08:31:00,08:31:10,stop_point:SP_3762,Place Roquelaine,2
+2287126,08:32:00,08:32:10,stop_point:SP_3728,Pont Matabiau,3
+2287126,08:32:00,08:32:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287126,08:34:00,08:34:10,stop_point:SP_1660,Arago,5
+2287126,08:35:00,08:35:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287126,08:36:00,08:36:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287126,08:36:00,08:36:10,stop_point:SP_3535,Ste-Hélène,8
+2287126,08:37:00,08:37:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287126,08:38:00,08:38:10,stop_point:SP_2616,Ste-Augustine,10
+2287126,08:38:00,08:38:10,stop_point:SP_975,Roubichou,11
+2287126,08:39:00,08:39:10,stop_point:SP_1929,Amouroux,12
+2287127,08:55:00,08:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287127,08:57:00,08:57:10,stop_point:SP_3762,Place Roquelaine,2
+2287127,08:58:00,08:58:10,stop_point:SP_3728,Pont Matabiau,3
+2287127,08:58:00,08:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287127,09:00:00,09:00:10,stop_point:SP_1660,Arago,5
+2287127,09:01:00,09:01:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287127,09:02:00,09:02:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287127,09:02:00,09:02:10,stop_point:SP_3535,Ste-Hélène,8
+2287127,09:03:00,09:03:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287127,09:04:00,09:04:10,stop_point:SP_2616,Ste-Augustine,10
+2287127,09:04:00,09:04:10,stop_point:SP_975,Roubichou,11
+2287127,09:05:00,09:05:10,stop_point:SP_1929,Amouroux,12
+2287128,09:20:00,09:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287128,09:22:00,09:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287128,09:23:00,09:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287128,09:23:00,09:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287128,09:25:00,09:25:10,stop_point:SP_1660,Arago,5
+2287128,09:26:00,09:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287128,09:27:00,09:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287128,09:27:00,09:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287128,09:28:00,09:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287128,09:29:00,09:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287128,09:29:00,09:29:10,stop_point:SP_975,Roubichou,11
+2287128,09:30:00,09:30:10,stop_point:SP_1929,Amouroux,12
+2287129,09:45:00,09:45:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287129,09:47:00,09:47:10,stop_point:SP_3762,Place Roquelaine,2
+2287129,09:48:00,09:48:10,stop_point:SP_3728,Pont Matabiau,3
+2287129,09:48:00,09:48:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287129,09:50:00,09:50:10,stop_point:SP_1660,Arago,5
+2287129,09:51:00,09:51:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287129,09:52:00,09:52:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287129,09:52:00,09:52:10,stop_point:SP_3535,Ste-Hélène,8
+2287129,09:53:00,09:53:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287129,09:54:00,09:54:10,stop_point:SP_2616,Ste-Augustine,10
+2287129,09:54:00,09:54:10,stop_point:SP_975,Roubichou,11
+2287129,09:55:00,09:55:10,stop_point:SP_1929,Amouroux,12
+2287130,10:10:00,10:10:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287130,10:12:00,10:12:10,stop_point:SP_3762,Place Roquelaine,2
+2287130,10:13:00,10:13:10,stop_point:SP_3728,Pont Matabiau,3
+2287130,10:13:00,10:13:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287130,10:15:00,10:15:10,stop_point:SP_1660,Arago,5
+2287130,10:16:00,10:16:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287130,10:17:00,10:17:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287130,10:17:00,10:17:10,stop_point:SP_3535,Ste-Hélène,8
+2287130,10:18:00,10:18:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287130,10:19:00,10:19:10,stop_point:SP_2616,Ste-Augustine,10
+2287130,10:19:00,10:19:10,stop_point:SP_975,Roubichou,11
+2287130,10:20:00,10:20:10,stop_point:SP_1929,Amouroux,12
+2287131,10:35:00,10:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287131,10:37:00,10:37:10,stop_point:SP_3762,Place Roquelaine,2
+2287131,10:38:00,10:38:10,stop_point:SP_3728,Pont Matabiau,3
+2287131,10:38:00,10:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287131,10:40:00,10:40:10,stop_point:SP_1660,Arago,5
+2287131,10:41:00,10:41:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287131,10:42:00,10:42:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287131,10:42:00,10:42:10,stop_point:SP_3535,Ste-Hélène,8
+2287131,10:43:00,10:43:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287131,10:44:00,10:44:10,stop_point:SP_2616,Ste-Augustine,10
+2287131,10:44:00,10:44:10,stop_point:SP_975,Roubichou,11
+2287131,10:45:00,10:45:10,stop_point:SP_1929,Amouroux,12
+2287132,11:00:00,11:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287132,11:02:00,11:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287132,11:03:00,11:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287132,11:03:00,11:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287132,11:05:00,11:05:10,stop_point:SP_1660,Arago,5
+2287132,11:06:00,11:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287132,11:07:00,11:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287132,11:07:00,11:07:10,stop_point:SP_3535,Ste-Hélène,8
+2287132,11:08:00,11:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287132,11:09:00,11:09:10,stop_point:SP_2616,Ste-Augustine,10
+2287132,11:09:00,11:09:10,stop_point:SP_975,Roubichou,11
+2287132,11:10:00,11:10:10,stop_point:SP_1929,Amouroux,12
+2287133,11:25:00,11:25:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287133,11:27:00,11:27:10,stop_point:SP_3762,Place Roquelaine,2
+2287133,11:28:00,11:28:10,stop_point:SP_3728,Pont Matabiau,3
+2287133,11:28:00,11:28:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287133,11:30:00,11:30:10,stop_point:SP_1660,Arago,5
+2287133,11:31:00,11:31:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287133,11:32:00,11:32:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287133,11:32:00,11:32:10,stop_point:SP_3535,Ste-Hélène,8
+2287133,11:33:00,11:33:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287133,11:34:00,11:34:10,stop_point:SP_2616,Ste-Augustine,10
+2287133,11:34:00,11:34:10,stop_point:SP_975,Roubichou,11
+2287133,11:35:00,11:35:10,stop_point:SP_1929,Amouroux,12
+2287134,11:50:00,11:50:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287134,11:52:00,11:52:10,stop_point:SP_3762,Place Roquelaine,2
+2287134,11:53:00,11:53:10,stop_point:SP_3728,Pont Matabiau,3
+2287134,11:53:00,11:53:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287134,11:55:00,11:55:10,stop_point:SP_1660,Arago,5
+2287134,11:56:00,11:56:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287134,11:57:00,11:57:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287134,11:57:00,11:57:10,stop_point:SP_3535,Ste-Hélène,8
+2287134,11:58:00,11:58:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287134,11:59:00,11:59:10,stop_point:SP_2616,Ste-Augustine,10
+2287134,11:59:00,11:59:10,stop_point:SP_975,Roubichou,11
+2287134,12:00:00,12:00:10,stop_point:SP_1929,Amouroux,12
+2287135,12:15:00,12:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287135,12:17:00,12:17:10,stop_point:SP_3762,Place Roquelaine,2
+2287135,12:18:00,12:18:10,stop_point:SP_3728,Pont Matabiau,3
+2287135,12:18:00,12:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287135,12:20:00,12:20:10,stop_point:SP_1660,Arago,5
+2287135,12:21:00,12:21:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287135,12:22:00,12:22:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287135,12:22:00,12:22:10,stop_point:SP_3535,Ste-Hélène,8
+2287135,12:23:00,12:23:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287135,12:24:00,12:24:10,stop_point:SP_2616,Ste-Augustine,10
+2287135,12:24:00,12:24:10,stop_point:SP_975,Roubichou,11
+2287135,12:25:00,12:25:10,stop_point:SP_1929,Amouroux,12
+2287136,12:40:00,12:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287136,12:42:00,12:42:10,stop_point:SP_3762,Place Roquelaine,2
+2287136,12:43:00,12:43:10,stop_point:SP_3728,Pont Matabiau,3
+2287136,12:43:00,12:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287136,12:45:00,12:45:10,stop_point:SP_1660,Arago,5
+2287136,12:46:00,12:46:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287136,12:47:00,12:47:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287136,12:47:00,12:47:10,stop_point:SP_3535,Ste-Hélène,8
+2287136,12:48:00,12:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287136,12:49:00,12:49:10,stop_point:SP_2616,Ste-Augustine,10
+2287136,12:49:00,12:49:10,stop_point:SP_975,Roubichou,11
+2287136,12:50:00,12:50:10,stop_point:SP_1929,Amouroux,12
+2287137,13:05:00,13:05:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287137,13:07:00,13:07:10,stop_point:SP_3762,Place Roquelaine,2
+2287137,13:08:00,13:08:10,stop_point:SP_3728,Pont Matabiau,3
+2287137,13:08:00,13:08:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287137,13:10:00,13:10:10,stop_point:SP_1660,Arago,5
+2287137,13:11:00,13:11:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287137,13:12:00,13:12:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287137,13:12:00,13:12:10,stop_point:SP_3535,Ste-Hélène,8
+2287137,13:13:00,13:13:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287137,13:14:00,13:14:10,stop_point:SP_2616,Ste-Augustine,10
+2287137,13:14:00,13:14:10,stop_point:SP_975,Roubichou,11
+2287137,13:15:00,13:15:10,stop_point:SP_1929,Amouroux,12
+2287138,13:30:00,13:30:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287138,13:32:00,13:32:10,stop_point:SP_3762,Place Roquelaine,2
+2287138,13:33:00,13:33:10,stop_point:SP_3728,Pont Matabiau,3
+2287138,13:33:00,13:33:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287138,13:35:00,13:35:10,stop_point:SP_1660,Arago,5
+2287138,13:36:00,13:36:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287138,13:37:00,13:37:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287138,13:37:00,13:37:10,stop_point:SP_3535,Ste-Hélène,8
+2287138,13:38:00,13:38:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287138,13:39:00,13:39:10,stop_point:SP_2616,Ste-Augustine,10
+2287138,13:39:00,13:39:10,stop_point:SP_975,Roubichou,11
+2287138,13:40:00,13:40:10,stop_point:SP_1929,Amouroux,12
+2287139,13:55:00,13:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287139,13:57:00,13:57:10,stop_point:SP_3762,Place Roquelaine,2
+2287139,13:58:00,13:58:10,stop_point:SP_3728,Pont Matabiau,3
+2287139,13:58:00,13:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287139,14:00:00,14:00:10,stop_point:SP_1660,Arago,5
+2287139,14:01:00,14:01:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287139,14:02:00,14:02:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287139,14:02:00,14:02:10,stop_point:SP_3535,Ste-Hélène,8
+2287139,14:03:00,14:03:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287139,14:04:00,14:04:10,stop_point:SP_2616,Ste-Augustine,10
+2287139,14:04:00,14:04:10,stop_point:SP_975,Roubichou,11
+2287139,14:05:00,14:05:10,stop_point:SP_1929,Amouroux,12
+2287140,14:20:00,14:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287140,14:22:00,14:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287140,14:23:00,14:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287140,14:23:00,14:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287140,14:25:00,14:25:10,stop_point:SP_1660,Arago,5
+2287140,14:26:00,14:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287140,14:27:00,14:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287140,14:27:00,14:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287140,14:28:00,14:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287140,14:29:00,14:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287140,14:29:00,14:29:10,stop_point:SP_975,Roubichou,11
+2287140,14:30:00,14:30:10,stop_point:SP_1929,Amouroux,12
+2287141,14:45:00,14:45:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287141,14:47:00,14:47:10,stop_point:SP_3762,Place Roquelaine,2
+2287141,14:48:00,14:48:10,stop_point:SP_3728,Pont Matabiau,3
+2287141,14:48:00,14:48:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287141,14:50:00,14:50:10,stop_point:SP_1660,Arago,5
+2287141,14:51:00,14:51:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287141,14:52:00,14:52:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287141,14:52:00,14:52:10,stop_point:SP_3535,Ste-Hélène,8
+2287141,14:53:00,14:53:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287141,14:54:00,14:54:10,stop_point:SP_2616,Ste-Augustine,10
+2287141,14:54:00,14:54:10,stop_point:SP_975,Roubichou,11
+2287141,14:55:00,14:55:10,stop_point:SP_1929,Amouroux,12
+2287142,15:10:00,15:10:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287142,15:12:00,15:12:10,stop_point:SP_3762,Place Roquelaine,2
+2287142,15:13:00,15:13:10,stop_point:SP_3728,Pont Matabiau,3
+2287142,15:13:00,15:13:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287142,15:15:00,15:15:10,stop_point:SP_1660,Arago,5
+2287142,15:16:00,15:16:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287142,15:17:00,15:17:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287142,15:17:00,15:17:10,stop_point:SP_3535,Ste-Hélène,8
+2287142,15:18:00,15:18:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287142,15:19:00,15:19:10,stop_point:SP_2616,Ste-Augustine,10
+2287142,15:19:00,15:19:10,stop_point:SP_975,Roubichou,11
+2287142,15:20:00,15:20:10,stop_point:SP_1929,Amouroux,12
+2287143,15:35:00,15:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287143,15:37:00,15:37:10,stop_point:SP_3762,Place Roquelaine,2
+2287143,15:38:00,15:38:10,stop_point:SP_3728,Pont Matabiau,3
+2287143,15:38:00,15:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287143,15:40:00,15:40:10,stop_point:SP_1660,Arago,5
+2287143,15:41:00,15:41:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287143,15:42:00,15:42:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287143,15:43:00,15:43:10,stop_point:SP_3535,Ste-Hélène,8
+2287143,15:44:00,15:44:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287143,15:45:00,15:45:10,stop_point:SP_2616,Ste-Augustine,10
+2287143,15:45:00,15:45:10,stop_point:SP_975,Roubichou,11
+2287143,15:46:00,15:46:10,stop_point:SP_1929,Amouroux,12
+2287144,16:00:00,16:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287144,16:02:00,16:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287144,16:03:00,16:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287144,16:03:00,16:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287144,16:05:00,16:05:10,stop_point:SP_1660,Arago,5
+2287144,16:06:00,16:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287144,16:07:00,16:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287144,16:08:00,16:08:10,stop_point:SP_3535,Ste-Hélène,8
+2287144,16:09:00,16:09:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287144,16:10:00,16:10:10,stop_point:SP_2616,Ste-Augustine,10
+2287144,16:10:00,16:10:10,stop_point:SP_975,Roubichou,11
+2287144,16:11:00,16:11:10,stop_point:SP_1929,Amouroux,12
+2287145,16:25:00,16:25:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287145,16:27:00,16:27:10,stop_point:SP_3762,Place Roquelaine,2
+2287145,16:28:00,16:28:10,stop_point:SP_3728,Pont Matabiau,3
+2287145,16:29:00,16:29:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287145,16:31:00,16:31:10,stop_point:SP_1660,Arago,5
+2287145,16:32:00,16:32:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287145,16:33:00,16:33:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287145,16:34:00,16:34:10,stop_point:SP_3535,Ste-Hélène,8
+2287145,16:35:00,16:35:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287145,16:36:00,16:36:10,stop_point:SP_2616,Ste-Augustine,10
+2287145,16:36:00,16:36:10,stop_point:SP_975,Roubichou,11
+2287145,16:37:00,16:37:10,stop_point:SP_1929,Amouroux,12
+2287146,16:50:00,16:50:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287146,16:52:00,16:52:10,stop_point:SP_3762,Place Roquelaine,2
+2287146,16:53:00,16:53:10,stop_point:SP_3728,Pont Matabiau,3
+2287146,16:54:00,16:54:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287146,16:56:00,16:56:10,stop_point:SP_1660,Arago,5
+2287146,16:57:00,16:57:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287146,16:58:00,16:58:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287146,16:59:00,16:59:10,stop_point:SP_3535,Ste-Hélène,8
+2287146,17:00:00,17:00:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287146,17:01:00,17:01:10,stop_point:SP_2616,Ste-Augustine,10
+2287146,17:01:00,17:01:10,stop_point:SP_975,Roubichou,11
+2287146,17:02:00,17:02:10,stop_point:SP_1929,Amouroux,12
+2287147,17:15:00,17:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287147,17:17:00,17:17:10,stop_point:SP_3762,Place Roquelaine,2
+2287147,17:19:00,17:19:10,stop_point:SP_3728,Pont Matabiau,3
+2287147,17:20:00,17:20:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287147,17:22:00,17:22:10,stop_point:SP_1660,Arago,5
+2287147,17:23:00,17:23:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287147,17:24:00,17:24:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287147,17:25:00,17:25:10,stop_point:SP_3535,Ste-Hélène,8
+2287147,17:26:00,17:26:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287147,17:27:00,17:27:10,stop_point:SP_2616,Ste-Augustine,10
+2287147,17:27:00,17:27:10,stop_point:SP_975,Roubichou,11
+2287147,17:28:00,17:28:10,stop_point:SP_1929,Amouroux,12
+2287148,17:40:00,17:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287148,17:42:00,17:42:10,stop_point:SP_3762,Place Roquelaine,2
+2287148,17:44:00,17:44:10,stop_point:SP_3728,Pont Matabiau,3
+2287148,17:45:00,17:45:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287148,17:47:00,17:47:10,stop_point:SP_1660,Arago,5
+2287148,17:48:00,17:48:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287148,17:49:00,17:49:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287148,17:50:00,17:50:10,stop_point:SP_3535,Ste-Hélène,8
+2287148,17:51:00,17:51:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287148,17:52:00,17:52:10,stop_point:SP_2616,Ste-Augustine,10
+2287148,17:52:00,17:52:10,stop_point:SP_975,Roubichou,11
+2287148,17:53:00,17:53:10,stop_point:SP_1929,Amouroux,12
+2287149,18:05:00,18:05:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287149,18:07:00,18:07:10,stop_point:SP_3762,Place Roquelaine,2
+2287149,18:08:00,18:08:10,stop_point:SP_3728,Pont Matabiau,3
+2287149,18:09:00,18:09:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287149,18:11:00,18:11:10,stop_point:SP_1660,Arago,5
+2287149,18:12:00,18:12:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287149,18:13:00,18:13:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287149,18:14:00,18:14:10,stop_point:SP_3535,Ste-Hélène,8
+2287149,18:15:00,18:15:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287149,18:16:00,18:16:10,stop_point:SP_2616,Ste-Augustine,10
+2287149,18:16:00,18:16:10,stop_point:SP_975,Roubichou,11
+2287149,18:17:00,18:17:10,stop_point:SP_1929,Amouroux,12
+2287150,18:30:00,18:30:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287150,18:32:00,18:32:10,stop_point:SP_3762,Place Roquelaine,2
+2287150,18:33:00,18:33:10,stop_point:SP_3728,Pont Matabiau,3
+2287150,18:33:00,18:33:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287150,18:35:00,18:35:10,stop_point:SP_1660,Arago,5
+2287150,18:36:00,18:36:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287150,18:37:00,18:37:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287150,18:38:00,18:38:10,stop_point:SP_3535,Ste-Hélène,8
+2287150,18:39:00,18:39:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287150,18:40:00,18:40:10,stop_point:SP_2616,Ste-Augustine,10
+2287150,18:40:00,18:40:10,stop_point:SP_975,Roubichou,11
+2287150,18:41:00,18:41:10,stop_point:SP_1929,Amouroux,12
+2287151,18:55:00,18:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287151,18:57:00,18:57:10,stop_point:SP_3762,Place Roquelaine,2
+2287151,18:58:00,18:58:10,stop_point:SP_3728,Pont Matabiau,3
+2287151,18:58:00,18:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287151,19:00:00,19:00:10,stop_point:SP_1660,Arago,5
+2287151,19:01:00,19:01:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287151,19:02:00,19:02:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287151,19:03:00,19:03:10,stop_point:SP_3535,Ste-Hélène,8
+2287151,19:04:00,19:04:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287151,19:05:00,19:05:10,stop_point:SP_2616,Ste-Augustine,10
+2287151,19:05:00,19:05:10,stop_point:SP_975,Roubichou,11
+2287151,19:06:00,19:06:10,stop_point:SP_1929,Amouroux,12
+2287152,19:20:00,19:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287152,19:22:00,19:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287152,19:23:00,19:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287152,19:23:00,19:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287152,19:25:00,19:25:10,stop_point:SP_1660,Arago,5
+2287152,19:26:00,19:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287152,19:27:00,19:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287152,19:28:00,19:28:10,stop_point:SP_3535,Ste-Hélène,8
+2287152,19:29:00,19:29:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287152,19:30:00,19:30:10,stop_point:SP_2616,Ste-Augustine,10
+2287152,19:30:00,19:30:10,stop_point:SP_975,Roubichou,11
+2287152,19:31:00,19:31:10,stop_point:SP_1929,Amouroux,12
+2287153,19:55:00,19:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287153,19:56:00,19:56:10,stop_point:SP_3762,Place Roquelaine,2
+2287153,19:57:00,19:57:10,stop_point:SP_3728,Pont Matabiau,3
+2287153,19:58:00,19:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287153,19:59:00,19:59:10,stop_point:SP_1660,Arago,5
+2287153,20:00:00,20:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287153,20:01:00,20:01:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287153,20:02:00,20:02:10,stop_point:SP_3535,Ste-Hélène,8
+2287153,20:03:00,20:03:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287153,20:04:00,20:04:10,stop_point:SP_2616,Ste-Augustine,10
+2287153,20:04:00,20:04:10,stop_point:SP_975,Roubichou,11
+2287153,20:05:00,20:05:10,stop_point:SP_1929,Amouroux,12
+2287154,20:35:00,20:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287154,20:36:00,20:36:10,stop_point:SP_3762,Place Roquelaine,2
+2287154,20:37:00,20:37:10,stop_point:SP_3728,Pont Matabiau,3
+2287154,20:38:00,20:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287154,20:39:00,20:39:10,stop_point:SP_1660,Arago,5
+2287154,20:40:00,20:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287154,20:41:00,20:41:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287154,20:42:00,20:42:10,stop_point:SP_3535,Ste-Hélène,8
+2287154,20:43:00,20:43:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287154,20:44:00,20:44:10,stop_point:SP_2616,Ste-Augustine,10
+2287154,20:44:00,20:44:10,stop_point:SP_975,Roubichou,11
+2287154,20:45:00,20:45:10,stop_point:SP_1929,Amouroux,12
+2287155,21:15:00,21:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287155,21:16:00,21:16:10,stop_point:SP_3762,Place Roquelaine,2
+2287155,21:17:00,21:17:10,stop_point:SP_3728,Pont Matabiau,3
+2287155,21:18:00,21:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287155,21:19:00,21:19:10,stop_point:SP_1660,Arago,5
+2287155,21:20:00,21:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287155,21:21:00,21:21:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287155,21:21:00,21:21:10,stop_point:SP_3535,Ste-Hélène,8
+2287155,21:22:00,21:22:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287155,21:23:00,21:23:10,stop_point:SP_2616,Ste-Augustine,10
+2287155,21:23:00,21:23:10,stop_point:SP_975,Roubichou,11
+2287155,21:24:00,21:24:10,stop_point:SP_1929,Amouroux,12
+2287156,21:55:00,21:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287156,21:56:00,21:56:10,stop_point:SP_3762,Place Roquelaine,2
+2287156,21:57:00,21:57:10,stop_point:SP_3728,Pont Matabiau,3
+2287156,21:57:00,21:57:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287156,21:58:00,21:58:10,stop_point:SP_1660,Arago,5
+2287156,21:59:00,21:59:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287156,22:00:00,22:00:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287156,22:00:00,22:00:10,stop_point:SP_3535,Ste-Hélène,8
+2287156,22:01:00,22:01:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287156,22:02:00,22:02:10,stop_point:SP_2616,Ste-Augustine,10
+2287156,22:02:00,22:02:10,stop_point:SP_975,Roubichou,11
+2287156,22:03:00,22:03:10,stop_point:SP_1929,Amouroux,12
+2287157,22:35:00,22:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287157,22:36:00,22:36:10,stop_point:SP_3762,Place Roquelaine,2
+2287157,22:37:00,22:37:10,stop_point:SP_3728,Pont Matabiau,3
+2287157,22:37:00,22:37:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287157,22:38:00,22:38:10,stop_point:SP_1660,Arago,5
+2287157,22:39:00,22:39:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287157,22:40:00,22:40:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287157,22:40:00,22:40:10,stop_point:SP_3535,Ste-Hélène,8
+2287157,22:41:00,22:41:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287157,22:42:00,22:42:10,stop_point:SP_2616,Ste-Augustine,10
+2287157,22:42:00,22:42:10,stop_point:SP_975,Roubichou,11
+2287157,22:43:00,22:43:10,stop_point:SP_1929,Amouroux,12
+2287158,23:15:00,23:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287158,23:16:00,23:16:10,stop_point:SP_3762,Place Roquelaine,2
+2287158,23:17:00,23:17:10,stop_point:SP_3728,Pont Matabiau,3
+2287158,23:17:00,23:17:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287158,23:18:00,23:18:10,stop_point:SP_1660,Arago,5
+2287158,23:19:00,23:19:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287158,23:19:00,23:19:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287158,23:20:00,23:20:10,stop_point:SP_3535,Ste-Hélène,8
+2287158,23:20:00,23:20:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287158,23:21:00,23:21:10,stop_point:SP_2616,Ste-Augustine,10
+2287158,23:21:00,23:21:10,stop_point:SP_975,Roubichou,11
+2287158,23:22:00,23:22:10,stop_point:SP_1929,Amouroux,12
+2287159,23:55:00,23:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287159,23:56:00,23:56:10,stop_point:SP_3762,Place Roquelaine,2
+2287159,23:57:00,23:57:10,stop_point:SP_3728,Pont Matabiau,3
+2287159,23:57:00,23:57:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287159,23:58:00,23:58:10,stop_point:SP_1660,Arago,5
+2287159,23:59:00,23:59:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287159,23:59:00,23:59:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287159,24:00:00,24:00:10,stop_point:SP_3535,Ste-Hélène,8
+2287159,24:00:00,24:00:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287159,24:01:00,24:01:10,stop_point:SP_2616,Ste-Augustine,10
+2287159,24:01:00,24:01:10,stop_point:SP_975,Roubichou,11
+2287159,24:02:00,24:02:10,stop_point:SP_1929,Amouroux,12
+2287160,24:35:00,24:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287160,24:36:00,24:36:10,stop_point:SP_3762,Place Roquelaine,2
+2287160,24:37:00,24:37:10,stop_point:SP_3728,Pont Matabiau,3
+2287160,24:37:00,24:37:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287160,24:38:00,24:38:10,stop_point:SP_1660,Arago,5
+2287160,24:39:00,24:39:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287160,24:39:00,24:39:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287160,24:40:00,24:40:10,stop_point:SP_3535,Ste-Hélène,8
+2287160,24:40:00,24:40:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287160,24:41:00,24:41:10,stop_point:SP_2616,Ste-Augustine,10
+2287160,24:41:00,24:41:10,stop_point:SP_975,Roubichou,11
+2287160,24:42:00,24:42:10,stop_point:SP_1929,Amouroux,12
+2287161,25:05:00,25:05:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287161,25:06:00,25:06:10,stop_point:SP_3762,Place Roquelaine,2
+2287161,25:07:00,25:07:10,stop_point:SP_3728,Pont Matabiau,3
+2287161,25:07:00,25:07:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287161,25:08:00,25:08:10,stop_point:SP_1660,Arago,5
+2287161,25:09:00,25:09:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287161,25:09:00,25:09:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287161,25:10:00,25:10:10,stop_point:SP_3535,Ste-Hélène,8
+2287161,25:10:00,25:10:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287161,25:11:00,25:11:10,stop_point:SP_2616,Ste-Augustine,10
+2287161,25:11:00,25:11:10,stop_point:SP_975,Roubichou,11
+2287161,25:12:00,25:12:10,stop_point:SP_1929,Amouroux,12
+2287162,05:35:00,05:35:10,stop_point:SP_1929,Amouroux,1
+2287162,05:36:00,05:36:10,stop_point:SP_3954,Roubichou,2
+2287162,05:36:00,05:36:10,stop_point:SP_904,Ste-Augustine,3
+2287162,05:37:00,05:37:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287162,05:38:00,05:38:10,stop_point:SP_3807,Ste-Hélène,5
+2287162,05:38:00,05:38:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287162,05:39:00,05:39:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287162,05:40:00,05:40:10,stop_point:SP_1873,Arago,8
+2287162,05:41:00,05:41:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287162,05:42:00,05:42:10,stop_point:SP_2745,Pont Matabiau,10
+2287162,05:43:00,05:43:10,stop_point:SP_667,Place Roquelaine,11
+2287162,05:44:00,05:44:10,stop_point:SP_201,Jeanne d'Arc,12
+2287162,05:45:00,05:45:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287163,05:57:00,05:57:10,stop_point:SP_1929,Amouroux,1
+2287163,05:58:00,05:58:10,stop_point:SP_3954,Roubichou,2
+2287163,05:58:00,05:58:10,stop_point:SP_904,Ste-Augustine,3
+2287163,05:59:00,05:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287163,06:00:00,06:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287163,06:00:00,06:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287163,06:01:00,06:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287163,06:02:00,06:02:10,stop_point:SP_1873,Arago,8
+2287163,06:03:00,06:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287163,06:04:00,06:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287163,06:05:00,06:05:10,stop_point:SP_667,Place Roquelaine,11
+2287163,06:06:00,06:06:10,stop_point:SP_201,Jeanne d'Arc,12
+2287163,06:07:00,06:07:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287164,06:22:00,06:22:10,stop_point:SP_1929,Amouroux,1
+2287164,06:23:00,06:23:10,stop_point:SP_3954,Roubichou,2
+2287164,06:23:00,06:23:10,stop_point:SP_904,Ste-Augustine,3
+2287164,06:24:00,06:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287164,06:25:00,06:25:10,stop_point:SP_3807,Ste-Hélène,5
+2287164,06:25:00,06:25:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287164,06:26:00,06:26:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287164,06:27:00,06:27:10,stop_point:SP_1873,Arago,8
+2287164,06:29:00,06:29:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287164,06:30:00,06:30:10,stop_point:SP_2745,Pont Matabiau,10
+2287164,06:31:00,06:31:10,stop_point:SP_667,Place Roquelaine,11
+2287164,06:32:00,06:32:10,stop_point:SP_201,Jeanne d'Arc,12
+2287164,06:33:00,06:33:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287165,06:47:00,06:47:10,stop_point:SP_1929,Amouroux,1
+2287165,06:48:00,06:48:10,stop_point:SP_3954,Roubichou,2
+2287165,06:48:00,06:48:10,stop_point:SP_904,Ste-Augustine,3
+2287165,06:49:00,06:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287165,06:50:00,06:50:10,stop_point:SP_3807,Ste-Hélène,5
+2287165,06:50:00,06:50:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287165,06:51:00,06:51:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287165,06:52:00,06:52:10,stop_point:SP_1873,Arago,8
+2287165,06:54:00,06:54:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287165,06:55:00,06:55:10,stop_point:SP_2745,Pont Matabiau,10
+2287165,06:56:00,06:56:10,stop_point:SP_667,Place Roquelaine,11
+2287165,06:57:00,06:57:10,stop_point:SP_201,Jeanne d'Arc,12
+2287165,06:58:00,06:58:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287166,07:13:00,07:13:10,stop_point:SP_1929,Amouroux,1
+2287166,07:14:00,07:14:10,stop_point:SP_3954,Roubichou,2
+2287166,07:14:00,07:14:10,stop_point:SP_904,Ste-Augustine,3
+2287166,07:15:00,07:15:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287166,07:16:00,07:16:10,stop_point:SP_3807,Ste-Hélène,5
+2287166,07:16:00,07:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287166,07:17:00,07:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287166,07:18:00,07:18:10,stop_point:SP_1873,Arago,8
+2287166,07:20:00,07:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287166,07:21:00,07:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287166,07:23:00,07:23:10,stop_point:SP_667,Place Roquelaine,11
+2287166,07:25:00,07:25:10,stop_point:SP_201,Jeanne d'Arc,12
+2287166,07:26:00,07:26:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287167,07:24:00,07:24:10,stop_point:SP_1929,Amouroux,1
+2287167,07:25:00,07:25:10,stop_point:SP_3954,Roubichou,2
+2287167,07:25:00,07:25:10,stop_point:SP_904,Ste-Augustine,3
+2287167,07:26:00,07:26:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287167,07:27:00,07:27:10,stop_point:SP_3807,Ste-Hélène,5
+2287167,07:28:00,07:28:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287167,07:30:00,07:30:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287167,07:31:00,07:31:10,stop_point:SP_1873,Arago,8
+2287167,07:33:00,07:33:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287167,07:34:00,07:34:10,stop_point:SP_2745,Pont Matabiau,10
+2287167,07:36:00,07:36:10,stop_point:SP_667,Place Roquelaine,11
+2287167,07:38:00,07:38:10,stop_point:SP_201,Jeanne d'Arc,12
+2287167,07:39:00,07:39:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287168,07:59:00,07:59:10,stop_point:SP_1929,Amouroux,1
+2287168,08:00:00,08:00:10,stop_point:SP_3954,Roubichou,2
+2287168,08:00:00,08:00:10,stop_point:SP_904,Ste-Augustine,3
+2287168,08:01:00,08:01:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287168,08:02:00,08:02:10,stop_point:SP_3807,Ste-Hélène,5
+2287168,08:04:00,08:04:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287168,08:05:00,08:05:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287168,08:07:00,08:07:10,stop_point:SP_1873,Arago,8
+2287168,08:10:00,08:10:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287168,08:11:00,08:11:10,stop_point:SP_2745,Pont Matabiau,10
+2287168,08:13:00,08:13:10,stop_point:SP_667,Place Roquelaine,11
+2287168,08:15:00,08:15:10,stop_point:SP_201,Jeanne d'Arc,12
+2287168,08:17:00,08:17:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287169,08:13:00,08:13:10,stop_point:SP_1929,Amouroux,1
+2287169,08:14:00,08:14:10,stop_point:SP_3954,Roubichou,2
+2287169,08:14:00,08:14:10,stop_point:SP_904,Ste-Augustine,3
+2287169,08:15:00,08:15:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287169,08:17:00,08:17:10,stop_point:SP_3807,Ste-Hélène,5
+2287169,08:18:00,08:18:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287169,08:20:00,08:20:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287169,08:22:00,08:22:10,stop_point:SP_1873,Arago,8
+2287169,08:25:00,08:25:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287169,08:26:00,08:26:10,stop_point:SP_2745,Pont Matabiau,10
+2287169,08:28:00,08:28:10,stop_point:SP_667,Place Roquelaine,11
+2287169,08:30:00,08:30:10,stop_point:SP_201,Jeanne d'Arc,12
+2287169,08:32:00,08:32:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287170,08:49:00,08:49:10,stop_point:SP_1929,Amouroux,1
+2287170,08:50:00,08:50:10,stop_point:SP_3954,Roubichou,2
+2287170,08:50:00,08:50:10,stop_point:SP_904,Ste-Augustine,3
+2287170,08:51:00,08:51:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287170,08:53:00,08:53:10,stop_point:SP_3807,Ste-Hélène,5
+2287170,08:54:00,08:54:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287170,08:56:00,08:56:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287170,08:58:00,08:58:10,stop_point:SP_1873,Arago,8
+2287170,09:00:00,09:00:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287170,09:01:00,09:01:10,stop_point:SP_2745,Pont Matabiau,10
+2287170,09:03:00,09:03:10,stop_point:SP_667,Place Roquelaine,11
+2287170,09:05:00,09:05:10,stop_point:SP_201,Jeanne d'Arc,12
+2287170,09:06:00,09:06:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287171,09:16:00,09:16:10,stop_point:SP_1929,Amouroux,1
+2287171,09:17:00,09:17:10,stop_point:SP_3954,Roubichou,2
+2287171,09:17:00,09:17:10,stop_point:SP_904,Ste-Augustine,3
+2287171,09:18:00,09:18:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287171,09:19:00,09:19:10,stop_point:SP_3807,Ste-Hélène,5
+2287171,09:20:00,09:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287171,09:22:00,09:22:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287171,09:23:00,09:23:10,stop_point:SP_1873,Arago,8
+2287171,09:25:00,09:25:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287171,09:26:00,09:26:10,stop_point:SP_2745,Pont Matabiau,10
+2287171,09:28:00,09:28:10,stop_point:SP_667,Place Roquelaine,11
+2287171,09:30:00,09:30:10,stop_point:SP_201,Jeanne d'Arc,12
+2287171,09:31:00,09:31:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287172,09:42:00,09:42:10,stop_point:SP_1929,Amouroux,1
+2287172,09:43:00,09:43:10,stop_point:SP_3954,Roubichou,2
+2287172,09:43:00,09:43:10,stop_point:SP_904,Ste-Augustine,3
+2287172,09:44:00,09:44:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287172,09:45:00,09:45:10,stop_point:SP_3807,Ste-Hélène,5
+2287172,09:46:00,09:46:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287172,09:47:00,09:47:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287172,09:48:00,09:48:10,stop_point:SP_1873,Arago,8
+2287172,09:50:00,09:50:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287172,09:51:00,09:51:10,stop_point:SP_2745,Pont Matabiau,10
+2287172,09:53:00,09:53:10,stop_point:SP_667,Place Roquelaine,11
+2287172,09:55:00,09:55:10,stop_point:SP_201,Jeanne d'Arc,12
+2287172,09:56:00,09:56:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287173,10:07:00,10:07:10,stop_point:SP_1929,Amouroux,1
+2287173,10:08:00,10:08:10,stop_point:SP_3954,Roubichou,2
+2287173,10:08:00,10:08:10,stop_point:SP_904,Ste-Augustine,3
+2287173,10:09:00,10:09:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287173,10:10:00,10:10:10,stop_point:SP_3807,Ste-Hélène,5
+2287173,10:11:00,10:11:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287173,10:12:00,10:12:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287173,10:13:00,10:13:10,stop_point:SP_1873,Arago,8
+2287173,10:15:00,10:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287173,10:16:00,10:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287173,10:17:00,10:17:10,stop_point:SP_667,Place Roquelaine,11
+2287173,10:19:00,10:19:10,stop_point:SP_201,Jeanne d'Arc,12
+2287173,10:20:00,10:20:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287174,10:32:00,10:32:10,stop_point:SP_1929,Amouroux,1
+2287174,10:33:00,10:33:10,stop_point:SP_3954,Roubichou,2
+2287174,10:33:00,10:33:10,stop_point:SP_904,Ste-Augustine,3
+2287174,10:34:00,10:34:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287174,10:35:00,10:35:10,stop_point:SP_3807,Ste-Hélène,5
+2287174,10:36:00,10:36:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287174,10:37:00,10:37:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287174,10:38:00,10:38:10,stop_point:SP_1873,Arago,8
+2287174,10:40:00,10:40:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287174,10:41:00,10:41:10,stop_point:SP_2745,Pont Matabiau,10
+2287174,10:42:00,10:42:10,stop_point:SP_667,Place Roquelaine,11
+2287174,10:44:00,10:44:10,stop_point:SP_201,Jeanne d'Arc,12
+2287174,10:45:00,10:45:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287175,10:57:00,10:57:10,stop_point:SP_1929,Amouroux,1
+2287175,10:58:00,10:58:10,stop_point:SP_3954,Roubichou,2
+2287175,10:58:00,10:58:10,stop_point:SP_904,Ste-Augustine,3
+2287175,10:59:00,10:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287175,11:00:00,11:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287175,11:01:00,11:01:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287175,11:02:00,11:02:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287175,11:03:00,11:03:10,stop_point:SP_1873,Arago,8
+2287175,11:05:00,11:05:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287175,11:06:00,11:06:10,stop_point:SP_2745,Pont Matabiau,10
+2287175,11:07:00,11:07:10,stop_point:SP_667,Place Roquelaine,11
+2287175,11:09:00,11:09:10,stop_point:SP_201,Jeanne d'Arc,12
+2287175,11:10:00,11:10:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287176,11:22:00,11:22:10,stop_point:SP_1929,Amouroux,1
+2287176,11:23:00,11:23:10,stop_point:SP_3954,Roubichou,2
+2287176,11:23:00,11:23:10,stop_point:SP_904,Ste-Augustine,3
+2287176,11:24:00,11:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287176,11:25:00,11:25:10,stop_point:SP_3807,Ste-Hélène,5
+2287176,11:26:00,11:26:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287176,11:27:00,11:27:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287176,11:28:00,11:28:10,stop_point:SP_1873,Arago,8
+2287176,11:30:00,11:30:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287176,11:31:00,11:31:10,stop_point:SP_2745,Pont Matabiau,10
+2287176,11:32:00,11:32:10,stop_point:SP_667,Place Roquelaine,11
+2287176,11:34:00,11:34:10,stop_point:SP_201,Jeanne d'Arc,12
+2287176,11:35:00,11:35:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287177,11:47:00,11:47:10,stop_point:SP_1929,Amouroux,1
+2287177,11:48:00,11:48:10,stop_point:SP_3954,Roubichou,2
+2287177,11:48:00,11:48:10,stop_point:SP_904,Ste-Augustine,3
+2287177,11:49:00,11:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287177,11:50:00,11:50:10,stop_point:SP_3807,Ste-Hélène,5
+2287177,11:51:00,11:51:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287177,11:52:00,11:52:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287177,11:53:00,11:53:10,stop_point:SP_1873,Arago,8
+2287177,11:55:00,11:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287177,11:56:00,11:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287177,11:57:00,11:57:10,stop_point:SP_667,Place Roquelaine,11
+2287177,11:59:00,11:59:10,stop_point:SP_201,Jeanne d'Arc,12
+2287177,12:00:00,12:00:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287178,12:12:00,12:12:10,stop_point:SP_1929,Amouroux,1
+2287178,12:13:00,12:13:10,stop_point:SP_3954,Roubichou,2
+2287178,12:13:00,12:13:10,stop_point:SP_904,Ste-Augustine,3
+2287178,12:14:00,12:14:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287178,12:15:00,12:15:10,stop_point:SP_3807,Ste-Hélène,5
+2287178,12:16:00,12:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287178,12:17:00,12:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287178,12:18:00,12:18:10,stop_point:SP_1873,Arago,8
+2287178,12:20:00,12:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287178,12:21:00,12:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287178,12:22:00,12:22:10,stop_point:SP_667,Place Roquelaine,11
+2287178,12:24:00,12:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287178,12:25:00,12:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287179,12:37:00,12:37:10,stop_point:SP_1929,Amouroux,1
+2287179,12:38:00,12:38:10,stop_point:SP_3954,Roubichou,2
+2287179,12:38:00,12:38:10,stop_point:SP_904,Ste-Augustine,3
+2287179,12:39:00,12:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287179,12:40:00,12:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287179,12:41:00,12:41:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287179,12:42:00,12:42:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287179,12:43:00,12:43:10,stop_point:SP_1873,Arago,8
+2287179,12:45:00,12:45:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287179,12:46:00,12:46:10,stop_point:SP_2745,Pont Matabiau,10
+2287179,12:47:00,12:47:10,stop_point:SP_667,Place Roquelaine,11
+2287179,12:49:00,12:49:10,stop_point:SP_201,Jeanne d'Arc,12
+2287179,12:50:00,12:50:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287180,13:02:00,13:02:10,stop_point:SP_1929,Amouroux,1
+2287180,13:03:00,13:03:10,stop_point:SP_3954,Roubichou,2
+2287180,13:03:00,13:03:10,stop_point:SP_904,Ste-Augustine,3
+2287180,13:04:00,13:04:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287180,13:05:00,13:05:10,stop_point:SP_3807,Ste-Hélène,5
+2287180,13:06:00,13:06:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287180,13:07:00,13:07:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287180,13:08:00,13:08:10,stop_point:SP_1873,Arago,8
+2287180,13:10:00,13:10:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287180,13:11:00,13:11:10,stop_point:SP_2745,Pont Matabiau,10
+2287180,13:12:00,13:12:10,stop_point:SP_667,Place Roquelaine,11
+2287180,13:14:00,13:14:10,stop_point:SP_201,Jeanne d'Arc,12
+2287180,13:15:00,13:15:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287181,13:27:00,13:27:10,stop_point:SP_1929,Amouroux,1
+2287181,13:28:00,13:28:10,stop_point:SP_3954,Roubichou,2
+2287181,13:28:00,13:28:10,stop_point:SP_904,Ste-Augustine,3
+2287181,13:29:00,13:29:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287181,13:30:00,13:30:10,stop_point:SP_3807,Ste-Hélène,5
+2287181,13:31:00,13:31:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287181,13:32:00,13:32:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287181,13:33:00,13:33:10,stop_point:SP_1873,Arago,8
+2287181,13:35:00,13:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287181,13:36:00,13:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287181,13:37:00,13:37:10,stop_point:SP_667,Place Roquelaine,11
+2287181,13:39:00,13:39:10,stop_point:SP_201,Jeanne d'Arc,12
+2287181,13:40:00,13:40:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287182,13:52:00,13:52:10,stop_point:SP_1929,Amouroux,1
+2287182,13:53:00,13:53:10,stop_point:SP_3954,Roubichou,2
+2287182,13:53:00,13:53:10,stop_point:SP_904,Ste-Augustine,3
+2287182,13:54:00,13:54:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287182,13:55:00,13:55:10,stop_point:SP_3807,Ste-Hélène,5
+2287182,13:56:00,13:56:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287182,13:57:00,13:57:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287182,13:58:00,13:58:10,stop_point:SP_1873,Arago,8
+2287182,14:00:00,14:00:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287182,14:01:00,14:01:10,stop_point:SP_2745,Pont Matabiau,10
+2287182,14:02:00,14:02:10,stop_point:SP_667,Place Roquelaine,11
+2287182,14:04:00,14:04:10,stop_point:SP_201,Jeanne d'Arc,12
+2287182,14:05:00,14:05:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287183,14:17:00,14:17:10,stop_point:SP_1929,Amouroux,1
+2287183,14:18:00,14:18:10,stop_point:SP_3954,Roubichou,2
+2287183,14:18:00,14:18:10,stop_point:SP_904,Ste-Augustine,3
+2287183,14:19:00,14:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287183,14:20:00,14:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287183,14:21:00,14:21:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287183,14:22:00,14:22:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287183,14:23:00,14:23:10,stop_point:SP_1873,Arago,8
+2287183,14:25:00,14:25:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287183,14:26:00,14:26:10,stop_point:SP_2745,Pont Matabiau,10
+2287183,14:27:00,14:27:10,stop_point:SP_667,Place Roquelaine,11
+2287183,14:29:00,14:29:10,stop_point:SP_201,Jeanne d'Arc,12
+2287183,14:30:00,14:30:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287184,14:42:00,14:42:10,stop_point:SP_1929,Amouroux,1
+2287184,14:43:00,14:43:10,stop_point:SP_3954,Roubichou,2
+2287184,14:43:00,14:43:10,stop_point:SP_904,Ste-Augustine,3
+2287184,14:44:00,14:44:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287184,14:45:00,14:45:10,stop_point:SP_3807,Ste-Hélène,5
+2287184,14:46:00,14:46:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287184,14:47:00,14:47:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287184,14:48:00,14:48:10,stop_point:SP_1873,Arago,8
+2287184,14:50:00,14:50:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287184,14:51:00,14:51:10,stop_point:SP_2745,Pont Matabiau,10
+2287184,14:52:00,14:52:10,stop_point:SP_667,Place Roquelaine,11
+2287184,14:54:00,14:54:10,stop_point:SP_201,Jeanne d'Arc,12
+2287184,14:55:00,14:55:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287185,15:07:00,15:07:10,stop_point:SP_1929,Amouroux,1
+2287185,15:08:00,15:08:10,stop_point:SP_3954,Roubichou,2
+2287185,15:08:00,15:08:10,stop_point:SP_904,Ste-Augustine,3
+2287185,15:09:00,15:09:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287185,15:10:00,15:10:10,stop_point:SP_3807,Ste-Hélène,5
+2287185,15:11:00,15:11:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287185,15:12:00,15:12:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287185,15:13:00,15:13:10,stop_point:SP_1873,Arago,8
+2287185,15:15:00,15:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287185,15:16:00,15:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287185,15:17:00,15:17:10,stop_point:SP_667,Place Roquelaine,11
+2287185,15:19:00,15:19:10,stop_point:SP_201,Jeanne d'Arc,12
+2287185,15:20:00,15:20:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287186,15:32:00,15:32:10,stop_point:SP_1929,Amouroux,1
+2287186,15:33:00,15:33:10,stop_point:SP_3954,Roubichou,2
+2287186,15:33:00,15:33:10,stop_point:SP_904,Ste-Augustine,3
+2287186,15:34:00,15:34:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287186,15:35:00,15:35:10,stop_point:SP_3807,Ste-Hélène,5
+2287186,15:36:00,15:36:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287186,15:37:00,15:37:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287186,15:38:00,15:38:10,stop_point:SP_1873,Arago,8
+2287186,15:40:00,15:40:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287186,15:41:00,15:41:10,stop_point:SP_2745,Pont Matabiau,10
+2287186,15:42:00,15:42:10,stop_point:SP_667,Place Roquelaine,11
+2287186,15:44:00,15:44:10,stop_point:SP_201,Jeanne d'Arc,12
+2287186,15:45:00,15:45:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287187,15:57:00,15:57:10,stop_point:SP_1929,Amouroux,1
+2287187,15:58:00,15:58:10,stop_point:SP_3954,Roubichou,2
+2287187,15:58:00,15:58:10,stop_point:SP_904,Ste-Augustine,3
+2287187,15:59:00,15:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287187,16:00:00,16:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287187,16:01:00,16:01:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287187,16:02:00,16:02:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287187,16:03:00,16:03:10,stop_point:SP_1873,Arago,8
+2287187,16:05:00,16:05:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287187,16:06:00,16:06:10,stop_point:SP_2745,Pont Matabiau,10
+2287187,16:07:00,16:07:10,stop_point:SP_667,Place Roquelaine,11
+2287187,16:09:00,16:09:10,stop_point:SP_201,Jeanne d'Arc,12
+2287187,16:10:00,16:10:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287188,16:22:00,16:22:10,stop_point:SP_1929,Amouroux,1
+2287188,16:23:00,16:23:10,stop_point:SP_3954,Roubichou,2
+2287188,16:23:00,16:23:10,stop_point:SP_904,Ste-Augustine,3
+2287188,16:24:00,16:24:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287188,16:25:00,16:25:10,stop_point:SP_3807,Ste-Hélène,5
+2287188,16:26:00,16:26:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287188,16:27:00,16:27:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287188,16:28:00,16:28:10,stop_point:SP_1873,Arago,8
+2287188,16:30:00,16:30:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287188,16:31:00,16:31:10,stop_point:SP_2745,Pont Matabiau,10
+2287188,16:32:00,16:32:10,stop_point:SP_667,Place Roquelaine,11
+2287188,16:34:00,16:34:10,stop_point:SP_201,Jeanne d'Arc,12
+2287188,16:35:00,16:35:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287189,16:47:00,16:47:10,stop_point:SP_1929,Amouroux,1
+2287189,16:48:00,16:48:10,stop_point:SP_3954,Roubichou,2
+2287189,16:48:00,16:48:10,stop_point:SP_904,Ste-Augustine,3
+2287189,16:49:00,16:49:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287189,16:50:00,16:50:10,stop_point:SP_3807,Ste-Hélène,5
+2287189,16:51:00,16:51:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287189,16:52:00,16:52:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287189,16:53:00,16:53:10,stop_point:SP_1873,Arago,8
+2287189,16:55:00,16:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287189,16:56:00,16:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287189,16:57:00,16:57:10,stop_point:SP_667,Place Roquelaine,11
+2287189,16:59:00,16:59:10,stop_point:SP_201,Jeanne d'Arc,12
+2287189,17:00:00,17:00:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287190,17:12:00,17:12:10,stop_point:SP_1929,Amouroux,1
+2287190,17:13:00,17:13:10,stop_point:SP_3954,Roubichou,2
+2287190,17:13:00,17:13:10,stop_point:SP_904,Ste-Augustine,3
+2287190,17:14:00,17:14:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287190,17:15:00,17:15:10,stop_point:SP_3807,Ste-Hélène,5
+2287190,17:16:00,17:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287190,17:17:00,17:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287190,17:18:00,17:18:10,stop_point:SP_1873,Arago,8
+2287190,17:20:00,17:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287190,17:21:00,17:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287190,17:23:00,17:23:10,stop_point:SP_667,Place Roquelaine,11
+2287190,17:25:00,17:25:10,stop_point:SP_201,Jeanne d'Arc,12
+2287190,17:26:00,17:26:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287191,17:36:00,17:36:10,stop_point:SP_1929,Amouroux,1
+2287191,17:37:00,17:37:10,stop_point:SP_3954,Roubichou,2
+2287191,17:37:00,17:37:10,stop_point:SP_904,Ste-Augustine,3
+2287191,17:38:00,17:38:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287191,17:39:00,17:39:10,stop_point:SP_3807,Ste-Hélène,5
+2287191,17:40:00,17:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287191,17:41:00,17:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287191,17:42:00,17:42:10,stop_point:SP_1873,Arago,8
+2287191,17:44:00,17:44:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287191,17:45:00,17:45:10,stop_point:SP_2745,Pont Matabiau,10
+2287191,17:47:00,17:47:10,stop_point:SP_667,Place Roquelaine,11
+2287191,17:49:00,17:49:10,stop_point:SP_201,Jeanne d'Arc,12
+2287191,17:50:00,17:50:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287192,18:00:00,18:00:10,stop_point:SP_1929,Amouroux,1
+2287192,18:01:00,18:01:10,stop_point:SP_3954,Roubichou,2
+2287192,18:01:00,18:01:10,stop_point:SP_904,Ste-Augustine,3
+2287192,18:02:00,18:02:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287192,18:03:00,18:03:10,stop_point:SP_3807,Ste-Hélène,5
+2287192,18:03:00,18:03:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287192,18:04:00,18:04:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287192,18:05:00,18:05:10,stop_point:SP_1873,Arago,8
+2287192,18:07:00,18:07:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287192,18:08:00,18:08:10,stop_point:SP_2745,Pont Matabiau,10
+2287192,18:10:00,18:10:10,stop_point:SP_667,Place Roquelaine,11
+2287192,18:12:00,18:12:10,stop_point:SP_201,Jeanne d'Arc,12
+2287192,18:13:00,18:13:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287193,18:24:00,18:24:10,stop_point:SP_1929,Amouroux,1
+2287193,18:25:00,18:25:10,stop_point:SP_3954,Roubichou,2
+2287193,18:25:00,18:25:10,stop_point:SP_904,Ste-Augustine,3
+2287193,18:26:00,18:26:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287193,18:27:00,18:27:10,stop_point:SP_3807,Ste-Hélène,5
+2287193,18:27:00,18:27:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287193,18:28:00,18:28:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287193,18:29:00,18:29:10,stop_point:SP_1873,Arago,8
+2287193,18:31:00,18:31:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287193,18:32:00,18:32:10,stop_point:SP_2745,Pont Matabiau,10
+2287193,18:34:00,18:34:10,stop_point:SP_667,Place Roquelaine,11
+2287193,18:36:00,18:36:10,stop_point:SP_201,Jeanne d'Arc,12
+2287193,18:37:00,18:37:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287194,18:48:00,18:48:10,stop_point:SP_1929,Amouroux,1
+2287194,18:49:00,18:49:10,stop_point:SP_3954,Roubichou,2
+2287194,18:49:00,18:49:10,stop_point:SP_904,Ste-Augustine,3
+2287194,18:50:00,18:50:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287194,18:51:00,18:51:10,stop_point:SP_3807,Ste-Hélène,5
+2287194,18:51:00,18:51:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287194,18:52:00,18:52:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287194,18:53:00,18:53:10,stop_point:SP_1873,Arago,8
+2287194,18:55:00,18:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287194,18:56:00,18:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287194,18:57:00,18:57:10,stop_point:SP_667,Place Roquelaine,11
+2287194,18:59:00,18:59:10,stop_point:SP_201,Jeanne d'Arc,12
+2287194,19:00:00,19:00:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287195,19:13:00,19:13:10,stop_point:SP_1929,Amouroux,1
+2287195,19:14:00,19:14:10,stop_point:SP_3954,Roubichou,2
+2287195,19:14:00,19:14:10,stop_point:SP_904,Ste-Augustine,3
+2287195,19:15:00,19:15:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287195,19:16:00,19:16:10,stop_point:SP_3807,Ste-Hélène,5
+2287195,19:16:00,19:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287195,19:17:00,19:17:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287195,19:18:00,19:18:10,stop_point:SP_1873,Arago,8
+2287195,19:20:00,19:20:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287195,19:21:00,19:21:10,stop_point:SP_2745,Pont Matabiau,10
+2287195,19:22:00,19:22:10,stop_point:SP_667,Place Roquelaine,11
+2287195,19:24:00,19:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287195,19:25:00,19:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287196,19:38:00,19:38:10,stop_point:SP_1929,Amouroux,1
+2287196,19:39:00,19:39:10,stop_point:SP_3954,Roubichou,2
+2287196,19:39:00,19:39:10,stop_point:SP_904,Ste-Augustine,3
+2287196,19:40:00,19:40:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287196,19:41:00,19:41:10,stop_point:SP_3807,Ste-Hélène,5
+2287196,19:41:00,19:41:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287196,19:42:00,19:42:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287196,19:43:00,19:43:10,stop_point:SP_1873,Arago,8
+2287196,19:45:00,19:45:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287196,19:46:00,19:46:10,stop_point:SP_2745,Pont Matabiau,10
+2287196,19:47:00,19:47:10,stop_point:SP_667,Place Roquelaine,11
+2287196,19:49:00,19:49:10,stop_point:SP_201,Jeanne d'Arc,12
+2287196,19:50:00,19:50:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287197,20:13:00,20:13:10,stop_point:SP_1929,Amouroux,1
+2287197,20:14:00,20:14:10,stop_point:SP_3954,Roubichou,2
+2287197,20:14:00,20:14:10,stop_point:SP_904,Ste-Augustine,3
+2287197,20:15:00,20:15:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287197,20:15:00,20:15:10,stop_point:SP_3807,Ste-Hélène,5
+2287197,20:16:00,20:16:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287197,20:16:00,20:16:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287197,20:17:00,20:17:10,stop_point:SP_1873,Arago,8
+2287197,20:19:00,20:19:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287197,20:20:00,20:20:10,stop_point:SP_2745,Pont Matabiau,10
+2287197,20:21:00,20:21:10,stop_point:SP_667,Place Roquelaine,11
+2287197,20:22:00,20:22:10,stop_point:SP_201,Jeanne d'Arc,12
+2287197,20:23:00,20:23:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287198,20:51:00,20:51:10,stop_point:SP_1929,Amouroux,1
+2287198,20:52:00,20:52:10,stop_point:SP_3954,Roubichou,2
+2287198,20:52:00,20:52:10,stop_point:SP_904,Ste-Augustine,3
+2287198,20:53:00,20:53:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287198,20:53:00,20:53:10,stop_point:SP_3807,Ste-Hélène,5
+2287198,20:54:00,20:54:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287198,20:54:00,20:54:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287198,20:55:00,20:55:10,stop_point:SP_1873,Arago,8
+2287198,20:57:00,20:57:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287198,20:58:00,20:58:10,stop_point:SP_2745,Pont Matabiau,10
+2287198,20:59:00,20:59:10,stop_point:SP_667,Place Roquelaine,11
+2287198,21:00:00,21:00:10,stop_point:SP_201,Jeanne d'Arc,12
+2287198,21:01:00,21:01:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287199,21:30:00,21:30:10,stop_point:SP_1929,Amouroux,1
+2287199,21:31:00,21:31:10,stop_point:SP_3954,Roubichou,2
+2287199,21:31:00,21:31:10,stop_point:SP_904,Ste-Augustine,3
+2287199,21:32:00,21:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287199,21:32:00,21:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287199,21:33:00,21:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287199,21:33:00,21:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287199,21:34:00,21:34:10,stop_point:SP_1873,Arago,8
+2287199,21:36:00,21:36:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287199,21:37:00,21:37:10,stop_point:SP_2745,Pont Matabiau,10
+2287199,21:38:00,21:38:10,stop_point:SP_667,Place Roquelaine,11
+2287199,21:39:00,21:39:10,stop_point:SP_201,Jeanne d'Arc,12
+2287199,21:40:00,21:40:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287200,22:10:00,22:10:10,stop_point:SP_1929,Amouroux,1
+2287200,22:11:00,22:11:10,stop_point:SP_3954,Roubichou,2
+2287200,22:11:00,22:11:10,stop_point:SP_904,Ste-Augustine,3
+2287200,22:12:00,22:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287200,22:12:00,22:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287200,22:13:00,22:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287200,22:13:00,22:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287200,22:14:00,22:14:10,stop_point:SP_1873,Arago,8
+2287200,22:15:00,22:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287200,22:16:00,22:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287200,22:17:00,22:17:10,stop_point:SP_667,Place Roquelaine,11
+2287200,22:18:00,22:18:10,stop_point:SP_201,Jeanne d'Arc,12
+2287200,22:19:00,22:19:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287201,22:50:00,22:50:10,stop_point:SP_1929,Amouroux,1
+2287201,22:51:00,22:51:10,stop_point:SP_3954,Roubichou,2
+2287201,22:51:00,22:51:10,stop_point:SP_904,Ste-Augustine,3
+2287201,22:52:00,22:52:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287201,22:52:00,22:52:10,stop_point:SP_3807,Ste-Hélène,5
+2287201,22:53:00,22:53:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287201,22:53:00,22:53:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287201,22:54:00,22:54:10,stop_point:SP_1873,Arago,8
+2287201,22:55:00,22:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287201,22:56:00,22:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287201,22:57:00,22:57:10,stop_point:SP_667,Place Roquelaine,11
+2287201,22:58:00,22:58:10,stop_point:SP_201,Jeanne d'Arc,12
+2287201,22:59:00,22:59:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287202,23:30:00,23:30:10,stop_point:SP_1929,Amouroux,1
+2287202,23:31:00,23:31:10,stop_point:SP_3954,Roubichou,2
+2287202,23:31:00,23:31:10,stop_point:SP_904,Ste-Augustine,3
+2287202,23:32:00,23:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287202,23:32:00,23:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287202,23:33:00,23:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287202,23:33:00,23:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287202,23:34:00,23:34:10,stop_point:SP_1873,Arago,8
+2287202,23:35:00,23:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287202,23:36:00,23:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287202,23:37:00,23:37:10,stop_point:SP_667,Place Roquelaine,11
+2287202,23:38:00,23:38:10,stop_point:SP_201,Jeanne d'Arc,12
+2287202,23:39:00,23:39:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287203,24:10:00,24:10:10,stop_point:SP_1929,Amouroux,1
+2287203,24:11:00,24:11:10,stop_point:SP_3954,Roubichou,2
+2287203,24:11:00,24:11:10,stop_point:SP_904,Ste-Augustine,3
+2287203,24:12:00,24:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287203,24:12:00,24:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287203,24:13:00,24:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287203,24:13:00,24:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287203,24:14:00,24:14:10,stop_point:SP_1873,Arago,8
+2287203,24:15:00,24:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287203,24:16:00,24:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287203,24:17:00,24:17:10,stop_point:SP_667,Place Roquelaine,11
+2287203,24:18:00,24:18:10,stop_point:SP_201,Jeanne d'Arc,12
+2287203,24:19:00,24:19:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287204,24:50:00,24:50:10,stop_point:SP_1929,Amouroux,1
+2287204,24:51:00,24:51:10,stop_point:SP_3954,Roubichou,2
+2287204,24:51:00,24:51:10,stop_point:SP_904,Ste-Augustine,3
+2287204,24:52:00,24:52:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287204,24:52:00,24:52:10,stop_point:SP_3807,Ste-Hélène,5
+2287204,24:53:00,24:53:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287204,24:53:00,24:53:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287204,24:54:00,24:54:10,stop_point:SP_1873,Arago,8
+2287204,24:55:00,24:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287204,24:56:00,24:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287204,24:57:00,24:57:10,stop_point:SP_667,Place Roquelaine,11
+2287204,24:58:00,24:58:10,stop_point:SP_201,Jeanne d'Arc,12
+2287204,24:59:00,24:59:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287205,06:30:00,06:30:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287205,06:31:00,06:31:10,stop_point:SP_3762,Place Roquelaine,2
+2287205,06:32:00,06:32:10,stop_point:SP_3728,Pont Matabiau,3
+2287205,06:32:00,06:32:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287205,06:33:00,06:33:10,stop_point:SP_1660,Arago,5
+2287205,06:34:00,06:34:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287205,06:35:00,06:35:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287205,06:35:00,06:35:10,stop_point:SP_3535,Ste-Hélène,8
+2287205,06:36:00,06:36:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287205,06:37:00,06:37:10,stop_point:SP_2616,Ste-Augustine,10
+2287205,06:37:00,06:37:10,stop_point:SP_975,Roubichou,11
+2287205,06:38:00,06:38:10,stop_point:SP_1929,Amouroux,12
+2287206,07:20:00,07:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287206,07:21:00,07:21:10,stop_point:SP_3762,Place Roquelaine,2
+2287206,07:22:00,07:22:10,stop_point:SP_3728,Pont Matabiau,3
+2287206,07:22:00,07:22:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287206,07:23:00,07:23:10,stop_point:SP_1660,Arago,5
+2287206,07:24:00,07:24:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287206,07:25:00,07:25:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287206,07:25:00,07:25:10,stop_point:SP_3535,Ste-Hélène,8
+2287206,07:26:00,07:26:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287206,07:27:00,07:27:10,stop_point:SP_2616,Ste-Augustine,10
+2287206,07:27:00,07:27:10,stop_point:SP_975,Roubichou,11
+2287206,07:28:00,07:28:10,stop_point:SP_1929,Amouroux,12
+2287207,08:00:00,08:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287207,08:01:00,08:01:10,stop_point:SP_3762,Place Roquelaine,2
+2287207,08:02:00,08:02:10,stop_point:SP_3728,Pont Matabiau,3
+2287207,08:02:00,08:02:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287207,08:03:00,08:03:10,stop_point:SP_1660,Arago,5
+2287207,08:04:00,08:04:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287207,08:05:00,08:05:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287207,08:05:00,08:05:10,stop_point:SP_3535,Ste-Hélène,8
+2287207,08:06:00,08:06:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287207,08:07:00,08:07:10,stop_point:SP_2616,Ste-Augustine,10
+2287207,08:07:00,08:07:10,stop_point:SP_975,Roubichou,11
+2287207,08:08:00,08:08:10,stop_point:SP_1929,Amouroux,12
+2287208,08:40:00,08:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287208,08:41:00,08:41:10,stop_point:SP_3762,Place Roquelaine,2
+2287208,08:42:00,08:42:10,stop_point:SP_3728,Pont Matabiau,3
+2287208,08:42:00,08:42:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287208,08:43:00,08:43:10,stop_point:SP_1660,Arago,5
+2287208,08:44:00,08:44:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287208,08:45:00,08:45:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287208,08:45:00,08:45:10,stop_point:SP_3535,Ste-Hélène,8
+2287208,08:46:00,08:46:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287208,08:47:00,08:47:10,stop_point:SP_2616,Ste-Augustine,10
+2287208,08:47:00,08:47:10,stop_point:SP_975,Roubichou,11
+2287208,08:48:00,08:48:10,stop_point:SP_1929,Amouroux,12
+2287209,09:20:00,09:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287209,09:21:00,09:21:10,stop_point:SP_3762,Place Roquelaine,2
+2287209,09:22:00,09:22:10,stop_point:SP_3728,Pont Matabiau,3
+2287209,09:23:00,09:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287209,09:24:00,09:24:10,stop_point:SP_1660,Arago,5
+2287209,09:25:00,09:25:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287209,09:26:00,09:26:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287209,09:26:00,09:26:10,stop_point:SP_3535,Ste-Hélène,8
+2287209,09:27:00,09:27:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287209,09:28:00,09:28:10,stop_point:SP_2616,Ste-Augustine,10
+2287209,09:28:00,09:28:10,stop_point:SP_975,Roubichou,11
+2287209,09:29:00,09:29:10,stop_point:SP_1929,Amouroux,12
+2287210,10:00:00,10:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287210,10:01:00,10:01:10,stop_point:SP_3762,Place Roquelaine,2
+2287210,10:02:00,10:02:10,stop_point:SP_3728,Pont Matabiau,3
+2287210,10:03:00,10:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287210,10:04:00,10:04:10,stop_point:SP_1660,Arago,5
+2287210,10:05:00,10:05:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287210,10:06:00,10:06:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287210,10:06:00,10:06:10,stop_point:SP_3535,Ste-Hélène,8
+2287210,10:07:00,10:07:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287210,10:08:00,10:08:10,stop_point:SP_2616,Ste-Augustine,10
+2287210,10:08:00,10:08:10,stop_point:SP_975,Roubichou,11
+2287210,10:09:00,10:09:10,stop_point:SP_1929,Amouroux,12
+2287211,10:40:00,10:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287211,10:41:00,10:41:10,stop_point:SP_3762,Place Roquelaine,2
+2287211,10:42:00,10:42:10,stop_point:SP_3728,Pont Matabiau,3
+2287211,10:43:00,10:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287211,10:44:00,10:44:10,stop_point:SP_1660,Arago,5
+2287211,10:45:00,10:45:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287211,10:46:00,10:46:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287211,10:46:00,10:46:10,stop_point:SP_3535,Ste-Hélène,8
+2287211,10:47:00,10:47:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287211,10:48:00,10:48:10,stop_point:SP_2616,Ste-Augustine,10
+2287211,10:48:00,10:48:10,stop_point:SP_975,Roubichou,11
+2287211,10:49:00,10:49:10,stop_point:SP_1929,Amouroux,12
+2287212,11:20:00,11:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287212,11:21:00,11:21:10,stop_point:SP_3762,Place Roquelaine,2
+2287212,11:22:00,11:22:10,stop_point:SP_3728,Pont Matabiau,3
+2287212,11:23:00,11:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287212,11:24:00,11:24:10,stop_point:SP_1660,Arago,5
+2287212,11:25:00,11:25:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287212,11:26:00,11:26:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287212,11:26:00,11:26:10,stop_point:SP_3535,Ste-Hélène,8
+2287212,11:27:00,11:27:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287212,11:28:00,11:28:10,stop_point:SP_2616,Ste-Augustine,10
+2287212,11:28:00,11:28:10,stop_point:SP_975,Roubichou,11
+2287212,11:29:00,11:29:10,stop_point:SP_1929,Amouroux,12
+2287213,12:00:00,12:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287213,12:01:00,12:01:10,stop_point:SP_3762,Place Roquelaine,2
+2287213,12:02:00,12:02:10,stop_point:SP_3728,Pont Matabiau,3
+2287213,12:03:00,12:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287213,12:04:00,12:04:10,stop_point:SP_1660,Arago,5
+2287213,12:05:00,12:05:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287213,12:06:00,12:06:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287213,12:06:00,12:06:10,stop_point:SP_3535,Ste-Hélène,8
+2287213,12:07:00,12:07:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287213,12:08:00,12:08:10,stop_point:SP_2616,Ste-Augustine,10
+2287213,12:08:00,12:08:10,stop_point:SP_975,Roubichou,11
+2287213,12:09:00,12:09:10,stop_point:SP_1929,Amouroux,12
+2287214,12:40:00,12:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287214,12:41:00,12:41:10,stop_point:SP_3762,Place Roquelaine,2
+2287214,12:42:00,12:42:10,stop_point:SP_3728,Pont Matabiau,3
+2287214,12:43:00,12:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287214,12:44:00,12:44:10,stop_point:SP_1660,Arago,5
+2287214,12:45:00,12:45:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287214,12:46:00,12:46:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287214,12:46:00,12:46:10,stop_point:SP_3535,Ste-Hélène,8
+2287214,12:47:00,12:47:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287214,12:48:00,12:48:10,stop_point:SP_2616,Ste-Augustine,10
+2287214,12:48:00,12:48:10,stop_point:SP_975,Roubichou,11
+2287214,12:49:00,12:49:10,stop_point:SP_1929,Amouroux,12
+2287215,13:20:00,13:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287215,13:22:00,13:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287215,13:23:00,13:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287215,13:23:00,13:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287215,13:25:00,13:25:10,stop_point:SP_1660,Arago,5
+2287215,13:26:00,13:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287215,13:27:00,13:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287215,13:27:00,13:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287215,13:28:00,13:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287215,13:29:00,13:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287215,13:29:00,13:29:10,stop_point:SP_975,Roubichou,11
+2287215,13:30:00,13:30:10,stop_point:SP_1929,Amouroux,12
+2287216,14:00:00,14:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287216,14:02:00,14:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287216,14:03:00,14:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287216,14:03:00,14:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287216,14:05:00,14:05:10,stop_point:SP_1660,Arago,5
+2287216,14:06:00,14:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287216,14:07:00,14:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287216,14:07:00,14:07:10,stop_point:SP_3535,Ste-Hélène,8
+2287216,14:08:00,14:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287216,14:09:00,14:09:10,stop_point:SP_2616,Ste-Augustine,10
+2287216,14:09:00,14:09:10,stop_point:SP_975,Roubichou,11
+2287216,14:10:00,14:10:10,stop_point:SP_1929,Amouroux,12
+2287217,14:40:00,14:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287217,14:42:00,14:42:10,stop_point:SP_3762,Place Roquelaine,2
+2287217,14:43:00,14:43:10,stop_point:SP_3728,Pont Matabiau,3
+2287217,14:43:00,14:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287217,14:45:00,14:45:10,stop_point:SP_1660,Arago,5
+2287217,14:46:00,14:46:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287217,14:47:00,14:47:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287217,14:47:00,14:47:10,stop_point:SP_3535,Ste-Hélène,8
+2287217,14:48:00,14:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287217,14:49:00,14:49:10,stop_point:SP_2616,Ste-Augustine,10
+2287217,14:49:00,14:49:10,stop_point:SP_975,Roubichou,11
+2287217,14:50:00,14:50:10,stop_point:SP_1929,Amouroux,12
+2287218,15:20:00,15:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287218,15:22:00,15:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287218,15:23:00,15:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287218,15:23:00,15:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287218,15:25:00,15:25:10,stop_point:SP_1660,Arago,5
+2287218,15:26:00,15:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287218,15:27:00,15:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287218,15:27:00,15:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287218,15:28:00,15:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287218,15:29:00,15:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287218,15:29:00,15:29:10,stop_point:SP_975,Roubichou,11
+2287218,15:30:00,15:30:10,stop_point:SP_1929,Amouroux,12
+2287219,16:00:00,16:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287219,16:02:00,16:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287219,16:03:00,16:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287219,16:03:00,16:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287219,16:05:00,16:05:10,stop_point:SP_1660,Arago,5
+2287219,16:06:00,16:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287219,16:07:00,16:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287219,16:07:00,16:07:10,stop_point:SP_3535,Ste-Hélène,8
+2287219,16:08:00,16:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287219,16:09:00,16:09:10,stop_point:SP_2616,Ste-Augustine,10
+2287219,16:09:00,16:09:10,stop_point:SP_975,Roubichou,11
+2287219,16:10:00,16:10:10,stop_point:SP_1929,Amouroux,12
+2287220,16:40:00,16:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287220,16:42:00,16:42:10,stop_point:SP_3762,Place Roquelaine,2
+2287220,16:43:00,16:43:10,stop_point:SP_3728,Pont Matabiau,3
+2287220,16:43:00,16:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287220,16:45:00,16:45:10,stop_point:SP_1660,Arago,5
+2287220,16:46:00,16:46:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287220,16:47:00,16:47:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287220,16:47:00,16:47:10,stop_point:SP_3535,Ste-Hélène,8
+2287220,16:48:00,16:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287220,16:49:00,16:49:10,stop_point:SP_2616,Ste-Augustine,10
+2287220,16:49:00,16:49:10,stop_point:SP_975,Roubichou,11
+2287220,16:50:00,16:50:10,stop_point:SP_1929,Amouroux,12
+2287221,17:20:00,17:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287221,17:22:00,17:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287221,17:23:00,17:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287221,17:23:00,17:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287221,17:25:00,17:25:10,stop_point:SP_1660,Arago,5
+2287221,17:26:00,17:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287221,17:27:00,17:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287221,17:27:00,17:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287221,17:28:00,17:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287221,17:29:00,17:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287221,17:29:00,17:29:10,stop_point:SP_975,Roubichou,11
+2287221,17:30:00,17:30:10,stop_point:SP_1929,Amouroux,12
+2287222,18:00:00,18:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287222,18:02:00,18:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287222,18:03:00,18:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287222,18:03:00,18:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287222,18:05:00,18:05:10,stop_point:SP_1660,Arago,5
+2287222,18:06:00,18:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287222,18:07:00,18:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287222,18:07:00,18:07:10,stop_point:SP_3535,Ste-Hélène,8
+2287222,18:08:00,18:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287222,18:09:00,18:09:10,stop_point:SP_2616,Ste-Augustine,10
+2287222,18:09:00,18:09:10,stop_point:SP_975,Roubichou,11
+2287222,18:10:00,18:10:10,stop_point:SP_1929,Amouroux,12
+2287223,18:40:00,18:40:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287223,18:42:00,18:42:10,stop_point:SP_3762,Place Roquelaine,2
+2287223,18:43:00,18:43:10,stop_point:SP_3728,Pont Matabiau,3
+2287223,18:43:00,18:43:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287223,18:45:00,18:45:10,stop_point:SP_1660,Arago,5
+2287223,18:46:00,18:46:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287223,18:47:00,18:47:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287223,18:47:00,18:47:10,stop_point:SP_3535,Ste-Hélène,8
+2287223,18:48:00,18:48:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287223,18:49:00,18:49:10,stop_point:SP_2616,Ste-Augustine,10
+2287223,18:49:00,18:49:10,stop_point:SP_975,Roubichou,11
+2287223,18:50:00,18:50:10,stop_point:SP_1929,Amouroux,12
+2287224,19:20:00,19:20:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287224,19:22:00,19:22:10,stop_point:SP_3762,Place Roquelaine,2
+2287224,19:23:00,19:23:10,stop_point:SP_3728,Pont Matabiau,3
+2287224,19:23:00,19:23:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287224,19:25:00,19:25:10,stop_point:SP_1660,Arago,5
+2287224,19:26:00,19:26:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287224,19:27:00,19:27:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287224,19:27:00,19:27:10,stop_point:SP_3535,Ste-Hélène,8
+2287224,19:28:00,19:28:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287224,19:29:00,19:29:10,stop_point:SP_2616,Ste-Augustine,10
+2287224,19:29:00,19:29:10,stop_point:SP_975,Roubichou,11
+2287224,19:30:00,19:30:10,stop_point:SP_1929,Amouroux,12
+2287225,20:00:00,20:00:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287225,20:02:00,20:02:10,stop_point:SP_3762,Place Roquelaine,2
+2287225,20:03:00,20:03:10,stop_point:SP_3728,Pont Matabiau,3
+2287225,20:03:00,20:03:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287225,20:05:00,20:05:10,stop_point:SP_1660,Arago,5
+2287225,20:06:00,20:06:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287225,20:07:00,20:07:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287225,20:07:00,20:07:10,stop_point:SP_3535,Ste-Hélène,8
+2287225,20:08:00,20:08:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287225,20:09:00,20:09:10,stop_point:SP_2616,Ste-Augustine,10
+2287225,20:09:00,20:09:10,stop_point:SP_975,Roubichou,11
+2287225,20:10:00,20:10:10,stop_point:SP_1929,Amouroux,12
+2287226,20:35:00,20:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287226,20:37:00,20:37:10,stop_point:SP_3762,Place Roquelaine,2
+2287226,20:38:00,20:38:10,stop_point:SP_3728,Pont Matabiau,3
+2287226,20:38:00,20:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287226,20:40:00,20:40:10,stop_point:SP_1660,Arago,5
+2287226,20:41:00,20:41:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287226,20:42:00,20:42:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287226,20:42:00,20:42:10,stop_point:SP_3535,Ste-Hélène,8
+2287226,20:43:00,20:43:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287226,20:44:00,20:44:10,stop_point:SP_2616,Ste-Augustine,10
+2287226,20:44:00,20:44:10,stop_point:SP_975,Roubichou,11
+2287226,20:45:00,20:45:10,stop_point:SP_1929,Amouroux,12
+2287227,21:15:00,21:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287227,21:16:00,21:16:10,stop_point:SP_3762,Place Roquelaine,2
+2287227,21:17:00,21:17:10,stop_point:SP_3728,Pont Matabiau,3
+2287227,21:18:00,21:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287227,21:19:00,21:19:10,stop_point:SP_1660,Arago,5
+2287227,21:20:00,21:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287227,21:21:00,21:21:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287227,21:21:00,21:21:10,stop_point:SP_3535,Ste-Hélène,8
+2287227,21:22:00,21:22:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287227,21:23:00,21:23:10,stop_point:SP_2616,Ste-Augustine,10
+2287227,21:23:00,21:23:10,stop_point:SP_975,Roubichou,11
+2287227,21:24:00,21:24:10,stop_point:SP_1929,Amouroux,12
+2287228,21:55:00,21:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287228,21:56:00,21:56:10,stop_point:SP_3762,Place Roquelaine,2
+2287228,21:57:00,21:57:10,stop_point:SP_3728,Pont Matabiau,3
+2287228,21:58:00,21:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287228,21:59:00,21:59:10,stop_point:SP_1660,Arago,5
+2287228,22:00:00,22:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287228,22:01:00,22:01:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287228,22:01:00,22:01:10,stop_point:SP_3535,Ste-Hélène,8
+2287228,22:02:00,22:02:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287228,22:03:00,22:03:10,stop_point:SP_2616,Ste-Augustine,10
+2287228,22:03:00,22:03:10,stop_point:SP_975,Roubichou,11
+2287228,22:04:00,22:04:10,stop_point:SP_1929,Amouroux,12
+2287229,22:35:00,22:35:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287229,22:36:00,22:36:10,stop_point:SP_3762,Place Roquelaine,2
+2287229,22:37:00,22:37:10,stop_point:SP_3728,Pont Matabiau,3
+2287229,22:38:00,22:38:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287229,22:39:00,22:39:10,stop_point:SP_1660,Arago,5
+2287229,22:40:00,22:40:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287229,22:41:00,22:41:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287229,22:41:00,22:41:10,stop_point:SP_3535,Ste-Hélène,8
+2287229,22:42:00,22:42:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287229,22:43:00,22:43:10,stop_point:SP_2616,Ste-Augustine,10
+2287229,22:43:00,22:43:10,stop_point:SP_975,Roubichou,11
+2287229,22:44:00,22:44:10,stop_point:SP_1929,Amouroux,12
+2287230,23:15:00,23:15:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287230,23:16:00,23:16:10,stop_point:SP_3762,Place Roquelaine,2
+2287230,23:17:00,23:17:10,stop_point:SP_3728,Pont Matabiau,3
+2287230,23:18:00,23:18:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287230,23:19:00,23:19:10,stop_point:SP_1660,Arago,5
+2287230,23:20:00,23:20:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287230,23:20:00,23:20:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287230,23:21:00,23:21:10,stop_point:SP_3535,Ste-Hélène,8
+2287230,23:21:00,23:21:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287230,23:22:00,23:22:10,stop_point:SP_2616,Ste-Augustine,10
+2287230,23:22:00,23:22:10,stop_point:SP_975,Roubichou,11
+2287230,23:23:00,23:23:10,stop_point:SP_1929,Amouroux,12
+2287231,23:55:00,23:55:10,stop_point:SP_1882,Jeanne d'Arc,1
+2287231,23:56:00,23:56:10,stop_point:SP_3762,Place Roquelaine,2
+2287231,23:57:00,23:57:10,stop_point:SP_3728,Pont Matabiau,3
+2287231,23:58:00,23:58:10,stop_point:SP_2713,Matabiau - Raynal,4
+2287231,23:59:00,23:59:10,stop_point:SP_1660,Arago,5
+2287231,24:00:00,24:00:10,stop_point:SP_1685,Eglise Bonnefoy,6
+2287231,24:00:00,24:00:10,stop_point:SP_2717,Hauts de Bonnefoy,7
+2287231,24:01:00,24:01:10,stop_point:SP_3535,Ste-Hélène,8
+2287231,24:01:00,24:01:10,stop_point:SP_1185,Barrière de Croix-Daurade,9
+2287231,24:02:00,24:02:10,stop_point:SP_2616,Ste-Augustine,10
+2287231,24:02:00,24:02:10,stop_point:SP_975,Roubichou,11
+2287231,24:03:00,24:03:10,stop_point:SP_1929,Amouroux,12
+2287232,06:10:00,06:10:10,stop_point:SP_1929,Amouroux,1
+2287232,06:11:00,06:11:10,stop_point:SP_3954,Roubichou,2
+2287232,06:11:00,06:11:10,stop_point:SP_904,Ste-Augustine,3
+2287232,06:12:00,06:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287232,06:12:00,06:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287232,06:13:00,06:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287232,06:13:00,06:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287232,06:14:00,06:14:10,stop_point:SP_1873,Arago,8
+2287232,06:15:00,06:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287232,06:15:00,06:15:10,stop_point:SP_2745,Pont Matabiau,10
+2287232,06:16:00,06:16:10,stop_point:SP_667,Place Roquelaine,11
+2287232,06:16:00,06:16:10,stop_point:SP_201,Jeanne d'Arc,12
+2287232,06:17:00,06:17:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287233,06:54:00,06:54:10,stop_point:SP_1929,Amouroux,1
+2287233,06:55:00,06:55:10,stop_point:SP_3954,Roubichou,2
+2287233,06:55:00,06:55:10,stop_point:SP_904,Ste-Augustine,3
+2287233,06:56:00,06:56:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287233,06:56:00,06:56:10,stop_point:SP_3807,Ste-Hélène,5
+2287233,06:57:00,06:57:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287233,06:57:00,06:57:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287233,06:58:00,06:58:10,stop_point:SP_1873,Arago,8
+2287233,06:59:00,06:59:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287233,06:59:00,06:59:10,stop_point:SP_2745,Pont Matabiau,10
+2287233,07:00:00,07:00:10,stop_point:SP_667,Place Roquelaine,11
+2287233,07:00:00,07:00:10,stop_point:SP_201,Jeanne d'Arc,12
+2287233,07:01:00,07:01:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287234,07:37:00,07:37:10,stop_point:SP_1929,Amouroux,1
+2287234,07:38:00,07:38:10,stop_point:SP_3954,Roubichou,2
+2287234,07:38:00,07:38:10,stop_point:SP_904,Ste-Augustine,3
+2287234,07:39:00,07:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287234,07:39:00,07:39:10,stop_point:SP_3807,Ste-Hélène,5
+2287234,07:40:00,07:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287234,07:40:00,07:40:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287234,07:41:00,07:41:10,stop_point:SP_1873,Arago,8
+2287234,07:42:00,07:42:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287234,07:42:00,07:42:10,stop_point:SP_2745,Pont Matabiau,10
+2287234,07:43:00,07:43:10,stop_point:SP_667,Place Roquelaine,11
+2287234,07:43:00,07:43:10,stop_point:SP_201,Jeanne d'Arc,12
+2287234,07:44:00,07:44:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287235,08:17:00,08:17:10,stop_point:SP_1929,Amouroux,1
+2287235,08:18:00,08:18:10,stop_point:SP_3954,Roubichou,2
+2287235,08:18:00,08:18:10,stop_point:SP_904,Ste-Augustine,3
+2287235,08:19:00,08:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287235,08:19:00,08:19:10,stop_point:SP_3807,Ste-Hélène,5
+2287235,08:20:00,08:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287235,08:20:00,08:20:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287235,08:21:00,08:21:10,stop_point:SP_1873,Arago,8
+2287235,08:22:00,08:22:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287235,08:23:00,08:23:10,stop_point:SP_2745,Pont Matabiau,10
+2287235,08:23:00,08:23:10,stop_point:SP_667,Place Roquelaine,11
+2287235,08:24:00,08:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287235,08:25:00,08:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287236,08:57:00,08:57:10,stop_point:SP_1929,Amouroux,1
+2287236,08:58:00,08:58:10,stop_point:SP_3954,Roubichou,2
+2287236,08:58:00,08:58:10,stop_point:SP_904,Ste-Augustine,3
+2287236,08:59:00,08:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287236,09:00:00,09:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287236,09:00:00,09:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287236,09:01:00,09:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287236,09:02:00,09:02:10,stop_point:SP_1873,Arago,8
+2287236,09:03:00,09:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287236,09:04:00,09:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287236,09:04:00,09:04:10,stop_point:SP_667,Place Roquelaine,11
+2287236,09:05:00,09:05:10,stop_point:SP_201,Jeanne d'Arc,12
+2287236,09:06:00,09:06:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287237,09:37:00,09:37:10,stop_point:SP_1929,Amouroux,1
+2287237,09:38:00,09:38:10,stop_point:SP_3954,Roubichou,2
+2287237,09:38:00,09:38:10,stop_point:SP_904,Ste-Augustine,3
+2287237,09:39:00,09:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287237,09:40:00,09:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287237,09:40:00,09:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287237,09:41:00,09:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287237,09:42:00,09:42:10,stop_point:SP_1873,Arago,8
+2287237,09:43:00,09:43:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287237,09:44:00,09:44:10,stop_point:SP_2745,Pont Matabiau,10
+2287237,09:44:00,09:44:10,stop_point:SP_667,Place Roquelaine,11
+2287237,09:45:00,09:45:10,stop_point:SP_201,Jeanne d'Arc,12
+2287237,09:46:00,09:46:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287238,10:17:00,10:17:10,stop_point:SP_1929,Amouroux,1
+2287238,10:18:00,10:18:10,stop_point:SP_3954,Roubichou,2
+2287238,10:18:00,10:18:10,stop_point:SP_904,Ste-Augustine,3
+2287238,10:19:00,10:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287238,10:20:00,10:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287238,10:21:00,10:21:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287238,10:22:00,10:22:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287238,10:23:00,10:23:10,stop_point:SP_1873,Arago,8
+2287238,10:24:00,10:24:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287238,10:25:00,10:25:10,stop_point:SP_2745,Pont Matabiau,10
+2287238,10:26:00,10:26:10,stop_point:SP_667,Place Roquelaine,11
+2287238,10:27:00,10:27:10,stop_point:SP_201,Jeanne d'Arc,12
+2287238,10:28:00,10:28:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287239,10:57:00,10:57:10,stop_point:SP_1929,Amouroux,1
+2287239,10:58:00,10:58:10,stop_point:SP_3954,Roubichou,2
+2287239,10:58:00,10:58:10,stop_point:SP_904,Ste-Augustine,3
+2287239,10:59:00,10:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287239,11:00:00,11:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287239,11:01:00,11:01:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287239,11:02:00,11:02:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287239,11:03:00,11:03:10,stop_point:SP_1873,Arago,8
+2287239,11:04:00,11:04:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287239,11:05:00,11:05:10,stop_point:SP_2745,Pont Matabiau,10
+2287239,11:06:00,11:06:10,stop_point:SP_667,Place Roquelaine,11
+2287239,11:07:00,11:07:10,stop_point:SP_201,Jeanne d'Arc,12
+2287239,11:08:00,11:08:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287240,11:37:00,11:37:10,stop_point:SP_1929,Amouroux,1
+2287240,11:38:00,11:38:10,stop_point:SP_3954,Roubichou,2
+2287240,11:38:00,11:38:10,stop_point:SP_904,Ste-Augustine,3
+2287240,11:39:00,11:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287240,11:40:00,11:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287240,11:40:00,11:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287240,11:41:00,11:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287240,11:42:00,11:42:10,stop_point:SP_1873,Arago,8
+2287240,11:43:00,11:43:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287240,11:44:00,11:44:10,stop_point:SP_2745,Pont Matabiau,10
+2287240,11:45:00,11:45:10,stop_point:SP_667,Place Roquelaine,11
+2287240,11:46:00,11:46:10,stop_point:SP_201,Jeanne d'Arc,12
+2287240,11:47:00,11:47:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287241,12:17:00,12:17:10,stop_point:SP_1929,Amouroux,1
+2287241,12:18:00,12:18:10,stop_point:SP_3954,Roubichou,2
+2287241,12:18:00,12:18:10,stop_point:SP_904,Ste-Augustine,3
+2287241,12:19:00,12:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287241,12:20:00,12:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287241,12:20:00,12:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287241,12:21:00,12:21:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287241,12:22:00,12:22:10,stop_point:SP_1873,Arago,8
+2287241,12:23:00,12:23:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287241,12:24:00,12:24:10,stop_point:SP_2745,Pont Matabiau,10
+2287241,12:25:00,12:25:10,stop_point:SP_667,Place Roquelaine,11
+2287241,12:26:00,12:26:10,stop_point:SP_201,Jeanne d'Arc,12
+2287241,12:27:00,12:27:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287242,12:57:00,12:57:10,stop_point:SP_1929,Amouroux,1
+2287242,12:58:00,12:58:10,stop_point:SP_3954,Roubichou,2
+2287242,12:58:00,12:58:10,stop_point:SP_904,Ste-Augustine,3
+2287242,12:59:00,12:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287242,13:00:00,13:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287242,13:00:00,13:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287242,13:01:00,13:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287242,13:02:00,13:02:10,stop_point:SP_1873,Arago,8
+2287242,13:03:00,13:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287242,13:04:00,13:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287242,13:05:00,13:05:10,stop_point:SP_667,Place Roquelaine,11
+2287242,13:06:00,13:06:10,stop_point:SP_201,Jeanne d'Arc,12
+2287242,13:07:00,13:07:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287243,13:37:00,13:37:10,stop_point:SP_1929,Amouroux,1
+2287243,13:38:00,13:38:10,stop_point:SP_3954,Roubichou,2
+2287243,13:38:00,13:38:10,stop_point:SP_904,Ste-Augustine,3
+2287243,13:39:00,13:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287243,13:40:00,13:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287243,13:40:00,13:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287243,13:41:00,13:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287243,13:42:00,13:42:10,stop_point:SP_1873,Arago,8
+2287243,13:43:00,13:43:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287243,13:44:00,13:44:10,stop_point:SP_2745,Pont Matabiau,10
+2287243,13:45:00,13:45:10,stop_point:SP_667,Place Roquelaine,11
+2287243,13:46:00,13:46:10,stop_point:SP_201,Jeanne d'Arc,12
+2287243,13:47:00,13:47:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287244,14:17:00,14:17:10,stop_point:SP_1929,Amouroux,1
+2287244,14:18:00,14:18:10,stop_point:SP_3954,Roubichou,2
+2287244,14:18:00,14:18:10,stop_point:SP_904,Ste-Augustine,3
+2287244,14:19:00,14:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287244,14:20:00,14:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287244,14:20:00,14:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287244,14:21:00,14:21:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287244,14:22:00,14:22:10,stop_point:SP_1873,Arago,8
+2287244,14:23:00,14:23:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287244,14:24:00,14:24:10,stop_point:SP_2745,Pont Matabiau,10
+2287244,14:25:00,14:25:10,stop_point:SP_667,Place Roquelaine,11
+2287244,14:26:00,14:26:10,stop_point:SP_201,Jeanne d'Arc,12
+2287244,14:27:00,14:27:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287245,14:57:00,14:57:10,stop_point:SP_1929,Amouroux,1
+2287245,14:58:00,14:58:10,stop_point:SP_3954,Roubichou,2
+2287245,14:58:00,14:58:10,stop_point:SP_904,Ste-Augustine,3
+2287245,14:59:00,14:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287245,15:00:00,15:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287245,15:00:00,15:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287245,15:01:00,15:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287245,15:02:00,15:02:10,stop_point:SP_1873,Arago,8
+2287245,15:03:00,15:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287245,15:04:00,15:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287245,15:05:00,15:05:10,stop_point:SP_667,Place Roquelaine,11
+2287245,15:06:00,15:06:10,stop_point:SP_201,Jeanne d'Arc,12
+2287245,15:07:00,15:07:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287246,15:37:00,15:37:10,stop_point:SP_1929,Amouroux,1
+2287246,15:38:00,15:38:10,stop_point:SP_3954,Roubichou,2
+2287246,15:38:00,15:38:10,stop_point:SP_904,Ste-Augustine,3
+2287246,15:39:00,15:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287246,15:40:00,15:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287246,15:40:00,15:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287246,15:41:00,15:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287246,15:42:00,15:42:10,stop_point:SP_1873,Arago,8
+2287246,15:44:00,15:44:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287246,15:45:00,15:45:10,stop_point:SP_2745,Pont Matabiau,10
+2287246,15:46:00,15:46:10,stop_point:SP_667,Place Roquelaine,11
+2287246,15:47:00,15:47:10,stop_point:SP_201,Jeanne d'Arc,12
+2287246,15:48:00,15:48:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287247,16:17:00,16:17:10,stop_point:SP_1929,Amouroux,1
+2287247,16:18:00,16:18:10,stop_point:SP_3954,Roubichou,2
+2287247,16:18:00,16:18:10,stop_point:SP_904,Ste-Augustine,3
+2287247,16:19:00,16:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287247,16:20:00,16:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287247,16:20:00,16:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287247,16:21:00,16:21:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287247,16:22:00,16:22:10,stop_point:SP_1873,Arago,8
+2287247,16:24:00,16:24:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287247,16:25:00,16:25:10,stop_point:SP_2745,Pont Matabiau,10
+2287247,16:26:00,16:26:10,stop_point:SP_667,Place Roquelaine,11
+2287247,16:28:00,16:28:10,stop_point:SP_201,Jeanne d'Arc,12
+2287247,16:29:00,16:29:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287248,16:57:00,16:57:10,stop_point:SP_1929,Amouroux,1
+2287248,16:58:00,16:58:10,stop_point:SP_3954,Roubichou,2
+2287248,16:58:00,16:58:10,stop_point:SP_904,Ste-Augustine,3
+2287248,16:59:00,16:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287248,17:00:00,17:00:10,stop_point:SP_3807,Ste-Hélène,5
+2287248,17:00:00,17:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287248,17:01:00,17:01:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287248,17:02:00,17:02:10,stop_point:SP_1873,Arago,8
+2287248,17:04:00,17:04:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287248,17:05:00,17:05:10,stop_point:SP_2745,Pont Matabiau,10
+2287248,17:06:00,17:06:10,stop_point:SP_667,Place Roquelaine,11
+2287248,17:08:00,17:08:10,stop_point:SP_201,Jeanne d'Arc,12
+2287248,17:09:00,17:09:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287249,17:37:00,17:37:10,stop_point:SP_1929,Amouroux,1
+2287249,17:38:00,17:38:10,stop_point:SP_3954,Roubichou,2
+2287249,17:38:00,17:38:10,stop_point:SP_904,Ste-Augustine,3
+2287249,17:39:00,17:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287249,17:40:00,17:40:10,stop_point:SP_3807,Ste-Hélène,5
+2287249,17:40:00,17:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287249,17:41:00,17:41:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287249,17:42:00,17:42:10,stop_point:SP_1873,Arago,8
+2287249,17:44:00,17:44:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287249,17:45:00,17:45:10,stop_point:SP_2745,Pont Matabiau,10
+2287249,17:46:00,17:46:10,stop_point:SP_667,Place Roquelaine,11
+2287249,17:48:00,17:48:10,stop_point:SP_201,Jeanne d'Arc,12
+2287249,17:49:00,17:49:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287250,18:17:00,18:17:10,stop_point:SP_1929,Amouroux,1
+2287250,18:18:00,18:18:10,stop_point:SP_3954,Roubichou,2
+2287250,18:18:00,18:18:10,stop_point:SP_904,Ste-Augustine,3
+2287250,18:19:00,18:19:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287250,18:20:00,18:20:10,stop_point:SP_3807,Ste-Hélène,5
+2287250,18:20:00,18:20:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287250,18:21:00,18:21:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287250,18:22:00,18:22:10,stop_point:SP_1873,Arago,8
+2287250,18:24:00,18:24:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287250,18:25:00,18:25:10,stop_point:SP_2745,Pont Matabiau,10
+2287250,18:26:00,18:26:10,stop_point:SP_667,Place Roquelaine,11
+2287250,18:27:00,18:27:10,stop_point:SP_201,Jeanne d'Arc,12
+2287250,18:28:00,18:28:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287251,18:57:00,18:57:10,stop_point:SP_1929,Amouroux,1
+2287251,18:58:00,18:58:10,stop_point:SP_3954,Roubichou,2
+2287251,18:58:00,18:58:10,stop_point:SP_904,Ste-Augustine,3
+2287251,18:59:00,18:59:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287251,18:59:00,18:59:10,stop_point:SP_3807,Ste-Hélène,5
+2287251,19:00:00,19:00:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287251,19:00:00,19:00:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287251,19:01:00,19:01:10,stop_point:SP_1873,Arago,8
+2287251,19:03:00,19:03:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287251,19:04:00,19:04:10,stop_point:SP_2745,Pont Matabiau,10
+2287251,19:05:00,19:05:10,stop_point:SP_667,Place Roquelaine,11
+2287251,19:06:00,19:06:10,stop_point:SP_201,Jeanne d'Arc,12
+2287251,19:07:00,19:07:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287252,19:37:00,19:37:10,stop_point:SP_1929,Amouroux,1
+2287252,19:38:00,19:38:10,stop_point:SP_3954,Roubichou,2
+2287252,19:38:00,19:38:10,stop_point:SP_904,Ste-Augustine,3
+2287252,19:39:00,19:39:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287252,19:39:00,19:39:10,stop_point:SP_3807,Ste-Hélène,5
+2287252,19:40:00,19:40:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287252,19:40:00,19:40:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287252,19:41:00,19:41:10,stop_point:SP_1873,Arago,8
+2287252,19:43:00,19:43:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287252,19:44:00,19:44:10,stop_point:SP_2745,Pont Matabiau,10
+2287252,19:45:00,19:45:10,stop_point:SP_667,Place Roquelaine,11
+2287252,19:46:00,19:46:10,stop_point:SP_201,Jeanne d'Arc,12
+2287252,19:47:00,19:47:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287253,20:16:00,20:16:10,stop_point:SP_1929,Amouroux,1
+2287253,20:17:00,20:17:10,stop_point:SP_3954,Roubichou,2
+2287253,20:17:00,20:17:10,stop_point:SP_904,Ste-Augustine,3
+2287253,20:18:00,20:18:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287253,20:18:00,20:18:10,stop_point:SP_3807,Ste-Hélène,5
+2287253,20:19:00,20:19:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287253,20:19:00,20:19:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287253,20:20:00,20:20:10,stop_point:SP_1873,Arago,8
+2287253,20:21:00,20:21:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287253,20:22:00,20:22:10,stop_point:SP_2745,Pont Matabiau,10
+2287253,20:23:00,20:23:10,stop_point:SP_667,Place Roquelaine,11
+2287253,20:24:00,20:24:10,stop_point:SP_201,Jeanne d'Arc,12
+2287253,20:25:00,20:25:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287254,20:51:00,20:51:10,stop_point:SP_1929,Amouroux,1
+2287254,20:52:00,20:52:10,stop_point:SP_3954,Roubichou,2
+2287254,20:52:00,20:52:10,stop_point:SP_904,Ste-Augustine,3
+2287254,20:53:00,20:53:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287254,20:53:00,20:53:10,stop_point:SP_3807,Ste-Hélène,5
+2287254,20:54:00,20:54:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287254,20:54:00,20:54:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287254,20:55:00,20:55:10,stop_point:SP_1873,Arago,8
+2287254,20:56:00,20:56:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287254,20:57:00,20:57:10,stop_point:SP_2745,Pont Matabiau,10
+2287254,20:58:00,20:58:10,stop_point:SP_667,Place Roquelaine,11
+2287254,20:59:00,20:59:10,stop_point:SP_201,Jeanne d'Arc,12
+2287254,21:00:00,21:00:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287255,21:30:00,21:30:10,stop_point:SP_1929,Amouroux,1
+2287255,21:31:00,21:31:10,stop_point:SP_3954,Roubichou,2
+2287255,21:31:00,21:31:10,stop_point:SP_904,Ste-Augustine,3
+2287255,21:32:00,21:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287255,21:32:00,21:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287255,21:33:00,21:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287255,21:33:00,21:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287255,21:34:00,21:34:10,stop_point:SP_1873,Arago,8
+2287255,21:35:00,21:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287255,21:36:00,21:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287255,21:37:00,21:37:10,stop_point:SP_667,Place Roquelaine,11
+2287255,21:38:00,21:38:10,stop_point:SP_201,Jeanne d'Arc,12
+2287255,21:39:00,21:39:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287256,22:10:00,22:10:10,stop_point:SP_1929,Amouroux,1
+2287256,22:11:00,22:11:10,stop_point:SP_3954,Roubichou,2
+2287256,22:11:00,22:11:10,stop_point:SP_904,Ste-Augustine,3
+2287256,22:12:00,22:12:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287256,22:12:00,22:12:10,stop_point:SP_3807,Ste-Hélène,5
+2287256,22:13:00,22:13:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287256,22:13:00,22:13:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287256,22:14:00,22:14:10,stop_point:SP_1873,Arago,8
+2287256,22:15:00,22:15:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287256,22:16:00,22:16:10,stop_point:SP_2745,Pont Matabiau,10
+2287256,22:16:00,22:16:10,stop_point:SP_667,Place Roquelaine,11
+2287256,22:17:00,22:17:10,stop_point:SP_201,Jeanne d'Arc,12
+2287256,22:18:00,22:18:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287257,22:50:00,22:50:10,stop_point:SP_1929,Amouroux,1
+2287257,22:51:00,22:51:10,stop_point:SP_3954,Roubichou,2
+2287257,22:51:00,22:51:10,stop_point:SP_904,Ste-Augustine,3
+2287257,22:52:00,22:52:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287257,22:52:00,22:52:10,stop_point:SP_3807,Ste-Hélène,5
+2287257,22:53:00,22:53:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287257,22:53:00,22:53:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287257,22:54:00,22:54:10,stop_point:SP_1873,Arago,8
+2287257,22:55:00,22:55:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287257,22:56:00,22:56:10,stop_point:SP_2745,Pont Matabiau,10
+2287257,22:56:00,22:56:10,stop_point:SP_667,Place Roquelaine,11
+2287257,22:57:00,22:57:10,stop_point:SP_201,Jeanne d'Arc,12
+2287257,22:58:00,22:58:10,stop_point:SP_1882,Jeanne d'Arc,13
+2287258,23:30:00,23:30:10,stop_point:SP_1929,Amouroux,1
+2287258,23:31:00,23:31:10,stop_point:SP_3954,Roubichou,2
+2287258,23:31:00,23:31:10,stop_point:SP_904,Ste-Augustine,3
+2287258,23:32:00,23:32:10,stop_point:SP_439,Barrière de Croix-Daurade,4
+2287258,23:32:00,23:32:10,stop_point:SP_3807,Ste-Hélène,5
+2287258,23:33:00,23:33:10,stop_point:SP_3156,Hauts de Bonnefoy,6
+2287258,23:33:00,23:33:10,stop_point:SP_3696,Eglise Bonnefoy,7
+2287258,23:34:00,23:34:10,stop_point:SP_1873,Arago,8
+2287258,23:35:00,23:35:10,stop_point:SP_2801,Matabiau - Raynal,9
+2287258,23:36:00,23:36:10,stop_point:SP_2745,Pont Matabiau,10
+2287258,23:36:00,23:36:10,stop_point:SP_667,Place Roquelaine,11
+2287258,23:37:00,23:37:10,stop_point:SP_201,Jeanne d'Arc,12
+2287258,23:38:00,23:38:10,stop_point:SP_1882,Jeanne d'Arc,13

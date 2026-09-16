@@ -1,0 +1,1621 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2336639,05:55:00,05:55:10,stop_point:SP_4007,Basso Cambo,1
+2336639,05:58:00,05:58:10,stop_point:SP_5,Desnos,2
+2336639,06:01:00,06:01:10,stop_point:SP_2042,Eisenhower Est,3
+2336639,06:04:00,06:04:10,stop_point:SP_3258,Larrieu,4
+2336639,06:07:00,06:07:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336639,06:09:00,06:09:10,stop_point:SP_5613,Jean Jaurès,6
+2336639,06:10:00,06:10:10,stop_point:SP_5609,Ax,7
+2336639,06:12:00,06:12:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336639,06:13:00,06:13:10,stop_point:SP_5610,Mûriers,9
+2336639,06:16:00,06:16:10,stop_point:SP_4357,Muret Sans Souci,10
+2336639,06:18:00,06:18:10,stop_point:SP_5624,Porte de Muret,11
+2336639,06:20:00,06:20:10,stop_point:SP_5626,Cinéma,12
+2336639,06:21:00,06:21:10,stop_point:SP_44,Douzans,13
+2336639,06:21:00,06:21:10,stop_point:SP_5617,Charles de Gaulle,14
+2336639,06:22:00,06:22:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336640,06:25:00,06:25:10,stop_point:SP_4007,Basso Cambo,1
+2336640,06:28:00,06:28:10,stop_point:SP_5,Desnos,2
+2336640,06:31:00,06:31:10,stop_point:SP_2042,Eisenhower Est,3
+2336640,06:34:00,06:34:10,stop_point:SP_3258,Larrieu,4
+2336640,06:37:00,06:37:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336640,06:39:00,06:39:10,stop_point:SP_5613,Jean Jaurès,6
+2336640,06:41:00,06:41:10,stop_point:SP_5609,Ax,7
+2336640,06:42:00,06:42:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336640,06:44:00,06:44:10,stop_point:SP_5610,Mûriers,9
+2336640,06:47:00,06:47:10,stop_point:SP_4357,Muret Sans Souci,10
+2336640,06:49:00,06:49:10,stop_point:SP_5624,Porte de Muret,11
+2336640,06:51:00,06:51:10,stop_point:SP_5626,Cinéma,12
+2336640,06:52:00,06:52:10,stop_point:SP_44,Douzans,13
+2336640,06:52:00,06:52:10,stop_point:SP_5617,Charles de Gaulle,14
+2336640,06:53:00,06:53:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336641,06:50:00,06:50:10,stop_point:SP_4007,Basso Cambo,1
+2336641,06:53:00,06:53:10,stop_point:SP_5,Desnos,2
+2336641,06:56:00,06:56:10,stop_point:SP_2042,Eisenhower Est,3
+2336641,06:59:00,06:59:10,stop_point:SP_3258,Larrieu,4
+2336641,07:02:00,07:02:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336641,07:04:00,07:04:10,stop_point:SP_5613,Jean Jaurès,6
+2336641,07:06:00,07:06:10,stop_point:SP_5609,Ax,7
+2336641,07:07:00,07:07:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336641,07:09:00,07:09:10,stop_point:SP_5610,Mûriers,9
+2336641,07:13:00,07:13:10,stop_point:SP_4357,Muret Sans Souci,10
+2336641,07:15:00,07:15:10,stop_point:SP_5624,Porte de Muret,11
+2336641,07:17:00,07:17:10,stop_point:SP_5626,Cinéma,12
+2336641,07:18:00,07:18:10,stop_point:SP_44,Douzans,13
+2336641,07:18:00,07:18:10,stop_point:SP_5617,Charles de Gaulle,14
+2336641,07:19:00,07:19:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336642,07:15:00,07:15:10,stop_point:SP_4007,Basso Cambo,1
+2336642,07:18:00,07:18:10,stop_point:SP_5,Desnos,2
+2336642,07:21:00,07:21:10,stop_point:SP_2042,Eisenhower Est,3
+2336642,07:25:00,07:25:10,stop_point:SP_3258,Larrieu,4
+2336642,07:28:00,07:28:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336642,07:30:00,07:30:10,stop_point:SP_5613,Jean Jaurès,6
+2336642,07:32:00,07:32:10,stop_point:SP_5609,Ax,7
+2336642,07:33:00,07:33:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336642,07:35:00,07:35:10,stop_point:SP_5610,Mûriers,9
+2336642,07:39:00,07:39:10,stop_point:SP_4357,Muret Sans Souci,10
+2336642,07:41:00,07:41:10,stop_point:SP_5624,Porte de Muret,11
+2336642,07:43:00,07:43:10,stop_point:SP_5626,Cinéma,12
+2336642,07:44:00,07:44:10,stop_point:SP_44,Douzans,13
+2336642,07:44:00,07:44:10,stop_point:SP_5617,Charles de Gaulle,14
+2336642,07:45:00,07:45:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336643,07:35:00,07:35:10,stop_point:SP_4007,Basso Cambo,1
+2336643,07:38:00,07:38:10,stop_point:SP_5,Desnos,2
+2336643,07:41:00,07:41:10,stop_point:SP_2042,Eisenhower Est,3
+2336643,07:45:00,07:45:10,stop_point:SP_3258,Larrieu,4
+2336643,07:48:00,07:48:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336643,07:50:00,07:50:10,stop_point:SP_5613,Jean Jaurès,6
+2336643,07:52:00,07:52:10,stop_point:SP_5609,Ax,7
+2336643,07:53:00,07:53:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336643,07:55:00,07:55:10,stop_point:SP_5610,Mûriers,9
+2336643,07:59:00,07:59:10,stop_point:SP_4357,Muret Sans Souci,10
+2336643,08:01:00,08:01:10,stop_point:SP_5624,Porte de Muret,11
+2336643,08:03:00,08:03:10,stop_point:SP_5626,Cinéma,12
+2336643,08:04:00,08:04:10,stop_point:SP_44,Douzans,13
+2336643,08:04:00,08:04:10,stop_point:SP_5617,Charles de Gaulle,14
+2336643,08:05:00,08:05:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336644,07:55:00,07:55:10,stop_point:SP_4007,Basso Cambo,1
+2336644,07:58:00,07:58:10,stop_point:SP_5,Desnos,2
+2336644,08:01:00,08:01:10,stop_point:SP_2042,Eisenhower Est,3
+2336644,08:05:00,08:05:10,stop_point:SP_3258,Larrieu,4
+2336644,08:08:00,08:08:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336644,08:10:00,08:10:10,stop_point:SP_5613,Jean Jaurès,6
+2336644,08:12:00,08:12:10,stop_point:SP_5609,Ax,7
+2336644,08:13:00,08:13:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336644,08:15:00,08:15:10,stop_point:SP_5610,Mûriers,9
+2336644,08:19:00,08:19:10,stop_point:SP_4357,Muret Sans Souci,10
+2336644,08:21:00,08:21:10,stop_point:SP_5624,Porte de Muret,11
+2336644,08:23:00,08:23:10,stop_point:SP_5626,Cinéma,12
+2336644,08:24:00,08:24:10,stop_point:SP_44,Douzans,13
+2336644,08:24:00,08:24:10,stop_point:SP_5617,Charles de Gaulle,14
+2336644,08:25:00,08:25:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336645,08:10:00,08:10:10,stop_point:SP_4007,Basso Cambo,1
+2336645,08:13:00,08:13:10,stop_point:SP_5,Desnos,2
+2336645,08:16:00,08:16:10,stop_point:SP_2042,Eisenhower Est,3
+2336645,08:20:00,08:20:10,stop_point:SP_3258,Larrieu,4
+2336645,08:23:00,08:23:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336645,08:25:00,08:25:10,stop_point:SP_5613,Jean Jaurès,6
+2336645,08:27:00,08:27:10,stop_point:SP_5609,Ax,7
+2336645,08:28:00,08:28:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336645,08:30:00,08:30:10,stop_point:SP_5610,Mûriers,9
+2336645,08:34:00,08:34:10,stop_point:SP_4357,Muret Sans Souci,10
+2336645,08:36:00,08:36:10,stop_point:SP_5624,Porte de Muret,11
+2336645,08:38:00,08:38:10,stop_point:SP_5626,Cinéma,12
+2336645,08:39:00,08:39:10,stop_point:SP_44,Douzans,13
+2336645,08:39:00,08:39:10,stop_point:SP_5617,Charles de Gaulle,14
+2336645,08:40:00,08:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336646,08:25:00,08:25:10,stop_point:SP_4007,Basso Cambo,1
+2336646,08:28:00,08:28:10,stop_point:SP_5,Desnos,2
+2336646,08:31:00,08:31:10,stop_point:SP_2042,Eisenhower Est,3
+2336646,08:35:00,08:35:10,stop_point:SP_3258,Larrieu,4
+2336646,08:38:00,08:38:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336646,08:40:00,08:40:10,stop_point:SP_5613,Jean Jaurès,6
+2336646,08:42:00,08:42:10,stop_point:SP_5609,Ax,7
+2336646,08:43:00,08:43:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336646,08:45:00,08:45:10,stop_point:SP_5610,Mûriers,9
+2336646,08:49:00,08:49:10,stop_point:SP_4357,Muret Sans Souci,10
+2336646,08:51:00,08:51:10,stop_point:SP_5624,Porte de Muret,11
+2336646,08:53:00,08:53:10,stop_point:SP_5626,Cinéma,12
+2336646,08:54:00,08:54:10,stop_point:SP_44,Douzans,13
+2336646,08:54:00,08:54:10,stop_point:SP_5617,Charles de Gaulle,14
+2336646,08:55:00,08:55:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336647,08:40:00,08:40:10,stop_point:SP_4007,Basso Cambo,1
+2336647,08:43:00,08:43:10,stop_point:SP_5,Desnos,2
+2336647,08:46:00,08:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336647,08:50:00,08:50:10,stop_point:SP_3258,Larrieu,4
+2336647,08:53:00,08:53:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336647,08:55:00,08:55:10,stop_point:SP_5613,Jean Jaurès,6
+2336647,08:57:00,08:57:10,stop_point:SP_5609,Ax,7
+2336647,08:58:00,08:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336647,09:00:00,09:00:10,stop_point:SP_5610,Mûriers,9
+2336647,09:04:00,09:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336647,09:06:00,09:06:10,stop_point:SP_5624,Porte de Muret,11
+2336647,09:08:00,09:08:10,stop_point:SP_5626,Cinéma,12
+2336647,09:09:00,09:09:10,stop_point:SP_44,Douzans,13
+2336647,09:09:00,09:09:10,stop_point:SP_5617,Charles de Gaulle,14
+2336647,09:10:00,09:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336648,09:20:00,09:20:10,stop_point:SP_4007,Basso Cambo,1
+2336648,09:23:00,09:23:10,stop_point:SP_5,Desnos,2
+2336648,09:26:00,09:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336648,09:30:00,09:30:10,stop_point:SP_3258,Larrieu,4
+2336648,09:33:00,09:33:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336648,09:35:00,09:35:10,stop_point:SP_5613,Jean Jaurès,6
+2336648,09:37:00,09:37:10,stop_point:SP_5609,Ax,7
+2336648,09:38:00,09:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336648,09:40:00,09:40:10,stop_point:SP_5610,Mûriers,9
+2336648,09:44:00,09:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336648,09:46:00,09:46:10,stop_point:SP_5624,Porte de Muret,11
+2336648,09:48:00,09:48:10,stop_point:SP_5626,Cinéma,12
+2336648,09:49:00,09:49:10,stop_point:SP_44,Douzans,13
+2336648,09:49:00,09:49:10,stop_point:SP_5617,Charles de Gaulle,14
+2336648,09:50:00,09:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336649,10:05:00,10:05:10,stop_point:SP_4007,Basso Cambo,1
+2336649,10:08:00,10:08:10,stop_point:SP_5,Desnos,2
+2336649,10:11:00,10:11:10,stop_point:SP_2042,Eisenhower Est,3
+2336649,10:15:00,10:15:10,stop_point:SP_3258,Larrieu,4
+2336649,10:18:00,10:18:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336649,10:20:00,10:20:10,stop_point:SP_5613,Jean Jaurès,6
+2336649,10:22:00,10:22:10,stop_point:SP_5609,Ax,7
+2336649,10:23:00,10:23:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336649,10:25:00,10:25:10,stop_point:SP_5610,Mûriers,9
+2336649,10:29:00,10:29:10,stop_point:SP_4357,Muret Sans Souci,10
+2336649,10:31:00,10:31:10,stop_point:SP_5624,Porte de Muret,11
+2336649,10:33:00,10:33:10,stop_point:SP_5626,Cinéma,12
+2336649,10:34:00,10:34:10,stop_point:SP_44,Douzans,13
+2336649,10:34:00,10:34:10,stop_point:SP_5617,Charles de Gaulle,14
+2336649,10:35:00,10:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336650,10:50:00,10:50:10,stop_point:SP_4007,Basso Cambo,1
+2336650,10:53:00,10:53:10,stop_point:SP_5,Desnos,2
+2336650,10:56:00,10:56:10,stop_point:SP_2042,Eisenhower Est,3
+2336650,11:00:00,11:00:10,stop_point:SP_3258,Larrieu,4
+2336650,11:03:00,11:03:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336650,11:05:00,11:05:10,stop_point:SP_5613,Jean Jaurès,6
+2336650,11:07:00,11:07:10,stop_point:SP_5609,Ax,7
+2336650,11:08:00,11:08:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336650,11:10:00,11:10:10,stop_point:SP_5610,Mûriers,9
+2336650,11:14:00,11:14:10,stop_point:SP_4357,Muret Sans Souci,10
+2336650,11:16:00,11:16:10,stop_point:SP_5624,Porte de Muret,11
+2336650,11:18:00,11:18:10,stop_point:SP_5626,Cinéma,12
+2336650,11:19:00,11:19:10,stop_point:SP_44,Douzans,13
+2336650,11:19:00,11:19:10,stop_point:SP_5617,Charles de Gaulle,14
+2336650,11:20:00,11:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336651,11:35:00,11:35:10,stop_point:SP_4007,Basso Cambo,1
+2336651,11:38:00,11:38:10,stop_point:SP_5,Desnos,2
+2336651,11:41:00,11:41:10,stop_point:SP_2042,Eisenhower Est,3
+2336651,11:45:00,11:45:10,stop_point:SP_3258,Larrieu,4
+2336651,11:48:00,11:48:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336651,11:50:00,11:50:10,stop_point:SP_5613,Jean Jaurès,6
+2336651,11:52:00,11:52:10,stop_point:SP_5609,Ax,7
+2336651,11:53:00,11:53:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336651,11:55:00,11:55:10,stop_point:SP_5610,Mûriers,9
+2336651,11:59:00,11:59:10,stop_point:SP_4357,Muret Sans Souci,10
+2336651,12:02:00,12:02:10,stop_point:SP_5624,Porte de Muret,11
+2336651,12:03:00,12:03:10,stop_point:SP_5626,Cinéma,12
+2336651,12:04:00,12:04:10,stop_point:SP_44,Douzans,13
+2336651,12:05:00,12:05:10,stop_point:SP_5617,Charles de Gaulle,14
+2336651,12:06:00,12:06:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336652,12:20:00,12:20:10,stop_point:SP_4007,Basso Cambo,1
+2336652,12:23:00,12:23:10,stop_point:SP_5,Desnos,2
+2336652,12:26:00,12:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336652,12:30:00,12:30:10,stop_point:SP_3258,Larrieu,4
+2336652,12:33:00,12:33:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336652,12:35:00,12:35:10,stop_point:SP_5613,Jean Jaurès,6
+2336652,12:37:00,12:37:10,stop_point:SP_5609,Ax,7
+2336652,12:38:00,12:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336652,12:40:00,12:40:10,stop_point:SP_5610,Mûriers,9
+2336652,12:44:00,12:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336652,12:47:00,12:47:10,stop_point:SP_5624,Porte de Muret,11
+2336652,12:48:00,12:48:10,stop_point:SP_5626,Cinéma,12
+2336652,12:49:00,12:49:10,stop_point:SP_44,Douzans,13
+2336652,12:50:00,12:50:10,stop_point:SP_5617,Charles de Gaulle,14
+2336652,12:51:00,12:51:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336653,13:05:00,13:05:10,stop_point:SP_4007,Basso Cambo,1
+2336653,13:08:00,13:08:10,stop_point:SP_5,Desnos,2
+2336653,13:11:00,13:11:10,stop_point:SP_2042,Eisenhower Est,3
+2336653,13:15:00,13:15:10,stop_point:SP_3258,Larrieu,4
+2336653,13:18:00,13:18:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336653,13:20:00,13:20:10,stop_point:SP_5613,Jean Jaurès,6
+2336653,13:22:00,13:22:10,stop_point:SP_5609,Ax,7
+2336653,13:23:00,13:23:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336653,13:25:00,13:25:10,stop_point:SP_5610,Mûriers,9
+2336653,13:29:00,13:29:10,stop_point:SP_4357,Muret Sans Souci,10
+2336653,13:32:00,13:32:10,stop_point:SP_5624,Porte de Muret,11
+2336653,13:33:00,13:33:10,stop_point:SP_5626,Cinéma,12
+2336653,13:34:00,13:34:10,stop_point:SP_44,Douzans,13
+2336653,13:35:00,13:35:10,stop_point:SP_5617,Charles de Gaulle,14
+2336653,13:36:00,13:36:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336654,13:50:00,13:50:10,stop_point:SP_4007,Basso Cambo,1
+2336654,13:53:00,13:53:10,stop_point:SP_5,Desnos,2
+2336654,13:56:00,13:56:10,stop_point:SP_2042,Eisenhower Est,3
+2336654,14:00:00,14:00:10,stop_point:SP_3258,Larrieu,4
+2336654,14:03:00,14:03:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336654,14:05:00,14:05:10,stop_point:SP_5613,Jean Jaurès,6
+2336654,14:07:00,14:07:10,stop_point:SP_5609,Ax,7
+2336654,14:08:00,14:08:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336654,14:10:00,14:10:10,stop_point:SP_5610,Mûriers,9
+2336654,14:14:00,14:14:10,stop_point:SP_4357,Muret Sans Souci,10
+2336654,14:17:00,14:17:10,stop_point:SP_5624,Porte de Muret,11
+2336654,14:18:00,14:18:10,stop_point:SP_5626,Cinéma,12
+2336654,14:19:00,14:19:10,stop_point:SP_44,Douzans,13
+2336654,14:20:00,14:20:10,stop_point:SP_5617,Charles de Gaulle,14
+2336654,14:21:00,14:21:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336655,14:35:00,14:35:10,stop_point:SP_4007,Basso Cambo,1
+2336655,14:38:00,14:38:10,stop_point:SP_5,Desnos,2
+2336655,14:41:00,14:41:10,stop_point:SP_2042,Eisenhower Est,3
+2336655,14:45:00,14:45:10,stop_point:SP_3258,Larrieu,4
+2336655,14:49:00,14:49:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336655,14:51:00,14:51:10,stop_point:SP_5613,Jean Jaurès,6
+2336655,14:53:00,14:53:10,stop_point:SP_5609,Ax,7
+2336655,14:55:00,14:55:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336655,14:57:00,14:57:10,stop_point:SP_5610,Mûriers,9
+2336655,15:01:00,15:01:10,stop_point:SP_4357,Muret Sans Souci,10
+2336655,15:04:00,15:04:10,stop_point:SP_5624,Porte de Muret,11
+2336655,15:05:00,15:05:10,stop_point:SP_5626,Cinéma,12
+2336655,15:06:00,15:06:10,stop_point:SP_44,Douzans,13
+2336655,15:07:00,15:07:10,stop_point:SP_5617,Charles de Gaulle,14
+2336655,15:08:00,15:08:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336656,15:20:00,15:20:10,stop_point:SP_4007,Basso Cambo,1
+2336656,15:23:00,15:23:10,stop_point:SP_5,Desnos,2
+2336656,15:26:00,15:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336656,15:30:00,15:30:10,stop_point:SP_3258,Larrieu,4
+2336656,15:34:00,15:34:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336656,15:36:00,15:36:10,stop_point:SP_5613,Jean Jaurès,6
+2336656,15:38:00,15:38:10,stop_point:SP_5609,Ax,7
+2336656,15:40:00,15:40:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336656,15:42:00,15:42:10,stop_point:SP_5610,Mûriers,9
+2336656,15:46:00,15:46:10,stop_point:SP_4357,Muret Sans Souci,10
+2336656,15:49:00,15:49:10,stop_point:SP_5624,Porte de Muret,11
+2336656,15:50:00,15:50:10,stop_point:SP_5626,Cinéma,12
+2336656,15:51:00,15:51:10,stop_point:SP_44,Douzans,13
+2336656,15:52:00,15:52:10,stop_point:SP_5617,Charles de Gaulle,14
+2336656,15:53:00,15:53:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336657,15:50:00,15:50:10,stop_point:SP_4007,Basso Cambo,1
+2336657,15:53:00,15:53:10,stop_point:SP_5,Desnos,2
+2336657,15:56:00,15:56:10,stop_point:SP_2042,Eisenhower Est,3
+2336657,16:00:00,16:00:10,stop_point:SP_3258,Larrieu,4
+2336657,16:04:00,16:04:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336657,16:06:00,16:06:10,stop_point:SP_5613,Jean Jaurès,6
+2336657,16:08:00,16:08:10,stop_point:SP_5609,Ax,7
+2336657,16:10:00,16:10:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336657,16:12:00,16:12:10,stop_point:SP_5610,Mûriers,9
+2336657,16:16:00,16:16:10,stop_point:SP_4357,Muret Sans Souci,10
+2336657,16:19:00,16:19:10,stop_point:SP_5624,Porte de Muret,11
+2336657,16:20:00,16:20:10,stop_point:SP_5626,Cinéma,12
+2336657,16:21:00,16:21:10,stop_point:SP_44,Douzans,13
+2336657,16:22:00,16:22:10,stop_point:SP_5617,Charles de Gaulle,14
+2336657,16:23:00,16:23:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336658,16:15:00,16:15:10,stop_point:SP_4007,Basso Cambo,1
+2336658,16:18:00,16:18:10,stop_point:SP_5,Desnos,2
+2336658,16:21:00,16:21:10,stop_point:SP_2042,Eisenhower Est,3
+2336658,16:25:00,16:25:10,stop_point:SP_3258,Larrieu,4
+2336658,16:30:00,16:30:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336658,16:32:00,16:32:10,stop_point:SP_5613,Jean Jaurès,6
+2336658,16:34:00,16:34:10,stop_point:SP_5609,Ax,7
+2336658,16:36:00,16:36:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336658,16:38:00,16:38:10,stop_point:SP_5610,Mûriers,9
+2336658,16:42:00,16:42:10,stop_point:SP_4357,Muret Sans Souci,10
+2336658,16:45:00,16:45:10,stop_point:SP_5624,Porte de Muret,11
+2336658,16:46:00,16:46:10,stop_point:SP_5626,Cinéma,12
+2336658,16:47:00,16:47:10,stop_point:SP_44,Douzans,13
+2336658,16:48:00,16:48:10,stop_point:SP_5617,Charles de Gaulle,14
+2336658,16:49:00,16:49:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336659,16:36:00,16:36:10,stop_point:SP_4007,Basso Cambo,1
+2336659,16:39:00,16:39:10,stop_point:SP_5,Desnos,2
+2336659,16:42:00,16:42:10,stop_point:SP_2042,Eisenhower Est,3
+2336659,16:46:00,16:46:10,stop_point:SP_3258,Larrieu,4
+2336659,16:51:00,16:51:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336659,16:53:00,16:53:10,stop_point:SP_5613,Jean Jaurès,6
+2336659,16:55:00,16:55:10,stop_point:SP_5609,Ax,7
+2336659,16:57:00,16:57:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336659,16:59:00,16:59:10,stop_point:SP_5610,Mûriers,9
+2336659,17:03:00,17:03:10,stop_point:SP_4357,Muret Sans Souci,10
+2336659,17:06:00,17:06:10,stop_point:SP_5624,Porte de Muret,11
+2336659,17:07:00,17:07:10,stop_point:SP_5626,Cinéma,12
+2336659,17:08:00,17:08:10,stop_point:SP_44,Douzans,13
+2336659,17:09:00,17:09:10,stop_point:SP_5617,Charles de Gaulle,14
+2336659,17:10:00,17:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336660,16:52:00,16:52:10,stop_point:SP_4007,Basso Cambo,1
+2336660,16:55:00,16:55:10,stop_point:SP_5,Desnos,2
+2336660,16:58:00,16:58:10,stop_point:SP_2042,Eisenhower Est,3
+2336660,17:02:00,17:02:10,stop_point:SP_3258,Larrieu,4
+2336660,17:08:00,17:08:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336660,17:11:00,17:11:10,stop_point:SP_5613,Jean Jaurès,6
+2336660,17:13:00,17:13:10,stop_point:SP_5609,Ax,7
+2336660,17:15:00,17:15:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336660,17:17:00,17:17:10,stop_point:SP_5610,Mûriers,9
+2336660,17:21:00,17:21:10,stop_point:SP_4357,Muret Sans Souci,10
+2336660,17:24:00,17:24:10,stop_point:SP_5624,Porte de Muret,11
+2336660,17:25:00,17:25:10,stop_point:SP_5626,Cinéma,12
+2336660,17:26:00,17:26:10,stop_point:SP_44,Douzans,13
+2336660,17:27:00,17:27:10,stop_point:SP_5617,Charles de Gaulle,14
+2336660,17:28:00,17:28:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336661,17:08:00,17:08:10,stop_point:SP_4007,Basso Cambo,1
+2336661,17:11:00,17:11:10,stop_point:SP_5,Desnos,2
+2336661,17:14:00,17:14:10,stop_point:SP_2042,Eisenhower Est,3
+2336661,17:18:00,17:18:10,stop_point:SP_3258,Larrieu,4
+2336661,17:24:00,17:24:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336661,17:27:00,17:27:10,stop_point:SP_5613,Jean Jaurès,6
+2336661,17:29:00,17:29:10,stop_point:SP_5609,Ax,7
+2336661,17:31:00,17:31:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336661,17:33:00,17:33:10,stop_point:SP_5610,Mûriers,9
+2336661,17:37:00,17:37:10,stop_point:SP_4357,Muret Sans Souci,10
+2336661,17:40:00,17:40:10,stop_point:SP_5624,Porte de Muret,11
+2336661,17:41:00,17:41:10,stop_point:SP_5626,Cinéma,12
+2336661,17:42:00,17:42:10,stop_point:SP_44,Douzans,13
+2336661,17:43:00,17:43:10,stop_point:SP_5617,Charles de Gaulle,14
+2336661,17:44:00,17:44:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336662,17:24:00,17:24:10,stop_point:SP_4007,Basso Cambo,1
+2336662,17:27:00,17:27:10,stop_point:SP_5,Desnos,2
+2336662,17:30:00,17:30:10,stop_point:SP_2042,Eisenhower Est,3
+2336662,17:34:00,17:34:10,stop_point:SP_3258,Larrieu,4
+2336662,17:40:00,17:40:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336662,17:43:00,17:43:10,stop_point:SP_5613,Jean Jaurès,6
+2336662,17:45:00,17:45:10,stop_point:SP_5609,Ax,7
+2336662,17:47:00,17:47:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336662,17:49:00,17:49:10,stop_point:SP_5610,Mûriers,9
+2336662,17:53:00,17:53:10,stop_point:SP_4357,Muret Sans Souci,10
+2336662,17:56:00,17:56:10,stop_point:SP_5624,Porte de Muret,11
+2336662,17:57:00,17:57:10,stop_point:SP_5626,Cinéma,12
+2336662,17:58:00,17:58:10,stop_point:SP_44,Douzans,13
+2336662,17:59:00,17:59:10,stop_point:SP_5617,Charles de Gaulle,14
+2336662,18:00:00,18:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336663,17:40:00,17:40:10,stop_point:SP_4007,Basso Cambo,1
+2336663,17:43:00,17:43:10,stop_point:SP_5,Desnos,2
+2336663,17:46:00,17:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336663,17:50:00,17:50:10,stop_point:SP_3258,Larrieu,4
+2336663,17:55:00,17:55:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336663,17:57:00,17:57:10,stop_point:SP_5613,Jean Jaurès,6
+2336663,17:59:00,17:59:10,stop_point:SP_5609,Ax,7
+2336663,18:01:00,18:01:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336663,18:03:00,18:03:10,stop_point:SP_5610,Mûriers,9
+2336663,18:07:00,18:07:10,stop_point:SP_4357,Muret Sans Souci,10
+2336663,18:10:00,18:10:10,stop_point:SP_5624,Porte de Muret,11
+2336663,18:11:00,18:11:10,stop_point:SP_5626,Cinéma,12
+2336663,18:12:00,18:12:10,stop_point:SP_44,Douzans,13
+2336663,18:13:00,18:13:10,stop_point:SP_5617,Charles de Gaulle,14
+2336663,18:14:00,18:14:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336664,17:56:00,17:56:10,stop_point:SP_4007,Basso Cambo,1
+2336664,17:59:00,17:59:10,stop_point:SP_5,Desnos,2
+2336664,18:02:00,18:02:10,stop_point:SP_2042,Eisenhower Est,3
+2336664,18:06:00,18:06:10,stop_point:SP_3258,Larrieu,4
+2336664,18:11:00,18:11:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336664,18:13:00,18:13:10,stop_point:SP_5613,Jean Jaurès,6
+2336664,18:15:00,18:15:10,stop_point:SP_5609,Ax,7
+2336664,18:17:00,18:17:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336664,18:19:00,18:19:10,stop_point:SP_5610,Mûriers,9
+2336664,18:23:00,18:23:10,stop_point:SP_4357,Muret Sans Souci,10
+2336664,18:26:00,18:26:10,stop_point:SP_5624,Porte de Muret,11
+2336664,18:27:00,18:27:10,stop_point:SP_5626,Cinéma,12
+2336664,18:28:00,18:28:10,stop_point:SP_44,Douzans,13
+2336664,18:29:00,18:29:10,stop_point:SP_5617,Charles de Gaulle,14
+2336664,18:30:00,18:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336665,18:12:00,18:12:10,stop_point:SP_4007,Basso Cambo,1
+2336665,18:15:00,18:15:10,stop_point:SP_5,Desnos,2
+2336665,18:18:00,18:18:10,stop_point:SP_2042,Eisenhower Est,3
+2336665,18:22:00,18:22:10,stop_point:SP_3258,Larrieu,4
+2336665,18:27:00,18:27:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336665,18:29:00,18:29:10,stop_point:SP_5613,Jean Jaurès,6
+2336665,18:31:00,18:31:10,stop_point:SP_5609,Ax,7
+2336665,18:33:00,18:33:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336665,18:35:00,18:35:10,stop_point:SP_5610,Mûriers,9
+2336665,18:39:00,18:39:10,stop_point:SP_4357,Muret Sans Souci,10
+2336665,18:42:00,18:42:10,stop_point:SP_5624,Porte de Muret,11
+2336665,18:43:00,18:43:10,stop_point:SP_5626,Cinéma,12
+2336665,18:44:00,18:44:10,stop_point:SP_44,Douzans,13
+2336665,18:45:00,18:45:10,stop_point:SP_5617,Charles de Gaulle,14
+2336665,18:46:00,18:46:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336666,18:28:00,18:28:10,stop_point:SP_4007,Basso Cambo,1
+2336666,18:31:00,18:31:10,stop_point:SP_5,Desnos,2
+2336666,18:34:00,18:34:10,stop_point:SP_2042,Eisenhower Est,3
+2336666,18:38:00,18:38:10,stop_point:SP_3258,Larrieu,4
+2336666,18:42:00,18:42:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336666,18:44:00,18:44:10,stop_point:SP_5613,Jean Jaurès,6
+2336666,18:46:00,18:46:10,stop_point:SP_5609,Ax,7
+2336666,18:48:00,18:48:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336666,18:50:00,18:50:10,stop_point:SP_5610,Mûriers,9
+2336666,18:54:00,18:54:10,stop_point:SP_4357,Muret Sans Souci,10
+2336666,18:57:00,18:57:10,stop_point:SP_5624,Porte de Muret,11
+2336666,18:58:00,18:58:10,stop_point:SP_5626,Cinéma,12
+2336666,18:59:00,18:59:10,stop_point:SP_44,Douzans,13
+2336666,19:00:00,19:00:10,stop_point:SP_5617,Charles de Gaulle,14
+2336666,19:01:00,19:01:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336667,18:44:00,18:44:10,stop_point:SP_4007,Basso Cambo,1
+2336667,18:47:00,18:47:10,stop_point:SP_5,Desnos,2
+2336667,18:50:00,18:50:10,stop_point:SP_2042,Eisenhower Est,3
+2336667,18:54:00,18:54:10,stop_point:SP_3258,Larrieu,4
+2336667,18:57:00,18:57:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336667,18:59:00,18:59:10,stop_point:SP_5613,Jean Jaurès,6
+2336667,19:01:00,19:01:10,stop_point:SP_5609,Ax,7
+2336667,19:03:00,19:03:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336667,19:05:00,19:05:10,stop_point:SP_5610,Mûriers,9
+2336667,19:09:00,19:09:10,stop_point:SP_4357,Muret Sans Souci,10
+2336667,19:12:00,19:12:10,stop_point:SP_5624,Porte de Muret,11
+2336667,19:13:00,19:13:10,stop_point:SP_5626,Cinéma,12
+2336667,19:14:00,19:14:10,stop_point:SP_44,Douzans,13
+2336667,19:15:00,19:15:10,stop_point:SP_5617,Charles de Gaulle,14
+2336667,19:16:00,19:16:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336668,19:20:00,19:20:10,stop_point:SP_4007,Basso Cambo,1
+2336668,19:22:00,19:22:10,stop_point:SP_5,Desnos,2
+2336668,19:25:00,19:25:10,stop_point:SP_2042,Eisenhower Est,3
+2336668,19:29:00,19:29:10,stop_point:SP_3258,Larrieu,4
+2336668,19:32:00,19:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336668,19:34:00,19:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336668,19:36:00,19:36:10,stop_point:SP_5609,Ax,7
+2336668,19:38:00,19:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336668,19:40:00,19:40:10,stop_point:SP_5610,Mûriers,9
+2336668,19:44:00,19:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336668,19:47:00,19:47:10,stop_point:SP_5624,Porte de Muret,11
+2336668,19:48:00,19:48:10,stop_point:SP_5626,Cinéma,12
+2336668,19:49:00,19:49:10,stop_point:SP_44,Douzans,13
+2336668,19:50:00,19:50:10,stop_point:SP_5617,Charles de Gaulle,14
+2336668,19:51:00,19:51:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336669,20:00:00,20:00:10,stop_point:SP_4007,Basso Cambo,1
+2336669,20:02:00,20:02:10,stop_point:SP_5,Desnos,2
+2336669,20:05:00,20:05:10,stop_point:SP_2042,Eisenhower Est,3
+2336669,20:09:00,20:09:10,stop_point:SP_3258,Larrieu,4
+2336669,20:12:00,20:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336669,20:13:00,20:13:10,stop_point:SP_5613,Jean Jaurès,6
+2336669,20:15:00,20:15:10,stop_point:SP_5609,Ax,7
+2336669,20:17:00,20:17:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336669,20:19:00,20:19:10,stop_point:SP_5610,Mûriers,9
+2336669,20:23:00,20:23:10,stop_point:SP_4357,Muret Sans Souci,10
+2336669,20:26:00,20:26:10,stop_point:SP_5624,Porte de Muret,11
+2336669,20:27:00,20:27:10,stop_point:SP_5626,Cinéma,12
+2336669,20:28:00,20:28:10,stop_point:SP_44,Douzans,13
+2336669,20:29:00,20:29:10,stop_point:SP_5617,Charles de Gaulle,14
+2336669,20:30:00,20:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336670,20:50:00,20:50:10,stop_point:SP_4007,Basso Cambo,1
+2336670,20:52:00,20:52:10,stop_point:SP_5,Desnos,2
+2336670,20:55:00,20:55:10,stop_point:SP_2042,Eisenhower Est,3
+2336670,20:59:00,20:59:10,stop_point:SP_3258,Larrieu,4
+2336670,21:02:00,21:02:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336670,21:03:00,21:03:10,stop_point:SP_5613,Jean Jaurès,6
+2336670,21:05:00,21:05:10,stop_point:SP_5609,Ax,7
+2336670,21:07:00,21:07:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336670,21:09:00,21:09:10,stop_point:SP_5610,Mûriers,9
+2336670,21:13:00,21:13:10,stop_point:SP_4357,Muret Sans Souci,10
+2336670,21:15:00,21:15:10,stop_point:SP_5624,Porte de Muret,11
+2336670,21:16:00,21:16:10,stop_point:SP_5626,Cinéma,12
+2336670,21:17:00,21:17:10,stop_point:SP_44,Douzans,13
+2336670,21:18:00,21:18:10,stop_point:SP_5617,Charles de Gaulle,14
+2336670,21:18:00,21:18:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336671,06:05:00,06:05:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336671,06:07:00,06:07:10,stop_point:SP_5616,Charles de Gaulle,2
+2336671,06:08:00,06:08:10,stop_point:SP_1067,Douzans,3
+2336671,06:09:00,06:09:10,stop_point:SP_5619,Cinéma,4
+2336671,06:11:00,06:11:10,stop_point:SP_5621,Porte de Muret,5
+2336671,06:14:00,06:14:10,stop_point:SP_5625,Muret Sans Souci,6
+2336671,06:17:00,06:17:10,stop_point:SP_5606,Mûriers,7
+2336671,06:19:00,06:19:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336671,06:20:00,06:20:10,stop_point:SP_5611,Ax,9
+2336671,06:22:00,06:22:10,stop_point:SP_5608,Jean Jaurès,10
+2336671,06:24:00,06:24:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336671,06:27:00,06:27:10,stop_point:SP_320,Larrieu,12
+2336671,06:31:00,06:31:10,stop_point:SP_2955,Eisenhower Est,13
+2336671,06:33:00,06:33:10,stop_point:SP_16,Desnos,14
+2336671,06:36:00,06:36:10,stop_point:SP_4007,Basso Cambo,15
+2336672,06:35:00,06:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336672,06:37:00,06:37:10,stop_point:SP_5616,Charles de Gaulle,2
+2336672,06:38:00,06:38:10,stop_point:SP_1067,Douzans,3
+2336672,06:39:00,06:39:10,stop_point:SP_5619,Cinéma,4
+2336672,06:41:00,06:41:10,stop_point:SP_5621,Porte de Muret,5
+2336672,06:44:00,06:44:10,stop_point:SP_5625,Muret Sans Souci,6
+2336672,06:47:00,06:47:10,stop_point:SP_5606,Mûriers,7
+2336672,06:49:00,06:49:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336672,06:50:00,06:50:10,stop_point:SP_5611,Ax,9
+2336672,06:52:00,06:52:10,stop_point:SP_5608,Jean Jaurès,10
+2336672,06:54:00,06:54:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336672,06:57:00,06:57:10,stop_point:SP_320,Larrieu,12
+2336672,07:01:00,07:01:10,stop_point:SP_2955,Eisenhower Est,13
+2336672,07:03:00,07:03:10,stop_point:SP_16,Desnos,14
+2336672,07:06:00,07:06:10,stop_point:SP_4007,Basso Cambo,15
+2336673,06:50:00,06:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336673,06:52:00,06:52:10,stop_point:SP_5616,Charles de Gaulle,2
+2336673,06:53:00,06:53:10,stop_point:SP_1067,Douzans,3
+2336673,06:54:00,06:54:10,stop_point:SP_5619,Cinéma,4
+2336673,06:56:00,06:56:10,stop_point:SP_5621,Porte de Muret,5
+2336673,06:59:00,06:59:10,stop_point:SP_5625,Muret Sans Souci,6
+2336673,07:03:00,07:03:10,stop_point:SP_5606,Mûriers,7
+2336673,07:04:00,07:04:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336673,07:06:00,07:06:10,stop_point:SP_5611,Ax,9
+2336673,07:08:00,07:08:10,stop_point:SP_5608,Jean Jaurès,10
+2336673,07:10:00,07:10:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336673,07:14:00,07:14:10,stop_point:SP_320,Larrieu,12
+2336673,07:20:00,07:20:10,stop_point:SP_2955,Eisenhower Est,13
+2336673,07:23:00,07:23:10,stop_point:SP_16,Desnos,14
+2336673,07:26:00,07:26:10,stop_point:SP_4007,Basso Cambo,15
+2336674,07:05:00,07:05:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336674,07:07:00,07:07:10,stop_point:SP_5616,Charles de Gaulle,2
+2336674,07:08:00,07:08:10,stop_point:SP_1067,Douzans,3
+2336674,07:09:00,07:09:10,stop_point:SP_5619,Cinéma,4
+2336674,07:11:00,07:11:10,stop_point:SP_5621,Porte de Muret,5
+2336674,07:14:00,07:14:10,stop_point:SP_5625,Muret Sans Souci,6
+2336674,07:18:00,07:18:10,stop_point:SP_5606,Mûriers,7
+2336674,07:19:00,07:19:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336674,07:21:00,07:21:10,stop_point:SP_5611,Ax,9
+2336674,07:23:00,07:23:10,stop_point:SP_5608,Jean Jaurès,10
+2336674,07:25:00,07:25:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336674,07:29:00,07:29:10,stop_point:SP_320,Larrieu,12
+2336674,07:35:00,07:35:10,stop_point:SP_2955,Eisenhower Est,13
+2336674,07:38:00,07:38:10,stop_point:SP_16,Desnos,14
+2336674,07:41:00,07:41:10,stop_point:SP_4007,Basso Cambo,15
+2336675,07:20:00,07:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336675,07:22:00,07:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336675,07:23:00,07:23:10,stop_point:SP_1067,Douzans,3
+2336675,07:24:00,07:24:10,stop_point:SP_5619,Cinéma,4
+2336675,07:26:00,07:26:10,stop_point:SP_5621,Porte de Muret,5
+2336675,07:29:00,07:29:10,stop_point:SP_5625,Muret Sans Souci,6
+2336675,07:33:00,07:33:10,stop_point:SP_5606,Mûriers,7
+2336675,07:34:00,07:34:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336675,07:36:00,07:36:10,stop_point:SP_5611,Ax,9
+2336675,07:38:00,07:38:10,stop_point:SP_5608,Jean Jaurès,10
+2336675,07:40:00,07:40:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336675,07:45:00,07:45:10,stop_point:SP_320,Larrieu,12
+2336675,07:51:00,07:51:10,stop_point:SP_2955,Eisenhower Est,13
+2336675,07:54:00,07:54:10,stop_point:SP_16,Desnos,14
+2336675,07:57:00,07:57:10,stop_point:SP_4007,Basso Cambo,15
+2336676,07:35:00,07:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336676,07:37:00,07:37:10,stop_point:SP_5616,Charles de Gaulle,2
+2336676,07:38:00,07:38:10,stop_point:SP_1067,Douzans,3
+2336676,07:39:00,07:39:10,stop_point:SP_5619,Cinéma,4
+2336676,07:41:00,07:41:10,stop_point:SP_5621,Porte de Muret,5
+2336676,07:44:00,07:44:10,stop_point:SP_5625,Muret Sans Souci,6
+2336676,07:48:00,07:48:10,stop_point:SP_5606,Mûriers,7
+2336676,07:49:00,07:49:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336676,07:51:00,07:51:10,stop_point:SP_5611,Ax,9
+2336676,07:53:00,07:53:10,stop_point:SP_5608,Jean Jaurès,10
+2336676,07:56:00,07:56:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336676,08:01:00,08:01:10,stop_point:SP_320,Larrieu,12
+2336676,08:07:00,08:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336676,08:10:00,08:10:10,stop_point:SP_16,Desnos,14
+2336676,08:13:00,08:13:10,stop_point:SP_4007,Basso Cambo,15
+2336677,07:50:00,07:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336677,07:52:00,07:52:10,stop_point:SP_5616,Charles de Gaulle,2
+2336677,07:53:00,07:53:10,stop_point:SP_1067,Douzans,3
+2336677,07:54:00,07:54:10,stop_point:SP_5619,Cinéma,4
+2336677,07:56:00,07:56:10,stop_point:SP_5621,Porte de Muret,5
+2336677,07:59:00,07:59:10,stop_point:SP_5625,Muret Sans Souci,6
+2336677,08:03:00,08:03:10,stop_point:SP_5606,Mûriers,7
+2336677,08:04:00,08:04:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336677,08:06:00,08:06:10,stop_point:SP_5611,Ax,9
+2336677,08:08:00,08:08:10,stop_point:SP_5608,Jean Jaurès,10
+2336677,08:11:00,08:11:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336677,08:16:00,08:16:10,stop_point:SP_320,Larrieu,12
+2336677,08:22:00,08:22:10,stop_point:SP_2955,Eisenhower Est,13
+2336677,08:25:00,08:25:10,stop_point:SP_16,Desnos,14
+2336677,08:28:00,08:28:10,stop_point:SP_4007,Basso Cambo,15
+2336678,08:10:00,08:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336678,08:12:00,08:12:10,stop_point:SP_5616,Charles de Gaulle,2
+2336678,08:13:00,08:13:10,stop_point:SP_1067,Douzans,3
+2336678,08:14:00,08:14:10,stop_point:SP_5619,Cinéma,4
+2336678,08:16:00,08:16:10,stop_point:SP_5621,Porte de Muret,5
+2336678,08:19:00,08:19:10,stop_point:SP_5625,Muret Sans Souci,6
+2336678,08:23:00,08:23:10,stop_point:SP_5606,Mûriers,7
+2336678,08:24:00,08:24:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336678,08:26:00,08:26:10,stop_point:SP_5611,Ax,9
+2336678,08:28:00,08:28:10,stop_point:SP_5608,Jean Jaurès,10
+2336678,08:30:00,08:30:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336678,08:35:00,08:35:10,stop_point:SP_320,Larrieu,12
+2336678,08:41:00,08:41:10,stop_point:SP_2955,Eisenhower Est,13
+2336678,08:44:00,08:44:10,stop_point:SP_16,Desnos,14
+2336678,08:47:00,08:47:10,stop_point:SP_4007,Basso Cambo,15
+2336679,08:35:00,08:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336679,08:37:00,08:37:10,stop_point:SP_5616,Charles de Gaulle,2
+2336679,08:38:00,08:38:10,stop_point:SP_1067,Douzans,3
+2336679,08:39:00,08:39:10,stop_point:SP_5619,Cinéma,4
+2336679,08:41:00,08:41:10,stop_point:SP_5621,Porte de Muret,5
+2336679,08:44:00,08:44:10,stop_point:SP_5625,Muret Sans Souci,6
+2336679,08:48:00,08:48:10,stop_point:SP_5606,Mûriers,7
+2336679,08:49:00,08:49:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336679,08:51:00,08:51:10,stop_point:SP_5611,Ax,9
+2336679,08:53:00,08:53:10,stop_point:SP_5608,Jean Jaurès,10
+2336679,08:55:00,08:55:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336679,09:00:00,09:00:10,stop_point:SP_320,Larrieu,12
+2336679,09:04:00,09:04:10,stop_point:SP_2955,Eisenhower Est,13
+2336679,09:07:00,09:07:10,stop_point:SP_16,Desnos,14
+2336679,09:10:00,09:10:10,stop_point:SP_4007,Basso Cambo,15
+2336680,09:15:00,09:15:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336680,09:17:00,09:17:10,stop_point:SP_5616,Charles de Gaulle,2
+2336680,09:18:00,09:18:10,stop_point:SP_1067,Douzans,3
+2336680,09:19:00,09:19:10,stop_point:SP_5619,Cinéma,4
+2336680,09:21:00,09:21:10,stop_point:SP_5621,Porte de Muret,5
+2336680,09:24:00,09:24:10,stop_point:SP_5625,Muret Sans Souci,6
+2336680,09:28:00,09:28:10,stop_point:SP_5606,Mûriers,7
+2336680,09:29:00,09:29:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336680,09:31:00,09:31:10,stop_point:SP_5611,Ax,9
+2336680,09:33:00,09:33:10,stop_point:SP_5608,Jean Jaurès,10
+2336680,09:35:00,09:35:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336680,09:39:00,09:39:10,stop_point:SP_320,Larrieu,12
+2336680,09:43:00,09:43:10,stop_point:SP_2955,Eisenhower Est,13
+2336680,09:46:00,09:46:10,stop_point:SP_16,Desnos,14
+2336680,09:49:00,09:49:10,stop_point:SP_4007,Basso Cambo,15
+2336681,10:00:00,10:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336681,10:02:00,10:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336681,10:03:00,10:03:10,stop_point:SP_1067,Douzans,3
+2336681,10:04:00,10:04:10,stop_point:SP_5619,Cinéma,4
+2336681,10:06:00,10:06:10,stop_point:SP_5621,Porte de Muret,5
+2336681,10:09:00,10:09:10,stop_point:SP_5625,Muret Sans Souci,6
+2336681,10:13:00,10:13:10,stop_point:SP_5606,Mûriers,7
+2336681,10:14:00,10:14:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336681,10:16:00,10:16:10,stop_point:SP_5611,Ax,9
+2336681,10:18:00,10:18:10,stop_point:SP_5608,Jean Jaurès,10
+2336681,10:20:00,10:20:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336681,10:24:00,10:24:10,stop_point:SP_320,Larrieu,12
+2336681,10:28:00,10:28:10,stop_point:SP_2955,Eisenhower Est,13
+2336681,10:31:00,10:31:10,stop_point:SP_16,Desnos,14
+2336681,10:34:00,10:34:10,stop_point:SP_4007,Basso Cambo,15
+2336682,10:45:00,10:45:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336682,10:47:00,10:47:10,stop_point:SP_5616,Charles de Gaulle,2
+2336682,10:48:00,10:48:10,stop_point:SP_1067,Douzans,3
+2336682,10:49:00,10:49:10,stop_point:SP_5619,Cinéma,4
+2336682,10:51:00,10:51:10,stop_point:SP_5621,Porte de Muret,5
+2336682,10:54:00,10:54:10,stop_point:SP_5625,Muret Sans Souci,6
+2336682,10:58:00,10:58:10,stop_point:SP_5606,Mûriers,7
+2336682,10:59:00,10:59:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336682,11:01:00,11:01:10,stop_point:SP_5611,Ax,9
+2336682,11:03:00,11:03:10,stop_point:SP_5608,Jean Jaurès,10
+2336682,11:05:00,11:05:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336682,11:09:00,11:09:10,stop_point:SP_320,Larrieu,12
+2336682,11:13:00,11:13:10,stop_point:SP_2955,Eisenhower Est,13
+2336682,11:16:00,11:16:10,stop_point:SP_16,Desnos,14
+2336682,11:19:00,11:19:10,stop_point:SP_4007,Basso Cambo,15
+2336683,11:30:00,11:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336683,11:32:00,11:32:10,stop_point:SP_5616,Charles de Gaulle,2
+2336683,11:33:00,11:33:10,stop_point:SP_1067,Douzans,3
+2336683,11:34:00,11:34:10,stop_point:SP_5619,Cinéma,4
+2336683,11:36:00,11:36:10,stop_point:SP_5621,Porte de Muret,5
+2336683,11:39:00,11:39:10,stop_point:SP_5625,Muret Sans Souci,6
+2336683,11:43:00,11:43:10,stop_point:SP_5606,Mûriers,7
+2336683,11:44:00,11:44:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336683,11:46:00,11:46:10,stop_point:SP_5611,Ax,9
+2336683,11:48:00,11:48:10,stop_point:SP_5608,Jean Jaurès,10
+2336683,11:50:00,11:50:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336683,11:54:00,11:54:10,stop_point:SP_320,Larrieu,12
+2336683,11:58:00,11:58:10,stop_point:SP_2955,Eisenhower Est,13
+2336683,12:01:00,12:01:10,stop_point:SP_16,Desnos,14
+2336683,12:04:00,12:04:10,stop_point:SP_4007,Basso Cambo,15
+2336684,12:15:00,12:15:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336684,12:17:00,12:17:10,stop_point:SP_5616,Charles de Gaulle,2
+2336684,12:18:00,12:18:10,stop_point:SP_1067,Douzans,3
+2336684,12:19:00,12:19:10,stop_point:SP_5619,Cinéma,4
+2336684,12:21:00,12:21:10,stop_point:SP_5621,Porte de Muret,5
+2336684,12:24:00,12:24:10,stop_point:SP_5625,Muret Sans Souci,6
+2336684,12:28:00,12:28:10,stop_point:SP_5606,Mûriers,7
+2336684,12:29:00,12:29:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336684,12:31:00,12:31:10,stop_point:SP_5611,Ax,9
+2336684,12:33:00,12:33:10,stop_point:SP_5608,Jean Jaurès,10
+2336684,12:35:00,12:35:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336684,12:39:00,12:39:10,stop_point:SP_320,Larrieu,12
+2336684,12:43:00,12:43:10,stop_point:SP_2955,Eisenhower Est,13
+2336684,12:46:00,12:46:10,stop_point:SP_16,Desnos,14
+2336684,12:49:00,12:49:10,stop_point:SP_4007,Basso Cambo,15
+2336685,13:00:00,13:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336685,13:02:00,13:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336685,13:03:00,13:03:10,stop_point:SP_1067,Douzans,3
+2336685,13:04:00,13:04:10,stop_point:SP_5619,Cinéma,4
+2336685,13:06:00,13:06:10,stop_point:SP_5621,Porte de Muret,5
+2336685,13:09:00,13:09:10,stop_point:SP_5625,Muret Sans Souci,6
+2336685,13:13:00,13:13:10,stop_point:SP_5606,Mûriers,7
+2336685,13:15:00,13:15:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336685,13:17:00,13:17:10,stop_point:SP_5611,Ax,9
+2336685,13:19:00,13:19:10,stop_point:SP_5608,Jean Jaurès,10
+2336685,13:21:00,13:21:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336685,13:25:00,13:25:10,stop_point:SP_320,Larrieu,12
+2336685,13:29:00,13:29:10,stop_point:SP_2955,Eisenhower Est,13
+2336685,13:32:00,13:32:10,stop_point:SP_16,Desnos,14
+2336685,13:35:00,13:35:10,stop_point:SP_4007,Basso Cambo,15
+2336686,13:45:00,13:45:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336686,13:47:00,13:47:10,stop_point:SP_5616,Charles de Gaulle,2
+2336686,13:48:00,13:48:10,stop_point:SP_1067,Douzans,3
+2336686,13:49:00,13:49:10,stop_point:SP_5619,Cinéma,4
+2336686,13:51:00,13:51:10,stop_point:SP_5621,Porte de Muret,5
+2336686,13:54:00,13:54:10,stop_point:SP_5625,Muret Sans Souci,6
+2336686,13:58:00,13:58:10,stop_point:SP_5606,Mûriers,7
+2336686,14:00:00,14:00:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336686,14:02:00,14:02:10,stop_point:SP_5611,Ax,9
+2336686,14:04:00,14:04:10,stop_point:SP_5608,Jean Jaurès,10
+2336686,14:06:00,14:06:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336686,14:10:00,14:10:10,stop_point:SP_320,Larrieu,12
+2336686,14:14:00,14:14:10,stop_point:SP_2955,Eisenhower Est,13
+2336686,14:17:00,14:17:10,stop_point:SP_16,Desnos,14
+2336686,14:20:00,14:20:10,stop_point:SP_4007,Basso Cambo,15
+2336687,14:30:00,14:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336687,14:32:00,14:32:10,stop_point:SP_5616,Charles de Gaulle,2
+2336687,14:33:00,14:33:10,stop_point:SP_1067,Douzans,3
+2336687,14:34:00,14:34:10,stop_point:SP_5619,Cinéma,4
+2336687,14:36:00,14:36:10,stop_point:SP_5621,Porte de Muret,5
+2336687,14:39:00,14:39:10,stop_point:SP_5625,Muret Sans Souci,6
+2336687,14:43:00,14:43:10,stop_point:SP_5606,Mûriers,7
+2336687,14:45:00,14:45:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336687,14:47:00,14:47:10,stop_point:SP_5611,Ax,9
+2336687,14:49:00,14:49:10,stop_point:SP_5608,Jean Jaurès,10
+2336687,14:51:00,14:51:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336687,14:55:00,14:55:10,stop_point:SP_320,Larrieu,12
+2336687,14:59:00,14:59:10,stop_point:SP_2955,Eisenhower Est,13
+2336687,15:02:00,15:02:10,stop_point:SP_16,Desnos,14
+2336687,15:05:00,15:05:10,stop_point:SP_4007,Basso Cambo,15
+2336688,15:15:00,15:15:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336688,15:17:00,15:17:10,stop_point:SP_5616,Charles de Gaulle,2
+2336688,15:18:00,15:18:10,stop_point:SP_1067,Douzans,3
+2336688,15:19:00,15:19:10,stop_point:SP_5619,Cinéma,4
+2336688,15:21:00,15:21:10,stop_point:SP_5621,Porte de Muret,5
+2336688,15:24:00,15:24:10,stop_point:SP_5625,Muret Sans Souci,6
+2336688,15:28:00,15:28:10,stop_point:SP_5606,Mûriers,7
+2336688,15:30:00,15:30:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336688,15:32:00,15:32:10,stop_point:SP_5611,Ax,9
+2336688,15:34:00,15:34:10,stop_point:SP_5608,Jean Jaurès,10
+2336688,15:36:00,15:36:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336688,15:40:00,15:40:10,stop_point:SP_320,Larrieu,12
+2336688,15:44:00,15:44:10,stop_point:SP_2955,Eisenhower Est,13
+2336688,15:47:00,15:47:10,stop_point:SP_16,Desnos,14
+2336688,15:50:00,15:50:10,stop_point:SP_4007,Basso Cambo,15
+2336689,16:00:00,16:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336689,16:02:00,16:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336689,16:03:00,16:03:10,stop_point:SP_1067,Douzans,3
+2336689,16:04:00,16:04:10,stop_point:SP_5619,Cinéma,4
+2336689,16:06:00,16:06:10,stop_point:SP_5621,Porte de Muret,5
+2336689,16:09:00,16:09:10,stop_point:SP_5625,Muret Sans Souci,6
+2336689,16:13:00,16:13:10,stop_point:SP_5606,Mûriers,7
+2336689,16:15:00,16:15:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336689,16:17:00,16:17:10,stop_point:SP_5611,Ax,9
+2336689,16:19:00,16:19:10,stop_point:SP_5608,Jean Jaurès,10
+2336689,16:21:00,16:21:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336689,16:25:00,16:25:10,stop_point:SP_320,Larrieu,12
+2336689,16:29:00,16:29:10,stop_point:SP_2955,Eisenhower Est,13
+2336689,16:32:00,16:32:10,stop_point:SP_16,Desnos,14
+2336689,16:35:00,16:35:10,stop_point:SP_4007,Basso Cambo,15
+2336690,16:35:00,16:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336690,16:38:00,16:38:10,stop_point:SP_5616,Charles de Gaulle,2
+2336690,16:39:00,16:39:10,stop_point:SP_1067,Douzans,3
+2336690,16:40:00,16:40:10,stop_point:SP_5619,Cinéma,4
+2336690,16:42:00,16:42:10,stop_point:SP_5621,Porte de Muret,5
+2336690,16:46:00,16:46:10,stop_point:SP_5625,Muret Sans Souci,6
+2336690,16:50:00,16:50:10,stop_point:SP_5606,Mûriers,7
+2336690,16:52:00,16:52:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336690,16:54:00,16:54:10,stop_point:SP_5611,Ax,9
+2336690,16:56:00,16:56:10,stop_point:SP_5608,Jean Jaurès,10
+2336690,16:58:00,16:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336690,17:02:00,17:02:10,stop_point:SP_320,Larrieu,12
+2336690,17:06:00,17:06:10,stop_point:SP_2955,Eisenhower Est,13
+2336690,17:09:00,17:09:10,stop_point:SP_16,Desnos,14
+2336690,17:12:00,17:12:10,stop_point:SP_4007,Basso Cambo,15
+2336691,16:57:00,16:57:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336691,17:00:00,17:00:10,stop_point:SP_5616,Charles de Gaulle,2
+2336691,17:01:00,17:01:10,stop_point:SP_1067,Douzans,3
+2336691,17:02:00,17:02:10,stop_point:SP_5619,Cinéma,4
+2336691,17:04:00,17:04:10,stop_point:SP_5621,Porte de Muret,5
+2336691,17:08:00,17:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336691,17:12:00,17:12:10,stop_point:SP_5606,Mûriers,7
+2336691,17:13:00,17:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336691,17:15:00,17:15:10,stop_point:SP_5611,Ax,9
+2336691,17:17:00,17:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336691,17:19:00,17:19:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336691,17:23:00,17:23:10,stop_point:SP_320,Larrieu,12
+2336691,17:27:00,17:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336691,17:30:00,17:30:10,stop_point:SP_16,Desnos,14
+2336691,17:33:00,17:33:10,stop_point:SP_4007,Basso Cambo,15
+2336692,17:13:00,17:13:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336692,17:16:00,17:16:10,stop_point:SP_5616,Charles de Gaulle,2
+2336692,17:17:00,17:17:10,stop_point:SP_1067,Douzans,3
+2336692,17:18:00,17:18:10,stop_point:SP_5619,Cinéma,4
+2336692,17:20:00,17:20:10,stop_point:SP_5621,Porte de Muret,5
+2336692,17:24:00,17:24:10,stop_point:SP_5625,Muret Sans Souci,6
+2336692,17:28:00,17:28:10,stop_point:SP_5606,Mûriers,7
+2336692,17:29:00,17:29:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336692,17:31:00,17:31:10,stop_point:SP_5611,Ax,9
+2336692,17:33:00,17:33:10,stop_point:SP_5608,Jean Jaurès,10
+2336692,17:35:00,17:35:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336692,17:39:00,17:39:10,stop_point:SP_320,Larrieu,12
+2336692,17:43:00,17:43:10,stop_point:SP_2955,Eisenhower Est,13
+2336692,17:46:00,17:46:10,stop_point:SP_16,Desnos,14
+2336692,17:49:00,17:49:10,stop_point:SP_4007,Basso Cambo,15
+2336693,17:29:00,17:29:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336693,17:32:00,17:32:10,stop_point:SP_5616,Charles de Gaulle,2
+2336693,17:33:00,17:33:10,stop_point:SP_1067,Douzans,3
+2336693,17:34:00,17:34:10,stop_point:SP_5619,Cinéma,4
+2336693,17:36:00,17:36:10,stop_point:SP_5621,Porte de Muret,5
+2336693,17:40:00,17:40:10,stop_point:SP_5625,Muret Sans Souci,6
+2336693,17:44:00,17:44:10,stop_point:SP_5606,Mûriers,7
+2336693,17:45:00,17:45:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336693,17:47:00,17:47:10,stop_point:SP_5611,Ax,9
+2336693,17:49:00,17:49:10,stop_point:SP_5608,Jean Jaurès,10
+2336693,17:51:00,17:51:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336693,17:55:00,17:55:10,stop_point:SP_320,Larrieu,12
+2336693,17:59:00,17:59:10,stop_point:SP_2955,Eisenhower Est,13
+2336693,18:02:00,18:02:10,stop_point:SP_16,Desnos,14
+2336693,18:05:00,18:05:10,stop_point:SP_4007,Basso Cambo,15
+2336694,17:45:00,17:45:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336694,17:48:00,17:48:10,stop_point:SP_5616,Charles de Gaulle,2
+2336694,17:49:00,17:49:10,stop_point:SP_1067,Douzans,3
+2336694,17:50:00,17:50:10,stop_point:SP_5619,Cinéma,4
+2336694,17:52:00,17:52:10,stop_point:SP_5621,Porte de Muret,5
+2336694,17:55:00,17:55:10,stop_point:SP_5625,Muret Sans Souci,6
+2336694,17:59:00,17:59:10,stop_point:SP_5606,Mûriers,7
+2336694,18:00:00,18:00:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336694,18:02:00,18:02:10,stop_point:SP_5611,Ax,9
+2336694,18:04:00,18:04:10,stop_point:SP_5608,Jean Jaurès,10
+2336694,18:06:00,18:06:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336694,18:10:00,18:10:10,stop_point:SP_320,Larrieu,12
+2336694,18:14:00,18:14:10,stop_point:SP_2955,Eisenhower Est,13
+2336694,18:17:00,18:17:10,stop_point:SP_16,Desnos,14
+2336694,18:20:00,18:20:10,stop_point:SP_4007,Basso Cambo,15
+2336695,18:01:00,18:01:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336695,18:03:00,18:03:10,stop_point:SP_5616,Charles de Gaulle,2
+2336695,18:04:00,18:04:10,stop_point:SP_1067,Douzans,3
+2336695,18:05:00,18:05:10,stop_point:SP_5619,Cinéma,4
+2336695,18:07:00,18:07:10,stop_point:SP_5621,Porte de Muret,5
+2336695,18:10:00,18:10:10,stop_point:SP_5625,Muret Sans Souci,6
+2336695,18:14:00,18:14:10,stop_point:SP_5606,Mûriers,7
+2336695,18:15:00,18:15:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336695,18:17:00,18:17:10,stop_point:SP_5611,Ax,9
+2336695,18:19:00,18:19:10,stop_point:SP_5608,Jean Jaurès,10
+2336695,18:21:00,18:21:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336695,18:25:00,18:25:10,stop_point:SP_320,Larrieu,12
+2336695,18:29:00,18:29:10,stop_point:SP_2955,Eisenhower Est,13
+2336695,18:32:00,18:32:10,stop_point:SP_16,Desnos,14
+2336695,18:35:00,18:35:10,stop_point:SP_4007,Basso Cambo,15
+2336696,18:17:00,18:17:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336696,18:19:00,18:19:10,stop_point:SP_5616,Charles de Gaulle,2
+2336696,18:20:00,18:20:10,stop_point:SP_1067,Douzans,3
+2336696,18:21:00,18:21:10,stop_point:SP_5619,Cinéma,4
+2336696,18:22:00,18:22:10,stop_point:SP_5621,Porte de Muret,5
+2336696,18:25:00,18:25:10,stop_point:SP_5625,Muret Sans Souci,6
+2336696,18:29:00,18:29:10,stop_point:SP_5606,Mûriers,7
+2336696,18:30:00,18:30:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336696,18:32:00,18:32:10,stop_point:SP_5611,Ax,9
+2336696,18:34:00,18:34:10,stop_point:SP_5608,Jean Jaurès,10
+2336696,18:36:00,18:36:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336696,18:40:00,18:40:10,stop_point:SP_320,Larrieu,12
+2336696,18:44:00,18:44:10,stop_point:SP_2955,Eisenhower Est,13
+2336696,18:47:00,18:47:10,stop_point:SP_16,Desnos,14
+2336696,18:50:00,18:50:10,stop_point:SP_4007,Basso Cambo,15
+2336697,18:35:00,18:35:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336697,18:37:00,18:37:10,stop_point:SP_5616,Charles de Gaulle,2
+2336697,18:38:00,18:38:10,stop_point:SP_1067,Douzans,3
+2336697,18:39:00,18:39:10,stop_point:SP_5619,Cinéma,4
+2336697,18:40:00,18:40:10,stop_point:SP_5621,Porte de Muret,5
+2336697,18:43:00,18:43:10,stop_point:SP_5625,Muret Sans Souci,6
+2336697,18:47:00,18:47:10,stop_point:SP_5606,Mûriers,7
+2336697,18:48:00,18:48:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336697,18:50:00,18:50:10,stop_point:SP_5611,Ax,9
+2336697,18:52:00,18:52:10,stop_point:SP_5608,Jean Jaurès,10
+2336697,18:54:00,18:54:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336697,18:58:00,18:58:10,stop_point:SP_320,Larrieu,12
+2336697,19:02:00,19:02:10,stop_point:SP_2955,Eisenhower Est,13
+2336697,19:05:00,19:05:10,stop_point:SP_16,Desnos,14
+2336697,19:08:00,19:08:10,stop_point:SP_4007,Basso Cambo,15
+2336698,19:15:00,19:15:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336698,19:17:00,19:17:10,stop_point:SP_5616,Charles de Gaulle,2
+2336698,19:18:00,19:18:10,stop_point:SP_1067,Douzans,3
+2336698,19:19:00,19:19:10,stop_point:SP_5619,Cinéma,4
+2336698,19:20:00,19:20:10,stop_point:SP_5621,Porte de Muret,5
+2336698,19:23:00,19:23:10,stop_point:SP_5625,Muret Sans Souci,6
+2336698,19:27:00,19:27:10,stop_point:SP_5606,Mûriers,7
+2336698,19:28:00,19:28:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336698,19:30:00,19:30:10,stop_point:SP_5611,Ax,9
+2336698,19:32:00,19:32:10,stop_point:SP_5608,Jean Jaurès,10
+2336698,19:34:00,19:34:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336698,19:37:00,19:37:10,stop_point:SP_320,Larrieu,12
+2336698,19:41:00,19:41:10,stop_point:SP_2955,Eisenhower Est,13
+2336698,19:44:00,19:44:10,stop_point:SP_16,Desnos,14
+2336698,19:47:00,19:47:10,stop_point:SP_4007,Basso Cambo,15
+2336699,20:00:00,20:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336699,20:02:00,20:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336699,20:03:00,20:03:10,stop_point:SP_1067,Douzans,3
+2336699,20:04:00,20:04:10,stop_point:SP_5619,Cinéma,4
+2336699,20:05:00,20:05:10,stop_point:SP_5621,Porte de Muret,5
+2336699,20:08:00,20:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336699,20:11:00,20:11:10,stop_point:SP_5606,Mûriers,7
+2336699,20:13:00,20:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336699,20:14:00,20:14:10,stop_point:SP_5611,Ax,9
+2336699,20:16:00,20:16:10,stop_point:SP_5608,Jean Jaurès,10
+2336699,20:18:00,20:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336699,20:21:00,20:21:10,stop_point:SP_320,Larrieu,12
+2336699,20:25:00,20:25:10,stop_point:SP_2955,Eisenhower Est,13
+2336699,20:27:00,20:27:10,stop_point:SP_16,Desnos,14
+2336699,20:29:00,20:29:10,stop_point:SP_4007,Basso Cambo,15
+2336700,20:50:00,20:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336700,20:52:00,20:52:10,stop_point:SP_5616,Charles de Gaulle,2
+2336700,20:53:00,20:53:10,stop_point:SP_1067,Douzans,3
+2336700,20:54:00,20:54:10,stop_point:SP_5619,Cinéma,4
+2336700,20:55:00,20:55:10,stop_point:SP_5621,Porte de Muret,5
+2336700,20:58:00,20:58:10,stop_point:SP_5625,Muret Sans Souci,6
+2336700,21:01:00,21:01:10,stop_point:SP_5606,Mûriers,7
+2336700,21:03:00,21:03:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336700,21:04:00,21:04:10,stop_point:SP_5611,Ax,9
+2336700,21:06:00,21:06:10,stop_point:SP_5608,Jean Jaurès,10
+2336700,21:08:00,21:08:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336700,21:11:00,21:11:10,stop_point:SP_320,Larrieu,12
+2336700,21:15:00,21:15:10,stop_point:SP_2955,Eisenhower Est,13
+2336700,21:17:00,21:17:10,stop_point:SP_16,Desnos,14
+2336700,21:19:00,21:19:10,stop_point:SP_4007,Basso Cambo,15
+2336701,05:55:00,05:55:10,stop_point:SP_4007,Basso Cambo,1
+2336701,05:58:00,05:58:10,stop_point:SP_5,Desnos,2
+2336701,06:01:00,06:01:10,stop_point:SP_2042,Eisenhower Est,3
+2336701,06:04:00,06:04:10,stop_point:SP_3258,Larrieu,4
+2336701,06:07:00,06:07:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336701,06:09:00,06:09:10,stop_point:SP_5613,Jean Jaurès,6
+2336701,06:11:00,06:11:10,stop_point:SP_5609,Ax,7
+2336701,06:13:00,06:13:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336701,06:15:00,06:15:10,stop_point:SP_5610,Mûriers,9
+2336701,06:19:00,06:19:10,stop_point:SP_4357,Muret Sans Souci,10
+2336701,06:22:00,06:22:10,stop_point:SP_5624,Porte de Muret,11
+2336701,06:23:00,06:23:10,stop_point:SP_5626,Cinéma,12
+2336701,06:24:00,06:24:10,stop_point:SP_44,Douzans,13
+2336701,06:25:00,06:25:10,stop_point:SP_5617,Charles de Gaulle,14
+2336701,06:26:00,06:26:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336702,06:40:00,06:40:10,stop_point:SP_4007,Basso Cambo,1
+2336702,06:43:00,06:43:10,stop_point:SP_5,Desnos,2
+2336702,06:46:00,06:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336702,06:49:00,06:49:10,stop_point:SP_3258,Larrieu,4
+2336702,06:52:00,06:52:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336702,06:54:00,06:54:10,stop_point:SP_5613,Jean Jaurès,6
+2336702,06:56:00,06:56:10,stop_point:SP_5609,Ax,7
+2336702,06:58:00,06:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336702,07:00:00,07:00:10,stop_point:SP_5610,Mûriers,9
+2336702,07:04:00,07:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336702,07:07:00,07:07:10,stop_point:SP_5624,Porte de Muret,11
+2336702,07:08:00,07:08:10,stop_point:SP_5626,Cinéma,12
+2336702,07:09:00,07:09:10,stop_point:SP_44,Douzans,13
+2336702,07:10:00,07:10:10,stop_point:SP_5617,Charles de Gaulle,14
+2336702,07:11:00,07:11:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336703,07:20:00,07:20:10,stop_point:SP_4007,Basso Cambo,1
+2336703,07:23:00,07:23:10,stop_point:SP_5,Desnos,2
+2336703,07:26:00,07:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336703,07:29:00,07:29:10,stop_point:SP_3258,Larrieu,4
+2336703,07:32:00,07:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336703,07:34:00,07:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336703,07:36:00,07:36:10,stop_point:SP_5609,Ax,7
+2336703,07:38:00,07:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336703,07:40:00,07:40:10,stop_point:SP_5610,Mûriers,9
+2336703,07:44:00,07:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336703,07:47:00,07:47:10,stop_point:SP_5624,Porte de Muret,11
+2336703,07:48:00,07:48:10,stop_point:SP_5626,Cinéma,12
+2336703,07:49:00,07:49:10,stop_point:SP_44,Douzans,13
+2336703,07:50:00,07:50:10,stop_point:SP_5617,Charles de Gaulle,14
+2336703,07:51:00,07:51:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336704,08:00:00,08:00:10,stop_point:SP_4007,Basso Cambo,1
+2336704,08:03:00,08:03:10,stop_point:SP_5,Desnos,2
+2336704,08:06:00,08:06:10,stop_point:SP_2042,Eisenhower Est,3
+2336704,08:09:00,08:09:10,stop_point:SP_3258,Larrieu,4
+2336704,08:12:00,08:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336704,08:14:00,08:14:10,stop_point:SP_5613,Jean Jaurès,6
+2336704,08:16:00,08:16:10,stop_point:SP_5609,Ax,7
+2336704,08:18:00,08:18:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336704,08:20:00,08:20:10,stop_point:SP_5610,Mûriers,9
+2336704,08:24:00,08:24:10,stop_point:SP_4357,Muret Sans Souci,10
+2336704,08:27:00,08:27:10,stop_point:SP_5624,Porte de Muret,11
+2336704,08:28:00,08:28:10,stop_point:SP_5626,Cinéma,12
+2336704,08:29:00,08:29:10,stop_point:SP_44,Douzans,13
+2336704,08:30:00,08:30:10,stop_point:SP_5617,Charles de Gaulle,14
+2336704,08:31:00,08:31:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336705,08:40:00,08:40:10,stop_point:SP_4007,Basso Cambo,1
+2336705,08:43:00,08:43:10,stop_point:SP_5,Desnos,2
+2336705,08:46:00,08:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336705,08:49:00,08:49:10,stop_point:SP_3258,Larrieu,4
+2336705,08:52:00,08:52:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336705,08:54:00,08:54:10,stop_point:SP_5613,Jean Jaurès,6
+2336705,08:56:00,08:56:10,stop_point:SP_5609,Ax,7
+2336705,08:58:00,08:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336705,09:00:00,09:00:10,stop_point:SP_5610,Mûriers,9
+2336705,09:04:00,09:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336705,09:07:00,09:07:10,stop_point:SP_5624,Porte de Muret,11
+2336705,09:08:00,09:08:10,stop_point:SP_5626,Cinéma,12
+2336705,09:09:00,09:09:10,stop_point:SP_44,Douzans,13
+2336705,09:10:00,09:10:10,stop_point:SP_5617,Charles de Gaulle,14
+2336705,09:11:00,09:11:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336706,09:20:00,09:20:10,stop_point:SP_4007,Basso Cambo,1
+2336706,09:23:00,09:23:10,stop_point:SP_5,Desnos,2
+2336706,09:26:00,09:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336706,09:29:00,09:29:10,stop_point:SP_3258,Larrieu,4
+2336706,09:32:00,09:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336706,09:34:00,09:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336706,09:36:00,09:36:10,stop_point:SP_5609,Ax,7
+2336706,09:38:00,09:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336706,09:40:00,09:40:10,stop_point:SP_5610,Mûriers,9
+2336706,09:44:00,09:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336706,09:47:00,09:47:10,stop_point:SP_5624,Porte de Muret,11
+2336706,09:48:00,09:48:10,stop_point:SP_5626,Cinéma,12
+2336706,09:49:00,09:49:10,stop_point:SP_44,Douzans,13
+2336706,09:50:00,09:50:10,stop_point:SP_5617,Charles de Gaulle,14
+2336706,09:51:00,09:51:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336707,10:00:00,10:00:10,stop_point:SP_4007,Basso Cambo,1
+2336707,10:03:00,10:03:10,stop_point:SP_5,Desnos,2
+2336707,10:06:00,10:06:10,stop_point:SP_2042,Eisenhower Est,3
+2336707,10:09:00,10:09:10,stop_point:SP_3258,Larrieu,4
+2336707,10:12:00,10:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336707,10:14:00,10:14:10,stop_point:SP_5613,Jean Jaurès,6
+2336707,10:16:00,10:16:10,stop_point:SP_5609,Ax,7
+2336707,10:18:00,10:18:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336707,10:20:00,10:20:10,stop_point:SP_5610,Mûriers,9
+2336707,10:24:00,10:24:10,stop_point:SP_4357,Muret Sans Souci,10
+2336707,10:26:00,10:26:10,stop_point:SP_5624,Porte de Muret,11
+2336707,10:28:00,10:28:10,stop_point:SP_5626,Cinéma,12
+2336707,10:29:00,10:29:10,stop_point:SP_44,Douzans,13
+2336707,10:29:00,10:29:10,stop_point:SP_5617,Charles de Gaulle,14
+2336707,10:30:00,10:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336708,10:40:00,10:40:10,stop_point:SP_4007,Basso Cambo,1
+2336708,10:42:00,10:42:10,stop_point:SP_5,Desnos,2
+2336708,10:45:00,10:45:10,stop_point:SP_2042,Eisenhower Est,3
+2336708,10:49:00,10:49:10,stop_point:SP_3258,Larrieu,4
+2336708,10:52:00,10:52:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336708,10:54:00,10:54:10,stop_point:SP_5613,Jean Jaurès,6
+2336708,10:56:00,10:56:10,stop_point:SP_5609,Ax,7
+2336708,10:58:00,10:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336708,11:00:00,11:00:10,stop_point:SP_5610,Mûriers,9
+2336708,11:04:00,11:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336708,11:06:00,11:06:10,stop_point:SP_5624,Porte de Muret,11
+2336708,11:08:00,11:08:10,stop_point:SP_5626,Cinéma,12
+2336708,11:09:00,11:09:10,stop_point:SP_44,Douzans,13
+2336708,11:09:00,11:09:10,stop_point:SP_5617,Charles de Gaulle,14
+2336708,11:10:00,11:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336709,11:20:00,11:20:10,stop_point:SP_4007,Basso Cambo,1
+2336709,11:22:00,11:22:10,stop_point:SP_5,Desnos,2
+2336709,11:25:00,11:25:10,stop_point:SP_2042,Eisenhower Est,3
+2336709,11:29:00,11:29:10,stop_point:SP_3258,Larrieu,4
+2336709,11:32:00,11:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336709,11:34:00,11:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336709,11:36:00,11:36:10,stop_point:SP_5609,Ax,7
+2336709,11:38:00,11:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336709,11:40:00,11:40:10,stop_point:SP_5610,Mûriers,9
+2336709,11:44:00,11:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336709,11:46:00,11:46:10,stop_point:SP_5624,Porte de Muret,11
+2336709,11:48:00,11:48:10,stop_point:SP_5626,Cinéma,12
+2336709,11:49:00,11:49:10,stop_point:SP_44,Douzans,13
+2336709,11:49:00,11:49:10,stop_point:SP_5617,Charles de Gaulle,14
+2336709,11:50:00,11:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336710,12:00:00,12:00:10,stop_point:SP_4007,Basso Cambo,1
+2336710,12:02:00,12:02:10,stop_point:SP_5,Desnos,2
+2336710,12:05:00,12:05:10,stop_point:SP_2042,Eisenhower Est,3
+2336710,12:09:00,12:09:10,stop_point:SP_3258,Larrieu,4
+2336710,12:12:00,12:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336710,12:14:00,12:14:10,stop_point:SP_5613,Jean Jaurès,6
+2336710,12:16:00,12:16:10,stop_point:SP_5609,Ax,7
+2336710,12:18:00,12:18:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336710,12:20:00,12:20:10,stop_point:SP_5610,Mûriers,9
+2336710,12:24:00,12:24:10,stop_point:SP_4357,Muret Sans Souci,10
+2336710,12:26:00,12:26:10,stop_point:SP_5624,Porte de Muret,11
+2336710,12:28:00,12:28:10,stop_point:SP_5626,Cinéma,12
+2336710,12:29:00,12:29:10,stop_point:SP_44,Douzans,13
+2336710,12:29:00,12:29:10,stop_point:SP_5617,Charles de Gaulle,14
+2336710,12:30:00,12:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336711,12:40:00,12:40:10,stop_point:SP_4007,Basso Cambo,1
+2336711,12:42:00,12:42:10,stop_point:SP_5,Desnos,2
+2336711,12:45:00,12:45:10,stop_point:SP_2042,Eisenhower Est,3
+2336711,12:49:00,12:49:10,stop_point:SP_3258,Larrieu,4
+2336711,12:52:00,12:52:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336711,12:54:00,12:54:10,stop_point:SP_5613,Jean Jaurès,6
+2336711,12:56:00,12:56:10,stop_point:SP_5609,Ax,7
+2336711,12:58:00,12:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336711,13:00:00,13:00:10,stop_point:SP_5610,Mûriers,9
+2336711,13:04:00,13:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336711,13:06:00,13:06:10,stop_point:SP_5624,Porte de Muret,11
+2336711,13:08:00,13:08:10,stop_point:SP_5626,Cinéma,12
+2336711,13:09:00,13:09:10,stop_point:SP_44,Douzans,13
+2336711,13:09:00,13:09:10,stop_point:SP_5617,Charles de Gaulle,14
+2336711,13:10:00,13:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336712,13:20:00,13:20:10,stop_point:SP_4007,Basso Cambo,1
+2336712,13:22:00,13:22:10,stop_point:SP_5,Desnos,2
+2336712,13:25:00,13:25:10,stop_point:SP_2042,Eisenhower Est,3
+2336712,13:29:00,13:29:10,stop_point:SP_3258,Larrieu,4
+2336712,13:32:00,13:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336712,13:34:00,13:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336712,13:36:00,13:36:10,stop_point:SP_5609,Ax,7
+2336712,13:38:00,13:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336712,13:40:00,13:40:10,stop_point:SP_5610,Mûriers,9
+2336712,13:44:00,13:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336712,13:46:00,13:46:10,stop_point:SP_5624,Porte de Muret,11
+2336712,13:48:00,13:48:10,stop_point:SP_5626,Cinéma,12
+2336712,13:49:00,13:49:10,stop_point:SP_44,Douzans,13
+2336712,13:49:00,13:49:10,stop_point:SP_5617,Charles de Gaulle,14
+2336712,13:50:00,13:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336713,14:00:00,14:00:10,stop_point:SP_4007,Basso Cambo,1
+2336713,14:02:00,14:02:10,stop_point:SP_5,Desnos,2
+2336713,14:05:00,14:05:10,stop_point:SP_2042,Eisenhower Est,3
+2336713,14:09:00,14:09:10,stop_point:SP_3258,Larrieu,4
+2336713,14:12:00,14:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336713,14:14:00,14:14:10,stop_point:SP_5613,Jean Jaurès,6
+2336713,14:16:00,14:16:10,stop_point:SP_5609,Ax,7
+2336713,14:18:00,14:18:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336713,14:20:00,14:20:10,stop_point:SP_5610,Mûriers,9
+2336713,14:24:00,14:24:10,stop_point:SP_4357,Muret Sans Souci,10
+2336713,14:26:00,14:26:10,stop_point:SP_5624,Porte de Muret,11
+2336713,14:28:00,14:28:10,stop_point:SP_5626,Cinéma,12
+2336713,14:29:00,14:29:10,stop_point:SP_44,Douzans,13
+2336713,14:29:00,14:29:10,stop_point:SP_5617,Charles de Gaulle,14
+2336713,14:30:00,14:30:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336714,14:40:00,14:40:10,stop_point:SP_4007,Basso Cambo,1
+2336714,14:42:00,14:42:10,stop_point:SP_5,Desnos,2
+2336714,14:45:00,14:45:10,stop_point:SP_2042,Eisenhower Est,3
+2336714,14:49:00,14:49:10,stop_point:SP_3258,Larrieu,4
+2336714,14:52:00,14:52:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336714,14:54:00,14:54:10,stop_point:SP_5613,Jean Jaurès,6
+2336714,14:56:00,14:56:10,stop_point:SP_5609,Ax,7
+2336714,14:58:00,14:58:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336714,15:00:00,15:00:10,stop_point:SP_5610,Mûriers,9
+2336714,15:04:00,15:04:10,stop_point:SP_4357,Muret Sans Souci,10
+2336714,15:06:00,15:06:10,stop_point:SP_5624,Porte de Muret,11
+2336714,15:08:00,15:08:10,stop_point:SP_5626,Cinéma,12
+2336714,15:09:00,15:09:10,stop_point:SP_44,Douzans,13
+2336714,15:09:00,15:09:10,stop_point:SP_5617,Charles de Gaulle,14
+2336714,15:10:00,15:10:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336715,15:20:00,15:20:10,stop_point:SP_4007,Basso Cambo,1
+2336715,15:23:00,15:23:10,stop_point:SP_5,Desnos,2
+2336715,15:26:00,15:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336715,15:30:00,15:30:10,stop_point:SP_3258,Larrieu,4
+2336715,15:33:00,15:33:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336715,15:35:00,15:35:10,stop_point:SP_5613,Jean Jaurès,6
+2336715,15:37:00,15:37:10,stop_point:SP_5609,Ax,7
+2336715,15:39:00,15:39:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336715,15:41:00,15:41:10,stop_point:SP_5610,Mûriers,9
+2336715,15:45:00,15:45:10,stop_point:SP_4357,Muret Sans Souci,10
+2336715,15:48:00,15:48:10,stop_point:SP_5624,Porte de Muret,11
+2336715,15:49:00,15:49:10,stop_point:SP_5626,Cinéma,12
+2336715,15:50:00,15:50:10,stop_point:SP_44,Douzans,13
+2336715,15:51:00,15:51:10,stop_point:SP_5617,Charles de Gaulle,14
+2336715,15:52:00,15:52:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336716,16:00:00,16:00:10,stop_point:SP_4007,Basso Cambo,1
+2336716,16:03:00,16:03:10,stop_point:SP_5,Desnos,2
+2336716,16:06:00,16:06:10,stop_point:SP_2042,Eisenhower Est,3
+2336716,16:10:00,16:10:10,stop_point:SP_3258,Larrieu,4
+2336716,16:13:00,16:13:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336716,16:15:00,16:15:10,stop_point:SP_5613,Jean Jaurès,6
+2336716,16:17:00,16:17:10,stop_point:SP_5609,Ax,7
+2336716,16:19:00,16:19:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336716,16:22:00,16:22:10,stop_point:SP_5610,Mûriers,9
+2336716,16:26:00,16:26:10,stop_point:SP_4357,Muret Sans Souci,10
+2336716,16:29:00,16:29:10,stop_point:SP_5624,Porte de Muret,11
+2336716,16:30:00,16:30:10,stop_point:SP_5626,Cinéma,12
+2336716,16:31:00,16:31:10,stop_point:SP_44,Douzans,13
+2336716,16:32:00,16:32:10,stop_point:SP_5617,Charles de Gaulle,14
+2336716,16:33:00,16:33:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336717,16:40:00,16:40:10,stop_point:SP_4007,Basso Cambo,1
+2336717,16:43:00,16:43:10,stop_point:SP_5,Desnos,2
+2336717,16:46:00,16:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336717,16:50:00,16:50:10,stop_point:SP_3258,Larrieu,4
+2336717,16:53:00,16:53:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336717,16:55:00,16:55:10,stop_point:SP_5613,Jean Jaurès,6
+2336717,16:57:00,16:57:10,stop_point:SP_5609,Ax,7
+2336717,16:59:00,16:59:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336717,17:02:00,17:02:10,stop_point:SP_5610,Mûriers,9
+2336717,17:06:00,17:06:10,stop_point:SP_4357,Muret Sans Souci,10
+2336717,17:09:00,17:09:10,stop_point:SP_5624,Porte de Muret,11
+2336717,17:10:00,17:10:10,stop_point:SP_5626,Cinéma,12
+2336717,17:11:00,17:11:10,stop_point:SP_44,Douzans,13
+2336717,17:12:00,17:12:10,stop_point:SP_5617,Charles de Gaulle,14
+2336717,17:13:00,17:13:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336718,17:20:00,17:20:10,stop_point:SP_4007,Basso Cambo,1
+2336718,17:23:00,17:23:10,stop_point:SP_5,Desnos,2
+2336718,17:26:00,17:26:10,stop_point:SP_2042,Eisenhower Est,3
+2336718,17:30:00,17:30:10,stop_point:SP_3258,Larrieu,4
+2336718,17:33:00,17:33:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336718,17:35:00,17:35:10,stop_point:SP_5613,Jean Jaurès,6
+2336718,17:37:00,17:37:10,stop_point:SP_5609,Ax,7
+2336718,17:39:00,17:39:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336718,17:42:00,17:42:10,stop_point:SP_5610,Mûriers,9
+2336718,17:46:00,17:46:10,stop_point:SP_4357,Muret Sans Souci,10
+2336718,17:49:00,17:49:10,stop_point:SP_5624,Porte de Muret,11
+2336718,17:50:00,17:50:10,stop_point:SP_5626,Cinéma,12
+2336718,17:51:00,17:51:10,stop_point:SP_44,Douzans,13
+2336718,17:52:00,17:52:10,stop_point:SP_5617,Charles de Gaulle,14
+2336718,17:53:00,17:53:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336719,18:00:00,18:00:10,stop_point:SP_4007,Basso Cambo,1
+2336719,18:03:00,18:03:10,stop_point:SP_5,Desnos,2
+2336719,18:06:00,18:06:10,stop_point:SP_2042,Eisenhower Est,3
+2336719,18:10:00,18:10:10,stop_point:SP_3258,Larrieu,4
+2336719,18:13:00,18:13:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336719,18:15:00,18:15:10,stop_point:SP_5613,Jean Jaurès,6
+2336719,18:17:00,18:17:10,stop_point:SP_5609,Ax,7
+2336719,18:19:00,18:19:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336719,18:22:00,18:22:10,stop_point:SP_5610,Mûriers,9
+2336719,18:26:00,18:26:10,stop_point:SP_4357,Muret Sans Souci,10
+2336719,18:29:00,18:29:10,stop_point:SP_5624,Porte de Muret,11
+2336719,18:31:00,18:31:10,stop_point:SP_5626,Cinéma,12
+2336719,18:32:00,18:32:10,stop_point:SP_44,Douzans,13
+2336719,18:33:00,18:33:10,stop_point:SP_5617,Charles de Gaulle,14
+2336719,18:34:00,18:34:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336720,18:40:00,18:40:10,stop_point:SP_4007,Basso Cambo,1
+2336720,18:43:00,18:43:10,stop_point:SP_5,Desnos,2
+2336720,18:46:00,18:46:10,stop_point:SP_2042,Eisenhower Est,3
+2336720,18:50:00,18:50:10,stop_point:SP_3258,Larrieu,4
+2336720,18:53:00,18:53:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336720,18:55:00,18:55:10,stop_point:SP_5613,Jean Jaurès,6
+2336720,18:57:00,18:57:10,stop_point:SP_5609,Ax,7
+2336720,18:59:00,18:59:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336720,19:01:00,19:01:10,stop_point:SP_5610,Mûriers,9
+2336720,19:05:00,19:05:10,stop_point:SP_4357,Muret Sans Souci,10
+2336720,19:08:00,19:08:10,stop_point:SP_5624,Porte de Muret,11
+2336720,19:10:00,19:10:10,stop_point:SP_5626,Cinéma,12
+2336720,19:11:00,19:11:10,stop_point:SP_44,Douzans,13
+2336720,19:12:00,19:12:10,stop_point:SP_5617,Charles de Gaulle,14
+2336720,19:13:00,19:13:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336721,19:20:00,19:20:10,stop_point:SP_4007,Basso Cambo,1
+2336721,19:22:00,19:22:10,stop_point:SP_5,Desnos,2
+2336721,19:25:00,19:25:10,stop_point:SP_2042,Eisenhower Est,3
+2336721,19:29:00,19:29:10,stop_point:SP_3258,Larrieu,4
+2336721,19:32:00,19:32:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336721,19:34:00,19:34:10,stop_point:SP_5613,Jean Jaurès,6
+2336721,19:36:00,19:36:10,stop_point:SP_5609,Ax,7
+2336721,19:38:00,19:38:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336721,19:40:00,19:40:10,stop_point:SP_5610,Mûriers,9
+2336721,19:44:00,19:44:10,stop_point:SP_4357,Muret Sans Souci,10
+2336721,19:47:00,19:47:10,stop_point:SP_5624,Porte de Muret,11
+2336721,19:49:00,19:49:10,stop_point:SP_5626,Cinéma,12
+2336721,19:50:00,19:50:10,stop_point:SP_44,Douzans,13
+2336721,19:51:00,19:51:10,stop_point:SP_5617,Charles de Gaulle,14
+2336721,19:52:00,19:52:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336722,20:00:00,20:00:10,stop_point:SP_4007,Basso Cambo,1
+2336722,20:02:00,20:02:10,stop_point:SP_5,Desnos,2
+2336722,20:05:00,20:05:10,stop_point:SP_2042,Eisenhower Est,3
+2336722,20:09:00,20:09:10,stop_point:SP_3258,Larrieu,4
+2336722,20:12:00,20:12:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336722,20:14:00,20:14:10,stop_point:SP_5613,Jean Jaurès,6
+2336722,20:16:00,20:16:10,stop_point:SP_5609,Ax,7
+2336722,20:18:00,20:18:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336722,20:20:00,20:20:10,stop_point:SP_5610,Mûriers,9
+2336722,20:24:00,20:24:10,stop_point:SP_4357,Muret Sans Souci,10
+2336722,20:27:00,20:27:10,stop_point:SP_5624,Porte de Muret,11
+2336722,20:29:00,20:29:10,stop_point:SP_5626,Cinéma,12
+2336722,20:30:00,20:30:10,stop_point:SP_44,Douzans,13
+2336722,20:31:00,20:31:10,stop_point:SP_5617,Charles de Gaulle,14
+2336722,20:32:00,20:32:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336723,20:50:00,20:50:10,stop_point:SP_4007,Basso Cambo,1
+2336723,20:52:00,20:52:10,stop_point:SP_5,Desnos,2
+2336723,20:55:00,20:55:10,stop_point:SP_2042,Eisenhower Est,3
+2336723,20:59:00,20:59:10,stop_point:SP_3258,Larrieu,4
+2336723,21:02:00,21:02:10,stop_point:SP_5612,Ctre Cial Portet,5
+2336723,21:04:00,21:04:10,stop_point:SP_5613,Jean Jaurès,6
+2336723,21:06:00,21:06:10,stop_point:SP_5609,Ax,7
+2336723,21:08:00,21:08:10,stop_point:SP_5614,Ctre Cial Roques - Michaëlis,8
+2336723,21:10:00,21:10:10,stop_point:SP_5610,Mûriers,9
+2336723,21:14:00,21:14:10,stop_point:SP_4357,Muret Sans Souci,10
+2336723,21:17:00,21:17:10,stop_point:SP_5624,Porte de Muret,11
+2336723,21:19:00,21:19:10,stop_point:SP_5626,Cinéma,12
+2336723,21:20:00,21:20:10,stop_point:SP_44,Douzans,13
+2336723,21:21:00,21:21:10,stop_point:SP_5617,Charles de Gaulle,14
+2336723,21:22:00,21:22:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,15
+2336724,06:05:00,06:05:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336724,06:07:00,06:07:10,stop_point:SP_5616,Charles de Gaulle,2
+2336724,06:08:00,06:08:10,stop_point:SP_1067,Douzans,3
+2336724,06:08:00,06:08:10,stop_point:SP_5619,Cinéma,4
+2336724,06:10:00,06:10:10,stop_point:SP_5621,Porte de Muret,5
+2336724,06:12:00,06:12:10,stop_point:SP_5625,Muret Sans Souci,6
+2336724,06:16:00,06:16:10,stop_point:SP_5606,Mûriers,7
+2336724,06:17:00,06:17:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336724,06:19:00,06:19:10,stop_point:SP_5611,Ax,9
+2336724,06:21:00,06:21:10,stop_point:SP_5608,Jean Jaurès,10
+2336724,06:22:00,06:22:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336724,06:25:00,06:25:10,stop_point:SP_320,Larrieu,12
+2336724,06:31:00,06:31:10,stop_point:SP_2955,Eisenhower Est,13
+2336724,06:34:00,06:34:10,stop_point:SP_16,Desnos,14
+2336724,06:38:00,06:38:10,stop_point:SP_4007,Basso Cambo,15
+2336725,06:45:00,06:45:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336725,06:47:00,06:47:10,stop_point:SP_5616,Charles de Gaulle,2
+2336725,06:48:00,06:48:10,stop_point:SP_1067,Douzans,3
+2336725,06:48:00,06:48:10,stop_point:SP_5619,Cinéma,4
+2336725,06:50:00,06:50:10,stop_point:SP_5621,Porte de Muret,5
+2336725,06:52:00,06:52:10,stop_point:SP_5625,Muret Sans Souci,6
+2336725,06:56:00,06:56:10,stop_point:SP_5606,Mûriers,7
+2336725,06:57:00,06:57:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336725,06:59:00,06:59:10,stop_point:SP_5611,Ax,9
+2336725,07:01:00,07:01:10,stop_point:SP_5608,Jean Jaurès,10
+2336725,07:02:00,07:02:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336725,07:05:00,07:05:10,stop_point:SP_320,Larrieu,12
+2336725,07:11:00,07:11:10,stop_point:SP_2955,Eisenhower Est,13
+2336725,07:14:00,07:14:10,stop_point:SP_16,Desnos,14
+2336725,07:18:00,07:18:10,stop_point:SP_4007,Basso Cambo,15
+2336726,07:25:00,07:25:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336726,07:27:00,07:27:10,stop_point:SP_5616,Charles de Gaulle,2
+2336726,07:28:00,07:28:10,stop_point:SP_1067,Douzans,3
+2336726,07:29:00,07:29:10,stop_point:SP_5619,Cinéma,4
+2336726,07:30:00,07:30:10,stop_point:SP_5621,Porte de Muret,5
+2336726,07:33:00,07:33:10,stop_point:SP_5625,Muret Sans Souci,6
+2336726,07:37:00,07:37:10,stop_point:SP_5606,Mûriers,7
+2336726,07:39:00,07:39:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336726,07:41:00,07:41:10,stop_point:SP_5611,Ax,9
+2336726,07:43:00,07:43:10,stop_point:SP_5608,Jean Jaurès,10
+2336726,07:44:00,07:44:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336726,07:47:00,07:47:10,stop_point:SP_320,Larrieu,12
+2336726,07:53:00,07:53:10,stop_point:SP_2955,Eisenhower Est,13
+2336726,07:56:00,07:56:10,stop_point:SP_16,Desnos,14
+2336726,08:00:00,08:00:10,stop_point:SP_4007,Basso Cambo,15
+2336727,08:00:00,08:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336727,08:02:00,08:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336727,08:03:00,08:03:10,stop_point:SP_1067,Douzans,3
+2336727,08:04:00,08:04:10,stop_point:SP_5619,Cinéma,4
+2336727,08:05:00,08:05:10,stop_point:SP_5621,Porte de Muret,5
+2336727,08:08:00,08:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336727,08:12:00,08:12:10,stop_point:SP_5606,Mûriers,7
+2336727,08:14:00,08:14:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336727,08:16:00,08:16:10,stop_point:SP_5611,Ax,9
+2336727,08:18:00,08:18:10,stop_point:SP_5608,Jean Jaurès,10
+2336727,08:19:00,08:19:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336727,08:22:00,08:22:10,stop_point:SP_320,Larrieu,12
+2336727,08:28:00,08:28:10,stop_point:SP_2955,Eisenhower Est,13
+2336727,08:31:00,08:31:10,stop_point:SP_16,Desnos,14
+2336727,08:35:00,08:35:10,stop_point:SP_4007,Basso Cambo,15
+2336728,08:40:00,08:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336728,08:42:00,08:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336728,08:43:00,08:43:10,stop_point:SP_1067,Douzans,3
+2336728,08:44:00,08:44:10,stop_point:SP_5619,Cinéma,4
+2336728,08:45:00,08:45:10,stop_point:SP_5621,Porte de Muret,5
+2336728,08:48:00,08:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336728,08:52:00,08:52:10,stop_point:SP_5606,Mûriers,7
+2336728,08:54:00,08:54:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336728,08:56:00,08:56:10,stop_point:SP_5611,Ax,9
+2336728,08:58:00,08:58:10,stop_point:SP_5608,Jean Jaurès,10
+2336728,08:59:00,08:59:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336728,09:02:00,09:02:10,stop_point:SP_320,Larrieu,12
+2336728,09:08:00,09:08:10,stop_point:SP_2955,Eisenhower Est,13
+2336728,09:11:00,09:11:10,stop_point:SP_16,Desnos,14
+2336728,09:15:00,09:15:10,stop_point:SP_4007,Basso Cambo,15
+2336729,09:20:00,09:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336729,09:22:00,09:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336729,09:23:00,09:23:10,stop_point:SP_1067,Douzans,3
+2336729,09:24:00,09:24:10,stop_point:SP_5619,Cinéma,4
+2336729,09:25:00,09:25:10,stop_point:SP_5621,Porte de Muret,5
+2336729,09:28:00,09:28:10,stop_point:SP_5625,Muret Sans Souci,6
+2336729,09:32:00,09:32:10,stop_point:SP_5606,Mûriers,7
+2336729,09:33:00,09:33:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336729,09:35:00,09:35:10,stop_point:SP_5611,Ax,9
+2336729,09:37:00,09:37:10,stop_point:SP_5608,Jean Jaurès,10
+2336729,09:38:00,09:38:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336729,09:41:00,09:41:10,stop_point:SP_320,Larrieu,12
+2336729,09:47:00,09:47:10,stop_point:SP_2955,Eisenhower Est,13
+2336729,09:50:00,09:50:10,stop_point:SP_16,Desnos,14
+2336729,09:53:00,09:53:10,stop_point:SP_4007,Basso Cambo,15
+2336730,10:00:00,10:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336730,10:02:00,10:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336730,10:03:00,10:03:10,stop_point:SP_1067,Douzans,3
+2336730,10:04:00,10:04:10,stop_point:SP_5619,Cinéma,4
+2336730,10:05:00,10:05:10,stop_point:SP_5621,Porte de Muret,5
+2336730,10:08:00,10:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336730,10:12:00,10:12:10,stop_point:SP_5606,Mûriers,7
+2336730,10:13:00,10:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336730,10:15:00,10:15:10,stop_point:SP_5611,Ax,9
+2336730,10:17:00,10:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336730,10:18:00,10:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336730,10:21:00,10:21:10,stop_point:SP_320,Larrieu,12
+2336730,10:27:00,10:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336730,10:29:00,10:29:10,stop_point:SP_16,Desnos,14
+2336730,10:32:00,10:32:10,stop_point:SP_4007,Basso Cambo,15
+2336731,10:40:00,10:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336731,10:42:00,10:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336731,10:43:00,10:43:10,stop_point:SP_1067,Douzans,3
+2336731,10:44:00,10:44:10,stop_point:SP_5619,Cinéma,4
+2336731,10:45:00,10:45:10,stop_point:SP_5621,Porte de Muret,5
+2336731,10:48:00,10:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336731,10:52:00,10:52:10,stop_point:SP_5606,Mûriers,7
+2336731,10:53:00,10:53:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336731,10:55:00,10:55:10,stop_point:SP_5611,Ax,9
+2336731,10:57:00,10:57:10,stop_point:SP_5608,Jean Jaurès,10
+2336731,10:58:00,10:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336731,11:01:00,11:01:10,stop_point:SP_320,Larrieu,12
+2336731,11:07:00,11:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336731,11:09:00,11:09:10,stop_point:SP_16,Desnos,14
+2336731,11:12:00,11:12:10,stop_point:SP_4007,Basso Cambo,15
+2336732,11:20:00,11:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336732,11:22:00,11:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336732,11:23:00,11:23:10,stop_point:SP_1067,Douzans,3
+2336732,11:24:00,11:24:10,stop_point:SP_5619,Cinéma,4
+2336732,11:25:00,11:25:10,stop_point:SP_5621,Porte de Muret,5
+2336732,11:28:00,11:28:10,stop_point:SP_5625,Muret Sans Souci,6
+2336732,11:32:00,11:32:10,stop_point:SP_5606,Mûriers,7
+2336732,11:33:00,11:33:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336732,11:35:00,11:35:10,stop_point:SP_5611,Ax,9
+2336732,11:37:00,11:37:10,stop_point:SP_5608,Jean Jaurès,10
+2336732,11:38:00,11:38:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336732,11:41:00,11:41:10,stop_point:SP_320,Larrieu,12
+2336732,11:47:00,11:47:10,stop_point:SP_2955,Eisenhower Est,13
+2336732,11:49:00,11:49:10,stop_point:SP_16,Desnos,14
+2336732,11:52:00,11:52:10,stop_point:SP_4007,Basso Cambo,15
+2336733,12:00:00,12:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336733,12:02:00,12:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336733,12:03:00,12:03:10,stop_point:SP_1067,Douzans,3
+2336733,12:04:00,12:04:10,stop_point:SP_5619,Cinéma,4
+2336733,12:05:00,12:05:10,stop_point:SP_5621,Porte de Muret,5
+2336733,12:08:00,12:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336733,12:12:00,12:12:10,stop_point:SP_5606,Mûriers,7
+2336733,12:13:00,12:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336733,12:15:00,12:15:10,stop_point:SP_5611,Ax,9
+2336733,12:17:00,12:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336733,12:18:00,12:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336733,12:21:00,12:21:10,stop_point:SP_320,Larrieu,12
+2336733,12:27:00,12:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336733,12:29:00,12:29:10,stop_point:SP_16,Desnos,14
+2336733,12:32:00,12:32:10,stop_point:SP_4007,Basso Cambo,15
+2336734,12:40:00,12:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336734,12:42:00,12:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336734,12:43:00,12:43:10,stop_point:SP_1067,Douzans,3
+2336734,12:44:00,12:44:10,stop_point:SP_5619,Cinéma,4
+2336734,12:45:00,12:45:10,stop_point:SP_5621,Porte de Muret,5
+2336734,12:48:00,12:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336734,12:52:00,12:52:10,stop_point:SP_5606,Mûriers,7
+2336734,12:53:00,12:53:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336734,12:55:00,12:55:10,stop_point:SP_5611,Ax,9
+2336734,12:57:00,12:57:10,stop_point:SP_5608,Jean Jaurès,10
+2336734,12:58:00,12:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336734,13:01:00,13:01:10,stop_point:SP_320,Larrieu,12
+2336734,13:07:00,13:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336734,13:09:00,13:09:10,stop_point:SP_16,Desnos,14
+2336734,13:12:00,13:12:10,stop_point:SP_4007,Basso Cambo,15
+2336735,13:20:00,13:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336735,13:22:00,13:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336735,13:23:00,13:23:10,stop_point:SP_1067,Douzans,3
+2336735,13:24:00,13:24:10,stop_point:SP_5619,Cinéma,4
+2336735,13:25:00,13:25:10,stop_point:SP_5621,Porte de Muret,5
+2336735,13:28:00,13:28:10,stop_point:SP_5625,Muret Sans Souci,6
+2336735,13:32:00,13:32:10,stop_point:SP_5606,Mûriers,7
+2336735,13:33:00,13:33:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336735,13:35:00,13:35:10,stop_point:SP_5611,Ax,9
+2336735,13:37:00,13:37:10,stop_point:SP_5608,Jean Jaurès,10
+2336735,13:38:00,13:38:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336735,13:41:00,13:41:10,stop_point:SP_320,Larrieu,12
+2336735,13:47:00,13:47:10,stop_point:SP_2955,Eisenhower Est,13
+2336735,13:49:00,13:49:10,stop_point:SP_16,Desnos,14
+2336735,13:52:00,13:52:10,stop_point:SP_4007,Basso Cambo,15
+2336736,14:00:00,14:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336736,14:02:00,14:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336736,14:03:00,14:03:10,stop_point:SP_1067,Douzans,3
+2336736,14:04:00,14:04:10,stop_point:SP_5619,Cinéma,4
+2336736,14:05:00,14:05:10,stop_point:SP_5621,Porte de Muret,5
+2336736,14:08:00,14:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336736,14:12:00,14:12:10,stop_point:SP_5606,Mûriers,7
+2336736,14:13:00,14:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336736,14:15:00,14:15:10,stop_point:SP_5611,Ax,9
+2336736,14:17:00,14:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336736,14:18:00,14:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336736,14:21:00,14:21:10,stop_point:SP_320,Larrieu,12
+2336736,14:27:00,14:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336736,14:30:00,14:30:10,stop_point:SP_16,Desnos,14
+2336736,14:33:00,14:33:10,stop_point:SP_4007,Basso Cambo,15
+2336737,14:40:00,14:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336737,14:42:00,14:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336737,14:43:00,14:43:10,stop_point:SP_1067,Douzans,3
+2336737,14:44:00,14:44:10,stop_point:SP_5619,Cinéma,4
+2336737,14:45:00,14:45:10,stop_point:SP_5621,Porte de Muret,5
+2336737,14:48:00,14:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336737,14:52:00,14:52:10,stop_point:SP_5606,Mûriers,7
+2336737,14:53:00,14:53:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336737,14:55:00,14:55:10,stop_point:SP_5611,Ax,9
+2336737,14:57:00,14:57:10,stop_point:SP_5608,Jean Jaurès,10
+2336737,14:58:00,14:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336737,15:01:00,15:01:10,stop_point:SP_320,Larrieu,12
+2336737,15:07:00,15:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336737,15:10:00,15:10:10,stop_point:SP_16,Desnos,14
+2336737,15:14:00,15:14:10,stop_point:SP_4007,Basso Cambo,15
+2336738,15:20:00,15:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336738,15:22:00,15:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336738,15:23:00,15:23:10,stop_point:SP_1067,Douzans,3
+2336738,15:24:00,15:24:10,stop_point:SP_5619,Cinéma,4
+2336738,15:25:00,15:25:10,stop_point:SP_5621,Porte de Muret,5
+2336738,15:28:00,15:28:10,stop_point:SP_5625,Muret Sans Souci,6
+2336738,15:32:00,15:32:10,stop_point:SP_5606,Mûriers,7
+2336738,15:33:00,15:33:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336738,15:35:00,15:35:10,stop_point:SP_5611,Ax,9
+2336738,15:37:00,15:37:10,stop_point:SP_5608,Jean Jaurès,10
+2336738,15:38:00,15:38:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336738,15:41:00,15:41:10,stop_point:SP_320,Larrieu,12
+2336738,15:47:00,15:47:10,stop_point:SP_2955,Eisenhower Est,13
+2336738,15:50:00,15:50:10,stop_point:SP_16,Desnos,14
+2336738,15:54:00,15:54:10,stop_point:SP_4007,Basso Cambo,15
+2336739,16:00:00,16:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336739,16:02:00,16:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336739,16:03:00,16:03:10,stop_point:SP_1067,Douzans,3
+2336739,16:04:00,16:04:10,stop_point:SP_5619,Cinéma,4
+2336739,16:05:00,16:05:10,stop_point:SP_5621,Porte de Muret,5
+2336739,16:08:00,16:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336739,16:12:00,16:12:10,stop_point:SP_5606,Mûriers,7
+2336739,16:13:00,16:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336739,16:15:00,16:15:10,stop_point:SP_5611,Ax,9
+2336739,16:17:00,16:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336739,16:18:00,16:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336739,16:21:00,16:21:10,stop_point:SP_320,Larrieu,12
+2336739,16:27:00,16:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336739,16:30:00,16:30:10,stop_point:SP_16,Desnos,14
+2336739,16:34:00,16:34:10,stop_point:SP_4007,Basso Cambo,15
+2336740,16:40:00,16:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336740,16:42:00,16:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336740,16:43:00,16:43:10,stop_point:SP_1067,Douzans,3
+2336740,16:44:00,16:44:10,stop_point:SP_5619,Cinéma,4
+2336740,16:45:00,16:45:10,stop_point:SP_5621,Porte de Muret,5
+2336740,16:48:00,16:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336740,16:52:00,16:52:10,stop_point:SP_5606,Mûriers,7
+2336740,16:53:00,16:53:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336740,16:55:00,16:55:10,stop_point:SP_5611,Ax,9
+2336740,16:57:00,16:57:10,stop_point:SP_5608,Jean Jaurès,10
+2336740,16:58:00,16:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336740,17:01:00,17:01:10,stop_point:SP_320,Larrieu,12
+2336740,17:07:00,17:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336740,17:10:00,17:10:10,stop_point:SP_16,Desnos,14
+2336740,17:14:00,17:14:10,stop_point:SP_4007,Basso Cambo,15
+2336741,17:20:00,17:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336741,17:22:00,17:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336741,17:23:00,17:23:10,stop_point:SP_1067,Douzans,3
+2336741,17:24:00,17:24:10,stop_point:SP_5619,Cinéma,4
+2336741,17:25:00,17:25:10,stop_point:SP_5621,Porte de Muret,5
+2336741,17:28:00,17:28:10,stop_point:SP_5625,Muret Sans Souci,6
+2336741,17:32:00,17:32:10,stop_point:SP_5606,Mûriers,7
+2336741,17:33:00,17:33:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336741,17:35:00,17:35:10,stop_point:SP_5611,Ax,9
+2336741,17:37:00,17:37:10,stop_point:SP_5608,Jean Jaurès,10
+2336741,17:38:00,17:38:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336741,17:41:00,17:41:10,stop_point:SP_320,Larrieu,12
+2336741,17:47:00,17:47:10,stop_point:SP_2955,Eisenhower Est,13
+2336741,17:50:00,17:50:10,stop_point:SP_16,Desnos,14
+2336741,17:54:00,17:54:10,stop_point:SP_4007,Basso Cambo,15
+2336742,18:00:00,18:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336742,18:02:00,18:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336742,18:03:00,18:03:10,stop_point:SP_1067,Douzans,3
+2336742,18:04:00,18:04:10,stop_point:SP_5619,Cinéma,4
+2336742,18:05:00,18:05:10,stop_point:SP_5621,Porte de Muret,5
+2336742,18:08:00,18:08:10,stop_point:SP_5625,Muret Sans Souci,6
+2336742,18:12:00,18:12:10,stop_point:SP_5606,Mûriers,7
+2336742,18:13:00,18:13:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336742,18:15:00,18:15:10,stop_point:SP_5611,Ax,9
+2336742,18:17:00,18:17:10,stop_point:SP_5608,Jean Jaurès,10
+2336742,18:18:00,18:18:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336742,18:21:00,18:21:10,stop_point:SP_320,Larrieu,12
+2336742,18:27:00,18:27:10,stop_point:SP_2955,Eisenhower Est,13
+2336742,18:30:00,18:30:10,stop_point:SP_16,Desnos,14
+2336742,18:34:00,18:34:10,stop_point:SP_4007,Basso Cambo,15
+2336743,18:40:00,18:40:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336743,18:42:00,18:42:10,stop_point:SP_5616,Charles de Gaulle,2
+2336743,18:43:00,18:43:10,stop_point:SP_1067,Douzans,3
+2336743,18:44:00,18:44:10,stop_point:SP_5619,Cinéma,4
+2336743,18:45:00,18:45:10,stop_point:SP_5621,Porte de Muret,5
+2336743,18:48:00,18:48:10,stop_point:SP_5625,Muret Sans Souci,6
+2336743,18:52:00,18:52:10,stop_point:SP_5606,Mûriers,7
+2336743,18:53:00,18:53:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336743,18:55:00,18:55:10,stop_point:SP_5611,Ax,9
+2336743,18:57:00,18:57:10,stop_point:SP_5608,Jean Jaurès,10
+2336743,18:58:00,18:58:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336743,19:01:00,19:01:10,stop_point:SP_320,Larrieu,12
+2336743,19:07:00,19:07:10,stop_point:SP_2955,Eisenhower Est,13
+2336743,19:09:00,19:09:10,stop_point:SP_16,Desnos,14
+2336743,19:12:00,19:12:10,stop_point:SP_4007,Basso Cambo,15
+2336744,19:20:00,19:20:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336744,19:22:00,19:22:10,stop_point:SP_5616,Charles de Gaulle,2
+2336744,19:23:00,19:23:10,stop_point:SP_1067,Douzans,3
+2336744,19:23:00,19:23:10,stop_point:SP_5619,Cinéma,4
+2336744,19:25:00,19:25:10,stop_point:SP_5621,Porte de Muret,5
+2336744,19:27:00,19:27:10,stop_point:SP_5625,Muret Sans Souci,6
+2336744,19:31:00,19:31:10,stop_point:SP_5606,Mûriers,7
+2336744,19:32:00,19:32:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336744,19:34:00,19:34:10,stop_point:SP_5611,Ax,9
+2336744,19:36:00,19:36:10,stop_point:SP_5608,Jean Jaurès,10
+2336744,19:37:00,19:37:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336744,19:40:00,19:40:10,stop_point:SP_320,Larrieu,12
+2336744,19:46:00,19:46:10,stop_point:SP_2955,Eisenhower Est,13
+2336744,19:48:00,19:48:10,stop_point:SP_16,Desnos,14
+2336744,19:51:00,19:51:10,stop_point:SP_4007,Basso Cambo,15
+2336745,20:00:00,20:00:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336745,20:02:00,20:02:10,stop_point:SP_5616,Charles de Gaulle,2
+2336745,20:03:00,20:03:10,stop_point:SP_1067,Douzans,3
+2336745,20:03:00,20:03:10,stop_point:SP_5619,Cinéma,4
+2336745,20:05:00,20:05:10,stop_point:SP_5621,Porte de Muret,5
+2336745,20:07:00,20:07:10,stop_point:SP_5625,Muret Sans Souci,6
+2336745,20:11:00,20:11:10,stop_point:SP_5606,Mûriers,7
+2336745,20:12:00,20:12:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336745,20:14:00,20:14:10,stop_point:SP_5611,Ax,9
+2336745,20:16:00,20:16:10,stop_point:SP_5608,Jean Jaurès,10
+2336745,20:17:00,20:17:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336745,20:20:00,20:20:10,stop_point:SP_320,Larrieu,12
+2336745,20:26:00,20:26:10,stop_point:SP_2955,Eisenhower Est,13
+2336745,20:28:00,20:28:10,stop_point:SP_16,Desnos,14
+2336745,20:31:00,20:31:10,stop_point:SP_4007,Basso Cambo,15
+2336746,20:50:00,20:50:10,stop_point:SP_4797,Muret Gare SNCF - Cimetière,1
+2336746,20:52:00,20:52:10,stop_point:SP_5616,Charles de Gaulle,2
+2336746,20:53:00,20:53:10,stop_point:SP_1067,Douzans,3
+2336746,20:53:00,20:53:10,stop_point:SP_5619,Cinéma,4
+2336746,20:55:00,20:55:10,stop_point:SP_5621,Porte de Muret,5
+2336746,20:57:00,20:57:10,stop_point:SP_5625,Muret Sans Souci,6
+2336746,21:01:00,21:01:10,stop_point:SP_5606,Mûriers,7
+2336746,21:02:00,21:02:10,stop_point:SP_5615,Ctre Cial Roques - Michaëlis,8
+2336746,21:04:00,21:04:10,stop_point:SP_5611,Ax,9
+2336746,21:06:00,21:06:10,stop_point:SP_5608,Jean Jaurès,10
+2336746,21:07:00,21:07:10,stop_point:SP_5607,Ctre Cial Portet,11
+2336746,21:10:00,21:10:10,stop_point:SP_320,Larrieu,12
+2336746,21:16:00,21:16:10,stop_point:SP_2955,Eisenhower Est,13
+2336746,21:18:00,21:18:10,stop_point:SP_16,Desnos,14
+2336746,21:21:00,21:21:10,stop_point:SP_4007,Basso Cambo,15

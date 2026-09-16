@@ -1,0 +1,3047 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2298492,06:55:00,06:55:10,stop_point:SP_1227,Argoulets,1
+2298492,06:56:00,06:56:10,stop_point:SP_1173,Cambard,2
+2298492,06:58:00,06:58:10,stop_point:SP_890,Vasseur,3
+2298492,06:59:00,06:59:10,stop_point:SP_910,Ohnet,4
+2298492,06:59:00,06:59:10,stop_point:SP_2148,Caunes,5
+2298492,07:00:00,07:00:10,stop_point:SP_1303,Atlanta,6
+2298492,07:02:00,07:02:10,stop_point:SP_2827,St-Caprais,7
+2298492,07:04:00,07:04:10,stop_point:SP_1156,Cerbère,8
+2298492,07:05:00,07:05:10,stop_point:SP_1898,La Palme,9
+2298492,07:05:00,07:05:10,stop_point:SP_248,La Franqui,10
+2298492,07:06:00,07:06:10,stop_point:SP_242,Orthez,11
+2298492,07:07:00,07:07:10,stop_point:SP_4786,Hasparren,12
+2298492,07:08:00,07:08:10,stop_point:SP_2571,Montcalm,13
+2298492,07:09:00,07:09:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298492,07:09:00,07:09:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298492,07:10:00,07:10:10,stop_point:SP_3517,Grive,16
+2298492,07:11:00,07:11:10,stop_point:SP_268,Vents d'Autan,17
+2298492,07:11:00,07:11:10,stop_point:SP_3035,Monts du Forez,18
+2298492,07:12:00,07:12:10,stop_point:SP_3406,Piscine,19
+2298492,07:13:00,07:13:10,stop_point:SP_677,Aspin,20
+2298492,07:13:00,07:13:10,stop_point:SP_29,Vence,21
+2298492,07:14:00,07:14:10,stop_point:SP_1788,Vallauris,22
+2298492,07:15:00,07:15:10,stop_point:SP_854,St-Tropez,23
+2298492,07:15:00,07:15:10,stop_point:SP_2411,Calicéo,24
+2298492,07:16:00,07:16:10,stop_point:SP_2219,Ratalens,25
+2298492,07:17:00,07:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298493,08:00:00,08:00:10,stop_point:SP_1227,Argoulets,1
+2298493,08:01:00,08:01:10,stop_point:SP_1173,Cambard,2
+2298493,08:03:00,08:03:10,stop_point:SP_890,Vasseur,3
+2298493,08:04:00,08:04:10,stop_point:SP_910,Ohnet,4
+2298493,08:04:00,08:04:10,stop_point:SP_2148,Caunes,5
+2298493,08:05:00,08:05:10,stop_point:SP_1303,Atlanta,6
+2298493,08:07:00,08:07:10,stop_point:SP_2827,St-Caprais,7
+2298493,08:09:00,08:09:10,stop_point:SP_1156,Cerbère,8
+2298493,08:10:00,08:10:10,stop_point:SP_1898,La Palme,9
+2298493,08:10:00,08:10:10,stop_point:SP_248,La Franqui,10
+2298493,08:11:00,08:11:10,stop_point:SP_242,Orthez,11
+2298493,08:12:00,08:12:10,stop_point:SP_4786,Hasparren,12
+2298493,08:13:00,08:13:10,stop_point:SP_2571,Montcalm,13
+2298493,08:14:00,08:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298493,08:14:00,08:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298493,08:15:00,08:15:10,stop_point:SP_3517,Grive,16
+2298493,08:16:00,08:16:10,stop_point:SP_268,Vents d'Autan,17
+2298493,08:16:00,08:16:10,stop_point:SP_3035,Monts du Forez,18
+2298493,08:17:00,08:17:10,stop_point:SP_3406,Piscine,19
+2298493,08:18:00,08:18:10,stop_point:SP_677,Aspin,20
+2298493,08:18:00,08:18:10,stop_point:SP_29,Vence,21
+2298493,08:19:00,08:19:10,stop_point:SP_1788,Vallauris,22
+2298493,08:20:00,08:20:10,stop_point:SP_854,St-Tropez,23
+2298493,08:20:00,08:20:10,stop_point:SP_2411,Calicéo,24
+2298493,08:21:00,08:21:10,stop_point:SP_2219,Ratalens,25
+2298493,08:22:00,08:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298494,09:05:00,09:05:10,stop_point:SP_1227,Argoulets,1
+2298494,09:06:00,09:06:10,stop_point:SP_1173,Cambard,2
+2298494,09:08:00,09:08:10,stop_point:SP_890,Vasseur,3
+2298494,09:09:00,09:09:10,stop_point:SP_910,Ohnet,4
+2298494,09:09:00,09:09:10,stop_point:SP_2148,Caunes,5
+2298494,09:10:00,09:10:10,stop_point:SP_1303,Atlanta,6
+2298494,09:12:00,09:12:10,stop_point:SP_2827,St-Caprais,7
+2298494,09:14:00,09:14:10,stop_point:SP_1156,Cerbère,8
+2298494,09:15:00,09:15:10,stop_point:SP_1898,La Palme,9
+2298494,09:15:00,09:15:10,stop_point:SP_248,La Franqui,10
+2298494,09:16:00,09:16:10,stop_point:SP_242,Orthez,11
+2298494,09:17:00,09:17:10,stop_point:SP_4786,Hasparren,12
+2298494,09:18:00,09:18:10,stop_point:SP_2571,Montcalm,13
+2298494,09:19:00,09:19:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298494,09:19:00,09:19:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298494,09:20:00,09:20:10,stop_point:SP_3517,Grive,16
+2298494,09:21:00,09:21:10,stop_point:SP_268,Vents d'Autan,17
+2298494,09:21:00,09:21:10,stop_point:SP_3035,Monts du Forez,18
+2298494,09:22:00,09:22:10,stop_point:SP_3406,Piscine,19
+2298494,09:23:00,09:23:10,stop_point:SP_677,Aspin,20
+2298494,09:23:00,09:23:10,stop_point:SP_29,Vence,21
+2298494,09:24:00,09:24:10,stop_point:SP_1788,Vallauris,22
+2298494,09:25:00,09:25:10,stop_point:SP_854,St-Tropez,23
+2298494,09:25:00,09:25:10,stop_point:SP_2411,Calicéo,24
+2298494,09:26:00,09:26:10,stop_point:SP_2219,Ratalens,25
+2298494,09:27:00,09:27:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298495,10:10:00,10:10:10,stop_point:SP_1227,Argoulets,1
+2298495,10:11:00,10:11:10,stop_point:SP_1173,Cambard,2
+2298495,10:13:00,10:13:10,stop_point:SP_890,Vasseur,3
+2298495,10:14:00,10:14:10,stop_point:SP_910,Ohnet,4
+2298495,10:14:00,10:14:10,stop_point:SP_2148,Caunes,5
+2298495,10:15:00,10:15:10,stop_point:SP_1303,Atlanta,6
+2298495,10:17:00,10:17:10,stop_point:SP_2827,St-Caprais,7
+2298495,10:19:00,10:19:10,stop_point:SP_1156,Cerbère,8
+2298495,10:20:00,10:20:10,stop_point:SP_1898,La Palme,9
+2298495,10:20:00,10:20:10,stop_point:SP_248,La Franqui,10
+2298495,10:21:00,10:21:10,stop_point:SP_242,Orthez,11
+2298495,10:22:00,10:22:10,stop_point:SP_4786,Hasparren,12
+2298495,10:23:00,10:23:10,stop_point:SP_2571,Montcalm,13
+2298495,10:24:00,10:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298495,10:24:00,10:24:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298495,10:25:00,10:25:10,stop_point:SP_3517,Grive,16
+2298495,10:26:00,10:26:10,stop_point:SP_268,Vents d'Autan,17
+2298495,10:26:00,10:26:10,stop_point:SP_3035,Monts du Forez,18
+2298495,10:27:00,10:27:10,stop_point:SP_3406,Piscine,19
+2298495,10:28:00,10:28:10,stop_point:SP_677,Aspin,20
+2298495,10:28:00,10:28:10,stop_point:SP_29,Vence,21
+2298495,10:29:00,10:29:10,stop_point:SP_1788,Vallauris,22
+2298495,10:30:00,10:30:10,stop_point:SP_854,St-Tropez,23
+2298495,10:30:00,10:30:10,stop_point:SP_2411,Calicéo,24
+2298495,10:31:00,10:31:10,stop_point:SP_2219,Ratalens,25
+2298495,10:32:00,10:32:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298496,11:15:00,11:15:10,stop_point:SP_1227,Argoulets,1
+2298496,11:16:00,11:16:10,stop_point:SP_1173,Cambard,2
+2298496,11:18:00,11:18:10,stop_point:SP_890,Vasseur,3
+2298496,11:19:00,11:19:10,stop_point:SP_910,Ohnet,4
+2298496,11:19:00,11:19:10,stop_point:SP_2148,Caunes,5
+2298496,11:20:00,11:20:10,stop_point:SP_1303,Atlanta,6
+2298496,11:22:00,11:22:10,stop_point:SP_2827,St-Caprais,7
+2298496,11:24:00,11:24:10,stop_point:SP_1156,Cerbère,8
+2298496,11:25:00,11:25:10,stop_point:SP_1898,La Palme,9
+2298496,11:25:00,11:25:10,stop_point:SP_248,La Franqui,10
+2298496,11:26:00,11:26:10,stop_point:SP_242,Orthez,11
+2298496,11:27:00,11:27:10,stop_point:SP_4786,Hasparren,12
+2298496,11:28:00,11:28:10,stop_point:SP_2571,Montcalm,13
+2298496,11:29:00,11:29:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298496,11:29:00,11:29:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298496,11:30:00,11:30:10,stop_point:SP_3517,Grive,16
+2298496,11:31:00,11:31:10,stop_point:SP_268,Vents d'Autan,17
+2298496,11:31:00,11:31:10,stop_point:SP_3035,Monts du Forez,18
+2298496,11:32:00,11:32:10,stop_point:SP_3406,Piscine,19
+2298496,11:33:00,11:33:10,stop_point:SP_677,Aspin,20
+2298496,11:33:00,11:33:10,stop_point:SP_29,Vence,21
+2298496,11:34:00,11:34:10,stop_point:SP_1788,Vallauris,22
+2298496,11:35:00,11:35:10,stop_point:SP_854,St-Tropez,23
+2298496,11:35:00,11:35:10,stop_point:SP_2411,Calicéo,24
+2298496,11:36:00,11:36:10,stop_point:SP_2219,Ratalens,25
+2298496,11:37:00,11:37:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298497,12:20:00,12:20:10,stop_point:SP_1227,Argoulets,1
+2298497,12:21:00,12:21:10,stop_point:SP_1173,Cambard,2
+2298497,12:23:00,12:23:10,stop_point:SP_890,Vasseur,3
+2298497,12:24:00,12:24:10,stop_point:SP_910,Ohnet,4
+2298497,12:24:00,12:24:10,stop_point:SP_2148,Caunes,5
+2298497,12:25:00,12:25:10,stop_point:SP_1303,Atlanta,6
+2298497,12:27:00,12:27:10,stop_point:SP_2827,St-Caprais,7
+2298497,12:29:00,12:29:10,stop_point:SP_1156,Cerbère,8
+2298497,12:30:00,12:30:10,stop_point:SP_1898,La Palme,9
+2298497,12:30:00,12:30:10,stop_point:SP_248,La Franqui,10
+2298497,12:31:00,12:31:10,stop_point:SP_242,Orthez,11
+2298497,12:32:00,12:32:10,stop_point:SP_4786,Hasparren,12
+2298497,12:33:00,12:33:10,stop_point:SP_2571,Montcalm,13
+2298497,12:34:00,12:34:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298497,12:34:00,12:34:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298497,12:35:00,12:35:10,stop_point:SP_3517,Grive,16
+2298497,12:36:00,12:36:10,stop_point:SP_268,Vents d'Autan,17
+2298497,12:36:00,12:36:10,stop_point:SP_3035,Monts du Forez,18
+2298497,12:37:00,12:37:10,stop_point:SP_3406,Piscine,19
+2298497,12:38:00,12:38:10,stop_point:SP_677,Aspin,20
+2298497,12:38:00,12:38:10,stop_point:SP_29,Vence,21
+2298497,12:39:00,12:39:10,stop_point:SP_1788,Vallauris,22
+2298497,12:40:00,12:40:10,stop_point:SP_854,St-Tropez,23
+2298497,12:40:00,12:40:10,stop_point:SP_2411,Calicéo,24
+2298497,12:41:00,12:41:10,stop_point:SP_2219,Ratalens,25
+2298497,12:42:00,12:42:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298498,13:25:00,13:25:10,stop_point:SP_1227,Argoulets,1
+2298498,13:26:00,13:26:10,stop_point:SP_1173,Cambard,2
+2298498,13:28:00,13:28:10,stop_point:SP_890,Vasseur,3
+2298498,13:29:00,13:29:10,stop_point:SP_910,Ohnet,4
+2298498,13:29:00,13:29:10,stop_point:SP_2148,Caunes,5
+2298498,13:30:00,13:30:10,stop_point:SP_1303,Atlanta,6
+2298498,13:32:00,13:32:10,stop_point:SP_2827,St-Caprais,7
+2298498,13:34:00,13:34:10,stop_point:SP_1156,Cerbère,8
+2298498,13:35:00,13:35:10,stop_point:SP_1898,La Palme,9
+2298498,13:35:00,13:35:10,stop_point:SP_248,La Franqui,10
+2298498,13:36:00,13:36:10,stop_point:SP_242,Orthez,11
+2298498,13:37:00,13:37:10,stop_point:SP_4786,Hasparren,12
+2298498,13:38:00,13:38:10,stop_point:SP_2571,Montcalm,13
+2298498,13:39:00,13:39:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298498,13:39:00,13:39:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298498,13:40:00,13:40:10,stop_point:SP_3517,Grive,16
+2298498,13:41:00,13:41:10,stop_point:SP_268,Vents d'Autan,17
+2298498,13:41:00,13:41:10,stop_point:SP_3035,Monts du Forez,18
+2298498,13:42:00,13:42:10,stop_point:SP_3406,Piscine,19
+2298498,13:43:00,13:43:10,stop_point:SP_677,Aspin,20
+2298498,13:43:00,13:43:10,stop_point:SP_29,Vence,21
+2298498,13:44:00,13:44:10,stop_point:SP_1788,Vallauris,22
+2298498,13:45:00,13:45:10,stop_point:SP_854,St-Tropez,23
+2298498,13:45:00,13:45:10,stop_point:SP_2411,Calicéo,24
+2298498,13:46:00,13:46:10,stop_point:SP_2219,Ratalens,25
+2298498,13:47:00,13:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298499,14:30:00,14:30:10,stop_point:SP_1227,Argoulets,1
+2298499,14:31:00,14:31:10,stop_point:SP_1173,Cambard,2
+2298499,14:33:00,14:33:10,stop_point:SP_890,Vasseur,3
+2298499,14:34:00,14:34:10,stop_point:SP_910,Ohnet,4
+2298499,14:34:00,14:34:10,stop_point:SP_2148,Caunes,5
+2298499,14:35:00,14:35:10,stop_point:SP_1303,Atlanta,6
+2298499,14:37:00,14:37:10,stop_point:SP_2827,St-Caprais,7
+2298499,14:39:00,14:39:10,stop_point:SP_1156,Cerbère,8
+2298499,14:40:00,14:40:10,stop_point:SP_1898,La Palme,9
+2298499,14:40:00,14:40:10,stop_point:SP_248,La Franqui,10
+2298499,14:41:00,14:41:10,stop_point:SP_242,Orthez,11
+2298499,14:42:00,14:42:10,stop_point:SP_4786,Hasparren,12
+2298499,14:43:00,14:43:10,stop_point:SP_2571,Montcalm,13
+2298499,14:44:00,14:44:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298499,14:44:00,14:44:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298499,14:45:00,14:45:10,stop_point:SP_3517,Grive,16
+2298499,14:46:00,14:46:10,stop_point:SP_268,Vents d'Autan,17
+2298499,14:46:00,14:46:10,stop_point:SP_3035,Monts du Forez,18
+2298499,14:47:00,14:47:10,stop_point:SP_3406,Piscine,19
+2298499,14:48:00,14:48:10,stop_point:SP_677,Aspin,20
+2298499,14:48:00,14:48:10,stop_point:SP_29,Vence,21
+2298499,14:49:00,14:49:10,stop_point:SP_1788,Vallauris,22
+2298499,14:50:00,14:50:10,stop_point:SP_854,St-Tropez,23
+2298499,14:50:00,14:50:10,stop_point:SP_2411,Calicéo,24
+2298499,14:51:00,14:51:10,stop_point:SP_2219,Ratalens,25
+2298499,14:52:00,14:52:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298500,15:35:00,15:35:10,stop_point:SP_1227,Argoulets,1
+2298500,15:36:00,15:36:10,stop_point:SP_1173,Cambard,2
+2298500,15:38:00,15:38:10,stop_point:SP_890,Vasseur,3
+2298500,15:39:00,15:39:10,stop_point:SP_910,Ohnet,4
+2298500,15:39:00,15:39:10,stop_point:SP_2148,Caunes,5
+2298500,15:40:00,15:40:10,stop_point:SP_1303,Atlanta,6
+2298500,15:42:00,15:42:10,stop_point:SP_2827,St-Caprais,7
+2298500,15:44:00,15:44:10,stop_point:SP_1156,Cerbère,8
+2298500,15:45:00,15:45:10,stop_point:SP_1898,La Palme,9
+2298500,15:45:00,15:45:10,stop_point:SP_248,La Franqui,10
+2298500,15:46:00,15:46:10,stop_point:SP_242,Orthez,11
+2298500,15:47:00,15:47:10,stop_point:SP_4786,Hasparren,12
+2298500,15:48:00,15:48:10,stop_point:SP_2571,Montcalm,13
+2298500,15:49:00,15:49:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298500,15:49:00,15:49:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298500,15:50:00,15:50:10,stop_point:SP_3517,Grive,16
+2298500,15:51:00,15:51:10,stop_point:SP_268,Vents d'Autan,17
+2298500,15:51:00,15:51:10,stop_point:SP_3035,Monts du Forez,18
+2298500,15:52:00,15:52:10,stop_point:SP_3406,Piscine,19
+2298500,15:53:00,15:53:10,stop_point:SP_677,Aspin,20
+2298500,15:53:00,15:53:10,stop_point:SP_29,Vence,21
+2298500,15:54:00,15:54:10,stop_point:SP_1788,Vallauris,22
+2298500,15:55:00,15:55:10,stop_point:SP_854,St-Tropez,23
+2298500,15:55:00,15:55:10,stop_point:SP_2411,Calicéo,24
+2298500,15:56:00,15:56:10,stop_point:SP_2219,Ratalens,25
+2298500,15:57:00,15:57:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298501,16:40:00,16:40:10,stop_point:SP_1227,Argoulets,1
+2298501,16:41:00,16:41:10,stop_point:SP_1173,Cambard,2
+2298501,16:43:00,16:43:10,stop_point:SP_890,Vasseur,3
+2298501,16:44:00,16:44:10,stop_point:SP_910,Ohnet,4
+2298501,16:44:00,16:44:10,stop_point:SP_2148,Caunes,5
+2298501,16:45:00,16:45:10,stop_point:SP_1303,Atlanta,6
+2298501,16:47:00,16:47:10,stop_point:SP_2827,St-Caprais,7
+2298501,16:49:00,16:49:10,stop_point:SP_1156,Cerbère,8
+2298501,16:50:00,16:50:10,stop_point:SP_1898,La Palme,9
+2298501,16:50:00,16:50:10,stop_point:SP_248,La Franqui,10
+2298501,16:51:00,16:51:10,stop_point:SP_242,Orthez,11
+2298501,16:52:00,16:52:10,stop_point:SP_4786,Hasparren,12
+2298501,16:53:00,16:53:10,stop_point:SP_2571,Montcalm,13
+2298501,16:54:00,16:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298501,16:54:00,16:54:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298501,16:55:00,16:55:10,stop_point:SP_3517,Grive,16
+2298501,16:56:00,16:56:10,stop_point:SP_268,Vents d'Autan,17
+2298501,16:56:00,16:56:10,stop_point:SP_3035,Monts du Forez,18
+2298501,16:57:00,16:57:10,stop_point:SP_3406,Piscine,19
+2298501,16:58:00,16:58:10,stop_point:SP_677,Aspin,20
+2298501,16:58:00,16:58:10,stop_point:SP_29,Vence,21
+2298501,16:59:00,16:59:10,stop_point:SP_1788,Vallauris,22
+2298501,17:00:00,17:00:10,stop_point:SP_854,St-Tropez,23
+2298501,17:00:00,17:00:10,stop_point:SP_2411,Calicéo,24
+2298501,17:01:00,17:01:10,stop_point:SP_2219,Ratalens,25
+2298501,17:02:00,17:02:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298502,17:45:00,17:45:10,stop_point:SP_1227,Argoulets,1
+2298502,17:46:00,17:46:10,stop_point:SP_1173,Cambard,2
+2298502,17:48:00,17:48:10,stop_point:SP_890,Vasseur,3
+2298502,17:49:00,17:49:10,stop_point:SP_910,Ohnet,4
+2298502,17:49:00,17:49:10,stop_point:SP_2148,Caunes,5
+2298502,17:50:00,17:50:10,stop_point:SP_1303,Atlanta,6
+2298502,17:52:00,17:52:10,stop_point:SP_2827,St-Caprais,7
+2298502,17:54:00,17:54:10,stop_point:SP_1156,Cerbère,8
+2298502,17:55:00,17:55:10,stop_point:SP_1898,La Palme,9
+2298502,17:55:00,17:55:10,stop_point:SP_248,La Franqui,10
+2298502,17:56:00,17:56:10,stop_point:SP_242,Orthez,11
+2298502,17:57:00,17:57:10,stop_point:SP_4786,Hasparren,12
+2298502,17:58:00,17:58:10,stop_point:SP_2571,Montcalm,13
+2298502,17:59:00,17:59:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298502,17:59:00,17:59:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298502,18:00:00,18:00:10,stop_point:SP_3517,Grive,16
+2298502,18:01:00,18:01:10,stop_point:SP_268,Vents d'Autan,17
+2298502,18:01:00,18:01:10,stop_point:SP_3035,Monts du Forez,18
+2298502,18:02:00,18:02:10,stop_point:SP_3406,Piscine,19
+2298502,18:03:00,18:03:10,stop_point:SP_677,Aspin,20
+2298502,18:03:00,18:03:10,stop_point:SP_29,Vence,21
+2298502,18:04:00,18:04:10,stop_point:SP_1788,Vallauris,22
+2298502,18:05:00,18:05:10,stop_point:SP_854,St-Tropez,23
+2298502,18:05:00,18:05:10,stop_point:SP_2411,Calicéo,24
+2298502,18:06:00,18:06:10,stop_point:SP_2219,Ratalens,25
+2298502,18:07:00,18:07:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298503,18:50:00,18:50:10,stop_point:SP_1227,Argoulets,1
+2298503,18:51:00,18:51:10,stop_point:SP_1173,Cambard,2
+2298503,18:53:00,18:53:10,stop_point:SP_890,Vasseur,3
+2298503,18:54:00,18:54:10,stop_point:SP_910,Ohnet,4
+2298503,18:54:00,18:54:10,stop_point:SP_2148,Caunes,5
+2298503,18:55:00,18:55:10,stop_point:SP_1303,Atlanta,6
+2298503,18:57:00,18:57:10,stop_point:SP_2827,St-Caprais,7
+2298503,18:59:00,18:59:10,stop_point:SP_1156,Cerbère,8
+2298503,19:00:00,19:00:10,stop_point:SP_1898,La Palme,9
+2298503,19:00:00,19:00:10,stop_point:SP_248,La Franqui,10
+2298503,19:01:00,19:01:10,stop_point:SP_242,Orthez,11
+2298503,19:02:00,19:02:10,stop_point:SP_4786,Hasparren,12
+2298503,19:03:00,19:03:10,stop_point:SP_2571,Montcalm,13
+2298503,19:04:00,19:04:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298503,19:04:00,19:04:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298503,19:05:00,19:05:10,stop_point:SP_3517,Grive,16
+2298503,19:06:00,19:06:10,stop_point:SP_268,Vents d'Autan,17
+2298503,19:06:00,19:06:10,stop_point:SP_3035,Monts du Forez,18
+2298503,19:07:00,19:07:10,stop_point:SP_3406,Piscine,19
+2298503,19:08:00,19:08:10,stop_point:SP_677,Aspin,20
+2298503,19:08:00,19:08:10,stop_point:SP_29,Vence,21
+2298503,19:09:00,19:09:10,stop_point:SP_1788,Vallauris,22
+2298503,19:10:00,19:10:10,stop_point:SP_854,St-Tropez,23
+2298503,19:10:00,19:10:10,stop_point:SP_2411,Calicéo,24
+2298503,19:11:00,19:11:10,stop_point:SP_2219,Ratalens,25
+2298503,19:12:00,19:12:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298504,20:00:00,20:00:10,stop_point:SP_1227,Argoulets,1
+2298504,20:01:00,20:01:10,stop_point:SP_1173,Cambard,2
+2298504,20:03:00,20:03:10,stop_point:SP_890,Vasseur,3
+2298504,20:04:00,20:04:10,stop_point:SP_910,Ohnet,4
+2298504,20:04:00,20:04:10,stop_point:SP_2148,Caunes,5
+2298504,20:05:00,20:05:10,stop_point:SP_1303,Atlanta,6
+2298504,20:07:00,20:07:10,stop_point:SP_2827,St-Caprais,7
+2298504,20:09:00,20:09:10,stop_point:SP_1156,Cerbère,8
+2298504,20:10:00,20:10:10,stop_point:SP_1898,La Palme,9
+2298504,20:10:00,20:10:10,stop_point:SP_248,La Franqui,10
+2298504,20:11:00,20:11:10,stop_point:SP_242,Orthez,11
+2298504,20:12:00,20:12:10,stop_point:SP_4786,Hasparren,12
+2298504,20:13:00,20:13:10,stop_point:SP_2571,Montcalm,13
+2298504,20:14:00,20:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298504,20:14:00,20:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298504,20:15:00,20:15:10,stop_point:SP_3517,Grive,16
+2298504,20:16:00,20:16:10,stop_point:SP_268,Vents d'Autan,17
+2298504,20:16:00,20:16:10,stop_point:SP_3035,Monts du Forez,18
+2298504,20:17:00,20:17:10,stop_point:SP_3406,Piscine,19
+2298504,20:18:00,20:18:10,stop_point:SP_677,Aspin,20
+2298504,20:18:00,20:18:10,stop_point:SP_29,Vence,21
+2298504,20:19:00,20:19:10,stop_point:SP_1788,Vallauris,22
+2298504,20:20:00,20:20:10,stop_point:SP_854,St-Tropez,23
+2298504,20:20:00,20:20:10,stop_point:SP_2411,Calicéo,24
+2298504,20:21:00,20:21:10,stop_point:SP_2219,Ratalens,25
+2298504,20:22:00,20:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298505,07:23:00,07:23:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298505,07:24:00,07:24:10,stop_point:SP_2535,Ratalens,2
+2298505,07:25:00,07:25:10,stop_point:SP_250,Calicéo,3
+2298505,07:25:00,07:25:10,stop_point:SP_1892,St-Tropez,4
+2298505,07:25:00,07:25:10,stop_point:SP_3286,Vallauris,5
+2298505,07:26:00,07:26:10,stop_point:SP_3503,Vence,6
+2298505,07:27:00,07:27:10,stop_point:SP_150,Aspin,7
+2298505,07:27:00,07:27:10,stop_point:SP_342,Piscine,8
+2298505,07:28:00,07:28:10,stop_point:SP_1833,Monts du Forez,9
+2298505,07:28:00,07:28:10,stop_point:SP_1505,Vents d'Autan,10
+2298505,07:29:00,07:29:10,stop_point:SP_2232,Grive,11
+2298505,07:30:00,07:30:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298505,07:30:00,07:30:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298505,07:31:00,07:31:10,stop_point:SP_1320,Montcalm,14
+2298505,07:31:00,07:31:10,stop_point:SP_4788,Hasparren,15
+2298505,07:32:00,07:32:10,stop_point:SP_2050,Orthez,16
+2298505,07:33:00,07:33:10,stop_point:SP_852,La Franqui,17
+2298505,07:34:00,07:34:10,stop_point:SP_995,La Palme,18
+2298505,07:34:00,07:34:10,stop_point:SP_1834,Cerbère,19
+2298505,07:35:00,07:35:10,stop_point:SP_2732,Bayonne,20
+2298505,07:36:00,07:36:10,stop_point:SP_4789,St-Caprais,21
+2298505,07:37:00,07:37:10,stop_point:SP_1296,Atlanta,22
+2298505,07:38:00,07:38:10,stop_point:SP_2974,Caunes,23
+2298505,07:39:00,07:39:10,stop_point:SP_3944,Ohnet,24
+2298505,07:40:00,07:40:10,stop_point:SP_2359,Vasseur,25
+2298505,07:43:00,07:43:10,stop_point:SP_3647,Cambard,26
+2298505,07:45:00,07:45:10,stop_point:SP_1227,Argoulets,27
+2298506,08:28:00,08:28:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298506,08:29:00,08:29:10,stop_point:SP_2535,Ratalens,2
+2298506,08:30:00,08:30:10,stop_point:SP_250,Calicéo,3
+2298506,08:30:00,08:30:10,stop_point:SP_1892,St-Tropez,4
+2298506,08:30:00,08:30:10,stop_point:SP_3286,Vallauris,5
+2298506,08:31:00,08:31:10,stop_point:SP_3503,Vence,6
+2298506,08:32:00,08:32:10,stop_point:SP_150,Aspin,7
+2298506,08:32:00,08:32:10,stop_point:SP_342,Piscine,8
+2298506,08:33:00,08:33:10,stop_point:SP_1833,Monts du Forez,9
+2298506,08:33:00,08:33:10,stop_point:SP_1505,Vents d'Autan,10
+2298506,08:34:00,08:34:10,stop_point:SP_2232,Grive,11
+2298506,08:35:00,08:35:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298506,08:35:00,08:35:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298506,08:36:00,08:36:10,stop_point:SP_1320,Montcalm,14
+2298506,08:36:00,08:36:10,stop_point:SP_4788,Hasparren,15
+2298506,08:37:00,08:37:10,stop_point:SP_2050,Orthez,16
+2298506,08:38:00,08:38:10,stop_point:SP_852,La Franqui,17
+2298506,08:39:00,08:39:10,stop_point:SP_995,La Palme,18
+2298506,08:39:00,08:39:10,stop_point:SP_1834,Cerbère,19
+2298506,08:40:00,08:40:10,stop_point:SP_2732,Bayonne,20
+2298506,08:41:00,08:41:10,stop_point:SP_4789,St-Caprais,21
+2298506,08:42:00,08:42:10,stop_point:SP_1296,Atlanta,22
+2298506,08:43:00,08:43:10,stop_point:SP_2974,Caunes,23
+2298506,08:44:00,08:44:10,stop_point:SP_3944,Ohnet,24
+2298506,08:45:00,08:45:10,stop_point:SP_2359,Vasseur,25
+2298506,08:48:00,08:48:10,stop_point:SP_3647,Cambard,26
+2298506,08:50:00,08:50:10,stop_point:SP_1227,Argoulets,27
+2298507,09:33:00,09:33:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298507,09:34:00,09:34:10,stop_point:SP_2535,Ratalens,2
+2298507,09:35:00,09:35:10,stop_point:SP_250,Calicéo,3
+2298507,09:35:00,09:35:10,stop_point:SP_1892,St-Tropez,4
+2298507,09:36:00,09:36:10,stop_point:SP_3286,Vallauris,5
+2298507,09:37:00,09:37:10,stop_point:SP_3503,Vence,6
+2298507,09:38:00,09:38:10,stop_point:SP_150,Aspin,7
+2298507,09:38:00,09:38:10,stop_point:SP_342,Piscine,8
+2298507,09:39:00,09:39:10,stop_point:SP_1833,Monts du Forez,9
+2298507,09:39:00,09:39:10,stop_point:SP_1505,Vents d'Autan,10
+2298507,09:40:00,09:40:10,stop_point:SP_2232,Grive,11
+2298507,09:41:00,09:41:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298507,09:41:00,09:41:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298507,09:42:00,09:42:10,stop_point:SP_1320,Montcalm,14
+2298507,09:42:00,09:42:10,stop_point:SP_4788,Hasparren,15
+2298507,09:43:00,09:43:10,stop_point:SP_2050,Orthez,16
+2298507,09:44:00,09:44:10,stop_point:SP_852,La Franqui,17
+2298507,09:45:00,09:45:10,stop_point:SP_995,La Palme,18
+2298507,09:45:00,09:45:10,stop_point:SP_1834,Cerbère,19
+2298507,09:46:00,09:46:10,stop_point:SP_2732,Bayonne,20
+2298507,09:47:00,09:47:10,stop_point:SP_4789,St-Caprais,21
+2298507,09:48:00,09:48:10,stop_point:SP_1296,Atlanta,22
+2298507,09:49:00,09:49:10,stop_point:SP_2974,Caunes,23
+2298507,09:50:00,09:50:10,stop_point:SP_3944,Ohnet,24
+2298507,09:51:00,09:51:10,stop_point:SP_2359,Vasseur,25
+2298507,09:54:00,09:54:10,stop_point:SP_3647,Cambard,26
+2298507,09:56:00,09:56:10,stop_point:SP_1227,Argoulets,27
+2298508,10:38:00,10:38:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298508,10:39:00,10:39:10,stop_point:SP_2535,Ratalens,2
+2298508,10:40:00,10:40:10,stop_point:SP_250,Calicéo,3
+2298508,10:40:00,10:40:10,stop_point:SP_1892,St-Tropez,4
+2298508,10:41:00,10:41:10,stop_point:SP_3286,Vallauris,5
+2298508,10:42:00,10:42:10,stop_point:SP_3503,Vence,6
+2298508,10:43:00,10:43:10,stop_point:SP_150,Aspin,7
+2298508,10:43:00,10:43:10,stop_point:SP_342,Piscine,8
+2298508,10:44:00,10:44:10,stop_point:SP_1833,Monts du Forez,9
+2298508,10:44:00,10:44:10,stop_point:SP_1505,Vents d'Autan,10
+2298508,10:45:00,10:45:10,stop_point:SP_2232,Grive,11
+2298508,10:46:00,10:46:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298508,10:46:00,10:46:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298508,10:47:00,10:47:10,stop_point:SP_1320,Montcalm,14
+2298508,10:47:00,10:47:10,stop_point:SP_4788,Hasparren,15
+2298508,10:48:00,10:48:10,stop_point:SP_2050,Orthez,16
+2298508,10:49:00,10:49:10,stop_point:SP_852,La Franqui,17
+2298508,10:50:00,10:50:10,stop_point:SP_995,La Palme,18
+2298508,10:50:00,10:50:10,stop_point:SP_1834,Cerbère,19
+2298508,10:51:00,10:51:10,stop_point:SP_2732,Bayonne,20
+2298508,10:52:00,10:52:10,stop_point:SP_4789,St-Caprais,21
+2298508,10:53:00,10:53:10,stop_point:SP_1296,Atlanta,22
+2298508,10:54:00,10:54:10,stop_point:SP_2974,Caunes,23
+2298508,10:55:00,10:55:10,stop_point:SP_3944,Ohnet,24
+2298508,10:56:00,10:56:10,stop_point:SP_2359,Vasseur,25
+2298508,10:59:00,10:59:10,stop_point:SP_3647,Cambard,26
+2298508,11:01:00,11:01:10,stop_point:SP_1227,Argoulets,27
+2298509,11:43:00,11:43:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298509,11:44:00,11:44:10,stop_point:SP_2535,Ratalens,2
+2298509,11:45:00,11:45:10,stop_point:SP_250,Calicéo,3
+2298509,11:45:00,11:45:10,stop_point:SP_1892,St-Tropez,4
+2298509,11:46:00,11:46:10,stop_point:SP_3286,Vallauris,5
+2298509,11:47:00,11:47:10,stop_point:SP_3503,Vence,6
+2298509,11:48:00,11:48:10,stop_point:SP_150,Aspin,7
+2298509,11:48:00,11:48:10,stop_point:SP_342,Piscine,8
+2298509,11:49:00,11:49:10,stop_point:SP_1833,Monts du Forez,9
+2298509,11:49:00,11:49:10,stop_point:SP_1505,Vents d'Autan,10
+2298509,11:50:00,11:50:10,stop_point:SP_2232,Grive,11
+2298509,11:51:00,11:51:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298509,11:51:00,11:51:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298509,11:52:00,11:52:10,stop_point:SP_1320,Montcalm,14
+2298509,11:52:00,11:52:10,stop_point:SP_4788,Hasparren,15
+2298509,11:53:00,11:53:10,stop_point:SP_2050,Orthez,16
+2298509,11:54:00,11:54:10,stop_point:SP_852,La Franqui,17
+2298509,11:55:00,11:55:10,stop_point:SP_995,La Palme,18
+2298509,11:55:00,11:55:10,stop_point:SP_1834,Cerbère,19
+2298509,11:56:00,11:56:10,stop_point:SP_2732,Bayonne,20
+2298509,11:57:00,11:57:10,stop_point:SP_4789,St-Caprais,21
+2298509,11:58:00,11:58:10,stop_point:SP_1296,Atlanta,22
+2298509,11:59:00,11:59:10,stop_point:SP_2974,Caunes,23
+2298509,12:00:00,12:00:10,stop_point:SP_3944,Ohnet,24
+2298509,12:01:00,12:01:10,stop_point:SP_2359,Vasseur,25
+2298509,12:04:00,12:04:10,stop_point:SP_3647,Cambard,26
+2298509,12:06:00,12:06:10,stop_point:SP_1227,Argoulets,27
+2298510,12:48:00,12:48:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298510,12:49:00,12:49:10,stop_point:SP_2535,Ratalens,2
+2298510,12:50:00,12:50:10,stop_point:SP_250,Calicéo,3
+2298510,12:50:00,12:50:10,stop_point:SP_1892,St-Tropez,4
+2298510,12:50:00,12:50:10,stop_point:SP_3286,Vallauris,5
+2298510,12:51:00,12:51:10,stop_point:SP_3503,Vence,6
+2298510,12:52:00,12:52:10,stop_point:SP_150,Aspin,7
+2298510,12:52:00,12:52:10,stop_point:SP_342,Piscine,8
+2298510,12:53:00,12:53:10,stop_point:SP_1833,Monts du Forez,9
+2298510,12:53:00,12:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298510,12:54:00,12:54:10,stop_point:SP_2232,Grive,11
+2298510,12:55:00,12:55:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298510,12:55:00,12:55:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298510,12:56:00,12:56:10,stop_point:SP_1320,Montcalm,14
+2298510,12:56:00,12:56:10,stop_point:SP_4788,Hasparren,15
+2298510,12:57:00,12:57:10,stop_point:SP_2050,Orthez,16
+2298510,12:58:00,12:58:10,stop_point:SP_852,La Franqui,17
+2298510,12:59:00,12:59:10,stop_point:SP_995,La Palme,18
+2298510,12:59:00,12:59:10,stop_point:SP_1834,Cerbère,19
+2298510,13:00:00,13:00:10,stop_point:SP_2732,Bayonne,20
+2298510,13:01:00,13:01:10,stop_point:SP_4789,St-Caprais,21
+2298510,13:02:00,13:02:10,stop_point:SP_1296,Atlanta,22
+2298510,13:03:00,13:03:10,stop_point:SP_2974,Caunes,23
+2298510,13:04:00,13:04:10,stop_point:SP_3944,Ohnet,24
+2298510,13:05:00,13:05:10,stop_point:SP_2359,Vasseur,25
+2298510,13:08:00,13:08:10,stop_point:SP_3647,Cambard,26
+2298510,13:10:00,13:10:10,stop_point:SP_1227,Argoulets,27
+2298511,13:53:00,13:53:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298511,13:54:00,13:54:10,stop_point:SP_2535,Ratalens,2
+2298511,13:55:00,13:55:10,stop_point:SP_250,Calicéo,3
+2298511,13:55:00,13:55:10,stop_point:SP_1892,St-Tropez,4
+2298511,13:56:00,13:56:10,stop_point:SP_3286,Vallauris,5
+2298511,13:57:00,13:57:10,stop_point:SP_3503,Vence,6
+2298511,13:58:00,13:58:10,stop_point:SP_150,Aspin,7
+2298511,13:58:00,13:58:10,stop_point:SP_342,Piscine,8
+2298511,13:59:00,13:59:10,stop_point:SP_1833,Monts du Forez,9
+2298511,13:59:00,13:59:10,stop_point:SP_1505,Vents d'Autan,10
+2298511,14:00:00,14:00:10,stop_point:SP_2232,Grive,11
+2298511,14:01:00,14:01:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298511,14:01:00,14:01:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298511,14:02:00,14:02:10,stop_point:SP_1320,Montcalm,14
+2298511,14:02:00,14:02:10,stop_point:SP_4788,Hasparren,15
+2298511,14:03:00,14:03:10,stop_point:SP_2050,Orthez,16
+2298511,14:04:00,14:04:10,stop_point:SP_852,La Franqui,17
+2298511,14:05:00,14:05:10,stop_point:SP_995,La Palme,18
+2298511,14:05:00,14:05:10,stop_point:SP_1834,Cerbère,19
+2298511,14:06:00,14:06:10,stop_point:SP_2732,Bayonne,20
+2298511,14:07:00,14:07:10,stop_point:SP_4789,St-Caprais,21
+2298511,14:08:00,14:08:10,stop_point:SP_1296,Atlanta,22
+2298511,14:09:00,14:09:10,stop_point:SP_2974,Caunes,23
+2298511,14:10:00,14:10:10,stop_point:SP_3944,Ohnet,24
+2298511,14:11:00,14:11:10,stop_point:SP_2359,Vasseur,25
+2298511,14:14:00,14:14:10,stop_point:SP_3647,Cambard,26
+2298511,14:16:00,14:16:10,stop_point:SP_1227,Argoulets,27
+2298512,14:58:00,14:58:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298512,14:59:00,14:59:10,stop_point:SP_2535,Ratalens,2
+2298512,15:00:00,15:00:10,stop_point:SP_250,Calicéo,3
+2298512,15:00:00,15:00:10,stop_point:SP_1892,St-Tropez,4
+2298512,15:01:00,15:01:10,stop_point:SP_3286,Vallauris,5
+2298512,15:02:00,15:02:10,stop_point:SP_3503,Vence,6
+2298512,15:03:00,15:03:10,stop_point:SP_150,Aspin,7
+2298512,15:03:00,15:03:10,stop_point:SP_342,Piscine,8
+2298512,15:04:00,15:04:10,stop_point:SP_1833,Monts du Forez,9
+2298512,15:04:00,15:04:10,stop_point:SP_1505,Vents d'Autan,10
+2298512,15:05:00,15:05:10,stop_point:SP_2232,Grive,11
+2298512,15:06:00,15:06:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298512,15:06:00,15:06:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298512,15:07:00,15:07:10,stop_point:SP_1320,Montcalm,14
+2298512,15:07:00,15:07:10,stop_point:SP_4788,Hasparren,15
+2298512,15:08:00,15:08:10,stop_point:SP_2050,Orthez,16
+2298512,15:09:00,15:09:10,stop_point:SP_852,La Franqui,17
+2298512,15:10:00,15:10:10,stop_point:SP_995,La Palme,18
+2298512,15:10:00,15:10:10,stop_point:SP_1834,Cerbère,19
+2298512,15:11:00,15:11:10,stop_point:SP_2732,Bayonne,20
+2298512,15:12:00,15:12:10,stop_point:SP_4789,St-Caprais,21
+2298512,15:13:00,15:13:10,stop_point:SP_1296,Atlanta,22
+2298512,15:14:00,15:14:10,stop_point:SP_2974,Caunes,23
+2298512,15:15:00,15:15:10,stop_point:SP_3944,Ohnet,24
+2298512,15:16:00,15:16:10,stop_point:SP_2359,Vasseur,25
+2298512,15:19:00,15:19:10,stop_point:SP_3647,Cambard,26
+2298512,15:21:00,15:21:10,stop_point:SP_1227,Argoulets,27
+2298513,16:03:00,16:03:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298513,16:04:00,16:04:10,stop_point:SP_2535,Ratalens,2
+2298513,16:05:00,16:05:10,stop_point:SP_250,Calicéo,3
+2298513,16:05:00,16:05:10,stop_point:SP_1892,St-Tropez,4
+2298513,16:06:00,16:06:10,stop_point:SP_3286,Vallauris,5
+2298513,16:07:00,16:07:10,stop_point:SP_3503,Vence,6
+2298513,16:08:00,16:08:10,stop_point:SP_150,Aspin,7
+2298513,16:08:00,16:08:10,stop_point:SP_342,Piscine,8
+2298513,16:09:00,16:09:10,stop_point:SP_1833,Monts du Forez,9
+2298513,16:09:00,16:09:10,stop_point:SP_1505,Vents d'Autan,10
+2298513,16:10:00,16:10:10,stop_point:SP_2232,Grive,11
+2298513,16:11:00,16:11:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298513,16:11:00,16:11:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298513,16:12:00,16:12:10,stop_point:SP_1320,Montcalm,14
+2298513,16:12:00,16:12:10,stop_point:SP_4788,Hasparren,15
+2298513,16:13:00,16:13:10,stop_point:SP_2050,Orthez,16
+2298513,16:14:00,16:14:10,stop_point:SP_852,La Franqui,17
+2298513,16:15:00,16:15:10,stop_point:SP_995,La Palme,18
+2298513,16:15:00,16:15:10,stop_point:SP_1834,Cerbère,19
+2298513,16:16:00,16:16:10,stop_point:SP_2732,Bayonne,20
+2298513,16:17:00,16:17:10,stop_point:SP_4789,St-Caprais,21
+2298513,16:18:00,16:18:10,stop_point:SP_1296,Atlanta,22
+2298513,16:19:00,16:19:10,stop_point:SP_2974,Caunes,23
+2298513,16:20:00,16:20:10,stop_point:SP_3944,Ohnet,24
+2298513,16:21:00,16:21:10,stop_point:SP_2359,Vasseur,25
+2298513,16:24:00,16:24:10,stop_point:SP_3647,Cambard,26
+2298513,16:26:00,16:26:10,stop_point:SP_1227,Argoulets,27
+2298514,17:08:00,17:08:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298514,17:09:00,17:09:10,stop_point:SP_2535,Ratalens,2
+2298514,17:10:00,17:10:10,stop_point:SP_250,Calicéo,3
+2298514,17:10:00,17:10:10,stop_point:SP_1892,St-Tropez,4
+2298514,17:11:00,17:11:10,stop_point:SP_3286,Vallauris,5
+2298514,17:12:00,17:12:10,stop_point:SP_3503,Vence,6
+2298514,17:13:00,17:13:10,stop_point:SP_150,Aspin,7
+2298514,17:13:00,17:13:10,stop_point:SP_342,Piscine,8
+2298514,17:14:00,17:14:10,stop_point:SP_1833,Monts du Forez,9
+2298514,17:14:00,17:14:10,stop_point:SP_1505,Vents d'Autan,10
+2298514,17:15:00,17:15:10,stop_point:SP_2232,Grive,11
+2298514,17:16:00,17:16:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298514,17:16:00,17:16:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298514,17:17:00,17:17:10,stop_point:SP_1320,Montcalm,14
+2298514,17:17:00,17:17:10,stop_point:SP_4788,Hasparren,15
+2298514,17:18:00,17:18:10,stop_point:SP_2050,Orthez,16
+2298514,17:19:00,17:19:10,stop_point:SP_852,La Franqui,17
+2298514,17:20:00,17:20:10,stop_point:SP_995,La Palme,18
+2298514,17:20:00,17:20:10,stop_point:SP_1834,Cerbère,19
+2298514,17:21:00,17:21:10,stop_point:SP_2732,Bayonne,20
+2298514,17:22:00,17:22:10,stop_point:SP_4789,St-Caprais,21
+2298514,17:23:00,17:23:10,stop_point:SP_1296,Atlanta,22
+2298514,17:24:00,17:24:10,stop_point:SP_2974,Caunes,23
+2298514,17:25:00,17:25:10,stop_point:SP_3944,Ohnet,24
+2298514,17:26:00,17:26:10,stop_point:SP_2359,Vasseur,25
+2298514,17:29:00,17:29:10,stop_point:SP_3647,Cambard,26
+2298514,17:31:00,17:31:10,stop_point:SP_1227,Argoulets,27
+2298515,18:13:00,18:13:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298515,18:14:00,18:14:10,stop_point:SP_2535,Ratalens,2
+2298515,18:15:00,18:15:10,stop_point:SP_250,Calicéo,3
+2298515,18:15:00,18:15:10,stop_point:SP_1892,St-Tropez,4
+2298515,18:16:00,18:16:10,stop_point:SP_3286,Vallauris,5
+2298515,18:17:00,18:17:10,stop_point:SP_3503,Vence,6
+2298515,18:18:00,18:18:10,stop_point:SP_150,Aspin,7
+2298515,18:18:00,18:18:10,stop_point:SP_342,Piscine,8
+2298515,18:19:00,18:19:10,stop_point:SP_1833,Monts du Forez,9
+2298515,18:19:00,18:19:10,stop_point:SP_1505,Vents d'Autan,10
+2298515,18:20:00,18:20:10,stop_point:SP_2232,Grive,11
+2298515,18:21:00,18:21:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298515,18:21:00,18:21:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298515,18:22:00,18:22:10,stop_point:SP_1320,Montcalm,14
+2298515,18:22:00,18:22:10,stop_point:SP_4788,Hasparren,15
+2298515,18:23:00,18:23:10,stop_point:SP_2050,Orthez,16
+2298515,18:24:00,18:24:10,stop_point:SP_852,La Franqui,17
+2298515,18:25:00,18:25:10,stop_point:SP_995,La Palme,18
+2298515,18:25:00,18:25:10,stop_point:SP_1834,Cerbère,19
+2298515,18:26:00,18:26:10,stop_point:SP_2732,Bayonne,20
+2298515,18:27:00,18:27:10,stop_point:SP_4789,St-Caprais,21
+2298515,18:28:00,18:28:10,stop_point:SP_1296,Atlanta,22
+2298515,18:29:00,18:29:10,stop_point:SP_2974,Caunes,23
+2298515,18:30:00,18:30:10,stop_point:SP_3944,Ohnet,24
+2298515,18:31:00,18:31:10,stop_point:SP_2359,Vasseur,25
+2298515,18:34:00,18:34:10,stop_point:SP_3647,Cambard,26
+2298515,18:36:00,18:36:10,stop_point:SP_1227,Argoulets,27
+2298516,19:20:00,19:20:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298516,19:21:00,19:21:10,stop_point:SP_2535,Ratalens,2
+2298516,19:22:00,19:22:10,stop_point:SP_250,Calicéo,3
+2298516,19:22:00,19:22:10,stop_point:SP_1892,St-Tropez,4
+2298516,19:22:00,19:22:10,stop_point:SP_3286,Vallauris,5
+2298516,19:23:00,19:23:10,stop_point:SP_3503,Vence,6
+2298516,19:24:00,19:24:10,stop_point:SP_150,Aspin,7
+2298516,19:24:00,19:24:10,stop_point:SP_342,Piscine,8
+2298516,19:25:00,19:25:10,stop_point:SP_1833,Monts du Forez,9
+2298516,19:25:00,19:25:10,stop_point:SP_1505,Vents d'Autan,10
+2298516,19:26:00,19:26:10,stop_point:SP_2232,Grive,11
+2298516,19:27:00,19:27:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298516,19:27:00,19:27:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298516,19:28:00,19:28:10,stop_point:SP_1320,Montcalm,14
+2298516,19:28:00,19:28:10,stop_point:SP_4788,Hasparren,15
+2298516,19:29:00,19:29:10,stop_point:SP_2050,Orthez,16
+2298516,19:30:00,19:30:10,stop_point:SP_852,La Franqui,17
+2298516,19:31:00,19:31:10,stop_point:SP_995,La Palme,18
+2298516,19:31:00,19:31:10,stop_point:SP_1834,Cerbère,19
+2298516,19:32:00,19:32:10,stop_point:SP_2732,Bayonne,20
+2298516,19:33:00,19:33:10,stop_point:SP_4789,St-Caprais,21
+2298516,19:34:00,19:34:10,stop_point:SP_1296,Atlanta,22
+2298516,19:35:00,19:35:10,stop_point:SP_2974,Caunes,23
+2298516,19:36:00,19:36:10,stop_point:SP_3944,Ohnet,24
+2298516,19:37:00,19:37:10,stop_point:SP_2359,Vasseur,25
+2298516,19:40:00,19:40:10,stop_point:SP_3647,Cambard,26
+2298516,19:42:00,19:42:10,stop_point:SP_1227,Argoulets,27
+2298517,06:10:00,06:10:10,stop_point:SP_1227,Argoulets,1
+2298517,06:11:00,06:11:10,stop_point:SP_1173,Cambard,2
+2298517,06:13:00,06:13:10,stop_point:SP_890,Vasseur,3
+2298517,06:14:00,06:14:10,stop_point:SP_910,Ohnet,4
+2298517,06:14:00,06:14:10,stop_point:SP_2148,Caunes,5
+2298517,06:15:00,06:15:10,stop_point:SP_1303,Atlanta,6
+2298517,06:16:00,06:16:10,stop_point:SP_2827,St-Caprais,7
+2298517,06:17:00,06:17:10,stop_point:SP_1156,Cerbère,8
+2298517,06:18:00,06:18:10,stop_point:SP_1898,La Palme,9
+2298517,06:19:00,06:19:10,stop_point:SP_248,La Franqui,10
+2298517,06:19:00,06:19:10,stop_point:SP_242,Orthez,11
+2298517,06:20:00,06:20:10,stop_point:SP_4786,Hasparren,12
+2298517,06:21:00,06:21:10,stop_point:SP_2571,Montcalm,13
+2298517,06:22:00,06:22:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298517,06:23:00,06:23:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298517,06:24:00,06:24:10,stop_point:SP_3517,Grive,16
+2298517,06:25:00,06:25:10,stop_point:SP_268,Vents d'Autan,17
+2298517,06:25:00,06:25:10,stop_point:SP_3035,Monts du Forez,18
+2298517,06:26:00,06:26:10,stop_point:SP_3406,Piscine,19
+2298517,06:27:00,06:27:10,stop_point:SP_677,Aspin,20
+2298517,06:27:00,06:27:10,stop_point:SP_29,Vence,21
+2298517,06:28:00,06:28:10,stop_point:SP_1788,Vallauris,22
+2298517,06:29:00,06:29:10,stop_point:SP_854,St-Tropez,23
+2298517,06:29:00,06:29:10,stop_point:SP_2411,Calicéo,24
+2298517,06:30:00,06:30:10,stop_point:SP_2219,Ratalens,25
+2298517,06:31:00,06:31:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298518,06:40:00,06:40:10,stop_point:SP_1227,Argoulets,1
+2298518,06:41:00,06:41:10,stop_point:SP_1173,Cambard,2
+2298518,06:43:00,06:43:10,stop_point:SP_890,Vasseur,3
+2298518,06:44:00,06:44:10,stop_point:SP_910,Ohnet,4
+2298518,06:44:00,06:44:10,stop_point:SP_2148,Caunes,5
+2298518,06:45:00,06:45:10,stop_point:SP_1303,Atlanta,6
+2298518,06:46:00,06:46:10,stop_point:SP_2827,St-Caprais,7
+2298518,06:47:00,06:47:10,stop_point:SP_1156,Cerbère,8
+2298518,06:48:00,06:48:10,stop_point:SP_1898,La Palme,9
+2298518,06:49:00,06:49:10,stop_point:SP_248,La Franqui,10
+2298518,06:49:00,06:49:10,stop_point:SP_242,Orthez,11
+2298518,06:50:00,06:50:10,stop_point:SP_4786,Hasparren,12
+2298518,06:51:00,06:51:10,stop_point:SP_2571,Montcalm,13
+2298518,06:52:00,06:52:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298518,06:53:00,06:53:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298518,06:54:00,06:54:10,stop_point:SP_3517,Grive,16
+2298518,06:55:00,06:55:10,stop_point:SP_268,Vents d'Autan,17
+2298518,06:55:00,06:55:10,stop_point:SP_3035,Monts du Forez,18
+2298518,06:56:00,06:56:10,stop_point:SP_3406,Piscine,19
+2298518,06:57:00,06:57:10,stop_point:SP_677,Aspin,20
+2298518,06:57:00,06:57:10,stop_point:SP_29,Vence,21
+2298518,06:58:00,06:58:10,stop_point:SP_1788,Vallauris,22
+2298518,06:59:00,06:59:10,stop_point:SP_854,St-Tropez,23
+2298518,06:59:00,06:59:10,stop_point:SP_2411,Calicéo,24
+2298518,07:00:00,07:00:10,stop_point:SP_2219,Ratalens,25
+2298518,07:01:00,07:01:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298519,07:10:00,07:10:10,stop_point:SP_1227,Argoulets,1
+2298519,07:12:00,07:12:10,stop_point:SP_1173,Cambard,2
+2298519,07:14:00,07:14:10,stop_point:SP_890,Vasseur,3
+2298519,07:15:00,07:15:10,stop_point:SP_910,Ohnet,4
+2298519,07:15:00,07:15:10,stop_point:SP_2148,Caunes,5
+2298519,07:16:00,07:16:10,stop_point:SP_1303,Atlanta,6
+2298519,07:17:00,07:17:10,stop_point:SP_2827,St-Caprais,7
+2298519,07:18:00,07:18:10,stop_point:SP_1156,Cerbère,8
+2298519,07:19:00,07:19:10,stop_point:SP_1898,La Palme,9
+2298519,07:20:00,07:20:10,stop_point:SP_248,La Franqui,10
+2298519,07:20:00,07:20:10,stop_point:SP_242,Orthez,11
+2298519,07:21:00,07:21:10,stop_point:SP_4786,Hasparren,12
+2298519,07:22:00,07:22:10,stop_point:SP_2571,Montcalm,13
+2298519,07:23:00,07:23:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298519,07:24:00,07:24:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298519,07:25:00,07:25:10,stop_point:SP_3517,Grive,16
+2298519,07:26:00,07:26:10,stop_point:SP_268,Vents d'Autan,17
+2298519,07:26:00,07:26:10,stop_point:SP_3035,Monts du Forez,18
+2298519,07:27:00,07:27:10,stop_point:SP_3406,Piscine,19
+2298519,07:28:00,07:28:10,stop_point:SP_677,Aspin,20
+2298519,07:28:00,07:28:10,stop_point:SP_29,Vence,21
+2298519,07:29:00,07:29:10,stop_point:SP_1788,Vallauris,22
+2298519,07:30:00,07:30:10,stop_point:SP_854,St-Tropez,23
+2298519,07:30:00,07:30:10,stop_point:SP_2411,Calicéo,24
+2298519,07:31:00,07:31:10,stop_point:SP_2219,Ratalens,25
+2298519,07:32:00,07:32:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298520,07:40:00,07:40:10,stop_point:SP_1227,Argoulets,1
+2298520,07:42:00,07:42:10,stop_point:SP_1173,Cambard,2
+2298520,07:44:00,07:44:10,stop_point:SP_890,Vasseur,3
+2298520,07:45:00,07:45:10,stop_point:SP_910,Ohnet,4
+2298520,07:45:00,07:45:10,stop_point:SP_2148,Caunes,5
+2298520,07:47:00,07:47:10,stop_point:SP_1303,Atlanta,6
+2298520,07:48:00,07:48:10,stop_point:SP_2827,St-Caprais,7
+2298520,07:49:00,07:49:10,stop_point:SP_1156,Cerbère,8
+2298520,07:50:00,07:50:10,stop_point:SP_1898,La Palme,9
+2298520,07:51:00,07:51:10,stop_point:SP_248,La Franqui,10
+2298520,07:51:00,07:51:10,stop_point:SP_242,Orthez,11
+2298520,07:52:00,07:52:10,stop_point:SP_4786,Hasparren,12
+2298520,07:53:00,07:53:10,stop_point:SP_2571,Montcalm,13
+2298520,07:54:00,07:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298520,07:55:00,07:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298520,07:56:00,07:56:10,stop_point:SP_3517,Grive,16
+2298520,07:57:00,07:57:10,stop_point:SP_268,Vents d'Autan,17
+2298520,07:57:00,07:57:10,stop_point:SP_3035,Monts du Forez,18
+2298520,07:58:00,07:58:10,stop_point:SP_3406,Piscine,19
+2298520,07:59:00,07:59:10,stop_point:SP_677,Aspin,20
+2298520,08:00:00,08:00:10,stop_point:SP_29,Vence,21
+2298520,08:01:00,08:01:10,stop_point:SP_1788,Vallauris,22
+2298520,08:01:00,08:01:10,stop_point:SP_854,St-Tropez,23
+2298520,08:02:00,08:02:10,stop_point:SP_2411,Calicéo,24
+2298520,08:03:00,08:03:10,stop_point:SP_2219,Ratalens,25
+2298520,08:04:00,08:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298521,08:10:00,08:10:10,stop_point:SP_1227,Argoulets,1
+2298521,08:12:00,08:12:10,stop_point:SP_1173,Cambard,2
+2298521,08:14:00,08:14:10,stop_point:SP_890,Vasseur,3
+2298521,08:15:00,08:15:10,stop_point:SP_910,Ohnet,4
+2298521,08:15:00,08:15:10,stop_point:SP_2148,Caunes,5
+2298521,08:17:00,08:17:10,stop_point:SP_1303,Atlanta,6
+2298521,08:19:00,08:19:10,stop_point:SP_2827,St-Caprais,7
+2298521,08:20:00,08:20:10,stop_point:SP_1156,Cerbère,8
+2298521,08:21:00,08:21:10,stop_point:SP_1898,La Palme,9
+2298521,08:22:00,08:22:10,stop_point:SP_248,La Franqui,10
+2298521,08:22:00,08:22:10,stop_point:SP_242,Orthez,11
+2298521,08:23:00,08:23:10,stop_point:SP_4786,Hasparren,12
+2298521,08:24:00,08:24:10,stop_point:SP_2571,Montcalm,13
+2298521,08:25:00,08:25:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298521,08:26:00,08:26:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298521,08:27:00,08:27:10,stop_point:SP_3517,Grive,16
+2298521,08:28:00,08:28:10,stop_point:SP_268,Vents d'Autan,17
+2298521,08:28:00,08:28:10,stop_point:SP_3035,Monts du Forez,18
+2298521,08:29:00,08:29:10,stop_point:SP_3406,Piscine,19
+2298521,08:30:00,08:30:10,stop_point:SP_677,Aspin,20
+2298521,08:31:00,08:31:10,stop_point:SP_29,Vence,21
+2298521,08:32:00,08:32:10,stop_point:SP_1788,Vallauris,22
+2298521,08:32:00,08:32:10,stop_point:SP_854,St-Tropez,23
+2298521,08:33:00,08:33:10,stop_point:SP_2411,Calicéo,24
+2298521,08:34:00,08:34:10,stop_point:SP_2219,Ratalens,25
+2298521,08:35:00,08:35:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298522,08:40:00,08:40:10,stop_point:SP_1227,Argoulets,1
+2298522,08:42:00,08:42:10,stop_point:SP_1173,Cambard,2
+2298522,08:44:00,08:44:10,stop_point:SP_890,Vasseur,3
+2298522,08:45:00,08:45:10,stop_point:SP_910,Ohnet,4
+2298522,08:45:00,08:45:10,stop_point:SP_2148,Caunes,5
+2298522,08:47:00,08:47:10,stop_point:SP_1303,Atlanta,6
+2298522,08:49:00,08:49:10,stop_point:SP_2827,St-Caprais,7
+2298522,08:50:00,08:50:10,stop_point:SP_1156,Cerbère,8
+2298522,08:51:00,08:51:10,stop_point:SP_1898,La Palme,9
+2298522,08:52:00,08:52:10,stop_point:SP_248,La Franqui,10
+2298522,08:52:00,08:52:10,stop_point:SP_242,Orthez,11
+2298522,08:53:00,08:53:10,stop_point:SP_4786,Hasparren,12
+2298522,08:54:00,08:54:10,stop_point:SP_2571,Montcalm,13
+2298522,08:55:00,08:55:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298522,08:56:00,08:56:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298522,08:57:00,08:57:10,stop_point:SP_3517,Grive,16
+2298522,08:58:00,08:58:10,stop_point:SP_268,Vents d'Autan,17
+2298522,08:58:00,08:58:10,stop_point:SP_3035,Monts du Forez,18
+2298522,08:59:00,08:59:10,stop_point:SP_3406,Piscine,19
+2298522,09:00:00,09:00:10,stop_point:SP_677,Aspin,20
+2298522,09:01:00,09:01:10,stop_point:SP_29,Vence,21
+2298522,09:02:00,09:02:10,stop_point:SP_1788,Vallauris,22
+2298522,09:02:00,09:02:10,stop_point:SP_854,St-Tropez,23
+2298522,09:03:00,09:03:10,stop_point:SP_2411,Calicéo,24
+2298522,09:04:00,09:04:10,stop_point:SP_2219,Ratalens,25
+2298522,09:05:00,09:05:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298523,09:10:00,09:10:10,stop_point:SP_1227,Argoulets,1
+2298523,09:12:00,09:12:10,stop_point:SP_1173,Cambard,2
+2298523,09:14:00,09:14:10,stop_point:SP_890,Vasseur,3
+2298523,09:15:00,09:15:10,stop_point:SP_910,Ohnet,4
+2298523,09:15:00,09:15:10,stop_point:SP_2148,Caunes,5
+2298523,09:17:00,09:17:10,stop_point:SP_1303,Atlanta,6
+2298523,09:19:00,09:19:10,stop_point:SP_2827,St-Caprais,7
+2298523,09:20:00,09:20:10,stop_point:SP_1156,Cerbère,8
+2298523,09:21:00,09:21:10,stop_point:SP_1898,La Palme,9
+2298523,09:22:00,09:22:10,stop_point:SP_248,La Franqui,10
+2298523,09:22:00,09:22:10,stop_point:SP_242,Orthez,11
+2298523,09:23:00,09:23:10,stop_point:SP_4786,Hasparren,12
+2298523,09:24:00,09:24:10,stop_point:SP_2571,Montcalm,13
+2298523,09:25:00,09:25:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298523,09:26:00,09:26:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298523,09:27:00,09:27:10,stop_point:SP_3517,Grive,16
+2298523,09:28:00,09:28:10,stop_point:SP_268,Vents d'Autan,17
+2298523,09:28:00,09:28:10,stop_point:SP_3035,Monts du Forez,18
+2298523,09:29:00,09:29:10,stop_point:SP_3406,Piscine,19
+2298523,09:30:00,09:30:10,stop_point:SP_677,Aspin,20
+2298523,09:31:00,09:31:10,stop_point:SP_29,Vence,21
+2298523,09:32:00,09:32:10,stop_point:SP_1788,Vallauris,22
+2298523,09:32:00,09:32:10,stop_point:SP_854,St-Tropez,23
+2298523,09:33:00,09:33:10,stop_point:SP_2411,Calicéo,24
+2298523,09:34:00,09:34:10,stop_point:SP_2219,Ratalens,25
+2298523,09:35:00,09:35:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298524,09:40:00,09:40:10,stop_point:SP_1227,Argoulets,1
+2298524,09:42:00,09:42:10,stop_point:SP_1173,Cambard,2
+2298524,09:44:00,09:44:10,stop_point:SP_890,Vasseur,3
+2298524,09:45:00,09:45:10,stop_point:SP_910,Ohnet,4
+2298524,09:45:00,09:45:10,stop_point:SP_2148,Caunes,5
+2298524,09:46:00,09:46:10,stop_point:SP_1303,Atlanta,6
+2298524,09:48:00,09:48:10,stop_point:SP_2827,St-Caprais,7
+2298524,09:49:00,09:49:10,stop_point:SP_1156,Cerbère,8
+2298524,09:50:00,09:50:10,stop_point:SP_1898,La Palme,9
+2298524,09:51:00,09:51:10,stop_point:SP_248,La Franqui,10
+2298524,09:51:00,09:51:10,stop_point:SP_242,Orthez,11
+2298524,09:52:00,09:52:10,stop_point:SP_4786,Hasparren,12
+2298524,09:53:00,09:53:10,stop_point:SP_2571,Montcalm,13
+2298524,09:54:00,09:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298524,09:55:00,09:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298524,09:56:00,09:56:10,stop_point:SP_3517,Grive,16
+2298524,09:57:00,09:57:10,stop_point:SP_268,Vents d'Autan,17
+2298524,09:57:00,09:57:10,stop_point:SP_3035,Monts du Forez,18
+2298524,09:58:00,09:58:10,stop_point:SP_3406,Piscine,19
+2298524,09:59:00,09:59:10,stop_point:SP_677,Aspin,20
+2298524,10:00:00,10:00:10,stop_point:SP_29,Vence,21
+2298524,10:01:00,10:01:10,stop_point:SP_1788,Vallauris,22
+2298524,10:01:00,10:01:10,stop_point:SP_854,St-Tropez,23
+2298524,10:02:00,10:02:10,stop_point:SP_2411,Calicéo,24
+2298524,10:03:00,10:03:10,stop_point:SP_2219,Ratalens,25
+2298524,10:04:00,10:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298525,10:10:00,10:10:10,stop_point:SP_1227,Argoulets,1
+2298525,10:12:00,10:12:10,stop_point:SP_1173,Cambard,2
+2298525,10:14:00,10:14:10,stop_point:SP_890,Vasseur,3
+2298525,10:15:00,10:15:10,stop_point:SP_910,Ohnet,4
+2298525,10:15:00,10:15:10,stop_point:SP_2148,Caunes,5
+2298525,10:16:00,10:16:10,stop_point:SP_1303,Atlanta,6
+2298525,10:18:00,10:18:10,stop_point:SP_2827,St-Caprais,7
+2298525,10:19:00,10:19:10,stop_point:SP_1156,Cerbère,8
+2298525,10:20:00,10:20:10,stop_point:SP_1898,La Palme,9
+2298525,10:21:00,10:21:10,stop_point:SP_248,La Franqui,10
+2298525,10:21:00,10:21:10,stop_point:SP_242,Orthez,11
+2298525,10:22:00,10:22:10,stop_point:SP_4786,Hasparren,12
+2298525,10:23:00,10:23:10,stop_point:SP_2571,Montcalm,13
+2298525,10:24:00,10:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298525,10:25:00,10:25:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298525,10:26:00,10:26:10,stop_point:SP_3517,Grive,16
+2298525,10:27:00,10:27:10,stop_point:SP_268,Vents d'Autan,17
+2298525,10:27:00,10:27:10,stop_point:SP_3035,Monts du Forez,18
+2298525,10:28:00,10:28:10,stop_point:SP_3406,Piscine,19
+2298525,10:29:00,10:29:10,stop_point:SP_677,Aspin,20
+2298525,10:30:00,10:30:10,stop_point:SP_29,Vence,21
+2298525,10:31:00,10:31:10,stop_point:SP_1788,Vallauris,22
+2298525,10:31:00,10:31:10,stop_point:SP_854,St-Tropez,23
+2298525,10:32:00,10:32:10,stop_point:SP_2411,Calicéo,24
+2298525,10:33:00,10:33:10,stop_point:SP_2219,Ratalens,25
+2298525,10:34:00,10:34:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298526,10:40:00,10:40:10,stop_point:SP_1227,Argoulets,1
+2298526,10:42:00,10:42:10,stop_point:SP_1173,Cambard,2
+2298526,10:44:00,10:44:10,stop_point:SP_890,Vasseur,3
+2298526,10:45:00,10:45:10,stop_point:SP_910,Ohnet,4
+2298526,10:45:00,10:45:10,stop_point:SP_2148,Caunes,5
+2298526,10:46:00,10:46:10,stop_point:SP_1303,Atlanta,6
+2298526,10:48:00,10:48:10,stop_point:SP_2827,St-Caprais,7
+2298526,10:49:00,10:49:10,stop_point:SP_1156,Cerbère,8
+2298526,10:50:00,10:50:10,stop_point:SP_1898,La Palme,9
+2298526,10:51:00,10:51:10,stop_point:SP_248,La Franqui,10
+2298526,10:51:00,10:51:10,stop_point:SP_242,Orthez,11
+2298526,10:52:00,10:52:10,stop_point:SP_4786,Hasparren,12
+2298526,10:53:00,10:53:10,stop_point:SP_2571,Montcalm,13
+2298526,10:54:00,10:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298526,10:55:00,10:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298526,10:56:00,10:56:10,stop_point:SP_3517,Grive,16
+2298526,10:57:00,10:57:10,stop_point:SP_268,Vents d'Autan,17
+2298526,10:57:00,10:57:10,stop_point:SP_3035,Monts du Forez,18
+2298526,10:58:00,10:58:10,stop_point:SP_3406,Piscine,19
+2298526,10:59:00,10:59:10,stop_point:SP_677,Aspin,20
+2298526,11:00:00,11:00:10,stop_point:SP_29,Vence,21
+2298526,11:01:00,11:01:10,stop_point:SP_1788,Vallauris,22
+2298526,11:01:00,11:01:10,stop_point:SP_854,St-Tropez,23
+2298526,11:02:00,11:02:10,stop_point:SP_2411,Calicéo,24
+2298526,11:03:00,11:03:10,stop_point:SP_2219,Ratalens,25
+2298526,11:04:00,11:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298527,11:10:00,11:10:10,stop_point:SP_1227,Argoulets,1
+2298527,11:12:00,11:12:10,stop_point:SP_1173,Cambard,2
+2298527,11:14:00,11:14:10,stop_point:SP_890,Vasseur,3
+2298527,11:15:00,11:15:10,stop_point:SP_910,Ohnet,4
+2298527,11:15:00,11:15:10,stop_point:SP_2148,Caunes,5
+2298527,11:16:00,11:16:10,stop_point:SP_1303,Atlanta,6
+2298527,11:18:00,11:18:10,stop_point:SP_2827,St-Caprais,7
+2298527,11:19:00,11:19:10,stop_point:SP_1156,Cerbère,8
+2298527,11:20:00,11:20:10,stop_point:SP_1898,La Palme,9
+2298527,11:21:00,11:21:10,stop_point:SP_248,La Franqui,10
+2298527,11:21:00,11:21:10,stop_point:SP_242,Orthez,11
+2298527,11:22:00,11:22:10,stop_point:SP_4786,Hasparren,12
+2298527,11:23:00,11:23:10,stop_point:SP_2571,Montcalm,13
+2298527,11:24:00,11:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298527,11:25:00,11:25:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298527,11:26:00,11:26:10,stop_point:SP_3517,Grive,16
+2298527,11:27:00,11:27:10,stop_point:SP_268,Vents d'Autan,17
+2298527,11:27:00,11:27:10,stop_point:SP_3035,Monts du Forez,18
+2298527,11:28:00,11:28:10,stop_point:SP_3406,Piscine,19
+2298527,11:29:00,11:29:10,stop_point:SP_677,Aspin,20
+2298527,11:30:00,11:30:10,stop_point:SP_29,Vence,21
+2298527,11:31:00,11:31:10,stop_point:SP_1788,Vallauris,22
+2298527,11:31:00,11:31:10,stop_point:SP_854,St-Tropez,23
+2298527,11:32:00,11:32:10,stop_point:SP_2411,Calicéo,24
+2298527,11:33:00,11:33:10,stop_point:SP_2219,Ratalens,25
+2298527,11:34:00,11:34:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298528,11:40:00,11:40:10,stop_point:SP_1227,Argoulets,1
+2298528,11:42:00,11:42:10,stop_point:SP_1173,Cambard,2
+2298528,11:44:00,11:44:10,stop_point:SP_890,Vasseur,3
+2298528,11:45:00,11:45:10,stop_point:SP_910,Ohnet,4
+2298528,11:45:00,11:45:10,stop_point:SP_2148,Caunes,5
+2298528,11:46:00,11:46:10,stop_point:SP_1303,Atlanta,6
+2298528,11:48:00,11:48:10,stop_point:SP_2827,St-Caprais,7
+2298528,11:49:00,11:49:10,stop_point:SP_1156,Cerbère,8
+2298528,11:50:00,11:50:10,stop_point:SP_1898,La Palme,9
+2298528,11:51:00,11:51:10,stop_point:SP_248,La Franqui,10
+2298528,11:51:00,11:51:10,stop_point:SP_242,Orthez,11
+2298528,11:52:00,11:52:10,stop_point:SP_4786,Hasparren,12
+2298528,11:53:00,11:53:10,stop_point:SP_2571,Montcalm,13
+2298528,11:54:00,11:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298528,11:55:00,11:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298528,11:56:00,11:56:10,stop_point:SP_3517,Grive,16
+2298528,11:57:00,11:57:10,stop_point:SP_268,Vents d'Autan,17
+2298528,11:57:00,11:57:10,stop_point:SP_3035,Monts du Forez,18
+2298528,11:58:00,11:58:10,stop_point:SP_3406,Piscine,19
+2298528,11:59:00,11:59:10,stop_point:SP_677,Aspin,20
+2298528,12:00:00,12:00:10,stop_point:SP_29,Vence,21
+2298528,12:01:00,12:01:10,stop_point:SP_1788,Vallauris,22
+2298528,12:01:00,12:01:10,stop_point:SP_854,St-Tropez,23
+2298528,12:02:00,12:02:10,stop_point:SP_2411,Calicéo,24
+2298528,12:03:00,12:03:10,stop_point:SP_2219,Ratalens,25
+2298528,12:04:00,12:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298529,12:10:00,12:10:10,stop_point:SP_1227,Argoulets,1
+2298529,12:12:00,12:12:10,stop_point:SP_1173,Cambard,2
+2298529,12:14:00,12:14:10,stop_point:SP_890,Vasseur,3
+2298529,12:15:00,12:15:10,stop_point:SP_910,Ohnet,4
+2298529,12:15:00,12:15:10,stop_point:SP_2148,Caunes,5
+2298529,12:16:00,12:16:10,stop_point:SP_1303,Atlanta,6
+2298529,12:18:00,12:18:10,stop_point:SP_2827,St-Caprais,7
+2298529,12:19:00,12:19:10,stop_point:SP_1156,Cerbère,8
+2298529,12:20:00,12:20:10,stop_point:SP_1898,La Palme,9
+2298529,12:21:00,12:21:10,stop_point:SP_248,La Franqui,10
+2298529,12:21:00,12:21:10,stop_point:SP_242,Orthez,11
+2298529,12:22:00,12:22:10,stop_point:SP_4786,Hasparren,12
+2298529,12:23:00,12:23:10,stop_point:SP_2571,Montcalm,13
+2298529,12:24:00,12:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298529,12:25:00,12:25:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298529,12:26:00,12:26:10,stop_point:SP_3517,Grive,16
+2298529,12:27:00,12:27:10,stop_point:SP_268,Vents d'Autan,17
+2298529,12:27:00,12:27:10,stop_point:SP_3035,Monts du Forez,18
+2298529,12:28:00,12:28:10,stop_point:SP_3406,Piscine,19
+2298529,12:29:00,12:29:10,stop_point:SP_677,Aspin,20
+2298529,12:30:00,12:30:10,stop_point:SP_29,Vence,21
+2298529,12:31:00,12:31:10,stop_point:SP_1788,Vallauris,22
+2298529,12:31:00,12:31:10,stop_point:SP_854,St-Tropez,23
+2298529,12:32:00,12:32:10,stop_point:SP_2411,Calicéo,24
+2298529,12:33:00,12:33:10,stop_point:SP_2219,Ratalens,25
+2298529,12:34:00,12:34:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298530,12:40:00,12:40:10,stop_point:SP_1227,Argoulets,1
+2298530,12:42:00,12:42:10,stop_point:SP_1173,Cambard,2
+2298530,12:44:00,12:44:10,stop_point:SP_890,Vasseur,3
+2298530,12:45:00,12:45:10,stop_point:SP_910,Ohnet,4
+2298530,12:45:00,12:45:10,stop_point:SP_2148,Caunes,5
+2298530,12:46:00,12:46:10,stop_point:SP_1303,Atlanta,6
+2298530,12:48:00,12:48:10,stop_point:SP_2827,St-Caprais,7
+2298530,12:49:00,12:49:10,stop_point:SP_1156,Cerbère,8
+2298530,12:50:00,12:50:10,stop_point:SP_1898,La Palme,9
+2298530,12:51:00,12:51:10,stop_point:SP_248,La Franqui,10
+2298530,12:51:00,12:51:10,stop_point:SP_242,Orthez,11
+2298530,12:52:00,12:52:10,stop_point:SP_4786,Hasparren,12
+2298530,12:53:00,12:53:10,stop_point:SP_2571,Montcalm,13
+2298530,12:54:00,12:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298530,12:55:00,12:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298530,12:56:00,12:56:10,stop_point:SP_3517,Grive,16
+2298530,12:57:00,12:57:10,stop_point:SP_268,Vents d'Autan,17
+2298530,12:57:00,12:57:10,stop_point:SP_3035,Monts du Forez,18
+2298530,12:58:00,12:58:10,stop_point:SP_3406,Piscine,19
+2298530,12:59:00,12:59:10,stop_point:SP_677,Aspin,20
+2298530,13:00:00,13:00:10,stop_point:SP_29,Vence,21
+2298530,13:01:00,13:01:10,stop_point:SP_1788,Vallauris,22
+2298530,13:01:00,13:01:10,stop_point:SP_854,St-Tropez,23
+2298530,13:02:00,13:02:10,stop_point:SP_2411,Calicéo,24
+2298530,13:03:00,13:03:10,stop_point:SP_2219,Ratalens,25
+2298530,13:04:00,13:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298531,13:10:00,13:10:10,stop_point:SP_1227,Argoulets,1
+2298531,13:12:00,13:12:10,stop_point:SP_1173,Cambard,2
+2298531,13:14:00,13:14:10,stop_point:SP_890,Vasseur,3
+2298531,13:15:00,13:15:10,stop_point:SP_910,Ohnet,4
+2298531,13:15:00,13:15:10,stop_point:SP_2148,Caunes,5
+2298531,13:16:00,13:16:10,stop_point:SP_1303,Atlanta,6
+2298531,13:18:00,13:18:10,stop_point:SP_2827,St-Caprais,7
+2298531,13:19:00,13:19:10,stop_point:SP_1156,Cerbère,8
+2298531,13:20:00,13:20:10,stop_point:SP_1898,La Palme,9
+2298531,13:21:00,13:21:10,stop_point:SP_248,La Franqui,10
+2298531,13:21:00,13:21:10,stop_point:SP_242,Orthez,11
+2298531,13:22:00,13:22:10,stop_point:SP_4786,Hasparren,12
+2298531,13:23:00,13:23:10,stop_point:SP_2571,Montcalm,13
+2298531,13:24:00,13:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298531,13:25:00,13:25:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298531,13:26:00,13:26:10,stop_point:SP_3517,Grive,16
+2298531,13:27:00,13:27:10,stop_point:SP_268,Vents d'Autan,17
+2298531,13:27:00,13:27:10,stop_point:SP_3035,Monts du Forez,18
+2298531,13:28:00,13:28:10,stop_point:SP_3406,Piscine,19
+2298531,13:29:00,13:29:10,stop_point:SP_677,Aspin,20
+2298531,13:30:00,13:30:10,stop_point:SP_29,Vence,21
+2298531,13:31:00,13:31:10,stop_point:SP_1788,Vallauris,22
+2298531,13:31:00,13:31:10,stop_point:SP_854,St-Tropez,23
+2298531,13:32:00,13:32:10,stop_point:SP_2411,Calicéo,24
+2298531,13:33:00,13:33:10,stop_point:SP_2219,Ratalens,25
+2298531,13:34:00,13:34:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298532,13:40:00,13:40:10,stop_point:SP_1227,Argoulets,1
+2298532,13:42:00,13:42:10,stop_point:SP_1173,Cambard,2
+2298532,13:44:00,13:44:10,stop_point:SP_890,Vasseur,3
+2298532,13:45:00,13:45:10,stop_point:SP_910,Ohnet,4
+2298532,13:45:00,13:45:10,stop_point:SP_2148,Caunes,5
+2298532,13:46:00,13:46:10,stop_point:SP_1303,Atlanta,6
+2298532,13:48:00,13:48:10,stop_point:SP_2827,St-Caprais,7
+2298532,13:49:00,13:49:10,stop_point:SP_1156,Cerbère,8
+2298532,13:50:00,13:50:10,stop_point:SP_1898,La Palme,9
+2298532,13:51:00,13:51:10,stop_point:SP_248,La Franqui,10
+2298532,13:51:00,13:51:10,stop_point:SP_242,Orthez,11
+2298532,13:52:00,13:52:10,stop_point:SP_4786,Hasparren,12
+2298532,13:53:00,13:53:10,stop_point:SP_2571,Montcalm,13
+2298532,13:54:00,13:54:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298532,13:55:00,13:55:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298532,13:56:00,13:56:10,stop_point:SP_3517,Grive,16
+2298532,13:57:00,13:57:10,stop_point:SP_268,Vents d'Autan,17
+2298532,13:57:00,13:57:10,stop_point:SP_3035,Monts du Forez,18
+2298532,13:58:00,13:58:10,stop_point:SP_3406,Piscine,19
+2298532,13:59:00,13:59:10,stop_point:SP_677,Aspin,20
+2298532,14:00:00,14:00:10,stop_point:SP_29,Vence,21
+2298532,14:01:00,14:01:10,stop_point:SP_1788,Vallauris,22
+2298532,14:01:00,14:01:10,stop_point:SP_854,St-Tropez,23
+2298532,14:02:00,14:02:10,stop_point:SP_2411,Calicéo,24
+2298532,14:03:00,14:03:10,stop_point:SP_2219,Ratalens,25
+2298532,14:04:00,14:04:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298533,14:10:00,14:10:10,stop_point:SP_1227,Argoulets,1
+2298533,14:12:00,14:12:10,stop_point:SP_1173,Cambard,2
+2298533,14:14:00,14:14:10,stop_point:SP_890,Vasseur,3
+2298533,14:15:00,14:15:10,stop_point:SP_910,Ohnet,4
+2298533,14:15:00,14:15:10,stop_point:SP_2148,Caunes,5
+2298533,14:16:00,14:16:10,stop_point:SP_1303,Atlanta,6
+2298533,14:18:00,14:18:10,stop_point:SP_2827,St-Caprais,7
+2298533,14:19:00,14:19:10,stop_point:SP_1156,Cerbère,8
+2298533,14:20:00,14:20:10,stop_point:SP_1898,La Palme,9
+2298533,14:21:00,14:21:10,stop_point:SP_248,La Franqui,10
+2298533,14:21:00,14:21:10,stop_point:SP_242,Orthez,11
+2298533,14:22:00,14:22:10,stop_point:SP_4786,Hasparren,12
+2298533,14:23:00,14:23:10,stop_point:SP_2571,Montcalm,13
+2298533,14:24:00,14:24:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298533,14:25:00,14:25:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298533,14:26:00,14:26:10,stop_point:SP_3517,Grive,16
+2298533,14:27:00,14:27:10,stop_point:SP_268,Vents d'Autan,17
+2298533,14:27:00,14:27:10,stop_point:SP_3035,Monts du Forez,18
+2298533,14:28:00,14:28:10,stop_point:SP_3406,Piscine,19
+2298533,14:29:00,14:29:10,stop_point:SP_677,Aspin,20
+2298533,14:30:00,14:30:10,stop_point:SP_29,Vence,21
+2298533,14:31:00,14:31:10,stop_point:SP_1788,Vallauris,22
+2298533,14:31:00,14:31:10,stop_point:SP_854,St-Tropez,23
+2298533,14:32:00,14:32:10,stop_point:SP_2411,Calicéo,24
+2298533,14:33:00,14:33:10,stop_point:SP_2219,Ratalens,25
+2298533,14:34:00,14:34:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298534,14:40:00,14:40:10,stop_point:SP_1227,Argoulets,1
+2298534,14:42:00,14:42:10,stop_point:SP_1173,Cambard,2
+2298534,14:44:00,14:44:10,stop_point:SP_890,Vasseur,3
+2298534,14:45:00,14:45:10,stop_point:SP_910,Ohnet,4
+2298534,14:45:00,14:45:10,stop_point:SP_2148,Caunes,5
+2298534,14:46:00,14:46:10,stop_point:SP_1303,Atlanta,6
+2298534,14:48:00,14:48:10,stop_point:SP_2827,St-Caprais,7
+2298534,14:49:00,14:49:10,stop_point:SP_1156,Cerbère,8
+2298534,14:50:00,14:50:10,stop_point:SP_1898,La Palme,9
+2298534,14:51:00,14:51:10,stop_point:SP_248,La Franqui,10
+2298534,14:52:00,14:52:10,stop_point:SP_242,Orthez,11
+2298534,14:53:00,14:53:10,stop_point:SP_4786,Hasparren,12
+2298534,14:54:00,14:54:10,stop_point:SP_2571,Montcalm,13
+2298534,14:55:00,14:55:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298534,14:56:00,14:56:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298534,14:57:00,14:57:10,stop_point:SP_3517,Grive,16
+2298534,14:58:00,14:58:10,stop_point:SP_268,Vents d'Autan,17
+2298534,14:59:00,14:59:10,stop_point:SP_3035,Monts du Forez,18
+2298534,15:00:00,15:00:10,stop_point:SP_3406,Piscine,19
+2298534,15:01:00,15:01:10,stop_point:SP_677,Aspin,20
+2298534,15:02:00,15:02:10,stop_point:SP_29,Vence,21
+2298534,15:03:00,15:03:10,stop_point:SP_1788,Vallauris,22
+2298534,15:03:00,15:03:10,stop_point:SP_854,St-Tropez,23
+2298534,15:04:00,15:04:10,stop_point:SP_2411,Calicéo,24
+2298534,15:05:00,15:05:10,stop_point:SP_2219,Ratalens,25
+2298534,15:06:00,15:06:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298535,15:10:00,15:10:10,stop_point:SP_1227,Argoulets,1
+2298535,15:12:00,15:12:10,stop_point:SP_1173,Cambard,2
+2298535,15:14:00,15:14:10,stop_point:SP_890,Vasseur,3
+2298535,15:15:00,15:15:10,stop_point:SP_910,Ohnet,4
+2298535,15:15:00,15:15:10,stop_point:SP_2148,Caunes,5
+2298535,15:16:00,15:16:10,stop_point:SP_1303,Atlanta,6
+2298535,15:18:00,15:18:10,stop_point:SP_2827,St-Caprais,7
+2298535,15:19:00,15:19:10,stop_point:SP_1156,Cerbère,8
+2298535,15:20:00,15:20:10,stop_point:SP_1898,La Palme,9
+2298535,15:21:00,15:21:10,stop_point:SP_248,La Franqui,10
+2298535,15:22:00,15:22:10,stop_point:SP_242,Orthez,11
+2298535,15:23:00,15:23:10,stop_point:SP_4786,Hasparren,12
+2298535,15:24:00,15:24:10,stop_point:SP_2571,Montcalm,13
+2298535,15:25:00,15:25:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298535,15:26:00,15:26:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298535,15:27:00,15:27:10,stop_point:SP_3517,Grive,16
+2298535,15:28:00,15:28:10,stop_point:SP_268,Vents d'Autan,17
+2298535,15:29:00,15:29:10,stop_point:SP_3035,Monts du Forez,18
+2298535,15:30:00,15:30:10,stop_point:SP_3406,Piscine,19
+2298535,15:31:00,15:31:10,stop_point:SP_677,Aspin,20
+2298535,15:32:00,15:32:10,stop_point:SP_29,Vence,21
+2298535,15:33:00,15:33:10,stop_point:SP_1788,Vallauris,22
+2298535,15:33:00,15:33:10,stop_point:SP_854,St-Tropez,23
+2298535,15:34:00,15:34:10,stop_point:SP_2411,Calicéo,24
+2298535,15:35:00,15:35:10,stop_point:SP_2219,Ratalens,25
+2298535,15:36:00,15:36:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298536,15:40:00,15:40:10,stop_point:SP_1227,Argoulets,1
+2298536,15:42:00,15:42:10,stop_point:SP_1173,Cambard,2
+2298536,15:44:00,15:44:10,stop_point:SP_890,Vasseur,3
+2298536,15:45:00,15:45:10,stop_point:SP_910,Ohnet,4
+2298536,15:45:00,15:45:10,stop_point:SP_2148,Caunes,5
+2298536,15:46:00,15:46:10,stop_point:SP_1303,Atlanta,6
+2298536,15:48:00,15:48:10,stop_point:SP_2827,St-Caprais,7
+2298536,15:49:00,15:49:10,stop_point:SP_1156,Cerbère,8
+2298536,15:50:00,15:50:10,stop_point:SP_1898,La Palme,9
+2298536,15:51:00,15:51:10,stop_point:SP_248,La Franqui,10
+2298536,15:52:00,15:52:10,stop_point:SP_242,Orthez,11
+2298536,15:53:00,15:53:10,stop_point:SP_4786,Hasparren,12
+2298536,15:54:00,15:54:10,stop_point:SP_2571,Montcalm,13
+2298536,15:55:00,15:55:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298536,15:56:00,15:56:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298536,15:57:00,15:57:10,stop_point:SP_3517,Grive,16
+2298536,15:58:00,15:58:10,stop_point:SP_268,Vents d'Autan,17
+2298536,15:59:00,15:59:10,stop_point:SP_3035,Monts du Forez,18
+2298536,16:00:00,16:00:10,stop_point:SP_3406,Piscine,19
+2298536,16:01:00,16:01:10,stop_point:SP_677,Aspin,20
+2298536,16:02:00,16:02:10,stop_point:SP_29,Vence,21
+2298536,16:03:00,16:03:10,stop_point:SP_1788,Vallauris,22
+2298536,16:03:00,16:03:10,stop_point:SP_854,St-Tropez,23
+2298536,16:04:00,16:04:10,stop_point:SP_2411,Calicéo,24
+2298536,16:05:00,16:05:10,stop_point:SP_2219,Ratalens,25
+2298536,16:06:00,16:06:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298537,16:10:00,16:10:10,stop_point:SP_1227,Argoulets,1
+2298537,16:12:00,16:12:10,stop_point:SP_1173,Cambard,2
+2298537,16:14:00,16:14:10,stop_point:SP_890,Vasseur,3
+2298537,16:15:00,16:15:10,stop_point:SP_910,Ohnet,4
+2298537,16:15:00,16:15:10,stop_point:SP_2148,Caunes,5
+2298537,16:17:00,16:17:10,stop_point:SP_1303,Atlanta,6
+2298537,16:19:00,16:19:10,stop_point:SP_2827,St-Caprais,7
+2298537,16:20:00,16:20:10,stop_point:SP_1156,Cerbère,8
+2298537,16:21:00,16:21:10,stop_point:SP_1898,La Palme,9
+2298537,16:22:00,16:22:10,stop_point:SP_248,La Franqui,10
+2298537,16:23:00,16:23:10,stop_point:SP_242,Orthez,11
+2298537,16:24:00,16:24:10,stop_point:SP_4786,Hasparren,12
+2298537,16:25:00,16:25:10,stop_point:SP_2571,Montcalm,13
+2298537,16:26:00,16:26:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298537,16:27:00,16:27:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298537,16:28:00,16:28:10,stop_point:SP_3517,Grive,16
+2298537,16:29:00,16:29:10,stop_point:SP_268,Vents d'Autan,17
+2298537,16:30:00,16:30:10,stop_point:SP_3035,Monts du Forez,18
+2298537,16:31:00,16:31:10,stop_point:SP_3406,Piscine,19
+2298537,16:32:00,16:32:10,stop_point:SP_677,Aspin,20
+2298537,16:33:00,16:33:10,stop_point:SP_29,Vence,21
+2298537,16:34:00,16:34:10,stop_point:SP_1788,Vallauris,22
+2298537,16:34:00,16:34:10,stop_point:SP_854,St-Tropez,23
+2298537,16:35:00,16:35:10,stop_point:SP_2411,Calicéo,24
+2298537,16:36:00,16:36:10,stop_point:SP_2219,Ratalens,25
+2298537,16:37:00,16:37:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298538,16:40:00,16:40:10,stop_point:SP_1227,Argoulets,1
+2298538,16:42:00,16:42:10,stop_point:SP_1173,Cambard,2
+2298538,16:44:00,16:44:10,stop_point:SP_890,Vasseur,3
+2298538,16:45:00,16:45:10,stop_point:SP_910,Ohnet,4
+2298538,16:45:00,16:45:10,stop_point:SP_2148,Caunes,5
+2298538,16:47:00,16:47:10,stop_point:SP_1303,Atlanta,6
+2298538,16:49:00,16:49:10,stop_point:SP_2827,St-Caprais,7
+2298538,16:50:00,16:50:10,stop_point:SP_1156,Cerbère,8
+2298538,16:51:00,16:51:10,stop_point:SP_1898,La Palme,9
+2298538,16:52:00,16:52:10,stop_point:SP_248,La Franqui,10
+2298538,16:53:00,16:53:10,stop_point:SP_242,Orthez,11
+2298538,16:55:00,16:55:10,stop_point:SP_4786,Hasparren,12
+2298538,16:56:00,16:56:10,stop_point:SP_2571,Montcalm,13
+2298538,16:57:00,16:57:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298538,16:58:00,16:58:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298538,16:59:00,16:59:10,stop_point:SP_3517,Grive,16
+2298538,17:00:00,17:00:10,stop_point:SP_268,Vents d'Autan,17
+2298538,17:01:00,17:01:10,stop_point:SP_3035,Monts du Forez,18
+2298538,17:02:00,17:02:10,stop_point:SP_3406,Piscine,19
+2298538,17:03:00,17:03:10,stop_point:SP_677,Aspin,20
+2298538,17:04:00,17:04:10,stop_point:SP_29,Vence,21
+2298538,17:05:00,17:05:10,stop_point:SP_1788,Vallauris,22
+2298538,17:05:00,17:05:10,stop_point:SP_854,St-Tropez,23
+2298538,17:06:00,17:06:10,stop_point:SP_2411,Calicéo,24
+2298538,17:07:00,17:07:10,stop_point:SP_2219,Ratalens,25
+2298538,17:08:00,17:08:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298539,17:10:00,17:10:10,stop_point:SP_1227,Argoulets,1
+2298539,17:12:00,17:12:10,stop_point:SP_1173,Cambard,2
+2298539,17:14:00,17:14:10,stop_point:SP_890,Vasseur,3
+2298539,17:15:00,17:15:10,stop_point:SP_910,Ohnet,4
+2298539,17:15:00,17:15:10,stop_point:SP_2148,Caunes,5
+2298539,17:17:00,17:17:10,stop_point:SP_1303,Atlanta,6
+2298539,17:19:00,17:19:10,stop_point:SP_2827,St-Caprais,7
+2298539,17:21:00,17:21:10,stop_point:SP_1156,Cerbère,8
+2298539,17:22:00,17:22:10,stop_point:SP_1898,La Palme,9
+2298539,17:23:00,17:23:10,stop_point:SP_248,La Franqui,10
+2298539,17:24:00,17:24:10,stop_point:SP_242,Orthez,11
+2298539,17:26:00,17:26:10,stop_point:SP_4786,Hasparren,12
+2298539,17:27:00,17:27:10,stop_point:SP_2571,Montcalm,13
+2298539,17:28:00,17:28:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298539,17:29:00,17:29:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298539,17:30:00,17:30:10,stop_point:SP_3517,Grive,16
+2298539,17:31:00,17:31:10,stop_point:SP_268,Vents d'Autan,17
+2298539,17:32:00,17:32:10,stop_point:SP_3035,Monts du Forez,18
+2298539,17:33:00,17:33:10,stop_point:SP_3406,Piscine,19
+2298539,17:34:00,17:34:10,stop_point:SP_677,Aspin,20
+2298539,17:35:00,17:35:10,stop_point:SP_29,Vence,21
+2298539,17:36:00,17:36:10,stop_point:SP_1788,Vallauris,22
+2298539,17:36:00,17:36:10,stop_point:SP_854,St-Tropez,23
+2298539,17:37:00,17:37:10,stop_point:SP_2411,Calicéo,24
+2298539,17:38:00,17:38:10,stop_point:SP_2219,Ratalens,25
+2298539,17:39:00,17:39:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298540,17:40:00,17:40:10,stop_point:SP_1227,Argoulets,1
+2298540,17:42:00,17:42:10,stop_point:SP_1173,Cambard,2
+2298540,17:44:00,17:44:10,stop_point:SP_890,Vasseur,3
+2298540,17:45:00,17:45:10,stop_point:SP_910,Ohnet,4
+2298540,17:45:00,17:45:10,stop_point:SP_2148,Caunes,5
+2298540,17:47:00,17:47:10,stop_point:SP_1303,Atlanta,6
+2298540,17:49:00,17:49:10,stop_point:SP_2827,St-Caprais,7
+2298540,17:51:00,17:51:10,stop_point:SP_1156,Cerbère,8
+2298540,17:52:00,17:52:10,stop_point:SP_1898,La Palme,9
+2298540,17:53:00,17:53:10,stop_point:SP_248,La Franqui,10
+2298540,17:54:00,17:54:10,stop_point:SP_242,Orthez,11
+2298540,17:56:00,17:56:10,stop_point:SP_4786,Hasparren,12
+2298540,17:57:00,17:57:10,stop_point:SP_2571,Montcalm,13
+2298540,17:58:00,17:58:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298540,17:59:00,17:59:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298540,18:00:00,18:00:10,stop_point:SP_3517,Grive,16
+2298540,18:01:00,18:01:10,stop_point:SP_268,Vents d'Autan,17
+2298540,18:02:00,18:02:10,stop_point:SP_3035,Monts du Forez,18
+2298540,18:03:00,18:03:10,stop_point:SP_3406,Piscine,19
+2298540,18:04:00,18:04:10,stop_point:SP_677,Aspin,20
+2298540,18:05:00,18:05:10,stop_point:SP_29,Vence,21
+2298540,18:06:00,18:06:10,stop_point:SP_1788,Vallauris,22
+2298540,18:06:00,18:06:10,stop_point:SP_854,St-Tropez,23
+2298540,18:07:00,18:07:10,stop_point:SP_2411,Calicéo,24
+2298540,18:08:00,18:08:10,stop_point:SP_2219,Ratalens,25
+2298540,18:09:00,18:09:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298541,18:10:00,18:10:10,stop_point:SP_1227,Argoulets,1
+2298541,18:12:00,18:12:10,stop_point:SP_1173,Cambard,2
+2298541,18:14:00,18:14:10,stop_point:SP_890,Vasseur,3
+2298541,18:15:00,18:15:10,stop_point:SP_910,Ohnet,4
+2298541,18:15:00,18:15:10,stop_point:SP_2148,Caunes,5
+2298541,18:17:00,18:17:10,stop_point:SP_1303,Atlanta,6
+2298541,18:19:00,18:19:10,stop_point:SP_2827,St-Caprais,7
+2298541,18:21:00,18:21:10,stop_point:SP_1156,Cerbère,8
+2298541,18:22:00,18:22:10,stop_point:SP_1898,La Palme,9
+2298541,18:23:00,18:23:10,stop_point:SP_248,La Franqui,10
+2298541,18:24:00,18:24:10,stop_point:SP_242,Orthez,11
+2298541,18:25:00,18:25:10,stop_point:SP_4786,Hasparren,12
+2298541,18:26:00,18:26:10,stop_point:SP_2571,Montcalm,13
+2298541,18:27:00,18:27:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298541,18:28:00,18:28:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298541,18:29:00,18:29:10,stop_point:SP_3517,Grive,16
+2298541,18:30:00,18:30:10,stop_point:SP_268,Vents d'Autan,17
+2298541,18:31:00,18:31:10,stop_point:SP_3035,Monts du Forez,18
+2298541,18:32:00,18:32:10,stop_point:SP_3406,Piscine,19
+2298541,18:33:00,18:33:10,stop_point:SP_677,Aspin,20
+2298541,18:34:00,18:34:10,stop_point:SP_29,Vence,21
+2298541,18:35:00,18:35:10,stop_point:SP_1788,Vallauris,22
+2298541,18:35:00,18:35:10,stop_point:SP_854,St-Tropez,23
+2298541,18:36:00,18:36:10,stop_point:SP_2411,Calicéo,24
+2298541,18:37:00,18:37:10,stop_point:SP_2219,Ratalens,25
+2298541,18:38:00,18:38:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298542,18:40:00,18:40:10,stop_point:SP_1227,Argoulets,1
+2298542,18:42:00,18:42:10,stop_point:SP_1173,Cambard,2
+2298542,18:44:00,18:44:10,stop_point:SP_890,Vasseur,3
+2298542,18:45:00,18:45:10,stop_point:SP_910,Ohnet,4
+2298542,18:45:00,18:45:10,stop_point:SP_2148,Caunes,5
+2298542,18:46:00,18:46:10,stop_point:SP_1303,Atlanta,6
+2298542,18:48:00,18:48:10,stop_point:SP_2827,St-Caprais,7
+2298542,18:50:00,18:50:10,stop_point:SP_1156,Cerbère,8
+2298542,18:51:00,18:51:10,stop_point:SP_1898,La Palme,9
+2298542,18:52:00,18:52:10,stop_point:SP_248,La Franqui,10
+2298542,18:53:00,18:53:10,stop_point:SP_242,Orthez,11
+2298542,18:54:00,18:54:10,stop_point:SP_4786,Hasparren,12
+2298542,18:55:00,18:55:10,stop_point:SP_2571,Montcalm,13
+2298542,18:56:00,18:56:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298542,18:57:00,18:57:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298542,18:58:00,18:58:10,stop_point:SP_3517,Grive,16
+2298542,18:59:00,18:59:10,stop_point:SP_268,Vents d'Autan,17
+2298542,18:59:00,18:59:10,stop_point:SP_3035,Monts du Forez,18
+2298542,19:00:00,19:00:10,stop_point:SP_3406,Piscine,19
+2298542,19:01:00,19:01:10,stop_point:SP_677,Aspin,20
+2298542,19:02:00,19:02:10,stop_point:SP_29,Vence,21
+2298542,19:03:00,19:03:10,stop_point:SP_1788,Vallauris,22
+2298542,19:03:00,19:03:10,stop_point:SP_854,St-Tropez,23
+2298542,19:04:00,19:04:10,stop_point:SP_2411,Calicéo,24
+2298542,19:05:00,19:05:10,stop_point:SP_2219,Ratalens,25
+2298542,19:06:00,19:06:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298543,19:15:00,19:15:10,stop_point:SP_1227,Argoulets,1
+2298543,19:17:00,19:17:10,stop_point:SP_1173,Cambard,2
+2298543,19:19:00,19:19:10,stop_point:SP_890,Vasseur,3
+2298543,19:20:00,19:20:10,stop_point:SP_910,Ohnet,4
+2298543,19:20:00,19:20:10,stop_point:SP_2148,Caunes,5
+2298543,19:21:00,19:21:10,stop_point:SP_1303,Atlanta,6
+2298543,19:23:00,19:23:10,stop_point:SP_2827,St-Caprais,7
+2298543,19:24:00,19:24:10,stop_point:SP_1156,Cerbère,8
+2298543,19:25:00,19:25:10,stop_point:SP_1898,La Palme,9
+2298543,19:26:00,19:26:10,stop_point:SP_248,La Franqui,10
+2298543,19:26:00,19:26:10,stop_point:SP_242,Orthez,11
+2298543,19:27:00,19:27:10,stop_point:SP_4786,Hasparren,12
+2298543,19:28:00,19:28:10,stop_point:SP_2571,Montcalm,13
+2298543,19:29:00,19:29:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298543,19:30:00,19:30:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298543,19:31:00,19:31:10,stop_point:SP_3517,Grive,16
+2298543,19:32:00,19:32:10,stop_point:SP_268,Vents d'Autan,17
+2298543,19:32:00,19:32:10,stop_point:SP_3035,Monts du Forez,18
+2298543,19:33:00,19:33:10,stop_point:SP_3406,Piscine,19
+2298543,19:34:00,19:34:10,stop_point:SP_677,Aspin,20
+2298543,19:34:00,19:34:10,stop_point:SP_29,Vence,21
+2298543,19:35:00,19:35:10,stop_point:SP_1788,Vallauris,22
+2298543,19:36:00,19:36:10,stop_point:SP_854,St-Tropez,23
+2298543,19:36:00,19:36:10,stop_point:SP_2411,Calicéo,24
+2298543,19:37:00,19:37:10,stop_point:SP_2219,Ratalens,25
+2298543,19:38:00,19:38:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298544,19:50:00,19:50:10,stop_point:SP_1227,Argoulets,1
+2298544,19:52:00,19:52:10,stop_point:SP_1173,Cambard,2
+2298544,19:54:00,19:54:10,stop_point:SP_890,Vasseur,3
+2298544,19:55:00,19:55:10,stop_point:SP_910,Ohnet,4
+2298544,19:55:00,19:55:10,stop_point:SP_2148,Caunes,5
+2298544,19:56:00,19:56:10,stop_point:SP_1303,Atlanta,6
+2298544,19:58:00,19:58:10,stop_point:SP_2827,St-Caprais,7
+2298544,19:59:00,19:59:10,stop_point:SP_1156,Cerbère,8
+2298544,20:00:00,20:00:10,stop_point:SP_1898,La Palme,9
+2298544,20:01:00,20:01:10,stop_point:SP_248,La Franqui,10
+2298544,20:01:00,20:01:10,stop_point:SP_242,Orthez,11
+2298544,20:02:00,20:02:10,stop_point:SP_4786,Hasparren,12
+2298544,20:03:00,20:03:10,stop_point:SP_2571,Montcalm,13
+2298544,20:04:00,20:04:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298544,20:05:00,20:05:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298544,20:06:00,20:06:10,stop_point:SP_3517,Grive,16
+2298544,20:07:00,20:07:10,stop_point:SP_268,Vents d'Autan,17
+2298544,20:07:00,20:07:10,stop_point:SP_3035,Monts du Forez,18
+2298544,20:08:00,20:08:10,stop_point:SP_3406,Piscine,19
+2298544,20:09:00,20:09:10,stop_point:SP_677,Aspin,20
+2298544,20:09:00,20:09:10,stop_point:SP_29,Vence,21
+2298544,20:10:00,20:10:10,stop_point:SP_1788,Vallauris,22
+2298544,20:11:00,20:11:10,stop_point:SP_854,St-Tropez,23
+2298544,20:11:00,20:11:10,stop_point:SP_2411,Calicéo,24
+2298544,20:12:00,20:12:10,stop_point:SP_2219,Ratalens,25
+2298544,20:13:00,20:13:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298545,20:25:00,20:25:10,stop_point:SP_1227,Argoulets,1
+2298545,20:27:00,20:27:10,stop_point:SP_1173,Cambard,2
+2298545,20:29:00,20:29:10,stop_point:SP_890,Vasseur,3
+2298545,20:30:00,20:30:10,stop_point:SP_910,Ohnet,4
+2298545,20:30:00,20:30:10,stop_point:SP_2148,Caunes,5
+2298545,20:31:00,20:31:10,stop_point:SP_1303,Atlanta,6
+2298545,20:32:00,20:32:10,stop_point:SP_2827,St-Caprais,7
+2298545,20:33:00,20:33:10,stop_point:SP_1156,Cerbère,8
+2298545,20:34:00,20:34:10,stop_point:SP_1898,La Palme,9
+2298545,20:34:00,20:34:10,stop_point:SP_248,La Franqui,10
+2298545,20:35:00,20:35:10,stop_point:SP_242,Orthez,11
+2298545,20:36:00,20:36:10,stop_point:SP_4786,Hasparren,12
+2298545,20:37:00,20:37:10,stop_point:SP_2571,Montcalm,13
+2298545,20:38:00,20:38:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298545,20:38:00,20:38:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298545,20:39:00,20:39:10,stop_point:SP_3517,Grive,16
+2298545,20:40:00,20:40:10,stop_point:SP_268,Vents d'Autan,17
+2298545,20:40:00,20:40:10,stop_point:SP_3035,Monts du Forez,18
+2298545,20:41:00,20:41:10,stop_point:SP_3406,Piscine,19
+2298545,20:42:00,20:42:10,stop_point:SP_677,Aspin,20
+2298545,20:42:00,20:42:10,stop_point:SP_29,Vence,21
+2298545,20:43:00,20:43:10,stop_point:SP_1788,Vallauris,22
+2298545,20:44:00,20:44:10,stop_point:SP_854,St-Tropez,23
+2298545,20:44:00,20:44:10,stop_point:SP_2411,Calicéo,24
+2298545,20:45:00,20:45:10,stop_point:SP_2219,Ratalens,25
+2298545,20:46:00,20:46:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298546,21:00:00,21:00:10,stop_point:SP_1227,Argoulets,1
+2298546,21:02:00,21:02:10,stop_point:SP_1173,Cambard,2
+2298546,21:04:00,21:04:10,stop_point:SP_890,Vasseur,3
+2298546,21:05:00,21:05:10,stop_point:SP_910,Ohnet,4
+2298546,21:05:00,21:05:10,stop_point:SP_2148,Caunes,5
+2298546,21:06:00,21:06:10,stop_point:SP_1303,Atlanta,6
+2298546,21:07:00,21:07:10,stop_point:SP_2827,St-Caprais,7
+2298546,21:08:00,21:08:10,stop_point:SP_1156,Cerbère,8
+2298546,21:09:00,21:09:10,stop_point:SP_1898,La Palme,9
+2298546,21:09:00,21:09:10,stop_point:SP_248,La Franqui,10
+2298546,21:10:00,21:10:10,stop_point:SP_242,Orthez,11
+2298546,21:11:00,21:11:10,stop_point:SP_4786,Hasparren,12
+2298546,21:12:00,21:12:10,stop_point:SP_2571,Montcalm,13
+2298546,21:13:00,21:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298546,21:13:00,21:13:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298546,21:14:00,21:14:10,stop_point:SP_3517,Grive,16
+2298546,21:15:00,21:15:10,stop_point:SP_268,Vents d'Autan,17
+2298546,21:15:00,21:15:10,stop_point:SP_3035,Monts du Forez,18
+2298546,21:16:00,21:16:10,stop_point:SP_3406,Piscine,19
+2298546,21:17:00,21:17:10,stop_point:SP_677,Aspin,20
+2298546,21:17:00,21:17:10,stop_point:SP_29,Vence,21
+2298546,21:18:00,21:18:10,stop_point:SP_1788,Vallauris,22
+2298546,21:19:00,21:19:10,stop_point:SP_854,St-Tropez,23
+2298546,21:19:00,21:19:10,stop_point:SP_2411,Calicéo,24
+2298546,21:20:00,21:20:10,stop_point:SP_2219,Ratalens,25
+2298546,21:21:00,21:21:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298547,06:10:00,06:10:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298547,06:11:00,06:11:10,stop_point:SP_2535,Ratalens,2
+2298547,06:12:00,06:12:10,stop_point:SP_250,Calicéo,3
+2298547,06:12:00,06:12:10,stop_point:SP_1892,St-Tropez,4
+2298547,06:13:00,06:13:10,stop_point:SP_3286,Vallauris,5
+2298547,06:14:00,06:14:10,stop_point:SP_3503,Vence,6
+2298547,06:15:00,06:15:10,stop_point:SP_150,Aspin,7
+2298547,06:15:00,06:15:10,stop_point:SP_342,Piscine,8
+2298547,06:16:00,06:16:10,stop_point:SP_1833,Monts du Forez,9
+2298547,06:16:00,06:16:10,stop_point:SP_1505,Vents d'Autan,10
+2298547,06:17:00,06:17:10,stop_point:SP_2232,Grive,11
+2298547,06:18:00,06:18:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298547,06:18:00,06:18:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298547,06:19:00,06:19:10,stop_point:SP_1320,Montcalm,14
+2298547,06:19:00,06:19:10,stop_point:SP_4788,Hasparren,15
+2298547,06:20:00,06:20:10,stop_point:SP_2050,Orthez,16
+2298547,06:21:00,06:21:10,stop_point:SP_852,La Franqui,17
+2298547,06:22:00,06:22:10,stop_point:SP_995,La Palme,18
+2298547,06:22:00,06:22:10,stop_point:SP_1834,Cerbère,19
+2298547,06:23:00,06:23:10,stop_point:SP_2732,Bayonne,20
+2298547,06:24:00,06:24:10,stop_point:SP_4789,St-Caprais,21
+2298547,06:26:00,06:26:10,stop_point:SP_1296,Atlanta,22
+2298547,06:27:00,06:27:10,stop_point:SP_2974,Caunes,23
+2298547,06:28:00,06:28:10,stop_point:SP_3944,Ohnet,24
+2298547,06:29:00,06:29:10,stop_point:SP_2359,Vasseur,25
+2298547,06:31:00,06:31:10,stop_point:SP_3647,Cambard,26
+2298547,06:33:00,06:33:10,stop_point:SP_1227,Argoulets,27
+2298548,06:47:00,06:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298548,06:48:00,06:48:10,stop_point:SP_2535,Ratalens,2
+2298548,06:49:00,06:49:10,stop_point:SP_250,Calicéo,3
+2298548,06:49:00,06:49:10,stop_point:SP_1892,St-Tropez,4
+2298548,06:50:00,06:50:10,stop_point:SP_3286,Vallauris,5
+2298548,06:51:00,06:51:10,stop_point:SP_3503,Vence,6
+2298548,06:52:00,06:52:10,stop_point:SP_150,Aspin,7
+2298548,06:52:00,06:52:10,stop_point:SP_342,Piscine,8
+2298548,06:53:00,06:53:10,stop_point:SP_1833,Monts du Forez,9
+2298548,06:53:00,06:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298548,06:55:00,06:55:10,stop_point:SP_2232,Grive,11
+2298548,06:56:00,06:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298548,06:56:00,06:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298548,06:57:00,06:57:10,stop_point:SP_1320,Montcalm,14
+2298548,06:58:00,06:58:10,stop_point:SP_4788,Hasparren,15
+2298548,07:00:00,07:00:10,stop_point:SP_2050,Orthez,16
+2298548,07:00:00,07:00:10,stop_point:SP_852,La Franqui,17
+2298548,07:01:00,07:01:10,stop_point:SP_995,La Palme,18
+2298548,07:02:00,07:02:10,stop_point:SP_1834,Cerbère,19
+2298548,07:03:00,07:03:10,stop_point:SP_2732,Bayonne,20
+2298548,07:04:00,07:04:10,stop_point:SP_4789,St-Caprais,21
+2298548,07:06:00,07:06:10,stop_point:SP_1296,Atlanta,22
+2298548,07:08:00,07:08:10,stop_point:SP_2974,Caunes,23
+2298548,07:09:00,07:09:10,stop_point:SP_3944,Ohnet,24
+2298548,07:10:00,07:10:10,stop_point:SP_2359,Vasseur,25
+2298548,07:12:00,07:12:10,stop_point:SP_3647,Cambard,26
+2298548,07:14:00,07:14:10,stop_point:SP_1227,Argoulets,27
+2298549,07:16:00,07:16:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298549,07:17:00,07:17:10,stop_point:SP_2535,Ratalens,2
+2298549,07:18:00,07:18:10,stop_point:SP_250,Calicéo,3
+2298549,07:18:00,07:18:10,stop_point:SP_1892,St-Tropez,4
+2298549,07:19:00,07:19:10,stop_point:SP_3286,Vallauris,5
+2298549,07:20:00,07:20:10,stop_point:SP_3503,Vence,6
+2298549,07:21:00,07:21:10,stop_point:SP_150,Aspin,7
+2298549,07:21:00,07:21:10,stop_point:SP_342,Piscine,8
+2298549,07:22:00,07:22:10,stop_point:SP_1833,Monts du Forez,9
+2298549,07:23:00,07:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298549,07:24:00,07:24:10,stop_point:SP_2232,Grive,11
+2298549,07:26:00,07:26:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298549,07:26:00,07:26:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298549,07:27:00,07:27:10,stop_point:SP_1320,Montcalm,14
+2298549,07:28:00,07:28:10,stop_point:SP_4788,Hasparren,15
+2298549,07:30:00,07:30:10,stop_point:SP_2050,Orthez,16
+2298549,07:30:00,07:30:10,stop_point:SP_852,La Franqui,17
+2298549,07:31:00,07:31:10,stop_point:SP_995,La Palme,18
+2298549,07:32:00,07:32:10,stop_point:SP_1834,Cerbère,19
+2298549,07:35:00,07:35:10,stop_point:SP_2732,Bayonne,20
+2298549,07:37:00,07:37:10,stop_point:SP_4789,St-Caprais,21
+2298549,07:41:00,07:41:10,stop_point:SP_1296,Atlanta,22
+2298549,07:43:00,07:43:10,stop_point:SP_2974,Caunes,23
+2298549,07:44:00,07:44:10,stop_point:SP_3944,Ohnet,24
+2298549,07:45:00,07:45:10,stop_point:SP_2359,Vasseur,25
+2298549,07:48:00,07:48:10,stop_point:SP_3647,Cambard,26
+2298549,07:50:00,07:50:10,stop_point:SP_1227,Argoulets,27
+2298550,07:47:00,07:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298550,07:48:00,07:48:10,stop_point:SP_2535,Ratalens,2
+2298550,07:49:00,07:49:10,stop_point:SP_250,Calicéo,3
+2298550,07:49:00,07:49:10,stop_point:SP_1892,St-Tropez,4
+2298550,07:50:00,07:50:10,stop_point:SP_3286,Vallauris,5
+2298550,07:51:00,07:51:10,stop_point:SP_3503,Vence,6
+2298550,07:52:00,07:52:10,stop_point:SP_150,Aspin,7
+2298550,07:52:00,07:52:10,stop_point:SP_342,Piscine,8
+2298550,07:53:00,07:53:10,stop_point:SP_1833,Monts du Forez,9
+2298550,07:54:00,07:54:10,stop_point:SP_1505,Vents d'Autan,10
+2298550,07:55:00,07:55:10,stop_point:SP_2232,Grive,11
+2298550,07:57:00,07:57:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298550,07:57:00,07:57:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298550,07:58:00,07:58:10,stop_point:SP_1320,Montcalm,14
+2298550,07:59:00,07:59:10,stop_point:SP_4788,Hasparren,15
+2298550,08:01:00,08:01:10,stop_point:SP_2050,Orthez,16
+2298550,08:01:00,08:01:10,stop_point:SP_852,La Franqui,17
+2298550,08:02:00,08:02:10,stop_point:SP_995,La Palme,18
+2298550,08:03:00,08:03:10,stop_point:SP_1834,Cerbère,19
+2298550,08:05:00,08:05:10,stop_point:SP_2732,Bayonne,20
+2298550,08:07:00,08:07:10,stop_point:SP_4789,St-Caprais,21
+2298550,08:10:00,08:10:10,stop_point:SP_1296,Atlanta,22
+2298550,08:12:00,08:12:10,stop_point:SP_2974,Caunes,23
+2298550,08:13:00,08:13:10,stop_point:SP_3944,Ohnet,24
+2298550,08:14:00,08:14:10,stop_point:SP_2359,Vasseur,25
+2298550,08:17:00,08:17:10,stop_point:SP_3647,Cambard,26
+2298550,08:19:00,08:19:10,stop_point:SP_1227,Argoulets,27
+2298551,08:16:00,08:16:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298551,08:17:00,08:17:10,stop_point:SP_2535,Ratalens,2
+2298551,08:18:00,08:18:10,stop_point:SP_250,Calicéo,3
+2298551,08:18:00,08:18:10,stop_point:SP_1892,St-Tropez,4
+2298551,08:19:00,08:19:10,stop_point:SP_3286,Vallauris,5
+2298551,08:20:00,08:20:10,stop_point:SP_3503,Vence,6
+2298551,08:21:00,08:21:10,stop_point:SP_150,Aspin,7
+2298551,08:21:00,08:21:10,stop_point:SP_342,Piscine,8
+2298551,08:22:00,08:22:10,stop_point:SP_1833,Monts du Forez,9
+2298551,08:23:00,08:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298551,08:24:00,08:24:10,stop_point:SP_2232,Grive,11
+2298551,08:26:00,08:26:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298551,08:26:00,08:26:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298551,08:27:00,08:27:10,stop_point:SP_1320,Montcalm,14
+2298551,08:28:00,08:28:10,stop_point:SP_4788,Hasparren,15
+2298551,08:30:00,08:30:10,stop_point:SP_2050,Orthez,16
+2298551,08:30:00,08:30:10,stop_point:SP_852,La Franqui,17
+2298551,08:31:00,08:31:10,stop_point:SP_995,La Palme,18
+2298551,08:32:00,08:32:10,stop_point:SP_1834,Cerbère,19
+2298551,08:34:00,08:34:10,stop_point:SP_2732,Bayonne,20
+2298551,08:36:00,08:36:10,stop_point:SP_4789,St-Caprais,21
+2298551,08:39:00,08:39:10,stop_point:SP_1296,Atlanta,22
+2298551,08:41:00,08:41:10,stop_point:SP_2974,Caunes,23
+2298551,08:42:00,08:42:10,stop_point:SP_3944,Ohnet,24
+2298551,08:43:00,08:43:10,stop_point:SP_2359,Vasseur,25
+2298551,08:46:00,08:46:10,stop_point:SP_3647,Cambard,26
+2298551,08:48:00,08:48:10,stop_point:SP_1227,Argoulets,27
+2298552,08:47:00,08:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298552,08:48:00,08:48:10,stop_point:SP_2535,Ratalens,2
+2298552,08:49:00,08:49:10,stop_point:SP_250,Calicéo,3
+2298552,08:49:00,08:49:10,stop_point:SP_1892,St-Tropez,4
+2298552,08:50:00,08:50:10,stop_point:SP_3286,Vallauris,5
+2298552,08:51:00,08:51:10,stop_point:SP_3503,Vence,6
+2298552,08:52:00,08:52:10,stop_point:SP_150,Aspin,7
+2298552,08:52:00,08:52:10,stop_point:SP_342,Piscine,8
+2298552,08:53:00,08:53:10,stop_point:SP_1833,Monts du Forez,9
+2298552,08:53:00,08:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298552,08:55:00,08:55:10,stop_point:SP_2232,Grive,11
+2298552,08:56:00,08:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298552,08:56:00,08:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298552,08:57:00,08:57:10,stop_point:SP_1320,Montcalm,14
+2298552,08:58:00,08:58:10,stop_point:SP_4788,Hasparren,15
+2298552,09:00:00,09:00:10,stop_point:SP_2050,Orthez,16
+2298552,09:00:00,09:00:10,stop_point:SP_852,La Franqui,17
+2298552,09:01:00,09:01:10,stop_point:SP_995,La Palme,18
+2298552,09:02:00,09:02:10,stop_point:SP_1834,Cerbère,19
+2298552,09:03:00,09:03:10,stop_point:SP_2732,Bayonne,20
+2298552,09:04:00,09:04:10,stop_point:SP_4789,St-Caprais,21
+2298552,09:06:00,09:06:10,stop_point:SP_1296,Atlanta,22
+2298552,09:08:00,09:08:10,stop_point:SP_2974,Caunes,23
+2298552,09:09:00,09:09:10,stop_point:SP_3944,Ohnet,24
+2298552,09:10:00,09:10:10,stop_point:SP_2359,Vasseur,25
+2298552,09:13:00,09:13:10,stop_point:SP_3647,Cambard,26
+2298552,09:15:00,09:15:10,stop_point:SP_1227,Argoulets,27
+2298553,09:16:00,09:16:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298553,09:17:00,09:17:10,stop_point:SP_2535,Ratalens,2
+2298553,09:18:00,09:18:10,stop_point:SP_250,Calicéo,3
+2298553,09:18:00,09:18:10,stop_point:SP_1892,St-Tropez,4
+2298553,09:19:00,09:19:10,stop_point:SP_3286,Vallauris,5
+2298553,09:20:00,09:20:10,stop_point:SP_3503,Vence,6
+2298553,09:21:00,09:21:10,stop_point:SP_150,Aspin,7
+2298553,09:21:00,09:21:10,stop_point:SP_342,Piscine,8
+2298553,09:22:00,09:22:10,stop_point:SP_1833,Monts du Forez,9
+2298553,09:22:00,09:22:10,stop_point:SP_1505,Vents d'Autan,10
+2298553,09:23:00,09:23:10,stop_point:SP_2232,Grive,11
+2298553,09:24:00,09:24:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298553,09:24:00,09:24:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298553,09:25:00,09:25:10,stop_point:SP_1320,Montcalm,14
+2298553,09:26:00,09:26:10,stop_point:SP_4788,Hasparren,15
+2298553,09:28:00,09:28:10,stop_point:SP_2050,Orthez,16
+2298553,09:28:00,09:28:10,stop_point:SP_852,La Franqui,17
+2298553,09:29:00,09:29:10,stop_point:SP_995,La Palme,18
+2298553,09:30:00,09:30:10,stop_point:SP_1834,Cerbère,19
+2298553,09:31:00,09:31:10,stop_point:SP_2732,Bayonne,20
+2298553,09:32:00,09:32:10,stop_point:SP_4789,St-Caprais,21
+2298553,09:34:00,09:34:10,stop_point:SP_1296,Atlanta,22
+2298553,09:36:00,09:36:10,stop_point:SP_2974,Caunes,23
+2298553,09:37:00,09:37:10,stop_point:SP_3944,Ohnet,24
+2298553,09:38:00,09:38:10,stop_point:SP_2359,Vasseur,25
+2298553,09:40:00,09:40:10,stop_point:SP_3647,Cambard,26
+2298553,09:42:00,09:42:10,stop_point:SP_1227,Argoulets,27
+2298554,09:47:00,09:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298554,09:48:00,09:48:10,stop_point:SP_2535,Ratalens,2
+2298554,09:49:00,09:49:10,stop_point:SP_250,Calicéo,3
+2298554,09:49:00,09:49:10,stop_point:SP_1892,St-Tropez,4
+2298554,09:50:00,09:50:10,stop_point:SP_3286,Vallauris,5
+2298554,09:51:00,09:51:10,stop_point:SP_3503,Vence,6
+2298554,09:52:00,09:52:10,stop_point:SP_150,Aspin,7
+2298554,09:52:00,09:52:10,stop_point:SP_342,Piscine,8
+2298554,09:53:00,09:53:10,stop_point:SP_1833,Monts du Forez,9
+2298554,09:53:00,09:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298554,09:54:00,09:54:10,stop_point:SP_2232,Grive,11
+2298554,09:55:00,09:55:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298554,09:55:00,09:55:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298554,09:56:00,09:56:10,stop_point:SP_1320,Montcalm,14
+2298554,09:57:00,09:57:10,stop_point:SP_4788,Hasparren,15
+2298554,09:59:00,09:59:10,stop_point:SP_2050,Orthez,16
+2298554,09:59:00,09:59:10,stop_point:SP_852,La Franqui,17
+2298554,10:00:00,10:00:10,stop_point:SP_995,La Palme,18
+2298554,10:01:00,10:01:10,stop_point:SP_1834,Cerbère,19
+2298554,10:02:00,10:02:10,stop_point:SP_2732,Bayonne,20
+2298554,10:03:00,10:03:10,stop_point:SP_4789,St-Caprais,21
+2298554,10:05:00,10:05:10,stop_point:SP_1296,Atlanta,22
+2298554,10:06:00,10:06:10,stop_point:SP_2974,Caunes,23
+2298554,10:07:00,10:07:10,stop_point:SP_3944,Ohnet,24
+2298554,10:08:00,10:08:10,stop_point:SP_2359,Vasseur,25
+2298554,10:10:00,10:10:10,stop_point:SP_3647,Cambard,26
+2298554,10:12:00,10:12:10,stop_point:SP_1227,Argoulets,27
+2298555,10:17:00,10:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298555,10:18:00,10:18:10,stop_point:SP_2535,Ratalens,2
+2298555,10:19:00,10:19:10,stop_point:SP_250,Calicéo,3
+2298555,10:19:00,10:19:10,stop_point:SP_1892,St-Tropez,4
+2298555,10:20:00,10:20:10,stop_point:SP_3286,Vallauris,5
+2298555,10:21:00,10:21:10,stop_point:SP_3503,Vence,6
+2298555,10:22:00,10:22:10,stop_point:SP_150,Aspin,7
+2298555,10:22:00,10:22:10,stop_point:SP_342,Piscine,8
+2298555,10:23:00,10:23:10,stop_point:SP_1833,Monts du Forez,9
+2298555,10:23:00,10:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298555,10:24:00,10:24:10,stop_point:SP_2232,Grive,11
+2298555,10:25:00,10:25:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298555,10:25:00,10:25:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298555,10:26:00,10:26:10,stop_point:SP_1320,Montcalm,14
+2298555,10:27:00,10:27:10,stop_point:SP_4788,Hasparren,15
+2298555,10:29:00,10:29:10,stop_point:SP_2050,Orthez,16
+2298555,10:29:00,10:29:10,stop_point:SP_852,La Franqui,17
+2298555,10:30:00,10:30:10,stop_point:SP_995,La Palme,18
+2298555,10:31:00,10:31:10,stop_point:SP_1834,Cerbère,19
+2298555,10:32:00,10:32:10,stop_point:SP_2732,Bayonne,20
+2298555,10:33:00,10:33:10,stop_point:SP_4789,St-Caprais,21
+2298555,10:35:00,10:35:10,stop_point:SP_1296,Atlanta,22
+2298555,10:36:00,10:36:10,stop_point:SP_2974,Caunes,23
+2298555,10:37:00,10:37:10,stop_point:SP_3944,Ohnet,24
+2298555,10:38:00,10:38:10,stop_point:SP_2359,Vasseur,25
+2298555,10:40:00,10:40:10,stop_point:SP_3647,Cambard,26
+2298555,10:42:00,10:42:10,stop_point:SP_1227,Argoulets,27
+2298556,10:47:00,10:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298556,10:48:00,10:48:10,stop_point:SP_2535,Ratalens,2
+2298556,10:49:00,10:49:10,stop_point:SP_250,Calicéo,3
+2298556,10:49:00,10:49:10,stop_point:SP_1892,St-Tropez,4
+2298556,10:50:00,10:50:10,stop_point:SP_3286,Vallauris,5
+2298556,10:51:00,10:51:10,stop_point:SP_3503,Vence,6
+2298556,10:52:00,10:52:10,stop_point:SP_150,Aspin,7
+2298556,10:52:00,10:52:10,stop_point:SP_342,Piscine,8
+2298556,10:53:00,10:53:10,stop_point:SP_1833,Monts du Forez,9
+2298556,10:53:00,10:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298556,10:54:00,10:54:10,stop_point:SP_2232,Grive,11
+2298556,10:55:00,10:55:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298556,10:55:00,10:55:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298556,10:56:00,10:56:10,stop_point:SP_1320,Montcalm,14
+2298556,10:57:00,10:57:10,stop_point:SP_4788,Hasparren,15
+2298556,10:59:00,10:59:10,stop_point:SP_2050,Orthez,16
+2298556,10:59:00,10:59:10,stop_point:SP_852,La Franqui,17
+2298556,11:00:00,11:00:10,stop_point:SP_995,La Palme,18
+2298556,11:01:00,11:01:10,stop_point:SP_1834,Cerbère,19
+2298556,11:02:00,11:02:10,stop_point:SP_2732,Bayonne,20
+2298556,11:03:00,11:03:10,stop_point:SP_4789,St-Caprais,21
+2298556,11:05:00,11:05:10,stop_point:SP_1296,Atlanta,22
+2298556,11:06:00,11:06:10,stop_point:SP_2974,Caunes,23
+2298556,11:07:00,11:07:10,stop_point:SP_3944,Ohnet,24
+2298556,11:08:00,11:08:10,stop_point:SP_2359,Vasseur,25
+2298556,11:10:00,11:10:10,stop_point:SP_3647,Cambard,26
+2298556,11:12:00,11:12:10,stop_point:SP_1227,Argoulets,27
+2298557,11:17:00,11:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298557,11:18:00,11:18:10,stop_point:SP_2535,Ratalens,2
+2298557,11:19:00,11:19:10,stop_point:SP_250,Calicéo,3
+2298557,11:19:00,11:19:10,stop_point:SP_1892,St-Tropez,4
+2298557,11:20:00,11:20:10,stop_point:SP_3286,Vallauris,5
+2298557,11:21:00,11:21:10,stop_point:SP_3503,Vence,6
+2298557,11:22:00,11:22:10,stop_point:SP_150,Aspin,7
+2298557,11:22:00,11:22:10,stop_point:SP_342,Piscine,8
+2298557,11:23:00,11:23:10,stop_point:SP_1833,Monts du Forez,9
+2298557,11:23:00,11:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298557,11:24:00,11:24:10,stop_point:SP_2232,Grive,11
+2298557,11:25:00,11:25:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298557,11:25:00,11:25:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298557,11:26:00,11:26:10,stop_point:SP_1320,Montcalm,14
+2298557,11:27:00,11:27:10,stop_point:SP_4788,Hasparren,15
+2298557,11:29:00,11:29:10,stop_point:SP_2050,Orthez,16
+2298557,11:29:00,11:29:10,stop_point:SP_852,La Franqui,17
+2298557,11:30:00,11:30:10,stop_point:SP_995,La Palme,18
+2298557,11:31:00,11:31:10,stop_point:SP_1834,Cerbère,19
+2298557,11:32:00,11:32:10,stop_point:SP_2732,Bayonne,20
+2298557,11:33:00,11:33:10,stop_point:SP_4789,St-Caprais,21
+2298557,11:35:00,11:35:10,stop_point:SP_1296,Atlanta,22
+2298557,11:36:00,11:36:10,stop_point:SP_2974,Caunes,23
+2298557,11:37:00,11:37:10,stop_point:SP_3944,Ohnet,24
+2298557,11:38:00,11:38:10,stop_point:SP_2359,Vasseur,25
+2298557,11:40:00,11:40:10,stop_point:SP_3647,Cambard,26
+2298557,11:42:00,11:42:10,stop_point:SP_1227,Argoulets,27
+2298558,11:47:00,11:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298558,11:48:00,11:48:10,stop_point:SP_2535,Ratalens,2
+2298558,11:49:00,11:49:10,stop_point:SP_250,Calicéo,3
+2298558,11:49:00,11:49:10,stop_point:SP_1892,St-Tropez,4
+2298558,11:50:00,11:50:10,stop_point:SP_3286,Vallauris,5
+2298558,11:51:00,11:51:10,stop_point:SP_3503,Vence,6
+2298558,11:52:00,11:52:10,stop_point:SP_150,Aspin,7
+2298558,11:52:00,11:52:10,stop_point:SP_342,Piscine,8
+2298558,11:53:00,11:53:10,stop_point:SP_1833,Monts du Forez,9
+2298558,11:53:00,11:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298558,11:54:00,11:54:10,stop_point:SP_2232,Grive,11
+2298558,11:55:00,11:55:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298558,11:55:00,11:55:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298558,11:56:00,11:56:10,stop_point:SP_1320,Montcalm,14
+2298558,11:57:00,11:57:10,stop_point:SP_4788,Hasparren,15
+2298558,11:59:00,11:59:10,stop_point:SP_2050,Orthez,16
+2298558,11:59:00,11:59:10,stop_point:SP_852,La Franqui,17
+2298558,12:00:00,12:00:10,stop_point:SP_995,La Palme,18
+2298558,12:01:00,12:01:10,stop_point:SP_1834,Cerbère,19
+2298558,12:02:00,12:02:10,stop_point:SP_2732,Bayonne,20
+2298558,12:03:00,12:03:10,stop_point:SP_4789,St-Caprais,21
+2298558,12:05:00,12:05:10,stop_point:SP_1296,Atlanta,22
+2298558,12:06:00,12:06:10,stop_point:SP_2974,Caunes,23
+2298558,12:07:00,12:07:10,stop_point:SP_3944,Ohnet,24
+2298558,12:08:00,12:08:10,stop_point:SP_2359,Vasseur,25
+2298558,12:10:00,12:10:10,stop_point:SP_3647,Cambard,26
+2298558,12:12:00,12:12:10,stop_point:SP_1227,Argoulets,27
+2298559,12:17:00,12:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298559,12:18:00,12:18:10,stop_point:SP_2535,Ratalens,2
+2298559,12:19:00,12:19:10,stop_point:SP_250,Calicéo,3
+2298559,12:19:00,12:19:10,stop_point:SP_1892,St-Tropez,4
+2298559,12:20:00,12:20:10,stop_point:SP_3286,Vallauris,5
+2298559,12:21:00,12:21:10,stop_point:SP_3503,Vence,6
+2298559,12:22:00,12:22:10,stop_point:SP_150,Aspin,7
+2298559,12:22:00,12:22:10,stop_point:SP_342,Piscine,8
+2298559,12:23:00,12:23:10,stop_point:SP_1833,Monts du Forez,9
+2298559,12:23:00,12:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298559,12:24:00,12:24:10,stop_point:SP_2232,Grive,11
+2298559,12:25:00,12:25:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298559,12:25:00,12:25:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298559,12:26:00,12:26:10,stop_point:SP_1320,Montcalm,14
+2298559,12:27:00,12:27:10,stop_point:SP_4788,Hasparren,15
+2298559,12:29:00,12:29:10,stop_point:SP_2050,Orthez,16
+2298559,12:29:00,12:29:10,stop_point:SP_852,La Franqui,17
+2298559,12:30:00,12:30:10,stop_point:SP_995,La Palme,18
+2298559,12:31:00,12:31:10,stop_point:SP_1834,Cerbère,19
+2298559,12:32:00,12:32:10,stop_point:SP_2732,Bayonne,20
+2298559,12:33:00,12:33:10,stop_point:SP_4789,St-Caprais,21
+2298559,12:35:00,12:35:10,stop_point:SP_1296,Atlanta,22
+2298559,12:36:00,12:36:10,stop_point:SP_2974,Caunes,23
+2298559,12:37:00,12:37:10,stop_point:SP_3944,Ohnet,24
+2298559,12:38:00,12:38:10,stop_point:SP_2359,Vasseur,25
+2298559,12:40:00,12:40:10,stop_point:SP_3647,Cambard,26
+2298559,12:42:00,12:42:10,stop_point:SP_1227,Argoulets,27
+2298560,12:41:00,12:41:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298560,12:42:00,12:42:10,stop_point:SP_2535,Ratalens,2
+2298560,12:43:00,12:43:10,stop_point:SP_250,Calicéo,3
+2298560,12:43:00,12:43:10,stop_point:SP_1892,St-Tropez,4
+2298560,12:44:00,12:44:10,stop_point:SP_3286,Vallauris,5
+2298560,12:45:00,12:45:10,stop_point:SP_3503,Vence,6
+2298560,12:46:00,12:46:10,stop_point:SP_150,Aspin,7
+2298560,12:46:00,12:46:10,stop_point:SP_342,Piscine,8
+2298560,12:47:00,12:47:10,stop_point:SP_1833,Monts du Forez,9
+2298560,12:47:00,12:47:10,stop_point:SP_1505,Vents d'Autan,10
+2298560,12:48:00,12:48:10,stop_point:SP_2232,Grive,11
+2298560,12:49:00,12:49:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298560,12:49:00,12:49:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298560,12:50:00,12:50:10,stop_point:SP_1320,Montcalm,14
+2298560,12:51:00,12:51:10,stop_point:SP_4788,Hasparren,15
+2298560,12:53:00,12:53:10,stop_point:SP_2050,Orthez,16
+2298560,12:53:00,12:53:10,stop_point:SP_852,La Franqui,17
+2298560,12:54:00,12:54:10,stop_point:SP_995,La Palme,18
+2298560,12:55:00,12:55:10,stop_point:SP_1834,Cerbère,19
+2298560,12:56:00,12:56:10,stop_point:SP_2732,Bayonne,20
+2298560,12:57:00,12:57:10,stop_point:SP_4789,St-Caprais,21
+2298560,12:59:00,12:59:10,stop_point:SP_1296,Atlanta,22
+2298560,13:00:00,13:00:10,stop_point:SP_2974,Caunes,23
+2298560,13:01:00,13:01:10,stop_point:SP_3944,Ohnet,24
+2298560,13:02:00,13:02:10,stop_point:SP_2359,Vasseur,25
+2298560,13:04:00,13:04:10,stop_point:SP_3647,Cambard,26
+2298560,13:06:00,13:06:10,stop_point:SP_1227,Argoulets,27
+2298561,13:17:00,13:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298561,13:18:00,13:18:10,stop_point:SP_2535,Ratalens,2
+2298561,13:19:00,13:19:10,stop_point:SP_250,Calicéo,3
+2298561,13:19:00,13:19:10,stop_point:SP_1892,St-Tropez,4
+2298561,13:20:00,13:20:10,stop_point:SP_3286,Vallauris,5
+2298561,13:21:00,13:21:10,stop_point:SP_3503,Vence,6
+2298561,13:22:00,13:22:10,stop_point:SP_150,Aspin,7
+2298561,13:22:00,13:22:10,stop_point:SP_342,Piscine,8
+2298561,13:23:00,13:23:10,stop_point:SP_1833,Monts du Forez,9
+2298561,13:23:00,13:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298561,13:24:00,13:24:10,stop_point:SP_2232,Grive,11
+2298561,13:25:00,13:25:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298561,13:25:00,13:25:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298561,13:26:00,13:26:10,stop_point:SP_1320,Montcalm,14
+2298561,13:27:00,13:27:10,stop_point:SP_4788,Hasparren,15
+2298561,13:29:00,13:29:10,stop_point:SP_2050,Orthez,16
+2298561,13:29:00,13:29:10,stop_point:SP_852,La Franqui,17
+2298561,13:30:00,13:30:10,stop_point:SP_995,La Palme,18
+2298561,13:31:00,13:31:10,stop_point:SP_1834,Cerbère,19
+2298561,13:32:00,13:32:10,stop_point:SP_2732,Bayonne,20
+2298561,13:33:00,13:33:10,stop_point:SP_4789,St-Caprais,21
+2298561,13:35:00,13:35:10,stop_point:SP_1296,Atlanta,22
+2298561,13:36:00,13:36:10,stop_point:SP_2974,Caunes,23
+2298561,13:37:00,13:37:10,stop_point:SP_3944,Ohnet,24
+2298561,13:38:00,13:38:10,stop_point:SP_2359,Vasseur,25
+2298561,13:40:00,13:40:10,stop_point:SP_3647,Cambard,26
+2298561,13:42:00,13:42:10,stop_point:SP_1227,Argoulets,27
+2298562,13:47:00,13:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298562,13:48:00,13:48:10,stop_point:SP_2535,Ratalens,2
+2298562,13:49:00,13:49:10,stop_point:SP_250,Calicéo,3
+2298562,13:49:00,13:49:10,stop_point:SP_1892,St-Tropez,4
+2298562,13:50:00,13:50:10,stop_point:SP_3286,Vallauris,5
+2298562,13:51:00,13:51:10,stop_point:SP_3503,Vence,6
+2298562,13:52:00,13:52:10,stop_point:SP_150,Aspin,7
+2298562,13:52:00,13:52:10,stop_point:SP_342,Piscine,8
+2298562,13:53:00,13:53:10,stop_point:SP_1833,Monts du Forez,9
+2298562,13:53:00,13:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298562,13:54:00,13:54:10,stop_point:SP_2232,Grive,11
+2298562,13:55:00,13:55:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298562,13:55:00,13:55:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298562,13:56:00,13:56:10,stop_point:SP_1320,Montcalm,14
+2298562,13:57:00,13:57:10,stop_point:SP_4788,Hasparren,15
+2298562,13:59:00,13:59:10,stop_point:SP_2050,Orthez,16
+2298562,13:59:00,13:59:10,stop_point:SP_852,La Franqui,17
+2298562,14:00:00,14:00:10,stop_point:SP_995,La Palme,18
+2298562,14:01:00,14:01:10,stop_point:SP_1834,Cerbère,19
+2298562,14:02:00,14:02:10,stop_point:SP_2732,Bayonne,20
+2298562,14:03:00,14:03:10,stop_point:SP_4789,St-Caprais,21
+2298562,14:05:00,14:05:10,stop_point:SP_1296,Atlanta,22
+2298562,14:06:00,14:06:10,stop_point:SP_2974,Caunes,23
+2298562,14:07:00,14:07:10,stop_point:SP_3944,Ohnet,24
+2298562,14:08:00,14:08:10,stop_point:SP_2359,Vasseur,25
+2298562,14:10:00,14:10:10,stop_point:SP_3647,Cambard,26
+2298562,14:12:00,14:12:10,stop_point:SP_1227,Argoulets,27
+2298563,14:16:00,14:16:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298563,14:17:00,14:17:10,stop_point:SP_2535,Ratalens,2
+2298563,14:18:00,14:18:10,stop_point:SP_250,Calicéo,3
+2298563,14:18:00,14:18:10,stop_point:SP_1892,St-Tropez,4
+2298563,14:19:00,14:19:10,stop_point:SP_3286,Vallauris,5
+2298563,14:20:00,14:20:10,stop_point:SP_3503,Vence,6
+2298563,14:21:00,14:21:10,stop_point:SP_150,Aspin,7
+2298563,14:21:00,14:21:10,stop_point:SP_342,Piscine,8
+2298563,14:22:00,14:22:10,stop_point:SP_1833,Monts du Forez,9
+2298563,14:22:00,14:22:10,stop_point:SP_1505,Vents d'Autan,10
+2298563,14:23:00,14:23:10,stop_point:SP_2232,Grive,11
+2298563,14:24:00,14:24:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298563,14:24:00,14:24:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298563,14:25:00,14:25:10,stop_point:SP_1320,Montcalm,14
+2298563,14:26:00,14:26:10,stop_point:SP_4788,Hasparren,15
+2298563,14:28:00,14:28:10,stop_point:SP_2050,Orthez,16
+2298563,14:28:00,14:28:10,stop_point:SP_852,La Franqui,17
+2298563,14:29:00,14:29:10,stop_point:SP_995,La Palme,18
+2298563,14:30:00,14:30:10,stop_point:SP_1834,Cerbère,19
+2298563,14:31:00,14:31:10,stop_point:SP_2732,Bayonne,20
+2298563,14:32:00,14:32:10,stop_point:SP_4789,St-Caprais,21
+2298563,14:34:00,14:34:10,stop_point:SP_1296,Atlanta,22
+2298563,14:35:00,14:35:10,stop_point:SP_2974,Caunes,23
+2298563,14:36:00,14:36:10,stop_point:SP_3944,Ohnet,24
+2298563,14:37:00,14:37:10,stop_point:SP_2359,Vasseur,25
+2298563,14:39:00,14:39:10,stop_point:SP_3647,Cambard,26
+2298563,14:41:00,14:41:10,stop_point:SP_1227,Argoulets,27
+2298564,14:47:00,14:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298564,14:48:00,14:48:10,stop_point:SP_2535,Ratalens,2
+2298564,14:49:00,14:49:10,stop_point:SP_250,Calicéo,3
+2298564,14:49:00,14:49:10,stop_point:SP_1892,St-Tropez,4
+2298564,14:50:00,14:50:10,stop_point:SP_3286,Vallauris,5
+2298564,14:51:00,14:51:10,stop_point:SP_3503,Vence,6
+2298564,14:52:00,14:52:10,stop_point:SP_150,Aspin,7
+2298564,14:52:00,14:52:10,stop_point:SP_342,Piscine,8
+2298564,14:53:00,14:53:10,stop_point:SP_1833,Monts du Forez,9
+2298564,14:53:00,14:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298564,14:55:00,14:55:10,stop_point:SP_2232,Grive,11
+2298564,14:56:00,14:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298564,14:56:00,14:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298564,14:57:00,14:57:10,stop_point:SP_1320,Montcalm,14
+2298564,14:58:00,14:58:10,stop_point:SP_4788,Hasparren,15
+2298564,15:00:00,15:00:10,stop_point:SP_2050,Orthez,16
+2298564,15:00:00,15:00:10,stop_point:SP_852,La Franqui,17
+2298564,15:01:00,15:01:10,stop_point:SP_995,La Palme,18
+2298564,15:02:00,15:02:10,stop_point:SP_1834,Cerbère,19
+2298564,15:03:00,15:03:10,stop_point:SP_2732,Bayonne,20
+2298564,15:04:00,15:04:10,stop_point:SP_4789,St-Caprais,21
+2298564,15:06:00,15:06:10,stop_point:SP_1296,Atlanta,22
+2298564,15:07:00,15:07:10,stop_point:SP_2974,Caunes,23
+2298564,15:08:00,15:08:10,stop_point:SP_3944,Ohnet,24
+2298564,15:09:00,15:09:10,stop_point:SP_2359,Vasseur,25
+2298564,15:11:00,15:11:10,stop_point:SP_3647,Cambard,26
+2298564,15:13:00,15:13:10,stop_point:SP_1227,Argoulets,27
+2298565,15:17:00,15:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298565,15:18:00,15:18:10,stop_point:SP_2535,Ratalens,2
+2298565,15:19:00,15:19:10,stop_point:SP_250,Calicéo,3
+2298565,15:19:00,15:19:10,stop_point:SP_1892,St-Tropez,4
+2298565,15:20:00,15:20:10,stop_point:SP_3286,Vallauris,5
+2298565,15:21:00,15:21:10,stop_point:SP_3503,Vence,6
+2298565,15:22:00,15:22:10,stop_point:SP_150,Aspin,7
+2298565,15:22:00,15:22:10,stop_point:SP_342,Piscine,8
+2298565,15:23:00,15:23:10,stop_point:SP_1833,Monts du Forez,9
+2298565,15:23:00,15:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298565,15:25:00,15:25:10,stop_point:SP_2232,Grive,11
+2298565,15:26:00,15:26:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298565,15:26:00,15:26:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298565,15:27:00,15:27:10,stop_point:SP_1320,Montcalm,14
+2298565,15:28:00,15:28:10,stop_point:SP_4788,Hasparren,15
+2298565,15:30:00,15:30:10,stop_point:SP_2050,Orthez,16
+2298565,15:30:00,15:30:10,stop_point:SP_852,La Franqui,17
+2298565,15:31:00,15:31:10,stop_point:SP_995,La Palme,18
+2298565,15:32:00,15:32:10,stop_point:SP_1834,Cerbère,19
+2298565,15:33:00,15:33:10,stop_point:SP_2732,Bayonne,20
+2298565,15:34:00,15:34:10,stop_point:SP_4789,St-Caprais,21
+2298565,15:36:00,15:36:10,stop_point:SP_1296,Atlanta,22
+2298565,15:37:00,15:37:10,stop_point:SP_2974,Caunes,23
+2298565,15:38:00,15:38:10,stop_point:SP_3944,Ohnet,24
+2298565,15:39:00,15:39:10,stop_point:SP_2359,Vasseur,25
+2298565,15:42:00,15:42:10,stop_point:SP_3647,Cambard,26
+2298565,15:44:00,15:44:10,stop_point:SP_1227,Argoulets,27
+2298566,15:47:00,15:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298566,15:48:00,15:48:10,stop_point:SP_2535,Ratalens,2
+2298566,15:49:00,15:49:10,stop_point:SP_250,Calicéo,3
+2298566,15:49:00,15:49:10,stop_point:SP_1892,St-Tropez,4
+2298566,15:50:00,15:50:10,stop_point:SP_3286,Vallauris,5
+2298566,15:51:00,15:51:10,stop_point:SP_3503,Vence,6
+2298566,15:52:00,15:52:10,stop_point:SP_150,Aspin,7
+2298566,15:52:00,15:52:10,stop_point:SP_342,Piscine,8
+2298566,15:53:00,15:53:10,stop_point:SP_1833,Monts du Forez,9
+2298566,15:53:00,15:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298566,15:55:00,15:55:10,stop_point:SP_2232,Grive,11
+2298566,15:56:00,15:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298566,15:56:00,15:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298566,15:57:00,15:57:10,stop_point:SP_1320,Montcalm,14
+2298566,15:58:00,15:58:10,stop_point:SP_4788,Hasparren,15
+2298566,16:00:00,16:00:10,stop_point:SP_2050,Orthez,16
+2298566,16:00:00,16:00:10,stop_point:SP_852,La Franqui,17
+2298566,16:01:00,16:01:10,stop_point:SP_995,La Palme,18
+2298566,16:02:00,16:02:10,stop_point:SP_1834,Cerbère,19
+2298566,16:03:00,16:03:10,stop_point:SP_2732,Bayonne,20
+2298566,16:04:00,16:04:10,stop_point:SP_4789,St-Caprais,21
+2298566,16:06:00,16:06:10,stop_point:SP_1296,Atlanta,22
+2298566,16:07:00,16:07:10,stop_point:SP_2974,Caunes,23
+2298566,16:08:00,16:08:10,stop_point:SP_3944,Ohnet,24
+2298566,16:09:00,16:09:10,stop_point:SP_2359,Vasseur,25
+2298566,16:12:00,16:12:10,stop_point:SP_3647,Cambard,26
+2298566,16:14:00,16:14:10,stop_point:SP_1227,Argoulets,27
+2298567,16:17:00,16:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298567,16:18:00,16:18:10,stop_point:SP_2535,Ratalens,2
+2298567,16:19:00,16:19:10,stop_point:SP_250,Calicéo,3
+2298567,16:19:00,16:19:10,stop_point:SP_1892,St-Tropez,4
+2298567,16:20:00,16:20:10,stop_point:SP_3286,Vallauris,5
+2298567,16:21:00,16:21:10,stop_point:SP_3503,Vence,6
+2298567,16:22:00,16:22:10,stop_point:SP_150,Aspin,7
+2298567,16:22:00,16:22:10,stop_point:SP_342,Piscine,8
+2298567,16:23:00,16:23:10,stop_point:SP_1833,Monts du Forez,9
+2298567,16:23:00,16:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298567,16:25:00,16:25:10,stop_point:SP_2232,Grive,11
+2298567,16:26:00,16:26:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298567,16:26:00,16:26:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298567,16:27:00,16:27:10,stop_point:SP_1320,Montcalm,14
+2298567,16:28:00,16:28:10,stop_point:SP_4788,Hasparren,15
+2298567,16:30:00,16:30:10,stop_point:SP_2050,Orthez,16
+2298567,16:30:00,16:30:10,stop_point:SP_852,La Franqui,17
+2298567,16:31:00,16:31:10,stop_point:SP_995,La Palme,18
+2298567,16:32:00,16:32:10,stop_point:SP_1834,Cerbère,19
+2298567,16:34:00,16:34:10,stop_point:SP_2732,Bayonne,20
+2298567,16:35:00,16:35:10,stop_point:SP_4789,St-Caprais,21
+2298567,16:37:00,16:37:10,stop_point:SP_1296,Atlanta,22
+2298567,16:38:00,16:38:10,stop_point:SP_2974,Caunes,23
+2298567,16:39:00,16:39:10,stop_point:SP_3944,Ohnet,24
+2298567,16:40:00,16:40:10,stop_point:SP_2359,Vasseur,25
+2298567,16:43:00,16:43:10,stop_point:SP_3647,Cambard,26
+2298567,16:45:00,16:45:10,stop_point:SP_1227,Argoulets,27
+2298568,16:47:00,16:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298568,16:48:00,16:48:10,stop_point:SP_2535,Ratalens,2
+2298568,16:49:00,16:49:10,stop_point:SP_250,Calicéo,3
+2298568,16:49:00,16:49:10,stop_point:SP_1892,St-Tropez,4
+2298568,16:50:00,16:50:10,stop_point:SP_3286,Vallauris,5
+2298568,16:51:00,16:51:10,stop_point:SP_3503,Vence,6
+2298568,16:52:00,16:52:10,stop_point:SP_150,Aspin,7
+2298568,16:52:00,16:52:10,stop_point:SP_342,Piscine,8
+2298568,16:53:00,16:53:10,stop_point:SP_1833,Monts du Forez,9
+2298568,16:53:00,16:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298568,16:55:00,16:55:10,stop_point:SP_2232,Grive,11
+2298568,16:56:00,16:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298568,16:56:00,16:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298568,16:57:00,16:57:10,stop_point:SP_1320,Montcalm,14
+2298568,16:58:00,16:58:10,stop_point:SP_4788,Hasparren,15
+2298568,17:00:00,17:00:10,stop_point:SP_2050,Orthez,16
+2298568,17:00:00,17:00:10,stop_point:SP_852,La Franqui,17
+2298568,17:01:00,17:01:10,stop_point:SP_995,La Palme,18
+2298568,17:02:00,17:02:10,stop_point:SP_1834,Cerbère,19
+2298568,17:04:00,17:04:10,stop_point:SP_2732,Bayonne,20
+2298568,17:05:00,17:05:10,stop_point:SP_4789,St-Caprais,21
+2298568,17:07:00,17:07:10,stop_point:SP_1296,Atlanta,22
+2298568,17:09:00,17:09:10,stop_point:SP_2974,Caunes,23
+2298568,17:10:00,17:10:10,stop_point:SP_3944,Ohnet,24
+2298568,17:11:00,17:11:10,stop_point:SP_2359,Vasseur,25
+2298568,17:14:00,17:14:10,stop_point:SP_3647,Cambard,26
+2298568,17:16:00,17:16:10,stop_point:SP_1227,Argoulets,27
+2298569,17:17:00,17:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298569,17:18:00,17:18:10,stop_point:SP_2535,Ratalens,2
+2298569,17:19:00,17:19:10,stop_point:SP_250,Calicéo,3
+2298569,17:20:00,17:20:10,stop_point:SP_1892,St-Tropez,4
+2298569,17:20:00,17:20:10,stop_point:SP_3286,Vallauris,5
+2298569,17:21:00,17:21:10,stop_point:SP_3503,Vence,6
+2298569,17:23:00,17:23:10,stop_point:SP_150,Aspin,7
+2298569,17:23:00,17:23:10,stop_point:SP_342,Piscine,8
+2298569,17:24:00,17:24:10,stop_point:SP_1833,Monts du Forez,9
+2298569,17:24:00,17:24:10,stop_point:SP_1505,Vents d'Autan,10
+2298569,17:26:00,17:26:10,stop_point:SP_2232,Grive,11
+2298569,17:27:00,17:27:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298569,17:27:00,17:27:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298569,17:28:00,17:28:10,stop_point:SP_1320,Montcalm,14
+2298569,17:29:00,17:29:10,stop_point:SP_4788,Hasparren,15
+2298569,17:31:00,17:31:10,stop_point:SP_2050,Orthez,16
+2298569,17:31:00,17:31:10,stop_point:SP_852,La Franqui,17
+2298569,17:32:00,17:32:10,stop_point:SP_995,La Palme,18
+2298569,17:33:00,17:33:10,stop_point:SP_1834,Cerbère,19
+2298569,17:35:00,17:35:10,stop_point:SP_2732,Bayonne,20
+2298569,17:36:00,17:36:10,stop_point:SP_4789,St-Caprais,21
+2298569,17:39:00,17:39:10,stop_point:SP_1296,Atlanta,22
+2298569,17:41:00,17:41:10,stop_point:SP_2974,Caunes,23
+2298569,17:42:00,17:42:10,stop_point:SP_3944,Ohnet,24
+2298569,17:43:00,17:43:10,stop_point:SP_2359,Vasseur,25
+2298569,17:46:00,17:46:10,stop_point:SP_3647,Cambard,26
+2298569,17:48:00,17:48:10,stop_point:SP_1227,Argoulets,27
+2298570,17:47:00,17:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298570,17:48:00,17:48:10,stop_point:SP_2535,Ratalens,2
+2298570,17:49:00,17:49:10,stop_point:SP_250,Calicéo,3
+2298570,17:50:00,17:50:10,stop_point:SP_1892,St-Tropez,4
+2298570,17:50:00,17:50:10,stop_point:SP_3286,Vallauris,5
+2298570,17:51:00,17:51:10,stop_point:SP_3503,Vence,6
+2298570,17:53:00,17:53:10,stop_point:SP_150,Aspin,7
+2298570,17:53:00,17:53:10,stop_point:SP_342,Piscine,8
+2298570,17:54:00,17:54:10,stop_point:SP_1833,Monts du Forez,9
+2298570,17:54:00,17:54:10,stop_point:SP_1505,Vents d'Autan,10
+2298570,17:56:00,17:56:10,stop_point:SP_2232,Grive,11
+2298570,17:57:00,17:57:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298570,17:57:00,17:57:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298570,17:58:00,17:58:10,stop_point:SP_1320,Montcalm,14
+2298570,17:59:00,17:59:10,stop_point:SP_4788,Hasparren,15
+2298570,18:01:00,18:01:10,stop_point:SP_2050,Orthez,16
+2298570,18:01:00,18:01:10,stop_point:SP_852,La Franqui,17
+2298570,18:02:00,18:02:10,stop_point:SP_995,La Palme,18
+2298570,18:03:00,18:03:10,stop_point:SP_1834,Cerbère,19
+2298570,18:05:00,18:05:10,stop_point:SP_2732,Bayonne,20
+2298570,18:06:00,18:06:10,stop_point:SP_4789,St-Caprais,21
+2298570,18:08:00,18:08:10,stop_point:SP_1296,Atlanta,22
+2298570,18:10:00,18:10:10,stop_point:SP_2974,Caunes,23
+2298570,18:11:00,18:11:10,stop_point:SP_3944,Ohnet,24
+2298570,18:12:00,18:12:10,stop_point:SP_2359,Vasseur,25
+2298570,18:14:00,18:14:10,stop_point:SP_3647,Cambard,26
+2298570,18:16:00,18:16:10,stop_point:SP_1227,Argoulets,27
+2298571,18:17:00,18:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298571,18:18:00,18:18:10,stop_point:SP_2535,Ratalens,2
+2298571,18:19:00,18:19:10,stop_point:SP_250,Calicéo,3
+2298571,18:20:00,18:20:10,stop_point:SP_1892,St-Tropez,4
+2298571,18:20:00,18:20:10,stop_point:SP_3286,Vallauris,5
+2298571,18:21:00,18:21:10,stop_point:SP_3503,Vence,6
+2298571,18:23:00,18:23:10,stop_point:SP_150,Aspin,7
+2298571,18:23:00,18:23:10,stop_point:SP_342,Piscine,8
+2298571,18:24:00,18:24:10,stop_point:SP_1833,Monts du Forez,9
+2298571,18:24:00,18:24:10,stop_point:SP_1505,Vents d'Autan,10
+2298571,18:26:00,18:26:10,stop_point:SP_2232,Grive,11
+2298571,18:27:00,18:27:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298571,18:27:00,18:27:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298571,18:28:00,18:28:10,stop_point:SP_1320,Montcalm,14
+2298571,18:29:00,18:29:10,stop_point:SP_4788,Hasparren,15
+2298571,18:31:00,18:31:10,stop_point:SP_2050,Orthez,16
+2298571,18:31:00,18:31:10,stop_point:SP_852,La Franqui,17
+2298571,18:32:00,18:32:10,stop_point:SP_995,La Palme,18
+2298571,18:33:00,18:33:10,stop_point:SP_1834,Cerbère,19
+2298571,18:35:00,18:35:10,stop_point:SP_2732,Bayonne,20
+2298571,18:36:00,18:36:10,stop_point:SP_4789,St-Caprais,21
+2298571,18:38:00,18:38:10,stop_point:SP_1296,Atlanta,22
+2298571,18:40:00,18:40:10,stop_point:SP_2974,Caunes,23
+2298571,18:41:00,18:41:10,stop_point:SP_3944,Ohnet,24
+2298571,18:42:00,18:42:10,stop_point:SP_2359,Vasseur,25
+2298571,18:44:00,18:44:10,stop_point:SP_3647,Cambard,26
+2298571,18:46:00,18:46:10,stop_point:SP_1227,Argoulets,27
+2298572,18:47:00,18:47:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298572,18:48:00,18:48:10,stop_point:SP_2535,Ratalens,2
+2298572,18:49:00,18:49:10,stop_point:SP_250,Calicéo,3
+2298572,18:49:00,18:49:10,stop_point:SP_1892,St-Tropez,4
+2298572,18:50:00,18:50:10,stop_point:SP_3286,Vallauris,5
+2298572,18:51:00,18:51:10,stop_point:SP_3503,Vence,6
+2298572,18:52:00,18:52:10,stop_point:SP_150,Aspin,7
+2298572,18:52:00,18:52:10,stop_point:SP_342,Piscine,8
+2298572,18:53:00,18:53:10,stop_point:SP_1833,Monts du Forez,9
+2298572,18:53:00,18:53:10,stop_point:SP_1505,Vents d'Autan,10
+2298572,18:55:00,18:55:10,stop_point:SP_2232,Grive,11
+2298572,18:56:00,18:56:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298572,18:56:00,18:56:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298572,18:57:00,18:57:10,stop_point:SP_1320,Montcalm,14
+2298572,18:58:00,18:58:10,stop_point:SP_4788,Hasparren,15
+2298572,19:00:00,19:00:10,stop_point:SP_2050,Orthez,16
+2298572,19:00:00,19:00:10,stop_point:SP_852,La Franqui,17
+2298572,19:01:00,19:01:10,stop_point:SP_995,La Palme,18
+2298572,19:02:00,19:02:10,stop_point:SP_1834,Cerbère,19
+2298572,19:04:00,19:04:10,stop_point:SP_2732,Bayonne,20
+2298572,19:05:00,19:05:10,stop_point:SP_4789,St-Caprais,21
+2298572,19:07:00,19:07:10,stop_point:SP_1296,Atlanta,22
+2298572,19:09:00,19:09:10,stop_point:SP_2974,Caunes,23
+2298572,19:10:00,19:10:10,stop_point:SP_3944,Ohnet,24
+2298572,19:11:00,19:11:10,stop_point:SP_2359,Vasseur,25
+2298572,19:13:00,19:13:10,stop_point:SP_3647,Cambard,26
+2298572,19:15:00,19:15:10,stop_point:SP_1227,Argoulets,27
+2298573,19:17:00,19:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298573,19:18:00,19:18:10,stop_point:SP_2535,Ratalens,2
+2298573,19:19:00,19:19:10,stop_point:SP_250,Calicéo,3
+2298573,19:19:00,19:19:10,stop_point:SP_1892,St-Tropez,4
+2298573,19:20:00,19:20:10,stop_point:SP_3286,Vallauris,5
+2298573,19:21:00,19:21:10,stop_point:SP_3503,Vence,6
+2298573,19:22:00,19:22:10,stop_point:SP_150,Aspin,7
+2298573,19:22:00,19:22:10,stop_point:SP_342,Piscine,8
+2298573,19:23:00,19:23:10,stop_point:SP_1833,Monts du Forez,9
+2298573,19:23:00,19:23:10,stop_point:SP_1505,Vents d'Autan,10
+2298573,19:24:00,19:24:10,stop_point:SP_2232,Grive,11
+2298573,19:25:00,19:25:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298573,19:25:00,19:25:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298573,19:26:00,19:26:10,stop_point:SP_1320,Montcalm,14
+2298573,19:27:00,19:27:10,stop_point:SP_4788,Hasparren,15
+2298573,19:29:00,19:29:10,stop_point:SP_2050,Orthez,16
+2298573,19:29:00,19:29:10,stop_point:SP_852,La Franqui,17
+2298573,19:30:00,19:30:10,stop_point:SP_995,La Palme,18
+2298573,19:31:00,19:31:10,stop_point:SP_1834,Cerbère,19
+2298573,19:32:00,19:32:10,stop_point:SP_2732,Bayonne,20
+2298573,19:33:00,19:33:10,stop_point:SP_4789,St-Caprais,21
+2298573,19:35:00,19:35:10,stop_point:SP_1296,Atlanta,22
+2298573,19:37:00,19:37:10,stop_point:SP_2974,Caunes,23
+2298573,19:38:00,19:38:10,stop_point:SP_3944,Ohnet,24
+2298573,19:39:00,19:39:10,stop_point:SP_2359,Vasseur,25
+2298573,19:41:00,19:41:10,stop_point:SP_3647,Cambard,26
+2298573,19:43:00,19:43:10,stop_point:SP_1227,Argoulets,27
+2298574,19:50:00,19:50:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298574,19:51:00,19:51:10,stop_point:SP_2535,Ratalens,2
+2298574,19:52:00,19:52:10,stop_point:SP_250,Calicéo,3
+2298574,19:52:00,19:52:10,stop_point:SP_1892,St-Tropez,4
+2298574,19:53:00,19:53:10,stop_point:SP_3286,Vallauris,5
+2298574,19:54:00,19:54:10,stop_point:SP_3503,Vence,6
+2298574,19:55:00,19:55:10,stop_point:SP_150,Aspin,7
+2298574,19:55:00,19:55:10,stop_point:SP_342,Piscine,8
+2298574,19:56:00,19:56:10,stop_point:SP_1833,Monts du Forez,9
+2298574,19:56:00,19:56:10,stop_point:SP_1505,Vents d'Autan,10
+2298574,19:57:00,19:57:10,stop_point:SP_2232,Grive,11
+2298574,19:58:00,19:58:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298574,19:58:00,19:58:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298574,19:59:00,19:59:10,stop_point:SP_1320,Montcalm,14
+2298574,20:00:00,20:00:10,stop_point:SP_4788,Hasparren,15
+2298574,20:01:00,20:01:10,stop_point:SP_2050,Orthez,16
+2298574,20:02:00,20:02:10,stop_point:SP_852,La Franqui,17
+2298574,20:02:00,20:02:10,stop_point:SP_995,La Palme,18
+2298574,20:03:00,20:03:10,stop_point:SP_1834,Cerbère,19
+2298574,20:04:00,20:04:10,stop_point:SP_2732,Bayonne,20
+2298574,20:05:00,20:05:10,stop_point:SP_4789,St-Caprais,21
+2298574,20:07:00,20:07:10,stop_point:SP_1296,Atlanta,22
+2298574,20:08:00,20:08:10,stop_point:SP_2974,Caunes,23
+2298574,20:09:00,20:09:10,stop_point:SP_3944,Ohnet,24
+2298574,20:10:00,20:10:10,stop_point:SP_2359,Vasseur,25
+2298574,20:12:00,20:12:10,stop_point:SP_3647,Cambard,26
+2298574,20:14:00,20:14:10,stop_point:SP_1227,Argoulets,27
+2298575,20:25:00,20:25:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298575,20:26:00,20:26:10,stop_point:SP_2535,Ratalens,2
+2298575,20:27:00,20:27:10,stop_point:SP_250,Calicéo,3
+2298575,20:27:00,20:27:10,stop_point:SP_1892,St-Tropez,4
+2298575,20:28:00,20:28:10,stop_point:SP_3286,Vallauris,5
+2298575,20:29:00,20:29:10,stop_point:SP_3503,Vence,6
+2298575,20:30:00,20:30:10,stop_point:SP_150,Aspin,7
+2298575,20:30:00,20:30:10,stop_point:SP_342,Piscine,8
+2298575,20:31:00,20:31:10,stop_point:SP_1833,Monts du Forez,9
+2298575,20:31:00,20:31:10,stop_point:SP_1505,Vents d'Autan,10
+2298575,20:32:00,20:32:10,stop_point:SP_2232,Grive,11
+2298575,20:33:00,20:33:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298575,20:33:00,20:33:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298575,20:34:00,20:34:10,stop_point:SP_1320,Montcalm,14
+2298575,20:34:00,20:34:10,stop_point:SP_4788,Hasparren,15
+2298575,20:35:00,20:35:10,stop_point:SP_2050,Orthez,16
+2298575,20:36:00,20:36:10,stop_point:SP_852,La Franqui,17
+2298575,20:37:00,20:37:10,stop_point:SP_995,La Palme,18
+2298575,20:37:00,20:37:10,stop_point:SP_1834,Cerbère,19
+2298575,20:38:00,20:38:10,stop_point:SP_2732,Bayonne,20
+2298575,20:39:00,20:39:10,stop_point:SP_4789,St-Caprais,21
+2298575,20:41:00,20:41:10,stop_point:SP_1296,Atlanta,22
+2298575,20:42:00,20:42:10,stop_point:SP_2974,Caunes,23
+2298575,20:43:00,20:43:10,stop_point:SP_3944,Ohnet,24
+2298575,20:44:00,20:44:10,stop_point:SP_2359,Vasseur,25
+2298575,20:46:00,20:46:10,stop_point:SP_3647,Cambard,26
+2298575,20:48:00,20:48:10,stop_point:SP_1227,Argoulets,27
+2298635,06:00:00,06:00:10,stop_point:SP_1227,Argoulets,1
+2298635,06:01:00,06:01:10,stop_point:SP_1173,Cambard,2
+2298635,06:02:00,06:02:10,stop_point:SP_890,Vasseur,3
+2298635,06:03:00,06:03:10,stop_point:SP_910,Ohnet,4
+2298635,06:03:00,06:03:10,stop_point:SP_2148,Caunes,5
+2298635,06:04:00,06:04:10,stop_point:SP_1303,Atlanta,6
+2298635,06:06:00,06:06:10,stop_point:SP_2827,St-Caprais,7
+2298635,06:07:00,06:07:10,stop_point:SP_1156,Cerbère,8
+2298635,06:08:00,06:08:10,stop_point:SP_1898,La Palme,9
+2298635,06:08:00,06:08:10,stop_point:SP_248,La Franqui,10
+2298635,06:09:00,06:09:10,stop_point:SP_242,Orthez,11
+2298635,06:10:00,06:10:10,stop_point:SP_4786,Hasparren,12
+2298635,06:11:00,06:11:10,stop_point:SP_2571,Montcalm,13
+2298635,06:12:00,06:12:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298635,06:12:00,06:12:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298635,06:13:00,06:13:10,stop_point:SP_3517,Grive,16
+2298635,06:13:00,06:13:10,stop_point:SP_268,Vents d'Autan,17
+2298635,06:13:00,06:13:10,stop_point:SP_3035,Monts du Forez,18
+2298635,06:14:00,06:14:10,stop_point:SP_3406,Piscine,19
+2298635,06:15:00,06:15:10,stop_point:SP_677,Aspin,20
+2298635,06:15:00,06:15:10,stop_point:SP_29,Vence,21
+2298635,06:16:00,06:16:10,stop_point:SP_1788,Vallauris,22
+2298635,06:17:00,06:17:10,stop_point:SP_854,St-Tropez,23
+2298635,06:17:00,06:17:10,stop_point:SP_2411,Calicéo,24
+2298635,06:18:00,06:18:10,stop_point:SP_2219,Ratalens,25
+2298635,06:19:00,06:19:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298636,07:00:00,07:00:10,stop_point:SP_1227,Argoulets,1
+2298636,07:01:00,07:01:10,stop_point:SP_1173,Cambard,2
+2298636,07:02:00,07:02:10,stop_point:SP_890,Vasseur,3
+2298636,07:03:00,07:03:10,stop_point:SP_910,Ohnet,4
+2298636,07:03:00,07:03:10,stop_point:SP_2148,Caunes,5
+2298636,07:04:00,07:04:10,stop_point:SP_1303,Atlanta,6
+2298636,07:06:00,07:06:10,stop_point:SP_2827,St-Caprais,7
+2298636,07:07:00,07:07:10,stop_point:SP_1156,Cerbère,8
+2298636,07:08:00,07:08:10,stop_point:SP_1898,La Palme,9
+2298636,07:08:00,07:08:10,stop_point:SP_248,La Franqui,10
+2298636,07:09:00,07:09:10,stop_point:SP_242,Orthez,11
+2298636,07:10:00,07:10:10,stop_point:SP_4786,Hasparren,12
+2298636,07:11:00,07:11:10,stop_point:SP_2571,Montcalm,13
+2298636,07:12:00,07:12:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298636,07:12:00,07:12:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298636,07:13:00,07:13:10,stop_point:SP_3517,Grive,16
+2298636,07:13:00,07:13:10,stop_point:SP_268,Vents d'Autan,17
+2298636,07:13:00,07:13:10,stop_point:SP_3035,Monts du Forez,18
+2298636,07:14:00,07:14:10,stop_point:SP_3406,Piscine,19
+2298636,07:15:00,07:15:10,stop_point:SP_677,Aspin,20
+2298636,07:15:00,07:15:10,stop_point:SP_29,Vence,21
+2298636,07:16:00,07:16:10,stop_point:SP_1788,Vallauris,22
+2298636,07:17:00,07:17:10,stop_point:SP_854,St-Tropez,23
+2298636,07:17:00,07:17:10,stop_point:SP_2411,Calicéo,24
+2298636,07:18:00,07:18:10,stop_point:SP_2219,Ratalens,25
+2298636,07:19:00,07:19:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298637,08:00:00,08:00:10,stop_point:SP_1227,Argoulets,1
+2298637,08:01:00,08:01:10,stop_point:SP_1173,Cambard,2
+2298637,08:02:00,08:02:10,stop_point:SP_890,Vasseur,3
+2298637,08:03:00,08:03:10,stop_point:SP_910,Ohnet,4
+2298637,08:03:00,08:03:10,stop_point:SP_2148,Caunes,5
+2298637,08:04:00,08:04:10,stop_point:SP_1303,Atlanta,6
+2298637,08:06:00,08:06:10,stop_point:SP_2827,St-Caprais,7
+2298637,08:07:00,08:07:10,stop_point:SP_1156,Cerbère,8
+2298637,08:08:00,08:08:10,stop_point:SP_1898,La Palme,9
+2298637,08:09:00,08:09:10,stop_point:SP_248,La Franqui,10
+2298637,08:09:00,08:09:10,stop_point:SP_242,Orthez,11
+2298637,08:10:00,08:10:10,stop_point:SP_4786,Hasparren,12
+2298637,08:11:00,08:11:10,stop_point:SP_2571,Montcalm,13
+2298637,08:12:00,08:12:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298637,08:13:00,08:13:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298637,08:14:00,08:14:10,stop_point:SP_3517,Grive,16
+2298637,08:15:00,08:15:10,stop_point:SP_268,Vents d'Autan,17
+2298637,08:15:00,08:15:10,stop_point:SP_3035,Monts du Forez,18
+2298637,08:16:00,08:16:10,stop_point:SP_3406,Piscine,19
+2298637,08:17:00,08:17:10,stop_point:SP_677,Aspin,20
+2298637,08:17:00,08:17:10,stop_point:SP_29,Vence,21
+2298637,08:18:00,08:18:10,stop_point:SP_1788,Vallauris,22
+2298637,08:19:00,08:19:10,stop_point:SP_854,St-Tropez,23
+2298637,08:19:00,08:19:10,stop_point:SP_2411,Calicéo,24
+2298637,08:20:00,08:20:10,stop_point:SP_2219,Ratalens,25
+2298637,08:21:00,08:21:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298638,09:00:00,09:00:10,stop_point:SP_1227,Argoulets,1
+2298638,09:01:00,09:01:10,stop_point:SP_1173,Cambard,2
+2298638,09:02:00,09:02:10,stop_point:SP_890,Vasseur,3
+2298638,09:03:00,09:03:10,stop_point:SP_910,Ohnet,4
+2298638,09:03:00,09:03:10,stop_point:SP_2148,Caunes,5
+2298638,09:04:00,09:04:10,stop_point:SP_1303,Atlanta,6
+2298638,09:06:00,09:06:10,stop_point:SP_2827,St-Caprais,7
+2298638,09:07:00,09:07:10,stop_point:SP_1156,Cerbère,8
+2298638,09:08:00,09:08:10,stop_point:SP_1898,La Palme,9
+2298638,09:09:00,09:09:10,stop_point:SP_248,La Franqui,10
+2298638,09:09:00,09:09:10,stop_point:SP_242,Orthez,11
+2298638,09:10:00,09:10:10,stop_point:SP_4786,Hasparren,12
+2298638,09:11:00,09:11:10,stop_point:SP_2571,Montcalm,13
+2298638,09:12:00,09:12:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298638,09:13:00,09:13:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298638,09:14:00,09:14:10,stop_point:SP_3517,Grive,16
+2298638,09:15:00,09:15:10,stop_point:SP_268,Vents d'Autan,17
+2298638,09:15:00,09:15:10,stop_point:SP_3035,Monts du Forez,18
+2298638,09:16:00,09:16:10,stop_point:SP_3406,Piscine,19
+2298638,09:17:00,09:17:10,stop_point:SP_677,Aspin,20
+2298638,09:17:00,09:17:10,stop_point:SP_29,Vence,21
+2298638,09:18:00,09:18:10,stop_point:SP_1788,Vallauris,22
+2298638,09:19:00,09:19:10,stop_point:SP_854,St-Tropez,23
+2298638,09:19:00,09:19:10,stop_point:SP_2411,Calicéo,24
+2298638,09:20:00,09:20:10,stop_point:SP_2219,Ratalens,25
+2298638,09:21:00,09:21:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298639,10:00:00,10:00:10,stop_point:SP_1227,Argoulets,1
+2298639,10:01:00,10:01:10,stop_point:SP_1173,Cambard,2
+2298639,10:03:00,10:03:10,stop_point:SP_890,Vasseur,3
+2298639,10:04:00,10:04:10,stop_point:SP_910,Ohnet,4
+2298639,10:04:00,10:04:10,stop_point:SP_2148,Caunes,5
+2298639,10:05:00,10:05:10,stop_point:SP_1303,Atlanta,6
+2298639,10:07:00,10:07:10,stop_point:SP_2827,St-Caprais,7
+2298639,10:08:00,10:08:10,stop_point:SP_1156,Cerbère,8
+2298639,10:09:00,10:09:10,stop_point:SP_1898,La Palme,9
+2298639,10:10:00,10:10:10,stop_point:SP_248,La Franqui,10
+2298639,10:10:00,10:10:10,stop_point:SP_242,Orthez,11
+2298639,10:11:00,10:11:10,stop_point:SP_4786,Hasparren,12
+2298639,10:12:00,10:12:10,stop_point:SP_2571,Montcalm,13
+2298639,10:13:00,10:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298639,10:14:00,10:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298639,10:15:00,10:15:10,stop_point:SP_3517,Grive,16
+2298639,10:16:00,10:16:10,stop_point:SP_268,Vents d'Autan,17
+2298639,10:16:00,10:16:10,stop_point:SP_3035,Monts du Forez,18
+2298639,10:17:00,10:17:10,stop_point:SP_3406,Piscine,19
+2298639,10:18:00,10:18:10,stop_point:SP_677,Aspin,20
+2298639,10:18:00,10:18:10,stop_point:SP_29,Vence,21
+2298639,10:19:00,10:19:10,stop_point:SP_1788,Vallauris,22
+2298639,10:20:00,10:20:10,stop_point:SP_854,St-Tropez,23
+2298639,10:20:00,10:20:10,stop_point:SP_2411,Calicéo,24
+2298639,10:21:00,10:21:10,stop_point:SP_2219,Ratalens,25
+2298639,10:22:00,10:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298640,11:00:00,11:00:10,stop_point:SP_1227,Argoulets,1
+2298640,11:01:00,11:01:10,stop_point:SP_1173,Cambard,2
+2298640,11:03:00,11:03:10,stop_point:SP_890,Vasseur,3
+2298640,11:04:00,11:04:10,stop_point:SP_910,Ohnet,4
+2298640,11:04:00,11:04:10,stop_point:SP_2148,Caunes,5
+2298640,11:05:00,11:05:10,stop_point:SP_1303,Atlanta,6
+2298640,11:07:00,11:07:10,stop_point:SP_2827,St-Caprais,7
+2298640,11:08:00,11:08:10,stop_point:SP_1156,Cerbère,8
+2298640,11:09:00,11:09:10,stop_point:SP_1898,La Palme,9
+2298640,11:10:00,11:10:10,stop_point:SP_248,La Franqui,10
+2298640,11:10:00,11:10:10,stop_point:SP_242,Orthez,11
+2298640,11:11:00,11:11:10,stop_point:SP_4786,Hasparren,12
+2298640,11:12:00,11:12:10,stop_point:SP_2571,Montcalm,13
+2298640,11:13:00,11:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298640,11:14:00,11:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298640,11:15:00,11:15:10,stop_point:SP_3517,Grive,16
+2298640,11:16:00,11:16:10,stop_point:SP_268,Vents d'Autan,17
+2298640,11:16:00,11:16:10,stop_point:SP_3035,Monts du Forez,18
+2298640,11:17:00,11:17:10,stop_point:SP_3406,Piscine,19
+2298640,11:18:00,11:18:10,stop_point:SP_677,Aspin,20
+2298640,11:18:00,11:18:10,stop_point:SP_29,Vence,21
+2298640,11:19:00,11:19:10,stop_point:SP_1788,Vallauris,22
+2298640,11:20:00,11:20:10,stop_point:SP_854,St-Tropez,23
+2298640,11:20:00,11:20:10,stop_point:SP_2411,Calicéo,24
+2298640,11:21:00,11:21:10,stop_point:SP_2219,Ratalens,25
+2298640,11:22:00,11:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298641,12:00:00,12:00:10,stop_point:SP_1227,Argoulets,1
+2298641,12:01:00,12:01:10,stop_point:SP_1173,Cambard,2
+2298641,12:03:00,12:03:10,stop_point:SP_890,Vasseur,3
+2298641,12:04:00,12:04:10,stop_point:SP_910,Ohnet,4
+2298641,12:04:00,12:04:10,stop_point:SP_2148,Caunes,5
+2298641,12:05:00,12:05:10,stop_point:SP_1303,Atlanta,6
+2298641,12:07:00,12:07:10,stop_point:SP_2827,St-Caprais,7
+2298641,12:08:00,12:08:10,stop_point:SP_1156,Cerbère,8
+2298641,12:09:00,12:09:10,stop_point:SP_1898,La Palme,9
+2298641,12:10:00,12:10:10,stop_point:SP_248,La Franqui,10
+2298641,12:10:00,12:10:10,stop_point:SP_242,Orthez,11
+2298641,12:11:00,12:11:10,stop_point:SP_4786,Hasparren,12
+2298641,12:12:00,12:12:10,stop_point:SP_2571,Montcalm,13
+2298641,12:13:00,12:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298641,12:14:00,12:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298641,12:15:00,12:15:10,stop_point:SP_3517,Grive,16
+2298641,12:16:00,12:16:10,stop_point:SP_268,Vents d'Autan,17
+2298641,12:16:00,12:16:10,stop_point:SP_3035,Monts du Forez,18
+2298641,12:17:00,12:17:10,stop_point:SP_3406,Piscine,19
+2298641,12:18:00,12:18:10,stop_point:SP_677,Aspin,20
+2298641,12:18:00,12:18:10,stop_point:SP_29,Vence,21
+2298641,12:19:00,12:19:10,stop_point:SP_1788,Vallauris,22
+2298641,12:20:00,12:20:10,stop_point:SP_854,St-Tropez,23
+2298641,12:20:00,12:20:10,stop_point:SP_2411,Calicéo,24
+2298641,12:21:00,12:21:10,stop_point:SP_2219,Ratalens,25
+2298641,12:22:00,12:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298642,13:00:00,13:00:10,stop_point:SP_1227,Argoulets,1
+2298642,13:01:00,13:01:10,stop_point:SP_1173,Cambard,2
+2298642,13:03:00,13:03:10,stop_point:SP_890,Vasseur,3
+2298642,13:04:00,13:04:10,stop_point:SP_910,Ohnet,4
+2298642,13:04:00,13:04:10,stop_point:SP_2148,Caunes,5
+2298642,13:05:00,13:05:10,stop_point:SP_1303,Atlanta,6
+2298642,13:07:00,13:07:10,stop_point:SP_2827,St-Caprais,7
+2298642,13:08:00,13:08:10,stop_point:SP_1156,Cerbère,8
+2298642,13:09:00,13:09:10,stop_point:SP_1898,La Palme,9
+2298642,13:10:00,13:10:10,stop_point:SP_248,La Franqui,10
+2298642,13:10:00,13:10:10,stop_point:SP_242,Orthez,11
+2298642,13:11:00,13:11:10,stop_point:SP_4786,Hasparren,12
+2298642,13:12:00,13:12:10,stop_point:SP_2571,Montcalm,13
+2298642,13:13:00,13:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298642,13:14:00,13:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298642,13:15:00,13:15:10,stop_point:SP_3517,Grive,16
+2298642,13:16:00,13:16:10,stop_point:SP_268,Vents d'Autan,17
+2298642,13:16:00,13:16:10,stop_point:SP_3035,Monts du Forez,18
+2298642,13:17:00,13:17:10,stop_point:SP_3406,Piscine,19
+2298642,13:18:00,13:18:10,stop_point:SP_677,Aspin,20
+2298642,13:18:00,13:18:10,stop_point:SP_29,Vence,21
+2298642,13:19:00,13:19:10,stop_point:SP_1788,Vallauris,22
+2298642,13:20:00,13:20:10,stop_point:SP_854,St-Tropez,23
+2298642,13:20:00,13:20:10,stop_point:SP_2411,Calicéo,24
+2298642,13:21:00,13:21:10,stop_point:SP_2219,Ratalens,25
+2298642,13:22:00,13:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298643,14:00:00,14:00:10,stop_point:SP_1227,Argoulets,1
+2298643,14:01:00,14:01:10,stop_point:SP_1173,Cambard,2
+2298643,14:03:00,14:03:10,stop_point:SP_890,Vasseur,3
+2298643,14:04:00,14:04:10,stop_point:SP_910,Ohnet,4
+2298643,14:04:00,14:04:10,stop_point:SP_2148,Caunes,5
+2298643,14:05:00,14:05:10,stop_point:SP_1303,Atlanta,6
+2298643,14:07:00,14:07:10,stop_point:SP_2827,St-Caprais,7
+2298643,14:08:00,14:08:10,stop_point:SP_1156,Cerbère,8
+2298643,14:09:00,14:09:10,stop_point:SP_1898,La Palme,9
+2298643,14:10:00,14:10:10,stop_point:SP_248,La Franqui,10
+2298643,14:10:00,14:10:10,stop_point:SP_242,Orthez,11
+2298643,14:11:00,14:11:10,stop_point:SP_4786,Hasparren,12
+2298643,14:12:00,14:12:10,stop_point:SP_2571,Montcalm,13
+2298643,14:13:00,14:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298643,14:14:00,14:14:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298643,14:15:00,14:15:10,stop_point:SP_3517,Grive,16
+2298643,14:16:00,14:16:10,stop_point:SP_268,Vents d'Autan,17
+2298643,14:16:00,14:16:10,stop_point:SP_3035,Monts du Forez,18
+2298643,14:17:00,14:17:10,stop_point:SP_3406,Piscine,19
+2298643,14:18:00,14:18:10,stop_point:SP_677,Aspin,20
+2298643,14:18:00,14:18:10,stop_point:SP_29,Vence,21
+2298643,14:19:00,14:19:10,stop_point:SP_1788,Vallauris,22
+2298643,14:20:00,14:20:10,stop_point:SP_854,St-Tropez,23
+2298643,14:20:00,14:20:10,stop_point:SP_2411,Calicéo,24
+2298643,14:21:00,14:21:10,stop_point:SP_2219,Ratalens,25
+2298643,14:22:00,14:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298644,15:00:00,15:00:10,stop_point:SP_1227,Argoulets,1
+2298644,15:01:00,15:01:10,stop_point:SP_1173,Cambard,2
+2298644,15:03:00,15:03:10,stop_point:SP_890,Vasseur,3
+2298644,15:04:00,15:04:10,stop_point:SP_910,Ohnet,4
+2298644,15:04:00,15:04:10,stop_point:SP_2148,Caunes,5
+2298644,15:06:00,15:06:10,stop_point:SP_1303,Atlanta,6
+2298644,15:08:00,15:08:10,stop_point:SP_2827,St-Caprais,7
+2298644,15:09:00,15:09:10,stop_point:SP_1156,Cerbère,8
+2298644,15:10:00,15:10:10,stop_point:SP_1898,La Palme,9
+2298644,15:11:00,15:11:10,stop_point:SP_248,La Franqui,10
+2298644,15:11:00,15:11:10,stop_point:SP_242,Orthez,11
+2298644,15:12:00,15:12:10,stop_point:SP_4786,Hasparren,12
+2298644,15:13:00,15:13:10,stop_point:SP_2571,Montcalm,13
+2298644,15:14:00,15:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298644,15:15:00,15:15:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298644,15:16:00,15:16:10,stop_point:SP_3517,Grive,16
+2298644,15:17:00,15:17:10,stop_point:SP_268,Vents d'Autan,17
+2298644,15:17:00,15:17:10,stop_point:SP_3035,Monts du Forez,18
+2298644,15:18:00,15:18:10,stop_point:SP_3406,Piscine,19
+2298644,15:19:00,15:19:10,stop_point:SP_677,Aspin,20
+2298644,15:19:00,15:19:10,stop_point:SP_29,Vence,21
+2298644,15:20:00,15:20:10,stop_point:SP_1788,Vallauris,22
+2298644,15:21:00,15:21:10,stop_point:SP_854,St-Tropez,23
+2298644,15:21:00,15:21:10,stop_point:SP_2411,Calicéo,24
+2298644,15:22:00,15:22:10,stop_point:SP_2219,Ratalens,25
+2298644,15:23:00,15:23:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298645,16:00:00,16:00:10,stop_point:SP_1227,Argoulets,1
+2298645,16:01:00,16:01:10,stop_point:SP_1173,Cambard,2
+2298645,16:03:00,16:03:10,stop_point:SP_890,Vasseur,3
+2298645,16:04:00,16:04:10,stop_point:SP_910,Ohnet,4
+2298645,16:04:00,16:04:10,stop_point:SP_2148,Caunes,5
+2298645,16:06:00,16:06:10,stop_point:SP_1303,Atlanta,6
+2298645,16:08:00,16:08:10,stop_point:SP_2827,St-Caprais,7
+2298645,16:09:00,16:09:10,stop_point:SP_1156,Cerbère,8
+2298645,16:10:00,16:10:10,stop_point:SP_1898,La Palme,9
+2298645,16:11:00,16:11:10,stop_point:SP_248,La Franqui,10
+2298645,16:11:00,16:11:10,stop_point:SP_242,Orthez,11
+2298645,16:12:00,16:12:10,stop_point:SP_4786,Hasparren,12
+2298645,16:13:00,16:13:10,stop_point:SP_2571,Montcalm,13
+2298645,16:14:00,16:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298645,16:15:00,16:15:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298645,16:16:00,16:16:10,stop_point:SP_3517,Grive,16
+2298645,16:17:00,16:17:10,stop_point:SP_268,Vents d'Autan,17
+2298645,16:17:00,16:17:10,stop_point:SP_3035,Monts du Forez,18
+2298645,16:18:00,16:18:10,stop_point:SP_3406,Piscine,19
+2298645,16:19:00,16:19:10,stop_point:SP_677,Aspin,20
+2298645,16:19:00,16:19:10,stop_point:SP_29,Vence,21
+2298645,16:20:00,16:20:10,stop_point:SP_1788,Vallauris,22
+2298645,16:21:00,16:21:10,stop_point:SP_854,St-Tropez,23
+2298645,16:21:00,16:21:10,stop_point:SP_2411,Calicéo,24
+2298645,16:22:00,16:22:10,stop_point:SP_2219,Ratalens,25
+2298645,16:23:00,16:23:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298646,17:00:00,17:00:10,stop_point:SP_1227,Argoulets,1
+2298646,17:01:00,17:01:10,stop_point:SP_1173,Cambard,2
+2298646,17:03:00,17:03:10,stop_point:SP_890,Vasseur,3
+2298646,17:04:00,17:04:10,stop_point:SP_910,Ohnet,4
+2298646,17:04:00,17:04:10,stop_point:SP_2148,Caunes,5
+2298646,17:06:00,17:06:10,stop_point:SP_1303,Atlanta,6
+2298646,17:08:00,17:08:10,stop_point:SP_2827,St-Caprais,7
+2298646,17:09:00,17:09:10,stop_point:SP_1156,Cerbère,8
+2298646,17:10:00,17:10:10,stop_point:SP_1898,La Palme,9
+2298646,17:11:00,17:11:10,stop_point:SP_248,La Franqui,10
+2298646,17:11:00,17:11:10,stop_point:SP_242,Orthez,11
+2298646,17:12:00,17:12:10,stop_point:SP_4786,Hasparren,12
+2298646,17:13:00,17:13:10,stop_point:SP_2571,Montcalm,13
+2298646,17:14:00,17:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298646,17:15:00,17:15:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298646,17:16:00,17:16:10,stop_point:SP_3517,Grive,16
+2298646,17:17:00,17:17:10,stop_point:SP_268,Vents d'Autan,17
+2298646,17:17:00,17:17:10,stop_point:SP_3035,Monts du Forez,18
+2298646,17:18:00,17:18:10,stop_point:SP_3406,Piscine,19
+2298646,17:19:00,17:19:10,stop_point:SP_677,Aspin,20
+2298646,17:19:00,17:19:10,stop_point:SP_29,Vence,21
+2298646,17:20:00,17:20:10,stop_point:SP_1788,Vallauris,22
+2298646,17:21:00,17:21:10,stop_point:SP_854,St-Tropez,23
+2298646,17:21:00,17:21:10,stop_point:SP_2411,Calicéo,24
+2298646,17:22:00,17:22:10,stop_point:SP_2219,Ratalens,25
+2298646,17:23:00,17:23:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298647,18:00:00,18:00:10,stop_point:SP_1227,Argoulets,1
+2298647,18:01:00,18:01:10,stop_point:SP_1173,Cambard,2
+2298647,18:03:00,18:03:10,stop_point:SP_890,Vasseur,3
+2298647,18:04:00,18:04:10,stop_point:SP_910,Ohnet,4
+2298647,18:04:00,18:04:10,stop_point:SP_2148,Caunes,5
+2298647,18:06:00,18:06:10,stop_point:SP_1303,Atlanta,6
+2298647,18:08:00,18:08:10,stop_point:SP_2827,St-Caprais,7
+2298647,18:09:00,18:09:10,stop_point:SP_1156,Cerbère,8
+2298647,18:10:00,18:10:10,stop_point:SP_1898,La Palme,9
+2298647,18:11:00,18:11:10,stop_point:SP_248,La Franqui,10
+2298647,18:11:00,18:11:10,stop_point:SP_242,Orthez,11
+2298647,18:12:00,18:12:10,stop_point:SP_4786,Hasparren,12
+2298647,18:13:00,18:13:10,stop_point:SP_2571,Montcalm,13
+2298647,18:14:00,18:14:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298647,18:15:00,18:15:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298647,18:16:00,18:16:10,stop_point:SP_3517,Grive,16
+2298647,18:17:00,18:17:10,stop_point:SP_268,Vents d'Autan,17
+2298647,18:17:00,18:17:10,stop_point:SP_3035,Monts du Forez,18
+2298647,18:18:00,18:18:10,stop_point:SP_3406,Piscine,19
+2298647,18:19:00,18:19:10,stop_point:SP_677,Aspin,20
+2298647,18:20:00,18:20:10,stop_point:SP_29,Vence,21
+2298647,18:21:00,18:21:10,stop_point:SP_1788,Vallauris,22
+2298647,18:21:00,18:21:10,stop_point:SP_854,St-Tropez,23
+2298647,18:22:00,18:22:10,stop_point:SP_2411,Calicéo,24
+2298647,18:23:00,18:23:10,stop_point:SP_2219,Ratalens,25
+2298647,18:24:00,18:24:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298648,19:00:00,19:00:10,stop_point:SP_1227,Argoulets,1
+2298648,19:01:00,19:01:10,stop_point:SP_1173,Cambard,2
+2298648,19:03:00,19:03:10,stop_point:SP_890,Vasseur,3
+2298648,19:04:00,19:04:10,stop_point:SP_910,Ohnet,4
+2298648,19:04:00,19:04:10,stop_point:SP_2148,Caunes,5
+2298648,19:05:00,19:05:10,stop_point:SP_1303,Atlanta,6
+2298648,19:07:00,19:07:10,stop_point:SP_2827,St-Caprais,7
+2298648,19:08:00,19:08:10,stop_point:SP_1156,Cerbère,8
+2298648,19:09:00,19:09:10,stop_point:SP_1898,La Palme,9
+2298648,19:09:00,19:09:10,stop_point:SP_248,La Franqui,10
+2298648,19:10:00,19:10:10,stop_point:SP_242,Orthez,11
+2298648,19:11:00,19:11:10,stop_point:SP_4786,Hasparren,12
+2298648,19:12:00,19:12:10,stop_point:SP_2571,Montcalm,13
+2298648,19:13:00,19:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298648,19:13:00,19:13:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298648,19:14:00,19:14:10,stop_point:SP_3517,Grive,16
+2298648,19:15:00,19:15:10,stop_point:SP_268,Vents d'Autan,17
+2298648,19:15:00,19:15:10,stop_point:SP_3035,Monts du Forez,18
+2298648,19:16:00,19:16:10,stop_point:SP_3406,Piscine,19
+2298648,19:17:00,19:17:10,stop_point:SP_677,Aspin,20
+2298648,19:18:00,19:18:10,stop_point:SP_29,Vence,21
+2298648,19:19:00,19:19:10,stop_point:SP_1788,Vallauris,22
+2298648,19:19:00,19:19:10,stop_point:SP_854,St-Tropez,23
+2298648,19:20:00,19:20:10,stop_point:SP_2411,Calicéo,24
+2298648,19:21:00,19:21:10,stop_point:SP_2219,Ratalens,25
+2298648,19:22:00,19:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298649,20:00:00,20:00:10,stop_point:SP_1227,Argoulets,1
+2298649,20:01:00,20:01:10,stop_point:SP_1173,Cambard,2
+2298649,20:03:00,20:03:10,stop_point:SP_890,Vasseur,3
+2298649,20:04:00,20:04:10,stop_point:SP_910,Ohnet,4
+2298649,20:04:00,20:04:10,stop_point:SP_2148,Caunes,5
+2298649,20:05:00,20:05:10,stop_point:SP_1303,Atlanta,6
+2298649,20:07:00,20:07:10,stop_point:SP_2827,St-Caprais,7
+2298649,20:08:00,20:08:10,stop_point:SP_1156,Cerbère,8
+2298649,20:09:00,20:09:10,stop_point:SP_1898,La Palme,9
+2298649,20:09:00,20:09:10,stop_point:SP_248,La Franqui,10
+2298649,20:10:00,20:10:10,stop_point:SP_242,Orthez,11
+2298649,20:11:00,20:11:10,stop_point:SP_4786,Hasparren,12
+2298649,20:12:00,20:12:10,stop_point:SP_2571,Montcalm,13
+2298649,20:13:00,20:13:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298649,20:13:00,20:13:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298649,20:14:00,20:14:10,stop_point:SP_3517,Grive,16
+2298649,20:15:00,20:15:10,stop_point:SP_268,Vents d'Autan,17
+2298649,20:15:00,20:15:10,stop_point:SP_3035,Monts du Forez,18
+2298649,20:16:00,20:16:10,stop_point:SP_3406,Piscine,19
+2298649,20:17:00,20:17:10,stop_point:SP_677,Aspin,20
+2298649,20:18:00,20:18:10,stop_point:SP_29,Vence,21
+2298649,20:19:00,20:19:10,stop_point:SP_1788,Vallauris,22
+2298649,20:19:00,20:19:10,stop_point:SP_854,St-Tropez,23
+2298649,20:20:00,20:20:10,stop_point:SP_2411,Calicéo,24
+2298649,20:21:00,20:21:10,stop_point:SP_2219,Ratalens,25
+2298649,20:22:00,20:22:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298650,20:55:00,20:55:10,stop_point:SP_1227,Argoulets,1
+2298650,20:56:00,20:56:10,stop_point:SP_1173,Cambard,2
+2298650,20:58:00,20:58:10,stop_point:SP_890,Vasseur,3
+2298650,20:59:00,20:59:10,stop_point:SP_910,Ohnet,4
+2298650,20:59:00,20:59:10,stop_point:SP_2148,Caunes,5
+2298650,21:00:00,21:00:10,stop_point:SP_1303,Atlanta,6
+2298650,21:02:00,21:02:10,stop_point:SP_2827,St-Caprais,7
+2298650,21:03:00,21:03:10,stop_point:SP_1156,Cerbère,8
+2298650,21:04:00,21:04:10,stop_point:SP_1898,La Palme,9
+2298650,21:04:00,21:04:10,stop_point:SP_248,La Franqui,10
+2298650,21:05:00,21:05:10,stop_point:SP_242,Orthez,11
+2298650,21:06:00,21:06:10,stop_point:SP_4786,Hasparren,12
+2298650,21:07:00,21:07:10,stop_point:SP_2571,Montcalm,13
+2298650,21:08:00,21:08:10,stop_point:SP_2810,L'Union Grande Halle,14
+2298650,21:08:00,21:08:10,stop_point:SP_3855,Ctre Cial L'Union,15
+2298650,21:09:00,21:09:10,stop_point:SP_3517,Grive,16
+2298650,21:10:00,21:10:10,stop_point:SP_268,Vents d'Autan,17
+2298650,21:10:00,21:10:10,stop_point:SP_3035,Monts du Forez,18
+2298650,21:11:00,21:11:10,stop_point:SP_3406,Piscine,19
+2298650,21:12:00,21:12:10,stop_point:SP_677,Aspin,20
+2298650,21:13:00,21:13:10,stop_point:SP_29,Vence,21
+2298650,21:14:00,21:14:10,stop_point:SP_1788,Vallauris,22
+2298650,21:14:00,21:14:10,stop_point:SP_854,St-Tropez,23
+2298650,21:15:00,21:15:10,stop_point:SP_2411,Calicéo,24
+2298650,21:16:00,21:16:10,stop_point:SP_2219,Ratalens,25
+2298650,21:17:00,21:17:10,stop_point:SP_4791,St-Jean Clinique de L'Union,26
+2298651,06:30:00,06:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298651,06:31:00,06:31:10,stop_point:SP_2535,Ratalens,2
+2298651,06:32:00,06:32:10,stop_point:SP_250,Calicéo,3
+2298651,06:32:00,06:32:10,stop_point:SP_1892,St-Tropez,4
+2298651,06:32:00,06:32:10,stop_point:SP_3286,Vallauris,5
+2298651,06:33:00,06:33:10,stop_point:SP_3503,Vence,6
+2298651,06:34:00,06:34:10,stop_point:SP_150,Aspin,7
+2298651,06:34:00,06:34:10,stop_point:SP_342,Piscine,8
+2298651,06:34:00,06:34:10,stop_point:SP_1833,Monts du Forez,9
+2298651,06:35:00,06:35:10,stop_point:SP_1505,Vents d'Autan,10
+2298651,06:35:00,06:35:10,stop_point:SP_2232,Grive,11
+2298651,06:36:00,06:36:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298651,06:36:00,06:36:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298651,06:37:00,06:37:10,stop_point:SP_1320,Montcalm,14
+2298651,06:37:00,06:37:10,stop_point:SP_4788,Hasparren,15
+2298651,06:38:00,06:38:10,stop_point:SP_2050,Orthez,16
+2298651,06:39:00,06:39:10,stop_point:SP_852,La Franqui,17
+2298651,06:40:00,06:40:10,stop_point:SP_995,La Palme,18
+2298651,06:40:00,06:40:10,stop_point:SP_1834,Cerbère,19
+2298651,06:42:00,06:42:10,stop_point:SP_2732,Bayonne,20
+2298651,06:43:00,06:43:10,stop_point:SP_4789,St-Caprais,21
+2298651,06:45:00,06:45:10,stop_point:SP_1296,Atlanta,22
+2298651,06:46:00,06:46:10,stop_point:SP_2974,Caunes,23
+2298651,06:47:00,06:47:10,stop_point:SP_3944,Ohnet,24
+2298651,06:48:00,06:48:10,stop_point:SP_2359,Vasseur,25
+2298651,06:50:00,06:50:10,stop_point:SP_3647,Cambard,26
+2298651,06:52:00,06:52:10,stop_point:SP_1227,Argoulets,27
+2298652,07:30:00,07:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298652,07:31:00,07:31:10,stop_point:SP_2535,Ratalens,2
+2298652,07:32:00,07:32:10,stop_point:SP_250,Calicéo,3
+2298652,07:32:00,07:32:10,stop_point:SP_1892,St-Tropez,4
+2298652,07:32:00,07:32:10,stop_point:SP_3286,Vallauris,5
+2298652,07:33:00,07:33:10,stop_point:SP_3503,Vence,6
+2298652,07:34:00,07:34:10,stop_point:SP_150,Aspin,7
+2298652,07:34:00,07:34:10,stop_point:SP_342,Piscine,8
+2298652,07:35:00,07:35:10,stop_point:SP_1833,Monts du Forez,9
+2298652,07:35:00,07:35:10,stop_point:SP_1505,Vents d'Autan,10
+2298652,07:36:00,07:36:10,stop_point:SP_2232,Grive,11
+2298652,07:37:00,07:37:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298652,07:37:00,07:37:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298652,07:38:00,07:38:10,stop_point:SP_1320,Montcalm,14
+2298652,07:38:00,07:38:10,stop_point:SP_4788,Hasparren,15
+2298652,07:39:00,07:39:10,stop_point:SP_2050,Orthez,16
+2298652,07:40:00,07:40:10,stop_point:SP_852,La Franqui,17
+2298652,07:41:00,07:41:10,stop_point:SP_995,La Palme,18
+2298652,07:41:00,07:41:10,stop_point:SP_1834,Cerbère,19
+2298652,07:43:00,07:43:10,stop_point:SP_2732,Bayonne,20
+2298652,07:44:00,07:44:10,stop_point:SP_4789,St-Caprais,21
+2298652,07:46:00,07:46:10,stop_point:SP_1296,Atlanta,22
+2298652,07:47:00,07:47:10,stop_point:SP_2974,Caunes,23
+2298652,07:48:00,07:48:10,stop_point:SP_3944,Ohnet,24
+2298652,07:49:00,07:49:10,stop_point:SP_2359,Vasseur,25
+2298652,07:51:00,07:51:10,stop_point:SP_3647,Cambard,26
+2298652,07:53:00,07:53:10,stop_point:SP_1227,Argoulets,27
+2298653,08:30:00,08:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298653,08:31:00,08:31:10,stop_point:SP_2535,Ratalens,2
+2298653,08:32:00,08:32:10,stop_point:SP_250,Calicéo,3
+2298653,08:32:00,08:32:10,stop_point:SP_1892,St-Tropez,4
+2298653,08:33:00,08:33:10,stop_point:SP_3286,Vallauris,5
+2298653,08:34:00,08:34:10,stop_point:SP_3503,Vence,6
+2298653,08:35:00,08:35:10,stop_point:SP_150,Aspin,7
+2298653,08:35:00,08:35:10,stop_point:SP_342,Piscine,8
+2298653,08:36:00,08:36:10,stop_point:SP_1833,Monts du Forez,9
+2298653,08:36:00,08:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298653,08:37:00,08:37:10,stop_point:SP_2232,Grive,11
+2298653,08:38:00,08:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298653,08:38:00,08:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298653,08:39:00,08:39:10,stop_point:SP_1320,Montcalm,14
+2298653,08:39:00,08:39:10,stop_point:SP_4788,Hasparren,15
+2298653,08:40:00,08:40:10,stop_point:SP_2050,Orthez,16
+2298653,08:41:00,08:41:10,stop_point:SP_852,La Franqui,17
+2298653,08:42:00,08:42:10,stop_point:SP_995,La Palme,18
+2298653,08:42:00,08:42:10,stop_point:SP_1834,Cerbère,19
+2298653,08:44:00,08:44:10,stop_point:SP_2732,Bayonne,20
+2298653,08:45:00,08:45:10,stop_point:SP_4789,St-Caprais,21
+2298653,08:47:00,08:47:10,stop_point:SP_1296,Atlanta,22
+2298653,08:48:00,08:48:10,stop_point:SP_2974,Caunes,23
+2298653,08:49:00,08:49:10,stop_point:SP_3944,Ohnet,24
+2298653,08:50:00,08:50:10,stop_point:SP_2359,Vasseur,25
+2298653,08:53:00,08:53:10,stop_point:SP_3647,Cambard,26
+2298653,08:55:00,08:55:10,stop_point:SP_1227,Argoulets,27
+2298654,09:30:00,09:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298654,09:31:00,09:31:10,stop_point:SP_2535,Ratalens,2
+2298654,09:32:00,09:32:10,stop_point:SP_250,Calicéo,3
+2298654,09:32:00,09:32:10,stop_point:SP_1892,St-Tropez,4
+2298654,09:33:00,09:33:10,stop_point:SP_3286,Vallauris,5
+2298654,09:34:00,09:34:10,stop_point:SP_3503,Vence,6
+2298654,09:35:00,09:35:10,stop_point:SP_150,Aspin,7
+2298654,09:35:00,09:35:10,stop_point:SP_342,Piscine,8
+2298654,09:36:00,09:36:10,stop_point:SP_1833,Monts du Forez,9
+2298654,09:36:00,09:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298654,09:38:00,09:38:10,stop_point:SP_2232,Grive,11
+2298654,09:39:00,09:39:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298654,09:39:00,09:39:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298654,09:40:00,09:40:10,stop_point:SP_1320,Montcalm,14
+2298654,09:40:00,09:40:10,stop_point:SP_4788,Hasparren,15
+2298654,09:41:00,09:41:10,stop_point:SP_2050,Orthez,16
+2298654,09:42:00,09:42:10,stop_point:SP_852,La Franqui,17
+2298654,09:43:00,09:43:10,stop_point:SP_995,La Palme,18
+2298654,09:43:00,09:43:10,stop_point:SP_1834,Cerbère,19
+2298654,09:45:00,09:45:10,stop_point:SP_2732,Bayonne,20
+2298654,09:46:00,09:46:10,stop_point:SP_4789,St-Caprais,21
+2298654,09:48:00,09:48:10,stop_point:SP_1296,Atlanta,22
+2298654,09:49:00,09:49:10,stop_point:SP_2974,Caunes,23
+2298654,09:50:00,09:50:10,stop_point:SP_3944,Ohnet,24
+2298654,09:51:00,09:51:10,stop_point:SP_2359,Vasseur,25
+2298654,09:54:00,09:54:10,stop_point:SP_3647,Cambard,26
+2298654,09:56:00,09:56:10,stop_point:SP_1227,Argoulets,27
+2298655,10:30:00,10:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298655,10:31:00,10:31:10,stop_point:SP_2535,Ratalens,2
+2298655,10:32:00,10:32:10,stop_point:SP_250,Calicéo,3
+2298655,10:32:00,10:32:10,stop_point:SP_1892,St-Tropez,4
+2298655,10:33:00,10:33:10,stop_point:SP_3286,Vallauris,5
+2298655,10:34:00,10:34:10,stop_point:SP_3503,Vence,6
+2298655,10:35:00,10:35:10,stop_point:SP_150,Aspin,7
+2298655,10:35:00,10:35:10,stop_point:SP_342,Piscine,8
+2298655,10:36:00,10:36:10,stop_point:SP_1833,Monts du Forez,9
+2298655,10:36:00,10:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298655,10:38:00,10:38:10,stop_point:SP_2232,Grive,11
+2298655,10:39:00,10:39:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298655,10:39:00,10:39:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298655,10:40:00,10:40:10,stop_point:SP_1320,Montcalm,14
+2298655,10:40:00,10:40:10,stop_point:SP_4788,Hasparren,15
+2298655,10:41:00,10:41:10,stop_point:SP_2050,Orthez,16
+2298655,10:42:00,10:42:10,stop_point:SP_852,La Franqui,17
+2298655,10:43:00,10:43:10,stop_point:SP_995,La Palme,18
+2298655,10:43:00,10:43:10,stop_point:SP_1834,Cerbère,19
+2298655,10:45:00,10:45:10,stop_point:SP_2732,Bayonne,20
+2298655,10:46:00,10:46:10,stop_point:SP_4789,St-Caprais,21
+2298655,10:48:00,10:48:10,stop_point:SP_1296,Atlanta,22
+2298655,10:49:00,10:49:10,stop_point:SP_2974,Caunes,23
+2298655,10:50:00,10:50:10,stop_point:SP_3944,Ohnet,24
+2298655,10:51:00,10:51:10,stop_point:SP_2359,Vasseur,25
+2298655,10:54:00,10:54:10,stop_point:SP_3647,Cambard,26
+2298655,10:56:00,10:56:10,stop_point:SP_1227,Argoulets,27
+2298656,11:30:00,11:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298656,11:31:00,11:31:10,stop_point:SP_2535,Ratalens,2
+2298656,11:32:00,11:32:10,stop_point:SP_250,Calicéo,3
+2298656,11:32:00,11:32:10,stop_point:SP_1892,St-Tropez,4
+2298656,11:33:00,11:33:10,stop_point:SP_3286,Vallauris,5
+2298656,11:34:00,11:34:10,stop_point:SP_3503,Vence,6
+2298656,11:35:00,11:35:10,stop_point:SP_150,Aspin,7
+2298656,11:35:00,11:35:10,stop_point:SP_342,Piscine,8
+2298656,11:36:00,11:36:10,stop_point:SP_1833,Monts du Forez,9
+2298656,11:37:00,11:37:10,stop_point:SP_1505,Vents d'Autan,10
+2298656,11:38:00,11:38:10,stop_point:SP_2232,Grive,11
+2298656,11:40:00,11:40:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298656,11:40:00,11:40:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298656,11:41:00,11:41:10,stop_point:SP_1320,Montcalm,14
+2298656,11:41:00,11:41:10,stop_point:SP_4788,Hasparren,15
+2298656,11:42:00,11:42:10,stop_point:SP_2050,Orthez,16
+2298656,11:43:00,11:43:10,stop_point:SP_852,La Franqui,17
+2298656,11:44:00,11:44:10,stop_point:SP_995,La Palme,18
+2298656,11:44:00,11:44:10,stop_point:SP_1834,Cerbère,19
+2298656,11:46:00,11:46:10,stop_point:SP_2732,Bayonne,20
+2298656,11:47:00,11:47:10,stop_point:SP_4789,St-Caprais,21
+2298656,11:49:00,11:49:10,stop_point:SP_1296,Atlanta,22
+2298656,11:50:00,11:50:10,stop_point:SP_2974,Caunes,23
+2298656,11:51:00,11:51:10,stop_point:SP_3944,Ohnet,24
+2298656,11:52:00,11:52:10,stop_point:SP_2359,Vasseur,25
+2298656,11:55:00,11:55:10,stop_point:SP_3647,Cambard,26
+2298656,11:57:00,11:57:10,stop_point:SP_1227,Argoulets,27
+2298657,12:30:00,12:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298657,12:31:00,12:31:10,stop_point:SP_2535,Ratalens,2
+2298657,12:32:00,12:32:10,stop_point:SP_250,Calicéo,3
+2298657,12:32:00,12:32:10,stop_point:SP_1892,St-Tropez,4
+2298657,12:32:00,12:32:10,stop_point:SP_3286,Vallauris,5
+2298657,12:33:00,12:33:10,stop_point:SP_3503,Vence,6
+2298657,12:34:00,12:34:10,stop_point:SP_150,Aspin,7
+2298657,12:34:00,12:34:10,stop_point:SP_342,Piscine,8
+2298657,12:35:00,12:35:10,stop_point:SP_1833,Monts du Forez,9
+2298657,12:35:00,12:35:10,stop_point:SP_1505,Vents d'Autan,10
+2298657,12:37:00,12:37:10,stop_point:SP_2232,Grive,11
+2298657,12:38:00,12:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298657,12:38:00,12:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298657,12:39:00,12:39:10,stop_point:SP_1320,Montcalm,14
+2298657,12:39:00,12:39:10,stop_point:SP_4788,Hasparren,15
+2298657,12:40:00,12:40:10,stop_point:SP_2050,Orthez,16
+2298657,12:41:00,12:41:10,stop_point:SP_852,La Franqui,17
+2298657,12:42:00,12:42:10,stop_point:SP_995,La Palme,18
+2298657,12:42:00,12:42:10,stop_point:SP_1834,Cerbère,19
+2298657,12:44:00,12:44:10,stop_point:SP_2732,Bayonne,20
+2298657,12:45:00,12:45:10,stop_point:SP_4789,St-Caprais,21
+2298657,12:47:00,12:47:10,stop_point:SP_1296,Atlanta,22
+2298657,12:48:00,12:48:10,stop_point:SP_2974,Caunes,23
+2298657,12:49:00,12:49:10,stop_point:SP_3944,Ohnet,24
+2298657,12:50:00,12:50:10,stop_point:SP_2359,Vasseur,25
+2298657,12:53:00,12:53:10,stop_point:SP_3647,Cambard,26
+2298657,12:55:00,12:55:10,stop_point:SP_1227,Argoulets,27
+2298658,13:30:00,13:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298658,13:31:00,13:31:10,stop_point:SP_2535,Ratalens,2
+2298658,13:32:00,13:32:10,stop_point:SP_250,Calicéo,3
+2298658,13:32:00,13:32:10,stop_point:SP_1892,St-Tropez,4
+2298658,13:33:00,13:33:10,stop_point:SP_3286,Vallauris,5
+2298658,13:34:00,13:34:10,stop_point:SP_3503,Vence,6
+2298658,13:35:00,13:35:10,stop_point:SP_150,Aspin,7
+2298658,13:35:00,13:35:10,stop_point:SP_342,Piscine,8
+2298658,13:36:00,13:36:10,stop_point:SP_1833,Monts du Forez,9
+2298658,13:36:00,13:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298658,13:37:00,13:37:10,stop_point:SP_2232,Grive,11
+2298658,13:38:00,13:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298658,13:38:00,13:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298658,13:39:00,13:39:10,stop_point:SP_1320,Montcalm,14
+2298658,13:39:00,13:39:10,stop_point:SP_4788,Hasparren,15
+2298658,13:40:00,13:40:10,stop_point:SP_2050,Orthez,16
+2298658,13:41:00,13:41:10,stop_point:SP_852,La Franqui,17
+2298658,13:42:00,13:42:10,stop_point:SP_995,La Palme,18
+2298658,13:42:00,13:42:10,stop_point:SP_1834,Cerbère,19
+2298658,13:44:00,13:44:10,stop_point:SP_2732,Bayonne,20
+2298658,13:45:00,13:45:10,stop_point:SP_4789,St-Caprais,21
+2298658,13:47:00,13:47:10,stop_point:SP_1296,Atlanta,22
+2298658,13:48:00,13:48:10,stop_point:SP_2974,Caunes,23
+2298658,13:49:00,13:49:10,stop_point:SP_3944,Ohnet,24
+2298658,13:50:00,13:50:10,stop_point:SP_2359,Vasseur,25
+2298658,13:53:00,13:53:10,stop_point:SP_3647,Cambard,26
+2298658,13:55:00,13:55:10,stop_point:SP_1227,Argoulets,27
+2298659,14:30:00,14:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298659,14:31:00,14:31:10,stop_point:SP_2535,Ratalens,2
+2298659,14:32:00,14:32:10,stop_point:SP_250,Calicéo,3
+2298659,14:32:00,14:32:10,stop_point:SP_1892,St-Tropez,4
+2298659,14:33:00,14:33:10,stop_point:SP_3286,Vallauris,5
+2298659,14:34:00,14:34:10,stop_point:SP_3503,Vence,6
+2298659,14:35:00,14:35:10,stop_point:SP_150,Aspin,7
+2298659,14:35:00,14:35:10,stop_point:SP_342,Piscine,8
+2298659,14:36:00,14:36:10,stop_point:SP_1833,Monts du Forez,9
+2298659,14:36:00,14:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298659,14:37:00,14:37:10,stop_point:SP_2232,Grive,11
+2298659,14:38:00,14:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298659,14:38:00,14:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298659,14:39:00,14:39:10,stop_point:SP_1320,Montcalm,14
+2298659,14:39:00,14:39:10,stop_point:SP_4788,Hasparren,15
+2298659,14:40:00,14:40:10,stop_point:SP_2050,Orthez,16
+2298659,14:41:00,14:41:10,stop_point:SP_852,La Franqui,17
+2298659,14:42:00,14:42:10,stop_point:SP_995,La Palme,18
+2298659,14:42:00,14:42:10,stop_point:SP_1834,Cerbère,19
+2298659,14:44:00,14:44:10,stop_point:SP_2732,Bayonne,20
+2298659,14:45:00,14:45:10,stop_point:SP_4789,St-Caprais,21
+2298659,14:47:00,14:47:10,stop_point:SP_1296,Atlanta,22
+2298659,14:48:00,14:48:10,stop_point:SP_2974,Caunes,23
+2298659,14:49:00,14:49:10,stop_point:SP_3944,Ohnet,24
+2298659,14:50:00,14:50:10,stop_point:SP_2359,Vasseur,25
+2298659,14:53:00,14:53:10,stop_point:SP_3647,Cambard,26
+2298659,14:55:00,14:55:10,stop_point:SP_1227,Argoulets,27
+2298660,15:30:00,15:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298660,15:31:00,15:31:10,stop_point:SP_2535,Ratalens,2
+2298660,15:32:00,15:32:10,stop_point:SP_250,Calicéo,3
+2298660,15:32:00,15:32:10,stop_point:SP_1892,St-Tropez,4
+2298660,15:33:00,15:33:10,stop_point:SP_3286,Vallauris,5
+2298660,15:34:00,15:34:10,stop_point:SP_3503,Vence,6
+2298660,15:35:00,15:35:10,stop_point:SP_150,Aspin,7
+2298660,15:35:00,15:35:10,stop_point:SP_342,Piscine,8
+2298660,15:36:00,15:36:10,stop_point:SP_1833,Monts du Forez,9
+2298660,15:36:00,15:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298660,15:38:00,15:38:10,stop_point:SP_2232,Grive,11
+2298660,15:39:00,15:39:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298660,15:39:00,15:39:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298660,15:40:00,15:40:10,stop_point:SP_1320,Montcalm,14
+2298660,15:40:00,15:40:10,stop_point:SP_4788,Hasparren,15
+2298660,15:41:00,15:41:10,stop_point:SP_2050,Orthez,16
+2298660,15:42:00,15:42:10,stop_point:SP_852,La Franqui,17
+2298660,15:43:00,15:43:10,stop_point:SP_995,La Palme,18
+2298660,15:43:00,15:43:10,stop_point:SP_1834,Cerbère,19
+2298660,15:45:00,15:45:10,stop_point:SP_2732,Bayonne,20
+2298660,15:46:00,15:46:10,stop_point:SP_4789,St-Caprais,21
+2298660,15:48:00,15:48:10,stop_point:SP_1296,Atlanta,22
+2298660,15:49:00,15:49:10,stop_point:SP_2974,Caunes,23
+2298660,15:50:00,15:50:10,stop_point:SP_3944,Ohnet,24
+2298660,15:51:00,15:51:10,stop_point:SP_2359,Vasseur,25
+2298660,15:54:00,15:54:10,stop_point:SP_3647,Cambard,26
+2298660,15:56:00,15:56:10,stop_point:SP_1227,Argoulets,27
+2298661,16:30:00,16:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298661,16:31:00,16:31:10,stop_point:SP_2535,Ratalens,2
+2298661,16:32:00,16:32:10,stop_point:SP_250,Calicéo,3
+2298661,16:32:00,16:32:10,stop_point:SP_1892,St-Tropez,4
+2298661,16:33:00,16:33:10,stop_point:SP_3286,Vallauris,5
+2298661,16:34:00,16:34:10,stop_point:SP_3503,Vence,6
+2298661,16:35:00,16:35:10,stop_point:SP_150,Aspin,7
+2298661,16:35:00,16:35:10,stop_point:SP_342,Piscine,8
+2298661,16:36:00,16:36:10,stop_point:SP_1833,Monts du Forez,9
+2298661,16:36:00,16:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298661,16:38:00,16:38:10,stop_point:SP_2232,Grive,11
+2298661,16:39:00,16:39:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298661,16:39:00,16:39:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298661,16:40:00,16:40:10,stop_point:SP_1320,Montcalm,14
+2298661,16:40:00,16:40:10,stop_point:SP_4788,Hasparren,15
+2298661,16:41:00,16:41:10,stop_point:SP_2050,Orthez,16
+2298661,16:42:00,16:42:10,stop_point:SP_852,La Franqui,17
+2298661,16:43:00,16:43:10,stop_point:SP_995,La Palme,18
+2298661,16:43:00,16:43:10,stop_point:SP_1834,Cerbère,19
+2298661,16:45:00,16:45:10,stop_point:SP_2732,Bayonne,20
+2298661,16:46:00,16:46:10,stop_point:SP_4789,St-Caprais,21
+2298661,16:48:00,16:48:10,stop_point:SP_1296,Atlanta,22
+2298661,16:49:00,16:49:10,stop_point:SP_2974,Caunes,23
+2298661,16:50:00,16:50:10,stop_point:SP_3944,Ohnet,24
+2298661,16:51:00,16:51:10,stop_point:SP_2359,Vasseur,25
+2298661,16:54:00,16:54:10,stop_point:SP_3647,Cambard,26
+2298661,16:56:00,16:56:10,stop_point:SP_1227,Argoulets,27
+2298662,17:30:00,17:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298662,17:31:00,17:31:10,stop_point:SP_2535,Ratalens,2
+2298662,17:32:00,17:32:10,stop_point:SP_250,Calicéo,3
+2298662,17:32:00,17:32:10,stop_point:SP_1892,St-Tropez,4
+2298662,17:33:00,17:33:10,stop_point:SP_3286,Vallauris,5
+2298662,17:34:00,17:34:10,stop_point:SP_3503,Vence,6
+2298662,17:35:00,17:35:10,stop_point:SP_150,Aspin,7
+2298662,17:35:00,17:35:10,stop_point:SP_342,Piscine,8
+2298662,17:36:00,17:36:10,stop_point:SP_1833,Monts du Forez,9
+2298662,17:36:00,17:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298662,17:38:00,17:38:10,stop_point:SP_2232,Grive,11
+2298662,17:39:00,17:39:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298662,17:39:00,17:39:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298662,17:40:00,17:40:10,stop_point:SP_1320,Montcalm,14
+2298662,17:40:00,17:40:10,stop_point:SP_4788,Hasparren,15
+2298662,17:41:00,17:41:10,stop_point:SP_2050,Orthez,16
+2298662,17:42:00,17:42:10,stop_point:SP_852,La Franqui,17
+2298662,17:43:00,17:43:10,stop_point:SP_995,La Palme,18
+2298662,17:43:00,17:43:10,stop_point:SP_1834,Cerbère,19
+2298662,17:45:00,17:45:10,stop_point:SP_2732,Bayonne,20
+2298662,17:46:00,17:46:10,stop_point:SP_4789,St-Caprais,21
+2298662,17:48:00,17:48:10,stop_point:SP_1296,Atlanta,22
+2298662,17:49:00,17:49:10,stop_point:SP_2974,Caunes,23
+2298662,17:50:00,17:50:10,stop_point:SP_3944,Ohnet,24
+2298662,17:51:00,17:51:10,stop_point:SP_2359,Vasseur,25
+2298662,17:53:00,17:53:10,stop_point:SP_3647,Cambard,26
+2298662,17:55:00,17:55:10,stop_point:SP_1227,Argoulets,27
+2298663,18:30:00,18:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298663,18:31:00,18:31:10,stop_point:SP_2535,Ratalens,2
+2298663,18:32:00,18:32:10,stop_point:SP_250,Calicéo,3
+2298663,18:32:00,18:32:10,stop_point:SP_1892,St-Tropez,4
+2298663,18:33:00,18:33:10,stop_point:SP_3286,Vallauris,5
+2298663,18:34:00,18:34:10,stop_point:SP_3503,Vence,6
+2298663,18:35:00,18:35:10,stop_point:SP_150,Aspin,7
+2298663,18:35:00,18:35:10,stop_point:SP_342,Piscine,8
+2298663,18:36:00,18:36:10,stop_point:SP_1833,Monts du Forez,9
+2298663,18:36:00,18:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298663,18:37:00,18:37:10,stop_point:SP_2232,Grive,11
+2298663,18:38:00,18:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298663,18:38:00,18:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298663,18:39:00,18:39:10,stop_point:SP_1320,Montcalm,14
+2298663,18:39:00,18:39:10,stop_point:SP_4788,Hasparren,15
+2298663,18:40:00,18:40:10,stop_point:SP_2050,Orthez,16
+2298663,18:41:00,18:41:10,stop_point:SP_852,La Franqui,17
+2298663,18:42:00,18:42:10,stop_point:SP_995,La Palme,18
+2298663,18:42:00,18:42:10,stop_point:SP_1834,Cerbère,19
+2298663,18:44:00,18:44:10,stop_point:SP_2732,Bayonne,20
+2298663,18:45:00,18:45:10,stop_point:SP_4789,St-Caprais,21
+2298663,18:47:00,18:47:10,stop_point:SP_1296,Atlanta,22
+2298663,18:48:00,18:48:10,stop_point:SP_2974,Caunes,23
+2298663,18:49:00,18:49:10,stop_point:SP_3944,Ohnet,24
+2298663,18:50:00,18:50:10,stop_point:SP_2359,Vasseur,25
+2298663,18:52:00,18:52:10,stop_point:SP_3647,Cambard,26
+2298663,18:54:00,18:54:10,stop_point:SP_1227,Argoulets,27
+2298664,19:30:00,19:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298664,19:31:00,19:31:10,stop_point:SP_2535,Ratalens,2
+2298664,19:32:00,19:32:10,stop_point:SP_250,Calicéo,3
+2298664,19:32:00,19:32:10,stop_point:SP_1892,St-Tropez,4
+2298664,19:33:00,19:33:10,stop_point:SP_3286,Vallauris,5
+2298664,19:34:00,19:34:10,stop_point:SP_3503,Vence,6
+2298664,19:35:00,19:35:10,stop_point:SP_150,Aspin,7
+2298664,19:35:00,19:35:10,stop_point:SP_342,Piscine,8
+2298664,19:36:00,19:36:10,stop_point:SP_1833,Monts du Forez,9
+2298664,19:36:00,19:36:10,stop_point:SP_1505,Vents d'Autan,10
+2298664,19:37:00,19:37:10,stop_point:SP_2232,Grive,11
+2298664,19:38:00,19:38:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298664,19:38:00,19:38:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298664,19:39:00,19:39:10,stop_point:SP_1320,Montcalm,14
+2298664,19:39:00,19:39:10,stop_point:SP_4788,Hasparren,15
+2298664,19:40:00,19:40:10,stop_point:SP_2050,Orthez,16
+2298664,19:41:00,19:41:10,stop_point:SP_852,La Franqui,17
+2298664,19:42:00,19:42:10,stop_point:SP_995,La Palme,18
+2298664,19:42:00,19:42:10,stop_point:SP_1834,Cerbère,19
+2298664,19:44:00,19:44:10,stop_point:SP_2732,Bayonne,20
+2298664,19:45:00,19:45:10,stop_point:SP_4789,St-Caprais,21
+2298664,19:47:00,19:47:10,stop_point:SP_1296,Atlanta,22
+2298664,19:48:00,19:48:10,stop_point:SP_2974,Caunes,23
+2298664,19:49:00,19:49:10,stop_point:SP_3944,Ohnet,24
+2298664,19:50:00,19:50:10,stop_point:SP_2359,Vasseur,25
+2298664,19:52:00,19:52:10,stop_point:SP_3647,Cambard,26
+2298664,19:54:00,19:54:10,stop_point:SP_1227,Argoulets,27
+2298665,20:30:00,20:30:10,stop_point:SP_4791,St-Jean Clinique de L'Union,1
+2298665,20:31:00,20:31:10,stop_point:SP_2535,Ratalens,2
+2298665,20:32:00,20:32:10,stop_point:SP_250,Calicéo,3
+2298665,20:32:00,20:32:10,stop_point:SP_1892,St-Tropez,4
+2298665,20:32:00,20:32:10,stop_point:SP_3286,Vallauris,5
+2298665,20:33:00,20:33:10,stop_point:SP_3503,Vence,6
+2298665,20:34:00,20:34:10,stop_point:SP_150,Aspin,7
+2298665,20:34:00,20:34:10,stop_point:SP_342,Piscine,8
+2298665,20:35:00,20:35:10,stop_point:SP_1833,Monts du Forez,9
+2298665,20:35:00,20:35:10,stop_point:SP_1505,Vents d'Autan,10
+2298665,20:36:00,20:36:10,stop_point:SP_2232,Grive,11
+2298665,20:37:00,20:37:10,stop_point:SP_4792,Ctre Cial L'Union,12
+2298665,20:37:00,20:37:10,stop_point:SP_3965,L'Union Grande Halle,13
+2298665,20:38:00,20:38:10,stop_point:SP_1320,Montcalm,14
+2298665,20:38:00,20:38:10,stop_point:SP_4788,Hasparren,15
+2298665,20:39:00,20:39:10,stop_point:SP_2050,Orthez,16
+2298665,20:40:00,20:40:10,stop_point:SP_852,La Franqui,17
+2298665,20:41:00,20:41:10,stop_point:SP_995,La Palme,18
+2298665,20:41:00,20:41:10,stop_point:SP_1834,Cerbère,19
+2298665,20:43:00,20:43:10,stop_point:SP_2732,Bayonne,20
+2298665,20:44:00,20:44:10,stop_point:SP_4789,St-Caprais,21
+2298665,20:46:00,20:46:10,stop_point:SP_1296,Atlanta,22
+2298665,20:47:00,20:47:10,stop_point:SP_2974,Caunes,23
+2298665,20:48:00,20:48:10,stop_point:SP_3944,Ohnet,24
+2298665,20:49:00,20:49:10,stop_point:SP_2359,Vasseur,25
+2298665,20:51:00,20:51:10,stop_point:SP_3647,Cambard,26
+2298665,20:53:00,20:53:10,stop_point:SP_1227,Argoulets,27

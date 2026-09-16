@@ -1,0 +1,397 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2298410,07:55:00,07:55:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298410,07:56:00,07:56:10,stop_point:SP_821,Le Merlet,2
+2298410,07:57:00,07:57:10,stop_point:SP_430,Ducharme,3
+2298410,07:58:00,07:58:10,stop_point:SP_638,L'Espitalet,4
+2298410,07:59:00,07:59:10,stop_point:SP_2374,Rodoloze,5
+2298410,08:00:00,08:00:10,stop_point:SP_1194,Granaillet,6
+2298410,08:02:00,08:02:10,stop_point:SP_856,Les Violettes,7
+2298410,08:04:00,08:04:10,stop_point:SP_2080,Lot Canelles,8
+2298410,08:05:00,08:05:10,stop_point:SP_1164,Le Moulin,9
+2298410,08:06:00,08:06:10,stop_point:SP_3144,L'Enclos du Château,10
+2298410,08:07:00,08:07:10,stop_point:SP_1471,Le Moulin,11
+2298410,08:11:00,08:11:10,stop_point:SP_1795,Mairie Donneville,12
+2298410,08:14:00,08:14:10,stop_point:SP_1968,Bruxelles,13
+2298410,08:16:00,08:16:10,stop_point:SP_4843,Esplanade,14
+2298410,08:17:00,08:17:10,stop_point:SP_117,Gendarmerie,15
+2298410,08:21:00,08:21:10,stop_point:SP_1519,Ticaille,16
+2298410,08:22:00,08:22:10,stop_point:SP_3660,Ourmets,17
+2298410,08:24:00,08:24:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298411,12:30:00,12:30:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298411,12:31:00,12:31:10,stop_point:SP_821,Le Merlet,2
+2298411,12:32:00,12:32:10,stop_point:SP_430,Ducharme,3
+2298411,12:33:00,12:33:10,stop_point:SP_638,L'Espitalet,4
+2298411,12:34:00,12:34:10,stop_point:SP_2374,Rodoloze,5
+2298411,12:35:00,12:35:10,stop_point:SP_1194,Granaillet,6
+2298411,12:36:00,12:36:10,stop_point:SP_856,Les Violettes,7
+2298411,12:37:00,12:37:10,stop_point:SP_2080,Lot Canelles,8
+2298411,12:38:00,12:38:10,stop_point:SP_1164,Le Moulin,9
+2298411,12:39:00,12:39:10,stop_point:SP_3144,L'Enclos du Château,10
+2298411,12:39:00,12:39:10,stop_point:SP_1471,Le Moulin,11
+2298411,12:44:00,12:44:10,stop_point:SP_1795,Mairie Donneville,12
+2298411,12:46:00,12:46:10,stop_point:SP_1968,Bruxelles,13
+2298411,12:48:00,12:48:10,stop_point:SP_4843,Esplanade,14
+2298411,12:49:00,12:49:10,stop_point:SP_117,Gendarmerie,15
+2298411,12:52:00,12:52:10,stop_point:SP_1519,Ticaille,16
+2298411,12:53:00,12:53:10,stop_point:SP_3660,Ourmets,17
+2298411,12:55:00,12:55:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298412,13:30:00,13:30:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298412,13:31:00,13:31:10,stop_point:SP_821,Le Merlet,2
+2298412,13:32:00,13:32:10,stop_point:SP_430,Ducharme,3
+2298412,13:33:00,13:33:10,stop_point:SP_638,L'Espitalet,4
+2298412,13:34:00,13:34:10,stop_point:SP_2374,Rodoloze,5
+2298412,13:35:00,13:35:10,stop_point:SP_1194,Granaillet,6
+2298412,13:36:00,13:36:10,stop_point:SP_856,Les Violettes,7
+2298412,13:37:00,13:37:10,stop_point:SP_2080,Lot Canelles,8
+2298412,13:38:00,13:38:10,stop_point:SP_1164,Le Moulin,9
+2298412,13:39:00,13:39:10,stop_point:SP_3144,L'Enclos du Château,10
+2298412,13:39:00,13:39:10,stop_point:SP_1471,Le Moulin,11
+2298412,13:44:00,13:44:10,stop_point:SP_1795,Mairie Donneville,12
+2298412,13:46:00,13:46:10,stop_point:SP_1968,Bruxelles,13
+2298412,13:48:00,13:48:10,stop_point:SP_4843,Esplanade,14
+2298412,13:49:00,13:49:10,stop_point:SP_117,Gendarmerie,15
+2298412,13:52:00,13:52:10,stop_point:SP_1519,Ticaille,16
+2298412,13:53:00,13:53:10,stop_point:SP_3660,Ourmets,17
+2298412,13:55:00,13:55:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298413,15:00:00,15:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298413,15:01:00,15:01:10,stop_point:SP_821,Le Merlet,2
+2298413,15:02:00,15:02:10,stop_point:SP_430,Ducharme,3
+2298413,15:03:00,15:03:10,stop_point:SP_638,L'Espitalet,4
+2298413,15:04:00,15:04:10,stop_point:SP_2374,Rodoloze,5
+2298413,15:05:00,15:05:10,stop_point:SP_1194,Granaillet,6
+2298413,15:06:00,15:06:10,stop_point:SP_856,Les Violettes,7
+2298413,15:07:00,15:07:10,stop_point:SP_2080,Lot Canelles,8
+2298413,15:08:00,15:08:10,stop_point:SP_1164,Le Moulin,9
+2298413,15:09:00,15:09:10,stop_point:SP_3144,L'Enclos du Château,10
+2298413,15:09:00,15:09:10,stop_point:SP_1471,Le Moulin,11
+2298413,15:14:00,15:14:10,stop_point:SP_1795,Mairie Donneville,12
+2298413,15:16:00,15:16:10,stop_point:SP_1968,Bruxelles,13
+2298413,15:18:00,15:18:10,stop_point:SP_4843,Esplanade,14
+2298413,15:19:00,15:19:10,stop_point:SP_117,Gendarmerie,15
+2298413,15:22:00,15:22:10,stop_point:SP_1519,Ticaille,16
+2298413,15:23:00,15:23:10,stop_point:SP_3660,Ourmets,17
+2298413,15:25:00,15:25:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298414,16:00:00,16:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298414,16:01:00,16:01:10,stop_point:SP_821,Le Merlet,2
+2298414,16:02:00,16:02:10,stop_point:SP_430,Ducharme,3
+2298414,16:03:00,16:03:10,stop_point:SP_638,L'Espitalet,4
+2298414,16:04:00,16:04:10,stop_point:SP_2374,Rodoloze,5
+2298414,16:05:00,16:05:10,stop_point:SP_1194,Granaillet,6
+2298414,16:06:00,16:06:10,stop_point:SP_856,Les Violettes,7
+2298414,16:07:00,16:07:10,stop_point:SP_2080,Lot Canelles,8
+2298414,16:08:00,16:08:10,stop_point:SP_1164,Le Moulin,9
+2298414,16:09:00,16:09:10,stop_point:SP_3144,L'Enclos du Château,10
+2298414,16:09:00,16:09:10,stop_point:SP_1471,Le Moulin,11
+2298414,16:14:00,16:14:10,stop_point:SP_1795,Mairie Donneville,12
+2298414,16:16:00,16:16:10,stop_point:SP_1968,Bruxelles,13
+2298414,16:18:00,16:18:10,stop_point:SP_4843,Esplanade,14
+2298414,16:19:00,16:19:10,stop_point:SP_117,Gendarmerie,15
+2298414,16:22:00,16:22:10,stop_point:SP_1519,Ticaille,16
+2298414,16:23:00,16:23:10,stop_point:SP_3660,Ourmets,17
+2298414,16:25:00,16:25:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298415,17:00:00,17:00:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298415,17:01:00,17:01:10,stop_point:SP_821,Le Merlet,2
+2298415,17:02:00,17:02:10,stop_point:SP_430,Ducharme,3
+2298415,17:03:00,17:03:10,stop_point:SP_638,L'Espitalet,4
+2298415,17:04:00,17:04:10,stop_point:SP_2374,Rodoloze,5
+2298415,17:05:00,17:05:10,stop_point:SP_1194,Granaillet,6
+2298415,17:07:00,17:07:10,stop_point:SP_856,Les Violettes,7
+2298415,17:09:00,17:09:10,stop_point:SP_2080,Lot Canelles,8
+2298415,17:10:00,17:10:10,stop_point:SP_1164,Le Moulin,9
+2298415,17:11:00,17:11:10,stop_point:SP_3144,L'Enclos du Château,10
+2298415,17:12:00,17:12:10,stop_point:SP_1471,Le Moulin,11
+2298415,17:16:00,17:16:10,stop_point:SP_1795,Mairie Donneville,12
+2298415,17:19:00,17:19:10,stop_point:SP_1968,Bruxelles,13
+2298415,17:21:00,17:21:10,stop_point:SP_4843,Esplanade,14
+2298415,17:22:00,17:22:10,stop_point:SP_117,Gendarmerie,15
+2298415,17:26:00,17:26:10,stop_point:SP_1519,Ticaille,16
+2298415,17:27:00,17:27:10,stop_point:SP_3660,Ourmets,17
+2298415,17:29:00,17:29:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298416,17:40:00,17:40:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298416,17:41:00,17:41:10,stop_point:SP_821,Le Merlet,2
+2298416,17:42:00,17:42:10,stop_point:SP_430,Ducharme,3
+2298416,17:43:00,17:43:10,stop_point:SP_638,L'Espitalet,4
+2298416,17:44:00,17:44:10,stop_point:SP_2374,Rodoloze,5
+2298416,17:45:00,17:45:10,stop_point:SP_1194,Granaillet,6
+2298416,17:47:00,17:47:10,stop_point:SP_856,Les Violettes,7
+2298416,17:49:00,17:49:10,stop_point:SP_2080,Lot Canelles,8
+2298416,17:50:00,17:50:10,stop_point:SP_1164,Le Moulin,9
+2298416,17:51:00,17:51:10,stop_point:SP_3144,L'Enclos du Château,10
+2298416,17:52:00,17:52:10,stop_point:SP_1471,Le Moulin,11
+2298416,17:56:00,17:56:10,stop_point:SP_1795,Mairie Donneville,12
+2298416,17:59:00,17:59:10,stop_point:SP_1968,Bruxelles,13
+2298416,18:01:00,18:01:10,stop_point:SP_4843,Esplanade,14
+2298416,18:02:00,18:02:10,stop_point:SP_117,Gendarmerie,15
+2298416,18:06:00,18:06:10,stop_point:SP_1519,Ticaille,16
+2298416,18:07:00,18:07:10,stop_point:SP_3660,Ourmets,17
+2298416,18:09:00,18:09:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298417,18:05:00,18:05:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298417,18:06:00,18:06:10,stop_point:SP_821,Le Merlet,2
+2298417,18:07:00,18:07:10,stop_point:SP_430,Ducharme,3
+2298417,18:08:00,18:08:10,stop_point:SP_638,L'Espitalet,4
+2298417,18:09:00,18:09:10,stop_point:SP_2374,Rodoloze,5
+2298417,18:10:00,18:10:10,stop_point:SP_1194,Granaillet,6
+2298417,18:12:00,18:12:10,stop_point:SP_856,Les Violettes,7
+2298417,18:14:00,18:14:10,stop_point:SP_2080,Lot Canelles,8
+2298417,18:15:00,18:15:10,stop_point:SP_1164,Le Moulin,9
+2298417,18:16:00,18:16:10,stop_point:SP_3144,L'Enclos du Château,10
+2298417,18:17:00,18:17:10,stop_point:SP_1471,Le Moulin,11
+2298417,18:21:00,18:21:10,stop_point:SP_1795,Mairie Donneville,12
+2298417,18:24:00,18:24:10,stop_point:SP_1968,Bruxelles,13
+2298417,18:26:00,18:26:10,stop_point:SP_4843,Esplanade,14
+2298417,18:27:00,18:27:10,stop_point:SP_117,Gendarmerie,15
+2298417,18:31:00,18:31:10,stop_point:SP_1519,Ticaille,16
+2298417,18:32:00,18:32:10,stop_point:SP_3660,Ourmets,17
+2298417,18:34:00,18:34:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298418,18:40:00,18:40:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298418,18:41:00,18:41:10,stop_point:SP_821,Le Merlet,2
+2298418,18:42:00,18:42:10,stop_point:SP_430,Ducharme,3
+2298418,18:43:00,18:43:10,stop_point:SP_638,L'Espitalet,4
+2298418,18:44:00,18:44:10,stop_point:SP_2374,Rodoloze,5
+2298418,18:45:00,18:45:10,stop_point:SP_1194,Granaillet,6
+2298418,18:47:00,18:47:10,stop_point:SP_856,Les Violettes,7
+2298418,18:49:00,18:49:10,stop_point:SP_2080,Lot Canelles,8
+2298418,18:50:00,18:50:10,stop_point:SP_1164,Le Moulin,9
+2298418,18:51:00,18:51:10,stop_point:SP_3144,L'Enclos du Château,10
+2298418,18:52:00,18:52:10,stop_point:SP_1471,Le Moulin,11
+2298418,18:56:00,18:56:10,stop_point:SP_1795,Mairie Donneville,12
+2298418,18:59:00,18:59:10,stop_point:SP_1968,Bruxelles,13
+2298418,19:01:00,19:01:10,stop_point:SP_4843,Esplanade,14
+2298418,19:02:00,19:02:10,stop_point:SP_117,Gendarmerie,15
+2298418,19:06:00,19:06:10,stop_point:SP_1519,Ticaille,16
+2298418,19:07:00,19:07:10,stop_point:SP_3660,Ourmets,17
+2298418,19:09:00,19:09:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298419,19:20:00,19:20:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298419,19:21:00,19:21:10,stop_point:SP_821,Le Merlet,2
+2298419,19:22:00,19:22:10,stop_point:SP_430,Ducharme,3
+2298419,19:23:00,19:23:10,stop_point:SP_638,L'Espitalet,4
+2298419,19:24:00,19:24:10,stop_point:SP_2374,Rodoloze,5
+2298419,19:25:00,19:25:10,stop_point:SP_1194,Granaillet,6
+2298419,19:26:00,19:26:10,stop_point:SP_856,Les Violettes,7
+2298419,19:27:00,19:27:10,stop_point:SP_2080,Lot Canelles,8
+2298419,19:28:00,19:28:10,stop_point:SP_1164,Le Moulin,9
+2298419,19:29:00,19:29:10,stop_point:SP_3144,L'Enclos du Château,10
+2298419,19:29:00,19:29:10,stop_point:SP_1471,Le Moulin,11
+2298419,19:34:00,19:34:10,stop_point:SP_1795,Mairie Donneville,12
+2298419,19:36:00,19:36:10,stop_point:SP_1968,Bruxelles,13
+2298419,19:38:00,19:38:10,stop_point:SP_4843,Esplanade,14
+2298419,19:39:00,19:39:10,stop_point:SP_117,Gendarmerie,15
+2298419,19:42:00,19:42:10,stop_point:SP_1519,Ticaille,16
+2298419,19:43:00,19:43:10,stop_point:SP_3660,Ourmets,17
+2298419,19:45:00,19:45:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298420,20:10:00,20:10:10,stop_point:SP_1170,Castanet-Tolosan,1
+2298420,20:11:00,20:11:10,stop_point:SP_821,Le Merlet,2
+2298420,20:12:00,20:12:10,stop_point:SP_430,Ducharme,3
+2298420,20:13:00,20:13:10,stop_point:SP_638,L'Espitalet,4
+2298420,20:14:00,20:14:10,stop_point:SP_2374,Rodoloze,5
+2298420,20:15:00,20:15:10,stop_point:SP_1194,Granaillet,6
+2298420,20:16:00,20:16:10,stop_point:SP_856,Les Violettes,7
+2298420,20:17:00,20:17:10,stop_point:SP_2080,Lot Canelles,8
+2298420,20:18:00,20:18:10,stop_point:SP_1164,Le Moulin,9
+2298420,20:19:00,20:19:10,stop_point:SP_3144,L'Enclos du Château,10
+2298420,20:19:00,20:19:10,stop_point:SP_1471,Le Moulin,11
+2298420,20:24:00,20:24:10,stop_point:SP_1795,Mairie Donneville,12
+2298420,20:26:00,20:26:10,stop_point:SP_1968,Bruxelles,13
+2298420,20:28:00,20:28:10,stop_point:SP_4843,Esplanade,14
+2298420,20:29:00,20:29:10,stop_point:SP_117,Gendarmerie,15
+2298420,20:32:00,20:32:10,stop_point:SP_1519,Ticaille,16
+2298420,20:33:00,20:33:10,stop_point:SP_3660,Ourmets,17
+2298420,20:35:00,20:35:10,stop_point:SP_1444,Ayguesvives Collège,18
+2298421,06:20:00,06:20:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298421,06:21:00,06:21:10,stop_point:SP_1169,Ourmets,2
+2298421,06:22:00,06:22:10,stop_point:SP_1350,Ticaille,3
+2298421,06:24:00,06:24:10,stop_point:SP_234,Gendarmerie,4
+2298421,06:25:00,06:25:10,stop_point:SP_1981,Esplanade,5
+2298421,06:26:00,06:26:10,stop_point:SP_2501,Bruxelles,6
+2298421,06:28:00,06:28:10,stop_point:SP_3893,Mairie Donneville,7
+2298421,06:32:00,06:32:10,stop_point:SP_1144,Les Violettes,8
+2298421,06:33:00,06:33:10,stop_point:SP_2080,Lot Canelles,9
+2298421,06:34:00,06:34:10,stop_point:SP_1164,Le Moulin,10
+2298421,06:35:00,06:35:10,stop_point:SP_3144,L'Enclos du Château,11
+2298421,06:35:00,06:35:10,stop_point:SP_1471,Le Moulin,12
+2298421,06:38:00,06:38:10,stop_point:SP_2583,Granaillet,13
+2298421,06:39:00,06:39:10,stop_point:SP_2323,Rodoloze,14
+2298421,06:40:00,06:40:10,stop_point:SP_3580,L'Espitalet,15
+2298421,06:40:00,06:40:10,stop_point:SP_1504,Ducharme,16
+2298421,06:42:00,06:42:10,stop_point:SP_1886,Le Merlet,17
+2298421,06:43:00,06:43:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298422,06:55:00,06:55:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298422,06:56:00,06:56:10,stop_point:SP_1169,Ourmets,2
+2298422,06:57:00,06:57:10,stop_point:SP_1350,Ticaille,3
+2298422,07:01:00,07:01:10,stop_point:SP_234,Gendarmerie,4
+2298422,07:02:00,07:02:10,stop_point:SP_1981,Esplanade,5
+2298422,07:04:00,07:04:10,stop_point:SP_2501,Bruxelles,6
+2298422,07:07:00,07:07:10,stop_point:SP_3893,Mairie Donneville,7
+2298422,07:11:00,07:11:10,stop_point:SP_1144,Les Violettes,8
+2298422,07:12:00,07:12:10,stop_point:SP_2080,Lot Canelles,9
+2298422,07:13:00,07:13:10,stop_point:SP_1164,Le Moulin,10
+2298422,07:14:00,07:14:10,stop_point:SP_3144,L'Enclos du Château,11
+2298422,07:14:00,07:14:10,stop_point:SP_1471,Le Moulin,12
+2298422,07:18:00,07:18:10,stop_point:SP_2583,Granaillet,13
+2298422,07:19:00,07:19:10,stop_point:SP_2323,Rodoloze,14
+2298422,07:20:00,07:20:10,stop_point:SP_3580,L'Espitalet,15
+2298422,07:21:00,07:21:10,stop_point:SP_1504,Ducharme,16
+2298422,07:22:00,07:22:10,stop_point:SP_1886,Le Merlet,17
+2298422,07:24:00,07:24:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298423,07:25:00,07:25:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298423,07:26:00,07:26:10,stop_point:SP_1169,Ourmets,2
+2298423,07:27:00,07:27:10,stop_point:SP_1350,Ticaille,3
+2298423,07:31:00,07:31:10,stop_point:SP_234,Gendarmerie,4
+2298423,07:32:00,07:32:10,stop_point:SP_1981,Esplanade,5
+2298423,07:34:00,07:34:10,stop_point:SP_2501,Bruxelles,6
+2298423,07:37:00,07:37:10,stop_point:SP_3893,Mairie Donneville,7
+2298423,07:41:00,07:41:10,stop_point:SP_1144,Les Violettes,8
+2298423,07:42:00,07:42:10,stop_point:SP_2080,Lot Canelles,9
+2298423,07:43:00,07:43:10,stop_point:SP_1164,Le Moulin,10
+2298423,07:44:00,07:44:10,stop_point:SP_3144,L'Enclos du Château,11
+2298423,07:44:00,07:44:10,stop_point:SP_1471,Le Moulin,12
+2298423,07:48:00,07:48:10,stop_point:SP_2583,Granaillet,13
+2298423,07:49:00,07:49:10,stop_point:SP_2323,Rodoloze,14
+2298423,07:50:00,07:50:10,stop_point:SP_3580,L'Espitalet,15
+2298423,07:51:00,07:51:10,stop_point:SP_1504,Ducharme,16
+2298423,07:52:00,07:52:10,stop_point:SP_1886,Le Merlet,17
+2298423,07:54:00,07:54:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298424,08:00:00,08:00:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298424,08:01:00,08:01:10,stop_point:SP_1169,Ourmets,2
+2298424,08:02:00,08:02:10,stop_point:SP_1350,Ticaille,3
+2298424,08:06:00,08:06:10,stop_point:SP_234,Gendarmerie,4
+2298424,08:07:00,08:07:10,stop_point:SP_1981,Esplanade,5
+2298424,08:09:00,08:09:10,stop_point:SP_2501,Bruxelles,6
+2298424,08:12:00,08:12:10,stop_point:SP_3893,Mairie Donneville,7
+2298424,08:16:00,08:16:10,stop_point:SP_1144,Les Violettes,8
+2298424,08:17:00,08:17:10,stop_point:SP_2080,Lot Canelles,9
+2298424,08:18:00,08:18:10,stop_point:SP_1164,Le Moulin,10
+2298424,08:19:00,08:19:10,stop_point:SP_3144,L'Enclos du Château,11
+2298424,08:19:00,08:19:10,stop_point:SP_1471,Le Moulin,12
+2298424,08:23:00,08:23:10,stop_point:SP_2583,Granaillet,13
+2298424,08:24:00,08:24:10,stop_point:SP_2323,Rodoloze,14
+2298424,08:25:00,08:25:10,stop_point:SP_3580,L'Espitalet,15
+2298424,08:26:00,08:26:10,stop_point:SP_1504,Ducharme,16
+2298424,08:27:00,08:27:10,stop_point:SP_1886,Le Merlet,17
+2298424,08:29:00,08:29:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298425,08:30:00,08:30:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298425,08:31:00,08:31:10,stop_point:SP_1169,Ourmets,2
+2298425,08:32:00,08:32:10,stop_point:SP_1350,Ticaille,3
+2298425,08:36:00,08:36:10,stop_point:SP_234,Gendarmerie,4
+2298425,08:37:00,08:37:10,stop_point:SP_1981,Esplanade,5
+2298425,08:39:00,08:39:10,stop_point:SP_2501,Bruxelles,6
+2298425,08:42:00,08:42:10,stop_point:SP_3893,Mairie Donneville,7
+2298425,08:46:00,08:46:10,stop_point:SP_1144,Les Violettes,8
+2298425,08:47:00,08:47:10,stop_point:SP_2080,Lot Canelles,9
+2298425,08:48:00,08:48:10,stop_point:SP_1164,Le Moulin,10
+2298425,08:49:00,08:49:10,stop_point:SP_3144,L'Enclos du Château,11
+2298425,08:49:00,08:49:10,stop_point:SP_1471,Le Moulin,12
+2298425,08:53:00,08:53:10,stop_point:SP_2583,Granaillet,13
+2298425,08:54:00,08:54:10,stop_point:SP_2323,Rodoloze,14
+2298425,08:55:00,08:55:10,stop_point:SP_3580,L'Espitalet,15
+2298425,08:56:00,08:56:10,stop_point:SP_1504,Ducharme,16
+2298425,08:57:00,08:57:10,stop_point:SP_1886,Le Merlet,17
+2298425,08:59:00,08:59:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298426,09:05:00,09:05:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298426,09:06:00,09:06:10,stop_point:SP_1169,Ourmets,2
+2298426,09:07:00,09:07:10,stop_point:SP_1350,Ticaille,3
+2298426,09:11:00,09:11:10,stop_point:SP_234,Gendarmerie,4
+2298426,09:12:00,09:12:10,stop_point:SP_1981,Esplanade,5
+2298426,09:14:00,09:14:10,stop_point:SP_2501,Bruxelles,6
+2298426,09:17:00,09:17:10,stop_point:SP_3893,Mairie Donneville,7
+2298426,09:21:00,09:21:10,stop_point:SP_1144,Les Violettes,8
+2298426,09:22:00,09:22:10,stop_point:SP_2080,Lot Canelles,9
+2298426,09:23:00,09:23:10,stop_point:SP_1164,Le Moulin,10
+2298426,09:24:00,09:24:10,stop_point:SP_3144,L'Enclos du Château,11
+2298426,09:24:00,09:24:10,stop_point:SP_1471,Le Moulin,12
+2298426,09:28:00,09:28:10,stop_point:SP_2583,Granaillet,13
+2298426,09:29:00,09:29:10,stop_point:SP_2323,Rodoloze,14
+2298426,09:30:00,09:30:10,stop_point:SP_3580,L'Espitalet,15
+2298426,09:31:00,09:31:10,stop_point:SP_1504,Ducharme,16
+2298426,09:32:00,09:32:10,stop_point:SP_1886,Le Merlet,17
+2298426,09:34:00,09:34:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298427,12:00:00,12:00:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298427,12:01:00,12:01:10,stop_point:SP_1169,Ourmets,2
+2298427,12:02:00,12:02:10,stop_point:SP_1350,Ticaille,3
+2298427,12:04:00,12:04:10,stop_point:SP_234,Gendarmerie,4
+2298427,12:05:00,12:05:10,stop_point:SP_1981,Esplanade,5
+2298427,12:06:00,12:06:10,stop_point:SP_2501,Bruxelles,6
+2298427,12:08:00,12:08:10,stop_point:SP_3893,Mairie Donneville,7
+2298427,12:12:00,12:12:10,stop_point:SP_1144,Les Violettes,8
+2298427,12:13:00,12:13:10,stop_point:SP_2080,Lot Canelles,9
+2298427,12:14:00,12:14:10,stop_point:SP_1164,Le Moulin,10
+2298427,12:15:00,12:15:10,stop_point:SP_3144,L'Enclos du Château,11
+2298427,12:15:00,12:15:10,stop_point:SP_1471,Le Moulin,12
+2298427,12:18:00,12:18:10,stop_point:SP_2583,Granaillet,13
+2298427,12:19:00,12:19:10,stop_point:SP_2323,Rodoloze,14
+2298427,12:20:00,12:20:10,stop_point:SP_3580,L'Espitalet,15
+2298427,12:20:00,12:20:10,stop_point:SP_1504,Ducharme,16
+2298427,12:22:00,12:22:10,stop_point:SP_1886,Le Merlet,17
+2298427,12:23:00,12:23:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298428,13:00:00,13:00:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298428,13:01:00,13:01:10,stop_point:SP_1169,Ourmets,2
+2298428,13:02:00,13:02:10,stop_point:SP_1350,Ticaille,3
+2298428,13:04:00,13:04:10,stop_point:SP_234,Gendarmerie,4
+2298428,13:05:00,13:05:10,stop_point:SP_1981,Esplanade,5
+2298428,13:06:00,13:06:10,stop_point:SP_2501,Bruxelles,6
+2298428,13:08:00,13:08:10,stop_point:SP_3893,Mairie Donneville,7
+2298428,13:12:00,13:12:10,stop_point:SP_1144,Les Violettes,8
+2298428,13:13:00,13:13:10,stop_point:SP_2080,Lot Canelles,9
+2298428,13:14:00,13:14:10,stop_point:SP_1164,Le Moulin,10
+2298428,13:15:00,13:15:10,stop_point:SP_3144,L'Enclos du Château,11
+2298428,13:15:00,13:15:10,stop_point:SP_1471,Le Moulin,12
+2298428,13:18:00,13:18:10,stop_point:SP_2583,Granaillet,13
+2298428,13:19:00,13:19:10,stop_point:SP_2323,Rodoloze,14
+2298428,13:20:00,13:20:10,stop_point:SP_3580,L'Espitalet,15
+2298428,13:20:00,13:20:10,stop_point:SP_1504,Ducharme,16
+2298428,13:22:00,13:22:10,stop_point:SP_1886,Le Merlet,17
+2298428,13:23:00,13:23:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298429,14:15:00,14:15:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298429,14:16:00,14:16:10,stop_point:SP_1169,Ourmets,2
+2298429,14:17:00,14:17:10,stop_point:SP_1350,Ticaille,3
+2298429,14:19:00,14:19:10,stop_point:SP_234,Gendarmerie,4
+2298429,14:20:00,14:20:10,stop_point:SP_1981,Esplanade,5
+2298429,14:21:00,14:21:10,stop_point:SP_2501,Bruxelles,6
+2298429,14:23:00,14:23:10,stop_point:SP_3893,Mairie Donneville,7
+2298429,14:27:00,14:27:10,stop_point:SP_1144,Les Violettes,8
+2298429,14:28:00,14:28:10,stop_point:SP_2080,Lot Canelles,9
+2298429,14:29:00,14:29:10,stop_point:SP_1164,Le Moulin,10
+2298429,14:30:00,14:30:10,stop_point:SP_3144,L'Enclos du Château,11
+2298429,14:30:00,14:30:10,stop_point:SP_1471,Le Moulin,12
+2298429,14:33:00,14:33:10,stop_point:SP_2583,Granaillet,13
+2298429,14:34:00,14:34:10,stop_point:SP_2323,Rodoloze,14
+2298429,14:35:00,14:35:10,stop_point:SP_3580,L'Espitalet,15
+2298429,14:35:00,14:35:10,stop_point:SP_1504,Ducharme,16
+2298429,14:37:00,14:37:10,stop_point:SP_1886,Le Merlet,17
+2298429,14:38:00,14:38:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298430,17:15:00,17:15:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298430,17:16:00,17:16:10,stop_point:SP_1169,Ourmets,2
+2298430,17:17:00,17:17:10,stop_point:SP_1350,Ticaille,3
+2298430,17:19:00,17:19:10,stop_point:SP_234,Gendarmerie,4
+2298430,17:20:00,17:20:10,stop_point:SP_1981,Esplanade,5
+2298430,17:21:00,17:21:10,stop_point:SP_2501,Bruxelles,6
+2298430,17:23:00,17:23:10,stop_point:SP_3893,Mairie Donneville,7
+2298430,17:27:00,17:27:10,stop_point:SP_1144,Les Violettes,8
+2298430,17:28:00,17:28:10,stop_point:SP_2080,Lot Canelles,9
+2298430,17:29:00,17:29:10,stop_point:SP_1164,Le Moulin,10
+2298430,17:30:00,17:30:10,stop_point:SP_3144,L'Enclos du Château,11
+2298430,17:30:00,17:30:10,stop_point:SP_1471,Le Moulin,12
+2298430,17:33:00,17:33:10,stop_point:SP_2583,Granaillet,13
+2298430,17:34:00,17:34:10,stop_point:SP_2323,Rodoloze,14
+2298430,17:35:00,17:35:10,stop_point:SP_3580,L'Espitalet,15
+2298430,17:35:00,17:35:10,stop_point:SP_1504,Ducharme,16
+2298430,17:37:00,17:37:10,stop_point:SP_1886,Le Merlet,17
+2298430,17:38:00,17:38:10,stop_point:SP_1170,Castanet-Tolosan,18
+2298431,18:15:00,18:15:10,stop_point:SP_1444,Ayguesvives Collège,1
+2298431,18:16:00,18:16:10,stop_point:SP_1169,Ourmets,2
+2298431,18:17:00,18:17:10,stop_point:SP_1350,Ticaille,3
+2298431,18:19:00,18:19:10,stop_point:SP_234,Gendarmerie,4
+2298431,18:20:00,18:20:10,stop_point:SP_1981,Esplanade,5
+2298431,18:21:00,18:21:10,stop_point:SP_2501,Bruxelles,6
+2298431,18:23:00,18:23:10,stop_point:SP_3893,Mairie Donneville,7
+2298431,18:27:00,18:27:10,stop_point:SP_1144,Les Violettes,8
+2298431,18:28:00,18:28:10,stop_point:SP_2080,Lot Canelles,9
+2298431,18:29:00,18:29:10,stop_point:SP_1164,Le Moulin,10
+2298431,18:30:00,18:30:10,stop_point:SP_3144,L'Enclos du Château,11
+2298431,18:30:00,18:30:10,stop_point:SP_1471,Le Moulin,12
+2298431,18:33:00,18:33:10,stop_point:SP_2583,Granaillet,13
+2298431,18:34:00,18:34:10,stop_point:SP_2323,Rodoloze,14
+2298431,18:35:00,18:35:10,stop_point:SP_3580,L'Espitalet,15
+2298431,18:35:00,18:35:10,stop_point:SP_1504,Ducharme,16
+2298431,18:37:00,18:37:10,stop_point:SP_1886,Le Merlet,17
+2298431,18:38:00,18:38:10,stop_point:SP_1170,Castanet-Tolosan,18

@@ -1,0 +1,2611 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2296040,05:40:00,05:40:10,stop_point:SP_5270,Guyenne-Berry,1
+2296040,05:43:00,05:43:10,stop_point:SP_1921,Dewoitine,2
+2296040,05:45:00,05:45:10,stop_point:SP_297,Daurat,3
+2296040,05:47:00,05:47:10,stop_point:SP_724,Aéroport,4
+2296041,05:50:00,05:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296041,05:53:00,05:53:10,stop_point:SP_1921,Dewoitine,2
+2296041,05:55:00,05:55:10,stop_point:SP_297,Daurat,3
+2296041,05:57:00,05:57:10,stop_point:SP_724,Aéroport,4
+2296042,06:00:00,06:00:10,stop_point:SP_5270,Guyenne-Berry,1
+2296042,06:03:00,06:03:10,stop_point:SP_1921,Dewoitine,2
+2296042,06:05:00,06:05:10,stop_point:SP_297,Daurat,3
+2296042,06:07:00,06:07:10,stop_point:SP_724,Aéroport,4
+2296043,06:10:00,06:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2296043,06:13:00,06:13:10,stop_point:SP_1921,Dewoitine,2
+2296043,06:15:00,06:15:10,stop_point:SP_297,Daurat,3
+2296043,06:17:00,06:17:10,stop_point:SP_724,Aéroport,4
+2296044,06:20:00,06:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2296044,06:23:00,06:23:10,stop_point:SP_1921,Dewoitine,2
+2296044,06:25:00,06:25:10,stop_point:SP_297,Daurat,3
+2296044,06:27:00,06:27:10,stop_point:SP_724,Aéroport,4
+2296045,06:30:00,06:30:10,stop_point:SP_5270,Guyenne-Berry,1
+2296045,06:33:00,06:33:10,stop_point:SP_1921,Dewoitine,2
+2296045,06:35:00,06:35:10,stop_point:SP_297,Daurat,3
+2296045,06:37:00,06:37:10,stop_point:SP_724,Aéroport,4
+2296046,06:40:00,06:40:10,stop_point:SP_5270,Guyenne-Berry,1
+2296046,06:43:00,06:43:10,stop_point:SP_1921,Dewoitine,2
+2296046,06:45:00,06:45:10,stop_point:SP_297,Daurat,3
+2296046,06:47:00,06:47:10,stop_point:SP_724,Aéroport,4
+2296047,06:50:00,06:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296047,06:53:00,06:53:10,stop_point:SP_1921,Dewoitine,2
+2296047,06:55:00,06:55:10,stop_point:SP_297,Daurat,3
+2296047,06:57:00,06:57:10,stop_point:SP_724,Aéroport,4
+2296048,07:00:00,07:00:10,stop_point:SP_5270,Guyenne-Berry,1
+2296048,07:03:00,07:03:10,stop_point:SP_1921,Dewoitine,2
+2296048,07:06:00,07:06:10,stop_point:SP_297,Daurat,3
+2296048,07:09:00,07:09:10,stop_point:SP_724,Aéroport,4
+2296049,07:08:00,07:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2296049,07:11:00,07:11:10,stop_point:SP_1921,Dewoitine,2
+2296049,07:14:00,07:14:10,stop_point:SP_297,Daurat,3
+2296049,07:17:00,07:17:10,stop_point:SP_724,Aéroport,4
+2296050,07:17:00,07:17:10,stop_point:SP_5270,Guyenne-Berry,1
+2296050,07:20:00,07:20:10,stop_point:SP_1921,Dewoitine,2
+2296050,07:23:00,07:23:10,stop_point:SP_297,Daurat,3
+2296050,07:26:00,07:26:10,stop_point:SP_724,Aéroport,4
+2296051,07:26:00,07:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2296051,07:29:00,07:29:10,stop_point:SP_1921,Dewoitine,2
+2296051,07:32:00,07:32:10,stop_point:SP_297,Daurat,3
+2296051,07:35:00,07:35:10,stop_point:SP_724,Aéroport,4
+2296052,07:33:00,07:33:10,stop_point:SP_5270,Guyenne-Berry,1
+2296052,07:36:00,07:36:10,stop_point:SP_1921,Dewoitine,2
+2296052,07:39:00,07:39:10,stop_point:SP_297,Daurat,3
+2296052,07:42:00,07:42:10,stop_point:SP_724,Aéroport,4
+2296053,07:41:00,07:41:10,stop_point:SP_5270,Guyenne-Berry,1
+2296053,07:44:00,07:44:10,stop_point:SP_1921,Dewoitine,2
+2296053,07:47:00,07:47:10,stop_point:SP_297,Daurat,3
+2296053,07:50:00,07:50:10,stop_point:SP_724,Aéroport,4
+2296054,07:48:00,07:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2296054,07:51:00,07:51:10,stop_point:SP_1921,Dewoitine,2
+2296054,07:54:00,07:54:10,stop_point:SP_297,Daurat,3
+2296054,07:57:00,07:57:10,stop_point:SP_724,Aéroport,4
+2296055,07:56:00,07:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2296055,08:00:00,08:00:10,stop_point:SP_1921,Dewoitine,2
+2296055,08:03:00,08:03:10,stop_point:SP_297,Daurat,3
+2296055,08:06:00,08:06:10,stop_point:SP_724,Aéroport,4
+2296056,08:03:00,08:03:10,stop_point:SP_5270,Guyenne-Berry,1
+2296056,08:07:00,08:07:10,stop_point:SP_1921,Dewoitine,2
+2296056,08:10:00,08:10:10,stop_point:SP_297,Daurat,3
+2296056,08:13:00,08:13:10,stop_point:SP_724,Aéroport,4
+2296057,08:11:00,08:11:10,stop_point:SP_5270,Guyenne-Berry,1
+2296057,08:15:00,08:15:10,stop_point:SP_1921,Dewoitine,2
+2296057,08:18:00,08:18:10,stop_point:SP_297,Daurat,3
+2296057,08:21:00,08:21:10,stop_point:SP_724,Aéroport,4
+2296058,08:18:00,08:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2296058,08:22:00,08:22:10,stop_point:SP_1921,Dewoitine,2
+2296058,08:25:00,08:25:10,stop_point:SP_297,Daurat,3
+2296058,08:28:00,08:28:10,stop_point:SP_724,Aéroport,4
+2296059,08:26:00,08:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2296059,08:30:00,08:30:10,stop_point:SP_1921,Dewoitine,2
+2296059,08:33:00,08:33:10,stop_point:SP_297,Daurat,3
+2296059,08:36:00,08:36:10,stop_point:SP_724,Aéroport,4
+2296060,08:33:00,08:33:10,stop_point:SP_5270,Guyenne-Berry,1
+2296060,08:37:00,08:37:10,stop_point:SP_1921,Dewoitine,2
+2296060,08:40:00,08:40:10,stop_point:SP_297,Daurat,3
+2296060,08:43:00,08:43:10,stop_point:SP_724,Aéroport,4
+2296061,08:41:00,08:41:10,stop_point:SP_5270,Guyenne-Berry,1
+2296061,08:45:00,08:45:10,stop_point:SP_1921,Dewoitine,2
+2296061,08:48:00,08:48:10,stop_point:SP_297,Daurat,3
+2296061,08:51:00,08:51:10,stop_point:SP_724,Aéroport,4
+2296062,08:48:00,08:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2296062,08:52:00,08:52:10,stop_point:SP_1921,Dewoitine,2
+2296062,08:55:00,08:55:10,stop_point:SP_297,Daurat,3
+2296062,08:58:00,08:58:10,stop_point:SP_724,Aéroport,4
+2296063,08:56:00,08:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2296063,09:00:00,09:00:10,stop_point:SP_1921,Dewoitine,2
+2296063,09:03:00,09:03:10,stop_point:SP_297,Daurat,3
+2296063,09:06:00,09:06:10,stop_point:SP_724,Aéroport,4
+2296064,09:02:00,09:02:10,stop_point:SP_5270,Guyenne-Berry,1
+2296064,09:05:00,09:05:10,stop_point:SP_1921,Dewoitine,2
+2296064,09:08:00,09:08:10,stop_point:SP_297,Daurat,3
+2296064,09:11:00,09:11:10,stop_point:SP_724,Aéroport,4
+2296065,09:08:00,09:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2296065,09:11:00,09:11:10,stop_point:SP_1921,Dewoitine,2
+2296065,09:13:00,09:13:10,stop_point:SP_297,Daurat,3
+2296065,09:16:00,09:16:10,stop_point:SP_724,Aéroport,4
+2296066,09:15:00,09:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296066,09:18:00,09:18:10,stop_point:SP_1921,Dewoitine,2
+2296066,09:20:00,09:20:10,stop_point:SP_297,Daurat,3
+2296066,09:22:00,09:22:10,stop_point:SP_724,Aéroport,4
+2296067,09:25:00,09:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296067,09:28:00,09:28:10,stop_point:SP_1921,Dewoitine,2
+2296067,09:30:00,09:30:10,stop_point:SP_297,Daurat,3
+2296067,09:32:00,09:32:10,stop_point:SP_724,Aéroport,4
+2296068,09:35:00,09:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296068,09:38:00,09:38:10,stop_point:SP_1921,Dewoitine,2
+2296068,09:40:00,09:40:10,stop_point:SP_297,Daurat,3
+2296068,09:42:00,09:42:10,stop_point:SP_724,Aéroport,4
+2296069,09:45:00,09:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296069,09:48:00,09:48:10,stop_point:SP_1921,Dewoitine,2
+2296069,09:50:00,09:50:10,stop_point:SP_297,Daurat,3
+2296069,09:52:00,09:52:10,stop_point:SP_724,Aéroport,4
+2296070,09:55:00,09:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296070,09:58:00,09:58:10,stop_point:SP_1921,Dewoitine,2
+2296070,10:00:00,10:00:10,stop_point:SP_297,Daurat,3
+2296070,10:02:00,10:02:10,stop_point:SP_724,Aéroport,4
+2296071,10:05:00,10:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296071,10:08:00,10:08:10,stop_point:SP_1921,Dewoitine,2
+2296071,10:10:00,10:10:10,stop_point:SP_297,Daurat,3
+2296071,10:12:00,10:12:10,stop_point:SP_724,Aéroport,4
+2296072,10:15:00,10:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296072,10:18:00,10:18:10,stop_point:SP_1921,Dewoitine,2
+2296072,10:20:00,10:20:10,stop_point:SP_297,Daurat,3
+2296072,10:22:00,10:22:10,stop_point:SP_724,Aéroport,4
+2296073,10:25:00,10:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296073,10:28:00,10:28:10,stop_point:SP_1921,Dewoitine,2
+2296073,10:30:00,10:30:10,stop_point:SP_297,Daurat,3
+2296073,10:32:00,10:32:10,stop_point:SP_724,Aéroport,4
+2296074,10:35:00,10:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296074,10:38:00,10:38:10,stop_point:SP_1921,Dewoitine,2
+2296074,10:40:00,10:40:10,stop_point:SP_297,Daurat,3
+2296074,10:42:00,10:42:10,stop_point:SP_724,Aéroport,4
+2296075,10:45:00,10:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296075,10:48:00,10:48:10,stop_point:SP_1921,Dewoitine,2
+2296075,10:50:00,10:50:10,stop_point:SP_297,Daurat,3
+2296075,10:52:00,10:52:10,stop_point:SP_724,Aéroport,4
+2296076,10:55:00,10:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296076,10:58:00,10:58:10,stop_point:SP_1921,Dewoitine,2
+2296076,11:00:00,11:00:10,stop_point:SP_297,Daurat,3
+2296076,11:02:00,11:02:10,stop_point:SP_724,Aéroport,4
+2296077,11:05:00,11:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296077,11:08:00,11:08:10,stop_point:SP_1921,Dewoitine,2
+2296077,11:10:00,11:10:10,stop_point:SP_297,Daurat,3
+2296077,11:12:00,11:12:10,stop_point:SP_724,Aéroport,4
+2296078,11:15:00,11:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296078,11:18:00,11:18:10,stop_point:SP_1921,Dewoitine,2
+2296078,11:20:00,11:20:10,stop_point:SP_297,Daurat,3
+2296078,11:22:00,11:22:10,stop_point:SP_724,Aéroport,4
+2296079,11:25:00,11:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296079,11:28:00,11:28:10,stop_point:SP_1921,Dewoitine,2
+2296079,11:30:00,11:30:10,stop_point:SP_297,Daurat,3
+2296079,11:32:00,11:32:10,stop_point:SP_724,Aéroport,4
+2296080,11:35:00,11:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296080,11:38:00,11:38:10,stop_point:SP_1921,Dewoitine,2
+2296080,11:40:00,11:40:10,stop_point:SP_297,Daurat,3
+2296080,11:42:00,11:42:10,stop_point:SP_724,Aéroport,4
+2296081,11:45:00,11:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296081,11:48:00,11:48:10,stop_point:SP_1921,Dewoitine,2
+2296081,11:50:00,11:50:10,stop_point:SP_297,Daurat,3
+2296081,11:52:00,11:52:10,stop_point:SP_724,Aéroport,4
+2296082,11:55:00,11:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296082,11:58:00,11:58:10,stop_point:SP_1921,Dewoitine,2
+2296082,12:00:00,12:00:10,stop_point:SP_297,Daurat,3
+2296082,12:02:00,12:02:10,stop_point:SP_724,Aéroport,4
+2296083,12:05:00,12:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296083,12:08:00,12:08:10,stop_point:SP_1921,Dewoitine,2
+2296083,12:10:00,12:10:10,stop_point:SP_297,Daurat,3
+2296083,12:12:00,12:12:10,stop_point:SP_724,Aéroport,4
+2296084,12:15:00,12:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296084,12:18:00,12:18:10,stop_point:SP_1921,Dewoitine,2
+2296084,12:20:00,12:20:10,stop_point:SP_297,Daurat,3
+2296084,12:22:00,12:22:10,stop_point:SP_724,Aéroport,4
+2296085,12:25:00,12:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296085,12:28:00,12:28:10,stop_point:SP_1921,Dewoitine,2
+2296085,12:30:00,12:30:10,stop_point:SP_297,Daurat,3
+2296085,12:32:00,12:32:10,stop_point:SP_724,Aéroport,4
+2296086,12:35:00,12:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296086,12:38:00,12:38:10,stop_point:SP_1921,Dewoitine,2
+2296086,12:40:00,12:40:10,stop_point:SP_297,Daurat,3
+2296086,12:42:00,12:42:10,stop_point:SP_724,Aéroport,4
+2296087,12:45:00,12:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296087,12:48:00,12:48:10,stop_point:SP_1921,Dewoitine,2
+2296087,12:50:00,12:50:10,stop_point:SP_297,Daurat,3
+2296087,12:52:00,12:52:10,stop_point:SP_724,Aéroport,4
+2296088,12:55:00,12:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296088,12:58:00,12:58:10,stop_point:SP_1921,Dewoitine,2
+2296088,13:00:00,13:00:10,stop_point:SP_297,Daurat,3
+2296088,13:02:00,13:02:10,stop_point:SP_724,Aéroport,4
+2296089,13:05:00,13:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296089,13:08:00,13:08:10,stop_point:SP_1921,Dewoitine,2
+2296089,13:10:00,13:10:10,stop_point:SP_297,Daurat,3
+2296089,13:12:00,13:12:10,stop_point:SP_724,Aéroport,4
+2296090,13:15:00,13:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296090,13:18:00,13:18:10,stop_point:SP_1921,Dewoitine,2
+2296090,13:20:00,13:20:10,stop_point:SP_297,Daurat,3
+2296090,13:22:00,13:22:10,stop_point:SP_724,Aéroport,4
+2296091,13:25:00,13:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296091,13:28:00,13:28:10,stop_point:SP_1921,Dewoitine,2
+2296091,13:30:00,13:30:10,stop_point:SP_297,Daurat,3
+2296091,13:32:00,13:32:10,stop_point:SP_724,Aéroport,4
+2296092,13:35:00,13:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296092,13:38:00,13:38:10,stop_point:SP_1921,Dewoitine,2
+2296092,13:40:00,13:40:10,stop_point:SP_297,Daurat,3
+2296092,13:42:00,13:42:10,stop_point:SP_724,Aéroport,4
+2296093,13:45:00,13:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296093,13:48:00,13:48:10,stop_point:SP_1921,Dewoitine,2
+2296093,13:50:00,13:50:10,stop_point:SP_297,Daurat,3
+2296093,13:52:00,13:52:10,stop_point:SP_724,Aéroport,4
+2296094,13:55:00,13:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296094,13:58:00,13:58:10,stop_point:SP_1921,Dewoitine,2
+2296094,14:00:00,14:00:10,stop_point:SP_297,Daurat,3
+2296094,14:02:00,14:02:10,stop_point:SP_724,Aéroport,4
+2296095,14:05:00,14:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296095,14:08:00,14:08:10,stop_point:SP_1921,Dewoitine,2
+2296095,14:10:00,14:10:10,stop_point:SP_297,Daurat,3
+2296095,14:12:00,14:12:10,stop_point:SP_724,Aéroport,4
+2296096,14:15:00,14:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296096,14:18:00,14:18:10,stop_point:SP_1921,Dewoitine,2
+2296096,14:20:00,14:20:10,stop_point:SP_297,Daurat,3
+2296096,14:22:00,14:22:10,stop_point:SP_724,Aéroport,4
+2296097,14:25:00,14:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296097,14:28:00,14:28:10,stop_point:SP_1921,Dewoitine,2
+2296097,14:30:00,14:30:10,stop_point:SP_297,Daurat,3
+2296097,14:32:00,14:32:10,stop_point:SP_724,Aéroport,4
+2296098,14:35:00,14:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296098,14:38:00,14:38:10,stop_point:SP_1921,Dewoitine,2
+2296098,14:40:00,14:40:10,stop_point:SP_297,Daurat,3
+2296098,14:42:00,14:42:10,stop_point:SP_724,Aéroport,4
+2296099,14:45:00,14:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296099,14:48:00,14:48:10,stop_point:SP_1921,Dewoitine,2
+2296099,14:50:00,14:50:10,stop_point:SP_297,Daurat,3
+2296099,14:52:00,14:52:10,stop_point:SP_724,Aéroport,4
+2296100,14:55:00,14:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296100,14:58:00,14:58:10,stop_point:SP_1921,Dewoitine,2
+2296100,15:00:00,15:00:10,stop_point:SP_297,Daurat,3
+2296100,15:02:00,15:02:10,stop_point:SP_724,Aéroport,4
+2296101,15:05:00,15:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296101,15:08:00,15:08:10,stop_point:SP_1921,Dewoitine,2
+2296101,15:10:00,15:10:10,stop_point:SP_297,Daurat,3
+2296101,15:12:00,15:12:10,stop_point:SP_724,Aéroport,4
+2296102,15:15:00,15:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2296102,15:18:00,15:18:10,stop_point:SP_1921,Dewoitine,2
+2296102,15:20:00,15:20:10,stop_point:SP_297,Daurat,3
+2296102,15:22:00,15:22:10,stop_point:SP_724,Aéroport,4
+2296103,15:25:00,15:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2296103,15:28:00,15:28:10,stop_point:SP_1921,Dewoitine,2
+2296103,15:30:00,15:30:10,stop_point:SP_297,Daurat,3
+2296103,15:32:00,15:32:10,stop_point:SP_724,Aéroport,4
+2296104,15:35:00,15:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296104,15:38:00,15:38:10,stop_point:SP_1921,Dewoitine,2
+2296104,15:40:00,15:40:10,stop_point:SP_297,Daurat,3
+2296104,15:42:00,15:42:10,stop_point:SP_724,Aéroport,4
+2296105,15:45:00,15:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2296105,15:48:00,15:48:10,stop_point:SP_1921,Dewoitine,2
+2296105,15:50:00,15:50:10,stop_point:SP_297,Daurat,3
+2296105,15:52:00,15:52:10,stop_point:SP_724,Aéroport,4
+2296106,15:55:00,15:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296106,15:58:00,15:58:10,stop_point:SP_1921,Dewoitine,2
+2296106,16:00:00,16:00:10,stop_point:SP_297,Daurat,3
+2296106,16:02:00,16:02:10,stop_point:SP_724,Aéroport,4
+2296107,16:05:00,16:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296107,16:08:00,16:08:10,stop_point:SP_1921,Dewoitine,2
+2296107,16:10:00,16:10:10,stop_point:SP_297,Daurat,3
+2296107,16:12:00,16:12:10,stop_point:SP_724,Aéroport,4
+2296108,16:18:00,16:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2296108,16:21:00,16:21:10,stop_point:SP_1921,Dewoitine,2
+2296108,16:23:00,16:23:10,stop_point:SP_297,Daurat,3
+2296108,16:26:00,16:26:10,stop_point:SP_724,Aéroport,4
+2296109,16:28:00,16:28:10,stop_point:SP_5270,Guyenne-Berry,1
+2296109,16:31:00,16:31:10,stop_point:SP_1921,Dewoitine,2
+2296109,16:33:00,16:33:10,stop_point:SP_297,Daurat,3
+2296109,16:36:00,16:36:10,stop_point:SP_724,Aéroport,4
+2296110,16:38:00,16:38:10,stop_point:SP_5270,Guyenne-Berry,1
+2296110,16:41:00,16:41:10,stop_point:SP_1921,Dewoitine,2
+2296110,16:43:00,16:43:10,stop_point:SP_297,Daurat,3
+2296110,16:46:00,16:46:10,stop_point:SP_724,Aéroport,4
+2296111,16:48:00,16:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2296111,16:51:00,16:51:10,stop_point:SP_1921,Dewoitine,2
+2296111,16:53:00,16:53:10,stop_point:SP_297,Daurat,3
+2296111,16:56:00,16:56:10,stop_point:SP_724,Aéroport,4
+2296112,16:58:00,16:58:10,stop_point:SP_5270,Guyenne-Berry,1
+2296112,17:01:00,17:01:10,stop_point:SP_1921,Dewoitine,2
+2296112,17:03:00,17:03:10,stop_point:SP_297,Daurat,3
+2296112,17:06:00,17:06:10,stop_point:SP_724,Aéroport,4
+2296113,17:06:00,17:06:10,stop_point:SP_5270,Guyenne-Berry,1
+2296113,17:09:00,17:09:10,stop_point:SP_1921,Dewoitine,2
+2296113,17:11:00,17:11:10,stop_point:SP_297,Daurat,3
+2296113,17:14:00,17:14:10,stop_point:SP_724,Aéroport,4
+2296114,17:14:00,17:14:10,stop_point:SP_5270,Guyenne-Berry,1
+2296114,17:17:00,17:17:10,stop_point:SP_1921,Dewoitine,2
+2296114,17:19:00,17:19:10,stop_point:SP_297,Daurat,3
+2296114,17:22:00,17:22:10,stop_point:SP_724,Aéroport,4
+2296115,17:22:00,17:22:10,stop_point:SP_5270,Guyenne-Berry,1
+2296115,17:25:00,17:25:10,stop_point:SP_1921,Dewoitine,2
+2296115,17:27:00,17:27:10,stop_point:SP_297,Daurat,3
+2296115,17:30:00,17:30:10,stop_point:SP_724,Aéroport,4
+2296116,17:30:00,17:30:10,stop_point:SP_5270,Guyenne-Berry,1
+2296116,17:33:00,17:33:10,stop_point:SP_1921,Dewoitine,2
+2296116,17:35:00,17:35:10,stop_point:SP_297,Daurat,3
+2296116,17:38:00,17:38:10,stop_point:SP_724,Aéroport,4
+2296117,17:38:00,17:38:10,stop_point:SP_5270,Guyenne-Berry,1
+2296117,17:41:00,17:41:10,stop_point:SP_1921,Dewoitine,2
+2296117,17:43:00,17:43:10,stop_point:SP_297,Daurat,3
+2296117,17:46:00,17:46:10,stop_point:SP_724,Aéroport,4
+2296118,17:46:00,17:46:10,stop_point:SP_5270,Guyenne-Berry,1
+2296118,17:49:00,17:49:10,stop_point:SP_1921,Dewoitine,2
+2296118,17:51:00,17:51:10,stop_point:SP_297,Daurat,3
+2296118,17:54:00,17:54:10,stop_point:SP_724,Aéroport,4
+2296119,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296119,17:57:00,17:57:10,stop_point:SP_1921,Dewoitine,2
+2296119,17:59:00,17:59:10,stop_point:SP_297,Daurat,3
+2296119,18:02:00,18:02:10,stop_point:SP_724,Aéroport,4
+2296120,18:02:00,18:02:10,stop_point:SP_5270,Guyenne-Berry,1
+2296120,18:05:00,18:05:10,stop_point:SP_1921,Dewoitine,2
+2296120,18:07:00,18:07:10,stop_point:SP_297,Daurat,3
+2296120,18:10:00,18:10:10,stop_point:SP_724,Aéroport,4
+2296121,18:10:00,18:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2296121,18:13:00,18:13:10,stop_point:SP_1921,Dewoitine,2
+2296121,18:15:00,18:15:10,stop_point:SP_297,Daurat,3
+2296121,18:18:00,18:18:10,stop_point:SP_724,Aéroport,4
+2296122,18:18:00,18:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2296122,18:21:00,18:21:10,stop_point:SP_1921,Dewoitine,2
+2296122,18:23:00,18:23:10,stop_point:SP_297,Daurat,3
+2296122,18:26:00,18:26:10,stop_point:SP_724,Aéroport,4
+2296123,18:26:00,18:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2296123,18:29:00,18:29:10,stop_point:SP_1921,Dewoitine,2
+2296123,18:31:00,18:31:10,stop_point:SP_297,Daurat,3
+2296123,18:34:00,18:34:10,stop_point:SP_724,Aéroport,4
+2296124,18:34:00,18:34:10,stop_point:SP_5270,Guyenne-Berry,1
+2296124,18:37:00,18:37:10,stop_point:SP_1921,Dewoitine,2
+2296124,18:39:00,18:39:10,stop_point:SP_297,Daurat,3
+2296124,18:42:00,18:42:10,stop_point:SP_724,Aéroport,4
+2296125,18:42:00,18:42:10,stop_point:SP_5270,Guyenne-Berry,1
+2296125,18:45:00,18:45:10,stop_point:SP_1921,Dewoitine,2
+2296125,18:47:00,18:47:10,stop_point:SP_297,Daurat,3
+2296125,18:50:00,18:50:10,stop_point:SP_724,Aéroport,4
+2296126,18:50:00,18:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296126,18:53:00,18:53:10,stop_point:SP_1921,Dewoitine,2
+2296126,18:55:00,18:55:10,stop_point:SP_297,Daurat,3
+2296126,18:58:00,18:58:10,stop_point:SP_724,Aéroport,4
+2296127,18:58:00,18:58:10,stop_point:SP_5270,Guyenne-Berry,1
+2296127,19:01:00,19:01:10,stop_point:SP_1921,Dewoitine,2
+2296127,19:03:00,19:03:10,stop_point:SP_297,Daurat,3
+2296127,19:06:00,19:06:10,stop_point:SP_724,Aéroport,4
+2296128,19:06:00,19:06:10,stop_point:SP_5270,Guyenne-Berry,1
+2296128,19:09:00,19:09:10,stop_point:SP_1921,Dewoitine,2
+2296128,19:11:00,19:11:10,stop_point:SP_297,Daurat,3
+2296128,19:14:00,19:14:10,stop_point:SP_724,Aéroport,4
+2296129,19:13:00,19:13:10,stop_point:SP_5270,Guyenne-Berry,1
+2296129,19:16:00,19:16:10,stop_point:SP_1921,Dewoitine,2
+2296129,19:18:00,19:18:10,stop_point:SP_297,Daurat,3
+2296129,19:21:00,19:21:10,stop_point:SP_724,Aéroport,4
+2296130,19:20:00,19:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2296130,19:23:00,19:23:10,stop_point:SP_1921,Dewoitine,2
+2296130,19:25:00,19:25:10,stop_point:SP_297,Daurat,3
+2296130,19:28:00,19:28:10,stop_point:SP_724,Aéroport,4
+2296131,19:32:00,19:32:10,stop_point:SP_5270,Guyenne-Berry,1
+2296131,19:35:00,19:35:10,stop_point:SP_1921,Dewoitine,2
+2296131,19:37:00,19:37:10,stop_point:SP_297,Daurat,3
+2296131,19:40:00,19:40:10,stop_point:SP_724,Aéroport,4
+2296132,19:44:00,19:44:10,stop_point:SP_5270,Guyenne-Berry,1
+2296132,19:47:00,19:47:10,stop_point:SP_1921,Dewoitine,2
+2296132,19:49:00,19:49:10,stop_point:SP_297,Daurat,3
+2296132,19:52:00,19:52:10,stop_point:SP_724,Aéroport,4
+2296133,19:56:00,19:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2296133,19:59:00,19:59:10,stop_point:SP_1921,Dewoitine,2
+2296133,20:01:00,20:01:10,stop_point:SP_297,Daurat,3
+2296133,20:04:00,20:04:10,stop_point:SP_724,Aéroport,4
+2296134,20:08:00,20:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2296134,20:11:00,20:11:10,stop_point:SP_1921,Dewoitine,2
+2296134,20:13:00,20:13:10,stop_point:SP_297,Daurat,3
+2296134,20:16:00,20:16:10,stop_point:SP_724,Aéroport,4
+2296135,20:19:00,20:19:10,stop_point:SP_5270,Guyenne-Berry,1
+2296135,20:22:00,20:22:10,stop_point:SP_1921,Dewoitine,2
+2296135,20:24:00,20:24:10,stop_point:SP_297,Daurat,3
+2296135,20:26:00,20:26:10,stop_point:SP_724,Aéroport,4
+2296136,20:31:00,20:31:10,stop_point:SP_5270,Guyenne-Berry,1
+2296136,20:34:00,20:34:10,stop_point:SP_1921,Dewoitine,2
+2296136,20:36:00,20:36:10,stop_point:SP_297,Daurat,3
+2296136,20:38:00,20:38:10,stop_point:SP_724,Aéroport,4
+2296137,20:43:00,20:43:10,stop_point:SP_5270,Guyenne-Berry,1
+2296137,20:46:00,20:46:10,stop_point:SP_1921,Dewoitine,2
+2296137,20:48:00,20:48:10,stop_point:SP_297,Daurat,3
+2296137,20:50:00,20:50:10,stop_point:SP_724,Aéroport,4
+2296138,20:55:00,20:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2296138,20:58:00,20:58:10,stop_point:SP_1921,Dewoitine,2
+2296138,21:00:00,21:00:10,stop_point:SP_297,Daurat,3
+2296138,21:02:00,21:02:10,stop_point:SP_724,Aéroport,4
+2296139,21:07:00,21:07:10,stop_point:SP_5270,Guyenne-Berry,1
+2296139,21:10:00,21:10:10,stop_point:SP_1921,Dewoitine,2
+2296139,21:12:00,21:12:10,stop_point:SP_297,Daurat,3
+2296139,21:14:00,21:14:10,stop_point:SP_724,Aéroport,4
+2296140,21:20:00,21:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2296140,21:23:00,21:23:10,stop_point:SP_1921,Dewoitine,2
+2296140,21:25:00,21:25:10,stop_point:SP_297,Daurat,3
+2296140,21:27:00,21:27:10,stop_point:SP_724,Aéroport,4
+2296141,21:35:00,21:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296141,21:38:00,21:38:10,stop_point:SP_1921,Dewoitine,2
+2296141,21:40:00,21:40:10,stop_point:SP_297,Daurat,3
+2296141,21:42:00,21:42:10,stop_point:SP_724,Aéroport,4
+2296142,21:50:00,21:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296142,21:53:00,21:53:10,stop_point:SP_1921,Dewoitine,2
+2296142,21:55:00,21:55:10,stop_point:SP_297,Daurat,3
+2296142,21:57:00,21:57:10,stop_point:SP_724,Aéroport,4
+2296143,22:05:00,22:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296143,22:08:00,22:08:10,stop_point:SP_1921,Dewoitine,2
+2296143,22:10:00,22:10:10,stop_point:SP_297,Daurat,3
+2296143,22:12:00,22:12:10,stop_point:SP_724,Aéroport,4
+2296144,22:20:00,22:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2296144,22:23:00,22:23:10,stop_point:SP_1921,Dewoitine,2
+2296144,22:25:00,22:25:10,stop_point:SP_297,Daurat,3
+2296144,22:27:00,22:27:10,stop_point:SP_724,Aéroport,4
+2296145,22:35:00,22:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296145,22:38:00,22:38:10,stop_point:SP_1921,Dewoitine,2
+2296145,22:40:00,22:40:10,stop_point:SP_297,Daurat,3
+2296145,22:42:00,22:42:10,stop_point:SP_724,Aéroport,4
+2296146,22:50:00,22:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296146,22:53:00,22:53:10,stop_point:SP_1921,Dewoitine,2
+2296146,22:55:00,22:55:10,stop_point:SP_297,Daurat,3
+2296146,22:57:00,22:57:10,stop_point:SP_724,Aéroport,4
+2296147,23:05:00,23:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2296147,23:08:00,23:08:10,stop_point:SP_1921,Dewoitine,2
+2296147,23:10:00,23:10:10,stop_point:SP_297,Daurat,3
+2296147,23:12:00,23:12:10,stop_point:SP_724,Aéroport,4
+2296148,23:20:00,23:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2296148,23:23:00,23:23:10,stop_point:SP_1921,Dewoitine,2
+2296148,23:25:00,23:25:10,stop_point:SP_297,Daurat,3
+2296148,23:27:00,23:27:10,stop_point:SP_724,Aéroport,4
+2296149,23:35:00,23:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2296149,23:38:00,23:38:10,stop_point:SP_1921,Dewoitine,2
+2296149,23:40:00,23:40:10,stop_point:SP_297,Daurat,3
+2296149,23:42:00,23:42:10,stop_point:SP_724,Aéroport,4
+2296150,23:50:00,23:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2296150,23:53:00,23:53:10,stop_point:SP_1921,Dewoitine,2
+2296150,23:55:00,23:55:10,stop_point:SP_297,Daurat,3
+2296150,23:57:00,23:57:10,stop_point:SP_724,Aéroport,4
+2296151,24:10:00,24:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2296151,24:13:00,24:13:10,stop_point:SP_1921,Dewoitine,2
+2296151,24:15:00,24:15:10,stop_point:SP_297,Daurat,3
+2296151,24:17:00,24:17:10,stop_point:SP_724,Aéroport,4
+2296152,05:30:00,05:30:10,stop_point:SP_724,Aéroport,1
+2296152,05:33:00,05:33:10,stop_point:SP_3199,Daurat,2
+2296152,05:34:00,05:34:10,stop_point:SP_197,Dewoitine,3
+2296152,05:39:00,05:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296152,05:40:00,05:40:10,stop_point:SP_5270,Guyenne-Berry,5
+2296153,05:40:00,05:40:10,stop_point:SP_724,Aéroport,1
+2296153,05:43:00,05:43:10,stop_point:SP_3199,Daurat,2
+2296153,05:44:00,05:44:10,stop_point:SP_197,Dewoitine,3
+2296153,05:49:00,05:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296153,05:50:00,05:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296154,05:50:00,05:50:10,stop_point:SP_724,Aéroport,1
+2296154,05:53:00,05:53:10,stop_point:SP_3199,Daurat,2
+2296154,05:54:00,05:54:10,stop_point:SP_197,Dewoitine,3
+2296154,05:59:00,05:59:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296154,06:00:00,06:00:10,stop_point:SP_5270,Guyenne-Berry,5
+2296155,06:00:00,06:00:10,stop_point:SP_724,Aéroport,1
+2296155,06:03:00,06:03:10,stop_point:SP_3199,Daurat,2
+2296155,06:04:00,06:04:10,stop_point:SP_197,Dewoitine,3
+2296155,06:09:00,06:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296155,06:10:00,06:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2296156,06:10:00,06:10:10,stop_point:SP_724,Aéroport,1
+2296156,06:13:00,06:13:10,stop_point:SP_3199,Daurat,2
+2296156,06:14:00,06:14:10,stop_point:SP_197,Dewoitine,3
+2296156,06:19:00,06:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296156,06:20:00,06:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2296157,06:20:00,06:20:10,stop_point:SP_724,Aéroport,1
+2296157,06:23:00,06:23:10,stop_point:SP_3199,Daurat,2
+2296157,06:24:00,06:24:10,stop_point:SP_197,Dewoitine,3
+2296157,06:29:00,06:29:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296157,06:30:00,06:30:10,stop_point:SP_5270,Guyenne-Berry,5
+2296158,06:30:00,06:30:10,stop_point:SP_724,Aéroport,1
+2296158,06:33:00,06:33:10,stop_point:SP_3199,Daurat,2
+2296158,06:34:00,06:34:10,stop_point:SP_197,Dewoitine,3
+2296158,06:39:00,06:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296158,06:40:00,06:40:10,stop_point:SP_5270,Guyenne-Berry,5
+2296159,06:40:00,06:40:10,stop_point:SP_724,Aéroport,1
+2296159,06:43:00,06:43:10,stop_point:SP_3199,Daurat,2
+2296159,06:44:00,06:44:10,stop_point:SP_197,Dewoitine,3
+2296159,06:49:00,06:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296159,06:50:00,06:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296160,06:50:00,06:50:10,stop_point:SP_724,Aéroport,1
+2296160,06:53:00,06:53:10,stop_point:SP_3199,Daurat,2
+2296160,06:54:00,06:54:10,stop_point:SP_197,Dewoitine,3
+2296160,06:59:00,06:59:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296160,07:00:00,07:00:10,stop_point:SP_5270,Guyenne-Berry,5
+2296161,06:58:00,06:58:10,stop_point:SP_724,Aéroport,1
+2296161,07:01:00,07:01:10,stop_point:SP_3199,Daurat,2
+2296161,07:02:00,07:02:10,stop_point:SP_197,Dewoitine,3
+2296161,07:07:00,07:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296161,07:08:00,07:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2296162,07:05:00,07:05:10,stop_point:SP_724,Aéroport,1
+2296162,07:09:00,07:09:10,stop_point:SP_3199,Daurat,2
+2296162,07:10:00,07:10:10,stop_point:SP_197,Dewoitine,3
+2296162,07:16:00,07:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296162,07:17:00,07:17:10,stop_point:SP_5270,Guyenne-Berry,5
+2296163,07:13:00,07:13:10,stop_point:SP_724,Aéroport,1
+2296163,07:17:00,07:17:10,stop_point:SP_3199,Daurat,2
+2296163,07:19:00,07:19:10,stop_point:SP_197,Dewoitine,3
+2296163,07:24:00,07:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296163,07:26:00,07:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2296164,07:20:00,07:20:10,stop_point:SP_724,Aéroport,1
+2296164,07:24:00,07:24:10,stop_point:SP_3199,Daurat,2
+2296164,07:26:00,07:26:10,stop_point:SP_197,Dewoitine,3
+2296164,07:31:00,07:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296164,07:33:00,07:33:10,stop_point:SP_5270,Guyenne-Berry,5
+2296165,07:28:00,07:28:10,stop_point:SP_724,Aéroport,1
+2296165,07:32:00,07:32:10,stop_point:SP_3199,Daurat,2
+2296165,07:34:00,07:34:10,stop_point:SP_197,Dewoitine,3
+2296165,07:39:00,07:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296165,07:41:00,07:41:10,stop_point:SP_5270,Guyenne-Berry,5
+2296166,07:35:00,07:35:10,stop_point:SP_724,Aéroport,1
+2296166,07:39:00,07:39:10,stop_point:SP_3199,Daurat,2
+2296166,07:41:00,07:41:10,stop_point:SP_197,Dewoitine,3
+2296166,07:46:00,07:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296166,07:48:00,07:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2296167,07:43:00,07:43:10,stop_point:SP_724,Aéroport,1
+2296167,07:47:00,07:47:10,stop_point:SP_3199,Daurat,2
+2296167,07:49:00,07:49:10,stop_point:SP_197,Dewoitine,3
+2296167,07:54:00,07:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296167,07:56:00,07:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2296168,07:50:00,07:50:10,stop_point:SP_724,Aéroport,1
+2296168,07:54:00,07:54:10,stop_point:SP_3199,Daurat,2
+2296168,07:56:00,07:56:10,stop_point:SP_197,Dewoitine,3
+2296168,08:01:00,08:01:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296168,08:03:00,08:03:10,stop_point:SP_5270,Guyenne-Berry,5
+2296169,07:58:00,07:58:10,stop_point:SP_724,Aéroport,1
+2296169,08:02:00,08:02:10,stop_point:SP_3199,Daurat,2
+2296169,08:04:00,08:04:10,stop_point:SP_197,Dewoitine,3
+2296169,08:09:00,08:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296169,08:11:00,08:11:10,stop_point:SP_5270,Guyenne-Berry,5
+2296170,08:05:00,08:05:10,stop_point:SP_724,Aéroport,1
+2296170,08:09:00,08:09:10,stop_point:SP_3199,Daurat,2
+2296170,08:11:00,08:11:10,stop_point:SP_197,Dewoitine,3
+2296170,08:16:00,08:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296170,08:18:00,08:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2296171,08:13:00,08:13:10,stop_point:SP_724,Aéroport,1
+2296171,08:17:00,08:17:10,stop_point:SP_3199,Daurat,2
+2296171,08:19:00,08:19:10,stop_point:SP_197,Dewoitine,3
+2296171,08:24:00,08:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296171,08:26:00,08:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2296172,08:20:00,08:20:10,stop_point:SP_724,Aéroport,1
+2296172,08:24:00,08:24:10,stop_point:SP_3199,Daurat,2
+2296172,08:26:00,08:26:10,stop_point:SP_197,Dewoitine,3
+2296172,08:31:00,08:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296172,08:33:00,08:33:10,stop_point:SP_5270,Guyenne-Berry,5
+2296173,08:28:00,08:28:10,stop_point:SP_724,Aéroport,1
+2296173,08:32:00,08:32:10,stop_point:SP_3199,Daurat,2
+2296173,08:34:00,08:34:10,stop_point:SP_197,Dewoitine,3
+2296173,08:39:00,08:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296173,08:41:00,08:41:10,stop_point:SP_5270,Guyenne-Berry,5
+2296174,08:35:00,08:35:10,stop_point:SP_724,Aéroport,1
+2296174,08:39:00,08:39:10,stop_point:SP_3199,Daurat,2
+2296174,08:41:00,08:41:10,stop_point:SP_197,Dewoitine,3
+2296174,08:46:00,08:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296174,08:48:00,08:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2296175,08:43:00,08:43:10,stop_point:SP_724,Aéroport,1
+2296175,08:47:00,08:47:10,stop_point:SP_3199,Daurat,2
+2296175,08:49:00,08:49:10,stop_point:SP_197,Dewoitine,3
+2296175,08:54:00,08:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296175,08:56:00,08:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2296176,08:50:00,08:50:10,stop_point:SP_724,Aéroport,1
+2296176,08:54:00,08:54:10,stop_point:SP_3199,Daurat,2
+2296176,08:55:00,08:55:10,stop_point:SP_197,Dewoitine,3
+2296176,09:01:00,09:01:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296176,09:02:00,09:02:10,stop_point:SP_5270,Guyenne-Berry,5
+2296177,08:58:00,08:58:10,stop_point:SP_724,Aéroport,1
+2296177,09:01:00,09:01:10,stop_point:SP_3199,Daurat,2
+2296177,09:02:00,09:02:10,stop_point:SP_197,Dewoitine,3
+2296177,09:07:00,09:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296177,09:08:00,09:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2296178,09:05:00,09:05:10,stop_point:SP_724,Aéroport,1
+2296178,09:08:00,09:08:10,stop_point:SP_3199,Daurat,2
+2296178,09:09:00,09:09:10,stop_point:SP_197,Dewoitine,3
+2296178,09:14:00,09:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296178,09:15:00,09:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296179,09:15:00,09:15:10,stop_point:SP_724,Aéroport,1
+2296179,09:18:00,09:18:10,stop_point:SP_3199,Daurat,2
+2296179,09:19:00,09:19:10,stop_point:SP_197,Dewoitine,3
+2296179,09:24:00,09:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296179,09:25:00,09:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296180,09:25:00,09:25:10,stop_point:SP_724,Aéroport,1
+2296180,09:28:00,09:28:10,stop_point:SP_3199,Daurat,2
+2296180,09:29:00,09:29:10,stop_point:SP_197,Dewoitine,3
+2296180,09:34:00,09:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296180,09:35:00,09:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296181,09:35:00,09:35:10,stop_point:SP_724,Aéroport,1
+2296181,09:38:00,09:38:10,stop_point:SP_3199,Daurat,2
+2296181,09:39:00,09:39:10,stop_point:SP_197,Dewoitine,3
+2296181,09:44:00,09:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296181,09:45:00,09:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296182,09:45:00,09:45:10,stop_point:SP_724,Aéroport,1
+2296182,09:48:00,09:48:10,stop_point:SP_3199,Daurat,2
+2296182,09:49:00,09:49:10,stop_point:SP_197,Dewoitine,3
+2296182,09:54:00,09:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296182,09:55:00,09:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296183,09:55:00,09:55:10,stop_point:SP_724,Aéroport,1
+2296183,09:58:00,09:58:10,stop_point:SP_3199,Daurat,2
+2296183,09:59:00,09:59:10,stop_point:SP_197,Dewoitine,3
+2296183,10:04:00,10:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296183,10:05:00,10:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296184,10:05:00,10:05:10,stop_point:SP_724,Aéroport,1
+2296184,10:08:00,10:08:10,stop_point:SP_3199,Daurat,2
+2296184,10:09:00,10:09:10,stop_point:SP_197,Dewoitine,3
+2296184,10:14:00,10:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296184,10:15:00,10:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296185,10:15:00,10:15:10,stop_point:SP_724,Aéroport,1
+2296185,10:18:00,10:18:10,stop_point:SP_3199,Daurat,2
+2296185,10:19:00,10:19:10,stop_point:SP_197,Dewoitine,3
+2296185,10:24:00,10:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296185,10:25:00,10:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296186,10:25:00,10:25:10,stop_point:SP_724,Aéroport,1
+2296186,10:28:00,10:28:10,stop_point:SP_3199,Daurat,2
+2296186,10:29:00,10:29:10,stop_point:SP_197,Dewoitine,3
+2296186,10:34:00,10:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296186,10:35:00,10:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296187,10:35:00,10:35:10,stop_point:SP_724,Aéroport,1
+2296187,10:38:00,10:38:10,stop_point:SP_3199,Daurat,2
+2296187,10:39:00,10:39:10,stop_point:SP_197,Dewoitine,3
+2296187,10:44:00,10:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296187,10:45:00,10:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296188,10:45:00,10:45:10,stop_point:SP_724,Aéroport,1
+2296188,10:48:00,10:48:10,stop_point:SP_3199,Daurat,2
+2296188,10:49:00,10:49:10,stop_point:SP_197,Dewoitine,3
+2296188,10:54:00,10:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296188,10:55:00,10:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296189,10:55:00,10:55:10,stop_point:SP_724,Aéroport,1
+2296189,10:58:00,10:58:10,stop_point:SP_3199,Daurat,2
+2296189,10:59:00,10:59:10,stop_point:SP_197,Dewoitine,3
+2296189,11:04:00,11:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296189,11:05:00,11:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296190,11:05:00,11:05:10,stop_point:SP_724,Aéroport,1
+2296190,11:08:00,11:08:10,stop_point:SP_3199,Daurat,2
+2296190,11:09:00,11:09:10,stop_point:SP_197,Dewoitine,3
+2296190,11:14:00,11:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296190,11:15:00,11:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296191,11:15:00,11:15:10,stop_point:SP_724,Aéroport,1
+2296191,11:18:00,11:18:10,stop_point:SP_3199,Daurat,2
+2296191,11:19:00,11:19:10,stop_point:SP_197,Dewoitine,3
+2296191,11:24:00,11:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296191,11:25:00,11:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296192,11:25:00,11:25:10,stop_point:SP_724,Aéroport,1
+2296192,11:28:00,11:28:10,stop_point:SP_3199,Daurat,2
+2296192,11:29:00,11:29:10,stop_point:SP_197,Dewoitine,3
+2296192,11:34:00,11:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296192,11:35:00,11:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296193,11:35:00,11:35:10,stop_point:SP_724,Aéroport,1
+2296193,11:38:00,11:38:10,stop_point:SP_3199,Daurat,2
+2296193,11:39:00,11:39:10,stop_point:SP_197,Dewoitine,3
+2296193,11:44:00,11:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296193,11:45:00,11:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296194,11:45:00,11:45:10,stop_point:SP_724,Aéroport,1
+2296194,11:48:00,11:48:10,stop_point:SP_3199,Daurat,2
+2296194,11:49:00,11:49:10,stop_point:SP_197,Dewoitine,3
+2296194,11:54:00,11:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296194,11:55:00,11:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296195,11:55:00,11:55:10,stop_point:SP_724,Aéroport,1
+2296195,11:58:00,11:58:10,stop_point:SP_3199,Daurat,2
+2296195,11:59:00,11:59:10,stop_point:SP_197,Dewoitine,3
+2296195,12:04:00,12:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296195,12:05:00,12:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296196,12:05:00,12:05:10,stop_point:SP_724,Aéroport,1
+2296196,12:08:00,12:08:10,stop_point:SP_3199,Daurat,2
+2296196,12:09:00,12:09:10,stop_point:SP_197,Dewoitine,3
+2296196,12:14:00,12:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296196,12:15:00,12:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296197,12:15:00,12:15:10,stop_point:SP_724,Aéroport,1
+2296197,12:18:00,12:18:10,stop_point:SP_3199,Daurat,2
+2296197,12:19:00,12:19:10,stop_point:SP_197,Dewoitine,3
+2296197,12:24:00,12:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296197,12:25:00,12:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296198,12:25:00,12:25:10,stop_point:SP_724,Aéroport,1
+2296198,12:28:00,12:28:10,stop_point:SP_3199,Daurat,2
+2296198,12:29:00,12:29:10,stop_point:SP_197,Dewoitine,3
+2296198,12:34:00,12:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296198,12:35:00,12:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296199,12:35:00,12:35:10,stop_point:SP_724,Aéroport,1
+2296199,12:38:00,12:38:10,stop_point:SP_3199,Daurat,2
+2296199,12:39:00,12:39:10,stop_point:SP_197,Dewoitine,3
+2296199,12:44:00,12:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296199,12:45:00,12:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296200,12:45:00,12:45:10,stop_point:SP_724,Aéroport,1
+2296200,12:48:00,12:48:10,stop_point:SP_3199,Daurat,2
+2296200,12:49:00,12:49:10,stop_point:SP_197,Dewoitine,3
+2296200,12:54:00,12:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296200,12:55:00,12:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296201,12:55:00,12:55:10,stop_point:SP_724,Aéroport,1
+2296201,12:58:00,12:58:10,stop_point:SP_3199,Daurat,2
+2296201,12:59:00,12:59:10,stop_point:SP_197,Dewoitine,3
+2296201,13:04:00,13:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296201,13:05:00,13:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296202,13:05:00,13:05:10,stop_point:SP_724,Aéroport,1
+2296202,13:08:00,13:08:10,stop_point:SP_3199,Daurat,2
+2296202,13:09:00,13:09:10,stop_point:SP_197,Dewoitine,3
+2296202,13:14:00,13:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296202,13:15:00,13:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296203,13:15:00,13:15:10,stop_point:SP_724,Aéroport,1
+2296203,13:18:00,13:18:10,stop_point:SP_3199,Daurat,2
+2296203,13:19:00,13:19:10,stop_point:SP_197,Dewoitine,3
+2296203,13:24:00,13:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296203,13:25:00,13:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296204,13:25:00,13:25:10,stop_point:SP_724,Aéroport,1
+2296204,13:28:00,13:28:10,stop_point:SP_3199,Daurat,2
+2296204,13:29:00,13:29:10,stop_point:SP_197,Dewoitine,3
+2296204,13:34:00,13:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296204,13:35:00,13:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296205,13:35:00,13:35:10,stop_point:SP_724,Aéroport,1
+2296205,13:38:00,13:38:10,stop_point:SP_3199,Daurat,2
+2296205,13:39:00,13:39:10,stop_point:SP_197,Dewoitine,3
+2296205,13:44:00,13:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296205,13:45:00,13:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296206,13:45:00,13:45:10,stop_point:SP_724,Aéroport,1
+2296206,13:48:00,13:48:10,stop_point:SP_3199,Daurat,2
+2296206,13:49:00,13:49:10,stop_point:SP_197,Dewoitine,3
+2296206,13:54:00,13:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296206,13:55:00,13:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296207,13:55:00,13:55:10,stop_point:SP_724,Aéroport,1
+2296207,13:58:00,13:58:10,stop_point:SP_3199,Daurat,2
+2296207,13:59:00,13:59:10,stop_point:SP_197,Dewoitine,3
+2296207,14:04:00,14:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296207,14:05:00,14:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296208,14:05:00,14:05:10,stop_point:SP_724,Aéroport,1
+2296208,14:08:00,14:08:10,stop_point:SP_3199,Daurat,2
+2296208,14:09:00,14:09:10,stop_point:SP_197,Dewoitine,3
+2296208,14:14:00,14:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296208,14:15:00,14:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296209,14:15:00,14:15:10,stop_point:SP_724,Aéroport,1
+2296209,14:18:00,14:18:10,stop_point:SP_3199,Daurat,2
+2296209,14:19:00,14:19:10,stop_point:SP_197,Dewoitine,3
+2296209,14:24:00,14:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296209,14:25:00,14:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296210,14:25:00,14:25:10,stop_point:SP_724,Aéroport,1
+2296210,14:28:00,14:28:10,stop_point:SP_3199,Daurat,2
+2296210,14:29:00,14:29:10,stop_point:SP_197,Dewoitine,3
+2296210,14:34:00,14:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296210,14:35:00,14:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296211,14:35:00,14:35:10,stop_point:SP_724,Aéroport,1
+2296211,14:38:00,14:38:10,stop_point:SP_3199,Daurat,2
+2296211,14:39:00,14:39:10,stop_point:SP_197,Dewoitine,3
+2296211,14:44:00,14:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296211,14:45:00,14:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296212,14:45:00,14:45:10,stop_point:SP_724,Aéroport,1
+2296212,14:48:00,14:48:10,stop_point:SP_3199,Daurat,2
+2296212,14:49:00,14:49:10,stop_point:SP_197,Dewoitine,3
+2296212,14:54:00,14:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296212,14:55:00,14:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296213,14:55:00,14:55:10,stop_point:SP_724,Aéroport,1
+2296213,14:58:00,14:58:10,stop_point:SP_3199,Daurat,2
+2296213,14:59:00,14:59:10,stop_point:SP_197,Dewoitine,3
+2296213,15:04:00,15:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296213,15:05:00,15:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296214,15:05:00,15:05:10,stop_point:SP_724,Aéroport,1
+2296214,15:08:00,15:08:10,stop_point:SP_3199,Daurat,2
+2296214,15:09:00,15:09:10,stop_point:SP_197,Dewoitine,3
+2296214,15:14:00,15:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296214,15:15:00,15:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2296215,15:15:00,15:15:10,stop_point:SP_724,Aéroport,1
+2296215,15:18:00,15:18:10,stop_point:SP_3199,Daurat,2
+2296215,15:19:00,15:19:10,stop_point:SP_197,Dewoitine,3
+2296215,15:24:00,15:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296215,15:25:00,15:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2296216,15:25:00,15:25:10,stop_point:SP_724,Aéroport,1
+2296216,15:28:00,15:28:10,stop_point:SP_3199,Daurat,2
+2296216,15:29:00,15:29:10,stop_point:SP_197,Dewoitine,3
+2296216,15:34:00,15:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296216,15:35:00,15:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296217,15:35:00,15:35:10,stop_point:SP_724,Aéroport,1
+2296217,15:38:00,15:38:10,stop_point:SP_3199,Daurat,2
+2296217,15:39:00,15:39:10,stop_point:SP_197,Dewoitine,3
+2296217,15:44:00,15:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296217,15:45:00,15:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2296218,15:45:00,15:45:10,stop_point:SP_724,Aéroport,1
+2296218,15:48:00,15:48:10,stop_point:SP_3199,Daurat,2
+2296218,15:49:00,15:49:10,stop_point:SP_197,Dewoitine,3
+2296218,15:54:00,15:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296218,15:55:00,15:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296219,15:55:00,15:55:10,stop_point:SP_724,Aéroport,1
+2296219,15:58:00,15:58:10,stop_point:SP_3199,Daurat,2
+2296219,15:59:00,15:59:10,stop_point:SP_197,Dewoitine,3
+2296219,16:04:00,16:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296219,16:05:00,16:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296220,16:05:00,16:05:10,stop_point:SP_724,Aéroport,1
+2296220,16:09:00,16:09:10,stop_point:SP_3199,Daurat,2
+2296220,16:11:00,16:11:10,stop_point:SP_197,Dewoitine,3
+2296220,16:16:00,16:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296220,16:18:00,16:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2296221,16:15:00,16:15:10,stop_point:SP_724,Aéroport,1
+2296221,16:19:00,16:19:10,stop_point:SP_3199,Daurat,2
+2296221,16:21:00,16:21:10,stop_point:SP_197,Dewoitine,3
+2296221,16:26:00,16:26:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296221,16:28:00,16:28:10,stop_point:SP_5270,Guyenne-Berry,5
+2296222,16:25:00,16:25:10,stop_point:SP_724,Aéroport,1
+2296222,16:29:00,16:29:10,stop_point:SP_3199,Daurat,2
+2296222,16:31:00,16:31:10,stop_point:SP_197,Dewoitine,3
+2296222,16:36:00,16:36:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296222,16:38:00,16:38:10,stop_point:SP_5270,Guyenne-Berry,5
+2296223,16:35:00,16:35:10,stop_point:SP_724,Aéroport,1
+2296223,16:39:00,16:39:10,stop_point:SP_3199,Daurat,2
+2296223,16:41:00,16:41:10,stop_point:SP_197,Dewoitine,3
+2296223,16:46:00,16:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296223,16:48:00,16:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2296224,16:45:00,16:45:10,stop_point:SP_724,Aéroport,1
+2296224,16:49:00,16:49:10,stop_point:SP_3199,Daurat,2
+2296224,16:51:00,16:51:10,stop_point:SP_197,Dewoitine,3
+2296224,16:56:00,16:56:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296224,16:58:00,16:58:10,stop_point:SP_5270,Guyenne-Berry,5
+2296225,16:53:00,16:53:10,stop_point:SP_724,Aéroport,1
+2296225,16:57:00,16:57:10,stop_point:SP_3199,Daurat,2
+2296225,16:59:00,16:59:10,stop_point:SP_197,Dewoitine,3
+2296225,17:04:00,17:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296225,17:06:00,17:06:10,stop_point:SP_5270,Guyenne-Berry,5
+2296226,17:01:00,17:01:10,stop_point:SP_724,Aéroport,1
+2296226,17:05:00,17:05:10,stop_point:SP_3199,Daurat,2
+2296226,17:07:00,17:07:10,stop_point:SP_197,Dewoitine,3
+2296226,17:12:00,17:12:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296226,17:14:00,17:14:10,stop_point:SP_5270,Guyenne-Berry,5
+2296227,17:09:00,17:09:10,stop_point:SP_724,Aéroport,1
+2296227,17:13:00,17:13:10,stop_point:SP_3199,Daurat,2
+2296227,17:15:00,17:15:10,stop_point:SP_197,Dewoitine,3
+2296227,17:20:00,17:20:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296227,17:22:00,17:22:10,stop_point:SP_5270,Guyenne-Berry,5
+2296228,17:17:00,17:17:10,stop_point:SP_724,Aéroport,1
+2296228,17:21:00,17:21:10,stop_point:SP_3199,Daurat,2
+2296228,17:23:00,17:23:10,stop_point:SP_197,Dewoitine,3
+2296228,17:28:00,17:28:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296228,17:30:00,17:30:10,stop_point:SP_5270,Guyenne-Berry,5
+2296229,17:25:00,17:25:10,stop_point:SP_724,Aéroport,1
+2296229,17:29:00,17:29:10,stop_point:SP_3199,Daurat,2
+2296229,17:31:00,17:31:10,stop_point:SP_197,Dewoitine,3
+2296229,17:36:00,17:36:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296229,17:38:00,17:38:10,stop_point:SP_5270,Guyenne-Berry,5
+2296230,17:33:00,17:33:10,stop_point:SP_724,Aéroport,1
+2296230,17:37:00,17:37:10,stop_point:SP_3199,Daurat,2
+2296230,17:39:00,17:39:10,stop_point:SP_197,Dewoitine,3
+2296230,17:44:00,17:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296230,17:46:00,17:46:10,stop_point:SP_5270,Guyenne-Berry,5
+2296231,17:41:00,17:41:10,stop_point:SP_724,Aéroport,1
+2296231,17:45:00,17:45:10,stop_point:SP_3199,Daurat,2
+2296231,17:47:00,17:47:10,stop_point:SP_197,Dewoitine,3
+2296231,17:52:00,17:52:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296231,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296232,17:49:00,17:49:10,stop_point:SP_724,Aéroport,1
+2296232,17:53:00,17:53:10,stop_point:SP_3199,Daurat,2
+2296232,17:55:00,17:55:10,stop_point:SP_197,Dewoitine,3
+2296232,18:00:00,18:00:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296232,18:02:00,18:02:10,stop_point:SP_5270,Guyenne-Berry,5
+2296233,17:57:00,17:57:10,stop_point:SP_724,Aéroport,1
+2296233,18:01:00,18:01:10,stop_point:SP_3199,Daurat,2
+2296233,18:03:00,18:03:10,stop_point:SP_197,Dewoitine,3
+2296233,18:08:00,18:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296233,18:10:00,18:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2296234,18:05:00,18:05:10,stop_point:SP_724,Aéroport,1
+2296234,18:09:00,18:09:10,stop_point:SP_3199,Daurat,2
+2296234,18:11:00,18:11:10,stop_point:SP_197,Dewoitine,3
+2296234,18:16:00,18:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296234,18:18:00,18:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2296235,18:13:00,18:13:10,stop_point:SP_724,Aéroport,1
+2296235,18:17:00,18:17:10,stop_point:SP_3199,Daurat,2
+2296235,18:19:00,18:19:10,stop_point:SP_197,Dewoitine,3
+2296235,18:24:00,18:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296235,18:26:00,18:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2296236,18:21:00,18:21:10,stop_point:SP_724,Aéroport,1
+2296236,18:25:00,18:25:10,stop_point:SP_3199,Daurat,2
+2296236,18:27:00,18:27:10,stop_point:SP_197,Dewoitine,3
+2296236,18:32:00,18:32:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296236,18:34:00,18:34:10,stop_point:SP_5270,Guyenne-Berry,5
+2296237,18:29:00,18:29:10,stop_point:SP_724,Aéroport,1
+2296237,18:33:00,18:33:10,stop_point:SP_3199,Daurat,2
+2296237,18:35:00,18:35:10,stop_point:SP_197,Dewoitine,3
+2296237,18:40:00,18:40:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296237,18:42:00,18:42:10,stop_point:SP_5270,Guyenne-Berry,5
+2296238,18:37:00,18:37:10,stop_point:SP_724,Aéroport,1
+2296238,18:41:00,18:41:10,stop_point:SP_3199,Daurat,2
+2296238,18:43:00,18:43:10,stop_point:SP_197,Dewoitine,3
+2296238,18:48:00,18:48:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296238,18:50:00,18:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296239,18:45:00,18:45:10,stop_point:SP_724,Aéroport,1
+2296239,18:49:00,18:49:10,stop_point:SP_3199,Daurat,2
+2296239,18:51:00,18:51:10,stop_point:SP_197,Dewoitine,3
+2296239,18:56:00,18:56:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296239,18:58:00,18:58:10,stop_point:SP_5270,Guyenne-Berry,5
+2296240,18:53:00,18:53:10,stop_point:SP_724,Aéroport,1
+2296240,18:57:00,18:57:10,stop_point:SP_3199,Daurat,2
+2296240,18:59:00,18:59:10,stop_point:SP_197,Dewoitine,3
+2296240,19:04:00,19:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296240,19:06:00,19:06:10,stop_point:SP_5270,Guyenne-Berry,5
+2296241,19:01:00,19:01:10,stop_point:SP_724,Aéroport,1
+2296241,19:05:00,19:05:10,stop_point:SP_3199,Daurat,2
+2296241,19:06:00,19:06:10,stop_point:SP_197,Dewoitine,3
+2296241,19:12:00,19:12:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296241,19:13:00,19:13:10,stop_point:SP_5270,Guyenne-Berry,5
+2296242,19:09:00,19:09:10,stop_point:SP_724,Aéroport,1
+2296242,19:12:00,19:12:10,stop_point:SP_3199,Daurat,2
+2296242,19:14:00,19:14:10,stop_point:SP_197,Dewoitine,3
+2296242,19:19:00,19:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296242,19:20:00,19:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2296243,19:21:00,19:21:10,stop_point:SP_724,Aéroport,1
+2296243,19:24:00,19:24:10,stop_point:SP_3199,Daurat,2
+2296243,19:26:00,19:26:10,stop_point:SP_197,Dewoitine,3
+2296243,19:31:00,19:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296243,19:32:00,19:32:10,stop_point:SP_5270,Guyenne-Berry,5
+2296244,19:33:00,19:33:10,stop_point:SP_724,Aéroport,1
+2296244,19:36:00,19:36:10,stop_point:SP_3199,Daurat,2
+2296244,19:38:00,19:38:10,stop_point:SP_197,Dewoitine,3
+2296244,19:43:00,19:43:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296244,19:44:00,19:44:10,stop_point:SP_5270,Guyenne-Berry,5
+2296245,19:45:00,19:45:10,stop_point:SP_724,Aéroport,1
+2296245,19:48:00,19:48:10,stop_point:SP_3199,Daurat,2
+2296245,19:50:00,19:50:10,stop_point:SP_197,Dewoitine,3
+2296245,19:55:00,19:55:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296245,19:56:00,19:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2296246,19:57:00,19:57:10,stop_point:SP_724,Aéroport,1
+2296246,20:00:00,20:00:10,stop_point:SP_3199,Daurat,2
+2296246,20:02:00,20:02:10,stop_point:SP_197,Dewoitine,3
+2296246,20:07:00,20:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296246,20:08:00,20:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2296247,20:09:00,20:09:10,stop_point:SP_724,Aéroport,1
+2296247,20:12:00,20:12:10,stop_point:SP_3199,Daurat,2
+2296247,20:13:00,20:13:10,stop_point:SP_197,Dewoitine,3
+2296247,20:18:00,20:18:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296247,20:19:00,20:19:10,stop_point:SP_5270,Guyenne-Berry,5
+2296248,20:21:00,20:21:10,stop_point:SP_724,Aéroport,1
+2296248,20:24:00,20:24:10,stop_point:SP_3199,Daurat,2
+2296248,20:25:00,20:25:10,stop_point:SP_197,Dewoitine,3
+2296248,20:30:00,20:30:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296248,20:31:00,20:31:10,stop_point:SP_5270,Guyenne-Berry,5
+2296249,20:33:00,20:33:10,stop_point:SP_724,Aéroport,1
+2296249,20:36:00,20:36:10,stop_point:SP_3199,Daurat,2
+2296249,20:37:00,20:37:10,stop_point:SP_197,Dewoitine,3
+2296249,20:42:00,20:42:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296249,20:43:00,20:43:10,stop_point:SP_5270,Guyenne-Berry,5
+2296250,20:45:00,20:45:10,stop_point:SP_724,Aéroport,1
+2296250,20:48:00,20:48:10,stop_point:SP_3199,Daurat,2
+2296250,20:49:00,20:49:10,stop_point:SP_197,Dewoitine,3
+2296250,20:54:00,20:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296250,20:55:00,20:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2296251,20:57:00,20:57:10,stop_point:SP_724,Aéroport,1
+2296251,21:00:00,21:00:10,stop_point:SP_3199,Daurat,2
+2296251,21:01:00,21:01:10,stop_point:SP_197,Dewoitine,3
+2296251,21:06:00,21:06:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296251,21:07:00,21:07:10,stop_point:SP_5270,Guyenne-Berry,5
+2296252,21:10:00,21:10:10,stop_point:SP_724,Aéroport,1
+2296252,21:13:00,21:13:10,stop_point:SP_3199,Daurat,2
+2296252,21:14:00,21:14:10,stop_point:SP_197,Dewoitine,3
+2296252,21:19:00,21:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296252,21:20:00,21:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2296253,21:25:00,21:25:10,stop_point:SP_724,Aéroport,1
+2296253,21:28:00,21:28:10,stop_point:SP_3199,Daurat,2
+2296253,21:29:00,21:29:10,stop_point:SP_197,Dewoitine,3
+2296253,21:34:00,21:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296253,21:35:00,21:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296254,21:40:00,21:40:10,stop_point:SP_724,Aéroport,1
+2296254,21:43:00,21:43:10,stop_point:SP_3199,Daurat,2
+2296254,21:44:00,21:44:10,stop_point:SP_197,Dewoitine,3
+2296254,21:49:00,21:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296254,21:50:00,21:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296255,21:55:00,21:55:10,stop_point:SP_724,Aéroport,1
+2296255,21:58:00,21:58:10,stop_point:SP_3199,Daurat,2
+2296255,21:59:00,21:59:10,stop_point:SP_197,Dewoitine,3
+2296255,22:04:00,22:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296255,22:05:00,22:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296256,22:10:00,22:10:10,stop_point:SP_724,Aéroport,1
+2296256,22:13:00,22:13:10,stop_point:SP_3199,Daurat,2
+2296256,22:14:00,22:14:10,stop_point:SP_197,Dewoitine,3
+2296256,22:19:00,22:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296256,22:20:00,22:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2296257,22:25:00,22:25:10,stop_point:SP_724,Aéroport,1
+2296257,22:28:00,22:28:10,stop_point:SP_3199,Daurat,2
+2296257,22:29:00,22:29:10,stop_point:SP_197,Dewoitine,3
+2296257,22:34:00,22:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296257,22:35:00,22:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296258,22:40:00,22:40:10,stop_point:SP_724,Aéroport,1
+2296258,22:43:00,22:43:10,stop_point:SP_3199,Daurat,2
+2296258,22:44:00,22:44:10,stop_point:SP_197,Dewoitine,3
+2296258,22:49:00,22:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296258,22:50:00,22:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296259,22:55:00,22:55:10,stop_point:SP_724,Aéroport,1
+2296259,22:58:00,22:58:10,stop_point:SP_3199,Daurat,2
+2296259,22:59:00,22:59:10,stop_point:SP_197,Dewoitine,3
+2296259,23:04:00,23:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296259,23:05:00,23:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2296260,23:10:00,23:10:10,stop_point:SP_724,Aéroport,1
+2296260,23:13:00,23:13:10,stop_point:SP_3199,Daurat,2
+2296260,23:14:00,23:14:10,stop_point:SP_197,Dewoitine,3
+2296260,23:19:00,23:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296260,23:20:00,23:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2296261,23:25:00,23:25:10,stop_point:SP_724,Aéroport,1
+2296261,23:28:00,23:28:10,stop_point:SP_3199,Daurat,2
+2296261,23:29:00,23:29:10,stop_point:SP_197,Dewoitine,3
+2296261,23:34:00,23:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296261,23:35:00,23:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2296262,23:40:00,23:40:10,stop_point:SP_724,Aéroport,1
+2296262,23:43:00,23:43:10,stop_point:SP_3199,Daurat,2
+2296262,23:44:00,23:44:10,stop_point:SP_197,Dewoitine,3
+2296262,23:49:00,23:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296262,23:50:00,23:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2296263,24:00:00,24:00:10,stop_point:SP_724,Aéroport,1
+2296263,24:03:00,24:03:10,stop_point:SP_3199,Daurat,2
+2296263,24:04:00,24:04:10,stop_point:SP_197,Dewoitine,3
+2296263,24:09:00,24:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296263,24:10:00,24:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2296264,05:40:00,05:40:10,stop_point:SP_5270,Guyenne-Berry,1
+2296264,05:42:00,05:42:10,stop_point:SP_1921,Dewoitine,2
+2296264,05:44:00,05:44:10,stop_point:SP_297,Daurat,3
+2296264,05:46:00,05:46:10,stop_point:SP_724,Aéroport,4
+2296265,05:54:00,05:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296265,05:56:00,05:56:10,stop_point:SP_1921,Dewoitine,2
+2296265,05:58:00,05:58:10,stop_point:SP_297,Daurat,3
+2296265,06:00:00,06:00:10,stop_point:SP_724,Aéroport,4
+2296266,06:09:00,06:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296266,06:11:00,06:11:10,stop_point:SP_1921,Dewoitine,2
+2296266,06:13:00,06:13:10,stop_point:SP_297,Daurat,3
+2296266,06:15:00,06:15:10,stop_point:SP_724,Aéroport,4
+2296267,06:24:00,06:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296267,06:26:00,06:26:10,stop_point:SP_1921,Dewoitine,2
+2296267,06:28:00,06:28:10,stop_point:SP_297,Daurat,3
+2296267,06:30:00,06:30:10,stop_point:SP_724,Aéroport,4
+2296268,06:39:00,06:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296268,06:41:00,06:41:10,stop_point:SP_1921,Dewoitine,2
+2296268,06:43:00,06:43:10,stop_point:SP_297,Daurat,3
+2296268,06:45:00,06:45:10,stop_point:SP_724,Aéroport,4
+2296269,06:54:00,06:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296269,06:56:00,06:56:10,stop_point:SP_1921,Dewoitine,2
+2296269,06:58:00,06:58:10,stop_point:SP_297,Daurat,3
+2296269,07:00:00,07:00:10,stop_point:SP_724,Aéroport,4
+2296270,07:09:00,07:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296270,07:11:00,07:11:10,stop_point:SP_1921,Dewoitine,2
+2296270,07:13:00,07:13:10,stop_point:SP_297,Daurat,3
+2296270,07:15:00,07:15:10,stop_point:SP_724,Aéroport,4
+2296271,07:24:00,07:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296271,07:26:00,07:26:10,stop_point:SP_1921,Dewoitine,2
+2296271,07:28:00,07:28:10,stop_point:SP_297,Daurat,3
+2296271,07:30:00,07:30:10,stop_point:SP_724,Aéroport,4
+2296272,07:39:00,07:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296272,07:41:00,07:41:10,stop_point:SP_1921,Dewoitine,2
+2296272,07:43:00,07:43:10,stop_point:SP_297,Daurat,3
+2296272,07:45:00,07:45:10,stop_point:SP_724,Aéroport,4
+2296273,07:54:00,07:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296273,07:56:00,07:56:10,stop_point:SP_1921,Dewoitine,2
+2296273,07:58:00,07:58:10,stop_point:SP_297,Daurat,3
+2296273,08:00:00,08:00:10,stop_point:SP_724,Aéroport,4
+2296274,08:09:00,08:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296274,08:11:00,08:11:10,stop_point:SP_1921,Dewoitine,2
+2296274,08:13:00,08:13:10,stop_point:SP_297,Daurat,3
+2296274,08:15:00,08:15:10,stop_point:SP_724,Aéroport,4
+2296275,08:24:00,08:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296275,08:26:00,08:26:10,stop_point:SP_1921,Dewoitine,2
+2296275,08:28:00,08:28:10,stop_point:SP_297,Daurat,3
+2296275,08:30:00,08:30:10,stop_point:SP_724,Aéroport,4
+2296276,08:39:00,08:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296276,08:41:00,08:41:10,stop_point:SP_1921,Dewoitine,2
+2296276,08:43:00,08:43:10,stop_point:SP_297,Daurat,3
+2296276,08:45:00,08:45:10,stop_point:SP_724,Aéroport,4
+2296277,08:54:00,08:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296277,08:56:00,08:56:10,stop_point:SP_1921,Dewoitine,2
+2296277,08:58:00,08:58:10,stop_point:SP_297,Daurat,3
+2296277,09:00:00,09:00:10,stop_point:SP_724,Aéroport,4
+2296278,09:09:00,09:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296278,09:11:00,09:11:10,stop_point:SP_1921,Dewoitine,2
+2296278,09:13:00,09:13:10,stop_point:SP_297,Daurat,3
+2296278,09:15:00,09:15:10,stop_point:SP_724,Aéroport,4
+2296279,09:24:00,09:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296279,09:26:00,09:26:10,stop_point:SP_1921,Dewoitine,2
+2296279,09:28:00,09:28:10,stop_point:SP_297,Daurat,3
+2296279,09:30:00,09:30:10,stop_point:SP_724,Aéroport,4
+2296280,09:39:00,09:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296280,09:41:00,09:41:10,stop_point:SP_1921,Dewoitine,2
+2296280,09:43:00,09:43:10,stop_point:SP_297,Daurat,3
+2296280,09:45:00,09:45:10,stop_point:SP_724,Aéroport,4
+2296281,09:54:00,09:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296281,09:56:00,09:56:10,stop_point:SP_1921,Dewoitine,2
+2296281,09:58:00,09:58:10,stop_point:SP_297,Daurat,3
+2296281,10:00:00,10:00:10,stop_point:SP_724,Aéroport,4
+2296282,10:09:00,10:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296282,10:11:00,10:11:10,stop_point:SP_1921,Dewoitine,2
+2296282,10:13:00,10:13:10,stop_point:SP_297,Daurat,3
+2296282,10:15:00,10:15:10,stop_point:SP_724,Aéroport,4
+2296283,10:24:00,10:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296283,10:26:00,10:26:10,stop_point:SP_1921,Dewoitine,2
+2296283,10:28:00,10:28:10,stop_point:SP_297,Daurat,3
+2296283,10:30:00,10:30:10,stop_point:SP_724,Aéroport,4
+2296284,10:39:00,10:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296284,10:41:00,10:41:10,stop_point:SP_1921,Dewoitine,2
+2296284,10:43:00,10:43:10,stop_point:SP_297,Daurat,3
+2296284,10:45:00,10:45:10,stop_point:SP_724,Aéroport,4
+2296285,10:54:00,10:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296285,10:56:00,10:56:10,stop_point:SP_1921,Dewoitine,2
+2296285,10:58:00,10:58:10,stop_point:SP_297,Daurat,3
+2296285,11:00:00,11:00:10,stop_point:SP_724,Aéroport,4
+2296286,11:09:00,11:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296286,11:11:00,11:11:10,stop_point:SP_1921,Dewoitine,2
+2296286,11:13:00,11:13:10,stop_point:SP_297,Daurat,3
+2296286,11:15:00,11:15:10,stop_point:SP_724,Aéroport,4
+2296287,11:24:00,11:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296287,11:26:00,11:26:10,stop_point:SP_1921,Dewoitine,2
+2296287,11:28:00,11:28:10,stop_point:SP_297,Daurat,3
+2296287,11:30:00,11:30:10,stop_point:SP_724,Aéroport,4
+2296288,11:39:00,11:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296288,11:41:00,11:41:10,stop_point:SP_1921,Dewoitine,2
+2296288,11:43:00,11:43:10,stop_point:SP_297,Daurat,3
+2296288,11:45:00,11:45:10,stop_point:SP_724,Aéroport,4
+2296289,11:54:00,11:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296289,11:56:00,11:56:10,stop_point:SP_1921,Dewoitine,2
+2296289,11:58:00,11:58:10,stop_point:SP_297,Daurat,3
+2296289,12:00:00,12:00:10,stop_point:SP_724,Aéroport,4
+2296290,12:09:00,12:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296290,12:11:00,12:11:10,stop_point:SP_1921,Dewoitine,2
+2296290,12:13:00,12:13:10,stop_point:SP_297,Daurat,3
+2296290,12:15:00,12:15:10,stop_point:SP_724,Aéroport,4
+2296291,12:24:00,12:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296291,12:26:00,12:26:10,stop_point:SP_1921,Dewoitine,2
+2296291,12:28:00,12:28:10,stop_point:SP_297,Daurat,3
+2296291,12:30:00,12:30:10,stop_point:SP_724,Aéroport,4
+2296292,12:39:00,12:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296292,12:41:00,12:41:10,stop_point:SP_1921,Dewoitine,2
+2296292,12:43:00,12:43:10,stop_point:SP_297,Daurat,3
+2296292,12:45:00,12:45:10,stop_point:SP_724,Aéroport,4
+2296293,12:54:00,12:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296293,12:56:00,12:56:10,stop_point:SP_1921,Dewoitine,2
+2296293,12:58:00,12:58:10,stop_point:SP_297,Daurat,3
+2296293,13:00:00,13:00:10,stop_point:SP_724,Aéroport,4
+2296294,13:09:00,13:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296294,13:11:00,13:11:10,stop_point:SP_1921,Dewoitine,2
+2296294,13:13:00,13:13:10,stop_point:SP_297,Daurat,3
+2296294,13:15:00,13:15:10,stop_point:SP_724,Aéroport,4
+2296295,13:24:00,13:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296295,13:26:00,13:26:10,stop_point:SP_1921,Dewoitine,2
+2296295,13:28:00,13:28:10,stop_point:SP_297,Daurat,3
+2296295,13:30:00,13:30:10,stop_point:SP_724,Aéroport,4
+2296296,13:39:00,13:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296296,13:41:00,13:41:10,stop_point:SP_1921,Dewoitine,2
+2296296,13:43:00,13:43:10,stop_point:SP_297,Daurat,3
+2296296,13:45:00,13:45:10,stop_point:SP_724,Aéroport,4
+2296297,13:54:00,13:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296297,13:56:00,13:56:10,stop_point:SP_1921,Dewoitine,2
+2296297,13:58:00,13:58:10,stop_point:SP_297,Daurat,3
+2296297,14:00:00,14:00:10,stop_point:SP_724,Aéroport,4
+2296298,14:09:00,14:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296298,14:11:00,14:11:10,stop_point:SP_1921,Dewoitine,2
+2296298,14:13:00,14:13:10,stop_point:SP_297,Daurat,3
+2296298,14:15:00,14:15:10,stop_point:SP_724,Aéroport,4
+2296299,14:24:00,14:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296299,14:26:00,14:26:10,stop_point:SP_1921,Dewoitine,2
+2296299,14:28:00,14:28:10,stop_point:SP_297,Daurat,3
+2296299,14:30:00,14:30:10,stop_point:SP_724,Aéroport,4
+2296300,14:39:00,14:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296300,14:41:00,14:41:10,stop_point:SP_1921,Dewoitine,2
+2296300,14:43:00,14:43:10,stop_point:SP_297,Daurat,3
+2296300,14:45:00,14:45:10,stop_point:SP_724,Aéroport,4
+2296301,14:54:00,14:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296301,14:56:00,14:56:10,stop_point:SP_1921,Dewoitine,2
+2296301,14:58:00,14:58:10,stop_point:SP_297,Daurat,3
+2296301,15:00:00,15:00:10,stop_point:SP_724,Aéroport,4
+2296302,15:09:00,15:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296302,15:11:00,15:11:10,stop_point:SP_1921,Dewoitine,2
+2296302,15:13:00,15:13:10,stop_point:SP_297,Daurat,3
+2296302,15:15:00,15:15:10,stop_point:SP_724,Aéroport,4
+2296303,15:24:00,15:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296303,15:26:00,15:26:10,stop_point:SP_1921,Dewoitine,2
+2296303,15:28:00,15:28:10,stop_point:SP_297,Daurat,3
+2296303,15:30:00,15:30:10,stop_point:SP_724,Aéroport,4
+2296304,15:39:00,15:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296304,15:41:00,15:41:10,stop_point:SP_1921,Dewoitine,2
+2296304,15:43:00,15:43:10,stop_point:SP_297,Daurat,3
+2296304,15:45:00,15:45:10,stop_point:SP_724,Aéroport,4
+2296305,15:54:00,15:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296305,15:56:00,15:56:10,stop_point:SP_1921,Dewoitine,2
+2296305,15:58:00,15:58:10,stop_point:SP_297,Daurat,3
+2296305,16:00:00,16:00:10,stop_point:SP_724,Aéroport,4
+2296306,16:09:00,16:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296306,16:11:00,16:11:10,stop_point:SP_1921,Dewoitine,2
+2296306,16:13:00,16:13:10,stop_point:SP_297,Daurat,3
+2296306,16:15:00,16:15:10,stop_point:SP_724,Aéroport,4
+2296307,16:24:00,16:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296307,16:26:00,16:26:10,stop_point:SP_1921,Dewoitine,2
+2296307,16:28:00,16:28:10,stop_point:SP_297,Daurat,3
+2296307,16:30:00,16:30:10,stop_point:SP_724,Aéroport,4
+2296308,16:39:00,16:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296308,16:41:00,16:41:10,stop_point:SP_1921,Dewoitine,2
+2296308,16:43:00,16:43:10,stop_point:SP_297,Daurat,3
+2296308,16:45:00,16:45:10,stop_point:SP_724,Aéroport,4
+2296309,16:54:00,16:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296309,16:56:00,16:56:10,stop_point:SP_1921,Dewoitine,2
+2296309,16:58:00,16:58:10,stop_point:SP_297,Daurat,3
+2296309,17:00:00,17:00:10,stop_point:SP_724,Aéroport,4
+2296310,17:09:00,17:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296310,17:11:00,17:11:10,stop_point:SP_1921,Dewoitine,2
+2296310,17:13:00,17:13:10,stop_point:SP_297,Daurat,3
+2296310,17:15:00,17:15:10,stop_point:SP_724,Aéroport,4
+2296311,17:24:00,17:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296311,17:26:00,17:26:10,stop_point:SP_1921,Dewoitine,2
+2296311,17:28:00,17:28:10,stop_point:SP_297,Daurat,3
+2296311,17:30:00,17:30:10,stop_point:SP_724,Aéroport,4
+2296312,17:39:00,17:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296312,17:41:00,17:41:10,stop_point:SP_1921,Dewoitine,2
+2296312,17:43:00,17:43:10,stop_point:SP_297,Daurat,3
+2296312,17:45:00,17:45:10,stop_point:SP_724,Aéroport,4
+2296313,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296313,17:56:00,17:56:10,stop_point:SP_1921,Dewoitine,2
+2296313,17:58:00,17:58:10,stop_point:SP_297,Daurat,3
+2296313,18:00:00,18:00:10,stop_point:SP_724,Aéroport,4
+2296314,18:09:00,18:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296314,18:11:00,18:11:10,stop_point:SP_1921,Dewoitine,2
+2296314,18:13:00,18:13:10,stop_point:SP_297,Daurat,3
+2296314,18:15:00,18:15:10,stop_point:SP_724,Aéroport,4
+2296315,18:24:00,18:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296315,18:26:00,18:26:10,stop_point:SP_1921,Dewoitine,2
+2296315,18:28:00,18:28:10,stop_point:SP_297,Daurat,3
+2296315,18:30:00,18:30:10,stop_point:SP_724,Aéroport,4
+2296316,18:39:00,18:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296316,18:41:00,18:41:10,stop_point:SP_1921,Dewoitine,2
+2296316,18:43:00,18:43:10,stop_point:SP_297,Daurat,3
+2296316,18:45:00,18:45:10,stop_point:SP_724,Aéroport,4
+2296317,18:54:00,18:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296317,18:56:00,18:56:10,stop_point:SP_1921,Dewoitine,2
+2296317,18:58:00,18:58:10,stop_point:SP_297,Daurat,3
+2296317,19:00:00,19:00:10,stop_point:SP_724,Aéroport,4
+2296318,19:09:00,19:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296318,19:11:00,19:11:10,stop_point:SP_1921,Dewoitine,2
+2296318,19:13:00,19:13:10,stop_point:SP_297,Daurat,3
+2296318,19:15:00,19:15:10,stop_point:SP_724,Aéroport,4
+2296319,19:24:00,19:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296319,19:26:00,19:26:10,stop_point:SP_1921,Dewoitine,2
+2296319,19:28:00,19:28:10,stop_point:SP_297,Daurat,3
+2296319,19:30:00,19:30:10,stop_point:SP_724,Aéroport,4
+2296320,19:39:00,19:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296320,19:41:00,19:41:10,stop_point:SP_1921,Dewoitine,2
+2296320,19:43:00,19:43:10,stop_point:SP_297,Daurat,3
+2296320,19:45:00,19:45:10,stop_point:SP_724,Aéroport,4
+2296321,19:54:00,19:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296321,19:56:00,19:56:10,stop_point:SP_1921,Dewoitine,2
+2296321,19:58:00,19:58:10,stop_point:SP_297,Daurat,3
+2296321,20:00:00,20:00:10,stop_point:SP_724,Aéroport,4
+2296322,20:09:00,20:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296322,20:11:00,20:11:10,stop_point:SP_1921,Dewoitine,2
+2296322,20:13:00,20:13:10,stop_point:SP_297,Daurat,3
+2296322,20:15:00,20:15:10,stop_point:SP_724,Aéroport,4
+2296323,20:24:00,20:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296323,20:26:00,20:26:10,stop_point:SP_1921,Dewoitine,2
+2296323,20:28:00,20:28:10,stop_point:SP_297,Daurat,3
+2296323,20:30:00,20:30:10,stop_point:SP_724,Aéroport,4
+2296324,20:39:00,20:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296324,20:41:00,20:41:10,stop_point:SP_1921,Dewoitine,2
+2296324,20:43:00,20:43:10,stop_point:SP_297,Daurat,3
+2296324,20:45:00,20:45:10,stop_point:SP_724,Aéroport,4
+2296325,20:54:00,20:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296325,20:56:00,20:56:10,stop_point:SP_1921,Dewoitine,2
+2296325,20:58:00,20:58:10,stop_point:SP_297,Daurat,3
+2296325,21:00:00,21:00:10,stop_point:SP_724,Aéroport,4
+2296326,21:09:00,21:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296326,21:11:00,21:11:10,stop_point:SP_1921,Dewoitine,2
+2296326,21:13:00,21:13:10,stop_point:SP_297,Daurat,3
+2296326,21:15:00,21:15:10,stop_point:SP_724,Aéroport,4
+2296327,21:24:00,21:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296327,21:26:00,21:26:10,stop_point:SP_1921,Dewoitine,2
+2296327,21:28:00,21:28:10,stop_point:SP_297,Daurat,3
+2296327,21:30:00,21:30:10,stop_point:SP_724,Aéroport,4
+2296328,21:39:00,21:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296328,21:41:00,21:41:10,stop_point:SP_1921,Dewoitine,2
+2296328,21:43:00,21:43:10,stop_point:SP_297,Daurat,3
+2296328,21:45:00,21:45:10,stop_point:SP_724,Aéroport,4
+2296329,21:54:00,21:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296329,21:56:00,21:56:10,stop_point:SP_1921,Dewoitine,2
+2296329,21:58:00,21:58:10,stop_point:SP_297,Daurat,3
+2296329,22:00:00,22:00:10,stop_point:SP_724,Aéroport,4
+2296330,22:09:00,22:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296330,22:11:00,22:11:10,stop_point:SP_1921,Dewoitine,2
+2296330,22:13:00,22:13:10,stop_point:SP_297,Daurat,3
+2296330,22:15:00,22:15:10,stop_point:SP_724,Aéroport,4
+2296331,22:24:00,22:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296331,22:26:00,22:26:10,stop_point:SP_1921,Dewoitine,2
+2296331,22:28:00,22:28:10,stop_point:SP_297,Daurat,3
+2296331,22:30:00,22:30:10,stop_point:SP_724,Aéroport,4
+2296332,22:39:00,22:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296332,22:41:00,22:41:10,stop_point:SP_1921,Dewoitine,2
+2296332,22:43:00,22:43:10,stop_point:SP_297,Daurat,3
+2296332,22:45:00,22:45:10,stop_point:SP_724,Aéroport,4
+2296333,22:54:00,22:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296333,22:56:00,22:56:10,stop_point:SP_1921,Dewoitine,2
+2296333,22:58:00,22:58:10,stop_point:SP_297,Daurat,3
+2296333,23:00:00,23:00:10,stop_point:SP_724,Aéroport,4
+2296334,23:09:00,23:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296334,23:11:00,23:11:10,stop_point:SP_1921,Dewoitine,2
+2296334,23:13:00,23:13:10,stop_point:SP_297,Daurat,3
+2296334,23:15:00,23:15:10,stop_point:SP_724,Aéroport,4
+2296335,23:24:00,23:24:10,stop_point:SP_5270,Guyenne-Berry,1
+2296335,23:26:00,23:26:10,stop_point:SP_1921,Dewoitine,2
+2296335,23:28:00,23:28:10,stop_point:SP_297,Daurat,3
+2296335,23:30:00,23:30:10,stop_point:SP_724,Aéroport,4
+2296336,23:39:00,23:39:10,stop_point:SP_5270,Guyenne-Berry,1
+2296336,23:41:00,23:41:10,stop_point:SP_1921,Dewoitine,2
+2296336,23:43:00,23:43:10,stop_point:SP_297,Daurat,3
+2296336,23:45:00,23:45:10,stop_point:SP_724,Aéroport,4
+2296337,23:54:00,23:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2296337,23:56:00,23:56:10,stop_point:SP_1921,Dewoitine,2
+2296337,23:58:00,23:58:10,stop_point:SP_297,Daurat,3
+2296337,24:00:00,24:00:10,stop_point:SP_724,Aéroport,4
+2296338,24:09:00,24:09:10,stop_point:SP_5270,Guyenne-Berry,1
+2296338,24:11:00,24:11:10,stop_point:SP_1921,Dewoitine,2
+2296338,24:13:00,24:13:10,stop_point:SP_297,Daurat,3
+2296338,24:15:00,24:15:10,stop_point:SP_724,Aéroport,4
+2296339,05:30:00,05:30:10,stop_point:SP_724,Aéroport,1
+2296339,05:33:00,05:33:10,stop_point:SP_3199,Daurat,2
+2296339,05:34:00,05:34:10,stop_point:SP_197,Dewoitine,3
+2296339,05:38:00,05:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296339,05:39:00,05:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296340,05:45:00,05:45:10,stop_point:SP_724,Aéroport,1
+2296340,05:48:00,05:48:10,stop_point:SP_3199,Daurat,2
+2296340,05:49:00,05:49:10,stop_point:SP_197,Dewoitine,3
+2296340,05:53:00,05:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296340,05:54:00,05:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296341,06:00:00,06:00:10,stop_point:SP_724,Aéroport,1
+2296341,06:03:00,06:03:10,stop_point:SP_3199,Daurat,2
+2296341,06:04:00,06:04:10,stop_point:SP_197,Dewoitine,3
+2296341,06:08:00,06:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296341,06:09:00,06:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296342,06:15:00,06:15:10,stop_point:SP_724,Aéroport,1
+2296342,06:18:00,06:18:10,stop_point:SP_3199,Daurat,2
+2296342,06:19:00,06:19:10,stop_point:SP_197,Dewoitine,3
+2296342,06:23:00,06:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296342,06:24:00,06:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296343,06:30:00,06:30:10,stop_point:SP_724,Aéroport,1
+2296343,06:33:00,06:33:10,stop_point:SP_3199,Daurat,2
+2296343,06:34:00,06:34:10,stop_point:SP_197,Dewoitine,3
+2296343,06:38:00,06:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296343,06:39:00,06:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296344,06:45:00,06:45:10,stop_point:SP_724,Aéroport,1
+2296344,06:48:00,06:48:10,stop_point:SP_3199,Daurat,2
+2296344,06:49:00,06:49:10,stop_point:SP_197,Dewoitine,3
+2296344,06:53:00,06:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296344,06:54:00,06:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296345,07:00:00,07:00:10,stop_point:SP_724,Aéroport,1
+2296345,07:03:00,07:03:10,stop_point:SP_3199,Daurat,2
+2296345,07:04:00,07:04:10,stop_point:SP_197,Dewoitine,3
+2296345,07:08:00,07:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296345,07:09:00,07:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296346,07:15:00,07:15:10,stop_point:SP_724,Aéroport,1
+2296346,07:18:00,07:18:10,stop_point:SP_3199,Daurat,2
+2296346,07:19:00,07:19:10,stop_point:SP_197,Dewoitine,3
+2296346,07:23:00,07:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296346,07:24:00,07:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296347,07:30:00,07:30:10,stop_point:SP_724,Aéroport,1
+2296347,07:33:00,07:33:10,stop_point:SP_3199,Daurat,2
+2296347,07:34:00,07:34:10,stop_point:SP_197,Dewoitine,3
+2296347,07:38:00,07:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296347,07:39:00,07:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296348,07:45:00,07:45:10,stop_point:SP_724,Aéroport,1
+2296348,07:48:00,07:48:10,stop_point:SP_3199,Daurat,2
+2296348,07:49:00,07:49:10,stop_point:SP_197,Dewoitine,3
+2296348,07:53:00,07:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296348,07:54:00,07:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296349,08:00:00,08:00:10,stop_point:SP_724,Aéroport,1
+2296349,08:03:00,08:03:10,stop_point:SP_3199,Daurat,2
+2296349,08:04:00,08:04:10,stop_point:SP_197,Dewoitine,3
+2296349,08:08:00,08:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296349,08:09:00,08:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296350,08:15:00,08:15:10,stop_point:SP_724,Aéroport,1
+2296350,08:18:00,08:18:10,stop_point:SP_3199,Daurat,2
+2296350,08:19:00,08:19:10,stop_point:SP_197,Dewoitine,3
+2296350,08:23:00,08:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296350,08:24:00,08:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296351,08:30:00,08:30:10,stop_point:SP_724,Aéroport,1
+2296351,08:33:00,08:33:10,stop_point:SP_3199,Daurat,2
+2296351,08:34:00,08:34:10,stop_point:SP_197,Dewoitine,3
+2296351,08:38:00,08:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296351,08:39:00,08:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296352,08:45:00,08:45:10,stop_point:SP_724,Aéroport,1
+2296352,08:48:00,08:48:10,stop_point:SP_3199,Daurat,2
+2296352,08:49:00,08:49:10,stop_point:SP_197,Dewoitine,3
+2296352,08:53:00,08:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296352,08:54:00,08:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296353,09:00:00,09:00:10,stop_point:SP_724,Aéroport,1
+2296353,09:03:00,09:03:10,stop_point:SP_3199,Daurat,2
+2296353,09:04:00,09:04:10,stop_point:SP_197,Dewoitine,3
+2296353,09:08:00,09:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296353,09:09:00,09:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296354,09:15:00,09:15:10,stop_point:SP_724,Aéroport,1
+2296354,09:18:00,09:18:10,stop_point:SP_3199,Daurat,2
+2296354,09:19:00,09:19:10,stop_point:SP_197,Dewoitine,3
+2296354,09:23:00,09:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296354,09:24:00,09:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296355,09:30:00,09:30:10,stop_point:SP_724,Aéroport,1
+2296355,09:33:00,09:33:10,stop_point:SP_3199,Daurat,2
+2296355,09:34:00,09:34:10,stop_point:SP_197,Dewoitine,3
+2296355,09:38:00,09:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296355,09:39:00,09:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296356,09:45:00,09:45:10,stop_point:SP_724,Aéroport,1
+2296356,09:48:00,09:48:10,stop_point:SP_3199,Daurat,2
+2296356,09:49:00,09:49:10,stop_point:SP_197,Dewoitine,3
+2296356,09:53:00,09:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296356,09:54:00,09:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296357,10:00:00,10:00:10,stop_point:SP_724,Aéroport,1
+2296357,10:03:00,10:03:10,stop_point:SP_3199,Daurat,2
+2296357,10:04:00,10:04:10,stop_point:SP_197,Dewoitine,3
+2296357,10:08:00,10:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296357,10:09:00,10:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296358,10:15:00,10:15:10,stop_point:SP_724,Aéroport,1
+2296358,10:18:00,10:18:10,stop_point:SP_3199,Daurat,2
+2296358,10:19:00,10:19:10,stop_point:SP_197,Dewoitine,3
+2296358,10:23:00,10:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296358,10:24:00,10:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296359,10:30:00,10:30:10,stop_point:SP_724,Aéroport,1
+2296359,10:33:00,10:33:10,stop_point:SP_3199,Daurat,2
+2296359,10:34:00,10:34:10,stop_point:SP_197,Dewoitine,3
+2296359,10:38:00,10:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296359,10:39:00,10:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296360,10:45:00,10:45:10,stop_point:SP_724,Aéroport,1
+2296360,10:48:00,10:48:10,stop_point:SP_3199,Daurat,2
+2296360,10:49:00,10:49:10,stop_point:SP_197,Dewoitine,3
+2296360,10:53:00,10:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296360,10:54:00,10:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296361,11:00:00,11:00:10,stop_point:SP_724,Aéroport,1
+2296361,11:03:00,11:03:10,stop_point:SP_3199,Daurat,2
+2296361,11:04:00,11:04:10,stop_point:SP_197,Dewoitine,3
+2296361,11:08:00,11:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296361,11:09:00,11:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296362,11:15:00,11:15:10,stop_point:SP_724,Aéroport,1
+2296362,11:18:00,11:18:10,stop_point:SP_3199,Daurat,2
+2296362,11:19:00,11:19:10,stop_point:SP_197,Dewoitine,3
+2296362,11:23:00,11:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296362,11:24:00,11:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296363,11:30:00,11:30:10,stop_point:SP_724,Aéroport,1
+2296363,11:33:00,11:33:10,stop_point:SP_3199,Daurat,2
+2296363,11:34:00,11:34:10,stop_point:SP_197,Dewoitine,3
+2296363,11:38:00,11:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296363,11:39:00,11:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296364,11:45:00,11:45:10,stop_point:SP_724,Aéroport,1
+2296364,11:48:00,11:48:10,stop_point:SP_3199,Daurat,2
+2296364,11:49:00,11:49:10,stop_point:SP_197,Dewoitine,3
+2296364,11:53:00,11:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296364,11:54:00,11:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296365,12:00:00,12:00:10,stop_point:SP_724,Aéroport,1
+2296365,12:03:00,12:03:10,stop_point:SP_3199,Daurat,2
+2296365,12:04:00,12:04:10,stop_point:SP_197,Dewoitine,3
+2296365,12:08:00,12:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296365,12:09:00,12:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296366,12:15:00,12:15:10,stop_point:SP_724,Aéroport,1
+2296366,12:18:00,12:18:10,stop_point:SP_3199,Daurat,2
+2296366,12:19:00,12:19:10,stop_point:SP_197,Dewoitine,3
+2296366,12:23:00,12:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296366,12:24:00,12:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296367,12:30:00,12:30:10,stop_point:SP_724,Aéroport,1
+2296367,12:33:00,12:33:10,stop_point:SP_3199,Daurat,2
+2296367,12:34:00,12:34:10,stop_point:SP_197,Dewoitine,3
+2296367,12:38:00,12:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296367,12:39:00,12:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296368,12:45:00,12:45:10,stop_point:SP_724,Aéroport,1
+2296368,12:48:00,12:48:10,stop_point:SP_3199,Daurat,2
+2296368,12:49:00,12:49:10,stop_point:SP_197,Dewoitine,3
+2296368,12:53:00,12:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296368,12:54:00,12:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296369,13:00:00,13:00:10,stop_point:SP_724,Aéroport,1
+2296369,13:03:00,13:03:10,stop_point:SP_3199,Daurat,2
+2296369,13:04:00,13:04:10,stop_point:SP_197,Dewoitine,3
+2296369,13:08:00,13:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296369,13:09:00,13:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296370,13:15:00,13:15:10,stop_point:SP_724,Aéroport,1
+2296370,13:18:00,13:18:10,stop_point:SP_3199,Daurat,2
+2296370,13:19:00,13:19:10,stop_point:SP_197,Dewoitine,3
+2296370,13:23:00,13:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296370,13:24:00,13:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296371,13:30:00,13:30:10,stop_point:SP_724,Aéroport,1
+2296371,13:33:00,13:33:10,stop_point:SP_3199,Daurat,2
+2296371,13:34:00,13:34:10,stop_point:SP_197,Dewoitine,3
+2296371,13:38:00,13:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296371,13:39:00,13:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296372,13:45:00,13:45:10,stop_point:SP_724,Aéroport,1
+2296372,13:48:00,13:48:10,stop_point:SP_3199,Daurat,2
+2296372,13:49:00,13:49:10,stop_point:SP_197,Dewoitine,3
+2296372,13:53:00,13:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296372,13:54:00,13:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296373,14:00:00,14:00:10,stop_point:SP_724,Aéroport,1
+2296373,14:03:00,14:03:10,stop_point:SP_3199,Daurat,2
+2296373,14:04:00,14:04:10,stop_point:SP_197,Dewoitine,3
+2296373,14:08:00,14:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296373,14:09:00,14:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296374,14:15:00,14:15:10,stop_point:SP_724,Aéroport,1
+2296374,14:18:00,14:18:10,stop_point:SP_3199,Daurat,2
+2296374,14:19:00,14:19:10,stop_point:SP_197,Dewoitine,3
+2296374,14:23:00,14:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296374,14:24:00,14:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296375,14:30:00,14:30:10,stop_point:SP_724,Aéroport,1
+2296375,14:33:00,14:33:10,stop_point:SP_3199,Daurat,2
+2296375,14:34:00,14:34:10,stop_point:SP_197,Dewoitine,3
+2296375,14:38:00,14:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296375,14:39:00,14:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296376,14:45:00,14:45:10,stop_point:SP_724,Aéroport,1
+2296376,14:48:00,14:48:10,stop_point:SP_3199,Daurat,2
+2296376,14:49:00,14:49:10,stop_point:SP_197,Dewoitine,3
+2296376,14:53:00,14:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296376,14:54:00,14:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296377,15:00:00,15:00:10,stop_point:SP_724,Aéroport,1
+2296377,15:03:00,15:03:10,stop_point:SP_3199,Daurat,2
+2296377,15:04:00,15:04:10,stop_point:SP_197,Dewoitine,3
+2296377,15:08:00,15:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296377,15:09:00,15:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296378,15:15:00,15:15:10,stop_point:SP_724,Aéroport,1
+2296378,15:18:00,15:18:10,stop_point:SP_3199,Daurat,2
+2296378,15:19:00,15:19:10,stop_point:SP_197,Dewoitine,3
+2296378,15:23:00,15:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296378,15:24:00,15:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296379,15:30:00,15:30:10,stop_point:SP_724,Aéroport,1
+2296379,15:33:00,15:33:10,stop_point:SP_3199,Daurat,2
+2296379,15:34:00,15:34:10,stop_point:SP_197,Dewoitine,3
+2296379,15:38:00,15:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296379,15:39:00,15:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296380,15:45:00,15:45:10,stop_point:SP_724,Aéroport,1
+2296380,15:48:00,15:48:10,stop_point:SP_3199,Daurat,2
+2296380,15:49:00,15:49:10,stop_point:SP_197,Dewoitine,3
+2296380,15:53:00,15:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296380,15:54:00,15:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296381,16:00:00,16:00:10,stop_point:SP_724,Aéroport,1
+2296381,16:03:00,16:03:10,stop_point:SP_3199,Daurat,2
+2296381,16:04:00,16:04:10,stop_point:SP_197,Dewoitine,3
+2296381,16:08:00,16:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296381,16:09:00,16:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296382,16:15:00,16:15:10,stop_point:SP_724,Aéroport,1
+2296382,16:18:00,16:18:10,stop_point:SP_3199,Daurat,2
+2296382,16:19:00,16:19:10,stop_point:SP_197,Dewoitine,3
+2296382,16:23:00,16:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296382,16:24:00,16:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296383,16:30:00,16:30:10,stop_point:SP_724,Aéroport,1
+2296383,16:33:00,16:33:10,stop_point:SP_3199,Daurat,2
+2296383,16:34:00,16:34:10,stop_point:SP_197,Dewoitine,3
+2296383,16:38:00,16:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296383,16:39:00,16:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296384,16:45:00,16:45:10,stop_point:SP_724,Aéroport,1
+2296384,16:48:00,16:48:10,stop_point:SP_3199,Daurat,2
+2296384,16:49:00,16:49:10,stop_point:SP_197,Dewoitine,3
+2296384,16:53:00,16:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296384,16:54:00,16:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296385,17:00:00,17:00:10,stop_point:SP_724,Aéroport,1
+2296385,17:03:00,17:03:10,stop_point:SP_3199,Daurat,2
+2296385,17:04:00,17:04:10,stop_point:SP_197,Dewoitine,3
+2296385,17:08:00,17:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296385,17:09:00,17:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296386,17:15:00,17:15:10,stop_point:SP_724,Aéroport,1
+2296386,17:18:00,17:18:10,stop_point:SP_3199,Daurat,2
+2296386,17:19:00,17:19:10,stop_point:SP_197,Dewoitine,3
+2296386,17:23:00,17:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296386,17:24:00,17:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296387,17:30:00,17:30:10,stop_point:SP_724,Aéroport,1
+2296387,17:33:00,17:33:10,stop_point:SP_3199,Daurat,2
+2296387,17:34:00,17:34:10,stop_point:SP_197,Dewoitine,3
+2296387,17:38:00,17:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296387,17:39:00,17:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296388,17:45:00,17:45:10,stop_point:SP_724,Aéroport,1
+2296388,17:48:00,17:48:10,stop_point:SP_3199,Daurat,2
+2296388,17:49:00,17:49:10,stop_point:SP_197,Dewoitine,3
+2296388,17:53:00,17:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296388,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296389,18:00:00,18:00:10,stop_point:SP_724,Aéroport,1
+2296389,18:03:00,18:03:10,stop_point:SP_3199,Daurat,2
+2296389,18:04:00,18:04:10,stop_point:SP_197,Dewoitine,3
+2296389,18:08:00,18:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296389,18:09:00,18:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296390,18:15:00,18:15:10,stop_point:SP_724,Aéroport,1
+2296390,18:18:00,18:18:10,stop_point:SP_3199,Daurat,2
+2296390,18:19:00,18:19:10,stop_point:SP_197,Dewoitine,3
+2296390,18:23:00,18:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296390,18:24:00,18:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296391,18:30:00,18:30:10,stop_point:SP_724,Aéroport,1
+2296391,18:33:00,18:33:10,stop_point:SP_3199,Daurat,2
+2296391,18:34:00,18:34:10,stop_point:SP_197,Dewoitine,3
+2296391,18:38:00,18:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296391,18:39:00,18:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296392,18:45:00,18:45:10,stop_point:SP_724,Aéroport,1
+2296392,18:48:00,18:48:10,stop_point:SP_3199,Daurat,2
+2296392,18:49:00,18:49:10,stop_point:SP_197,Dewoitine,3
+2296392,18:53:00,18:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296392,18:54:00,18:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296393,19:00:00,19:00:10,stop_point:SP_724,Aéroport,1
+2296393,19:03:00,19:03:10,stop_point:SP_3199,Daurat,2
+2296393,19:04:00,19:04:10,stop_point:SP_197,Dewoitine,3
+2296393,19:08:00,19:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296393,19:09:00,19:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296394,19:15:00,19:15:10,stop_point:SP_724,Aéroport,1
+2296394,19:18:00,19:18:10,stop_point:SP_3199,Daurat,2
+2296394,19:19:00,19:19:10,stop_point:SP_197,Dewoitine,3
+2296394,19:23:00,19:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296394,19:24:00,19:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296395,19:30:00,19:30:10,stop_point:SP_724,Aéroport,1
+2296395,19:33:00,19:33:10,stop_point:SP_3199,Daurat,2
+2296395,19:34:00,19:34:10,stop_point:SP_197,Dewoitine,3
+2296395,19:38:00,19:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296395,19:39:00,19:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296396,19:45:00,19:45:10,stop_point:SP_724,Aéroport,1
+2296396,19:48:00,19:48:10,stop_point:SP_3199,Daurat,2
+2296396,19:49:00,19:49:10,stop_point:SP_197,Dewoitine,3
+2296396,19:53:00,19:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296396,19:54:00,19:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296397,20:00:00,20:00:10,stop_point:SP_724,Aéroport,1
+2296397,20:03:00,20:03:10,stop_point:SP_3199,Daurat,2
+2296397,20:04:00,20:04:10,stop_point:SP_197,Dewoitine,3
+2296397,20:08:00,20:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296397,20:09:00,20:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296398,20:15:00,20:15:10,stop_point:SP_724,Aéroport,1
+2296398,20:18:00,20:18:10,stop_point:SP_3199,Daurat,2
+2296398,20:19:00,20:19:10,stop_point:SP_197,Dewoitine,3
+2296398,20:23:00,20:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296398,20:24:00,20:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296399,20:30:00,20:30:10,stop_point:SP_724,Aéroport,1
+2296399,20:33:00,20:33:10,stop_point:SP_3199,Daurat,2
+2296399,20:34:00,20:34:10,stop_point:SP_197,Dewoitine,3
+2296399,20:38:00,20:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296399,20:39:00,20:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296400,20:45:00,20:45:10,stop_point:SP_724,Aéroport,1
+2296400,20:48:00,20:48:10,stop_point:SP_3199,Daurat,2
+2296400,20:49:00,20:49:10,stop_point:SP_197,Dewoitine,3
+2296400,20:53:00,20:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296400,20:54:00,20:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296401,21:00:00,21:00:10,stop_point:SP_724,Aéroport,1
+2296401,21:03:00,21:03:10,stop_point:SP_3199,Daurat,2
+2296401,21:04:00,21:04:10,stop_point:SP_197,Dewoitine,3
+2296401,21:08:00,21:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296401,21:09:00,21:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296402,21:15:00,21:15:10,stop_point:SP_724,Aéroport,1
+2296402,21:18:00,21:18:10,stop_point:SP_3199,Daurat,2
+2296402,21:19:00,21:19:10,stop_point:SP_197,Dewoitine,3
+2296402,21:23:00,21:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296402,21:24:00,21:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296403,21:30:00,21:30:10,stop_point:SP_724,Aéroport,1
+2296403,21:33:00,21:33:10,stop_point:SP_3199,Daurat,2
+2296403,21:34:00,21:34:10,stop_point:SP_197,Dewoitine,3
+2296403,21:38:00,21:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296403,21:39:00,21:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296404,21:45:00,21:45:10,stop_point:SP_724,Aéroport,1
+2296404,21:48:00,21:48:10,stop_point:SP_3199,Daurat,2
+2296404,21:49:00,21:49:10,stop_point:SP_197,Dewoitine,3
+2296404,21:53:00,21:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296404,21:54:00,21:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296405,22:00:00,22:00:10,stop_point:SP_724,Aéroport,1
+2296405,22:03:00,22:03:10,stop_point:SP_3199,Daurat,2
+2296405,22:04:00,22:04:10,stop_point:SP_197,Dewoitine,3
+2296405,22:08:00,22:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296405,22:09:00,22:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296406,22:15:00,22:15:10,stop_point:SP_724,Aéroport,1
+2296406,22:18:00,22:18:10,stop_point:SP_3199,Daurat,2
+2296406,22:19:00,22:19:10,stop_point:SP_197,Dewoitine,3
+2296406,22:23:00,22:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296406,22:24:00,22:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296407,22:30:00,22:30:10,stop_point:SP_724,Aéroport,1
+2296407,22:33:00,22:33:10,stop_point:SP_3199,Daurat,2
+2296407,22:34:00,22:34:10,stop_point:SP_197,Dewoitine,3
+2296407,22:38:00,22:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296407,22:39:00,22:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296408,22:45:00,22:45:10,stop_point:SP_724,Aéroport,1
+2296408,22:48:00,22:48:10,stop_point:SP_3199,Daurat,2
+2296408,22:49:00,22:49:10,stop_point:SP_197,Dewoitine,3
+2296408,22:53:00,22:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296408,22:54:00,22:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296409,23:00:00,23:00:10,stop_point:SP_724,Aéroport,1
+2296409,23:03:00,23:03:10,stop_point:SP_3199,Daurat,2
+2296409,23:04:00,23:04:10,stop_point:SP_197,Dewoitine,3
+2296409,23:08:00,23:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296409,23:09:00,23:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2296410,23:15:00,23:15:10,stop_point:SP_724,Aéroport,1
+2296410,23:18:00,23:18:10,stop_point:SP_3199,Daurat,2
+2296410,23:19:00,23:19:10,stop_point:SP_197,Dewoitine,3
+2296410,23:23:00,23:23:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296410,23:24:00,23:24:10,stop_point:SP_5270,Guyenne-Berry,5
+2296411,23:30:00,23:30:10,stop_point:SP_724,Aéroport,1
+2296411,23:33:00,23:33:10,stop_point:SP_3199,Daurat,2
+2296411,23:34:00,23:34:10,stop_point:SP_197,Dewoitine,3
+2296411,23:38:00,23:38:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296411,23:39:00,23:39:10,stop_point:SP_5270,Guyenne-Berry,5
+2296412,23:45:00,23:45:10,stop_point:SP_724,Aéroport,1
+2296412,23:48:00,23:48:10,stop_point:SP_3199,Daurat,2
+2296412,23:49:00,23:49:10,stop_point:SP_197,Dewoitine,3
+2296412,23:53:00,23:53:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296412,23:54:00,23:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2296413,24:00:00,24:00:10,stop_point:SP_724,Aéroport,1
+2296413,24:03:00,24:03:10,stop_point:SP_3199,Daurat,2
+2296413,24:04:00,24:04:10,stop_point:SP_197,Dewoitine,3
+2296413,24:08:00,24:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2296413,24:09:00,24:09:10,stop_point:SP_5270,Guyenne-Berry,5
+2390774,05:40:00,05:40:10,stop_point:SP_5270,Guyenne-Berry,1
+2390774,05:43:00,05:43:10,stop_point:SP_1921,Dewoitine,2
+2390774,05:45:00,05:45:10,stop_point:SP_297,Daurat,3
+2390774,05:47:00,05:47:10,stop_point:SP_724,Aéroport,4
+2390775,06:30:00,06:30:10,stop_point:SP_5270,Guyenne-Berry,1
+2390775,06:33:00,06:33:10,stop_point:SP_1921,Dewoitine,2
+2390775,06:35:00,06:35:10,stop_point:SP_297,Daurat,3
+2390775,06:37:00,06:37:10,stop_point:SP_724,Aéroport,4
+2390776,06:10:00,06:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2390776,06:13:00,06:13:10,stop_point:SP_1921,Dewoitine,2
+2390776,06:15:00,06:15:10,stop_point:SP_297,Daurat,3
+2390776,06:17:00,06:17:10,stop_point:SP_724,Aéroport,4
+2390777,05:50:00,05:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2390777,05:53:00,05:53:10,stop_point:SP_1921,Dewoitine,2
+2390777,05:55:00,05:55:10,stop_point:SP_297,Daurat,3
+2390777,05:57:00,05:57:10,stop_point:SP_724,Aéroport,4
+2390778,06:00:00,06:00:10,stop_point:SP_5270,Guyenne-Berry,1
+2390778,06:03:00,06:03:10,stop_point:SP_1921,Dewoitine,2
+2390778,06:05:00,06:05:10,stop_point:SP_297,Daurat,3
+2390778,06:07:00,06:07:10,stop_point:SP_724,Aéroport,4
+2390779,06:20:00,06:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2390779,06:23:00,06:23:10,stop_point:SP_1921,Dewoitine,2
+2390779,06:25:00,06:25:10,stop_point:SP_297,Daurat,3
+2390779,06:27:00,06:27:10,stop_point:SP_724,Aéroport,4
+2390780,06:40:00,06:40:10,stop_point:SP_5270,Guyenne-Berry,1
+2390780,06:43:00,06:43:10,stop_point:SP_1921,Dewoitine,2
+2390780,06:45:00,06:45:10,stop_point:SP_297,Daurat,3
+2390780,06:47:00,06:47:10,stop_point:SP_724,Aéroport,4
+2390781,06:50:00,06:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2390781,06:53:00,06:53:10,stop_point:SP_1921,Dewoitine,2
+2390781,06:55:00,06:55:10,stop_point:SP_297,Daurat,3
+2390781,06:57:00,06:57:10,stop_point:SP_724,Aéroport,4
+2390782,07:00:00,07:00:10,stop_point:SP_5270,Guyenne-Berry,1
+2390782,07:03:00,07:03:10,stop_point:SP_1921,Dewoitine,2
+2390782,07:06:00,07:06:10,stop_point:SP_297,Daurat,3
+2390782,07:09:00,07:09:10,stop_point:SP_724,Aéroport,4
+2390783,07:08:00,07:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2390783,07:11:00,07:11:10,stop_point:SP_1921,Dewoitine,2
+2390783,07:14:00,07:14:10,stop_point:SP_297,Daurat,3
+2390783,07:17:00,07:17:10,stop_point:SP_724,Aéroport,4
+2390784,07:17:00,07:17:10,stop_point:SP_5270,Guyenne-Berry,1
+2390784,07:20:00,07:20:10,stop_point:SP_1921,Dewoitine,2
+2390784,07:23:00,07:23:10,stop_point:SP_297,Daurat,3
+2390784,07:26:00,07:26:10,stop_point:SP_724,Aéroport,4
+2390785,07:26:00,07:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2390785,07:29:00,07:29:10,stop_point:SP_1921,Dewoitine,2
+2390785,07:32:00,07:32:10,stop_point:SP_297,Daurat,3
+2390785,07:35:00,07:35:10,stop_point:SP_724,Aéroport,4
+2390786,07:33:00,07:33:10,stop_point:SP_5270,Guyenne-Berry,1
+2390786,07:36:00,07:36:10,stop_point:SP_1921,Dewoitine,2
+2390786,07:39:00,07:39:10,stop_point:SP_297,Daurat,3
+2390786,07:42:00,07:42:10,stop_point:SP_724,Aéroport,4
+2390787,07:41:00,07:41:10,stop_point:SP_5270,Guyenne-Berry,1
+2390787,07:44:00,07:44:10,stop_point:SP_1921,Dewoitine,2
+2390787,07:47:00,07:47:10,stop_point:SP_297,Daurat,3
+2390787,07:50:00,07:50:10,stop_point:SP_724,Aéroport,4
+2390788,07:48:00,07:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2390788,07:51:00,07:51:10,stop_point:SP_1921,Dewoitine,2
+2390788,07:54:00,07:54:10,stop_point:SP_297,Daurat,3
+2390788,07:57:00,07:57:10,stop_point:SP_724,Aéroport,4
+2390789,07:56:00,07:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2390789,08:00:00,08:00:10,stop_point:SP_1921,Dewoitine,2
+2390789,08:03:00,08:03:10,stop_point:SP_297,Daurat,3
+2390789,08:06:00,08:06:10,stop_point:SP_724,Aéroport,4
+2390790,08:03:00,08:03:10,stop_point:SP_5270,Guyenne-Berry,1
+2390790,08:07:00,08:07:10,stop_point:SP_1921,Dewoitine,2
+2390790,08:10:00,08:10:10,stop_point:SP_297,Daurat,3
+2390790,08:13:00,08:13:10,stop_point:SP_724,Aéroport,4
+2390791,08:11:00,08:11:10,stop_point:SP_5270,Guyenne-Berry,1
+2390791,08:15:00,08:15:10,stop_point:SP_1921,Dewoitine,2
+2390791,08:18:00,08:18:10,stop_point:SP_297,Daurat,3
+2390791,08:21:00,08:21:10,stop_point:SP_724,Aéroport,4
+2390792,08:18:00,08:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2390792,08:22:00,08:22:10,stop_point:SP_1921,Dewoitine,2
+2390792,08:25:00,08:25:10,stop_point:SP_297,Daurat,3
+2390792,08:28:00,08:28:10,stop_point:SP_724,Aéroport,4
+2390793,08:26:00,08:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2390793,08:30:00,08:30:10,stop_point:SP_1921,Dewoitine,2
+2390793,08:33:00,08:33:10,stop_point:SP_297,Daurat,3
+2390793,08:36:00,08:36:10,stop_point:SP_724,Aéroport,4
+2390794,08:33:00,08:33:10,stop_point:SP_5270,Guyenne-Berry,1
+2390794,08:37:00,08:37:10,stop_point:SP_1921,Dewoitine,2
+2390794,08:40:00,08:40:10,stop_point:SP_297,Daurat,3
+2390794,08:43:00,08:43:10,stop_point:SP_724,Aéroport,4
+2390795,08:41:00,08:41:10,stop_point:SP_5270,Guyenne-Berry,1
+2390795,08:45:00,08:45:10,stop_point:SP_1921,Dewoitine,2
+2390795,08:48:00,08:48:10,stop_point:SP_297,Daurat,3
+2390795,08:51:00,08:51:10,stop_point:SP_724,Aéroport,4
+2390796,08:48:00,08:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2390796,08:52:00,08:52:10,stop_point:SP_1921,Dewoitine,2
+2390796,08:55:00,08:55:10,stop_point:SP_297,Daurat,3
+2390796,08:58:00,08:58:10,stop_point:SP_724,Aéroport,4
+2390797,09:02:00,09:02:10,stop_point:SP_5270,Guyenne-Berry,1
+2390797,09:05:00,09:05:10,stop_point:SP_1921,Dewoitine,2
+2390797,09:08:00,09:08:10,stop_point:SP_297,Daurat,3
+2390797,09:11:00,09:11:10,stop_point:SP_724,Aéroport,4
+2390798,09:25:00,09:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390798,09:28:00,09:28:10,stop_point:SP_1921,Dewoitine,2
+2390798,09:30:00,09:30:10,stop_point:SP_297,Daurat,3
+2390798,09:32:00,09:32:10,stop_point:SP_724,Aéroport,4
+2390799,09:35:00,09:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390799,09:38:00,09:38:10,stop_point:SP_1921,Dewoitine,2
+2390799,09:40:00,09:40:10,stop_point:SP_297,Daurat,3
+2390799,09:42:00,09:42:10,stop_point:SP_724,Aéroport,4
+2390800,08:56:00,08:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2390800,09:00:00,09:00:10,stop_point:SP_1921,Dewoitine,2
+2390800,09:03:00,09:03:10,stop_point:SP_297,Daurat,3
+2390800,09:06:00,09:06:10,stop_point:SP_724,Aéroport,4
+2390801,09:08:00,09:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2390801,09:11:00,09:11:10,stop_point:SP_1921,Dewoitine,2
+2390801,09:13:00,09:13:10,stop_point:SP_297,Daurat,3
+2390801,09:16:00,09:16:10,stop_point:SP_724,Aéroport,4
+2390802,09:15:00,09:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390802,09:18:00,09:18:10,stop_point:SP_1921,Dewoitine,2
+2390802,09:20:00,09:20:10,stop_point:SP_297,Daurat,3
+2390802,09:22:00,09:22:10,stop_point:SP_724,Aéroport,4
+2390803,10:25:00,10:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390803,10:28:00,10:28:10,stop_point:SP_1921,Dewoitine,2
+2390803,10:30:00,10:30:10,stop_point:SP_297,Daurat,3
+2390803,10:32:00,10:32:10,stop_point:SP_724,Aéroport,4
+2390804,10:35:00,10:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390804,10:38:00,10:38:10,stop_point:SP_1921,Dewoitine,2
+2390804,10:40:00,10:40:10,stop_point:SP_297,Daurat,3
+2390804,10:42:00,10:42:10,stop_point:SP_724,Aéroport,4
+2390805,09:55:00,09:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390805,09:58:00,09:58:10,stop_point:SP_1921,Dewoitine,2
+2390805,10:00:00,10:00:10,stop_point:SP_297,Daurat,3
+2390805,10:02:00,10:02:10,stop_point:SP_724,Aéroport,4
+2390806,10:05:00,10:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390806,10:08:00,10:08:10,stop_point:SP_1921,Dewoitine,2
+2390806,10:10:00,10:10:10,stop_point:SP_297,Daurat,3
+2390806,10:12:00,10:12:10,stop_point:SP_724,Aéroport,4
+2390807,10:15:00,10:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390807,10:18:00,10:18:10,stop_point:SP_1921,Dewoitine,2
+2390807,10:20:00,10:20:10,stop_point:SP_297,Daurat,3
+2390807,10:22:00,10:22:10,stop_point:SP_724,Aéroport,4
+2390808,10:45:00,10:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390808,10:48:00,10:48:10,stop_point:SP_1921,Dewoitine,2
+2390808,10:50:00,10:50:10,stop_point:SP_297,Daurat,3
+2390808,10:52:00,10:52:10,stop_point:SP_724,Aéroport,4
+2390809,10:55:00,10:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390809,10:58:00,10:58:10,stop_point:SP_1921,Dewoitine,2
+2390809,11:00:00,11:00:10,stop_point:SP_297,Daurat,3
+2390809,11:02:00,11:02:10,stop_point:SP_724,Aéroport,4
+2390810,12:05:00,12:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390810,12:08:00,12:08:10,stop_point:SP_1921,Dewoitine,2
+2390810,12:10:00,12:10:10,stop_point:SP_297,Daurat,3
+2390810,12:12:00,12:12:10,stop_point:SP_724,Aéroport,4
+2390811,11:05:00,11:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390811,11:08:00,11:08:10,stop_point:SP_1921,Dewoitine,2
+2390811,11:10:00,11:10:10,stop_point:SP_297,Daurat,3
+2390811,11:12:00,11:12:10,stop_point:SP_724,Aéroport,4
+2390812,11:15:00,11:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390812,11:18:00,11:18:10,stop_point:SP_1921,Dewoitine,2
+2390812,11:20:00,11:20:10,stop_point:SP_297,Daurat,3
+2390812,11:22:00,11:22:10,stop_point:SP_724,Aéroport,4
+2390813,11:25:00,11:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390813,11:28:00,11:28:10,stop_point:SP_1921,Dewoitine,2
+2390813,11:30:00,11:30:10,stop_point:SP_297,Daurat,3
+2390813,11:32:00,11:32:10,stop_point:SP_724,Aéroport,4
+2390814,11:35:00,11:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390814,11:38:00,11:38:10,stop_point:SP_1921,Dewoitine,2
+2390814,11:40:00,11:40:10,stop_point:SP_297,Daurat,3
+2390814,11:42:00,11:42:10,stop_point:SP_724,Aéroport,4
+2390815,11:45:00,11:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390815,11:48:00,11:48:10,stop_point:SP_1921,Dewoitine,2
+2390815,11:50:00,11:50:10,stop_point:SP_297,Daurat,3
+2390815,11:52:00,11:52:10,stop_point:SP_724,Aéroport,4
+2390816,11:55:00,11:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390816,11:58:00,11:58:10,stop_point:SP_1921,Dewoitine,2
+2390816,12:00:00,12:00:10,stop_point:SP_297,Daurat,3
+2390816,12:02:00,12:02:10,stop_point:SP_724,Aéroport,4
+2390817,12:15:00,12:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390817,12:18:00,12:18:10,stop_point:SP_1921,Dewoitine,2
+2390817,12:20:00,12:20:10,stop_point:SP_297,Daurat,3
+2390817,12:22:00,12:22:10,stop_point:SP_724,Aéroport,4
+2390818,12:25:00,12:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390818,12:28:00,12:28:10,stop_point:SP_1921,Dewoitine,2
+2390818,12:30:00,12:30:10,stop_point:SP_297,Daurat,3
+2390818,12:32:00,12:32:10,stop_point:SP_724,Aéroport,4
+2390819,12:35:00,12:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390819,12:38:00,12:38:10,stop_point:SP_1921,Dewoitine,2
+2390819,12:40:00,12:40:10,stop_point:SP_297,Daurat,3
+2390819,12:42:00,12:42:10,stop_point:SP_724,Aéroport,4
+2390820,12:45:00,12:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390820,12:48:00,12:48:10,stop_point:SP_1921,Dewoitine,2
+2390820,12:50:00,12:50:10,stop_point:SP_297,Daurat,3
+2390820,12:52:00,12:52:10,stop_point:SP_724,Aéroport,4
+2390821,12:55:00,12:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390821,12:58:00,12:58:10,stop_point:SP_1921,Dewoitine,2
+2390821,13:00:00,13:00:10,stop_point:SP_297,Daurat,3
+2390821,13:02:00,13:02:10,stop_point:SP_724,Aéroport,4
+2390822,13:05:00,13:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390822,13:08:00,13:08:10,stop_point:SP_1921,Dewoitine,2
+2390822,13:10:00,13:10:10,stop_point:SP_297,Daurat,3
+2390822,13:12:00,13:12:10,stop_point:SP_724,Aéroport,4
+2390823,13:15:00,13:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390823,13:18:00,13:18:10,stop_point:SP_1921,Dewoitine,2
+2390823,13:20:00,13:20:10,stop_point:SP_297,Daurat,3
+2390823,13:22:00,13:22:10,stop_point:SP_724,Aéroport,4
+2390824,13:25:00,13:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390824,13:28:00,13:28:10,stop_point:SP_1921,Dewoitine,2
+2390824,13:30:00,13:30:10,stop_point:SP_297,Daurat,3
+2390824,13:32:00,13:32:10,stop_point:SP_724,Aéroport,4
+2390825,13:35:00,13:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390825,13:38:00,13:38:10,stop_point:SP_1921,Dewoitine,2
+2390825,13:40:00,13:40:10,stop_point:SP_297,Daurat,3
+2390825,13:42:00,13:42:10,stop_point:SP_724,Aéroport,4
+2390826,13:45:00,13:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390826,13:48:00,13:48:10,stop_point:SP_1921,Dewoitine,2
+2390826,13:50:00,13:50:10,stop_point:SP_297,Daurat,3
+2390826,13:52:00,13:52:10,stop_point:SP_724,Aéroport,4
+2390827,13:55:00,13:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390827,13:58:00,13:58:10,stop_point:SP_1921,Dewoitine,2
+2390827,14:00:00,14:00:10,stop_point:SP_297,Daurat,3
+2390827,14:02:00,14:02:10,stop_point:SP_724,Aéroport,4
+2390828,14:05:00,14:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390828,14:08:00,14:08:10,stop_point:SP_1921,Dewoitine,2
+2390828,14:10:00,14:10:10,stop_point:SP_297,Daurat,3
+2390828,14:12:00,14:12:10,stop_point:SP_724,Aéroport,4
+2390829,14:15:00,14:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390829,14:18:00,14:18:10,stop_point:SP_1921,Dewoitine,2
+2390829,14:20:00,14:20:10,stop_point:SP_297,Daurat,3
+2390829,14:22:00,14:22:10,stop_point:SP_724,Aéroport,4
+2390830,14:25:00,14:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390830,14:28:00,14:28:10,stop_point:SP_1921,Dewoitine,2
+2390830,14:30:00,14:30:10,stop_point:SP_297,Daurat,3
+2390830,14:32:00,14:32:10,stop_point:SP_724,Aéroport,4
+2390831,14:35:00,14:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390831,14:38:00,14:38:10,stop_point:SP_1921,Dewoitine,2
+2390831,14:40:00,14:40:10,stop_point:SP_297,Daurat,3
+2390831,14:42:00,14:42:10,stop_point:SP_724,Aéroport,4
+2390832,14:45:00,14:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390832,14:48:00,14:48:10,stop_point:SP_1921,Dewoitine,2
+2390832,14:50:00,14:50:10,stop_point:SP_297,Daurat,3
+2390832,14:52:00,14:52:10,stop_point:SP_724,Aéroport,4
+2390833,14:55:00,14:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390833,14:58:00,14:58:10,stop_point:SP_1921,Dewoitine,2
+2390833,15:00:00,15:00:10,stop_point:SP_297,Daurat,3
+2390833,15:02:00,15:02:10,stop_point:SP_724,Aéroport,4
+2390834,15:05:00,15:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390834,15:08:00,15:08:10,stop_point:SP_1921,Dewoitine,2
+2390834,15:10:00,15:10:10,stop_point:SP_297,Daurat,3
+2390834,15:12:00,15:12:10,stop_point:SP_724,Aéroport,4
+2390835,15:15:00,15:15:10,stop_point:SP_5270,Guyenne-Berry,1
+2390835,15:18:00,15:18:10,stop_point:SP_1921,Dewoitine,2
+2390835,15:20:00,15:20:10,stop_point:SP_297,Daurat,3
+2390835,15:22:00,15:22:10,stop_point:SP_724,Aéroport,4
+2390836,15:55:00,15:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390836,15:58:00,15:58:10,stop_point:SP_1921,Dewoitine,2
+2390836,16:00:00,16:00:10,stop_point:SP_297,Daurat,3
+2390836,16:02:00,16:02:10,stop_point:SP_724,Aéroport,4
+2390837,15:25:00,15:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390837,15:28:00,15:28:10,stop_point:SP_1921,Dewoitine,2
+2390837,15:30:00,15:30:10,stop_point:SP_297,Daurat,3
+2390837,15:32:00,15:32:10,stop_point:SP_724,Aéroport,4
+2390838,15:35:00,15:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390838,15:38:00,15:38:10,stop_point:SP_1921,Dewoitine,2
+2390838,15:40:00,15:40:10,stop_point:SP_297,Daurat,3
+2390838,15:42:00,15:42:10,stop_point:SP_724,Aéroport,4
+2390839,15:45:00,15:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390839,15:48:00,15:48:10,stop_point:SP_1921,Dewoitine,2
+2390839,15:50:00,15:50:10,stop_point:SP_297,Daurat,3
+2390839,15:52:00,15:52:10,stop_point:SP_724,Aéroport,4
+2390840,16:38:00,16:38:10,stop_point:SP_5270,Guyenne-Berry,1
+2390840,16:41:00,16:41:10,stop_point:SP_1921,Dewoitine,2
+2390840,16:43:00,16:43:10,stop_point:SP_297,Daurat,3
+2390840,16:46:00,16:46:10,stop_point:SP_724,Aéroport,4
+2390841,16:48:00,16:48:10,stop_point:SP_5270,Guyenne-Berry,1
+2390841,16:51:00,16:51:10,stop_point:SP_1921,Dewoitine,2
+2390841,16:53:00,16:53:10,stop_point:SP_297,Daurat,3
+2390841,16:56:00,16:56:10,stop_point:SP_724,Aéroport,4
+2390842,16:05:00,16:05:10,stop_point:SP_5270,Guyenne-Berry,1
+2390842,16:08:00,16:08:10,stop_point:SP_1921,Dewoitine,2
+2390842,16:10:00,16:10:10,stop_point:SP_297,Daurat,3
+2390842,16:12:00,16:12:10,stop_point:SP_724,Aéroport,4
+2390843,16:18:00,16:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2390843,16:21:00,16:21:10,stop_point:SP_1921,Dewoitine,2
+2390843,16:23:00,16:23:10,stop_point:SP_297,Daurat,3
+2390843,16:26:00,16:26:10,stop_point:SP_724,Aéroport,4
+2390844,16:28:00,16:28:10,stop_point:SP_5270,Guyenne-Berry,1
+2390844,16:31:00,16:31:10,stop_point:SP_1921,Dewoitine,2
+2390844,16:33:00,16:33:10,stop_point:SP_297,Daurat,3
+2390844,16:36:00,16:36:10,stop_point:SP_724,Aéroport,4
+2390845,16:58:00,16:58:10,stop_point:SP_5270,Guyenne-Berry,1
+2390845,17:01:00,17:01:10,stop_point:SP_1921,Dewoitine,2
+2390845,17:03:00,17:03:10,stop_point:SP_297,Daurat,3
+2390845,17:06:00,17:06:10,stop_point:SP_724,Aéroport,4
+2390846,17:06:00,17:06:10,stop_point:SP_5270,Guyenne-Berry,1
+2390846,17:09:00,17:09:10,stop_point:SP_1921,Dewoitine,2
+2390846,17:11:00,17:11:10,stop_point:SP_297,Daurat,3
+2390846,17:14:00,17:14:10,stop_point:SP_724,Aéroport,4
+2390847,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,1
+2390847,17:57:00,17:57:10,stop_point:SP_1921,Dewoitine,2
+2390847,17:59:00,17:59:10,stop_point:SP_297,Daurat,3
+2390847,18:02:00,18:02:10,stop_point:SP_724,Aéroport,4
+2390848,09:45:00,09:45:10,stop_point:SP_5270,Guyenne-Berry,1
+2390848,09:48:00,09:48:10,stop_point:SP_1921,Dewoitine,2
+2390848,09:50:00,09:50:10,stop_point:SP_297,Daurat,3
+2390848,09:52:00,09:52:10,stop_point:SP_724,Aéroport,4
+2390849,17:38:00,17:38:10,stop_point:SP_5270,Guyenne-Berry,1
+2390849,17:41:00,17:41:10,stop_point:SP_1921,Dewoitine,2
+2390849,17:43:00,17:43:10,stop_point:SP_297,Daurat,3
+2390849,17:46:00,17:46:10,stop_point:SP_724,Aéroport,4
+2390850,17:14:00,17:14:10,stop_point:SP_5270,Guyenne-Berry,1
+2390850,17:17:00,17:17:10,stop_point:SP_1921,Dewoitine,2
+2390850,17:19:00,17:19:10,stop_point:SP_297,Daurat,3
+2390850,17:22:00,17:22:10,stop_point:SP_724,Aéroport,4
+2390851,17:22:00,17:22:10,stop_point:SP_5270,Guyenne-Berry,1
+2390851,17:25:00,17:25:10,stop_point:SP_1921,Dewoitine,2
+2390851,17:27:00,17:27:10,stop_point:SP_297,Daurat,3
+2390851,17:30:00,17:30:10,stop_point:SP_724,Aéroport,4
+2390852,17:30:00,17:30:10,stop_point:SP_5270,Guyenne-Berry,1
+2390852,17:33:00,17:33:10,stop_point:SP_1921,Dewoitine,2
+2390852,17:35:00,17:35:10,stop_point:SP_297,Daurat,3
+2390852,17:38:00,17:38:10,stop_point:SP_724,Aéroport,4
+2390853,17:46:00,17:46:10,stop_point:SP_5270,Guyenne-Berry,1
+2390853,17:49:00,17:49:10,stop_point:SP_1921,Dewoitine,2
+2390853,17:51:00,17:51:10,stop_point:SP_297,Daurat,3
+2390853,17:54:00,17:54:10,stop_point:SP_724,Aéroport,4
+2390854,18:02:00,18:02:10,stop_point:SP_5270,Guyenne-Berry,1
+2390854,18:05:00,18:05:10,stop_point:SP_1921,Dewoitine,2
+2390854,18:07:00,18:07:10,stop_point:SP_297,Daurat,3
+2390854,18:10:00,18:10:10,stop_point:SP_724,Aéroport,4
+2390855,18:10:00,18:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2390855,18:13:00,18:13:10,stop_point:SP_1921,Dewoitine,2
+2390855,18:15:00,18:15:10,stop_point:SP_297,Daurat,3
+2390855,18:18:00,18:18:10,stop_point:SP_724,Aéroport,4
+2390856,18:18:00,18:18:10,stop_point:SP_5270,Guyenne-Berry,1
+2390856,18:21:00,18:21:10,stop_point:SP_1921,Dewoitine,2
+2390856,18:23:00,18:23:10,stop_point:SP_297,Daurat,3
+2390856,18:26:00,18:26:10,stop_point:SP_724,Aéroport,4
+2390857,18:26:00,18:26:10,stop_point:SP_5270,Guyenne-Berry,1
+2390857,18:29:00,18:29:10,stop_point:SP_1921,Dewoitine,2
+2390857,18:31:00,18:31:10,stop_point:SP_297,Daurat,3
+2390857,18:34:00,18:34:10,stop_point:SP_724,Aéroport,4
+2390858,18:34:00,18:34:10,stop_point:SP_5270,Guyenne-Berry,1
+2390858,18:37:00,18:37:10,stop_point:SP_1921,Dewoitine,2
+2390858,18:39:00,18:39:10,stop_point:SP_297,Daurat,3
+2390858,18:42:00,18:42:10,stop_point:SP_724,Aéroport,4
+2390859,18:42:00,18:42:10,stop_point:SP_5270,Guyenne-Berry,1
+2390859,18:45:00,18:45:10,stop_point:SP_1921,Dewoitine,2
+2390859,18:47:00,18:47:10,stop_point:SP_297,Daurat,3
+2390859,18:50:00,18:50:10,stop_point:SP_724,Aéroport,4
+2390860,18:50:00,18:50:10,stop_point:SP_5270,Guyenne-Berry,1
+2390860,18:53:00,18:53:10,stop_point:SP_1921,Dewoitine,2
+2390860,18:55:00,18:55:10,stop_point:SP_297,Daurat,3
+2390860,18:58:00,18:58:10,stop_point:SP_724,Aéroport,4
+2390861,18:58:00,18:58:10,stop_point:SP_5270,Guyenne-Berry,1
+2390861,19:01:00,19:01:10,stop_point:SP_1921,Dewoitine,2
+2390861,19:03:00,19:03:10,stop_point:SP_297,Daurat,3
+2390861,19:06:00,19:06:10,stop_point:SP_724,Aéroport,4
+2390862,19:06:00,19:06:10,stop_point:SP_5270,Guyenne-Berry,1
+2390862,19:09:00,19:09:10,stop_point:SP_1921,Dewoitine,2
+2390862,19:11:00,19:11:10,stop_point:SP_297,Daurat,3
+2390862,19:14:00,19:14:10,stop_point:SP_724,Aéroport,4
+2390863,19:13:00,19:13:10,stop_point:SP_5270,Guyenne-Berry,1
+2390863,19:16:00,19:16:10,stop_point:SP_1921,Dewoitine,2
+2390863,19:18:00,19:18:10,stop_point:SP_297,Daurat,3
+2390863,19:21:00,19:21:10,stop_point:SP_724,Aéroport,4
+2390864,19:20:00,19:20:10,stop_point:SP_5270,Guyenne-Berry,1
+2390864,19:23:00,19:23:10,stop_point:SP_1921,Dewoitine,2
+2390864,19:25:00,19:25:10,stop_point:SP_297,Daurat,3
+2390864,19:28:00,19:28:10,stop_point:SP_724,Aéroport,4
+2390865,19:32:00,19:32:10,stop_point:SP_5270,Guyenne-Berry,1
+2390865,19:35:00,19:35:10,stop_point:SP_1921,Dewoitine,2
+2390865,19:37:00,19:37:10,stop_point:SP_297,Daurat,3
+2390865,19:40:00,19:40:10,stop_point:SP_724,Aéroport,4
+2390866,19:44:00,19:44:10,stop_point:SP_5270,Guyenne-Berry,1
+2390866,19:47:00,19:47:10,stop_point:SP_1921,Dewoitine,2
+2390866,19:49:00,19:49:10,stop_point:SP_297,Daurat,3
+2390866,19:52:00,19:52:10,stop_point:SP_724,Aéroport,4
+2390867,19:56:00,19:56:10,stop_point:SP_5270,Guyenne-Berry,1
+2390867,19:59:00,19:59:10,stop_point:SP_1921,Dewoitine,2
+2390867,20:01:00,20:01:10,stop_point:SP_297,Daurat,3
+2390867,20:04:00,20:04:10,stop_point:SP_724,Aéroport,4
+2390868,20:08:00,20:08:10,stop_point:SP_5270,Guyenne-Berry,1
+2390868,20:11:00,20:11:10,stop_point:SP_1921,Dewoitine,2
+2390868,20:13:00,20:13:10,stop_point:SP_297,Daurat,3
+2390868,20:16:00,20:16:10,stop_point:SP_724,Aéroport,4
+2390869,20:19:00,20:19:10,stop_point:SP_5270,Guyenne-Berry,1
+2390869,20:22:00,20:22:10,stop_point:SP_1921,Dewoitine,2
+2390869,20:24:00,20:24:10,stop_point:SP_297,Daurat,3
+2390869,20:26:00,20:26:10,stop_point:SP_724,Aéroport,4
+2390870,20:31:00,20:31:10,stop_point:SP_5270,Guyenne-Berry,1
+2390870,20:34:00,20:34:10,stop_point:SP_1921,Dewoitine,2
+2390870,20:36:00,20:36:10,stop_point:SP_297,Daurat,3
+2390870,20:38:00,20:38:10,stop_point:SP_724,Aéroport,4
+2390871,20:43:00,20:43:10,stop_point:SP_5270,Guyenne-Berry,1
+2390871,20:46:00,20:46:10,stop_point:SP_1921,Dewoitine,2
+2390871,20:48:00,20:48:10,stop_point:SP_297,Daurat,3
+2390871,20:50:00,20:50:10,stop_point:SP_724,Aéroport,4
+2390872,20:55:00,20:55:10,stop_point:SP_5270,Guyenne-Berry,1
+2390872,20:58:00,20:58:10,stop_point:SP_1921,Dewoitine,2
+2390872,21:00:00,21:00:10,stop_point:SP_297,Daurat,3
+2390872,21:02:00,21:02:10,stop_point:SP_724,Aéroport,4
+2390873,21:10:00,21:10:10,stop_point:SP_5270,Guyenne-Berry,1
+2390873,21:13:00,21:13:10,stop_point:SP_1921,Dewoitine,2
+2390873,21:15:00,21:15:10,stop_point:SP_297,Daurat,3
+2390873,21:17:00,21:17:10,stop_point:SP_724,Aéroport,4
+2390874,22:01:00,22:01:10,stop_point:SP_5270,Guyenne-Berry,1
+2390874,22:04:00,22:04:10,stop_point:SP_1921,Dewoitine,2
+2390874,22:06:00,22:06:10,stop_point:SP_297,Daurat,3
+2390874,22:08:00,22:08:10,stop_point:SP_724,Aéroport,4
+2390875,22:25:00,22:25:10,stop_point:SP_5270,Guyenne-Berry,1
+2390875,22:28:00,22:28:10,stop_point:SP_1921,Dewoitine,2
+2390875,22:30:00,22:30:10,stop_point:SP_297,Daurat,3
+2390875,22:32:00,22:32:10,stop_point:SP_724,Aéroport,4
+2390876,21:35:00,21:35:10,stop_point:SP_5270,Guyenne-Berry,1
+2390876,21:38:00,21:38:10,stop_point:SP_1921,Dewoitine,2
+2390876,21:40:00,21:40:10,stop_point:SP_297,Daurat,3
+2390876,21:42:00,21:42:10,stop_point:SP_724,Aéroport,4
+2390877,05:30:00,05:30:10,stop_point:SP_724,Aéroport,1
+2390877,05:33:00,05:33:10,stop_point:SP_3199,Daurat,2
+2390877,05:34:00,05:34:10,stop_point:SP_197,Dewoitine,3
+2390877,05:39:00,05:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390877,05:40:00,05:40:10,stop_point:SP_5270,Guyenne-Berry,5
+2390878,05:40:00,05:40:10,stop_point:SP_724,Aéroport,1
+2390878,05:43:00,05:43:10,stop_point:SP_3199,Daurat,2
+2390878,05:44:00,05:44:10,stop_point:SP_197,Dewoitine,3
+2390878,05:49:00,05:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390878,05:50:00,05:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2390879,05:50:00,05:50:10,stop_point:SP_724,Aéroport,1
+2390879,05:53:00,05:53:10,stop_point:SP_3199,Daurat,2
+2390879,05:54:00,05:54:10,stop_point:SP_197,Dewoitine,3
+2390879,05:59:00,05:59:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390879,06:00:00,06:00:10,stop_point:SP_5270,Guyenne-Berry,5
+2390880,06:00:00,06:00:10,stop_point:SP_724,Aéroport,1
+2390880,06:03:00,06:03:10,stop_point:SP_3199,Daurat,2
+2390880,06:04:00,06:04:10,stop_point:SP_197,Dewoitine,3
+2390880,06:09:00,06:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390880,06:10:00,06:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2390881,06:10:00,06:10:10,stop_point:SP_724,Aéroport,1
+2390881,06:13:00,06:13:10,stop_point:SP_3199,Daurat,2
+2390881,06:14:00,06:14:10,stop_point:SP_197,Dewoitine,3
+2390881,06:19:00,06:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390881,06:20:00,06:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2390882,06:20:00,06:20:10,stop_point:SP_724,Aéroport,1
+2390882,06:23:00,06:23:10,stop_point:SP_3199,Daurat,2
+2390882,06:24:00,06:24:10,stop_point:SP_197,Dewoitine,3
+2390882,06:29:00,06:29:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390882,06:30:00,06:30:10,stop_point:SP_5270,Guyenne-Berry,5
+2390883,06:30:00,06:30:10,stop_point:SP_724,Aéroport,1
+2390883,06:33:00,06:33:10,stop_point:SP_3199,Daurat,2
+2390883,06:34:00,06:34:10,stop_point:SP_197,Dewoitine,3
+2390883,06:39:00,06:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390883,06:40:00,06:40:10,stop_point:SP_5270,Guyenne-Berry,5
+2390884,06:40:00,06:40:10,stop_point:SP_724,Aéroport,1
+2390884,06:43:00,06:43:10,stop_point:SP_3199,Daurat,2
+2390884,06:44:00,06:44:10,stop_point:SP_197,Dewoitine,3
+2390884,06:49:00,06:49:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390884,06:50:00,06:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2390885,06:50:00,06:50:10,stop_point:SP_724,Aéroport,1
+2390885,06:53:00,06:53:10,stop_point:SP_3199,Daurat,2
+2390885,06:54:00,06:54:10,stop_point:SP_197,Dewoitine,3
+2390885,06:59:00,06:59:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390885,07:00:00,07:00:10,stop_point:SP_5270,Guyenne-Berry,5
+2390886,06:58:00,06:58:10,stop_point:SP_724,Aéroport,1
+2390886,07:01:00,07:01:10,stop_point:SP_3199,Daurat,2
+2390886,07:02:00,07:02:10,stop_point:SP_197,Dewoitine,3
+2390886,07:07:00,07:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390886,07:08:00,07:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2390887,07:05:00,07:05:10,stop_point:SP_724,Aéroport,1
+2390887,07:09:00,07:09:10,stop_point:SP_3199,Daurat,2
+2390887,07:10:00,07:10:10,stop_point:SP_197,Dewoitine,3
+2390887,07:16:00,07:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390887,07:17:00,07:17:10,stop_point:SP_5270,Guyenne-Berry,5
+2390888,07:13:00,07:13:10,stop_point:SP_724,Aéroport,1
+2390888,07:17:00,07:17:10,stop_point:SP_3199,Daurat,2
+2390888,07:19:00,07:19:10,stop_point:SP_197,Dewoitine,3
+2390888,07:24:00,07:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390888,07:26:00,07:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2390889,07:20:00,07:20:10,stop_point:SP_724,Aéroport,1
+2390889,07:24:00,07:24:10,stop_point:SP_3199,Daurat,2
+2390889,07:26:00,07:26:10,stop_point:SP_197,Dewoitine,3
+2390889,07:31:00,07:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390889,07:33:00,07:33:10,stop_point:SP_5270,Guyenne-Berry,5
+2390890,07:28:00,07:28:10,stop_point:SP_724,Aéroport,1
+2390890,07:32:00,07:32:10,stop_point:SP_3199,Daurat,2
+2390890,07:34:00,07:34:10,stop_point:SP_197,Dewoitine,3
+2390890,07:39:00,07:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390890,07:41:00,07:41:10,stop_point:SP_5270,Guyenne-Berry,5
+2390891,07:35:00,07:35:10,stop_point:SP_724,Aéroport,1
+2390891,07:39:00,07:39:10,stop_point:SP_3199,Daurat,2
+2390891,07:41:00,07:41:10,stop_point:SP_197,Dewoitine,3
+2390891,07:46:00,07:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390891,07:48:00,07:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2390892,07:43:00,07:43:10,stop_point:SP_724,Aéroport,1
+2390892,07:47:00,07:47:10,stop_point:SP_3199,Daurat,2
+2390892,07:49:00,07:49:10,stop_point:SP_197,Dewoitine,3
+2390892,07:54:00,07:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390892,07:56:00,07:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2390893,07:50:00,07:50:10,stop_point:SP_724,Aéroport,1
+2390893,07:54:00,07:54:10,stop_point:SP_3199,Daurat,2
+2390893,07:56:00,07:56:10,stop_point:SP_197,Dewoitine,3
+2390893,08:01:00,08:01:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390893,08:03:00,08:03:10,stop_point:SP_5270,Guyenne-Berry,5
+2390894,07:58:00,07:58:10,stop_point:SP_724,Aéroport,1
+2390894,08:02:00,08:02:10,stop_point:SP_3199,Daurat,2
+2390894,08:04:00,08:04:10,stop_point:SP_197,Dewoitine,3
+2390894,08:09:00,08:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390894,08:11:00,08:11:10,stop_point:SP_5270,Guyenne-Berry,5
+2390895,08:05:00,08:05:10,stop_point:SP_724,Aéroport,1
+2390895,08:09:00,08:09:10,stop_point:SP_3199,Daurat,2
+2390895,08:11:00,08:11:10,stop_point:SP_197,Dewoitine,3
+2390895,08:16:00,08:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390895,08:18:00,08:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2390896,08:13:00,08:13:10,stop_point:SP_724,Aéroport,1
+2390896,08:17:00,08:17:10,stop_point:SP_3199,Daurat,2
+2390896,08:19:00,08:19:10,stop_point:SP_197,Dewoitine,3
+2390896,08:24:00,08:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390896,08:26:00,08:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2390897,08:20:00,08:20:10,stop_point:SP_724,Aéroport,1
+2390897,08:24:00,08:24:10,stop_point:SP_3199,Daurat,2
+2390897,08:26:00,08:26:10,stop_point:SP_197,Dewoitine,3
+2390897,08:31:00,08:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390897,08:33:00,08:33:10,stop_point:SP_5270,Guyenne-Berry,5
+2390898,08:28:00,08:28:10,stop_point:SP_724,Aéroport,1
+2390898,08:32:00,08:32:10,stop_point:SP_3199,Daurat,2
+2390898,08:34:00,08:34:10,stop_point:SP_197,Dewoitine,3
+2390898,08:39:00,08:39:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390898,08:41:00,08:41:10,stop_point:SP_5270,Guyenne-Berry,5
+2390899,08:35:00,08:35:10,stop_point:SP_724,Aéroport,1
+2390899,08:39:00,08:39:10,stop_point:SP_3199,Daurat,2
+2390899,08:41:00,08:41:10,stop_point:SP_197,Dewoitine,3
+2390899,08:46:00,08:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390899,08:48:00,08:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2390900,08:43:00,08:43:10,stop_point:SP_724,Aéroport,1
+2390900,08:47:00,08:47:10,stop_point:SP_3199,Daurat,2
+2390900,08:49:00,08:49:10,stop_point:SP_197,Dewoitine,3
+2390900,08:54:00,08:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390900,08:56:00,08:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2390901,08:50:00,08:50:10,stop_point:SP_724,Aéroport,1
+2390901,08:54:00,08:54:10,stop_point:SP_3199,Daurat,2
+2390901,08:55:00,08:55:10,stop_point:SP_197,Dewoitine,3
+2390901,09:01:00,09:01:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390901,09:02:00,09:02:10,stop_point:SP_5270,Guyenne-Berry,5
+2390902,08:58:00,08:58:10,stop_point:SP_724,Aéroport,1
+2390902,09:01:00,09:01:10,stop_point:SP_3199,Daurat,2
+2390902,09:02:00,09:02:10,stop_point:SP_197,Dewoitine,3
+2390902,09:07:00,09:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390902,09:08:00,09:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2390903,09:05:00,09:05:10,stop_point:SP_724,Aéroport,1
+2390903,09:08:00,09:08:10,stop_point:SP_3199,Daurat,2
+2390903,09:09:00,09:09:10,stop_point:SP_197,Dewoitine,3
+2390903,09:14:00,09:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390903,09:15:00,09:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390904,09:15:00,09:15:10,stop_point:SP_724,Aéroport,1
+2390904,09:18:00,09:18:10,stop_point:SP_3199,Daurat,2
+2390904,09:19:00,09:19:10,stop_point:SP_197,Dewoitine,3
+2390904,09:24:00,09:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390904,09:25:00,09:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390905,09:25:00,09:25:10,stop_point:SP_724,Aéroport,1
+2390905,09:28:00,09:28:10,stop_point:SP_3199,Daurat,2
+2390905,09:29:00,09:29:10,stop_point:SP_197,Dewoitine,3
+2390905,09:34:00,09:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390905,09:35:00,09:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390906,09:35:00,09:35:10,stop_point:SP_724,Aéroport,1
+2390906,09:38:00,09:38:10,stop_point:SP_3199,Daurat,2
+2390906,09:39:00,09:39:10,stop_point:SP_197,Dewoitine,3
+2390906,09:44:00,09:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390906,09:45:00,09:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390907,09:45:00,09:45:10,stop_point:SP_724,Aéroport,1
+2390907,09:48:00,09:48:10,stop_point:SP_3199,Daurat,2
+2390907,09:49:00,09:49:10,stop_point:SP_197,Dewoitine,3
+2390907,09:54:00,09:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390907,09:55:00,09:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390908,09:55:00,09:55:10,stop_point:SP_724,Aéroport,1
+2390908,09:58:00,09:58:10,stop_point:SP_3199,Daurat,2
+2390908,09:59:00,09:59:10,stop_point:SP_197,Dewoitine,3
+2390908,10:04:00,10:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390908,10:05:00,10:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390909,10:05:00,10:05:10,stop_point:SP_724,Aéroport,1
+2390909,10:08:00,10:08:10,stop_point:SP_3199,Daurat,2
+2390909,10:09:00,10:09:10,stop_point:SP_197,Dewoitine,3
+2390909,10:14:00,10:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390909,10:15:00,10:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390910,10:15:00,10:15:10,stop_point:SP_724,Aéroport,1
+2390910,10:18:00,10:18:10,stop_point:SP_3199,Daurat,2
+2390910,10:19:00,10:19:10,stop_point:SP_197,Dewoitine,3
+2390910,10:24:00,10:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390910,10:25:00,10:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390911,10:25:00,10:25:10,stop_point:SP_724,Aéroport,1
+2390911,10:28:00,10:28:10,stop_point:SP_3199,Daurat,2
+2390911,10:29:00,10:29:10,stop_point:SP_197,Dewoitine,3
+2390911,10:34:00,10:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390911,10:35:00,10:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390912,10:35:00,10:35:10,stop_point:SP_724,Aéroport,1
+2390912,10:38:00,10:38:10,stop_point:SP_3199,Daurat,2
+2390912,10:39:00,10:39:10,stop_point:SP_197,Dewoitine,3
+2390912,10:44:00,10:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390912,10:45:00,10:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390913,10:45:00,10:45:10,stop_point:SP_724,Aéroport,1
+2390913,10:48:00,10:48:10,stop_point:SP_3199,Daurat,2
+2390913,10:49:00,10:49:10,stop_point:SP_197,Dewoitine,3
+2390913,10:54:00,10:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390913,10:55:00,10:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390914,10:55:00,10:55:10,stop_point:SP_724,Aéroport,1
+2390914,10:58:00,10:58:10,stop_point:SP_3199,Daurat,2
+2390914,10:59:00,10:59:10,stop_point:SP_197,Dewoitine,3
+2390914,11:04:00,11:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390914,11:05:00,11:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390915,11:05:00,11:05:10,stop_point:SP_724,Aéroport,1
+2390915,11:08:00,11:08:10,stop_point:SP_3199,Daurat,2
+2390915,11:09:00,11:09:10,stop_point:SP_197,Dewoitine,3
+2390915,11:14:00,11:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390915,11:15:00,11:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390916,11:15:00,11:15:10,stop_point:SP_724,Aéroport,1
+2390916,11:18:00,11:18:10,stop_point:SP_3199,Daurat,2
+2390916,11:19:00,11:19:10,stop_point:SP_197,Dewoitine,3
+2390916,11:24:00,11:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390916,11:25:00,11:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390917,11:25:00,11:25:10,stop_point:SP_724,Aéroport,1
+2390917,11:28:00,11:28:10,stop_point:SP_3199,Daurat,2
+2390917,11:29:00,11:29:10,stop_point:SP_197,Dewoitine,3
+2390917,11:34:00,11:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390917,11:35:00,11:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390918,12:05:00,12:05:10,stop_point:SP_724,Aéroport,1
+2390918,12:08:00,12:08:10,stop_point:SP_3199,Daurat,2
+2390918,12:09:00,12:09:10,stop_point:SP_197,Dewoitine,3
+2390918,12:14:00,12:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390918,12:15:00,12:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390919,11:35:00,11:35:10,stop_point:SP_724,Aéroport,1
+2390919,11:38:00,11:38:10,stop_point:SP_3199,Daurat,2
+2390919,11:39:00,11:39:10,stop_point:SP_197,Dewoitine,3
+2390919,11:44:00,11:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390919,11:45:00,11:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390920,11:45:00,11:45:10,stop_point:SP_724,Aéroport,1
+2390920,11:48:00,11:48:10,stop_point:SP_3199,Daurat,2
+2390920,11:49:00,11:49:10,stop_point:SP_197,Dewoitine,3
+2390920,11:54:00,11:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390920,11:55:00,11:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390921,11:55:00,11:55:10,stop_point:SP_724,Aéroport,1
+2390921,11:58:00,11:58:10,stop_point:SP_3199,Daurat,2
+2390921,11:59:00,11:59:10,stop_point:SP_197,Dewoitine,3
+2390921,12:04:00,12:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390921,12:05:00,12:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390922,12:15:00,12:15:10,stop_point:SP_724,Aéroport,1
+2390922,12:18:00,12:18:10,stop_point:SP_3199,Daurat,2
+2390922,12:19:00,12:19:10,stop_point:SP_197,Dewoitine,3
+2390922,12:24:00,12:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390922,12:25:00,12:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390923,12:25:00,12:25:10,stop_point:SP_724,Aéroport,1
+2390923,12:28:00,12:28:10,stop_point:SP_3199,Daurat,2
+2390923,12:29:00,12:29:10,stop_point:SP_197,Dewoitine,3
+2390923,12:34:00,12:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390923,12:35:00,12:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390924,12:35:00,12:35:10,stop_point:SP_724,Aéroport,1
+2390924,12:38:00,12:38:10,stop_point:SP_3199,Daurat,2
+2390924,12:39:00,12:39:10,stop_point:SP_197,Dewoitine,3
+2390924,12:44:00,12:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390924,12:45:00,12:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390925,12:45:00,12:45:10,stop_point:SP_724,Aéroport,1
+2390925,12:48:00,12:48:10,stop_point:SP_3199,Daurat,2
+2390925,12:49:00,12:49:10,stop_point:SP_197,Dewoitine,3
+2390925,12:54:00,12:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390925,12:55:00,12:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390926,12:55:00,12:55:10,stop_point:SP_724,Aéroport,1
+2390926,12:58:00,12:58:10,stop_point:SP_3199,Daurat,2
+2390926,12:59:00,12:59:10,stop_point:SP_197,Dewoitine,3
+2390926,13:04:00,13:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390926,13:05:00,13:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390927,13:05:00,13:05:10,stop_point:SP_724,Aéroport,1
+2390927,13:08:00,13:08:10,stop_point:SP_3199,Daurat,2
+2390927,13:09:00,13:09:10,stop_point:SP_197,Dewoitine,3
+2390927,13:14:00,13:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390927,13:15:00,13:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390928,13:15:00,13:15:10,stop_point:SP_724,Aéroport,1
+2390928,13:18:00,13:18:10,stop_point:SP_3199,Daurat,2
+2390928,13:19:00,13:19:10,stop_point:SP_197,Dewoitine,3
+2390928,13:24:00,13:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390928,13:25:00,13:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390929,13:25:00,13:25:10,stop_point:SP_724,Aéroport,1
+2390929,13:28:00,13:28:10,stop_point:SP_3199,Daurat,2
+2390929,13:29:00,13:29:10,stop_point:SP_197,Dewoitine,3
+2390929,13:34:00,13:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390929,13:35:00,13:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390930,13:35:00,13:35:10,stop_point:SP_724,Aéroport,1
+2390930,13:38:00,13:38:10,stop_point:SP_3199,Daurat,2
+2390930,13:39:00,13:39:10,stop_point:SP_197,Dewoitine,3
+2390930,13:44:00,13:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390930,13:45:00,13:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390931,13:45:00,13:45:10,stop_point:SP_724,Aéroport,1
+2390931,13:48:00,13:48:10,stop_point:SP_3199,Daurat,2
+2390931,13:49:00,13:49:10,stop_point:SP_197,Dewoitine,3
+2390931,13:54:00,13:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390931,13:55:00,13:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390932,13:55:00,13:55:10,stop_point:SP_724,Aéroport,1
+2390932,13:58:00,13:58:10,stop_point:SP_3199,Daurat,2
+2390932,13:59:00,13:59:10,stop_point:SP_197,Dewoitine,3
+2390932,14:04:00,14:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390932,14:05:00,14:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390933,14:05:00,14:05:10,stop_point:SP_724,Aéroport,1
+2390933,14:08:00,14:08:10,stop_point:SP_3199,Daurat,2
+2390933,14:09:00,14:09:10,stop_point:SP_197,Dewoitine,3
+2390933,14:14:00,14:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390933,14:15:00,14:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390934,14:15:00,14:15:10,stop_point:SP_724,Aéroport,1
+2390934,14:18:00,14:18:10,stop_point:SP_3199,Daurat,2
+2390934,14:19:00,14:19:10,stop_point:SP_197,Dewoitine,3
+2390934,14:24:00,14:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390934,14:25:00,14:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390935,15:15:00,15:15:10,stop_point:SP_724,Aéroport,1
+2390935,15:18:00,15:18:10,stop_point:SP_3199,Daurat,2
+2390935,15:19:00,15:19:10,stop_point:SP_197,Dewoitine,3
+2390935,15:24:00,15:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390935,15:25:00,15:25:10,stop_point:SP_5270,Guyenne-Berry,5
+2390936,14:25:00,14:25:10,stop_point:SP_724,Aéroport,1
+2390936,14:28:00,14:28:10,stop_point:SP_3199,Daurat,2
+2390936,14:29:00,14:29:10,stop_point:SP_197,Dewoitine,3
+2390936,14:34:00,14:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390936,14:35:00,14:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390937,14:55:00,14:55:10,stop_point:SP_724,Aéroport,1
+2390937,14:58:00,14:58:10,stop_point:SP_3199,Daurat,2
+2390937,14:59:00,14:59:10,stop_point:SP_197,Dewoitine,3
+2390937,15:04:00,15:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390937,15:05:00,15:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390938,14:35:00,14:35:10,stop_point:SP_724,Aéroport,1
+2390938,14:38:00,14:38:10,stop_point:SP_3199,Daurat,2
+2390938,14:39:00,14:39:10,stop_point:SP_197,Dewoitine,3
+2390938,14:44:00,14:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390938,14:45:00,14:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390939,14:45:00,14:45:10,stop_point:SP_724,Aéroport,1
+2390939,14:48:00,14:48:10,stop_point:SP_3199,Daurat,2
+2390939,14:49:00,14:49:10,stop_point:SP_197,Dewoitine,3
+2390939,14:54:00,14:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390939,14:55:00,14:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390940,15:05:00,15:05:10,stop_point:SP_724,Aéroport,1
+2390940,15:08:00,15:08:10,stop_point:SP_3199,Daurat,2
+2390940,15:09:00,15:09:10,stop_point:SP_197,Dewoitine,3
+2390940,15:14:00,15:14:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390940,15:15:00,15:15:10,stop_point:SP_5270,Guyenne-Berry,5
+2390941,15:25:00,15:25:10,stop_point:SP_724,Aéroport,1
+2390941,15:28:00,15:28:10,stop_point:SP_3199,Daurat,2
+2390941,15:29:00,15:29:10,stop_point:SP_197,Dewoitine,3
+2390941,15:34:00,15:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390941,15:35:00,15:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390942,15:35:00,15:35:10,stop_point:SP_724,Aéroport,1
+2390942,15:38:00,15:38:10,stop_point:SP_3199,Daurat,2
+2390942,15:39:00,15:39:10,stop_point:SP_197,Dewoitine,3
+2390942,15:44:00,15:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390942,15:45:00,15:45:10,stop_point:SP_5270,Guyenne-Berry,5
+2390943,16:45:00,16:45:10,stop_point:SP_724,Aéroport,1
+2390943,16:49:00,16:49:10,stop_point:SP_3199,Daurat,2
+2390943,16:51:00,16:51:10,stop_point:SP_197,Dewoitine,3
+2390943,16:56:00,16:56:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390943,16:58:00,16:58:10,stop_point:SP_5270,Guyenne-Berry,5
+2390944,15:45:00,15:45:10,stop_point:SP_724,Aéroport,1
+2390944,15:48:00,15:48:10,stop_point:SP_3199,Daurat,2
+2390944,15:49:00,15:49:10,stop_point:SP_197,Dewoitine,3
+2390944,15:54:00,15:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390944,15:55:00,15:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390945,15:55:00,15:55:10,stop_point:SP_724,Aéroport,1
+2390945,15:58:00,15:58:10,stop_point:SP_3199,Daurat,2
+2390945,15:59:00,15:59:10,stop_point:SP_197,Dewoitine,3
+2390945,16:04:00,16:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390945,16:05:00,16:05:10,stop_point:SP_5270,Guyenne-Berry,5
+2390946,16:35:00,16:35:10,stop_point:SP_724,Aéroport,1
+2390946,16:39:00,16:39:10,stop_point:SP_3199,Daurat,2
+2390946,16:41:00,16:41:10,stop_point:SP_197,Dewoitine,3
+2390946,16:46:00,16:46:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390946,16:48:00,16:48:10,stop_point:SP_5270,Guyenne-Berry,5
+2390947,16:05:00,16:05:10,stop_point:SP_724,Aéroport,1
+2390947,16:09:00,16:09:10,stop_point:SP_3199,Daurat,2
+2390947,16:11:00,16:11:10,stop_point:SP_197,Dewoitine,3
+2390947,16:16:00,16:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390947,16:18:00,16:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2390948,16:15:00,16:15:10,stop_point:SP_724,Aéroport,1
+2390948,16:19:00,16:19:10,stop_point:SP_3199,Daurat,2
+2390948,16:21:00,16:21:10,stop_point:SP_197,Dewoitine,3
+2390948,16:26:00,16:26:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390948,16:28:00,16:28:10,stop_point:SP_5270,Guyenne-Berry,5
+2390949,16:25:00,16:25:10,stop_point:SP_724,Aéroport,1
+2390949,16:29:00,16:29:10,stop_point:SP_3199,Daurat,2
+2390949,16:31:00,16:31:10,stop_point:SP_197,Dewoitine,3
+2390949,16:36:00,16:36:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390949,16:38:00,16:38:10,stop_point:SP_5270,Guyenne-Berry,5
+2390950,16:53:00,16:53:10,stop_point:SP_724,Aéroport,1
+2390950,16:57:00,16:57:10,stop_point:SP_3199,Daurat,2
+2390950,16:59:00,16:59:10,stop_point:SP_197,Dewoitine,3
+2390950,17:04:00,17:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390950,17:06:00,17:06:10,stop_point:SP_5270,Guyenne-Berry,5
+2390951,17:01:00,17:01:10,stop_point:SP_724,Aéroport,1
+2390951,17:05:00,17:05:10,stop_point:SP_3199,Daurat,2
+2390951,17:07:00,17:07:10,stop_point:SP_197,Dewoitine,3
+2390951,17:12:00,17:12:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390951,17:14:00,17:14:10,stop_point:SP_5270,Guyenne-Berry,5
+2390952,17:09:00,17:09:10,stop_point:SP_724,Aéroport,1
+2390952,17:13:00,17:13:10,stop_point:SP_3199,Daurat,2
+2390952,17:15:00,17:15:10,stop_point:SP_197,Dewoitine,3
+2390952,17:20:00,17:20:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390952,17:22:00,17:22:10,stop_point:SP_5270,Guyenne-Berry,5
+2390953,17:17:00,17:17:10,stop_point:SP_724,Aéroport,1
+2390953,17:21:00,17:21:10,stop_point:SP_3199,Daurat,2
+2390953,17:23:00,17:23:10,stop_point:SP_197,Dewoitine,3
+2390953,17:28:00,17:28:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390953,17:30:00,17:30:10,stop_point:SP_5270,Guyenne-Berry,5
+2390954,17:25:00,17:25:10,stop_point:SP_724,Aéroport,1
+2390954,17:29:00,17:29:10,stop_point:SP_3199,Daurat,2
+2390954,17:31:00,17:31:10,stop_point:SP_197,Dewoitine,3
+2390954,17:36:00,17:36:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390954,17:38:00,17:38:10,stop_point:SP_5270,Guyenne-Berry,5
+2390955,17:57:00,17:57:10,stop_point:SP_724,Aéroport,1
+2390955,18:01:00,18:01:10,stop_point:SP_3199,Daurat,2
+2390955,18:03:00,18:03:10,stop_point:SP_197,Dewoitine,3
+2390955,18:08:00,18:08:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390955,18:10:00,18:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2390956,17:33:00,17:33:10,stop_point:SP_724,Aéroport,1
+2390956,17:37:00,17:37:10,stop_point:SP_3199,Daurat,2
+2390956,17:39:00,17:39:10,stop_point:SP_197,Dewoitine,3
+2390956,17:44:00,17:44:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390956,17:46:00,17:46:10,stop_point:SP_5270,Guyenne-Berry,5
+2390957,17:41:00,17:41:10,stop_point:SP_724,Aéroport,1
+2390957,17:45:00,17:45:10,stop_point:SP_3199,Daurat,2
+2390957,17:47:00,17:47:10,stop_point:SP_197,Dewoitine,3
+2390957,17:52:00,17:52:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390957,17:54:00,17:54:10,stop_point:SP_5270,Guyenne-Berry,5
+2390958,17:49:00,17:49:10,stop_point:SP_724,Aéroport,1
+2390958,17:53:00,17:53:10,stop_point:SP_3199,Daurat,2
+2390958,17:55:00,17:55:10,stop_point:SP_197,Dewoitine,3
+2390958,18:00:00,18:00:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390958,18:02:00,18:02:10,stop_point:SP_5270,Guyenne-Berry,5
+2390959,18:05:00,18:05:10,stop_point:SP_724,Aéroport,1
+2390959,18:09:00,18:09:10,stop_point:SP_3199,Daurat,2
+2390959,18:11:00,18:11:10,stop_point:SP_197,Dewoitine,3
+2390959,18:16:00,18:16:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390959,18:18:00,18:18:10,stop_point:SP_5270,Guyenne-Berry,5
+2390960,18:13:00,18:13:10,stop_point:SP_724,Aéroport,1
+2390960,18:17:00,18:17:10,stop_point:SP_3199,Daurat,2
+2390960,18:19:00,18:19:10,stop_point:SP_197,Dewoitine,3
+2390960,18:24:00,18:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390960,18:26:00,18:26:10,stop_point:SP_5270,Guyenne-Berry,5
+2390961,18:21:00,18:21:10,stop_point:SP_724,Aéroport,1
+2390961,18:25:00,18:25:10,stop_point:SP_3199,Daurat,2
+2390961,18:27:00,18:27:10,stop_point:SP_197,Dewoitine,3
+2390961,18:32:00,18:32:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390961,18:34:00,18:34:10,stop_point:SP_5270,Guyenne-Berry,5
+2390962,18:29:00,18:29:10,stop_point:SP_724,Aéroport,1
+2390962,18:33:00,18:33:10,stop_point:SP_3199,Daurat,2
+2390962,18:35:00,18:35:10,stop_point:SP_197,Dewoitine,3
+2390962,18:40:00,18:40:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390962,18:42:00,18:42:10,stop_point:SP_5270,Guyenne-Berry,5
+2390963,18:37:00,18:37:10,stop_point:SP_724,Aéroport,1
+2390963,18:41:00,18:41:10,stop_point:SP_3199,Daurat,2
+2390963,18:43:00,18:43:10,stop_point:SP_197,Dewoitine,3
+2390963,18:48:00,18:48:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390963,18:50:00,18:50:10,stop_point:SP_5270,Guyenne-Berry,5
+2390964,18:45:00,18:45:10,stop_point:SP_724,Aéroport,1
+2390964,18:49:00,18:49:10,stop_point:SP_3199,Daurat,2
+2390964,18:51:00,18:51:10,stop_point:SP_197,Dewoitine,3
+2390964,18:56:00,18:56:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390964,18:58:00,18:58:10,stop_point:SP_5270,Guyenne-Berry,5
+2390965,18:53:00,18:53:10,stop_point:SP_724,Aéroport,1
+2390965,18:57:00,18:57:10,stop_point:SP_3199,Daurat,2
+2390965,18:59:00,18:59:10,stop_point:SP_197,Dewoitine,3
+2390965,19:04:00,19:04:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390965,19:06:00,19:06:10,stop_point:SP_5270,Guyenne-Berry,5
+2390966,19:01:00,19:01:10,stop_point:SP_724,Aéroport,1
+2390966,19:05:00,19:05:10,stop_point:SP_3199,Daurat,2
+2390966,19:06:00,19:06:10,stop_point:SP_197,Dewoitine,3
+2390966,19:12:00,19:12:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390966,19:13:00,19:13:10,stop_point:SP_5270,Guyenne-Berry,5
+2390967,19:09:00,19:09:10,stop_point:SP_724,Aéroport,1
+2390967,19:12:00,19:12:10,stop_point:SP_3199,Daurat,2
+2390967,19:14:00,19:14:10,stop_point:SP_197,Dewoitine,3
+2390967,19:19:00,19:19:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390967,19:20:00,19:20:10,stop_point:SP_5270,Guyenne-Berry,5
+2390968,19:21:00,19:21:10,stop_point:SP_724,Aéroport,1
+2390968,19:24:00,19:24:10,stop_point:SP_3199,Daurat,2
+2390968,19:26:00,19:26:10,stop_point:SP_197,Dewoitine,3
+2390968,19:31:00,19:31:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390968,19:32:00,19:32:10,stop_point:SP_5270,Guyenne-Berry,5
+2390969,19:33:00,19:33:10,stop_point:SP_724,Aéroport,1
+2390969,19:36:00,19:36:10,stop_point:SP_3199,Daurat,2
+2390969,19:38:00,19:38:10,stop_point:SP_197,Dewoitine,3
+2390969,19:43:00,19:43:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390969,19:44:00,19:44:10,stop_point:SP_5270,Guyenne-Berry,5
+2390970,19:45:00,19:45:10,stop_point:SP_724,Aéroport,1
+2390970,19:48:00,19:48:10,stop_point:SP_3199,Daurat,2
+2390970,19:50:00,19:50:10,stop_point:SP_197,Dewoitine,3
+2390970,19:55:00,19:55:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390970,19:56:00,19:56:10,stop_point:SP_5270,Guyenne-Berry,5
+2390971,19:57:00,19:57:10,stop_point:SP_724,Aéroport,1
+2390971,20:00:00,20:00:10,stop_point:SP_3199,Daurat,2
+2390971,20:02:00,20:02:10,stop_point:SP_197,Dewoitine,3
+2390971,20:07:00,20:07:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390971,20:08:00,20:08:10,stop_point:SP_5270,Guyenne-Berry,5
+2390972,20:09:00,20:09:10,stop_point:SP_724,Aéroport,1
+2390972,20:12:00,20:12:10,stop_point:SP_3199,Daurat,2
+2390972,20:13:00,20:13:10,stop_point:SP_197,Dewoitine,3
+2390972,20:18:00,20:18:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390972,20:19:00,20:19:10,stop_point:SP_5270,Guyenne-Berry,5
+2390973,20:21:00,20:21:10,stop_point:SP_724,Aéroport,1
+2390973,20:24:00,20:24:10,stop_point:SP_3199,Daurat,2
+2390973,20:25:00,20:25:10,stop_point:SP_197,Dewoitine,3
+2390973,20:30:00,20:30:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390973,20:31:00,20:31:10,stop_point:SP_5270,Guyenne-Berry,5
+2390974,20:33:00,20:33:10,stop_point:SP_724,Aéroport,1
+2390974,20:36:00,20:36:10,stop_point:SP_3199,Daurat,2
+2390974,20:37:00,20:37:10,stop_point:SP_197,Dewoitine,3
+2390974,20:42:00,20:42:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390974,20:43:00,20:43:10,stop_point:SP_5270,Guyenne-Berry,5
+2390975,20:45:00,20:45:10,stop_point:SP_724,Aéroport,1
+2390975,20:48:00,20:48:10,stop_point:SP_3199,Daurat,2
+2390975,20:49:00,20:49:10,stop_point:SP_197,Dewoitine,3
+2390975,20:54:00,20:54:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390975,20:55:00,20:55:10,stop_point:SP_5270,Guyenne-Berry,5
+2390976,21:00:00,21:00:10,stop_point:SP_724,Aéroport,1
+2390976,21:03:00,21:03:10,stop_point:SP_3199,Daurat,2
+2390976,21:04:00,21:04:10,stop_point:SP_197,Dewoitine,3
+2390976,21:09:00,21:09:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390976,21:10:00,21:10:10,stop_point:SP_5270,Guyenne-Berry,5
+2390977,21:25:00,21:25:10,stop_point:SP_724,Aéroport,1
+2390977,21:28:00,21:28:10,stop_point:SP_3199,Daurat,2
+2390977,21:29:00,21:29:10,stop_point:SP_197,Dewoitine,3
+2390977,21:34:00,21:34:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390977,21:35:00,21:35:10,stop_point:SP_5270,Guyenne-Berry,5
+2390978,21:50:00,21:50:10,stop_point:SP_724,Aéroport,1
+2390978,21:53:00,21:53:10,stop_point:SP_3199,Daurat,2
+2390978,21:54:00,21:54:10,stop_point:SP_197,Dewoitine,3
+2390978,21:59:00,21:59:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390978,22:00:00,22:00:10,stop_point:SP_5270,Guyenne-Berry,5
+2390979,22:15:00,22:15:10,stop_point:SP_724,Aéroport,1
+2390979,22:18:00,22:18:10,stop_point:SP_3199,Daurat,2
+2390979,22:19:00,22:19:10,stop_point:SP_197,Dewoitine,3
+2390979,22:24:00,22:24:10,stop_point:SP_5266,Pasteur-Mairie de Blagnac,4
+2390979,22:25:00,22:25:10,stop_point:SP_5270,Guyenne-Berry,5

@@ -350,21 +350,128 @@ function buildItiLineLayer(records, ligneColorMap) {
 
 let currentVehicleLayer = null;
 let currentLineLayer = null;
+let currentStopsLayer = null;
 let cachedStopsByItinerary = null;
 const activeTravellers = new Map();
 let activeVehicles = [];
 let activeVehicleTravellers = [];
 
+const scheduleCache = new Map();
+let scheduleIndexPromise = null;
+
+async function getScheduleTripsForLine(lineCode) {
+  if (!lineCode) return null;
+  if (scheduleCache.has(lineCode)) return scheduleCache.get(lineCode);
+  if (!scheduleIndexPromise) {
+    scheduleIndexPromise = fetch("assets/schedules/index.json")
+      .then(r => r.json())
+      .catch(() => ({}));
+  }
+  const index = await scheduleIndexPromise;
+  const filename = index[lineCode];
+  if (!filename) return null;
+
+  try {
+    const res = await fetch(`assets/schedules/${filename}`);
+    const text = await res.text();
+    const rows = parseCsvText(text);
+    const tripsMap = new Map();
+    for (const row of rows) {
+      if (!tripsMap.has(row.trip_id)) tripsMap.set(row.trip_id, []);
+      tripsMap.get(row.trip_id).push(row);
+    }
+    const trips = [];
+    for (const [tripId, stops] of tripsMap) {
+      stops.sort((a, b) => parseInt(a.stop_sequence, 10) - parseInt(b.stop_sequence, 10));
+      trips.push(stops);
+    }
+    scheduleCache.set(lineCode, trips);
+    return trips;
+  } catch (err) {
+    console.error("Failed to load schedule CSV for line", lineCode, err);
+    return null;
+  }
+}
+
+function parseCsvText(text) {
+  const lines = text.split("\n");
+  if (lines.length < 2) return [];
+  const headers = lines[0].split(",").map(h => h.trim());
+  const result = [];
+  for (let i = 1; i < lines.length; i++) {
+    const line = lines[i].trim();
+    if (!line) continue;
+    const cols = line.split(",");
+    const obj = {};
+    for (let j = 0; j < headers.length; j++) {
+      obj[headers[j]] = cols[j] ? cols[j].trim() : "";
+    }
+    result.push(obj);
+  }
+  return result;
+}
+
+let cachedStopsJson = null;
+async function getStopsJson() {
+  if (cachedStopsJson) return cachedStopsJson;
+  try {
+    const res = await fetch("assets/schedules/stops.json");
+    cachedStopsJson = await res.json();
+  } catch (err) {
+    console.error("Failed to load stops.json:", err);
+    cachedStopsJson = {};
+  }
+  return cachedStopsJson;
+}
+
+function buildStopsLayer(map, trips, stopsMap) {
+  const layerGroup = L.layerGroup();
+  const seenStops = new Set();
+  if (!trips || !stopsMap) return layerGroup;
+
+  const stopIcon = L.divIcon({
+    className: "",
+    html: `<div style="
+      width: 10px;
+      height: 10px;
+      background: #ffcc00;
+      border: 2px solid #222;
+      border-radius: 50%;
+      box-shadow: 0 1px 3px rgba(0,0,0,0.4);
+    "></div>`,
+    iconSize: [10, 10],
+    iconAnchor: [5, 5],
+  });
+
+  for (const trip of trips) {
+    for (const s of trip) {
+      if (seenStops.has(s.stop_id)) continue;
+      seenStops.add(s.stop_id);
+
+      const stopData = stopsMap[s.stop_id];
+      if (!stopData || !stopData.latLng) continue;
+
+      const marker = L.marker(stopData.latLng, { icon: stopIcon });
+
+      const stopName = stopData.name || s.stop_name || "Arrêt";
+      marker.bindTooltip(`<strong>Arrêt ID:</strong> ${s.stop_id}<br/><strong>Nom:</strong> ${stopName}`, { direction: "top" });
+      layerGroup.addLayer(marker);
+    }
+  }
+  return layerGroup;
+}
+
 /**
  * Spawns vehicle markers (icons) whose positions are driven continuously frame-by-frame
- * via requestAnimationFrame, with hover tooltips displaying the item name from the API.
+ * via requestAnimationFrame, using official schedule CSVs and stops.json mapping.
  */
-function spawnDynamicVehicleMarkersForRecords(map, records, stopsByItinerary) {
+async function spawnDynamicVehicleMarkersForRecords(map, records, stopsByItinerary) {
   const layerGroup = L.layerGroup();
   const newActiveTravellers = new Map();
   const newActiveVehicleTravellers = [];
   const newActiveVehicles = [];
   const zoomScale = vehicleScaleForZoom(map.getZoom());
+  const stopsMap = await getStopsJson();
 
   for (let i = 0; i < records.length; i++) {
     const record = records[i];
@@ -385,17 +492,22 @@ function spawnDynamicVehicleMarkersForRecords(map, records, stopsByItinerary) {
       const key = `${record.ligne || ""}_${record.nom_iti || ""}_${i}`;
       let traveller = activeTravellers.get(key);
       if (!traveller) {
-        const stopsKey = `${record.ligne || ""}_${record.nom_iti || ""}_${record.sens ?? ""}`;
-        const stopLatLngs = (stopsByItinerary && stopsByItinerary.get(stopsKey)) || [];
-        traveller = createPathTraveller(latLngs, style.speedMps, {
-          stopLatLngs,
-          dwellSeconds: style.dwellSeconds,
-        });
+        const trips = await getScheduleTripsForLine(record.ligne);
+        if (trips && trips.length > 0 && stopsMap) {
+          traveller = createScheduleTraveller(latLngs, trips, stopsMap);
+        } else {
+          const stopsKey = `${record.ligne || ""}_${record.nom_iti || ""}_${record.sens ?? ""}`;
+          const stopLatLngs = (stopsByItinerary && stopsByItinerary.get(stopsKey)) || [];
+          traveller = createPathTraveller(latLngs, style.speedMps, {
+            stopLatLngs,
+            dwellSeconds: style.dwellSeconds,
+          });
+        }
       }
 
       newActiveTravellers.set(key, traveller);
 
-      // Get current position without discrete 5s jump
+      // Get current position
       const { latLng, heading } = traveller.advance(0);
       const vehicle = createVehicleMarker(map, mode, latLng);
       vehicle.setHeading(heading);
@@ -474,11 +586,22 @@ async function refreshNetwork(map, statusEl) {
       currentLineLayer.addTo(map);
     }
 
+    if (!currentStopsLayer) {
+      const stopsMap = await getStopsJson();
+      const sampleTrips = [];
+      for (const r of records.slice(0, 30)) {
+        const trips = await getScheduleTripsForLine(r.ligne);
+        if (trips) sampleTrips.push(...trips);
+      }
+      currentStopsLayer = buildStopsLayer(map, sampleTrips, stopsMap);
+      currentStopsLayer.addTo(map);
+    }
+
     if (currentVehicleLayer) {
       map.removeLayer(currentVehicleLayer);
     }
 
-    currentVehicleLayer = spawnDynamicVehicleMarkersForRecords(
+    currentVehicleLayer = await spawnDynamicVehicleMarkersForRecords(
       map,
       records,
       cachedStopsByItinerary

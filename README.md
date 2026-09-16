@@ -188,40 +188,13 @@ since the API has permissive CORS, but a local server is recommended.
 
 ## TODO — pistes d'évolution
 
-- **API Temps Réel Tisséo / GTFS-RT — investigated, blocked by CORS.**
-  Both real-time sources were checked directly against the live feed
-  (fetched and parsed, not just read about):
-  - `api-temps-reel-tisseo` (services `stops_schedules`, `journeys`,
-    `places`, `lines`, `rolling_stocks`, `stop_areas`, `stop_points`,
-    `messages`, `networks`) requires a key obtained by emailing
-    `opendata@tisseo.fr` — this dataset's data.toulouse-metropole.fr entry
-    is only a PDF spec, not itself queryable.
+- **API Temps Réel Tisséo (`stops_schedules`) — Main Target & Exploration Entrance:**
+  - Official dataset page: [https://data.toulouse-metropole.fr/explore/dataset/api-temps-reel-tisseo/information/](https://data.toulouse-metropole.fr/explore/dataset/api-temps-reel-tisseo/information/)
+  - Primary target for fetching real-time or close-enough arrival/departure schedules via the `stops_schedules` service.
+  - *Blocked by CORS:* `api.tisseo.fr` sends no `Access-Control-Allow-Origin` header, requiring a backend proxy or CORS resolution if integrated directly into this client-only static web page.
   - `tisseo-gtfs`'s GTFS-RT feed
     (`https://api.tisseo.fr/opendata/gtfsrt/GtfsRt.pb`, JSON mirror at
-    `GtfsRt.json`) is keyless and updates every ~5s, but as of this
-    writing contains **only `trip_update` (arrival/departure time
-    predictions per stop) and `alert` entities — zero `vehicle`
-    (`VehiclePosition`) entities**, confirmed by fetching and parsing a
-    live snapshot (1447 entities: 1384 `trip_update`, 63 `alert`, 0
-    `vehicle`). So even with a key, no real per-vehicle GPS position is
-    exposed by Tisséo today.
-  - Worse, `api.tisseo.fr` sends **no CORS headers** on either the `.pb`
-    or `.json` GTFS-RT endpoint (checked directly with `curl -I
-    -H Origin: ...`), unlike `data.toulouse-metropole.fr`'s own API
-    (`access-control-allow-origin: *`). A browser `fetch()` from this
-    client-only page is blocked from reading the response even though the
-    request itself succeeds — this is a hard wall for a backend-less
-    architecture (see "Out of scope" in `AGENTS.md`). The Toulouse portal
-    only redirects to `api.tisseo.fr` for GTFS-RT; the static GTFS ZIP
-    (`stop_times.txt`, which would give scheduled dwell times without
-    needing real-time data) is served from
-    `data.toulouse-metropole.fr/explore/...` (not `/api/explore/...`) and
-    also has no CORS headers — checked directly, also blocked.
+    `GtfsRt.json`) is keyless and updates every ~5s, but contains
+    **only `trip_update` (arrival/departure time predictions per stop) and `alert` entities — zero `vehicle` (`VehiclePosition`) entities**.
   - Net effect used in this codebase: stop **dwelling** is implemented
-    (see "Path traveller with stop dwelling" above) using real stop
-    *locations* (`arrets-itineraire`, which does have CORS), but with a
-    fixed per-mode dwell duration rather than the real per-stop
-    arrival/departure window, since the data with real timings can't be
-    fetched from the browser. Revisit if Tisséo ever adds CORS headers to
-    `api.tisseo.fr`, or if a backend/proxy becomes acceptable (would need
-    explicit sign-off — see `AGENTS.md`).
+    using real stop *locations* (`arrets-itineraire`), with a fixed per-mode dwell duration rather than the real per-stop arrival/departure window. Revisit `api-temps-reel-tisseo` (`stops_schedules`) when proxy/CORS capabilities are available.

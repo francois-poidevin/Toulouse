@@ -1,0 +1,223 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2297132,06:35:00,06:35:10,stop_point:SP_960,Balma-Gramont,1
+2297132,06:42:00,06:42:10,stop_point:SP_2382,Centre Equestre,2
+2297132,06:45:00,06:45:10,stop_point:SP_4911,Borde Haute,3
+2297132,06:46:00,06:46:10,stop_point:SP_4964,Collège Montrabé,4
+2297132,06:49:00,06:49:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297132,06:50:00,06:50:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297133,07:30:00,07:30:10,stop_point:SP_960,Balma-Gramont,1
+2297133,07:37:00,07:37:10,stop_point:SP_2382,Centre Equestre,2
+2297133,07:40:00,07:40:10,stop_point:SP_4911,Borde Haute,3
+2297133,07:41:00,07:41:10,stop_point:SP_4964,Collège Montrabé,4
+2297133,07:44:00,07:44:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297133,07:45:00,07:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297134,08:15:00,08:15:10,stop_point:SP_960,Balma-Gramont,1
+2297134,08:22:00,08:22:10,stop_point:SP_2382,Centre Equestre,2
+2297134,08:25:00,08:25:10,stop_point:SP_4911,Borde Haute,3
+2297134,08:26:00,08:26:10,stop_point:SP_4964,Collège Montrabé,4
+2297134,08:29:00,08:29:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297134,08:30:00,08:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297135,09:00:00,09:00:10,stop_point:SP_960,Balma-Gramont,1
+2297135,09:07:00,09:07:10,stop_point:SP_2382,Centre Equestre,2
+2297135,09:10:00,09:10:10,stop_point:SP_4911,Borde Haute,3
+2297135,09:11:00,09:11:10,stop_point:SP_4964,Collège Montrabé,4
+2297135,09:14:00,09:14:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297135,09:15:00,09:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297136,09:45:00,09:45:10,stop_point:SP_960,Balma-Gramont,1
+2297136,09:52:00,09:52:10,stop_point:SP_2382,Centre Equestre,2
+2297136,09:55:00,09:55:10,stop_point:SP_4911,Borde Haute,3
+2297136,09:56:00,09:56:10,stop_point:SP_4964,Collège Montrabé,4
+2297136,09:59:00,09:59:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297136,10:00:00,10:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297137,10:30:00,10:30:10,stop_point:SP_960,Balma-Gramont,1
+2297137,10:37:00,10:37:10,stop_point:SP_2382,Centre Equestre,2
+2297137,10:40:00,10:40:10,stop_point:SP_4911,Borde Haute,3
+2297137,10:41:00,10:41:10,stop_point:SP_4964,Collège Montrabé,4
+2297137,10:44:00,10:44:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297137,10:45:00,10:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297138,11:15:00,11:15:10,stop_point:SP_960,Balma-Gramont,1
+2297138,11:22:00,11:22:10,stop_point:SP_2382,Centre Equestre,2
+2297138,11:25:00,11:25:10,stop_point:SP_4911,Borde Haute,3
+2297138,11:26:00,11:26:10,stop_point:SP_4964,Collège Montrabé,4
+2297138,11:29:00,11:29:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297138,11:30:00,11:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297139,12:00:00,12:00:10,stop_point:SP_960,Balma-Gramont,1
+2297139,12:07:00,12:07:10,stop_point:SP_2382,Centre Equestre,2
+2297139,12:10:00,12:10:10,stop_point:SP_4911,Borde Haute,3
+2297139,12:11:00,12:11:10,stop_point:SP_4964,Collège Montrabé,4
+2297139,12:14:00,12:14:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297139,12:15:00,12:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297140,12:45:00,12:45:10,stop_point:SP_960,Balma-Gramont,1
+2297140,12:52:00,12:52:10,stop_point:SP_2382,Centre Equestre,2
+2297140,12:55:00,12:55:10,stop_point:SP_4911,Borde Haute,3
+2297140,12:56:00,12:56:10,stop_point:SP_4964,Collège Montrabé,4
+2297140,12:59:00,12:59:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297140,13:00:00,13:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297141,13:30:00,13:30:10,stop_point:SP_960,Balma-Gramont,1
+2297141,13:37:00,13:37:10,stop_point:SP_2382,Centre Equestre,2
+2297141,13:40:00,13:40:10,stop_point:SP_4911,Borde Haute,3
+2297141,13:41:00,13:41:10,stop_point:SP_4964,Collège Montrabé,4
+2297141,13:44:00,13:44:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297141,13:45:00,13:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297142,14:15:00,14:15:10,stop_point:SP_960,Balma-Gramont,1
+2297142,14:22:00,14:22:10,stop_point:SP_2382,Centre Equestre,2
+2297142,14:25:00,14:25:10,stop_point:SP_4911,Borde Haute,3
+2297142,14:26:00,14:26:10,stop_point:SP_4964,Collège Montrabé,4
+2297142,14:29:00,14:29:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297142,14:30:00,14:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297143,15:00:00,15:00:10,stop_point:SP_960,Balma-Gramont,1
+2297143,15:07:00,15:07:10,stop_point:SP_2382,Centre Equestre,2
+2297143,15:10:00,15:10:10,stop_point:SP_4911,Borde Haute,3
+2297143,15:11:00,15:11:10,stop_point:SP_4964,Collège Montrabé,4
+2297143,15:14:00,15:14:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297143,15:15:00,15:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297144,15:45:00,15:45:10,stop_point:SP_960,Balma-Gramont,1
+2297144,15:52:00,15:52:10,stop_point:SP_2382,Centre Equestre,2
+2297144,15:55:00,15:55:10,stop_point:SP_4911,Borde Haute,3
+2297144,15:56:00,15:56:10,stop_point:SP_4964,Collège Montrabé,4
+2297144,15:59:00,15:59:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297144,16:00:00,16:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297145,16:30:00,16:30:10,stop_point:SP_960,Balma-Gramont,1
+2297145,16:37:00,16:37:10,stop_point:SP_2382,Centre Equestre,2
+2297145,16:40:00,16:40:10,stop_point:SP_4911,Borde Haute,3
+2297145,16:41:00,16:41:10,stop_point:SP_4964,Collège Montrabé,4
+2297145,16:44:00,16:44:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297145,16:45:00,16:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297146,17:15:00,17:15:10,stop_point:SP_960,Balma-Gramont,1
+2297146,17:22:00,17:22:10,stop_point:SP_2382,Centre Equestre,2
+2297146,17:25:00,17:25:10,stop_point:SP_4911,Borde Haute,3
+2297146,17:26:00,17:26:10,stop_point:SP_4964,Collège Montrabé,4
+2297146,17:29:00,17:29:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297146,17:30:00,17:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297147,18:00:00,18:00:10,stop_point:SP_960,Balma-Gramont,1
+2297147,18:07:00,18:07:10,stop_point:SP_2382,Centre Equestre,2
+2297147,18:10:00,18:10:10,stop_point:SP_4911,Borde Haute,3
+2297147,18:11:00,18:11:10,stop_point:SP_4964,Collège Montrabé,4
+2297147,18:14:00,18:14:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297147,18:15:00,18:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297148,18:45:00,18:45:10,stop_point:SP_960,Balma-Gramont,1
+2297148,18:52:00,18:52:10,stop_point:SP_2382,Centre Equestre,2
+2297148,18:55:00,18:55:10,stop_point:SP_4911,Borde Haute,3
+2297148,18:56:00,18:56:10,stop_point:SP_4964,Collège Montrabé,4
+2297148,18:59:00,18:59:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297148,19:00:00,19:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297149,19:30:00,19:30:10,stop_point:SP_960,Balma-Gramont,1
+2297149,19:37:00,19:37:10,stop_point:SP_2382,Centre Equestre,2
+2297149,19:40:00,19:40:10,stop_point:SP_4911,Borde Haute,3
+2297149,19:41:00,19:41:10,stop_point:SP_4964,Collège Montrabé,4
+2297149,19:44:00,19:44:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297149,19:45:00,19:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297150,20:15:00,20:15:10,stop_point:SP_960,Balma-Gramont,1
+2297150,20:22:00,20:22:10,stop_point:SP_2382,Centre Equestre,2
+2297150,20:25:00,20:25:10,stop_point:SP_4911,Borde Haute,3
+2297150,20:26:00,20:26:10,stop_point:SP_4964,Collège Montrabé,4
+2297150,20:29:00,20:29:10,stop_point:SP_2672,Eglise de Mondouzil,5
+2297150,20:30:00,20:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,6
+2297151,07:00:00,07:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297151,07:02:00,07:02:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297151,07:05:00,07:05:10,stop_point:SP_4965,Collège Montrabé,3
+2297151,07:06:00,07:06:10,stop_point:SP_4912,Borde Haute,4
+2297151,07:10:00,07:10:10,stop_point:SP_2382,Centre Equestre,5
+2297151,07:18:00,07:18:10,stop_point:SP_960,Balma-Gramont,6
+2297152,07:45:00,07:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297152,07:47:00,07:47:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297152,07:51:00,07:51:10,stop_point:SP_4965,Collège Montrabé,3
+2297152,07:52:00,07:52:10,stop_point:SP_4912,Borde Haute,4
+2297152,07:57:00,07:57:10,stop_point:SP_2382,Centre Equestre,5
+2297152,08:07:00,08:07:10,stop_point:SP_960,Balma-Gramont,6
+2297153,08:30:00,08:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297153,08:32:00,08:32:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297153,08:36:00,08:36:10,stop_point:SP_4965,Collège Montrabé,3
+2297153,08:37:00,08:37:10,stop_point:SP_4912,Borde Haute,4
+2297153,08:42:00,08:42:10,stop_point:SP_2382,Centre Equestre,5
+2297153,08:52:00,08:52:10,stop_point:SP_960,Balma-Gramont,6
+2297154,09:15:00,09:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297154,09:17:00,09:17:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297154,09:21:00,09:21:10,stop_point:SP_4965,Collège Montrabé,3
+2297154,09:22:00,09:22:10,stop_point:SP_4912,Borde Haute,4
+2297154,09:27:00,09:27:10,stop_point:SP_2382,Centre Equestre,5
+2297154,09:37:00,09:37:10,stop_point:SP_960,Balma-Gramont,6
+2297155,10:00:00,10:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297155,10:02:00,10:02:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297155,10:05:00,10:05:10,stop_point:SP_4965,Collège Montrabé,3
+2297155,10:06:00,10:06:10,stop_point:SP_4912,Borde Haute,4
+2297155,10:10:00,10:10:10,stop_point:SP_2382,Centre Equestre,5
+2297155,10:18:00,10:18:10,stop_point:SP_960,Balma-Gramont,6
+2297156,10:45:00,10:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297156,10:47:00,10:47:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297156,10:50:00,10:50:10,stop_point:SP_4965,Collège Montrabé,3
+2297156,10:51:00,10:51:10,stop_point:SP_4912,Borde Haute,4
+2297156,10:55:00,10:55:10,stop_point:SP_2382,Centre Equestre,5
+2297156,11:03:00,11:03:10,stop_point:SP_960,Balma-Gramont,6
+2297157,11:30:00,11:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297157,11:32:00,11:32:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297157,11:35:00,11:35:10,stop_point:SP_4965,Collège Montrabé,3
+2297157,11:36:00,11:36:10,stop_point:SP_4912,Borde Haute,4
+2297157,11:40:00,11:40:10,stop_point:SP_2382,Centre Equestre,5
+2297157,11:48:00,11:48:10,stop_point:SP_960,Balma-Gramont,6
+2297158,12:15:00,12:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297158,12:17:00,12:17:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297158,12:20:00,12:20:10,stop_point:SP_4965,Collège Montrabé,3
+2297158,12:21:00,12:21:10,stop_point:SP_4912,Borde Haute,4
+2297158,12:25:00,12:25:10,stop_point:SP_2382,Centre Equestre,5
+2297158,12:33:00,12:33:10,stop_point:SP_960,Balma-Gramont,6
+2297159,13:00:00,13:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297159,13:02:00,13:02:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297159,13:05:00,13:05:10,stop_point:SP_4965,Collège Montrabé,3
+2297159,13:06:00,13:06:10,stop_point:SP_4912,Borde Haute,4
+2297159,13:10:00,13:10:10,stop_point:SP_2382,Centre Equestre,5
+2297159,13:18:00,13:18:10,stop_point:SP_960,Balma-Gramont,6
+2297160,13:45:00,13:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297160,13:47:00,13:47:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297160,13:50:00,13:50:10,stop_point:SP_4965,Collège Montrabé,3
+2297160,13:51:00,13:51:10,stop_point:SP_4912,Borde Haute,4
+2297160,13:55:00,13:55:10,stop_point:SP_2382,Centre Equestre,5
+2297160,14:03:00,14:03:10,stop_point:SP_960,Balma-Gramont,6
+2297161,14:30:00,14:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297161,14:32:00,14:32:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297161,14:35:00,14:35:10,stop_point:SP_4965,Collège Montrabé,3
+2297161,14:36:00,14:36:10,stop_point:SP_4912,Borde Haute,4
+2297161,14:40:00,14:40:10,stop_point:SP_2382,Centre Equestre,5
+2297161,14:48:00,14:48:10,stop_point:SP_960,Balma-Gramont,6
+2297162,15:15:00,15:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297162,15:17:00,15:17:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297162,15:20:00,15:20:10,stop_point:SP_4965,Collège Montrabé,3
+2297162,15:21:00,15:21:10,stop_point:SP_4912,Borde Haute,4
+2297162,15:25:00,15:25:10,stop_point:SP_2382,Centre Equestre,5
+2297162,15:33:00,15:33:10,stop_point:SP_960,Balma-Gramont,6
+2297163,16:00:00,16:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297163,16:02:00,16:02:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297163,16:05:00,16:05:10,stop_point:SP_4965,Collège Montrabé,3
+2297163,16:06:00,16:06:10,stop_point:SP_4912,Borde Haute,4
+2297163,16:10:00,16:10:10,stop_point:SP_2382,Centre Equestre,5
+2297163,16:18:00,16:18:10,stop_point:SP_960,Balma-Gramont,6
+2297164,16:45:00,16:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297164,16:47:00,16:47:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297164,16:50:00,16:50:10,stop_point:SP_4965,Collège Montrabé,3
+2297164,16:51:00,16:51:10,stop_point:SP_4912,Borde Haute,4
+2297164,16:55:00,16:55:10,stop_point:SP_2382,Centre Equestre,5
+2297164,17:03:00,17:03:10,stop_point:SP_960,Balma-Gramont,6
+2297165,17:30:00,17:30:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297165,17:32:00,17:32:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297165,17:35:00,17:35:10,stop_point:SP_4965,Collège Montrabé,3
+2297165,17:36:00,17:36:10,stop_point:SP_4912,Borde Haute,4
+2297165,17:40:00,17:40:10,stop_point:SP_2382,Centre Equestre,5
+2297165,17:48:00,17:48:10,stop_point:SP_960,Balma-Gramont,6
+2297166,18:15:00,18:15:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297166,18:17:00,18:17:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297166,18:20:00,18:20:10,stop_point:SP_4965,Collège Montrabé,3
+2297166,18:21:00,18:21:10,stop_point:SP_4912,Borde Haute,4
+2297166,18:25:00,18:25:10,stop_point:SP_2382,Centre Equestre,5
+2297166,18:33:00,18:33:10,stop_point:SP_960,Balma-Gramont,6
+2297167,19:00:00,19:00:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297167,19:02:00,19:02:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297167,19:05:00,19:05:10,stop_point:SP_4965,Collège Montrabé,3
+2297167,19:06:00,19:06:10,stop_point:SP_4912,Borde Haute,4
+2297167,19:10:00,19:10:10,stop_point:SP_2382,Centre Equestre,5
+2297167,19:18:00,19:18:10,stop_point:SP_960,Balma-Gramont,6
+2297168,19:45:00,19:45:10,stop_point:SP_2443,Mondouzil ZA Les Landes,1
+2297168,19:47:00,19:47:10,stop_point:SP_26,Eglise de Mondouzil,2
+2297168,19:50:00,19:50:10,stop_point:SP_4965,Collège Montrabé,3
+2297168,19:51:00,19:51:10,stop_point:SP_4912,Borde Haute,4
+2297168,19:55:00,19:55:10,stop_point:SP_2382,Centre Equestre,5
+2297168,20:03:00,20:03:10,stop_point:SP_960,Balma-Gramont,6

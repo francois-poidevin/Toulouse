@@ -1,0 +1,2823 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2291771,07:00:00,07:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291771,07:03:00,07:03:10,stop_point:SP_2070,En Sigal,2
+2291771,07:04:00,07:04:10,stop_point:SP_4731,Tucol,3
+2291771,07:05:00,07:05:10,stop_point:SP_547,Esquillette,4
+2291771,07:06:00,07:06:10,stop_point:SP_3032,Place des Marots,5
+2291771,07:07:00,07:07:10,stop_point:SP_3713,Nasque,6
+2291771,07:07:00,07:07:10,stop_point:SP_1648,Cap Sicié,7
+2291771,07:08:00,07:08:10,stop_point:SP_5076,Bordeblanque,8
+2291771,07:10:00,07:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291771,07:11:00,07:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291771,07:12:00,07:12:10,stop_point:SP_5322,Dr Charcot,11
+2291771,07:15:00,07:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291771,07:15:00,07:15:10,stop_point:SP_4728,Peyrette,13
+2291771,07:16:00,07:16:10,stop_point:SP_2053,Mûriers,14
+2291771,07:17:00,07:17:10,stop_point:SP_2526,Puymorens,15
+2291771,07:17:00,07:17:10,stop_point:SP_2568,Taure,16
+2291771,07:19:00,07:19:10,stop_point:SP_1734,Italiens,17
+2291771,07:19:00,07:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291771,07:20:00,07:20:10,stop_point:SP_3254,Château d'eau,19
+2291771,07:21:00,07:21:10,stop_point:SP_1566,Bourdies,20
+2291771,07:23:00,07:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291771,07:24:00,07:24:10,stop_point:SP_2477,Béarn,22
+2291771,07:25:00,07:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291771,07:26:00,07:26:10,stop_point:SP_3862,Fauvettes,24
+2291771,07:27:00,07:27:10,stop_point:SP_5558,Gravette,25
+2291771,07:29:00,07:29:10,stop_point:SP_5554,Sabla,26
+2291771,07:30:00,07:30:10,stop_point:SP_5574,Serins,27
+2291771,07:31:00,07:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291771,07:39:00,07:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291772,08:00:00,08:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291772,08:03:00,08:03:10,stop_point:SP_2070,En Sigal,2
+2291772,08:04:00,08:04:10,stop_point:SP_4731,Tucol,3
+2291772,08:05:00,08:05:10,stop_point:SP_547,Esquillette,4
+2291772,08:06:00,08:06:10,stop_point:SP_3032,Place des Marots,5
+2291772,08:07:00,08:07:10,stop_point:SP_3713,Nasque,6
+2291772,08:07:00,08:07:10,stop_point:SP_1648,Cap Sicié,7
+2291772,08:08:00,08:08:10,stop_point:SP_5076,Bordeblanque,8
+2291772,08:10:00,08:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291772,08:11:00,08:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291772,08:12:00,08:12:10,stop_point:SP_5322,Dr Charcot,11
+2291772,08:15:00,08:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291772,08:15:00,08:15:10,stop_point:SP_4728,Peyrette,13
+2291772,08:16:00,08:16:10,stop_point:SP_2053,Mûriers,14
+2291772,08:17:00,08:17:10,stop_point:SP_2526,Puymorens,15
+2291772,08:17:00,08:17:10,stop_point:SP_2568,Taure,16
+2291772,08:19:00,08:19:10,stop_point:SP_1734,Italiens,17
+2291772,08:19:00,08:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291772,08:20:00,08:20:10,stop_point:SP_3254,Château d'eau,19
+2291772,08:21:00,08:21:10,stop_point:SP_1566,Bourdies,20
+2291772,08:23:00,08:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291772,08:24:00,08:24:10,stop_point:SP_2477,Béarn,22
+2291772,08:25:00,08:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291772,08:26:00,08:26:10,stop_point:SP_3862,Fauvettes,24
+2291772,08:27:00,08:27:10,stop_point:SP_5558,Gravette,25
+2291772,08:29:00,08:29:10,stop_point:SP_5554,Sabla,26
+2291772,08:30:00,08:30:10,stop_point:SP_5574,Serins,27
+2291772,08:31:00,08:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291772,08:39:00,08:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291773,09:00:00,09:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291773,09:03:00,09:03:10,stop_point:SP_2070,En Sigal,2
+2291773,09:04:00,09:04:10,stop_point:SP_4731,Tucol,3
+2291773,09:05:00,09:05:10,stop_point:SP_547,Esquillette,4
+2291773,09:06:00,09:06:10,stop_point:SP_3032,Place des Marots,5
+2291773,09:07:00,09:07:10,stop_point:SP_3713,Nasque,6
+2291773,09:07:00,09:07:10,stop_point:SP_1648,Cap Sicié,7
+2291773,09:08:00,09:08:10,stop_point:SP_5076,Bordeblanque,8
+2291773,09:10:00,09:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291773,09:11:00,09:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291773,09:12:00,09:12:10,stop_point:SP_5322,Dr Charcot,11
+2291773,09:15:00,09:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291773,09:15:00,09:15:10,stop_point:SP_4728,Peyrette,13
+2291773,09:16:00,09:16:10,stop_point:SP_2053,Mûriers,14
+2291773,09:17:00,09:17:10,stop_point:SP_2526,Puymorens,15
+2291773,09:17:00,09:17:10,stop_point:SP_2568,Taure,16
+2291773,09:19:00,09:19:10,stop_point:SP_1734,Italiens,17
+2291773,09:19:00,09:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291773,09:20:00,09:20:10,stop_point:SP_3254,Château d'eau,19
+2291773,09:21:00,09:21:10,stop_point:SP_1566,Bourdies,20
+2291773,09:23:00,09:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291773,09:24:00,09:24:10,stop_point:SP_2477,Béarn,22
+2291773,09:25:00,09:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291773,09:26:00,09:26:10,stop_point:SP_3862,Fauvettes,24
+2291773,09:27:00,09:27:10,stop_point:SP_5558,Gravette,25
+2291773,09:29:00,09:29:10,stop_point:SP_5554,Sabla,26
+2291773,09:30:00,09:30:10,stop_point:SP_5574,Serins,27
+2291773,09:31:00,09:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291773,09:39:00,09:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291774,10:00:00,10:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291774,10:03:00,10:03:10,stop_point:SP_2070,En Sigal,2
+2291774,10:04:00,10:04:10,stop_point:SP_4731,Tucol,3
+2291774,10:05:00,10:05:10,stop_point:SP_547,Esquillette,4
+2291774,10:06:00,10:06:10,stop_point:SP_3032,Place des Marots,5
+2291774,10:07:00,10:07:10,stop_point:SP_3713,Nasque,6
+2291774,10:07:00,10:07:10,stop_point:SP_1648,Cap Sicié,7
+2291774,10:08:00,10:08:10,stop_point:SP_5076,Bordeblanque,8
+2291774,10:10:00,10:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291774,10:11:00,10:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291774,10:12:00,10:12:10,stop_point:SP_5322,Dr Charcot,11
+2291774,10:15:00,10:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291774,10:15:00,10:15:10,stop_point:SP_4728,Peyrette,13
+2291774,10:16:00,10:16:10,stop_point:SP_2053,Mûriers,14
+2291774,10:17:00,10:17:10,stop_point:SP_2526,Puymorens,15
+2291774,10:17:00,10:17:10,stop_point:SP_2568,Taure,16
+2291774,10:19:00,10:19:10,stop_point:SP_1734,Italiens,17
+2291774,10:19:00,10:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291774,10:20:00,10:20:10,stop_point:SP_3254,Château d'eau,19
+2291774,10:21:00,10:21:10,stop_point:SP_1566,Bourdies,20
+2291774,10:23:00,10:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291774,10:24:00,10:24:10,stop_point:SP_2477,Béarn,22
+2291774,10:25:00,10:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291774,10:26:00,10:26:10,stop_point:SP_3862,Fauvettes,24
+2291774,10:27:00,10:27:10,stop_point:SP_5558,Gravette,25
+2291774,10:29:00,10:29:10,stop_point:SP_5554,Sabla,26
+2291774,10:30:00,10:30:10,stop_point:SP_5574,Serins,27
+2291774,10:31:00,10:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291774,10:39:00,10:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291775,11:00:00,11:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291775,11:03:00,11:03:10,stop_point:SP_2070,En Sigal,2
+2291775,11:04:00,11:04:10,stop_point:SP_4731,Tucol,3
+2291775,11:05:00,11:05:10,stop_point:SP_547,Esquillette,4
+2291775,11:06:00,11:06:10,stop_point:SP_3032,Place des Marots,5
+2291775,11:07:00,11:07:10,stop_point:SP_3713,Nasque,6
+2291775,11:07:00,11:07:10,stop_point:SP_1648,Cap Sicié,7
+2291775,11:08:00,11:08:10,stop_point:SP_5076,Bordeblanque,8
+2291775,11:10:00,11:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291775,11:11:00,11:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291775,11:12:00,11:12:10,stop_point:SP_5322,Dr Charcot,11
+2291775,11:15:00,11:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291775,11:15:00,11:15:10,stop_point:SP_4728,Peyrette,13
+2291775,11:16:00,11:16:10,stop_point:SP_2053,Mûriers,14
+2291775,11:17:00,11:17:10,stop_point:SP_2526,Puymorens,15
+2291775,11:17:00,11:17:10,stop_point:SP_2568,Taure,16
+2291775,11:19:00,11:19:10,stop_point:SP_1734,Italiens,17
+2291775,11:19:00,11:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291775,11:20:00,11:20:10,stop_point:SP_3254,Château d'eau,19
+2291775,11:21:00,11:21:10,stop_point:SP_1566,Bourdies,20
+2291775,11:23:00,11:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291775,11:24:00,11:24:10,stop_point:SP_2477,Béarn,22
+2291775,11:25:00,11:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291775,11:26:00,11:26:10,stop_point:SP_3862,Fauvettes,24
+2291775,11:27:00,11:27:10,stop_point:SP_5558,Gravette,25
+2291775,11:29:00,11:29:10,stop_point:SP_5554,Sabla,26
+2291775,11:30:00,11:30:10,stop_point:SP_5574,Serins,27
+2291775,11:31:00,11:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291775,11:39:00,11:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291776,11:55:00,11:55:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291776,11:58:00,11:58:10,stop_point:SP_2070,En Sigal,2
+2291776,11:59:00,11:59:10,stop_point:SP_4731,Tucol,3
+2291776,12:00:00,12:00:10,stop_point:SP_547,Esquillette,4
+2291776,12:01:00,12:01:10,stop_point:SP_3032,Place des Marots,5
+2291776,12:02:00,12:02:10,stop_point:SP_3713,Nasque,6
+2291776,12:02:00,12:02:10,stop_point:SP_1648,Cap Sicié,7
+2291776,12:03:00,12:03:10,stop_point:SP_5076,Bordeblanque,8
+2291776,12:05:00,12:05:10,stop_point:SP_3857,Giratoire Pluton,9
+2291776,12:06:00,12:06:10,stop_point:SP_2809,Centre de tri postal,10
+2291776,12:07:00,12:07:10,stop_point:SP_5322,Dr Charcot,11
+2291776,12:10:00,12:10:10,stop_point:SP_3533,A. Perdiguier,12
+2291776,12:10:00,12:10:10,stop_point:SP_4728,Peyrette,13
+2291776,12:11:00,12:11:10,stop_point:SP_2053,Mûriers,14
+2291776,12:12:00,12:12:10,stop_point:SP_2526,Puymorens,15
+2291776,12:12:00,12:12:10,stop_point:SP_2568,Taure,16
+2291776,12:14:00,12:14:10,stop_point:SP_1734,Italiens,17
+2291776,12:14:00,12:14:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291776,12:15:00,12:15:10,stop_point:SP_3254,Château d'eau,19
+2291776,12:16:00,12:16:10,stop_point:SP_1566,Bourdies,20
+2291776,12:18:00,12:18:10,stop_point:SP_1671,11 Novembre 1918,21
+2291776,12:19:00,12:19:10,stop_point:SP_2477,Béarn,22
+2291776,12:20:00,12:20:10,stop_point:SP_1769,Plaisance Monestié,23
+2291776,12:21:00,12:21:10,stop_point:SP_3862,Fauvettes,24
+2291776,12:22:00,12:22:10,stop_point:SP_5558,Gravette,25
+2291776,12:24:00,12:24:10,stop_point:SP_5554,Sabla,26
+2291776,12:25:00,12:25:10,stop_point:SP_5574,Serins,27
+2291776,12:26:00,12:26:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291776,12:34:00,12:34:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291777,12:45:00,12:45:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291777,12:48:00,12:48:10,stop_point:SP_2070,En Sigal,2
+2291777,12:49:00,12:49:10,stop_point:SP_4731,Tucol,3
+2291777,12:50:00,12:50:10,stop_point:SP_547,Esquillette,4
+2291777,12:51:00,12:51:10,stop_point:SP_3032,Place des Marots,5
+2291777,12:52:00,12:52:10,stop_point:SP_3713,Nasque,6
+2291777,12:52:00,12:52:10,stop_point:SP_1648,Cap Sicié,7
+2291777,12:53:00,12:53:10,stop_point:SP_5076,Bordeblanque,8
+2291777,12:55:00,12:55:10,stop_point:SP_3857,Giratoire Pluton,9
+2291777,12:56:00,12:56:10,stop_point:SP_2809,Centre de tri postal,10
+2291777,12:57:00,12:57:10,stop_point:SP_5322,Dr Charcot,11
+2291777,13:00:00,13:00:10,stop_point:SP_3533,A. Perdiguier,12
+2291777,13:00:00,13:00:10,stop_point:SP_4728,Peyrette,13
+2291777,13:01:00,13:01:10,stop_point:SP_2053,Mûriers,14
+2291777,13:02:00,13:02:10,stop_point:SP_2526,Puymorens,15
+2291777,13:02:00,13:02:10,stop_point:SP_2568,Taure,16
+2291777,13:04:00,13:04:10,stop_point:SP_1734,Italiens,17
+2291777,13:04:00,13:04:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291777,13:05:00,13:05:10,stop_point:SP_3254,Château d'eau,19
+2291777,13:06:00,13:06:10,stop_point:SP_1566,Bourdies,20
+2291777,13:08:00,13:08:10,stop_point:SP_1671,11 Novembre 1918,21
+2291777,13:09:00,13:09:10,stop_point:SP_2477,Béarn,22
+2291777,13:10:00,13:10:10,stop_point:SP_1769,Plaisance Monestié,23
+2291777,13:11:00,13:11:10,stop_point:SP_3862,Fauvettes,24
+2291777,13:12:00,13:12:10,stop_point:SP_5558,Gravette,25
+2291777,13:14:00,13:14:10,stop_point:SP_5554,Sabla,26
+2291777,13:15:00,13:15:10,stop_point:SP_5574,Serins,27
+2291777,13:16:00,13:16:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291777,13:24:00,13:24:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291778,13:25:00,13:25:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291778,13:28:00,13:28:10,stop_point:SP_2070,En Sigal,2
+2291778,13:29:00,13:29:10,stop_point:SP_4731,Tucol,3
+2291778,13:30:00,13:30:10,stop_point:SP_547,Esquillette,4
+2291778,13:31:00,13:31:10,stop_point:SP_3032,Place des Marots,5
+2291778,13:32:00,13:32:10,stop_point:SP_3713,Nasque,6
+2291778,13:32:00,13:32:10,stop_point:SP_1648,Cap Sicié,7
+2291778,13:33:00,13:33:10,stop_point:SP_5076,Bordeblanque,8
+2291778,13:35:00,13:35:10,stop_point:SP_3857,Giratoire Pluton,9
+2291778,13:36:00,13:36:10,stop_point:SP_2809,Centre de tri postal,10
+2291778,13:37:00,13:37:10,stop_point:SP_5322,Dr Charcot,11
+2291778,13:40:00,13:40:10,stop_point:SP_3533,A. Perdiguier,12
+2291778,13:40:00,13:40:10,stop_point:SP_4728,Peyrette,13
+2291778,13:41:00,13:41:10,stop_point:SP_2053,Mûriers,14
+2291778,13:42:00,13:42:10,stop_point:SP_2526,Puymorens,15
+2291778,13:42:00,13:42:10,stop_point:SP_2568,Taure,16
+2291778,13:44:00,13:44:10,stop_point:SP_1734,Italiens,17
+2291778,13:44:00,13:44:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291778,13:45:00,13:45:10,stop_point:SP_3254,Château d'eau,19
+2291778,13:46:00,13:46:10,stop_point:SP_1566,Bourdies,20
+2291778,13:48:00,13:48:10,stop_point:SP_1671,11 Novembre 1918,21
+2291778,13:49:00,13:49:10,stop_point:SP_2477,Béarn,22
+2291778,13:50:00,13:50:10,stop_point:SP_1769,Plaisance Monestié,23
+2291778,13:51:00,13:51:10,stop_point:SP_3862,Fauvettes,24
+2291778,13:52:00,13:52:10,stop_point:SP_5558,Gravette,25
+2291778,13:54:00,13:54:10,stop_point:SP_5554,Sabla,26
+2291778,13:55:00,13:55:10,stop_point:SP_5574,Serins,27
+2291778,13:56:00,13:56:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291778,14:04:00,14:04:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291779,14:15:00,14:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291779,14:18:00,14:18:10,stop_point:SP_2070,En Sigal,2
+2291779,14:19:00,14:19:10,stop_point:SP_4731,Tucol,3
+2291779,14:20:00,14:20:10,stop_point:SP_547,Esquillette,4
+2291779,14:21:00,14:21:10,stop_point:SP_3032,Place des Marots,5
+2291779,14:22:00,14:22:10,stop_point:SP_3713,Nasque,6
+2291779,14:22:00,14:22:10,stop_point:SP_1648,Cap Sicié,7
+2291779,14:23:00,14:23:10,stop_point:SP_5076,Bordeblanque,8
+2291779,14:25:00,14:25:10,stop_point:SP_3857,Giratoire Pluton,9
+2291779,14:26:00,14:26:10,stop_point:SP_2809,Centre de tri postal,10
+2291779,14:27:00,14:27:10,stop_point:SP_5322,Dr Charcot,11
+2291779,14:30:00,14:30:10,stop_point:SP_3533,A. Perdiguier,12
+2291779,14:30:00,14:30:10,stop_point:SP_4728,Peyrette,13
+2291779,14:31:00,14:31:10,stop_point:SP_2053,Mûriers,14
+2291779,14:32:00,14:32:10,stop_point:SP_2526,Puymorens,15
+2291779,14:32:00,14:32:10,stop_point:SP_2568,Taure,16
+2291779,14:34:00,14:34:10,stop_point:SP_1734,Italiens,17
+2291779,14:34:00,14:34:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291779,14:35:00,14:35:10,stop_point:SP_3254,Château d'eau,19
+2291779,14:36:00,14:36:10,stop_point:SP_1566,Bourdies,20
+2291779,14:38:00,14:38:10,stop_point:SP_1671,11 Novembre 1918,21
+2291779,14:39:00,14:39:10,stop_point:SP_2477,Béarn,22
+2291779,14:40:00,14:40:10,stop_point:SP_1769,Plaisance Monestié,23
+2291779,14:41:00,14:41:10,stop_point:SP_3862,Fauvettes,24
+2291779,14:42:00,14:42:10,stop_point:SP_5558,Gravette,25
+2291779,14:44:00,14:44:10,stop_point:SP_5554,Sabla,26
+2291779,14:45:00,14:45:10,stop_point:SP_5574,Serins,27
+2291779,14:46:00,14:46:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291779,14:54:00,14:54:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291780,15:00:00,15:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291780,15:03:00,15:03:10,stop_point:SP_2070,En Sigal,2
+2291780,15:04:00,15:04:10,stop_point:SP_4731,Tucol,3
+2291780,15:05:00,15:05:10,stop_point:SP_547,Esquillette,4
+2291780,15:06:00,15:06:10,stop_point:SP_3032,Place des Marots,5
+2291780,15:07:00,15:07:10,stop_point:SP_3713,Nasque,6
+2291780,15:07:00,15:07:10,stop_point:SP_1648,Cap Sicié,7
+2291780,15:08:00,15:08:10,stop_point:SP_5076,Bordeblanque,8
+2291780,15:10:00,15:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291780,15:11:00,15:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291780,15:12:00,15:12:10,stop_point:SP_5322,Dr Charcot,11
+2291780,15:15:00,15:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291780,15:15:00,15:15:10,stop_point:SP_4728,Peyrette,13
+2291780,15:16:00,15:16:10,stop_point:SP_2053,Mûriers,14
+2291780,15:17:00,15:17:10,stop_point:SP_2526,Puymorens,15
+2291780,15:17:00,15:17:10,stop_point:SP_2568,Taure,16
+2291780,15:19:00,15:19:10,stop_point:SP_1734,Italiens,17
+2291780,15:19:00,15:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291780,15:20:00,15:20:10,stop_point:SP_3254,Château d'eau,19
+2291780,15:21:00,15:21:10,stop_point:SP_1566,Bourdies,20
+2291780,15:23:00,15:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291780,15:24:00,15:24:10,stop_point:SP_2477,Béarn,22
+2291780,15:25:00,15:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291780,15:26:00,15:26:10,stop_point:SP_3862,Fauvettes,24
+2291780,15:27:00,15:27:10,stop_point:SP_5558,Gravette,25
+2291780,15:29:00,15:29:10,stop_point:SP_5554,Sabla,26
+2291780,15:30:00,15:30:10,stop_point:SP_5574,Serins,27
+2291780,15:31:00,15:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291780,15:39:00,15:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291781,15:45:00,15:45:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291781,15:48:00,15:48:10,stop_point:SP_2070,En Sigal,2
+2291781,15:49:00,15:49:10,stop_point:SP_4731,Tucol,3
+2291781,15:50:00,15:50:10,stop_point:SP_547,Esquillette,4
+2291781,15:51:00,15:51:10,stop_point:SP_3032,Place des Marots,5
+2291781,15:52:00,15:52:10,stop_point:SP_3713,Nasque,6
+2291781,15:52:00,15:52:10,stop_point:SP_1648,Cap Sicié,7
+2291781,15:53:00,15:53:10,stop_point:SP_5076,Bordeblanque,8
+2291781,15:55:00,15:55:10,stop_point:SP_3857,Giratoire Pluton,9
+2291781,15:56:00,15:56:10,stop_point:SP_2809,Centre de tri postal,10
+2291781,15:57:00,15:57:10,stop_point:SP_5322,Dr Charcot,11
+2291781,16:00:00,16:00:10,stop_point:SP_3533,A. Perdiguier,12
+2291781,16:00:00,16:00:10,stop_point:SP_4728,Peyrette,13
+2291781,16:01:00,16:01:10,stop_point:SP_2053,Mûriers,14
+2291781,16:02:00,16:02:10,stop_point:SP_2526,Puymorens,15
+2291781,16:02:00,16:02:10,stop_point:SP_2568,Taure,16
+2291781,16:04:00,16:04:10,stop_point:SP_1734,Italiens,17
+2291781,16:04:00,16:04:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291781,16:05:00,16:05:10,stop_point:SP_3254,Château d'eau,19
+2291781,16:06:00,16:06:10,stop_point:SP_1566,Bourdies,20
+2291781,16:08:00,16:08:10,stop_point:SP_1671,11 Novembre 1918,21
+2291781,16:09:00,16:09:10,stop_point:SP_2477,Béarn,22
+2291781,16:10:00,16:10:10,stop_point:SP_1769,Plaisance Monestié,23
+2291781,16:11:00,16:11:10,stop_point:SP_3862,Fauvettes,24
+2291781,16:12:00,16:12:10,stop_point:SP_5558,Gravette,25
+2291781,16:14:00,16:14:10,stop_point:SP_5554,Sabla,26
+2291781,16:15:00,16:15:10,stop_point:SP_5574,Serins,27
+2291781,16:16:00,16:16:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291781,16:24:00,16:24:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291782,16:40:00,16:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291782,16:43:00,16:43:10,stop_point:SP_2070,En Sigal,2
+2291782,16:44:00,16:44:10,stop_point:SP_4731,Tucol,3
+2291782,16:45:00,16:45:10,stop_point:SP_547,Esquillette,4
+2291782,16:46:00,16:46:10,stop_point:SP_3032,Place des Marots,5
+2291782,16:47:00,16:47:10,stop_point:SP_3713,Nasque,6
+2291782,16:47:00,16:47:10,stop_point:SP_1648,Cap Sicié,7
+2291782,16:48:00,16:48:10,stop_point:SP_5076,Bordeblanque,8
+2291782,16:50:00,16:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2291782,16:51:00,16:51:10,stop_point:SP_2809,Centre de tri postal,10
+2291782,16:52:00,16:52:10,stop_point:SP_5322,Dr Charcot,11
+2291782,16:55:00,16:55:10,stop_point:SP_3533,A. Perdiguier,12
+2291782,16:55:00,16:55:10,stop_point:SP_4728,Peyrette,13
+2291782,16:56:00,16:56:10,stop_point:SP_2053,Mûriers,14
+2291782,16:57:00,16:57:10,stop_point:SP_2526,Puymorens,15
+2291782,16:57:00,16:57:10,stop_point:SP_2568,Taure,16
+2291782,16:59:00,16:59:10,stop_point:SP_1734,Italiens,17
+2291782,16:59:00,16:59:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291782,17:00:00,17:00:10,stop_point:SP_3254,Château d'eau,19
+2291782,17:01:00,17:01:10,stop_point:SP_1566,Bourdies,20
+2291782,17:03:00,17:03:10,stop_point:SP_1671,11 Novembre 1918,21
+2291782,17:04:00,17:04:10,stop_point:SP_2477,Béarn,22
+2291782,17:05:00,17:05:10,stop_point:SP_1769,Plaisance Monestié,23
+2291782,17:06:00,17:06:10,stop_point:SP_3862,Fauvettes,24
+2291782,17:07:00,17:07:10,stop_point:SP_5558,Gravette,25
+2291782,17:09:00,17:09:10,stop_point:SP_5554,Sabla,26
+2291782,17:10:00,17:10:10,stop_point:SP_5574,Serins,27
+2291782,17:11:00,17:11:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291782,17:19:00,17:19:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291783,17:15:00,17:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291783,17:18:00,17:18:10,stop_point:SP_2070,En Sigal,2
+2291783,17:19:00,17:19:10,stop_point:SP_4731,Tucol,3
+2291783,17:20:00,17:20:10,stop_point:SP_547,Esquillette,4
+2291783,17:21:00,17:21:10,stop_point:SP_3032,Place des Marots,5
+2291783,17:22:00,17:22:10,stop_point:SP_3713,Nasque,6
+2291783,17:22:00,17:22:10,stop_point:SP_1648,Cap Sicié,7
+2291783,17:23:00,17:23:10,stop_point:SP_5076,Bordeblanque,8
+2291783,17:25:00,17:25:10,stop_point:SP_3857,Giratoire Pluton,9
+2291783,17:26:00,17:26:10,stop_point:SP_2809,Centre de tri postal,10
+2291783,17:27:00,17:27:10,stop_point:SP_5322,Dr Charcot,11
+2291783,17:30:00,17:30:10,stop_point:SP_3533,A. Perdiguier,12
+2291783,17:30:00,17:30:10,stop_point:SP_4728,Peyrette,13
+2291783,17:31:00,17:31:10,stop_point:SP_2053,Mûriers,14
+2291783,17:32:00,17:32:10,stop_point:SP_2526,Puymorens,15
+2291783,17:32:00,17:32:10,stop_point:SP_2568,Taure,16
+2291783,17:34:00,17:34:10,stop_point:SP_1734,Italiens,17
+2291783,17:34:00,17:34:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291783,17:35:00,17:35:10,stop_point:SP_3254,Château d'eau,19
+2291783,17:36:00,17:36:10,stop_point:SP_1566,Bourdies,20
+2291783,17:38:00,17:38:10,stop_point:SP_1671,11 Novembre 1918,21
+2291783,17:39:00,17:39:10,stop_point:SP_2477,Béarn,22
+2291783,17:40:00,17:40:10,stop_point:SP_1769,Plaisance Monestié,23
+2291783,17:41:00,17:41:10,stop_point:SP_3862,Fauvettes,24
+2291783,17:42:00,17:42:10,stop_point:SP_5558,Gravette,25
+2291783,17:44:00,17:44:10,stop_point:SP_5554,Sabla,26
+2291783,17:45:00,17:45:10,stop_point:SP_5574,Serins,27
+2291783,17:46:00,17:46:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291783,17:54:00,17:54:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291784,18:00:00,18:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291784,18:03:00,18:03:10,stop_point:SP_2070,En Sigal,2
+2291784,18:04:00,18:04:10,stop_point:SP_4731,Tucol,3
+2291784,18:05:00,18:05:10,stop_point:SP_547,Esquillette,4
+2291784,18:06:00,18:06:10,stop_point:SP_3032,Place des Marots,5
+2291784,18:07:00,18:07:10,stop_point:SP_3713,Nasque,6
+2291784,18:07:00,18:07:10,stop_point:SP_1648,Cap Sicié,7
+2291784,18:08:00,18:08:10,stop_point:SP_5076,Bordeblanque,8
+2291784,18:10:00,18:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291784,18:11:00,18:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291784,18:12:00,18:12:10,stop_point:SP_5322,Dr Charcot,11
+2291784,18:15:00,18:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291784,18:15:00,18:15:10,stop_point:SP_4728,Peyrette,13
+2291784,18:16:00,18:16:10,stop_point:SP_2053,Mûriers,14
+2291784,18:17:00,18:17:10,stop_point:SP_2526,Puymorens,15
+2291784,18:17:00,18:17:10,stop_point:SP_2568,Taure,16
+2291784,18:19:00,18:19:10,stop_point:SP_1734,Italiens,17
+2291784,18:19:00,18:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291784,18:20:00,18:20:10,stop_point:SP_3254,Château d'eau,19
+2291784,18:21:00,18:21:10,stop_point:SP_1566,Bourdies,20
+2291784,18:23:00,18:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291784,18:24:00,18:24:10,stop_point:SP_2477,Béarn,22
+2291784,18:25:00,18:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291784,18:26:00,18:26:10,stop_point:SP_3862,Fauvettes,24
+2291784,18:27:00,18:27:10,stop_point:SP_5558,Gravette,25
+2291784,18:29:00,18:29:10,stop_point:SP_5554,Sabla,26
+2291784,18:30:00,18:30:10,stop_point:SP_5574,Serins,27
+2291784,18:31:00,18:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291784,18:39:00,18:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291785,18:45:00,18:45:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291785,18:48:00,18:48:10,stop_point:SP_2070,En Sigal,2
+2291785,18:49:00,18:49:10,stop_point:SP_4731,Tucol,3
+2291785,18:50:00,18:50:10,stop_point:SP_547,Esquillette,4
+2291785,18:51:00,18:51:10,stop_point:SP_3032,Place des Marots,5
+2291785,18:52:00,18:52:10,stop_point:SP_3713,Nasque,6
+2291785,18:52:00,18:52:10,stop_point:SP_1648,Cap Sicié,7
+2291785,18:53:00,18:53:10,stop_point:SP_5076,Bordeblanque,8
+2291785,18:55:00,18:55:10,stop_point:SP_3857,Giratoire Pluton,9
+2291785,18:56:00,18:56:10,stop_point:SP_2809,Centre de tri postal,10
+2291785,18:57:00,18:57:10,stop_point:SP_5322,Dr Charcot,11
+2291785,19:00:00,19:00:10,stop_point:SP_3533,A. Perdiguier,12
+2291785,19:00:00,19:00:10,stop_point:SP_4728,Peyrette,13
+2291785,19:01:00,19:01:10,stop_point:SP_2053,Mûriers,14
+2291785,19:02:00,19:02:10,stop_point:SP_2526,Puymorens,15
+2291785,19:02:00,19:02:10,stop_point:SP_2568,Taure,16
+2291785,19:04:00,19:04:10,stop_point:SP_1734,Italiens,17
+2291785,19:04:00,19:04:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291785,19:05:00,19:05:10,stop_point:SP_3254,Château d'eau,19
+2291785,19:06:00,19:06:10,stop_point:SP_1566,Bourdies,20
+2291785,19:08:00,19:08:10,stop_point:SP_1671,11 Novembre 1918,21
+2291785,19:09:00,19:09:10,stop_point:SP_2477,Béarn,22
+2291785,19:10:00,19:10:10,stop_point:SP_1769,Plaisance Monestié,23
+2291785,19:11:00,19:11:10,stop_point:SP_3862,Fauvettes,24
+2291785,19:12:00,19:12:10,stop_point:SP_5558,Gravette,25
+2291785,19:14:00,19:14:10,stop_point:SP_5554,Sabla,26
+2291785,19:15:00,19:15:10,stop_point:SP_5574,Serins,27
+2291785,19:16:00,19:16:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291785,19:24:00,19:24:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291786,19:40:00,19:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291786,19:43:00,19:43:10,stop_point:SP_2070,En Sigal,2
+2291786,19:44:00,19:44:10,stop_point:SP_4731,Tucol,3
+2291786,19:45:00,19:45:10,stop_point:SP_547,Esquillette,4
+2291786,19:46:00,19:46:10,stop_point:SP_3032,Place des Marots,5
+2291786,19:47:00,19:47:10,stop_point:SP_3713,Nasque,6
+2291786,19:47:00,19:47:10,stop_point:SP_1648,Cap Sicié,7
+2291786,19:48:00,19:48:10,stop_point:SP_5076,Bordeblanque,8
+2291786,19:50:00,19:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2291786,19:51:00,19:51:10,stop_point:SP_2809,Centre de tri postal,10
+2291786,19:52:00,19:52:10,stop_point:SP_5322,Dr Charcot,11
+2291786,19:55:00,19:55:10,stop_point:SP_3533,A. Perdiguier,12
+2291786,19:55:00,19:55:10,stop_point:SP_4728,Peyrette,13
+2291786,19:56:00,19:56:10,stop_point:SP_2053,Mûriers,14
+2291786,19:57:00,19:57:10,stop_point:SP_2526,Puymorens,15
+2291786,19:57:00,19:57:10,stop_point:SP_2568,Taure,16
+2291786,19:59:00,19:59:10,stop_point:SP_1734,Italiens,17
+2291786,19:59:00,19:59:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291786,20:00:00,20:00:10,stop_point:SP_3254,Château d'eau,19
+2291786,20:01:00,20:01:10,stop_point:SP_1566,Bourdies,20
+2291786,20:03:00,20:03:10,stop_point:SP_1671,11 Novembre 1918,21
+2291786,20:04:00,20:04:10,stop_point:SP_2477,Béarn,22
+2291786,20:05:00,20:05:10,stop_point:SP_1769,Plaisance Monestié,23
+2291786,20:06:00,20:06:10,stop_point:SP_3862,Fauvettes,24
+2291786,20:07:00,20:07:10,stop_point:SP_5558,Gravette,25
+2291786,20:09:00,20:09:10,stop_point:SP_5554,Sabla,26
+2291786,20:10:00,20:10:10,stop_point:SP_5574,Serins,27
+2291786,20:11:00,20:11:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291786,20:19:00,20:19:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291787,20:15:00,20:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291787,20:18:00,20:18:10,stop_point:SP_2070,En Sigal,2
+2291787,20:19:00,20:19:10,stop_point:SP_4731,Tucol,3
+2291787,20:20:00,20:20:10,stop_point:SP_547,Esquillette,4
+2291787,20:21:00,20:21:10,stop_point:SP_3032,Place des Marots,5
+2291787,20:22:00,20:22:10,stop_point:SP_3713,Nasque,6
+2291787,20:22:00,20:22:10,stop_point:SP_1648,Cap Sicié,7
+2291787,20:23:00,20:23:10,stop_point:SP_5076,Bordeblanque,8
+2291787,20:25:00,20:25:10,stop_point:SP_3857,Giratoire Pluton,9
+2291787,20:26:00,20:26:10,stop_point:SP_2809,Centre de tri postal,10
+2291787,20:27:00,20:27:10,stop_point:SP_5322,Dr Charcot,11
+2291787,20:30:00,20:30:10,stop_point:SP_3533,A. Perdiguier,12
+2291787,20:30:00,20:30:10,stop_point:SP_4728,Peyrette,13
+2291787,20:31:00,20:31:10,stop_point:SP_2053,Mûriers,14
+2291787,20:32:00,20:32:10,stop_point:SP_2526,Puymorens,15
+2291787,20:32:00,20:32:10,stop_point:SP_2568,Taure,16
+2291787,20:34:00,20:34:10,stop_point:SP_1734,Italiens,17
+2291787,20:34:00,20:34:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291787,20:35:00,20:35:10,stop_point:SP_3254,Château d'eau,19
+2291787,20:36:00,20:36:10,stop_point:SP_1566,Bourdies,20
+2291787,20:38:00,20:38:10,stop_point:SP_1671,11 Novembre 1918,21
+2291787,20:39:00,20:39:10,stop_point:SP_2477,Béarn,22
+2291787,20:40:00,20:40:10,stop_point:SP_1769,Plaisance Monestié,23
+2291787,20:41:00,20:41:10,stop_point:SP_3862,Fauvettes,24
+2291787,20:42:00,20:42:10,stop_point:SP_5558,Gravette,25
+2291787,20:44:00,20:44:10,stop_point:SP_5554,Sabla,26
+2291787,20:45:00,20:45:10,stop_point:SP_5574,Serins,27
+2291787,20:46:00,20:46:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291787,20:54:00,20:54:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291788,21:00:00,21:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2291788,21:03:00,21:03:10,stop_point:SP_2070,En Sigal,2
+2291788,21:04:00,21:04:10,stop_point:SP_4731,Tucol,3
+2291788,21:05:00,21:05:10,stop_point:SP_547,Esquillette,4
+2291788,21:06:00,21:06:10,stop_point:SP_3032,Place des Marots,5
+2291788,21:07:00,21:07:10,stop_point:SP_3713,Nasque,6
+2291788,21:07:00,21:07:10,stop_point:SP_1648,Cap Sicié,7
+2291788,21:08:00,21:08:10,stop_point:SP_5076,Bordeblanque,8
+2291788,21:10:00,21:10:10,stop_point:SP_3857,Giratoire Pluton,9
+2291788,21:11:00,21:11:10,stop_point:SP_2809,Centre de tri postal,10
+2291788,21:12:00,21:12:10,stop_point:SP_5322,Dr Charcot,11
+2291788,21:15:00,21:15:10,stop_point:SP_3533,A. Perdiguier,12
+2291788,21:15:00,21:15:10,stop_point:SP_4728,Peyrette,13
+2291788,21:16:00,21:16:10,stop_point:SP_2053,Mûriers,14
+2291788,21:17:00,21:17:10,stop_point:SP_2526,Puymorens,15
+2291788,21:17:00,21:17:10,stop_point:SP_2568,Taure,16
+2291788,21:19:00,21:19:10,stop_point:SP_1734,Italiens,17
+2291788,21:19:00,21:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2291788,21:20:00,21:20:10,stop_point:SP_3254,Château d'eau,19
+2291788,21:21:00,21:21:10,stop_point:SP_1566,Bourdies,20
+2291788,21:23:00,21:23:10,stop_point:SP_1671,11 Novembre 1918,21
+2291788,21:24:00,21:24:10,stop_point:SP_2477,Béarn,22
+2291788,21:25:00,21:25:10,stop_point:SP_1769,Plaisance Monestié,23
+2291788,21:26:00,21:26:10,stop_point:SP_3862,Fauvettes,24
+2291788,21:27:00,21:27:10,stop_point:SP_5558,Gravette,25
+2291788,21:29:00,21:29:10,stop_point:SP_5554,Sabla,26
+2291788,21:30:00,21:30:10,stop_point:SP_5574,Serins,27
+2291788,21:31:00,21:31:10,stop_point:SP_5538,Plaisance Ousseau,28
+2291788,21:39:00,21:39:10,stop_point:SP_5537,Plaisance Ousseau,29
+2291789,07:00:00,07:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291789,07:00:00,07:00:10,stop_point:SP_5583,Serins,2
+2291789,07:02:00,07:02:10,stop_point:SP_5557,Sabla,3
+2291789,07:04:00,07:04:10,stop_point:SP_5553,Gravette,4
+2291789,07:05:00,07:05:10,stop_point:SP_3780,Fauvettes,5
+2291789,07:06:00,07:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2291789,07:07:00,07:07:10,stop_point:SP_576,Béarn,7
+2291789,07:08:00,07:08:10,stop_point:SP_3150,11 Novembre 1918,8
+2291789,07:10:00,07:10:10,stop_point:SP_2475,Bourdies,9
+2291789,07:11:00,07:11:10,stop_point:SP_1048,Château d'eau,10
+2291789,07:12:00,07:12:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291789,07:12:00,07:12:10,stop_point:SP_881,Italiens,12
+2291789,07:14:00,07:14:10,stop_point:SP_3139,Taure,13
+2291789,07:14:00,07:14:10,stop_point:SP_2144,Puymorens,14
+2291789,07:15:00,07:15:10,stop_point:SP_2494,Mûriers,15
+2291789,07:16:00,07:16:10,stop_point:SP_4730,Peyrette,16
+2291789,07:17:00,07:17:10,stop_point:SP_2435,A. Perdiguier,17
+2291789,07:19:00,07:19:10,stop_point:SP_5324,Dr Charcot,18
+2291789,07:20:00,07:20:10,stop_point:SP_2972,Centre de tri postal,19
+2291789,07:21:00,07:21:10,stop_point:SP_3075,Giratoire Pluton,20
+2291789,07:23:00,07:23:10,stop_point:SP_5077,Bordeblanque,21
+2291789,07:24:00,07:24:10,stop_point:SP_2365,Cap Sicié,22
+2291789,07:24:00,07:24:10,stop_point:SP_2613,Nasque,23
+2291789,07:25:00,07:25:10,stop_point:SP_2309,Place des Marots,24
+2291789,07:26:00,07:26:10,stop_point:SP_1941,Esquillette,25
+2291789,07:27:00,07:27:10,stop_point:SP_4727,Tucol,26
+2291789,07:28:00,07:28:10,stop_point:SP_1745,En Sigal,27
+2291789,07:30:00,07:30:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291790,08:00:00,08:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291790,08:00:00,08:00:10,stop_point:SP_5583,Serins,2
+2291790,08:02:00,08:02:10,stop_point:SP_5557,Sabla,3
+2291790,08:04:00,08:04:10,stop_point:SP_5553,Gravette,4
+2291790,08:05:00,08:05:10,stop_point:SP_3780,Fauvettes,5
+2291790,08:06:00,08:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2291790,08:07:00,08:07:10,stop_point:SP_576,Béarn,7
+2291790,08:08:00,08:08:10,stop_point:SP_3150,11 Novembre 1918,8
+2291790,08:10:00,08:10:10,stop_point:SP_2475,Bourdies,9
+2291790,08:11:00,08:11:10,stop_point:SP_1048,Château d'eau,10
+2291790,08:12:00,08:12:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291790,08:12:00,08:12:10,stop_point:SP_881,Italiens,12
+2291790,08:14:00,08:14:10,stop_point:SP_3139,Taure,13
+2291790,08:14:00,08:14:10,stop_point:SP_2144,Puymorens,14
+2291790,08:15:00,08:15:10,stop_point:SP_2494,Mûriers,15
+2291790,08:16:00,08:16:10,stop_point:SP_4730,Peyrette,16
+2291790,08:17:00,08:17:10,stop_point:SP_2435,A. Perdiguier,17
+2291790,08:19:00,08:19:10,stop_point:SP_5324,Dr Charcot,18
+2291790,08:20:00,08:20:10,stop_point:SP_2972,Centre de tri postal,19
+2291790,08:21:00,08:21:10,stop_point:SP_3075,Giratoire Pluton,20
+2291790,08:23:00,08:23:10,stop_point:SP_5077,Bordeblanque,21
+2291790,08:24:00,08:24:10,stop_point:SP_2365,Cap Sicié,22
+2291790,08:24:00,08:24:10,stop_point:SP_2613,Nasque,23
+2291790,08:25:00,08:25:10,stop_point:SP_2309,Place des Marots,24
+2291790,08:26:00,08:26:10,stop_point:SP_1941,Esquillette,25
+2291790,08:27:00,08:27:10,stop_point:SP_4727,Tucol,26
+2291790,08:28:00,08:28:10,stop_point:SP_1745,En Sigal,27
+2291790,08:30:00,08:30:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291791,09:00:00,09:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291791,09:00:00,09:00:10,stop_point:SP_5583,Serins,2
+2291791,09:02:00,09:02:10,stop_point:SP_5557,Sabla,3
+2291791,09:04:00,09:04:10,stop_point:SP_5553,Gravette,4
+2291791,09:05:00,09:05:10,stop_point:SP_3780,Fauvettes,5
+2291791,09:06:00,09:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2291791,09:07:00,09:07:10,stop_point:SP_576,Béarn,7
+2291791,09:08:00,09:08:10,stop_point:SP_3150,11 Novembre 1918,8
+2291791,09:10:00,09:10:10,stop_point:SP_2475,Bourdies,9
+2291791,09:11:00,09:11:10,stop_point:SP_1048,Château d'eau,10
+2291791,09:12:00,09:12:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291791,09:12:00,09:12:10,stop_point:SP_881,Italiens,12
+2291791,09:14:00,09:14:10,stop_point:SP_3139,Taure,13
+2291791,09:14:00,09:14:10,stop_point:SP_2144,Puymorens,14
+2291791,09:15:00,09:15:10,stop_point:SP_2494,Mûriers,15
+2291791,09:16:00,09:16:10,stop_point:SP_4730,Peyrette,16
+2291791,09:17:00,09:17:10,stop_point:SP_2435,A. Perdiguier,17
+2291791,09:19:00,09:19:10,stop_point:SP_5324,Dr Charcot,18
+2291791,09:20:00,09:20:10,stop_point:SP_2972,Centre de tri postal,19
+2291791,09:21:00,09:21:10,stop_point:SP_3075,Giratoire Pluton,20
+2291791,09:23:00,09:23:10,stop_point:SP_5077,Bordeblanque,21
+2291791,09:24:00,09:24:10,stop_point:SP_2365,Cap Sicié,22
+2291791,09:24:00,09:24:10,stop_point:SP_2613,Nasque,23
+2291791,09:25:00,09:25:10,stop_point:SP_2309,Place des Marots,24
+2291791,09:26:00,09:26:10,stop_point:SP_1941,Esquillette,25
+2291791,09:27:00,09:27:10,stop_point:SP_4727,Tucol,26
+2291791,09:28:00,09:28:10,stop_point:SP_1745,En Sigal,27
+2291791,09:30:00,09:30:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291792,10:10:00,10:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291792,10:10:00,10:10:10,stop_point:SP_5583,Serins,2
+2291792,10:12:00,10:12:10,stop_point:SP_5557,Sabla,3
+2291792,10:14:00,10:14:10,stop_point:SP_5553,Gravette,4
+2291792,10:15:00,10:15:10,stop_point:SP_3780,Fauvettes,5
+2291792,10:16:00,10:16:10,stop_point:SP_5560,Plaisance Monestié,6
+2291792,10:17:00,10:17:10,stop_point:SP_576,Béarn,7
+2291792,10:18:00,10:18:10,stop_point:SP_3150,11 Novembre 1918,8
+2291792,10:20:00,10:20:10,stop_point:SP_2475,Bourdies,9
+2291792,10:21:00,10:21:10,stop_point:SP_1048,Château d'eau,10
+2291792,10:22:00,10:22:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291792,10:22:00,10:22:10,stop_point:SP_881,Italiens,12
+2291792,10:24:00,10:24:10,stop_point:SP_3139,Taure,13
+2291792,10:24:00,10:24:10,stop_point:SP_2144,Puymorens,14
+2291792,10:25:00,10:25:10,stop_point:SP_2494,Mûriers,15
+2291792,10:26:00,10:26:10,stop_point:SP_4730,Peyrette,16
+2291792,10:27:00,10:27:10,stop_point:SP_2435,A. Perdiguier,17
+2291792,10:29:00,10:29:10,stop_point:SP_5324,Dr Charcot,18
+2291792,10:30:00,10:30:10,stop_point:SP_2972,Centre de tri postal,19
+2291792,10:31:00,10:31:10,stop_point:SP_3075,Giratoire Pluton,20
+2291792,10:33:00,10:33:10,stop_point:SP_5077,Bordeblanque,21
+2291792,10:34:00,10:34:10,stop_point:SP_2365,Cap Sicié,22
+2291792,10:34:00,10:34:10,stop_point:SP_2613,Nasque,23
+2291792,10:35:00,10:35:10,stop_point:SP_2309,Place des Marots,24
+2291792,10:36:00,10:36:10,stop_point:SP_1941,Esquillette,25
+2291792,10:37:00,10:37:10,stop_point:SP_4727,Tucol,26
+2291792,10:38:00,10:38:10,stop_point:SP_1745,En Sigal,27
+2291792,10:40:00,10:40:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291793,11:10:00,11:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291793,11:10:00,11:10:10,stop_point:SP_5583,Serins,2
+2291793,11:12:00,11:12:10,stop_point:SP_5557,Sabla,3
+2291793,11:14:00,11:14:10,stop_point:SP_5553,Gravette,4
+2291793,11:15:00,11:15:10,stop_point:SP_3780,Fauvettes,5
+2291793,11:16:00,11:16:10,stop_point:SP_5560,Plaisance Monestié,6
+2291793,11:17:00,11:17:10,stop_point:SP_576,Béarn,7
+2291793,11:18:00,11:18:10,stop_point:SP_3150,11 Novembre 1918,8
+2291793,11:20:00,11:20:10,stop_point:SP_2475,Bourdies,9
+2291793,11:21:00,11:21:10,stop_point:SP_1048,Château d'eau,10
+2291793,11:22:00,11:22:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291793,11:22:00,11:22:10,stop_point:SP_881,Italiens,12
+2291793,11:24:00,11:24:10,stop_point:SP_3139,Taure,13
+2291793,11:24:00,11:24:10,stop_point:SP_2144,Puymorens,14
+2291793,11:25:00,11:25:10,stop_point:SP_2494,Mûriers,15
+2291793,11:26:00,11:26:10,stop_point:SP_4730,Peyrette,16
+2291793,11:27:00,11:27:10,stop_point:SP_2435,A. Perdiguier,17
+2291793,11:29:00,11:29:10,stop_point:SP_5324,Dr Charcot,18
+2291793,11:30:00,11:30:10,stop_point:SP_2972,Centre de tri postal,19
+2291793,11:31:00,11:31:10,stop_point:SP_3075,Giratoire Pluton,20
+2291793,11:33:00,11:33:10,stop_point:SP_5077,Bordeblanque,21
+2291793,11:34:00,11:34:10,stop_point:SP_2365,Cap Sicié,22
+2291793,11:34:00,11:34:10,stop_point:SP_2613,Nasque,23
+2291793,11:35:00,11:35:10,stop_point:SP_2309,Place des Marots,24
+2291793,11:36:00,11:36:10,stop_point:SP_1941,Esquillette,25
+2291793,11:37:00,11:37:10,stop_point:SP_4727,Tucol,26
+2291793,11:38:00,11:38:10,stop_point:SP_1745,En Sigal,27
+2291793,11:40:00,11:40:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291794,12:05:00,12:05:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291794,12:05:00,12:05:10,stop_point:SP_5583,Serins,2
+2291794,12:07:00,12:07:10,stop_point:SP_5557,Sabla,3
+2291794,12:09:00,12:09:10,stop_point:SP_5553,Gravette,4
+2291794,12:10:00,12:10:10,stop_point:SP_3780,Fauvettes,5
+2291794,12:11:00,12:11:10,stop_point:SP_5560,Plaisance Monestié,6
+2291794,12:12:00,12:12:10,stop_point:SP_576,Béarn,7
+2291794,12:13:00,12:13:10,stop_point:SP_3150,11 Novembre 1918,8
+2291794,12:15:00,12:15:10,stop_point:SP_2475,Bourdies,9
+2291794,12:16:00,12:16:10,stop_point:SP_1048,Château d'eau,10
+2291794,12:17:00,12:17:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291794,12:17:00,12:17:10,stop_point:SP_881,Italiens,12
+2291794,12:19:00,12:19:10,stop_point:SP_3139,Taure,13
+2291794,12:19:00,12:19:10,stop_point:SP_2144,Puymorens,14
+2291794,12:20:00,12:20:10,stop_point:SP_2494,Mûriers,15
+2291794,12:21:00,12:21:10,stop_point:SP_4730,Peyrette,16
+2291794,12:22:00,12:22:10,stop_point:SP_2435,A. Perdiguier,17
+2291794,12:24:00,12:24:10,stop_point:SP_5324,Dr Charcot,18
+2291794,12:25:00,12:25:10,stop_point:SP_2972,Centre de tri postal,19
+2291794,12:26:00,12:26:10,stop_point:SP_3075,Giratoire Pluton,20
+2291794,12:28:00,12:28:10,stop_point:SP_5077,Bordeblanque,21
+2291794,12:29:00,12:29:10,stop_point:SP_2365,Cap Sicié,22
+2291794,12:29:00,12:29:10,stop_point:SP_2613,Nasque,23
+2291794,12:30:00,12:30:10,stop_point:SP_2309,Place des Marots,24
+2291794,12:31:00,12:31:10,stop_point:SP_1941,Esquillette,25
+2291794,12:32:00,12:32:10,stop_point:SP_4727,Tucol,26
+2291794,12:33:00,12:33:10,stop_point:SP_1745,En Sigal,27
+2291794,12:35:00,12:35:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291795,12:40:00,12:40:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291795,12:40:00,12:40:10,stop_point:SP_5583,Serins,2
+2291795,12:42:00,12:42:10,stop_point:SP_5557,Sabla,3
+2291795,12:44:00,12:44:10,stop_point:SP_5553,Gravette,4
+2291795,12:45:00,12:45:10,stop_point:SP_3780,Fauvettes,5
+2291795,12:46:00,12:46:10,stop_point:SP_5560,Plaisance Monestié,6
+2291795,12:47:00,12:47:10,stop_point:SP_576,Béarn,7
+2291795,12:48:00,12:48:10,stop_point:SP_3150,11 Novembre 1918,8
+2291795,12:50:00,12:50:10,stop_point:SP_2475,Bourdies,9
+2291795,12:51:00,12:51:10,stop_point:SP_1048,Château d'eau,10
+2291795,12:52:00,12:52:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291795,12:52:00,12:52:10,stop_point:SP_881,Italiens,12
+2291795,12:54:00,12:54:10,stop_point:SP_3139,Taure,13
+2291795,12:54:00,12:54:10,stop_point:SP_2144,Puymorens,14
+2291795,12:55:00,12:55:10,stop_point:SP_2494,Mûriers,15
+2291795,12:56:00,12:56:10,stop_point:SP_4730,Peyrette,16
+2291795,12:57:00,12:57:10,stop_point:SP_2435,A. Perdiguier,17
+2291795,12:59:00,12:59:10,stop_point:SP_5324,Dr Charcot,18
+2291795,13:00:00,13:00:10,stop_point:SP_2972,Centre de tri postal,19
+2291795,13:01:00,13:01:10,stop_point:SP_3075,Giratoire Pluton,20
+2291795,13:03:00,13:03:10,stop_point:SP_5077,Bordeblanque,21
+2291795,13:04:00,13:04:10,stop_point:SP_2365,Cap Sicié,22
+2291795,13:04:00,13:04:10,stop_point:SP_2613,Nasque,23
+2291795,13:05:00,13:05:10,stop_point:SP_2309,Place des Marots,24
+2291795,13:06:00,13:06:10,stop_point:SP_1941,Esquillette,25
+2291795,13:07:00,13:07:10,stop_point:SP_4727,Tucol,26
+2291795,13:08:00,13:08:10,stop_point:SP_1745,En Sigal,27
+2291795,13:10:00,13:10:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291796,13:35:00,13:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291796,13:35:00,13:35:10,stop_point:SP_5583,Serins,2
+2291796,13:37:00,13:37:10,stop_point:SP_5557,Sabla,3
+2291796,13:39:00,13:39:10,stop_point:SP_5553,Gravette,4
+2291796,13:40:00,13:40:10,stop_point:SP_3780,Fauvettes,5
+2291796,13:41:00,13:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2291796,13:42:00,13:42:10,stop_point:SP_576,Béarn,7
+2291796,13:43:00,13:43:10,stop_point:SP_3150,11 Novembre 1918,8
+2291796,13:45:00,13:45:10,stop_point:SP_2475,Bourdies,9
+2291796,13:46:00,13:46:10,stop_point:SP_1048,Château d'eau,10
+2291796,13:47:00,13:47:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291796,13:47:00,13:47:10,stop_point:SP_881,Italiens,12
+2291796,13:49:00,13:49:10,stop_point:SP_3139,Taure,13
+2291796,13:49:00,13:49:10,stop_point:SP_2144,Puymorens,14
+2291796,13:50:00,13:50:10,stop_point:SP_2494,Mûriers,15
+2291796,13:51:00,13:51:10,stop_point:SP_4730,Peyrette,16
+2291796,13:52:00,13:52:10,stop_point:SP_2435,A. Perdiguier,17
+2291796,13:54:00,13:54:10,stop_point:SP_5324,Dr Charcot,18
+2291796,13:55:00,13:55:10,stop_point:SP_2972,Centre de tri postal,19
+2291796,13:56:00,13:56:10,stop_point:SP_3075,Giratoire Pluton,20
+2291796,13:58:00,13:58:10,stop_point:SP_5077,Bordeblanque,21
+2291796,13:59:00,13:59:10,stop_point:SP_2365,Cap Sicié,22
+2291796,13:59:00,13:59:10,stop_point:SP_2613,Nasque,23
+2291796,14:00:00,14:00:10,stop_point:SP_2309,Place des Marots,24
+2291796,14:01:00,14:01:10,stop_point:SP_1941,Esquillette,25
+2291796,14:02:00,14:02:10,stop_point:SP_4727,Tucol,26
+2291796,14:03:00,14:03:10,stop_point:SP_1745,En Sigal,27
+2291796,14:05:00,14:05:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291797,14:10:00,14:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291797,14:10:00,14:10:10,stop_point:SP_5583,Serins,2
+2291797,14:12:00,14:12:10,stop_point:SP_5557,Sabla,3
+2291797,14:14:00,14:14:10,stop_point:SP_5553,Gravette,4
+2291797,14:15:00,14:15:10,stop_point:SP_3780,Fauvettes,5
+2291797,14:16:00,14:16:10,stop_point:SP_5560,Plaisance Monestié,6
+2291797,14:17:00,14:17:10,stop_point:SP_576,Béarn,7
+2291797,14:18:00,14:18:10,stop_point:SP_3150,11 Novembre 1918,8
+2291797,14:20:00,14:20:10,stop_point:SP_2475,Bourdies,9
+2291797,14:21:00,14:21:10,stop_point:SP_1048,Château d'eau,10
+2291797,14:22:00,14:22:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291797,14:22:00,14:22:10,stop_point:SP_881,Italiens,12
+2291797,14:24:00,14:24:10,stop_point:SP_3139,Taure,13
+2291797,14:24:00,14:24:10,stop_point:SP_2144,Puymorens,14
+2291797,14:25:00,14:25:10,stop_point:SP_2494,Mûriers,15
+2291797,14:26:00,14:26:10,stop_point:SP_4730,Peyrette,16
+2291797,14:27:00,14:27:10,stop_point:SP_2435,A. Perdiguier,17
+2291797,14:29:00,14:29:10,stop_point:SP_5324,Dr Charcot,18
+2291797,14:30:00,14:30:10,stop_point:SP_2972,Centre de tri postal,19
+2291797,14:31:00,14:31:10,stop_point:SP_3075,Giratoire Pluton,20
+2291797,14:33:00,14:33:10,stop_point:SP_5077,Bordeblanque,21
+2291797,14:34:00,14:34:10,stop_point:SP_2365,Cap Sicié,22
+2291797,14:34:00,14:34:10,stop_point:SP_2613,Nasque,23
+2291797,14:35:00,14:35:10,stop_point:SP_2309,Place des Marots,24
+2291797,14:36:00,14:36:10,stop_point:SP_1941,Esquillette,25
+2291797,14:37:00,14:37:10,stop_point:SP_4727,Tucol,26
+2291797,14:38:00,14:38:10,stop_point:SP_1745,En Sigal,27
+2291797,14:40:00,14:40:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291798,15:00:00,15:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291798,15:00:00,15:00:10,stop_point:SP_5583,Serins,2
+2291798,15:02:00,15:02:10,stop_point:SP_5557,Sabla,3
+2291798,15:04:00,15:04:10,stop_point:SP_5553,Gravette,4
+2291798,15:05:00,15:05:10,stop_point:SP_3780,Fauvettes,5
+2291798,15:06:00,15:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2291798,15:07:00,15:07:10,stop_point:SP_576,Béarn,7
+2291798,15:08:00,15:08:10,stop_point:SP_3150,11 Novembre 1918,8
+2291798,15:10:00,15:10:10,stop_point:SP_2475,Bourdies,9
+2291798,15:11:00,15:11:10,stop_point:SP_1048,Château d'eau,10
+2291798,15:12:00,15:12:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291798,15:12:00,15:12:10,stop_point:SP_881,Italiens,12
+2291798,15:14:00,15:14:10,stop_point:SP_3139,Taure,13
+2291798,15:14:00,15:14:10,stop_point:SP_2144,Puymorens,14
+2291798,15:15:00,15:15:10,stop_point:SP_2494,Mûriers,15
+2291798,15:16:00,15:16:10,stop_point:SP_4730,Peyrette,16
+2291798,15:17:00,15:17:10,stop_point:SP_2435,A. Perdiguier,17
+2291798,15:19:00,15:19:10,stop_point:SP_5324,Dr Charcot,18
+2291798,15:20:00,15:20:10,stop_point:SP_2972,Centre de tri postal,19
+2291798,15:21:00,15:21:10,stop_point:SP_3075,Giratoire Pluton,20
+2291798,15:23:00,15:23:10,stop_point:SP_5077,Bordeblanque,21
+2291798,15:24:00,15:24:10,stop_point:SP_2365,Cap Sicié,22
+2291798,15:24:00,15:24:10,stop_point:SP_2613,Nasque,23
+2291798,15:25:00,15:25:10,stop_point:SP_2309,Place des Marots,24
+2291798,15:26:00,15:26:10,stop_point:SP_1941,Esquillette,25
+2291798,15:27:00,15:27:10,stop_point:SP_4727,Tucol,26
+2291798,15:28:00,15:28:10,stop_point:SP_1745,En Sigal,27
+2291798,15:30:00,15:30:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291799,15:50:00,15:50:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291799,15:50:00,15:50:10,stop_point:SP_5583,Serins,2
+2291799,15:52:00,15:52:10,stop_point:SP_5557,Sabla,3
+2291799,15:54:00,15:54:10,stop_point:SP_5553,Gravette,4
+2291799,15:55:00,15:55:10,stop_point:SP_3780,Fauvettes,5
+2291799,15:56:00,15:56:10,stop_point:SP_5560,Plaisance Monestié,6
+2291799,15:57:00,15:57:10,stop_point:SP_576,Béarn,7
+2291799,15:58:00,15:58:10,stop_point:SP_3150,11 Novembre 1918,8
+2291799,16:00:00,16:00:10,stop_point:SP_2475,Bourdies,9
+2291799,16:01:00,16:01:10,stop_point:SP_1048,Château d'eau,10
+2291799,16:02:00,16:02:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291799,16:02:00,16:02:10,stop_point:SP_881,Italiens,12
+2291799,16:04:00,16:04:10,stop_point:SP_3139,Taure,13
+2291799,16:04:00,16:04:10,stop_point:SP_2144,Puymorens,14
+2291799,16:05:00,16:05:10,stop_point:SP_2494,Mûriers,15
+2291799,16:06:00,16:06:10,stop_point:SP_4730,Peyrette,16
+2291799,16:07:00,16:07:10,stop_point:SP_2435,A. Perdiguier,17
+2291799,16:09:00,16:09:10,stop_point:SP_5324,Dr Charcot,18
+2291799,16:10:00,16:10:10,stop_point:SP_2972,Centre de tri postal,19
+2291799,16:11:00,16:11:10,stop_point:SP_3075,Giratoire Pluton,20
+2291799,16:13:00,16:13:10,stop_point:SP_5077,Bordeblanque,21
+2291799,16:14:00,16:14:10,stop_point:SP_2365,Cap Sicié,22
+2291799,16:14:00,16:14:10,stop_point:SP_2613,Nasque,23
+2291799,16:15:00,16:15:10,stop_point:SP_2309,Place des Marots,24
+2291799,16:16:00,16:16:10,stop_point:SP_1941,Esquillette,25
+2291799,16:17:00,16:17:10,stop_point:SP_4727,Tucol,26
+2291799,16:18:00,16:18:10,stop_point:SP_1745,En Sigal,27
+2291799,16:20:00,16:20:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291800,16:35:00,16:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291800,16:35:00,16:35:10,stop_point:SP_5583,Serins,2
+2291800,16:37:00,16:37:10,stop_point:SP_5557,Sabla,3
+2291800,16:39:00,16:39:10,stop_point:SP_5553,Gravette,4
+2291800,16:40:00,16:40:10,stop_point:SP_3780,Fauvettes,5
+2291800,16:41:00,16:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2291800,16:42:00,16:42:10,stop_point:SP_576,Béarn,7
+2291800,16:43:00,16:43:10,stop_point:SP_3150,11 Novembre 1918,8
+2291800,16:45:00,16:45:10,stop_point:SP_2475,Bourdies,9
+2291800,16:46:00,16:46:10,stop_point:SP_1048,Château d'eau,10
+2291800,16:47:00,16:47:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291800,16:47:00,16:47:10,stop_point:SP_881,Italiens,12
+2291800,16:49:00,16:49:10,stop_point:SP_3139,Taure,13
+2291800,16:49:00,16:49:10,stop_point:SP_2144,Puymorens,14
+2291800,16:50:00,16:50:10,stop_point:SP_2494,Mûriers,15
+2291800,16:51:00,16:51:10,stop_point:SP_4730,Peyrette,16
+2291800,16:52:00,16:52:10,stop_point:SP_2435,A. Perdiguier,17
+2291800,16:54:00,16:54:10,stop_point:SP_5324,Dr Charcot,18
+2291800,16:55:00,16:55:10,stop_point:SP_2972,Centre de tri postal,19
+2291800,16:56:00,16:56:10,stop_point:SP_3075,Giratoire Pluton,20
+2291800,16:58:00,16:58:10,stop_point:SP_5077,Bordeblanque,21
+2291800,16:59:00,16:59:10,stop_point:SP_2365,Cap Sicié,22
+2291800,16:59:00,16:59:10,stop_point:SP_2613,Nasque,23
+2291800,17:00:00,17:00:10,stop_point:SP_2309,Place des Marots,24
+2291800,17:01:00,17:01:10,stop_point:SP_1941,Esquillette,25
+2291800,17:02:00,17:02:10,stop_point:SP_4727,Tucol,26
+2291800,17:03:00,17:03:10,stop_point:SP_1745,En Sigal,27
+2291800,17:05:00,17:05:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291801,17:20:00,17:20:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291801,17:20:00,17:20:10,stop_point:SP_5583,Serins,2
+2291801,17:22:00,17:22:10,stop_point:SP_5557,Sabla,3
+2291801,17:24:00,17:24:10,stop_point:SP_5553,Gravette,4
+2291801,17:25:00,17:25:10,stop_point:SP_3780,Fauvettes,5
+2291801,17:26:00,17:26:10,stop_point:SP_5560,Plaisance Monestié,6
+2291801,17:27:00,17:27:10,stop_point:SP_576,Béarn,7
+2291801,17:28:00,17:28:10,stop_point:SP_3150,11 Novembre 1918,8
+2291801,17:30:00,17:30:10,stop_point:SP_2475,Bourdies,9
+2291801,17:31:00,17:31:10,stop_point:SP_1048,Château d'eau,10
+2291801,17:32:00,17:32:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291801,17:32:00,17:32:10,stop_point:SP_881,Italiens,12
+2291801,17:34:00,17:34:10,stop_point:SP_3139,Taure,13
+2291801,17:34:00,17:34:10,stop_point:SP_2144,Puymorens,14
+2291801,17:35:00,17:35:10,stop_point:SP_2494,Mûriers,15
+2291801,17:36:00,17:36:10,stop_point:SP_4730,Peyrette,16
+2291801,17:37:00,17:37:10,stop_point:SP_2435,A. Perdiguier,17
+2291801,17:39:00,17:39:10,stop_point:SP_5324,Dr Charcot,18
+2291801,17:40:00,17:40:10,stop_point:SP_2972,Centre de tri postal,19
+2291801,17:41:00,17:41:10,stop_point:SP_3075,Giratoire Pluton,20
+2291801,17:43:00,17:43:10,stop_point:SP_5077,Bordeblanque,21
+2291801,17:44:00,17:44:10,stop_point:SP_2365,Cap Sicié,22
+2291801,17:44:00,17:44:10,stop_point:SP_2613,Nasque,23
+2291801,17:45:00,17:45:10,stop_point:SP_2309,Place des Marots,24
+2291801,17:46:00,17:46:10,stop_point:SP_1941,Esquillette,25
+2291801,17:47:00,17:47:10,stop_point:SP_4727,Tucol,26
+2291801,17:48:00,17:48:10,stop_point:SP_1745,En Sigal,27
+2291801,17:50:00,17:50:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291802,18:05:00,18:05:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291802,18:05:00,18:05:10,stop_point:SP_5583,Serins,2
+2291802,18:07:00,18:07:10,stop_point:SP_5557,Sabla,3
+2291802,18:09:00,18:09:10,stop_point:SP_5553,Gravette,4
+2291802,18:10:00,18:10:10,stop_point:SP_3780,Fauvettes,5
+2291802,18:11:00,18:11:10,stop_point:SP_5560,Plaisance Monestié,6
+2291802,18:12:00,18:12:10,stop_point:SP_576,Béarn,7
+2291802,18:13:00,18:13:10,stop_point:SP_3150,11 Novembre 1918,8
+2291802,18:15:00,18:15:10,stop_point:SP_2475,Bourdies,9
+2291802,18:16:00,18:16:10,stop_point:SP_1048,Château d'eau,10
+2291802,18:17:00,18:17:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291802,18:17:00,18:17:10,stop_point:SP_881,Italiens,12
+2291802,18:19:00,18:19:10,stop_point:SP_3139,Taure,13
+2291802,18:19:00,18:19:10,stop_point:SP_2144,Puymorens,14
+2291802,18:20:00,18:20:10,stop_point:SP_2494,Mûriers,15
+2291802,18:21:00,18:21:10,stop_point:SP_4730,Peyrette,16
+2291802,18:22:00,18:22:10,stop_point:SP_2435,A. Perdiguier,17
+2291802,18:24:00,18:24:10,stop_point:SP_5324,Dr Charcot,18
+2291802,18:25:00,18:25:10,stop_point:SP_2972,Centre de tri postal,19
+2291802,18:26:00,18:26:10,stop_point:SP_3075,Giratoire Pluton,20
+2291802,18:28:00,18:28:10,stop_point:SP_5077,Bordeblanque,21
+2291802,18:29:00,18:29:10,stop_point:SP_2365,Cap Sicié,22
+2291802,18:29:00,18:29:10,stop_point:SP_2613,Nasque,23
+2291802,18:30:00,18:30:10,stop_point:SP_2309,Place des Marots,24
+2291802,18:31:00,18:31:10,stop_point:SP_1941,Esquillette,25
+2291802,18:32:00,18:32:10,stop_point:SP_4727,Tucol,26
+2291802,18:33:00,18:33:10,stop_point:SP_1745,En Sigal,27
+2291802,18:35:00,18:35:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291803,18:45:00,18:45:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291803,18:45:00,18:45:10,stop_point:SP_5583,Serins,2
+2291803,18:47:00,18:47:10,stop_point:SP_5557,Sabla,3
+2291803,18:49:00,18:49:10,stop_point:SP_5553,Gravette,4
+2291803,18:50:00,18:50:10,stop_point:SP_3780,Fauvettes,5
+2291803,18:51:00,18:51:10,stop_point:SP_5560,Plaisance Monestié,6
+2291803,18:52:00,18:52:10,stop_point:SP_576,Béarn,7
+2291803,18:53:00,18:53:10,stop_point:SP_3150,11 Novembre 1918,8
+2291803,18:55:00,18:55:10,stop_point:SP_2475,Bourdies,9
+2291803,18:56:00,18:56:10,stop_point:SP_1048,Château d'eau,10
+2291803,18:57:00,18:57:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291803,18:57:00,18:57:10,stop_point:SP_881,Italiens,12
+2291803,18:59:00,18:59:10,stop_point:SP_3139,Taure,13
+2291803,18:59:00,18:59:10,stop_point:SP_2144,Puymorens,14
+2291803,19:00:00,19:00:10,stop_point:SP_2494,Mûriers,15
+2291803,19:01:00,19:01:10,stop_point:SP_4730,Peyrette,16
+2291803,19:02:00,19:02:10,stop_point:SP_2435,A. Perdiguier,17
+2291803,19:04:00,19:04:10,stop_point:SP_5324,Dr Charcot,18
+2291803,19:05:00,19:05:10,stop_point:SP_2972,Centre de tri postal,19
+2291803,19:06:00,19:06:10,stop_point:SP_3075,Giratoire Pluton,20
+2291803,19:08:00,19:08:10,stop_point:SP_5077,Bordeblanque,21
+2291803,19:09:00,19:09:10,stop_point:SP_2365,Cap Sicié,22
+2291803,19:09:00,19:09:10,stop_point:SP_2613,Nasque,23
+2291803,19:10:00,19:10:10,stop_point:SP_2309,Place des Marots,24
+2291803,19:11:00,19:11:10,stop_point:SP_1941,Esquillette,25
+2291803,19:12:00,19:12:10,stop_point:SP_4727,Tucol,26
+2291803,19:13:00,19:13:10,stop_point:SP_1745,En Sigal,27
+2291803,19:15:00,19:15:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291804,19:35:00,19:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291804,19:35:00,19:35:10,stop_point:SP_5583,Serins,2
+2291804,19:37:00,19:37:10,stop_point:SP_5557,Sabla,3
+2291804,19:39:00,19:39:10,stop_point:SP_5553,Gravette,4
+2291804,19:40:00,19:40:10,stop_point:SP_3780,Fauvettes,5
+2291804,19:41:00,19:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2291804,19:42:00,19:42:10,stop_point:SP_576,Béarn,7
+2291804,19:43:00,19:43:10,stop_point:SP_3150,11 Novembre 1918,8
+2291804,19:45:00,19:45:10,stop_point:SP_2475,Bourdies,9
+2291804,19:46:00,19:46:10,stop_point:SP_1048,Château d'eau,10
+2291804,19:47:00,19:47:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291804,19:47:00,19:47:10,stop_point:SP_881,Italiens,12
+2291804,19:49:00,19:49:10,stop_point:SP_3139,Taure,13
+2291804,19:49:00,19:49:10,stop_point:SP_2144,Puymorens,14
+2291804,19:50:00,19:50:10,stop_point:SP_2494,Mûriers,15
+2291804,19:51:00,19:51:10,stop_point:SP_4730,Peyrette,16
+2291804,19:52:00,19:52:10,stop_point:SP_2435,A. Perdiguier,17
+2291804,19:54:00,19:54:10,stop_point:SP_5324,Dr Charcot,18
+2291804,19:55:00,19:55:10,stop_point:SP_2972,Centre de tri postal,19
+2291804,19:56:00,19:56:10,stop_point:SP_3075,Giratoire Pluton,20
+2291804,19:58:00,19:58:10,stop_point:SP_5077,Bordeblanque,21
+2291804,19:59:00,19:59:10,stop_point:SP_2365,Cap Sicié,22
+2291804,19:59:00,19:59:10,stop_point:SP_2613,Nasque,23
+2291804,20:00:00,20:00:10,stop_point:SP_2309,Place des Marots,24
+2291804,20:01:00,20:01:10,stop_point:SP_1941,Esquillette,25
+2291804,20:02:00,20:02:10,stop_point:SP_4727,Tucol,26
+2291804,20:03:00,20:03:10,stop_point:SP_1745,En Sigal,27
+2291804,20:05:00,20:05:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2291805,20:25:00,20:25:10,stop_point:SP_5537,Plaisance Ousseau,1
+2291805,20:25:00,20:25:10,stop_point:SP_5583,Serins,2
+2291805,20:27:00,20:27:10,stop_point:SP_5557,Sabla,3
+2291805,20:29:00,20:29:10,stop_point:SP_5553,Gravette,4
+2291805,20:30:00,20:30:10,stop_point:SP_3780,Fauvettes,5
+2291805,20:31:00,20:31:10,stop_point:SP_5560,Plaisance Monestié,6
+2291805,20:32:00,20:32:10,stop_point:SP_576,Béarn,7
+2291805,20:33:00,20:33:10,stop_point:SP_3150,11 Novembre 1918,8
+2291805,20:35:00,20:35:10,stop_point:SP_2475,Bourdies,9
+2291805,20:36:00,20:36:10,stop_point:SP_1048,Château d'eau,10
+2291805,20:37:00,20:37:10,stop_point:SP_3521,Mairie La Salvetat,11
+2291805,20:37:00,20:37:10,stop_point:SP_881,Italiens,12
+2291805,20:39:00,20:39:10,stop_point:SP_3139,Taure,13
+2291805,20:39:00,20:39:10,stop_point:SP_2144,Puymorens,14
+2291805,20:40:00,20:40:10,stop_point:SP_2494,Mûriers,15
+2291805,20:41:00,20:41:10,stop_point:SP_4730,Peyrette,16
+2291805,20:42:00,20:42:10,stop_point:SP_2435,A. Perdiguier,17
+2291805,20:44:00,20:44:10,stop_point:SP_5324,Dr Charcot,18
+2291805,20:45:00,20:45:10,stop_point:SP_2972,Centre de tri postal,19
+2291805,20:46:00,20:46:10,stop_point:SP_3075,Giratoire Pluton,20
+2291805,20:48:00,20:48:10,stop_point:SP_5077,Bordeblanque,21
+2291805,20:49:00,20:49:10,stop_point:SP_2365,Cap Sicié,22
+2291805,20:49:00,20:49:10,stop_point:SP_2613,Nasque,23
+2291805,20:50:00,20:50:10,stop_point:SP_2309,Place des Marots,24
+2291805,20:51:00,20:51:10,stop_point:SP_1941,Esquillette,25
+2291805,20:52:00,20:52:10,stop_point:SP_4727,Tucol,26
+2291805,20:53:00,20:53:10,stop_point:SP_1745,En Sigal,27
+2291805,20:55:00,20:55:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299302,06:11:00,06:11:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299302,06:14:00,06:14:10,stop_point:SP_2070,En Sigal,2
+2299302,06:15:00,06:15:10,stop_point:SP_4731,Tucol,3
+2299302,06:15:00,06:15:10,stop_point:SP_547,Esquillette,4
+2299302,06:16:00,06:16:10,stop_point:SP_3032,Place des Marots,5
+2299302,06:17:00,06:17:10,stop_point:SP_3713,Nasque,6
+2299302,06:17:00,06:17:10,stop_point:SP_1648,Cap Sicié,7
+2299302,06:18:00,06:18:10,stop_point:SP_5076,Bordeblanque,8
+2299302,06:20:00,06:20:10,stop_point:SP_3857,Giratoire Pluton,9
+2299302,06:21:00,06:21:10,stop_point:SP_2809,Centre de tri postal,10
+2299302,06:22:00,06:22:10,stop_point:SP_5322,Dr Charcot,11
+2299302,06:25:00,06:25:10,stop_point:SP_3533,A. Perdiguier,12
+2299302,06:25:00,06:25:10,stop_point:SP_4728,Peyrette,13
+2299302,06:26:00,06:26:10,stop_point:SP_2053,Mûriers,14
+2299302,06:27:00,06:27:10,stop_point:SP_2526,Puymorens,15
+2299302,06:27:00,06:27:10,stop_point:SP_2568,Taure,16
+2299302,06:29:00,06:29:10,stop_point:SP_1734,Italiens,17
+2299302,06:29:00,06:29:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299302,06:30:00,06:30:10,stop_point:SP_3254,Château d'eau,19
+2299302,06:31:00,06:31:10,stop_point:SP_1566,Bourdies,20
+2299302,06:32:00,06:32:10,stop_point:SP_1671,11 Novembre 1918,21
+2299302,06:32:00,06:32:10,stop_point:SP_2477,Béarn,22
+2299302,06:34:00,06:34:10,stop_point:SP_1769,Plaisance Monestié,23
+2299302,06:34:00,06:34:10,stop_point:SP_3862,Fauvettes,24
+2299302,06:35:00,06:35:10,stop_point:SP_5558,Gravette,25
+2299302,06:36:00,06:36:10,stop_point:SP_5554,Sabla,26
+2299302,06:37:00,06:37:10,stop_point:SP_5574,Serins,27
+2299302,06:38:00,06:38:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299302,06:44:00,06:44:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299303,06:40:00,06:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299303,06:43:00,06:43:10,stop_point:SP_2070,En Sigal,2
+2299303,06:44:00,06:44:10,stop_point:SP_4731,Tucol,3
+2299303,06:44:00,06:44:10,stop_point:SP_547,Esquillette,4
+2299303,06:45:00,06:45:10,stop_point:SP_3032,Place des Marots,5
+2299303,06:46:00,06:46:10,stop_point:SP_3713,Nasque,6
+2299303,06:46:00,06:46:10,stop_point:SP_1648,Cap Sicié,7
+2299303,06:47:00,06:47:10,stop_point:SP_5076,Bordeblanque,8
+2299303,06:49:00,06:49:10,stop_point:SP_3857,Giratoire Pluton,9
+2299303,06:50:00,06:50:10,stop_point:SP_2809,Centre de tri postal,10
+2299303,06:51:00,06:51:10,stop_point:SP_5322,Dr Charcot,11
+2299303,06:54:00,06:54:10,stop_point:SP_3533,A. Perdiguier,12
+2299303,06:55:00,06:55:10,stop_point:SP_4728,Peyrette,13
+2299303,06:56:00,06:56:10,stop_point:SP_2053,Mûriers,14
+2299303,06:57:00,06:57:10,stop_point:SP_2526,Puymorens,15
+2299303,06:58:00,06:58:10,stop_point:SP_2568,Taure,16
+2299303,06:59:00,06:59:10,stop_point:SP_1734,Italiens,17
+2299303,07:00:00,07:00:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299303,07:01:00,07:01:10,stop_point:SP_3254,Château d'eau,19
+2299303,07:02:00,07:02:10,stop_point:SP_1566,Bourdies,20
+2299303,07:03:00,07:03:10,stop_point:SP_1671,11 Novembre 1918,21
+2299303,07:03:00,07:03:10,stop_point:SP_2477,Béarn,22
+2299303,07:05:00,07:05:10,stop_point:SP_1769,Plaisance Monestié,23
+2299303,07:05:00,07:05:10,stop_point:SP_3862,Fauvettes,24
+2299303,07:06:00,07:06:10,stop_point:SP_5558,Gravette,25
+2299303,07:07:00,07:07:10,stop_point:SP_5554,Sabla,26
+2299303,07:08:00,07:08:10,stop_point:SP_5574,Serins,27
+2299303,07:09:00,07:09:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299303,07:15:00,07:15:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299304,06:55:00,06:55:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299304,06:58:00,06:58:10,stop_point:SP_2070,En Sigal,2
+2299304,06:59:00,06:59:10,stop_point:SP_4731,Tucol,3
+2299304,06:59:00,06:59:10,stop_point:SP_547,Esquillette,4
+2299304,07:00:00,07:00:10,stop_point:SP_3032,Place des Marots,5
+2299304,07:01:00,07:01:10,stop_point:SP_3713,Nasque,6
+2299304,07:01:00,07:01:10,stop_point:SP_1648,Cap Sicié,7
+2299304,07:02:00,07:02:10,stop_point:SP_5076,Bordeblanque,8
+2299304,07:04:00,07:04:10,stop_point:SP_3857,Giratoire Pluton,9
+2299304,07:05:00,07:05:10,stop_point:SP_2809,Centre de tri postal,10
+2299304,07:06:00,07:06:10,stop_point:SP_5322,Dr Charcot,11
+2299304,07:09:00,07:09:10,stop_point:SP_3533,A. Perdiguier,12
+2299304,07:10:00,07:10:10,stop_point:SP_4728,Peyrette,13
+2299304,07:11:00,07:11:10,stop_point:SP_2053,Mûriers,14
+2299304,07:12:00,07:12:10,stop_point:SP_2526,Puymorens,15
+2299304,07:13:00,07:13:10,stop_point:SP_2568,Taure,16
+2299304,07:14:00,07:14:10,stop_point:SP_1734,Italiens,17
+2299304,07:15:00,07:15:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299304,07:16:00,07:16:10,stop_point:SP_3254,Château d'eau,19
+2299304,07:17:00,07:17:10,stop_point:SP_1566,Bourdies,20
+2299304,07:18:00,07:18:10,stop_point:SP_1671,11 Novembre 1918,21
+2299304,07:18:00,07:18:10,stop_point:SP_2477,Béarn,22
+2299304,07:20:00,07:20:10,stop_point:SP_1769,Plaisance Monestié,23
+2299304,07:20:00,07:20:10,stop_point:SP_3862,Fauvettes,24
+2299304,07:21:00,07:21:10,stop_point:SP_5558,Gravette,25
+2299304,07:22:00,07:22:10,stop_point:SP_5554,Sabla,26
+2299304,07:23:00,07:23:10,stop_point:SP_5574,Serins,27
+2299304,07:24:00,07:24:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299304,07:30:00,07:30:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299305,07:15:00,07:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299305,07:18:00,07:18:10,stop_point:SP_2070,En Sigal,2
+2299305,07:19:00,07:19:10,stop_point:SP_4731,Tucol,3
+2299305,07:20:00,07:20:10,stop_point:SP_547,Esquillette,4
+2299305,07:21:00,07:21:10,stop_point:SP_3032,Place des Marots,5
+2299305,07:22:00,07:22:10,stop_point:SP_3713,Nasque,6
+2299305,07:22:00,07:22:10,stop_point:SP_1648,Cap Sicié,7
+2299305,07:23:00,07:23:10,stop_point:SP_5076,Bordeblanque,8
+2299305,07:25:00,07:25:10,stop_point:SP_3857,Giratoire Pluton,9
+2299305,07:26:00,07:26:10,stop_point:SP_2809,Centre de tri postal,10
+2299305,07:27:00,07:27:10,stop_point:SP_5322,Dr Charcot,11
+2299305,07:30:00,07:30:10,stop_point:SP_3533,A. Perdiguier,12
+2299305,07:31:00,07:31:10,stop_point:SP_4728,Peyrette,13
+2299305,07:32:00,07:32:10,stop_point:SP_2053,Mûriers,14
+2299305,07:33:00,07:33:10,stop_point:SP_2526,Puymorens,15
+2299305,07:34:00,07:34:10,stop_point:SP_2568,Taure,16
+2299305,07:35:00,07:35:10,stop_point:SP_1734,Italiens,17
+2299305,07:36:00,07:36:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299305,07:37:00,07:37:10,stop_point:SP_3254,Château d'eau,19
+2299305,07:38:00,07:38:10,stop_point:SP_1566,Bourdies,20
+2299305,07:39:00,07:39:10,stop_point:SP_1671,11 Novembre 1918,21
+2299305,07:39:00,07:39:10,stop_point:SP_2477,Béarn,22
+2299305,07:41:00,07:41:10,stop_point:SP_1769,Plaisance Monestié,23
+2299305,07:41:00,07:41:10,stop_point:SP_3862,Fauvettes,24
+2299305,07:42:00,07:42:10,stop_point:SP_5558,Gravette,25
+2299305,07:43:00,07:43:10,stop_point:SP_5554,Sabla,26
+2299305,07:44:00,07:44:10,stop_point:SP_5574,Serins,27
+2299305,07:45:00,07:45:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299305,07:51:00,07:51:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299306,07:40:00,07:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299306,07:43:00,07:43:10,stop_point:SP_2070,En Sigal,2
+2299306,07:44:00,07:44:10,stop_point:SP_4731,Tucol,3
+2299306,07:45:00,07:45:10,stop_point:SP_547,Esquillette,4
+2299306,07:46:00,07:46:10,stop_point:SP_3032,Place des Marots,5
+2299306,07:47:00,07:47:10,stop_point:SP_3713,Nasque,6
+2299306,07:47:00,07:47:10,stop_point:SP_1648,Cap Sicié,7
+2299306,07:48:00,07:48:10,stop_point:SP_5076,Bordeblanque,8
+2299306,07:50:00,07:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2299306,07:51:00,07:51:10,stop_point:SP_2809,Centre de tri postal,10
+2299306,07:52:00,07:52:10,stop_point:SP_5322,Dr Charcot,11
+2299306,07:55:00,07:55:10,stop_point:SP_3533,A. Perdiguier,12
+2299306,07:56:00,07:56:10,stop_point:SP_4728,Peyrette,13
+2299306,07:57:00,07:57:10,stop_point:SP_2053,Mûriers,14
+2299306,07:58:00,07:58:10,stop_point:SP_2526,Puymorens,15
+2299306,07:59:00,07:59:10,stop_point:SP_2568,Taure,16
+2299306,08:00:00,08:00:10,stop_point:SP_1734,Italiens,17
+2299306,08:01:00,08:01:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299306,08:02:00,08:02:10,stop_point:SP_3254,Château d'eau,19
+2299306,08:03:00,08:03:10,stop_point:SP_1566,Bourdies,20
+2299306,08:04:00,08:04:10,stop_point:SP_1671,11 Novembre 1918,21
+2299306,08:04:00,08:04:10,stop_point:SP_2477,Béarn,22
+2299306,08:06:00,08:06:10,stop_point:SP_1769,Plaisance Monestié,23
+2299306,08:06:00,08:06:10,stop_point:SP_3862,Fauvettes,24
+2299306,08:07:00,08:07:10,stop_point:SP_5558,Gravette,25
+2299306,08:08:00,08:08:10,stop_point:SP_5554,Sabla,26
+2299306,08:09:00,08:09:10,stop_point:SP_5574,Serins,27
+2299306,08:10:00,08:10:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299306,08:16:00,08:16:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299307,07:55:00,07:55:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299307,07:58:00,07:58:10,stop_point:SP_2070,En Sigal,2
+2299307,07:59:00,07:59:10,stop_point:SP_4731,Tucol,3
+2299307,08:00:00,08:00:10,stop_point:SP_547,Esquillette,4
+2299307,08:01:00,08:01:10,stop_point:SP_3032,Place des Marots,5
+2299307,08:02:00,08:02:10,stop_point:SP_3713,Nasque,6
+2299307,08:02:00,08:02:10,stop_point:SP_1648,Cap Sicié,7
+2299307,08:03:00,08:03:10,stop_point:SP_5076,Bordeblanque,8
+2299307,08:05:00,08:05:10,stop_point:SP_3857,Giratoire Pluton,9
+2299307,08:06:00,08:06:10,stop_point:SP_2809,Centre de tri postal,10
+2299307,08:07:00,08:07:10,stop_point:SP_5322,Dr Charcot,11
+2299307,08:10:00,08:10:10,stop_point:SP_3533,A. Perdiguier,12
+2299307,08:11:00,08:11:10,stop_point:SP_4728,Peyrette,13
+2299307,08:12:00,08:12:10,stop_point:SP_2053,Mûriers,14
+2299307,08:13:00,08:13:10,stop_point:SP_2526,Puymorens,15
+2299307,08:14:00,08:14:10,stop_point:SP_2568,Taure,16
+2299307,08:15:00,08:15:10,stop_point:SP_1734,Italiens,17
+2299307,08:16:00,08:16:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299307,08:17:00,08:17:10,stop_point:SP_3254,Château d'eau,19
+2299307,08:18:00,08:18:10,stop_point:SP_1566,Bourdies,20
+2299307,08:19:00,08:19:10,stop_point:SP_1671,11 Novembre 1918,21
+2299307,08:19:00,08:19:10,stop_point:SP_2477,Béarn,22
+2299307,08:21:00,08:21:10,stop_point:SP_1769,Plaisance Monestié,23
+2299307,08:21:00,08:21:10,stop_point:SP_3862,Fauvettes,24
+2299307,08:22:00,08:22:10,stop_point:SP_5558,Gravette,25
+2299307,08:23:00,08:23:10,stop_point:SP_5554,Sabla,26
+2299307,08:24:00,08:24:10,stop_point:SP_5574,Serins,27
+2299307,08:25:00,08:25:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299307,08:31:00,08:31:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299308,08:15:00,08:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299308,08:18:00,08:18:10,stop_point:SP_2070,En Sigal,2
+2299308,08:19:00,08:19:10,stop_point:SP_4731,Tucol,3
+2299308,08:20:00,08:20:10,stop_point:SP_547,Esquillette,4
+2299308,08:21:00,08:21:10,stop_point:SP_3032,Place des Marots,5
+2299308,08:22:00,08:22:10,stop_point:SP_3713,Nasque,6
+2299308,08:22:00,08:22:10,stop_point:SP_1648,Cap Sicié,7
+2299308,08:23:00,08:23:10,stop_point:SP_5076,Bordeblanque,8
+2299308,08:25:00,08:25:10,stop_point:SP_3857,Giratoire Pluton,9
+2299308,08:26:00,08:26:10,stop_point:SP_2809,Centre de tri postal,10
+2299308,08:27:00,08:27:10,stop_point:SP_5322,Dr Charcot,11
+2299308,08:30:00,08:30:10,stop_point:SP_3533,A. Perdiguier,12
+2299308,08:31:00,08:31:10,stop_point:SP_4728,Peyrette,13
+2299308,08:32:00,08:32:10,stop_point:SP_2053,Mûriers,14
+2299308,08:33:00,08:33:10,stop_point:SP_2526,Puymorens,15
+2299308,08:34:00,08:34:10,stop_point:SP_2568,Taure,16
+2299308,08:35:00,08:35:10,stop_point:SP_1734,Italiens,17
+2299308,08:36:00,08:36:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299308,08:37:00,08:37:10,stop_point:SP_3254,Château d'eau,19
+2299308,08:38:00,08:38:10,stop_point:SP_1566,Bourdies,20
+2299308,08:39:00,08:39:10,stop_point:SP_1671,11 Novembre 1918,21
+2299308,08:39:00,08:39:10,stop_point:SP_2477,Béarn,22
+2299308,08:41:00,08:41:10,stop_point:SP_1769,Plaisance Monestié,23
+2299308,08:41:00,08:41:10,stop_point:SP_3862,Fauvettes,24
+2299308,08:42:00,08:42:10,stop_point:SP_5558,Gravette,25
+2299308,08:43:00,08:43:10,stop_point:SP_5554,Sabla,26
+2299308,08:44:00,08:44:10,stop_point:SP_5574,Serins,27
+2299308,08:45:00,08:45:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299308,08:51:00,08:51:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299309,08:40:00,08:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299309,08:43:00,08:43:10,stop_point:SP_2070,En Sigal,2
+2299309,08:44:00,08:44:10,stop_point:SP_4731,Tucol,3
+2299309,08:45:00,08:45:10,stop_point:SP_547,Esquillette,4
+2299309,08:46:00,08:46:10,stop_point:SP_3032,Place des Marots,5
+2299309,08:47:00,08:47:10,stop_point:SP_3713,Nasque,6
+2299309,08:47:00,08:47:10,stop_point:SP_1648,Cap Sicié,7
+2299309,08:48:00,08:48:10,stop_point:SP_5076,Bordeblanque,8
+2299309,08:50:00,08:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2299309,08:51:00,08:51:10,stop_point:SP_2809,Centre de tri postal,10
+2299309,08:52:00,08:52:10,stop_point:SP_5322,Dr Charcot,11
+2299309,08:55:00,08:55:10,stop_point:SP_3533,A. Perdiguier,12
+2299309,08:56:00,08:56:10,stop_point:SP_4728,Peyrette,13
+2299309,08:57:00,08:57:10,stop_point:SP_2053,Mûriers,14
+2299309,08:58:00,08:58:10,stop_point:SP_2526,Puymorens,15
+2299309,08:59:00,08:59:10,stop_point:SP_2568,Taure,16
+2299309,09:00:00,09:00:10,stop_point:SP_1734,Italiens,17
+2299309,09:01:00,09:01:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299309,09:02:00,09:02:10,stop_point:SP_3254,Château d'eau,19
+2299309,09:03:00,09:03:10,stop_point:SP_1566,Bourdies,20
+2299309,09:04:00,09:04:10,stop_point:SP_1671,11 Novembre 1918,21
+2299309,09:04:00,09:04:10,stop_point:SP_2477,Béarn,22
+2299309,09:06:00,09:06:10,stop_point:SP_1769,Plaisance Monestié,23
+2299309,09:06:00,09:06:10,stop_point:SP_3862,Fauvettes,24
+2299309,09:07:00,09:07:10,stop_point:SP_5558,Gravette,25
+2299309,09:08:00,09:08:10,stop_point:SP_5554,Sabla,26
+2299309,09:09:00,09:09:10,stop_point:SP_5574,Serins,27
+2299309,09:10:00,09:10:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299309,09:16:00,09:16:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299310,09:10:00,09:10:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299310,09:13:00,09:13:10,stop_point:SP_2070,En Sigal,2
+2299310,09:14:00,09:14:10,stop_point:SP_4731,Tucol,3
+2299310,09:14:00,09:14:10,stop_point:SP_547,Esquillette,4
+2299310,09:15:00,09:15:10,stop_point:SP_3032,Place des Marots,5
+2299310,09:16:00,09:16:10,stop_point:SP_3713,Nasque,6
+2299310,09:16:00,09:16:10,stop_point:SP_1648,Cap Sicié,7
+2299310,09:17:00,09:17:10,stop_point:SP_5076,Bordeblanque,8
+2299310,09:19:00,09:19:10,stop_point:SP_3857,Giratoire Pluton,9
+2299310,09:20:00,09:20:10,stop_point:SP_2809,Centre de tri postal,10
+2299310,09:21:00,09:21:10,stop_point:SP_5322,Dr Charcot,11
+2299310,09:24:00,09:24:10,stop_point:SP_3533,A. Perdiguier,12
+2299310,09:25:00,09:25:10,stop_point:SP_4728,Peyrette,13
+2299310,09:26:00,09:26:10,stop_point:SP_2053,Mûriers,14
+2299310,09:27:00,09:27:10,stop_point:SP_2526,Puymorens,15
+2299310,09:27:00,09:27:10,stop_point:SP_2568,Taure,16
+2299310,09:28:00,09:28:10,stop_point:SP_1734,Italiens,17
+2299310,09:29:00,09:29:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299310,09:30:00,09:30:10,stop_point:SP_3254,Château d'eau,19
+2299310,09:31:00,09:31:10,stop_point:SP_1566,Bourdies,20
+2299310,09:32:00,09:32:10,stop_point:SP_1671,11 Novembre 1918,21
+2299310,09:32:00,09:32:10,stop_point:SP_2477,Béarn,22
+2299310,09:34:00,09:34:10,stop_point:SP_1769,Plaisance Monestié,23
+2299310,09:34:00,09:34:10,stop_point:SP_3862,Fauvettes,24
+2299310,09:35:00,09:35:10,stop_point:SP_5558,Gravette,25
+2299310,09:36:00,09:36:10,stop_point:SP_5554,Sabla,26
+2299310,09:37:00,09:37:10,stop_point:SP_5574,Serins,27
+2299310,09:38:00,09:38:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299310,09:44:00,09:44:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299311,09:40:00,09:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299311,09:43:00,09:43:10,stop_point:SP_2070,En Sigal,2
+2299311,09:44:00,09:44:10,stop_point:SP_4731,Tucol,3
+2299311,09:44:00,09:44:10,stop_point:SP_547,Esquillette,4
+2299311,09:45:00,09:45:10,stop_point:SP_3032,Place des Marots,5
+2299311,09:46:00,09:46:10,stop_point:SP_3713,Nasque,6
+2299311,09:46:00,09:46:10,stop_point:SP_1648,Cap Sicié,7
+2299311,09:47:00,09:47:10,stop_point:SP_5076,Bordeblanque,8
+2299311,09:49:00,09:49:10,stop_point:SP_3857,Giratoire Pluton,9
+2299311,09:50:00,09:50:10,stop_point:SP_2809,Centre de tri postal,10
+2299311,09:51:00,09:51:10,stop_point:SP_5322,Dr Charcot,11
+2299311,09:54:00,09:54:10,stop_point:SP_3533,A. Perdiguier,12
+2299311,09:55:00,09:55:10,stop_point:SP_4728,Peyrette,13
+2299311,09:56:00,09:56:10,stop_point:SP_2053,Mûriers,14
+2299311,09:57:00,09:57:10,stop_point:SP_2526,Puymorens,15
+2299311,09:57:00,09:57:10,stop_point:SP_2568,Taure,16
+2299311,09:58:00,09:58:10,stop_point:SP_1734,Italiens,17
+2299311,09:59:00,09:59:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299311,10:00:00,10:00:10,stop_point:SP_3254,Château d'eau,19
+2299311,10:01:00,10:01:10,stop_point:SP_1566,Bourdies,20
+2299311,10:02:00,10:02:10,stop_point:SP_1671,11 Novembre 1918,21
+2299311,10:02:00,10:02:10,stop_point:SP_2477,Béarn,22
+2299311,10:04:00,10:04:10,stop_point:SP_1769,Plaisance Monestié,23
+2299311,10:04:00,10:04:10,stop_point:SP_3862,Fauvettes,24
+2299311,10:05:00,10:05:10,stop_point:SP_5558,Gravette,25
+2299311,10:06:00,10:06:10,stop_point:SP_5554,Sabla,26
+2299311,10:07:00,10:07:10,stop_point:SP_5574,Serins,27
+2299311,10:08:00,10:08:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299311,10:14:00,10:14:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299312,10:15:00,10:15:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299312,10:18:00,10:18:10,stop_point:SP_2070,En Sigal,2
+2299312,10:19:00,10:19:10,stop_point:SP_4731,Tucol,3
+2299312,10:19:00,10:19:10,stop_point:SP_547,Esquillette,4
+2299312,10:20:00,10:20:10,stop_point:SP_3032,Place des Marots,5
+2299312,10:21:00,10:21:10,stop_point:SP_3713,Nasque,6
+2299312,10:21:00,10:21:10,stop_point:SP_1648,Cap Sicié,7
+2299312,10:22:00,10:22:10,stop_point:SP_5076,Bordeblanque,8
+2299312,10:24:00,10:24:10,stop_point:SP_3857,Giratoire Pluton,9
+2299312,10:25:00,10:25:10,stop_point:SP_2809,Centre de tri postal,10
+2299312,10:26:00,10:26:10,stop_point:SP_5322,Dr Charcot,11
+2299312,10:29:00,10:29:10,stop_point:SP_3533,A. Perdiguier,12
+2299312,10:30:00,10:30:10,stop_point:SP_4728,Peyrette,13
+2299312,10:31:00,10:31:10,stop_point:SP_2053,Mûriers,14
+2299312,10:32:00,10:32:10,stop_point:SP_2526,Puymorens,15
+2299312,10:32:00,10:32:10,stop_point:SP_2568,Taure,16
+2299312,10:33:00,10:33:10,stop_point:SP_1734,Italiens,17
+2299312,10:34:00,10:34:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299312,10:35:00,10:35:10,stop_point:SP_3254,Château d'eau,19
+2299312,10:36:00,10:36:10,stop_point:SP_1566,Bourdies,20
+2299312,10:37:00,10:37:10,stop_point:SP_1671,11 Novembre 1918,21
+2299312,10:37:00,10:37:10,stop_point:SP_2477,Béarn,22
+2299312,10:39:00,10:39:10,stop_point:SP_1769,Plaisance Monestié,23
+2299312,10:39:00,10:39:10,stop_point:SP_3862,Fauvettes,24
+2299312,10:40:00,10:40:10,stop_point:SP_5558,Gravette,25
+2299312,10:41:00,10:41:10,stop_point:SP_5554,Sabla,26
+2299312,10:42:00,10:42:10,stop_point:SP_5574,Serins,27
+2299312,10:43:00,10:43:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299312,10:49:00,10:49:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299313,10:50:00,10:50:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299313,10:53:00,10:53:10,stop_point:SP_2070,En Sigal,2
+2299313,10:54:00,10:54:10,stop_point:SP_4731,Tucol,3
+2299313,10:54:00,10:54:10,stop_point:SP_547,Esquillette,4
+2299313,10:55:00,10:55:10,stop_point:SP_3032,Place des Marots,5
+2299313,10:56:00,10:56:10,stop_point:SP_3713,Nasque,6
+2299313,10:56:00,10:56:10,stop_point:SP_1648,Cap Sicié,7
+2299313,10:57:00,10:57:10,stop_point:SP_5076,Bordeblanque,8
+2299313,10:59:00,10:59:10,stop_point:SP_3857,Giratoire Pluton,9
+2299313,11:00:00,11:00:10,stop_point:SP_2809,Centre de tri postal,10
+2299313,11:01:00,11:01:10,stop_point:SP_5322,Dr Charcot,11
+2299313,11:04:00,11:04:10,stop_point:SP_3533,A. Perdiguier,12
+2299313,11:05:00,11:05:10,stop_point:SP_4728,Peyrette,13
+2299313,11:06:00,11:06:10,stop_point:SP_2053,Mûriers,14
+2299313,11:07:00,11:07:10,stop_point:SP_2526,Puymorens,15
+2299313,11:07:00,11:07:10,stop_point:SP_2568,Taure,16
+2299313,11:08:00,11:08:10,stop_point:SP_1734,Italiens,17
+2299313,11:09:00,11:09:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299313,11:10:00,11:10:10,stop_point:SP_3254,Château d'eau,19
+2299313,11:11:00,11:11:10,stop_point:SP_1566,Bourdies,20
+2299313,11:12:00,11:12:10,stop_point:SP_1671,11 Novembre 1918,21
+2299313,11:12:00,11:12:10,stop_point:SP_2477,Béarn,22
+2299313,11:14:00,11:14:10,stop_point:SP_1769,Plaisance Monestié,23
+2299313,11:14:00,11:14:10,stop_point:SP_3862,Fauvettes,24
+2299313,11:15:00,11:15:10,stop_point:SP_5558,Gravette,25
+2299313,11:16:00,11:16:10,stop_point:SP_5554,Sabla,26
+2299313,11:17:00,11:17:10,stop_point:SP_5574,Serins,27
+2299313,11:18:00,11:18:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299313,11:24:00,11:24:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299314,11:25:00,11:25:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299314,11:28:00,11:28:10,stop_point:SP_2070,En Sigal,2
+2299314,11:29:00,11:29:10,stop_point:SP_4731,Tucol,3
+2299314,11:29:00,11:29:10,stop_point:SP_547,Esquillette,4
+2299314,11:30:00,11:30:10,stop_point:SP_3032,Place des Marots,5
+2299314,11:31:00,11:31:10,stop_point:SP_3713,Nasque,6
+2299314,11:31:00,11:31:10,stop_point:SP_1648,Cap Sicié,7
+2299314,11:32:00,11:32:10,stop_point:SP_5076,Bordeblanque,8
+2299314,11:34:00,11:34:10,stop_point:SP_3857,Giratoire Pluton,9
+2299314,11:35:00,11:35:10,stop_point:SP_2809,Centre de tri postal,10
+2299314,11:36:00,11:36:10,stop_point:SP_5322,Dr Charcot,11
+2299314,11:39:00,11:39:10,stop_point:SP_3533,A. Perdiguier,12
+2299314,11:40:00,11:40:10,stop_point:SP_4728,Peyrette,13
+2299314,11:41:00,11:41:10,stop_point:SP_2053,Mûriers,14
+2299314,11:42:00,11:42:10,stop_point:SP_2526,Puymorens,15
+2299314,11:42:00,11:42:10,stop_point:SP_2568,Taure,16
+2299314,11:43:00,11:43:10,stop_point:SP_1734,Italiens,17
+2299314,11:44:00,11:44:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299314,11:45:00,11:45:10,stop_point:SP_3254,Château d'eau,19
+2299314,11:46:00,11:46:10,stop_point:SP_1566,Bourdies,20
+2299314,11:47:00,11:47:10,stop_point:SP_1671,11 Novembre 1918,21
+2299314,11:47:00,11:47:10,stop_point:SP_2477,Béarn,22
+2299314,11:49:00,11:49:10,stop_point:SP_1769,Plaisance Monestié,23
+2299314,11:49:00,11:49:10,stop_point:SP_3862,Fauvettes,24
+2299314,11:50:00,11:50:10,stop_point:SP_5558,Gravette,25
+2299314,11:51:00,11:51:10,stop_point:SP_5554,Sabla,26
+2299314,11:52:00,11:52:10,stop_point:SP_5574,Serins,27
+2299314,11:53:00,11:53:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299314,11:59:00,11:59:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299315,12:00:00,12:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299315,12:03:00,12:03:10,stop_point:SP_2070,En Sigal,2
+2299315,12:04:00,12:04:10,stop_point:SP_4731,Tucol,3
+2299315,12:04:00,12:04:10,stop_point:SP_547,Esquillette,4
+2299315,12:05:00,12:05:10,stop_point:SP_3032,Place des Marots,5
+2299315,12:06:00,12:06:10,stop_point:SP_3713,Nasque,6
+2299315,12:06:00,12:06:10,stop_point:SP_1648,Cap Sicié,7
+2299315,12:07:00,12:07:10,stop_point:SP_5076,Bordeblanque,8
+2299315,12:09:00,12:09:10,stop_point:SP_3857,Giratoire Pluton,9
+2299315,12:10:00,12:10:10,stop_point:SP_2809,Centre de tri postal,10
+2299315,12:11:00,12:11:10,stop_point:SP_5322,Dr Charcot,11
+2299315,12:14:00,12:14:10,stop_point:SP_3533,A. Perdiguier,12
+2299315,12:15:00,12:15:10,stop_point:SP_4728,Peyrette,13
+2299315,12:16:00,12:16:10,stop_point:SP_2053,Mûriers,14
+2299315,12:17:00,12:17:10,stop_point:SP_2526,Puymorens,15
+2299315,12:17:00,12:17:10,stop_point:SP_2568,Taure,16
+2299315,12:18:00,12:18:10,stop_point:SP_1734,Italiens,17
+2299315,12:19:00,12:19:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299315,12:20:00,12:20:10,stop_point:SP_3254,Château d'eau,19
+2299315,12:21:00,12:21:10,stop_point:SP_1566,Bourdies,20
+2299315,12:22:00,12:22:10,stop_point:SP_1671,11 Novembre 1918,21
+2299315,12:22:00,12:22:10,stop_point:SP_2477,Béarn,22
+2299315,12:24:00,12:24:10,stop_point:SP_1769,Plaisance Monestié,23
+2299315,12:24:00,12:24:10,stop_point:SP_3862,Fauvettes,24
+2299315,12:25:00,12:25:10,stop_point:SP_5558,Gravette,25
+2299315,12:26:00,12:26:10,stop_point:SP_5554,Sabla,26
+2299315,12:27:00,12:27:10,stop_point:SP_5574,Serins,27
+2299315,12:28:00,12:28:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299315,12:34:00,12:34:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299316,12:40:00,12:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299316,12:43:00,12:43:10,stop_point:SP_2070,En Sigal,2
+2299316,12:44:00,12:44:10,stop_point:SP_4731,Tucol,3
+2299316,12:44:00,12:44:10,stop_point:SP_547,Esquillette,4
+2299316,12:45:00,12:45:10,stop_point:SP_3032,Place des Marots,5
+2299316,12:46:00,12:46:10,stop_point:SP_3713,Nasque,6
+2299316,12:46:00,12:46:10,stop_point:SP_1648,Cap Sicié,7
+2299316,12:47:00,12:47:10,stop_point:SP_5076,Bordeblanque,8
+2299316,12:49:00,12:49:10,stop_point:SP_3857,Giratoire Pluton,9
+2299316,12:50:00,12:50:10,stop_point:SP_2809,Centre de tri postal,10
+2299316,12:51:00,12:51:10,stop_point:SP_5322,Dr Charcot,11
+2299316,12:54:00,12:54:10,stop_point:SP_3533,A. Perdiguier,12
+2299316,12:55:00,12:55:10,stop_point:SP_4728,Peyrette,13
+2299316,12:56:00,12:56:10,stop_point:SP_2053,Mûriers,14
+2299316,12:57:00,12:57:10,stop_point:SP_2526,Puymorens,15
+2299316,12:57:00,12:57:10,stop_point:SP_2568,Taure,16
+2299316,12:58:00,12:58:10,stop_point:SP_1734,Italiens,17
+2299316,12:59:00,12:59:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299316,13:00:00,13:00:10,stop_point:SP_3254,Château d'eau,19
+2299316,13:01:00,13:01:10,stop_point:SP_1566,Bourdies,20
+2299316,13:02:00,13:02:10,stop_point:SP_1671,11 Novembre 1918,21
+2299316,13:02:00,13:02:10,stop_point:SP_2477,Béarn,22
+2299316,13:04:00,13:04:10,stop_point:SP_1769,Plaisance Monestié,23
+2299316,13:04:00,13:04:10,stop_point:SP_3862,Fauvettes,24
+2299316,13:05:00,13:05:10,stop_point:SP_5558,Gravette,25
+2299316,13:06:00,13:06:10,stop_point:SP_5554,Sabla,26
+2299316,13:07:00,13:07:10,stop_point:SP_5574,Serins,27
+2299316,13:08:00,13:08:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299316,13:14:00,13:14:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299317,13:10:00,13:10:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299317,13:13:00,13:13:10,stop_point:SP_2070,En Sigal,2
+2299317,13:14:00,13:14:10,stop_point:SP_4731,Tucol,3
+2299317,13:14:00,13:14:10,stop_point:SP_547,Esquillette,4
+2299317,13:15:00,13:15:10,stop_point:SP_3032,Place des Marots,5
+2299317,13:16:00,13:16:10,stop_point:SP_3713,Nasque,6
+2299317,13:16:00,13:16:10,stop_point:SP_1648,Cap Sicié,7
+2299317,13:17:00,13:17:10,stop_point:SP_5076,Bordeblanque,8
+2299317,13:19:00,13:19:10,stop_point:SP_3857,Giratoire Pluton,9
+2299317,13:20:00,13:20:10,stop_point:SP_2809,Centre de tri postal,10
+2299317,13:21:00,13:21:10,stop_point:SP_5322,Dr Charcot,11
+2299317,13:24:00,13:24:10,stop_point:SP_3533,A. Perdiguier,12
+2299317,13:25:00,13:25:10,stop_point:SP_4728,Peyrette,13
+2299317,13:26:00,13:26:10,stop_point:SP_2053,Mûriers,14
+2299317,13:27:00,13:27:10,stop_point:SP_2526,Puymorens,15
+2299317,13:27:00,13:27:10,stop_point:SP_2568,Taure,16
+2299317,13:28:00,13:28:10,stop_point:SP_1734,Italiens,17
+2299317,13:29:00,13:29:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299317,13:30:00,13:30:10,stop_point:SP_3254,Château d'eau,19
+2299317,13:31:00,13:31:10,stop_point:SP_1566,Bourdies,20
+2299317,13:32:00,13:32:10,stop_point:SP_1671,11 Novembre 1918,21
+2299317,13:32:00,13:32:10,stop_point:SP_2477,Béarn,22
+2299317,13:34:00,13:34:10,stop_point:SP_1769,Plaisance Monestié,23
+2299317,13:34:00,13:34:10,stop_point:SP_3862,Fauvettes,24
+2299317,13:35:00,13:35:10,stop_point:SP_5558,Gravette,25
+2299317,13:36:00,13:36:10,stop_point:SP_5554,Sabla,26
+2299317,13:37:00,13:37:10,stop_point:SP_5574,Serins,27
+2299317,13:38:00,13:38:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299317,13:44:00,13:44:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299318,13:45:00,13:45:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299318,13:48:00,13:48:10,stop_point:SP_2070,En Sigal,2
+2299318,13:49:00,13:49:10,stop_point:SP_4731,Tucol,3
+2299318,13:49:00,13:49:10,stop_point:SP_547,Esquillette,4
+2299318,13:50:00,13:50:10,stop_point:SP_3032,Place des Marots,5
+2299318,13:51:00,13:51:10,stop_point:SP_3713,Nasque,6
+2299318,13:51:00,13:51:10,stop_point:SP_1648,Cap Sicié,7
+2299318,13:52:00,13:52:10,stop_point:SP_5076,Bordeblanque,8
+2299318,13:54:00,13:54:10,stop_point:SP_3857,Giratoire Pluton,9
+2299318,13:55:00,13:55:10,stop_point:SP_2809,Centre de tri postal,10
+2299318,13:56:00,13:56:10,stop_point:SP_5322,Dr Charcot,11
+2299318,13:59:00,13:59:10,stop_point:SP_3533,A. Perdiguier,12
+2299318,14:00:00,14:00:10,stop_point:SP_4728,Peyrette,13
+2299318,14:01:00,14:01:10,stop_point:SP_2053,Mûriers,14
+2299318,14:02:00,14:02:10,stop_point:SP_2526,Puymorens,15
+2299318,14:02:00,14:02:10,stop_point:SP_2568,Taure,16
+2299318,14:03:00,14:03:10,stop_point:SP_1734,Italiens,17
+2299318,14:04:00,14:04:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299318,14:05:00,14:05:10,stop_point:SP_3254,Château d'eau,19
+2299318,14:06:00,14:06:10,stop_point:SP_1566,Bourdies,20
+2299318,14:07:00,14:07:10,stop_point:SP_1671,11 Novembre 1918,21
+2299318,14:07:00,14:07:10,stop_point:SP_2477,Béarn,22
+2299318,14:09:00,14:09:10,stop_point:SP_1769,Plaisance Monestié,23
+2299318,14:09:00,14:09:10,stop_point:SP_3862,Fauvettes,24
+2299318,14:10:00,14:10:10,stop_point:SP_5558,Gravette,25
+2299318,14:11:00,14:11:10,stop_point:SP_5554,Sabla,26
+2299318,14:12:00,14:12:10,stop_point:SP_5574,Serins,27
+2299318,14:13:00,14:13:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299318,14:19:00,14:19:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299319,14:20:00,14:20:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299319,14:23:00,14:23:10,stop_point:SP_2070,En Sigal,2
+2299319,14:24:00,14:24:10,stop_point:SP_4731,Tucol,3
+2299319,14:24:00,14:24:10,stop_point:SP_547,Esquillette,4
+2299319,14:25:00,14:25:10,stop_point:SP_3032,Place des Marots,5
+2299319,14:26:00,14:26:10,stop_point:SP_3713,Nasque,6
+2299319,14:26:00,14:26:10,stop_point:SP_1648,Cap Sicié,7
+2299319,14:27:00,14:27:10,stop_point:SP_5076,Bordeblanque,8
+2299319,14:29:00,14:29:10,stop_point:SP_3857,Giratoire Pluton,9
+2299319,14:30:00,14:30:10,stop_point:SP_2809,Centre de tri postal,10
+2299319,14:31:00,14:31:10,stop_point:SP_5322,Dr Charcot,11
+2299319,14:34:00,14:34:10,stop_point:SP_3533,A. Perdiguier,12
+2299319,14:35:00,14:35:10,stop_point:SP_4728,Peyrette,13
+2299319,14:36:00,14:36:10,stop_point:SP_2053,Mûriers,14
+2299319,14:37:00,14:37:10,stop_point:SP_2526,Puymorens,15
+2299319,14:37:00,14:37:10,stop_point:SP_2568,Taure,16
+2299319,14:38:00,14:38:10,stop_point:SP_1734,Italiens,17
+2299319,14:39:00,14:39:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299319,14:40:00,14:40:10,stop_point:SP_3254,Château d'eau,19
+2299319,14:41:00,14:41:10,stop_point:SP_1566,Bourdies,20
+2299319,14:42:00,14:42:10,stop_point:SP_1671,11 Novembre 1918,21
+2299319,14:42:00,14:42:10,stop_point:SP_2477,Béarn,22
+2299319,14:44:00,14:44:10,stop_point:SP_1769,Plaisance Monestié,23
+2299319,14:44:00,14:44:10,stop_point:SP_3862,Fauvettes,24
+2299319,14:45:00,14:45:10,stop_point:SP_5558,Gravette,25
+2299319,14:46:00,14:46:10,stop_point:SP_5554,Sabla,26
+2299319,14:47:00,14:47:10,stop_point:SP_5574,Serins,27
+2299319,14:48:00,14:48:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299319,14:54:00,14:54:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299320,14:55:00,14:55:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299320,14:58:00,14:58:10,stop_point:SP_2070,En Sigal,2
+2299320,14:59:00,14:59:10,stop_point:SP_4731,Tucol,3
+2299320,14:59:00,14:59:10,stop_point:SP_547,Esquillette,4
+2299320,15:00:00,15:00:10,stop_point:SP_3032,Place des Marots,5
+2299320,15:01:00,15:01:10,stop_point:SP_3713,Nasque,6
+2299320,15:01:00,15:01:10,stop_point:SP_1648,Cap Sicié,7
+2299320,15:02:00,15:02:10,stop_point:SP_5076,Bordeblanque,8
+2299320,15:04:00,15:04:10,stop_point:SP_3857,Giratoire Pluton,9
+2299320,15:05:00,15:05:10,stop_point:SP_2809,Centre de tri postal,10
+2299320,15:06:00,15:06:10,stop_point:SP_5322,Dr Charcot,11
+2299320,15:09:00,15:09:10,stop_point:SP_3533,A. Perdiguier,12
+2299320,15:10:00,15:10:10,stop_point:SP_4728,Peyrette,13
+2299320,15:11:00,15:11:10,stop_point:SP_2053,Mûriers,14
+2299320,15:12:00,15:12:10,stop_point:SP_2526,Puymorens,15
+2299320,15:12:00,15:12:10,stop_point:SP_2568,Taure,16
+2299320,15:13:00,15:13:10,stop_point:SP_1734,Italiens,17
+2299320,15:14:00,15:14:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299320,15:15:00,15:15:10,stop_point:SP_3254,Château d'eau,19
+2299320,15:16:00,15:16:10,stop_point:SP_1566,Bourdies,20
+2299320,15:17:00,15:17:10,stop_point:SP_1671,11 Novembre 1918,21
+2299320,15:17:00,15:17:10,stop_point:SP_2477,Béarn,22
+2299320,15:19:00,15:19:10,stop_point:SP_1769,Plaisance Monestié,23
+2299320,15:19:00,15:19:10,stop_point:SP_3862,Fauvettes,24
+2299320,15:20:00,15:20:10,stop_point:SP_5558,Gravette,25
+2299320,15:21:00,15:21:10,stop_point:SP_5554,Sabla,26
+2299320,15:22:00,15:22:10,stop_point:SP_5574,Serins,27
+2299320,15:23:00,15:23:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299320,15:29:00,15:29:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299321,15:40:00,15:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299321,15:43:00,15:43:10,stop_point:SP_2070,En Sigal,2
+2299321,15:44:00,15:44:10,stop_point:SP_4731,Tucol,3
+2299321,15:45:00,15:45:10,stop_point:SP_547,Esquillette,4
+2299321,15:46:00,15:46:10,stop_point:SP_3032,Place des Marots,5
+2299321,15:47:00,15:47:10,stop_point:SP_3713,Nasque,6
+2299321,15:47:00,15:47:10,stop_point:SP_1648,Cap Sicié,7
+2299321,15:48:00,15:48:10,stop_point:SP_5076,Bordeblanque,8
+2299321,15:50:00,15:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2299321,15:51:00,15:51:10,stop_point:SP_2809,Centre de tri postal,10
+2299321,15:52:00,15:52:10,stop_point:SP_5322,Dr Charcot,11
+2299321,15:55:00,15:55:10,stop_point:SP_3533,A. Perdiguier,12
+2299321,15:56:00,15:56:10,stop_point:SP_4728,Peyrette,13
+2299321,15:57:00,15:57:10,stop_point:SP_2053,Mûriers,14
+2299321,15:58:00,15:58:10,stop_point:SP_2526,Puymorens,15
+2299321,15:58:00,15:58:10,stop_point:SP_2568,Taure,16
+2299321,15:59:00,15:59:10,stop_point:SP_1734,Italiens,17
+2299321,16:00:00,16:00:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299321,16:01:00,16:01:10,stop_point:SP_3254,Château d'eau,19
+2299321,16:02:00,16:02:10,stop_point:SP_1566,Bourdies,20
+2299321,16:03:00,16:03:10,stop_point:SP_1671,11 Novembre 1918,21
+2299321,16:03:00,16:03:10,stop_point:SP_2477,Béarn,22
+2299321,16:05:00,16:05:10,stop_point:SP_1769,Plaisance Monestié,23
+2299321,16:05:00,16:05:10,stop_point:SP_3862,Fauvettes,24
+2299321,16:06:00,16:06:10,stop_point:SP_5558,Gravette,25
+2299321,16:07:00,16:07:10,stop_point:SP_5554,Sabla,26
+2299321,16:08:00,16:08:10,stop_point:SP_5574,Serins,27
+2299321,16:09:00,16:09:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299321,16:15:00,16:15:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299322,16:10:00,16:10:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299322,16:13:00,16:13:10,stop_point:SP_2070,En Sigal,2
+2299322,16:14:00,16:14:10,stop_point:SP_4731,Tucol,3
+2299322,16:15:00,16:15:10,stop_point:SP_547,Esquillette,4
+2299322,16:16:00,16:16:10,stop_point:SP_3032,Place des Marots,5
+2299322,16:17:00,16:17:10,stop_point:SP_3713,Nasque,6
+2299322,16:17:00,16:17:10,stop_point:SP_1648,Cap Sicié,7
+2299322,16:18:00,16:18:10,stop_point:SP_5076,Bordeblanque,8
+2299322,16:20:00,16:20:10,stop_point:SP_3857,Giratoire Pluton,9
+2299322,16:21:00,16:21:10,stop_point:SP_2809,Centre de tri postal,10
+2299322,16:22:00,16:22:10,stop_point:SP_5322,Dr Charcot,11
+2299322,16:25:00,16:25:10,stop_point:SP_3533,A. Perdiguier,12
+2299322,16:26:00,16:26:10,stop_point:SP_4728,Peyrette,13
+2299322,16:27:00,16:27:10,stop_point:SP_2053,Mûriers,14
+2299322,16:28:00,16:28:10,stop_point:SP_2526,Puymorens,15
+2299322,16:29:00,16:29:10,stop_point:SP_2568,Taure,16
+2299322,16:30:00,16:30:10,stop_point:SP_1734,Italiens,17
+2299322,16:31:00,16:31:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299322,16:32:00,16:32:10,stop_point:SP_3254,Château d'eau,19
+2299322,16:33:00,16:33:10,stop_point:SP_1566,Bourdies,20
+2299322,16:34:00,16:34:10,stop_point:SP_1671,11 Novembre 1918,21
+2299322,16:34:00,16:34:10,stop_point:SP_2477,Béarn,22
+2299322,16:36:00,16:36:10,stop_point:SP_1769,Plaisance Monestié,23
+2299322,16:36:00,16:36:10,stop_point:SP_3862,Fauvettes,24
+2299322,16:37:00,16:37:10,stop_point:SP_5558,Gravette,25
+2299322,16:38:00,16:38:10,stop_point:SP_5554,Sabla,26
+2299322,16:39:00,16:39:10,stop_point:SP_5574,Serins,27
+2299322,16:40:00,16:40:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299322,16:46:00,16:46:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299323,16:30:00,16:30:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299323,16:33:00,16:33:10,stop_point:SP_2070,En Sigal,2
+2299323,16:34:00,16:34:10,stop_point:SP_4731,Tucol,3
+2299323,16:35:00,16:35:10,stop_point:SP_547,Esquillette,4
+2299323,16:36:00,16:36:10,stop_point:SP_3032,Place des Marots,5
+2299323,16:37:00,16:37:10,stop_point:SP_3713,Nasque,6
+2299323,16:37:00,16:37:10,stop_point:SP_1648,Cap Sicié,7
+2299323,16:38:00,16:38:10,stop_point:SP_5076,Bordeblanque,8
+2299323,16:40:00,16:40:10,stop_point:SP_3857,Giratoire Pluton,9
+2299323,16:41:00,16:41:10,stop_point:SP_2809,Centre de tri postal,10
+2299323,16:42:00,16:42:10,stop_point:SP_5322,Dr Charcot,11
+2299323,16:45:00,16:45:10,stop_point:SP_3533,A. Perdiguier,12
+2299323,16:46:00,16:46:10,stop_point:SP_4728,Peyrette,13
+2299323,16:47:00,16:47:10,stop_point:SP_2053,Mûriers,14
+2299323,16:48:00,16:48:10,stop_point:SP_2526,Puymorens,15
+2299323,16:49:00,16:49:10,stop_point:SP_2568,Taure,16
+2299323,16:50:00,16:50:10,stop_point:SP_1734,Italiens,17
+2299323,16:51:00,16:51:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299323,16:52:00,16:52:10,stop_point:SP_3254,Château d'eau,19
+2299323,16:53:00,16:53:10,stop_point:SP_1566,Bourdies,20
+2299323,16:54:00,16:54:10,stop_point:SP_1671,11 Novembre 1918,21
+2299323,16:54:00,16:54:10,stop_point:SP_2477,Béarn,22
+2299323,16:56:00,16:56:10,stop_point:SP_1769,Plaisance Monestié,23
+2299323,16:56:00,16:56:10,stop_point:SP_3862,Fauvettes,24
+2299323,16:57:00,16:57:10,stop_point:SP_5558,Gravette,25
+2299323,16:58:00,16:58:10,stop_point:SP_5554,Sabla,26
+2299323,16:59:00,16:59:10,stop_point:SP_5574,Serins,27
+2299323,17:00:00,17:00:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299323,17:06:00,17:06:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299324,16:55:00,16:55:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299324,16:58:00,16:58:10,stop_point:SP_2070,En Sigal,2
+2299324,16:59:00,16:59:10,stop_point:SP_4731,Tucol,3
+2299324,17:00:00,17:00:10,stop_point:SP_547,Esquillette,4
+2299324,17:01:00,17:01:10,stop_point:SP_3032,Place des Marots,5
+2299324,17:02:00,17:02:10,stop_point:SP_3713,Nasque,6
+2299324,17:02:00,17:02:10,stop_point:SP_1648,Cap Sicié,7
+2299324,17:03:00,17:03:10,stop_point:SP_5076,Bordeblanque,8
+2299324,17:05:00,17:05:10,stop_point:SP_3857,Giratoire Pluton,9
+2299324,17:06:00,17:06:10,stop_point:SP_2809,Centre de tri postal,10
+2299324,17:07:00,17:07:10,stop_point:SP_5322,Dr Charcot,11
+2299324,17:10:00,17:10:10,stop_point:SP_3533,A. Perdiguier,12
+2299324,17:11:00,17:11:10,stop_point:SP_4728,Peyrette,13
+2299324,17:12:00,17:12:10,stop_point:SP_2053,Mûriers,14
+2299324,17:13:00,17:13:10,stop_point:SP_2526,Puymorens,15
+2299324,17:14:00,17:14:10,stop_point:SP_2568,Taure,16
+2299324,17:15:00,17:15:10,stop_point:SP_1734,Italiens,17
+2299324,17:16:00,17:16:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299324,17:17:00,17:17:10,stop_point:SP_3254,Château d'eau,19
+2299324,17:18:00,17:18:10,stop_point:SP_1566,Bourdies,20
+2299324,17:19:00,17:19:10,stop_point:SP_1671,11 Novembre 1918,21
+2299324,17:19:00,17:19:10,stop_point:SP_2477,Béarn,22
+2299324,17:21:00,17:21:10,stop_point:SP_1769,Plaisance Monestié,23
+2299324,17:21:00,17:21:10,stop_point:SP_3862,Fauvettes,24
+2299324,17:22:00,17:22:10,stop_point:SP_5558,Gravette,25
+2299324,17:23:00,17:23:10,stop_point:SP_5554,Sabla,26
+2299324,17:24:00,17:24:10,stop_point:SP_5574,Serins,27
+2299324,17:25:00,17:25:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299324,17:31:00,17:31:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299325,17:20:00,17:20:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299325,17:23:00,17:23:10,stop_point:SP_2070,En Sigal,2
+2299325,17:24:00,17:24:10,stop_point:SP_4731,Tucol,3
+2299325,17:25:00,17:25:10,stop_point:SP_547,Esquillette,4
+2299325,17:26:00,17:26:10,stop_point:SP_3032,Place des Marots,5
+2299325,17:27:00,17:27:10,stop_point:SP_3713,Nasque,6
+2299325,17:27:00,17:27:10,stop_point:SP_1648,Cap Sicié,7
+2299325,17:28:00,17:28:10,stop_point:SP_5076,Bordeblanque,8
+2299325,17:30:00,17:30:10,stop_point:SP_3857,Giratoire Pluton,9
+2299325,17:31:00,17:31:10,stop_point:SP_2809,Centre de tri postal,10
+2299325,17:32:00,17:32:10,stop_point:SP_5322,Dr Charcot,11
+2299325,17:35:00,17:35:10,stop_point:SP_3533,A. Perdiguier,12
+2299325,17:36:00,17:36:10,stop_point:SP_4728,Peyrette,13
+2299325,17:37:00,17:37:10,stop_point:SP_2053,Mûriers,14
+2299325,17:38:00,17:38:10,stop_point:SP_2526,Puymorens,15
+2299325,17:39:00,17:39:10,stop_point:SP_2568,Taure,16
+2299325,17:40:00,17:40:10,stop_point:SP_1734,Italiens,17
+2299325,17:41:00,17:41:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299325,17:42:00,17:42:10,stop_point:SP_3254,Château d'eau,19
+2299325,17:43:00,17:43:10,stop_point:SP_1566,Bourdies,20
+2299325,17:44:00,17:44:10,stop_point:SP_1671,11 Novembre 1918,21
+2299325,17:44:00,17:44:10,stop_point:SP_2477,Béarn,22
+2299325,17:46:00,17:46:10,stop_point:SP_1769,Plaisance Monestié,23
+2299325,17:46:00,17:46:10,stop_point:SP_3862,Fauvettes,24
+2299325,17:47:00,17:47:10,stop_point:SP_5558,Gravette,25
+2299325,17:48:00,17:48:10,stop_point:SP_5554,Sabla,26
+2299325,17:49:00,17:49:10,stop_point:SP_5574,Serins,27
+2299325,17:50:00,17:50:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299325,17:56:00,17:56:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299326,17:45:00,17:45:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299326,17:48:00,17:48:10,stop_point:SP_2070,En Sigal,2
+2299326,17:49:00,17:49:10,stop_point:SP_4731,Tucol,3
+2299326,17:50:00,17:50:10,stop_point:SP_547,Esquillette,4
+2299326,17:51:00,17:51:10,stop_point:SP_3032,Place des Marots,5
+2299326,17:52:00,17:52:10,stop_point:SP_3713,Nasque,6
+2299326,17:52:00,17:52:10,stop_point:SP_1648,Cap Sicié,7
+2299326,17:53:00,17:53:10,stop_point:SP_5076,Bordeblanque,8
+2299326,17:55:00,17:55:10,stop_point:SP_3857,Giratoire Pluton,9
+2299326,17:56:00,17:56:10,stop_point:SP_2809,Centre de tri postal,10
+2299326,17:57:00,17:57:10,stop_point:SP_5322,Dr Charcot,11
+2299326,18:00:00,18:00:10,stop_point:SP_3533,A. Perdiguier,12
+2299326,18:01:00,18:01:10,stop_point:SP_4728,Peyrette,13
+2299326,18:02:00,18:02:10,stop_point:SP_2053,Mûriers,14
+2299326,18:03:00,18:03:10,stop_point:SP_2526,Puymorens,15
+2299326,18:03:00,18:03:10,stop_point:SP_2568,Taure,16
+2299326,18:04:00,18:04:10,stop_point:SP_1734,Italiens,17
+2299326,18:05:00,18:05:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299326,18:06:00,18:06:10,stop_point:SP_3254,Château d'eau,19
+2299326,18:07:00,18:07:10,stop_point:SP_1566,Bourdies,20
+2299326,18:08:00,18:08:10,stop_point:SP_1671,11 Novembre 1918,21
+2299326,18:08:00,18:08:10,stop_point:SP_2477,Béarn,22
+2299326,18:10:00,18:10:10,stop_point:SP_1769,Plaisance Monestié,23
+2299326,18:10:00,18:10:10,stop_point:SP_3862,Fauvettes,24
+2299326,18:11:00,18:11:10,stop_point:SP_5558,Gravette,25
+2299326,18:12:00,18:12:10,stop_point:SP_5554,Sabla,26
+2299326,18:13:00,18:13:10,stop_point:SP_5574,Serins,27
+2299326,18:14:00,18:14:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299326,18:20:00,18:20:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299327,18:10:00,18:10:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299327,18:13:00,18:13:10,stop_point:SP_2070,En Sigal,2
+2299327,18:14:00,18:14:10,stop_point:SP_4731,Tucol,3
+2299327,18:15:00,18:15:10,stop_point:SP_547,Esquillette,4
+2299327,18:16:00,18:16:10,stop_point:SP_3032,Place des Marots,5
+2299327,18:17:00,18:17:10,stop_point:SP_3713,Nasque,6
+2299327,18:17:00,18:17:10,stop_point:SP_1648,Cap Sicié,7
+2299327,18:18:00,18:18:10,stop_point:SP_5076,Bordeblanque,8
+2299327,18:20:00,18:20:10,stop_point:SP_3857,Giratoire Pluton,9
+2299327,18:21:00,18:21:10,stop_point:SP_2809,Centre de tri postal,10
+2299327,18:22:00,18:22:10,stop_point:SP_5322,Dr Charcot,11
+2299327,18:25:00,18:25:10,stop_point:SP_3533,A. Perdiguier,12
+2299327,18:26:00,18:26:10,stop_point:SP_4728,Peyrette,13
+2299327,18:27:00,18:27:10,stop_point:SP_2053,Mûriers,14
+2299327,18:28:00,18:28:10,stop_point:SP_2526,Puymorens,15
+2299327,18:28:00,18:28:10,stop_point:SP_2568,Taure,16
+2299327,18:29:00,18:29:10,stop_point:SP_1734,Italiens,17
+2299327,18:30:00,18:30:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299327,18:31:00,18:31:10,stop_point:SP_3254,Château d'eau,19
+2299327,18:32:00,18:32:10,stop_point:SP_1566,Bourdies,20
+2299327,18:33:00,18:33:10,stop_point:SP_1671,11 Novembre 1918,21
+2299327,18:33:00,18:33:10,stop_point:SP_2477,Béarn,22
+2299327,18:35:00,18:35:10,stop_point:SP_1769,Plaisance Monestié,23
+2299327,18:35:00,18:35:10,stop_point:SP_3862,Fauvettes,24
+2299327,18:36:00,18:36:10,stop_point:SP_5558,Gravette,25
+2299327,18:37:00,18:37:10,stop_point:SP_5554,Sabla,26
+2299327,18:38:00,18:38:10,stop_point:SP_5574,Serins,27
+2299327,18:39:00,18:39:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299327,18:45:00,18:45:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299328,18:40:00,18:40:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299328,18:43:00,18:43:10,stop_point:SP_2070,En Sigal,2
+2299328,18:44:00,18:44:10,stop_point:SP_4731,Tucol,3
+2299328,18:45:00,18:45:10,stop_point:SP_547,Esquillette,4
+2299328,18:46:00,18:46:10,stop_point:SP_3032,Place des Marots,5
+2299328,18:47:00,18:47:10,stop_point:SP_3713,Nasque,6
+2299328,18:47:00,18:47:10,stop_point:SP_1648,Cap Sicié,7
+2299328,18:48:00,18:48:10,stop_point:SP_5076,Bordeblanque,8
+2299328,18:50:00,18:50:10,stop_point:SP_3857,Giratoire Pluton,9
+2299328,18:51:00,18:51:10,stop_point:SP_2809,Centre de tri postal,10
+2299328,18:52:00,18:52:10,stop_point:SP_5322,Dr Charcot,11
+2299328,18:55:00,18:55:10,stop_point:SP_3533,A. Perdiguier,12
+2299328,18:55:00,18:55:10,stop_point:SP_4728,Peyrette,13
+2299328,18:56:00,18:56:10,stop_point:SP_2053,Mûriers,14
+2299328,18:57:00,18:57:10,stop_point:SP_2526,Puymorens,15
+2299328,18:57:00,18:57:10,stop_point:SP_2568,Taure,16
+2299328,18:59:00,18:59:10,stop_point:SP_1734,Italiens,17
+2299328,18:59:00,18:59:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299328,19:00:00,19:00:10,stop_point:SP_3254,Château d'eau,19
+2299328,19:01:00,19:01:10,stop_point:SP_1566,Bourdies,20
+2299328,19:02:00,19:02:10,stop_point:SP_1671,11 Novembre 1918,21
+2299328,19:02:00,19:02:10,stop_point:SP_2477,Béarn,22
+2299328,19:04:00,19:04:10,stop_point:SP_1769,Plaisance Monestié,23
+2299328,19:04:00,19:04:10,stop_point:SP_3862,Fauvettes,24
+2299328,19:05:00,19:05:10,stop_point:SP_5558,Gravette,25
+2299328,19:06:00,19:06:10,stop_point:SP_5554,Sabla,26
+2299328,19:07:00,19:07:10,stop_point:SP_5574,Serins,27
+2299328,19:08:00,19:08:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299328,19:14:00,19:14:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299329,19:00:00,19:00:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299329,19:03:00,19:03:10,stop_point:SP_2070,En Sigal,2
+2299329,19:04:00,19:04:10,stop_point:SP_4731,Tucol,3
+2299329,19:04:00,19:04:10,stop_point:SP_547,Esquillette,4
+2299329,19:05:00,19:05:10,stop_point:SP_3032,Place des Marots,5
+2299329,19:05:00,19:05:10,stop_point:SP_3713,Nasque,6
+2299329,19:06:00,19:06:10,stop_point:SP_1648,Cap Sicié,7
+2299329,19:07:00,19:07:10,stop_point:SP_5076,Bordeblanque,8
+2299329,19:08:00,19:08:10,stop_point:SP_3857,Giratoire Pluton,9
+2299329,19:09:00,19:09:10,stop_point:SP_2809,Centre de tri postal,10
+2299329,19:10:00,19:10:10,stop_point:SP_5322,Dr Charcot,11
+2299329,19:13:00,19:13:10,stop_point:SP_3533,A. Perdiguier,12
+2299329,19:13:00,19:13:10,stop_point:SP_4728,Peyrette,13
+2299329,19:14:00,19:14:10,stop_point:SP_2053,Mûriers,14
+2299329,19:15:00,19:15:10,stop_point:SP_2526,Puymorens,15
+2299329,19:15:00,19:15:10,stop_point:SP_2568,Taure,16
+2299329,19:17:00,19:17:10,stop_point:SP_1734,Italiens,17
+2299329,19:17:00,19:17:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299329,19:18:00,19:18:10,stop_point:SP_3254,Château d'eau,19
+2299329,19:19:00,19:19:10,stop_point:SP_1566,Bourdies,20
+2299329,19:20:00,19:20:10,stop_point:SP_1671,11 Novembre 1918,21
+2299329,19:20:00,19:20:10,stop_point:SP_2477,Béarn,22
+2299329,19:22:00,19:22:10,stop_point:SP_1769,Plaisance Monestié,23
+2299329,19:22:00,19:22:10,stop_point:SP_3862,Fauvettes,24
+2299329,19:23:00,19:23:10,stop_point:SP_5558,Gravette,25
+2299329,19:24:00,19:24:10,stop_point:SP_5554,Sabla,26
+2299329,19:25:00,19:25:10,stop_point:SP_5574,Serins,27
+2299329,19:26:00,19:26:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299329,19:32:00,19:32:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299330,19:27:00,19:27:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299330,19:30:00,19:30:10,stop_point:SP_2070,En Sigal,2
+2299330,19:31:00,19:31:10,stop_point:SP_4731,Tucol,3
+2299330,19:31:00,19:31:10,stop_point:SP_547,Esquillette,4
+2299330,19:32:00,19:32:10,stop_point:SP_3032,Place des Marots,5
+2299330,19:32:00,19:32:10,stop_point:SP_3713,Nasque,6
+2299330,19:33:00,19:33:10,stop_point:SP_1648,Cap Sicié,7
+2299330,19:34:00,19:34:10,stop_point:SP_5076,Bordeblanque,8
+2299330,19:35:00,19:35:10,stop_point:SP_3857,Giratoire Pluton,9
+2299330,19:36:00,19:36:10,stop_point:SP_2809,Centre de tri postal,10
+2299330,19:37:00,19:37:10,stop_point:SP_5322,Dr Charcot,11
+2299330,19:40:00,19:40:10,stop_point:SP_3533,A. Perdiguier,12
+2299330,19:40:00,19:40:10,stop_point:SP_4728,Peyrette,13
+2299330,19:41:00,19:41:10,stop_point:SP_2053,Mûriers,14
+2299330,19:42:00,19:42:10,stop_point:SP_2526,Puymorens,15
+2299330,19:42:00,19:42:10,stop_point:SP_2568,Taure,16
+2299330,19:44:00,19:44:10,stop_point:SP_1734,Italiens,17
+2299330,19:44:00,19:44:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299330,19:45:00,19:45:10,stop_point:SP_3254,Château d'eau,19
+2299330,19:46:00,19:46:10,stop_point:SP_1566,Bourdies,20
+2299330,19:47:00,19:47:10,stop_point:SP_1671,11 Novembre 1918,21
+2299330,19:47:00,19:47:10,stop_point:SP_2477,Béarn,22
+2299330,19:49:00,19:49:10,stop_point:SP_1769,Plaisance Monestié,23
+2299330,19:49:00,19:49:10,stop_point:SP_3862,Fauvettes,24
+2299330,19:50:00,19:50:10,stop_point:SP_5558,Gravette,25
+2299330,19:51:00,19:51:10,stop_point:SP_5554,Sabla,26
+2299330,19:52:00,19:52:10,stop_point:SP_5574,Serins,27
+2299330,19:53:00,19:53:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299330,19:59:00,19:59:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299331,19:57:00,19:57:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299331,20:00:00,20:00:10,stop_point:SP_2070,En Sigal,2
+2299331,20:01:00,20:01:10,stop_point:SP_4731,Tucol,3
+2299331,20:01:00,20:01:10,stop_point:SP_547,Esquillette,4
+2299331,20:02:00,20:02:10,stop_point:SP_3032,Place des Marots,5
+2299331,20:02:00,20:02:10,stop_point:SP_3713,Nasque,6
+2299331,20:03:00,20:03:10,stop_point:SP_1648,Cap Sicié,7
+2299331,20:04:00,20:04:10,stop_point:SP_5076,Bordeblanque,8
+2299331,20:05:00,20:05:10,stop_point:SP_3857,Giratoire Pluton,9
+2299331,20:06:00,20:06:10,stop_point:SP_2809,Centre de tri postal,10
+2299331,20:07:00,20:07:10,stop_point:SP_5322,Dr Charcot,11
+2299331,20:10:00,20:10:10,stop_point:SP_3533,A. Perdiguier,12
+2299331,20:10:00,20:10:10,stop_point:SP_4728,Peyrette,13
+2299331,20:11:00,20:11:10,stop_point:SP_2053,Mûriers,14
+2299331,20:12:00,20:12:10,stop_point:SP_2526,Puymorens,15
+2299331,20:12:00,20:12:10,stop_point:SP_2568,Taure,16
+2299331,20:14:00,20:14:10,stop_point:SP_1734,Italiens,17
+2299331,20:14:00,20:14:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299331,20:15:00,20:15:10,stop_point:SP_3254,Château d'eau,19
+2299331,20:16:00,20:16:10,stop_point:SP_1566,Bourdies,20
+2299331,20:17:00,20:17:10,stop_point:SP_1671,11 Novembre 1918,21
+2299331,20:17:00,20:17:10,stop_point:SP_2477,Béarn,22
+2299331,20:19:00,20:19:10,stop_point:SP_1769,Plaisance Monestié,23
+2299331,20:19:00,20:19:10,stop_point:SP_3862,Fauvettes,24
+2299331,20:20:00,20:20:10,stop_point:SP_5558,Gravette,25
+2299331,20:21:00,20:21:10,stop_point:SP_5554,Sabla,26
+2299331,20:22:00,20:22:10,stop_point:SP_5574,Serins,27
+2299331,20:23:00,20:23:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299331,20:29:00,20:29:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299332,20:27:00,20:27:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299332,20:30:00,20:30:10,stop_point:SP_2070,En Sigal,2
+2299332,20:31:00,20:31:10,stop_point:SP_4731,Tucol,3
+2299332,20:31:00,20:31:10,stop_point:SP_547,Esquillette,4
+2299332,20:32:00,20:32:10,stop_point:SP_3032,Place des Marots,5
+2299332,20:32:00,20:32:10,stop_point:SP_3713,Nasque,6
+2299332,20:33:00,20:33:10,stop_point:SP_1648,Cap Sicié,7
+2299332,20:34:00,20:34:10,stop_point:SP_5076,Bordeblanque,8
+2299332,20:35:00,20:35:10,stop_point:SP_3857,Giratoire Pluton,9
+2299332,20:36:00,20:36:10,stop_point:SP_2809,Centre de tri postal,10
+2299332,20:37:00,20:37:10,stop_point:SP_5322,Dr Charcot,11
+2299332,20:39:00,20:39:10,stop_point:SP_3533,A. Perdiguier,12
+2299332,20:40:00,20:40:10,stop_point:SP_4728,Peyrette,13
+2299332,20:40:00,20:40:10,stop_point:SP_2053,Mûriers,14
+2299332,20:41:00,20:41:10,stop_point:SP_2526,Puymorens,15
+2299332,20:42:00,20:42:10,stop_point:SP_2568,Taure,16
+2299332,20:43:00,20:43:10,stop_point:SP_1734,Italiens,17
+2299332,20:43:00,20:43:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299332,20:44:00,20:44:10,stop_point:SP_3254,Château d'eau,19
+2299332,20:45:00,20:45:10,stop_point:SP_1566,Bourdies,20
+2299332,20:46:00,20:46:10,stop_point:SP_1671,11 Novembre 1918,21
+2299332,20:46:00,20:46:10,stop_point:SP_2477,Béarn,22
+2299332,20:48:00,20:48:10,stop_point:SP_1769,Plaisance Monestié,23
+2299332,20:48:00,20:48:10,stop_point:SP_3862,Fauvettes,24
+2299332,20:49:00,20:49:10,stop_point:SP_5558,Gravette,25
+2299332,20:50:00,20:50:10,stop_point:SP_5554,Sabla,26
+2299332,20:51:00,20:51:10,stop_point:SP_5574,Serins,27
+2299332,20:52:00,20:52:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299332,20:58:00,20:58:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299333,20:57:00,20:57:10,stop_point:SP_2412,Colomiers Gare SNCF,1
+2299333,21:00:00,21:00:10,stop_point:SP_2070,En Sigal,2
+2299333,21:01:00,21:01:10,stop_point:SP_4731,Tucol,3
+2299333,21:01:00,21:01:10,stop_point:SP_547,Esquillette,4
+2299333,21:02:00,21:02:10,stop_point:SP_3032,Place des Marots,5
+2299333,21:02:00,21:02:10,stop_point:SP_3713,Nasque,6
+2299333,21:03:00,21:03:10,stop_point:SP_1648,Cap Sicié,7
+2299333,21:04:00,21:04:10,stop_point:SP_5076,Bordeblanque,8
+2299333,21:05:00,21:05:10,stop_point:SP_3857,Giratoire Pluton,9
+2299333,21:06:00,21:06:10,stop_point:SP_2809,Centre de tri postal,10
+2299333,21:07:00,21:07:10,stop_point:SP_5322,Dr Charcot,11
+2299333,21:09:00,21:09:10,stop_point:SP_3533,A. Perdiguier,12
+2299333,21:10:00,21:10:10,stop_point:SP_4728,Peyrette,13
+2299333,21:10:00,21:10:10,stop_point:SP_2053,Mûriers,14
+2299333,21:11:00,21:11:10,stop_point:SP_2526,Puymorens,15
+2299333,21:12:00,21:12:10,stop_point:SP_2568,Taure,16
+2299333,21:13:00,21:13:10,stop_point:SP_1734,Italiens,17
+2299333,21:13:00,21:13:10,stop_point:SP_2773,Mairie La Salvetat,18
+2299333,21:14:00,21:14:10,stop_point:SP_3254,Château d'eau,19
+2299333,21:15:00,21:15:10,stop_point:SP_1566,Bourdies,20
+2299333,21:16:00,21:16:10,stop_point:SP_1671,11 Novembre 1918,21
+2299333,21:16:00,21:16:10,stop_point:SP_2477,Béarn,22
+2299333,21:18:00,21:18:10,stop_point:SP_1769,Plaisance Monestié,23
+2299333,21:18:00,21:18:10,stop_point:SP_3862,Fauvettes,24
+2299333,21:19:00,21:19:10,stop_point:SP_5558,Gravette,25
+2299333,21:20:00,21:20:10,stop_point:SP_5554,Sabla,26
+2299333,21:21:00,21:21:10,stop_point:SP_5574,Serins,27
+2299333,21:22:00,21:22:10,stop_point:SP_5538,Plaisance Ousseau,28
+2299333,21:28:00,21:28:10,stop_point:SP_5537,Plaisance Ousseau,29
+2299334,05:45:00,05:45:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299334,05:45:00,05:45:10,stop_point:SP_5583,Serins,2
+2299334,05:47:00,05:47:10,stop_point:SP_5557,Sabla,3
+2299334,05:49:00,05:49:10,stop_point:SP_5553,Gravette,4
+2299334,05:50:00,05:50:10,stop_point:SP_3780,Fauvettes,5
+2299334,05:51:00,05:51:10,stop_point:SP_5560,Plaisance Monestié,6
+2299334,05:52:00,05:52:10,stop_point:SP_576,Béarn,7
+2299334,05:53:00,05:53:10,stop_point:SP_3150,11 Novembre 1918,8
+2299334,05:55:00,05:55:10,stop_point:SP_2475,Bourdies,9
+2299334,05:56:00,05:56:10,stop_point:SP_1048,Château d'eau,10
+2299334,05:57:00,05:57:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299334,05:57:00,05:57:10,stop_point:SP_881,Italiens,12
+2299334,05:59:00,05:59:10,stop_point:SP_3139,Taure,13
+2299334,05:59:00,05:59:10,stop_point:SP_2144,Puymorens,14
+2299334,06:00:00,06:00:10,stop_point:SP_2494,Mûriers,15
+2299334,06:01:00,06:01:10,stop_point:SP_4730,Peyrette,16
+2299334,06:02:00,06:02:10,stop_point:SP_2435,A. Perdiguier,17
+2299334,06:04:00,06:04:10,stop_point:SP_5324,Dr Charcot,18
+2299334,06:05:00,06:05:10,stop_point:SP_2972,Centre de tri postal,19
+2299334,06:06:00,06:06:10,stop_point:SP_3075,Giratoire Pluton,20
+2299334,06:08:00,06:08:10,stop_point:SP_5077,Bordeblanque,21
+2299334,06:09:00,06:09:10,stop_point:SP_2365,Cap Sicié,22
+2299334,06:09:00,06:09:10,stop_point:SP_2613,Nasque,23
+2299334,06:10:00,06:10:10,stop_point:SP_2309,Place des Marots,24
+2299334,06:10:00,06:10:10,stop_point:SP_1941,Esquillette,25
+2299334,06:11:00,06:11:10,stop_point:SP_4727,Tucol,26
+2299334,06:12:00,06:12:10,stop_point:SP_1745,En Sigal,27
+2299334,06:14:00,06:14:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299335,06:10:00,06:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299335,06:11:00,06:11:10,stop_point:SP_5583,Serins,2
+2299335,06:12:00,06:12:10,stop_point:SP_5557,Sabla,3
+2299335,06:14:00,06:14:10,stop_point:SP_5553,Gravette,4
+2299335,06:16:00,06:16:10,stop_point:SP_3780,Fauvettes,5
+2299335,06:16:00,06:16:10,stop_point:SP_5560,Plaisance Monestié,6
+2299335,06:18:00,06:18:10,stop_point:SP_576,Béarn,7
+2299335,06:19:00,06:19:10,stop_point:SP_3150,11 Novembre 1918,8
+2299335,06:20:00,06:20:10,stop_point:SP_2475,Bourdies,9
+2299335,06:22:00,06:22:10,stop_point:SP_1048,Château d'eau,10
+2299335,06:23:00,06:23:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299335,06:23:00,06:23:10,stop_point:SP_881,Italiens,12
+2299335,06:25:00,06:25:10,stop_point:SP_3139,Taure,13
+2299335,06:25:00,06:25:10,stop_point:SP_2144,Puymorens,14
+2299335,06:26:00,06:26:10,stop_point:SP_2494,Mûriers,15
+2299335,06:27:00,06:27:10,stop_point:SP_4730,Peyrette,16
+2299335,06:28:00,06:28:10,stop_point:SP_2435,A. Perdiguier,17
+2299335,06:30:00,06:30:10,stop_point:SP_5324,Dr Charcot,18
+2299335,06:31:00,06:31:10,stop_point:SP_2972,Centre de tri postal,19
+2299335,06:32:00,06:32:10,stop_point:SP_3075,Giratoire Pluton,20
+2299335,06:34:00,06:34:10,stop_point:SP_5077,Bordeblanque,21
+2299335,06:35:00,06:35:10,stop_point:SP_2365,Cap Sicié,22
+2299335,06:35:00,06:35:10,stop_point:SP_2613,Nasque,23
+2299335,06:36:00,06:36:10,stop_point:SP_2309,Place des Marots,24
+2299335,06:36:00,06:36:10,stop_point:SP_1941,Esquillette,25
+2299335,06:37:00,06:37:10,stop_point:SP_4727,Tucol,26
+2299335,06:38:00,06:38:10,stop_point:SP_1745,En Sigal,27
+2299335,06:40:00,06:40:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299336,06:35:00,06:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299336,06:36:00,06:36:10,stop_point:SP_5583,Serins,2
+2299336,06:37:00,06:37:10,stop_point:SP_5557,Sabla,3
+2299336,06:39:00,06:39:10,stop_point:SP_5553,Gravette,4
+2299336,06:41:00,06:41:10,stop_point:SP_3780,Fauvettes,5
+2299336,06:41:00,06:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2299336,06:43:00,06:43:10,stop_point:SP_576,Béarn,7
+2299336,06:44:00,06:44:10,stop_point:SP_3150,11 Novembre 1918,8
+2299336,06:45:00,06:45:10,stop_point:SP_2475,Bourdies,9
+2299336,06:47:00,06:47:10,stop_point:SP_1048,Château d'eau,10
+2299336,06:48:00,06:48:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299336,06:48:00,06:48:10,stop_point:SP_881,Italiens,12
+2299336,06:50:00,06:50:10,stop_point:SP_3139,Taure,13
+2299336,06:51:00,06:51:10,stop_point:SP_2144,Puymorens,14
+2299336,06:52:00,06:52:10,stop_point:SP_2494,Mûriers,15
+2299336,06:52:00,06:52:10,stop_point:SP_4730,Peyrette,16
+2299336,06:53:00,06:53:10,stop_point:SP_2435,A. Perdiguier,17
+2299336,06:56:00,06:56:10,stop_point:SP_5324,Dr Charcot,18
+2299336,06:57:00,06:57:10,stop_point:SP_2972,Centre de tri postal,19
+2299336,06:58:00,06:58:10,stop_point:SP_3075,Giratoire Pluton,20
+2299336,07:00:00,07:00:10,stop_point:SP_5077,Bordeblanque,21
+2299336,07:02:00,07:02:10,stop_point:SP_2365,Cap Sicié,22
+2299336,07:02:00,07:02:10,stop_point:SP_2613,Nasque,23
+2299336,07:03:00,07:03:10,stop_point:SP_2309,Place des Marots,24
+2299336,07:03:00,07:03:10,stop_point:SP_1941,Esquillette,25
+2299336,07:04:00,07:04:10,stop_point:SP_4727,Tucol,26
+2299336,07:05:00,07:05:10,stop_point:SP_1745,En Sigal,27
+2299336,07:07:00,07:07:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299337,06:55:00,06:55:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299337,06:56:00,06:56:10,stop_point:SP_5583,Serins,2
+2299337,06:57:00,06:57:10,stop_point:SP_5557,Sabla,3
+2299337,06:59:00,06:59:10,stop_point:SP_5553,Gravette,4
+2299337,07:01:00,07:01:10,stop_point:SP_3780,Fauvettes,5
+2299337,07:02:00,07:02:10,stop_point:SP_5560,Plaisance Monestié,6
+2299337,07:03:00,07:03:10,stop_point:SP_576,Béarn,7
+2299337,07:05:00,07:05:10,stop_point:SP_3150,11 Novembre 1918,8
+2299337,07:06:00,07:06:10,stop_point:SP_2475,Bourdies,9
+2299337,07:08:00,07:08:10,stop_point:SP_1048,Château d'eau,10
+2299337,07:09:00,07:09:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299337,07:09:00,07:09:10,stop_point:SP_881,Italiens,12
+2299337,07:11:00,07:11:10,stop_point:SP_3139,Taure,13
+2299337,07:12:00,07:12:10,stop_point:SP_2144,Puymorens,14
+2299337,07:13:00,07:13:10,stop_point:SP_2494,Mûriers,15
+2299337,07:13:00,07:13:10,stop_point:SP_4730,Peyrette,16
+2299337,07:14:00,07:14:10,stop_point:SP_2435,A. Perdiguier,17
+2299337,07:17:00,07:17:10,stop_point:SP_5324,Dr Charcot,18
+2299337,07:18:00,07:18:10,stop_point:SP_2972,Centre de tri postal,19
+2299337,07:19:00,07:19:10,stop_point:SP_3075,Giratoire Pluton,20
+2299337,07:21:00,07:21:10,stop_point:SP_5077,Bordeblanque,21
+2299337,07:23:00,07:23:10,stop_point:SP_2365,Cap Sicié,22
+2299337,07:23:00,07:23:10,stop_point:SP_2613,Nasque,23
+2299337,07:24:00,07:24:10,stop_point:SP_2309,Place des Marots,24
+2299337,07:24:00,07:24:10,stop_point:SP_1941,Esquillette,25
+2299337,07:25:00,07:25:10,stop_point:SP_4727,Tucol,26
+2299337,07:26:00,07:26:10,stop_point:SP_1745,En Sigal,27
+2299337,07:28:00,07:28:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299338,07:15:00,07:15:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299338,07:16:00,07:16:10,stop_point:SP_5583,Serins,2
+2299338,07:17:00,07:17:10,stop_point:SP_5557,Sabla,3
+2299338,07:20:00,07:20:10,stop_point:SP_5553,Gravette,4
+2299338,07:21:00,07:21:10,stop_point:SP_3780,Fauvettes,5
+2299338,07:22:00,07:22:10,stop_point:SP_5560,Plaisance Monestié,6
+2299338,07:24:00,07:24:10,stop_point:SP_576,Béarn,7
+2299338,07:25:00,07:25:10,stop_point:SP_3150,11 Novembre 1918,8
+2299338,07:27:00,07:27:10,stop_point:SP_2475,Bourdies,9
+2299338,07:29:00,07:29:10,stop_point:SP_1048,Château d'eau,10
+2299338,07:30:00,07:30:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299338,07:30:00,07:30:10,stop_point:SP_881,Italiens,12
+2299338,07:32:00,07:32:10,stop_point:SP_3139,Taure,13
+2299338,07:33:00,07:33:10,stop_point:SP_2144,Puymorens,14
+2299338,07:34:00,07:34:10,stop_point:SP_2494,Mûriers,15
+2299338,07:34:00,07:34:10,stop_point:SP_4730,Peyrette,16
+2299338,07:35:00,07:35:10,stop_point:SP_2435,A. Perdiguier,17
+2299338,07:38:00,07:38:10,stop_point:SP_5324,Dr Charcot,18
+2299338,07:39:00,07:39:10,stop_point:SP_2972,Centre de tri postal,19
+2299338,07:40:00,07:40:10,stop_point:SP_3075,Giratoire Pluton,20
+2299338,07:42:00,07:42:10,stop_point:SP_5077,Bordeblanque,21
+2299338,07:44:00,07:44:10,stop_point:SP_2365,Cap Sicié,22
+2299338,07:44:00,07:44:10,stop_point:SP_2613,Nasque,23
+2299338,07:45:00,07:45:10,stop_point:SP_2309,Place des Marots,24
+2299338,07:45:00,07:45:10,stop_point:SP_1941,Esquillette,25
+2299338,07:46:00,07:46:10,stop_point:SP_4727,Tucol,26
+2299338,07:47:00,07:47:10,stop_point:SP_1745,En Sigal,27
+2299338,07:49:00,07:49:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299339,07:35:00,07:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299339,07:36:00,07:36:10,stop_point:SP_5583,Serins,2
+2299339,07:37:00,07:37:10,stop_point:SP_5557,Sabla,3
+2299339,07:40:00,07:40:10,stop_point:SP_5553,Gravette,4
+2299339,07:41:00,07:41:10,stop_point:SP_3780,Fauvettes,5
+2299339,07:42:00,07:42:10,stop_point:SP_5560,Plaisance Monestié,6
+2299339,07:44:00,07:44:10,stop_point:SP_576,Béarn,7
+2299339,07:45:00,07:45:10,stop_point:SP_3150,11 Novembre 1918,8
+2299339,07:47:00,07:47:10,stop_point:SP_2475,Bourdies,9
+2299339,07:49:00,07:49:10,stop_point:SP_1048,Château d'eau,10
+2299339,07:50:00,07:50:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299339,07:50:00,07:50:10,stop_point:SP_881,Italiens,12
+2299339,07:52:00,07:52:10,stop_point:SP_3139,Taure,13
+2299339,07:53:00,07:53:10,stop_point:SP_2144,Puymorens,14
+2299339,07:54:00,07:54:10,stop_point:SP_2494,Mûriers,15
+2299339,07:54:00,07:54:10,stop_point:SP_4730,Peyrette,16
+2299339,07:55:00,07:55:10,stop_point:SP_2435,A. Perdiguier,17
+2299339,07:58:00,07:58:10,stop_point:SP_5324,Dr Charcot,18
+2299339,07:59:00,07:59:10,stop_point:SP_2972,Centre de tri postal,19
+2299339,08:00:00,08:00:10,stop_point:SP_3075,Giratoire Pluton,20
+2299339,08:02:00,08:02:10,stop_point:SP_5077,Bordeblanque,21
+2299339,08:04:00,08:04:10,stop_point:SP_2365,Cap Sicié,22
+2299339,08:04:00,08:04:10,stop_point:SP_2613,Nasque,23
+2299339,08:05:00,08:05:10,stop_point:SP_2309,Place des Marots,24
+2299339,08:05:00,08:05:10,stop_point:SP_1941,Esquillette,25
+2299339,08:06:00,08:06:10,stop_point:SP_4727,Tucol,26
+2299339,08:07:00,08:07:10,stop_point:SP_1745,En Sigal,27
+2299339,08:09:00,08:09:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299340,07:55:00,07:55:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299340,07:56:00,07:56:10,stop_point:SP_5583,Serins,2
+2299340,07:57:00,07:57:10,stop_point:SP_5557,Sabla,3
+2299340,07:59:00,07:59:10,stop_point:SP_5553,Gravette,4
+2299340,08:01:00,08:01:10,stop_point:SP_3780,Fauvettes,5
+2299340,08:02:00,08:02:10,stop_point:SP_5560,Plaisance Monestié,6
+2299340,08:03:00,08:03:10,stop_point:SP_576,Béarn,7
+2299340,08:05:00,08:05:10,stop_point:SP_3150,11 Novembre 1918,8
+2299340,08:06:00,08:06:10,stop_point:SP_2475,Bourdies,9
+2299340,08:08:00,08:08:10,stop_point:SP_1048,Château d'eau,10
+2299340,08:09:00,08:09:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299340,08:09:00,08:09:10,stop_point:SP_881,Italiens,12
+2299340,08:11:00,08:11:10,stop_point:SP_3139,Taure,13
+2299340,08:11:00,08:11:10,stop_point:SP_2144,Puymorens,14
+2299340,08:12:00,08:12:10,stop_point:SP_2494,Mûriers,15
+2299340,08:13:00,08:13:10,stop_point:SP_4730,Peyrette,16
+2299340,08:14:00,08:14:10,stop_point:SP_2435,A. Perdiguier,17
+2299340,08:16:00,08:16:10,stop_point:SP_5324,Dr Charcot,18
+2299340,08:17:00,08:17:10,stop_point:SP_2972,Centre de tri postal,19
+2299340,08:18:00,08:18:10,stop_point:SP_3075,Giratoire Pluton,20
+2299340,08:20:00,08:20:10,stop_point:SP_5077,Bordeblanque,21
+2299340,08:22:00,08:22:10,stop_point:SP_2365,Cap Sicié,22
+2299340,08:22:00,08:22:10,stop_point:SP_2613,Nasque,23
+2299340,08:23:00,08:23:10,stop_point:SP_2309,Place des Marots,24
+2299340,08:23:00,08:23:10,stop_point:SP_1941,Esquillette,25
+2299340,08:24:00,08:24:10,stop_point:SP_4727,Tucol,26
+2299340,08:25:00,08:25:10,stop_point:SP_1745,En Sigal,27
+2299340,08:27:00,08:27:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299341,08:15:00,08:15:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299341,08:16:00,08:16:10,stop_point:SP_5583,Serins,2
+2299341,08:17:00,08:17:10,stop_point:SP_5557,Sabla,3
+2299341,08:19:00,08:19:10,stop_point:SP_5553,Gravette,4
+2299341,08:21:00,08:21:10,stop_point:SP_3780,Fauvettes,5
+2299341,08:22:00,08:22:10,stop_point:SP_5560,Plaisance Monestié,6
+2299341,08:23:00,08:23:10,stop_point:SP_576,Béarn,7
+2299341,08:25:00,08:25:10,stop_point:SP_3150,11 Novembre 1918,8
+2299341,08:26:00,08:26:10,stop_point:SP_2475,Bourdies,9
+2299341,08:28:00,08:28:10,stop_point:SP_1048,Château d'eau,10
+2299341,08:29:00,08:29:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299341,08:29:00,08:29:10,stop_point:SP_881,Italiens,12
+2299341,08:31:00,08:31:10,stop_point:SP_3139,Taure,13
+2299341,08:31:00,08:31:10,stop_point:SP_2144,Puymorens,14
+2299341,08:32:00,08:32:10,stop_point:SP_2494,Mûriers,15
+2299341,08:33:00,08:33:10,stop_point:SP_4730,Peyrette,16
+2299341,08:34:00,08:34:10,stop_point:SP_2435,A. Perdiguier,17
+2299341,08:36:00,08:36:10,stop_point:SP_5324,Dr Charcot,18
+2299341,08:37:00,08:37:10,stop_point:SP_2972,Centre de tri postal,19
+2299341,08:38:00,08:38:10,stop_point:SP_3075,Giratoire Pluton,20
+2299341,08:40:00,08:40:10,stop_point:SP_5077,Bordeblanque,21
+2299341,08:42:00,08:42:10,stop_point:SP_2365,Cap Sicié,22
+2299341,08:42:00,08:42:10,stop_point:SP_2613,Nasque,23
+2299341,08:43:00,08:43:10,stop_point:SP_2309,Place des Marots,24
+2299341,08:43:00,08:43:10,stop_point:SP_1941,Esquillette,25
+2299341,08:44:00,08:44:10,stop_point:SP_4727,Tucol,26
+2299341,08:45:00,08:45:10,stop_point:SP_1745,En Sigal,27
+2299341,08:47:00,08:47:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299342,08:35:00,08:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299342,08:36:00,08:36:10,stop_point:SP_5583,Serins,2
+2299342,08:37:00,08:37:10,stop_point:SP_5557,Sabla,3
+2299342,08:39:00,08:39:10,stop_point:SP_5553,Gravette,4
+2299342,08:41:00,08:41:10,stop_point:SP_3780,Fauvettes,5
+2299342,08:42:00,08:42:10,stop_point:SP_5560,Plaisance Monestié,6
+2299342,08:43:00,08:43:10,stop_point:SP_576,Béarn,7
+2299342,08:45:00,08:45:10,stop_point:SP_3150,11 Novembre 1918,8
+2299342,08:46:00,08:46:10,stop_point:SP_2475,Bourdies,9
+2299342,08:48:00,08:48:10,stop_point:SP_1048,Château d'eau,10
+2299342,08:49:00,08:49:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299342,08:49:00,08:49:10,stop_point:SP_881,Italiens,12
+2299342,08:51:00,08:51:10,stop_point:SP_3139,Taure,13
+2299342,08:51:00,08:51:10,stop_point:SP_2144,Puymorens,14
+2299342,08:52:00,08:52:10,stop_point:SP_2494,Mûriers,15
+2299342,08:53:00,08:53:10,stop_point:SP_4730,Peyrette,16
+2299342,08:54:00,08:54:10,stop_point:SP_2435,A. Perdiguier,17
+2299342,08:56:00,08:56:10,stop_point:SP_5324,Dr Charcot,18
+2299342,08:57:00,08:57:10,stop_point:SP_2972,Centre de tri postal,19
+2299342,08:58:00,08:58:10,stop_point:SP_3075,Giratoire Pluton,20
+2299342,09:00:00,09:00:10,stop_point:SP_5077,Bordeblanque,21
+2299342,09:02:00,09:02:10,stop_point:SP_2365,Cap Sicié,22
+2299342,09:02:00,09:02:10,stop_point:SP_2613,Nasque,23
+2299342,09:03:00,09:03:10,stop_point:SP_2309,Place des Marots,24
+2299342,09:03:00,09:03:10,stop_point:SP_1941,Esquillette,25
+2299342,09:04:00,09:04:10,stop_point:SP_4727,Tucol,26
+2299342,09:05:00,09:05:10,stop_point:SP_1745,En Sigal,27
+2299342,09:07:00,09:07:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299343,09:00:00,09:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299343,09:01:00,09:01:10,stop_point:SP_5583,Serins,2
+2299343,09:02:00,09:02:10,stop_point:SP_5557,Sabla,3
+2299343,09:04:00,09:04:10,stop_point:SP_5553,Gravette,4
+2299343,09:06:00,09:06:10,stop_point:SP_3780,Fauvettes,5
+2299343,09:06:00,09:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2299343,09:08:00,09:08:10,stop_point:SP_576,Béarn,7
+2299343,09:09:00,09:09:10,stop_point:SP_3150,11 Novembre 1918,8
+2299343,09:10:00,09:10:10,stop_point:SP_2475,Bourdies,9
+2299343,09:12:00,09:12:10,stop_point:SP_1048,Château d'eau,10
+2299343,09:13:00,09:13:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299343,09:13:00,09:13:10,stop_point:SP_881,Italiens,12
+2299343,09:15:00,09:15:10,stop_point:SP_3139,Taure,13
+2299343,09:15:00,09:15:10,stop_point:SP_2144,Puymorens,14
+2299343,09:16:00,09:16:10,stop_point:SP_2494,Mûriers,15
+2299343,09:17:00,09:17:10,stop_point:SP_4730,Peyrette,16
+2299343,09:18:00,09:18:10,stop_point:SP_2435,A. Perdiguier,17
+2299343,09:20:00,09:20:10,stop_point:SP_5324,Dr Charcot,18
+2299343,09:21:00,09:21:10,stop_point:SP_2972,Centre de tri postal,19
+2299343,09:22:00,09:22:10,stop_point:SP_3075,Giratoire Pluton,20
+2299343,09:24:00,09:24:10,stop_point:SP_5077,Bordeblanque,21
+2299343,09:26:00,09:26:10,stop_point:SP_2365,Cap Sicié,22
+2299343,09:26:00,09:26:10,stop_point:SP_2613,Nasque,23
+2299343,09:27:00,09:27:10,stop_point:SP_2309,Place des Marots,24
+2299343,09:27:00,09:27:10,stop_point:SP_1941,Esquillette,25
+2299343,09:28:00,09:28:10,stop_point:SP_4727,Tucol,26
+2299343,09:29:00,09:29:10,stop_point:SP_1745,En Sigal,27
+2299343,09:31:00,09:31:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299344,09:30:00,09:30:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299344,09:30:00,09:30:10,stop_point:SP_5583,Serins,2
+2299344,09:32:00,09:32:10,stop_point:SP_5557,Sabla,3
+2299344,09:34:00,09:34:10,stop_point:SP_5553,Gravette,4
+2299344,09:35:00,09:35:10,stop_point:SP_3780,Fauvettes,5
+2299344,09:36:00,09:36:10,stop_point:SP_5560,Plaisance Monestié,6
+2299344,09:37:00,09:37:10,stop_point:SP_576,Béarn,7
+2299344,09:38:00,09:38:10,stop_point:SP_3150,11 Novembre 1918,8
+2299344,09:40:00,09:40:10,stop_point:SP_2475,Bourdies,9
+2299344,09:41:00,09:41:10,stop_point:SP_1048,Château d'eau,10
+2299344,09:42:00,09:42:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299344,09:42:00,09:42:10,stop_point:SP_881,Italiens,12
+2299344,09:44:00,09:44:10,stop_point:SP_3139,Taure,13
+2299344,09:44:00,09:44:10,stop_point:SP_2144,Puymorens,14
+2299344,09:45:00,09:45:10,stop_point:SP_2494,Mûriers,15
+2299344,09:46:00,09:46:10,stop_point:SP_4730,Peyrette,16
+2299344,09:47:00,09:47:10,stop_point:SP_2435,A. Perdiguier,17
+2299344,09:49:00,09:49:10,stop_point:SP_5324,Dr Charcot,18
+2299344,09:50:00,09:50:10,stop_point:SP_2972,Centre de tri postal,19
+2299344,09:51:00,09:51:10,stop_point:SP_3075,Giratoire Pluton,20
+2299344,09:53:00,09:53:10,stop_point:SP_5077,Bordeblanque,21
+2299344,09:55:00,09:55:10,stop_point:SP_2365,Cap Sicié,22
+2299344,09:55:00,09:55:10,stop_point:SP_2613,Nasque,23
+2299344,09:56:00,09:56:10,stop_point:SP_2309,Place des Marots,24
+2299344,09:56:00,09:56:10,stop_point:SP_1941,Esquillette,25
+2299344,09:57:00,09:57:10,stop_point:SP_4727,Tucol,26
+2299344,09:58:00,09:58:10,stop_point:SP_1745,En Sigal,27
+2299344,10:00:00,10:00:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299345,10:05:00,10:05:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299345,10:05:00,10:05:10,stop_point:SP_5583,Serins,2
+2299345,10:07:00,10:07:10,stop_point:SP_5557,Sabla,3
+2299345,10:09:00,10:09:10,stop_point:SP_5553,Gravette,4
+2299345,10:10:00,10:10:10,stop_point:SP_3780,Fauvettes,5
+2299345,10:11:00,10:11:10,stop_point:SP_5560,Plaisance Monestié,6
+2299345,10:12:00,10:12:10,stop_point:SP_576,Béarn,7
+2299345,10:13:00,10:13:10,stop_point:SP_3150,11 Novembre 1918,8
+2299345,10:15:00,10:15:10,stop_point:SP_2475,Bourdies,9
+2299345,10:16:00,10:16:10,stop_point:SP_1048,Château d'eau,10
+2299345,10:17:00,10:17:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299345,10:17:00,10:17:10,stop_point:SP_881,Italiens,12
+2299345,10:19:00,10:19:10,stop_point:SP_3139,Taure,13
+2299345,10:19:00,10:19:10,stop_point:SP_2144,Puymorens,14
+2299345,10:20:00,10:20:10,stop_point:SP_2494,Mûriers,15
+2299345,10:21:00,10:21:10,stop_point:SP_4730,Peyrette,16
+2299345,10:22:00,10:22:10,stop_point:SP_2435,A. Perdiguier,17
+2299345,10:24:00,10:24:10,stop_point:SP_5324,Dr Charcot,18
+2299345,10:25:00,10:25:10,stop_point:SP_2972,Centre de tri postal,19
+2299345,10:26:00,10:26:10,stop_point:SP_3075,Giratoire Pluton,20
+2299345,10:28:00,10:28:10,stop_point:SP_5077,Bordeblanque,21
+2299345,10:30:00,10:30:10,stop_point:SP_2365,Cap Sicié,22
+2299345,10:30:00,10:30:10,stop_point:SP_2613,Nasque,23
+2299345,10:31:00,10:31:10,stop_point:SP_2309,Place des Marots,24
+2299345,10:31:00,10:31:10,stop_point:SP_1941,Esquillette,25
+2299345,10:32:00,10:32:10,stop_point:SP_4727,Tucol,26
+2299345,10:33:00,10:33:10,stop_point:SP_1745,En Sigal,27
+2299345,10:35:00,10:35:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299346,10:40:00,10:40:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299346,10:40:00,10:40:10,stop_point:SP_5583,Serins,2
+2299346,10:42:00,10:42:10,stop_point:SP_5557,Sabla,3
+2299346,10:44:00,10:44:10,stop_point:SP_5553,Gravette,4
+2299346,10:45:00,10:45:10,stop_point:SP_3780,Fauvettes,5
+2299346,10:46:00,10:46:10,stop_point:SP_5560,Plaisance Monestié,6
+2299346,10:47:00,10:47:10,stop_point:SP_576,Béarn,7
+2299346,10:48:00,10:48:10,stop_point:SP_3150,11 Novembre 1918,8
+2299346,10:50:00,10:50:10,stop_point:SP_2475,Bourdies,9
+2299346,10:51:00,10:51:10,stop_point:SP_1048,Château d'eau,10
+2299346,10:52:00,10:52:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299346,10:52:00,10:52:10,stop_point:SP_881,Italiens,12
+2299346,10:54:00,10:54:10,stop_point:SP_3139,Taure,13
+2299346,10:54:00,10:54:10,stop_point:SP_2144,Puymorens,14
+2299346,10:55:00,10:55:10,stop_point:SP_2494,Mûriers,15
+2299346,10:56:00,10:56:10,stop_point:SP_4730,Peyrette,16
+2299346,10:57:00,10:57:10,stop_point:SP_2435,A. Perdiguier,17
+2299346,10:59:00,10:59:10,stop_point:SP_5324,Dr Charcot,18
+2299346,11:00:00,11:00:10,stop_point:SP_2972,Centre de tri postal,19
+2299346,11:01:00,11:01:10,stop_point:SP_3075,Giratoire Pluton,20
+2299346,11:03:00,11:03:10,stop_point:SP_5077,Bordeblanque,21
+2299346,11:05:00,11:05:10,stop_point:SP_2365,Cap Sicié,22
+2299346,11:05:00,11:05:10,stop_point:SP_2613,Nasque,23
+2299346,11:06:00,11:06:10,stop_point:SP_2309,Place des Marots,24
+2299346,11:06:00,11:06:10,stop_point:SP_1941,Esquillette,25
+2299346,11:07:00,11:07:10,stop_point:SP_4727,Tucol,26
+2299346,11:08:00,11:08:10,stop_point:SP_1745,En Sigal,27
+2299346,11:10:00,11:10:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299347,11:15:00,11:15:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299347,11:15:00,11:15:10,stop_point:SP_5583,Serins,2
+2299347,11:17:00,11:17:10,stop_point:SP_5557,Sabla,3
+2299347,11:19:00,11:19:10,stop_point:SP_5553,Gravette,4
+2299347,11:20:00,11:20:10,stop_point:SP_3780,Fauvettes,5
+2299347,11:21:00,11:21:10,stop_point:SP_5560,Plaisance Monestié,6
+2299347,11:22:00,11:22:10,stop_point:SP_576,Béarn,7
+2299347,11:23:00,11:23:10,stop_point:SP_3150,11 Novembre 1918,8
+2299347,11:25:00,11:25:10,stop_point:SP_2475,Bourdies,9
+2299347,11:26:00,11:26:10,stop_point:SP_1048,Château d'eau,10
+2299347,11:27:00,11:27:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299347,11:27:00,11:27:10,stop_point:SP_881,Italiens,12
+2299347,11:29:00,11:29:10,stop_point:SP_3139,Taure,13
+2299347,11:29:00,11:29:10,stop_point:SP_2144,Puymorens,14
+2299347,11:30:00,11:30:10,stop_point:SP_2494,Mûriers,15
+2299347,11:31:00,11:31:10,stop_point:SP_4730,Peyrette,16
+2299347,11:32:00,11:32:10,stop_point:SP_2435,A. Perdiguier,17
+2299347,11:34:00,11:34:10,stop_point:SP_5324,Dr Charcot,18
+2299347,11:35:00,11:35:10,stop_point:SP_2972,Centre de tri postal,19
+2299347,11:36:00,11:36:10,stop_point:SP_3075,Giratoire Pluton,20
+2299347,11:38:00,11:38:10,stop_point:SP_5077,Bordeblanque,21
+2299347,11:40:00,11:40:10,stop_point:SP_2365,Cap Sicié,22
+2299347,11:40:00,11:40:10,stop_point:SP_2613,Nasque,23
+2299347,11:41:00,11:41:10,stop_point:SP_2309,Place des Marots,24
+2299347,11:41:00,11:41:10,stop_point:SP_1941,Esquillette,25
+2299347,11:42:00,11:42:10,stop_point:SP_4727,Tucol,26
+2299347,11:43:00,11:43:10,stop_point:SP_1745,En Sigal,27
+2299347,11:45:00,11:45:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299348,11:50:00,11:50:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299348,11:50:00,11:50:10,stop_point:SP_5583,Serins,2
+2299348,11:52:00,11:52:10,stop_point:SP_5557,Sabla,3
+2299348,11:54:00,11:54:10,stop_point:SP_5553,Gravette,4
+2299348,11:55:00,11:55:10,stop_point:SP_3780,Fauvettes,5
+2299348,11:56:00,11:56:10,stop_point:SP_5560,Plaisance Monestié,6
+2299348,11:57:00,11:57:10,stop_point:SP_576,Béarn,7
+2299348,11:58:00,11:58:10,stop_point:SP_3150,11 Novembre 1918,8
+2299348,12:00:00,12:00:10,stop_point:SP_2475,Bourdies,9
+2299348,12:01:00,12:01:10,stop_point:SP_1048,Château d'eau,10
+2299348,12:02:00,12:02:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299348,12:02:00,12:02:10,stop_point:SP_881,Italiens,12
+2299348,12:04:00,12:04:10,stop_point:SP_3139,Taure,13
+2299348,12:04:00,12:04:10,stop_point:SP_2144,Puymorens,14
+2299348,12:05:00,12:05:10,stop_point:SP_2494,Mûriers,15
+2299348,12:06:00,12:06:10,stop_point:SP_4730,Peyrette,16
+2299348,12:07:00,12:07:10,stop_point:SP_2435,A. Perdiguier,17
+2299348,12:09:00,12:09:10,stop_point:SP_5324,Dr Charcot,18
+2299348,12:10:00,12:10:10,stop_point:SP_2972,Centre de tri postal,19
+2299348,12:11:00,12:11:10,stop_point:SP_3075,Giratoire Pluton,20
+2299348,12:13:00,12:13:10,stop_point:SP_5077,Bordeblanque,21
+2299348,12:15:00,12:15:10,stop_point:SP_2365,Cap Sicié,22
+2299348,12:15:00,12:15:10,stop_point:SP_2613,Nasque,23
+2299348,12:16:00,12:16:10,stop_point:SP_2309,Place des Marots,24
+2299348,12:16:00,12:16:10,stop_point:SP_1941,Esquillette,25
+2299348,12:17:00,12:17:10,stop_point:SP_4727,Tucol,26
+2299348,12:18:00,12:18:10,stop_point:SP_1745,En Sigal,27
+2299348,12:20:00,12:20:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299349,12:25:00,12:25:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299349,12:25:00,12:25:10,stop_point:SP_5583,Serins,2
+2299349,12:27:00,12:27:10,stop_point:SP_5557,Sabla,3
+2299349,12:29:00,12:29:10,stop_point:SP_5553,Gravette,4
+2299349,12:30:00,12:30:10,stop_point:SP_3780,Fauvettes,5
+2299349,12:31:00,12:31:10,stop_point:SP_5560,Plaisance Monestié,6
+2299349,12:32:00,12:32:10,stop_point:SP_576,Béarn,7
+2299349,12:33:00,12:33:10,stop_point:SP_3150,11 Novembre 1918,8
+2299349,12:35:00,12:35:10,stop_point:SP_2475,Bourdies,9
+2299349,12:36:00,12:36:10,stop_point:SP_1048,Château d'eau,10
+2299349,12:37:00,12:37:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299349,12:37:00,12:37:10,stop_point:SP_881,Italiens,12
+2299349,12:39:00,12:39:10,stop_point:SP_3139,Taure,13
+2299349,12:39:00,12:39:10,stop_point:SP_2144,Puymorens,14
+2299349,12:40:00,12:40:10,stop_point:SP_2494,Mûriers,15
+2299349,12:41:00,12:41:10,stop_point:SP_4730,Peyrette,16
+2299349,12:42:00,12:42:10,stop_point:SP_2435,A. Perdiguier,17
+2299349,12:44:00,12:44:10,stop_point:SP_5324,Dr Charcot,18
+2299349,12:45:00,12:45:10,stop_point:SP_2972,Centre de tri postal,19
+2299349,12:46:00,12:46:10,stop_point:SP_3075,Giratoire Pluton,20
+2299349,12:48:00,12:48:10,stop_point:SP_5077,Bordeblanque,21
+2299349,12:50:00,12:50:10,stop_point:SP_2365,Cap Sicié,22
+2299349,12:50:00,12:50:10,stop_point:SP_2613,Nasque,23
+2299349,12:51:00,12:51:10,stop_point:SP_2309,Place des Marots,24
+2299349,12:51:00,12:51:10,stop_point:SP_1941,Esquillette,25
+2299349,12:52:00,12:52:10,stop_point:SP_4727,Tucol,26
+2299349,12:53:00,12:53:10,stop_point:SP_1745,En Sigal,27
+2299349,12:55:00,12:55:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299350,13:00:00,13:00:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299350,13:00:00,13:00:10,stop_point:SP_5583,Serins,2
+2299350,13:02:00,13:02:10,stop_point:SP_5557,Sabla,3
+2299350,13:04:00,13:04:10,stop_point:SP_5553,Gravette,4
+2299350,13:05:00,13:05:10,stop_point:SP_3780,Fauvettes,5
+2299350,13:06:00,13:06:10,stop_point:SP_5560,Plaisance Monestié,6
+2299350,13:07:00,13:07:10,stop_point:SP_576,Béarn,7
+2299350,13:08:00,13:08:10,stop_point:SP_3150,11 Novembre 1918,8
+2299350,13:10:00,13:10:10,stop_point:SP_2475,Bourdies,9
+2299350,13:11:00,13:11:10,stop_point:SP_1048,Château d'eau,10
+2299350,13:12:00,13:12:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299350,13:12:00,13:12:10,stop_point:SP_881,Italiens,12
+2299350,13:14:00,13:14:10,stop_point:SP_3139,Taure,13
+2299350,13:14:00,13:14:10,stop_point:SP_2144,Puymorens,14
+2299350,13:15:00,13:15:10,stop_point:SP_2494,Mûriers,15
+2299350,13:16:00,13:16:10,stop_point:SP_4730,Peyrette,16
+2299350,13:17:00,13:17:10,stop_point:SP_2435,A. Perdiguier,17
+2299350,13:19:00,13:19:10,stop_point:SP_5324,Dr Charcot,18
+2299350,13:20:00,13:20:10,stop_point:SP_2972,Centre de tri postal,19
+2299350,13:21:00,13:21:10,stop_point:SP_3075,Giratoire Pluton,20
+2299350,13:23:00,13:23:10,stop_point:SP_5077,Bordeblanque,21
+2299350,13:25:00,13:25:10,stop_point:SP_2365,Cap Sicié,22
+2299350,13:25:00,13:25:10,stop_point:SP_2613,Nasque,23
+2299350,13:26:00,13:26:10,stop_point:SP_2309,Place des Marots,24
+2299350,13:26:00,13:26:10,stop_point:SP_1941,Esquillette,25
+2299350,13:27:00,13:27:10,stop_point:SP_4727,Tucol,26
+2299350,13:28:00,13:28:10,stop_point:SP_1745,En Sigal,27
+2299350,13:30:00,13:30:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299351,13:35:00,13:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299351,13:35:00,13:35:10,stop_point:SP_5583,Serins,2
+2299351,13:37:00,13:37:10,stop_point:SP_5557,Sabla,3
+2299351,13:39:00,13:39:10,stop_point:SP_5553,Gravette,4
+2299351,13:40:00,13:40:10,stop_point:SP_3780,Fauvettes,5
+2299351,13:41:00,13:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2299351,13:42:00,13:42:10,stop_point:SP_576,Béarn,7
+2299351,13:43:00,13:43:10,stop_point:SP_3150,11 Novembre 1918,8
+2299351,13:45:00,13:45:10,stop_point:SP_2475,Bourdies,9
+2299351,13:46:00,13:46:10,stop_point:SP_1048,Château d'eau,10
+2299351,13:47:00,13:47:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299351,13:47:00,13:47:10,stop_point:SP_881,Italiens,12
+2299351,13:49:00,13:49:10,stop_point:SP_3139,Taure,13
+2299351,13:49:00,13:49:10,stop_point:SP_2144,Puymorens,14
+2299351,13:50:00,13:50:10,stop_point:SP_2494,Mûriers,15
+2299351,13:51:00,13:51:10,stop_point:SP_4730,Peyrette,16
+2299351,13:52:00,13:52:10,stop_point:SP_2435,A. Perdiguier,17
+2299351,13:54:00,13:54:10,stop_point:SP_5324,Dr Charcot,18
+2299351,13:55:00,13:55:10,stop_point:SP_2972,Centre de tri postal,19
+2299351,13:56:00,13:56:10,stop_point:SP_3075,Giratoire Pluton,20
+2299351,13:58:00,13:58:10,stop_point:SP_5077,Bordeblanque,21
+2299351,14:00:00,14:00:10,stop_point:SP_2365,Cap Sicié,22
+2299351,14:00:00,14:00:10,stop_point:SP_2613,Nasque,23
+2299351,14:01:00,14:01:10,stop_point:SP_2309,Place des Marots,24
+2299351,14:01:00,14:01:10,stop_point:SP_1941,Esquillette,25
+2299351,14:02:00,14:02:10,stop_point:SP_4727,Tucol,26
+2299351,14:03:00,14:03:10,stop_point:SP_1745,En Sigal,27
+2299351,14:05:00,14:05:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299352,14:10:00,14:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299352,14:10:00,14:10:10,stop_point:SP_5583,Serins,2
+2299352,14:12:00,14:12:10,stop_point:SP_5557,Sabla,3
+2299352,14:14:00,14:14:10,stop_point:SP_5553,Gravette,4
+2299352,14:15:00,14:15:10,stop_point:SP_3780,Fauvettes,5
+2299352,14:16:00,14:16:10,stop_point:SP_5560,Plaisance Monestié,6
+2299352,14:17:00,14:17:10,stop_point:SP_576,Béarn,7
+2299352,14:18:00,14:18:10,stop_point:SP_3150,11 Novembre 1918,8
+2299352,14:20:00,14:20:10,stop_point:SP_2475,Bourdies,9
+2299352,14:21:00,14:21:10,stop_point:SP_1048,Château d'eau,10
+2299352,14:22:00,14:22:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299352,14:22:00,14:22:10,stop_point:SP_881,Italiens,12
+2299352,14:24:00,14:24:10,stop_point:SP_3139,Taure,13
+2299352,14:24:00,14:24:10,stop_point:SP_2144,Puymorens,14
+2299352,14:25:00,14:25:10,stop_point:SP_2494,Mûriers,15
+2299352,14:26:00,14:26:10,stop_point:SP_4730,Peyrette,16
+2299352,14:27:00,14:27:10,stop_point:SP_2435,A. Perdiguier,17
+2299352,14:29:00,14:29:10,stop_point:SP_5324,Dr Charcot,18
+2299352,14:30:00,14:30:10,stop_point:SP_2972,Centre de tri postal,19
+2299352,14:31:00,14:31:10,stop_point:SP_3075,Giratoire Pluton,20
+2299352,14:33:00,14:33:10,stop_point:SP_5077,Bordeblanque,21
+2299352,14:35:00,14:35:10,stop_point:SP_2365,Cap Sicié,22
+2299352,14:35:00,14:35:10,stop_point:SP_2613,Nasque,23
+2299352,14:36:00,14:36:10,stop_point:SP_2309,Place des Marots,24
+2299352,14:36:00,14:36:10,stop_point:SP_1941,Esquillette,25
+2299352,14:37:00,14:37:10,stop_point:SP_4727,Tucol,26
+2299352,14:38:00,14:38:10,stop_point:SP_1745,En Sigal,27
+2299352,14:40:00,14:40:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299353,14:40:00,14:40:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299353,14:40:00,14:40:10,stop_point:SP_5583,Serins,2
+2299353,14:42:00,14:42:10,stop_point:SP_5557,Sabla,3
+2299353,14:44:00,14:44:10,stop_point:SP_5553,Gravette,4
+2299353,14:45:00,14:45:10,stop_point:SP_3780,Fauvettes,5
+2299353,14:46:00,14:46:10,stop_point:SP_5560,Plaisance Monestié,6
+2299353,14:47:00,14:47:10,stop_point:SP_576,Béarn,7
+2299353,14:48:00,14:48:10,stop_point:SP_3150,11 Novembre 1918,8
+2299353,14:50:00,14:50:10,stop_point:SP_2475,Bourdies,9
+2299353,14:51:00,14:51:10,stop_point:SP_1048,Château d'eau,10
+2299353,14:52:00,14:52:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299353,14:52:00,14:52:10,stop_point:SP_881,Italiens,12
+2299353,14:54:00,14:54:10,stop_point:SP_3139,Taure,13
+2299353,14:54:00,14:54:10,stop_point:SP_2144,Puymorens,14
+2299353,14:55:00,14:55:10,stop_point:SP_2494,Mûriers,15
+2299353,14:56:00,14:56:10,stop_point:SP_4730,Peyrette,16
+2299353,14:57:00,14:57:10,stop_point:SP_2435,A. Perdiguier,17
+2299353,14:59:00,14:59:10,stop_point:SP_5324,Dr Charcot,18
+2299353,15:00:00,15:00:10,stop_point:SP_2972,Centre de tri postal,19
+2299353,15:01:00,15:01:10,stop_point:SP_3075,Giratoire Pluton,20
+2299353,15:03:00,15:03:10,stop_point:SP_5077,Bordeblanque,21
+2299353,15:05:00,15:05:10,stop_point:SP_2365,Cap Sicié,22
+2299353,15:05:00,15:05:10,stop_point:SP_2613,Nasque,23
+2299353,15:06:00,15:06:10,stop_point:SP_2309,Place des Marots,24
+2299353,15:06:00,15:06:10,stop_point:SP_1941,Esquillette,25
+2299353,15:07:00,15:07:10,stop_point:SP_4727,Tucol,26
+2299353,15:08:00,15:08:10,stop_point:SP_1745,En Sigal,27
+2299353,15:10:00,15:10:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299354,15:15:00,15:15:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299354,15:15:00,15:15:10,stop_point:SP_5583,Serins,2
+2299354,15:17:00,15:17:10,stop_point:SP_5557,Sabla,3
+2299354,15:19:00,15:19:10,stop_point:SP_5553,Gravette,4
+2299354,15:20:00,15:20:10,stop_point:SP_3780,Fauvettes,5
+2299354,15:21:00,15:21:10,stop_point:SP_5560,Plaisance Monestié,6
+2299354,15:22:00,15:22:10,stop_point:SP_576,Béarn,7
+2299354,15:23:00,15:23:10,stop_point:SP_3150,11 Novembre 1918,8
+2299354,15:25:00,15:25:10,stop_point:SP_2475,Bourdies,9
+2299354,15:26:00,15:26:10,stop_point:SP_1048,Château d'eau,10
+2299354,15:27:00,15:27:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299354,15:27:00,15:27:10,stop_point:SP_881,Italiens,12
+2299354,15:29:00,15:29:10,stop_point:SP_3139,Taure,13
+2299354,15:29:00,15:29:10,stop_point:SP_2144,Puymorens,14
+2299354,15:30:00,15:30:10,stop_point:SP_2494,Mûriers,15
+2299354,15:31:00,15:31:10,stop_point:SP_4730,Peyrette,16
+2299354,15:32:00,15:32:10,stop_point:SP_2435,A. Perdiguier,17
+2299354,15:34:00,15:34:10,stop_point:SP_5324,Dr Charcot,18
+2299354,15:35:00,15:35:10,stop_point:SP_2972,Centre de tri postal,19
+2299354,15:36:00,15:36:10,stop_point:SP_3075,Giratoire Pluton,20
+2299354,15:38:00,15:38:10,stop_point:SP_5077,Bordeblanque,21
+2299354,15:40:00,15:40:10,stop_point:SP_2365,Cap Sicié,22
+2299354,15:40:00,15:40:10,stop_point:SP_2613,Nasque,23
+2299354,15:41:00,15:41:10,stop_point:SP_2309,Place des Marots,24
+2299354,15:41:00,15:41:10,stop_point:SP_1941,Esquillette,25
+2299354,15:42:00,15:42:10,stop_point:SP_4727,Tucol,26
+2299354,15:43:00,15:43:10,stop_point:SP_1745,En Sigal,27
+2299354,15:45:00,15:45:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299355,15:45:00,15:45:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299355,15:45:00,15:45:10,stop_point:SP_5583,Serins,2
+2299355,15:47:00,15:47:10,stop_point:SP_5557,Sabla,3
+2299355,15:49:00,15:49:10,stop_point:SP_5553,Gravette,4
+2299355,15:50:00,15:50:10,stop_point:SP_3780,Fauvettes,5
+2299355,15:51:00,15:51:10,stop_point:SP_5560,Plaisance Monestié,6
+2299355,15:52:00,15:52:10,stop_point:SP_576,Béarn,7
+2299355,15:53:00,15:53:10,stop_point:SP_3150,11 Novembre 1918,8
+2299355,15:55:00,15:55:10,stop_point:SP_2475,Bourdies,9
+2299355,15:56:00,15:56:10,stop_point:SP_1048,Château d'eau,10
+2299355,15:57:00,15:57:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299355,15:57:00,15:57:10,stop_point:SP_881,Italiens,12
+2299355,15:59:00,15:59:10,stop_point:SP_3139,Taure,13
+2299355,15:59:00,15:59:10,stop_point:SP_2144,Puymorens,14
+2299355,16:00:00,16:00:10,stop_point:SP_2494,Mûriers,15
+2299355,16:01:00,16:01:10,stop_point:SP_4730,Peyrette,16
+2299355,16:02:00,16:02:10,stop_point:SP_2435,A. Perdiguier,17
+2299355,16:04:00,16:04:10,stop_point:SP_5324,Dr Charcot,18
+2299355,16:05:00,16:05:10,stop_point:SP_2972,Centre de tri postal,19
+2299355,16:06:00,16:06:10,stop_point:SP_3075,Giratoire Pluton,20
+2299355,16:08:00,16:08:10,stop_point:SP_5077,Bordeblanque,21
+2299355,16:10:00,16:10:10,stop_point:SP_2365,Cap Sicié,22
+2299355,16:10:00,16:10:10,stop_point:SP_2613,Nasque,23
+2299355,16:11:00,16:11:10,stop_point:SP_2309,Place des Marots,24
+2299355,16:11:00,16:11:10,stop_point:SP_1941,Esquillette,25
+2299355,16:12:00,16:12:10,stop_point:SP_4727,Tucol,26
+2299355,16:13:00,16:13:10,stop_point:SP_1745,En Sigal,27
+2299355,16:15:00,16:15:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299356,16:15:00,16:15:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299356,16:16:00,16:16:10,stop_point:SP_5583,Serins,2
+2299356,16:17:00,16:17:10,stop_point:SP_5557,Sabla,3
+2299356,16:19:00,16:19:10,stop_point:SP_5553,Gravette,4
+2299356,16:21:00,16:21:10,stop_point:SP_3780,Fauvettes,5
+2299356,16:21:00,16:21:10,stop_point:SP_5560,Plaisance Monestié,6
+2299356,16:23:00,16:23:10,stop_point:SP_576,Béarn,7
+2299356,16:24:00,16:24:10,stop_point:SP_3150,11 Novembre 1918,8
+2299356,16:25:00,16:25:10,stop_point:SP_2475,Bourdies,9
+2299356,16:27:00,16:27:10,stop_point:SP_1048,Château d'eau,10
+2299356,16:28:00,16:28:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299356,16:28:00,16:28:10,stop_point:SP_881,Italiens,12
+2299356,16:30:00,16:30:10,stop_point:SP_3139,Taure,13
+2299356,16:30:00,16:30:10,stop_point:SP_2144,Puymorens,14
+2299356,16:31:00,16:31:10,stop_point:SP_2494,Mûriers,15
+2299356,16:32:00,16:32:10,stop_point:SP_4730,Peyrette,16
+2299356,16:33:00,16:33:10,stop_point:SP_2435,A. Perdiguier,17
+2299356,16:35:00,16:35:10,stop_point:SP_5324,Dr Charcot,18
+2299356,16:36:00,16:36:10,stop_point:SP_2972,Centre de tri postal,19
+2299356,16:37:00,16:37:10,stop_point:SP_3075,Giratoire Pluton,20
+2299356,16:39:00,16:39:10,stop_point:SP_5077,Bordeblanque,21
+2299356,16:41:00,16:41:10,stop_point:SP_2365,Cap Sicié,22
+2299356,16:41:00,16:41:10,stop_point:SP_2613,Nasque,23
+2299356,16:42:00,16:42:10,stop_point:SP_2309,Place des Marots,24
+2299356,16:43:00,16:43:10,stop_point:SP_1941,Esquillette,25
+2299356,16:44:00,16:44:10,stop_point:SP_4727,Tucol,26
+2299356,16:45:00,16:45:10,stop_point:SP_1745,En Sigal,27
+2299356,16:47:00,16:47:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299357,16:35:00,16:35:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299357,16:36:00,16:36:10,stop_point:SP_5583,Serins,2
+2299357,16:37:00,16:37:10,stop_point:SP_5557,Sabla,3
+2299357,16:39:00,16:39:10,stop_point:SP_5553,Gravette,4
+2299357,16:41:00,16:41:10,stop_point:SP_3780,Fauvettes,5
+2299357,16:41:00,16:41:10,stop_point:SP_5560,Plaisance Monestié,6
+2299357,16:43:00,16:43:10,stop_point:SP_576,Béarn,7
+2299357,16:44:00,16:44:10,stop_point:SP_3150,11 Novembre 1918,8
+2299357,16:45:00,16:45:10,stop_point:SP_2475,Bourdies,9
+2299357,16:47:00,16:47:10,stop_point:SP_1048,Château d'eau,10
+2299357,16:48:00,16:48:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299357,16:48:00,16:48:10,stop_point:SP_881,Italiens,12
+2299357,16:50:00,16:50:10,stop_point:SP_3139,Taure,13
+2299357,16:50:00,16:50:10,stop_point:SP_2144,Puymorens,14
+2299357,16:51:00,16:51:10,stop_point:SP_2494,Mûriers,15
+2299357,16:52:00,16:52:10,stop_point:SP_4730,Peyrette,16
+2299357,16:53:00,16:53:10,stop_point:SP_2435,A. Perdiguier,17
+2299357,16:55:00,16:55:10,stop_point:SP_5324,Dr Charcot,18
+2299357,16:56:00,16:56:10,stop_point:SP_2972,Centre de tri postal,19
+2299357,16:57:00,16:57:10,stop_point:SP_3075,Giratoire Pluton,20
+2299357,16:59:00,16:59:10,stop_point:SP_5077,Bordeblanque,21
+2299357,17:01:00,17:01:10,stop_point:SP_2365,Cap Sicié,22
+2299357,17:01:00,17:01:10,stop_point:SP_2613,Nasque,23
+2299357,17:02:00,17:02:10,stop_point:SP_2309,Place des Marots,24
+2299357,17:03:00,17:03:10,stop_point:SP_1941,Esquillette,25
+2299357,17:04:00,17:04:10,stop_point:SP_4727,Tucol,26
+2299357,17:05:00,17:05:10,stop_point:SP_1745,En Sigal,27
+2299357,17:07:00,17:07:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299358,17:05:00,17:05:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299358,17:06:00,17:06:10,stop_point:SP_5583,Serins,2
+2299358,17:07:00,17:07:10,stop_point:SP_5557,Sabla,3
+2299358,17:09:00,17:09:10,stop_point:SP_5553,Gravette,4
+2299358,17:11:00,17:11:10,stop_point:SP_3780,Fauvettes,5
+2299358,17:11:00,17:11:10,stop_point:SP_5560,Plaisance Monestié,6
+2299358,17:13:00,17:13:10,stop_point:SP_576,Béarn,7
+2299358,17:14:00,17:14:10,stop_point:SP_3150,11 Novembre 1918,8
+2299358,17:15:00,17:15:10,stop_point:SP_2475,Bourdies,9
+2299358,17:17:00,17:17:10,stop_point:SP_1048,Château d'eau,10
+2299358,17:18:00,17:18:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299358,17:18:00,17:18:10,stop_point:SP_881,Italiens,12
+2299358,17:20:00,17:20:10,stop_point:SP_3139,Taure,13
+2299358,17:20:00,17:20:10,stop_point:SP_2144,Puymorens,14
+2299358,17:21:00,17:21:10,stop_point:SP_2494,Mûriers,15
+2299358,17:22:00,17:22:10,stop_point:SP_4730,Peyrette,16
+2299358,17:23:00,17:23:10,stop_point:SP_2435,A. Perdiguier,17
+2299358,17:25:00,17:25:10,stop_point:SP_5324,Dr Charcot,18
+2299358,17:26:00,17:26:10,stop_point:SP_2972,Centre de tri postal,19
+2299358,17:27:00,17:27:10,stop_point:SP_3075,Giratoire Pluton,20
+2299358,17:29:00,17:29:10,stop_point:SP_5077,Bordeblanque,21
+2299358,17:31:00,17:31:10,stop_point:SP_2365,Cap Sicié,22
+2299358,17:31:00,17:31:10,stop_point:SP_2613,Nasque,23
+2299358,17:32:00,17:32:10,stop_point:SP_2309,Place des Marots,24
+2299358,17:33:00,17:33:10,stop_point:SP_1941,Esquillette,25
+2299358,17:34:00,17:34:10,stop_point:SP_4727,Tucol,26
+2299358,17:35:00,17:35:10,stop_point:SP_1745,En Sigal,27
+2299358,17:37:00,17:37:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299359,17:30:00,17:30:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299359,17:31:00,17:31:10,stop_point:SP_5583,Serins,2
+2299359,17:32:00,17:32:10,stop_point:SP_5557,Sabla,3
+2299359,17:34:00,17:34:10,stop_point:SP_5553,Gravette,4
+2299359,17:36:00,17:36:10,stop_point:SP_3780,Fauvettes,5
+2299359,17:36:00,17:36:10,stop_point:SP_5560,Plaisance Monestié,6
+2299359,17:38:00,17:38:10,stop_point:SP_576,Béarn,7
+2299359,17:39:00,17:39:10,stop_point:SP_3150,11 Novembre 1918,8
+2299359,17:40:00,17:40:10,stop_point:SP_2475,Bourdies,9
+2299359,17:42:00,17:42:10,stop_point:SP_1048,Château d'eau,10
+2299359,17:43:00,17:43:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299359,17:43:00,17:43:10,stop_point:SP_881,Italiens,12
+2299359,17:45:00,17:45:10,stop_point:SP_3139,Taure,13
+2299359,17:45:00,17:45:10,stop_point:SP_2144,Puymorens,14
+2299359,17:46:00,17:46:10,stop_point:SP_2494,Mûriers,15
+2299359,17:47:00,17:47:10,stop_point:SP_4730,Peyrette,16
+2299359,17:48:00,17:48:10,stop_point:SP_2435,A. Perdiguier,17
+2299359,17:50:00,17:50:10,stop_point:SP_5324,Dr Charcot,18
+2299359,17:51:00,17:51:10,stop_point:SP_2972,Centre de tri postal,19
+2299359,17:52:00,17:52:10,stop_point:SP_3075,Giratoire Pluton,20
+2299359,17:54:00,17:54:10,stop_point:SP_5077,Bordeblanque,21
+2299359,17:56:00,17:56:10,stop_point:SP_2365,Cap Sicié,22
+2299359,17:56:00,17:56:10,stop_point:SP_2613,Nasque,23
+2299359,17:57:00,17:57:10,stop_point:SP_2309,Place des Marots,24
+2299359,17:58:00,17:58:10,stop_point:SP_1941,Esquillette,25
+2299359,17:59:00,17:59:10,stop_point:SP_4727,Tucol,26
+2299359,18:00:00,18:00:10,stop_point:SP_1745,En Sigal,27
+2299359,18:02:00,18:02:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299360,17:50:00,17:50:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299360,17:51:00,17:51:10,stop_point:SP_5583,Serins,2
+2299360,17:52:00,17:52:10,stop_point:SP_5557,Sabla,3
+2299360,17:54:00,17:54:10,stop_point:SP_5553,Gravette,4
+2299360,17:56:00,17:56:10,stop_point:SP_3780,Fauvettes,5
+2299360,17:56:00,17:56:10,stop_point:SP_5560,Plaisance Monestié,6
+2299360,17:58:00,17:58:10,stop_point:SP_576,Béarn,7
+2299360,17:59:00,17:59:10,stop_point:SP_3150,11 Novembre 1918,8
+2299360,18:00:00,18:00:10,stop_point:SP_2475,Bourdies,9
+2299360,18:02:00,18:02:10,stop_point:SP_1048,Château d'eau,10
+2299360,18:03:00,18:03:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299360,18:03:00,18:03:10,stop_point:SP_881,Italiens,12
+2299360,18:05:00,18:05:10,stop_point:SP_3139,Taure,13
+2299360,18:05:00,18:05:10,stop_point:SP_2144,Puymorens,14
+2299360,18:06:00,18:06:10,stop_point:SP_2494,Mûriers,15
+2299360,18:07:00,18:07:10,stop_point:SP_4730,Peyrette,16
+2299360,18:08:00,18:08:10,stop_point:SP_2435,A. Perdiguier,17
+2299360,18:10:00,18:10:10,stop_point:SP_5324,Dr Charcot,18
+2299360,18:11:00,18:11:10,stop_point:SP_2972,Centre de tri postal,19
+2299360,18:12:00,18:12:10,stop_point:SP_3075,Giratoire Pluton,20
+2299360,18:14:00,18:14:10,stop_point:SP_5077,Bordeblanque,21
+2299360,18:16:00,18:16:10,stop_point:SP_2365,Cap Sicié,22
+2299360,18:16:00,18:16:10,stop_point:SP_2613,Nasque,23
+2299360,18:17:00,18:17:10,stop_point:SP_2309,Place des Marots,24
+2299360,18:17:00,18:17:10,stop_point:SP_1941,Esquillette,25
+2299360,18:18:00,18:18:10,stop_point:SP_4727,Tucol,26
+2299360,18:19:00,18:19:10,stop_point:SP_1745,En Sigal,27
+2299360,18:21:00,18:21:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299361,18:20:00,18:20:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299361,18:20:00,18:20:10,stop_point:SP_5583,Serins,2
+2299361,18:22:00,18:22:10,stop_point:SP_5557,Sabla,3
+2299361,18:24:00,18:24:10,stop_point:SP_5553,Gravette,4
+2299361,18:25:00,18:25:10,stop_point:SP_3780,Fauvettes,5
+2299361,18:26:00,18:26:10,stop_point:SP_5560,Plaisance Monestié,6
+2299361,18:27:00,18:27:10,stop_point:SP_576,Béarn,7
+2299361,18:28:00,18:28:10,stop_point:SP_3150,11 Novembre 1918,8
+2299361,18:30:00,18:30:10,stop_point:SP_2475,Bourdies,9
+2299361,18:31:00,18:31:10,stop_point:SP_1048,Château d'eau,10
+2299361,18:32:00,18:32:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299361,18:32:00,18:32:10,stop_point:SP_881,Italiens,12
+2299361,18:34:00,18:34:10,stop_point:SP_3139,Taure,13
+2299361,18:34:00,18:34:10,stop_point:SP_2144,Puymorens,14
+2299361,18:35:00,18:35:10,stop_point:SP_2494,Mûriers,15
+2299361,18:36:00,18:36:10,stop_point:SP_4730,Peyrette,16
+2299361,18:37:00,18:37:10,stop_point:SP_2435,A. Perdiguier,17
+2299361,18:39:00,18:39:10,stop_point:SP_5324,Dr Charcot,18
+2299361,18:40:00,18:40:10,stop_point:SP_2972,Centre de tri postal,19
+2299361,18:41:00,18:41:10,stop_point:SP_3075,Giratoire Pluton,20
+2299361,18:43:00,18:43:10,stop_point:SP_5077,Bordeblanque,21
+2299361,18:44:00,18:44:10,stop_point:SP_2365,Cap Sicié,22
+2299361,18:44:00,18:44:10,stop_point:SP_2613,Nasque,23
+2299361,18:45:00,18:45:10,stop_point:SP_2309,Place des Marots,24
+2299361,18:45:00,18:45:10,stop_point:SP_1941,Esquillette,25
+2299361,18:46:00,18:46:10,stop_point:SP_4727,Tucol,26
+2299361,18:47:00,18:47:10,stop_point:SP_1745,En Sigal,27
+2299361,18:49:00,18:49:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299362,18:45:00,18:45:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299362,18:45:00,18:45:10,stop_point:SP_5583,Serins,2
+2299362,18:47:00,18:47:10,stop_point:SP_5557,Sabla,3
+2299362,18:49:00,18:49:10,stop_point:SP_5553,Gravette,4
+2299362,18:50:00,18:50:10,stop_point:SP_3780,Fauvettes,5
+2299362,18:51:00,18:51:10,stop_point:SP_5560,Plaisance Monestié,6
+2299362,18:52:00,18:52:10,stop_point:SP_576,Béarn,7
+2299362,18:53:00,18:53:10,stop_point:SP_3150,11 Novembre 1918,8
+2299362,18:55:00,18:55:10,stop_point:SP_2475,Bourdies,9
+2299362,18:56:00,18:56:10,stop_point:SP_1048,Château d'eau,10
+2299362,18:57:00,18:57:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299362,18:57:00,18:57:10,stop_point:SP_881,Italiens,12
+2299362,18:59:00,18:59:10,stop_point:SP_3139,Taure,13
+2299362,18:59:00,18:59:10,stop_point:SP_2144,Puymorens,14
+2299362,19:00:00,19:00:10,stop_point:SP_2494,Mûriers,15
+2299362,19:01:00,19:01:10,stop_point:SP_4730,Peyrette,16
+2299362,19:02:00,19:02:10,stop_point:SP_2435,A. Perdiguier,17
+2299362,19:04:00,19:04:10,stop_point:SP_5324,Dr Charcot,18
+2299362,19:05:00,19:05:10,stop_point:SP_2972,Centre de tri postal,19
+2299362,19:06:00,19:06:10,stop_point:SP_3075,Giratoire Pluton,20
+2299362,19:08:00,19:08:10,stop_point:SP_5077,Bordeblanque,21
+2299362,19:09:00,19:09:10,stop_point:SP_2365,Cap Sicié,22
+2299362,19:09:00,19:09:10,stop_point:SP_2613,Nasque,23
+2299362,19:10:00,19:10:10,stop_point:SP_2309,Place des Marots,24
+2299362,19:10:00,19:10:10,stop_point:SP_1941,Esquillette,25
+2299362,19:11:00,19:11:10,stop_point:SP_4727,Tucol,26
+2299362,19:12:00,19:12:10,stop_point:SP_1745,En Sigal,27
+2299362,19:14:00,19:14:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299363,19:10:00,19:10:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299363,19:10:00,19:10:10,stop_point:SP_5583,Serins,2
+2299363,19:12:00,19:12:10,stop_point:SP_5557,Sabla,3
+2299363,19:13:00,19:13:10,stop_point:SP_5553,Gravette,4
+2299363,19:15:00,19:15:10,stop_point:SP_3780,Fauvettes,5
+2299363,19:15:00,19:15:10,stop_point:SP_5560,Plaisance Monestié,6
+2299363,19:17:00,19:17:10,stop_point:SP_576,Béarn,7
+2299363,19:18:00,19:18:10,stop_point:SP_3150,11 Novembre 1918,8
+2299363,19:19:00,19:19:10,stop_point:SP_2475,Bourdies,9
+2299363,19:20:00,19:20:10,stop_point:SP_1048,Château d'eau,10
+2299363,19:21:00,19:21:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299363,19:21:00,19:21:10,stop_point:SP_881,Italiens,12
+2299363,19:23:00,19:23:10,stop_point:SP_3139,Taure,13
+2299363,19:23:00,19:23:10,stop_point:SP_2144,Puymorens,14
+2299363,19:24:00,19:24:10,stop_point:SP_2494,Mûriers,15
+2299363,19:25:00,19:25:10,stop_point:SP_4730,Peyrette,16
+2299363,19:26:00,19:26:10,stop_point:SP_2435,A. Perdiguier,17
+2299363,19:28:00,19:28:10,stop_point:SP_5324,Dr Charcot,18
+2299363,19:29:00,19:29:10,stop_point:SP_2972,Centre de tri postal,19
+2299363,19:30:00,19:30:10,stop_point:SP_3075,Giratoire Pluton,20
+2299363,19:32:00,19:32:10,stop_point:SP_5077,Bordeblanque,21
+2299363,19:33:00,19:33:10,stop_point:SP_2365,Cap Sicié,22
+2299363,19:33:00,19:33:10,stop_point:SP_2613,Nasque,23
+2299363,19:34:00,19:34:10,stop_point:SP_2309,Place des Marots,24
+2299363,19:34:00,19:34:10,stop_point:SP_1941,Esquillette,25
+2299363,19:35:00,19:35:10,stop_point:SP_4727,Tucol,26
+2299363,19:36:00,19:36:10,stop_point:SP_1745,En Sigal,27
+2299363,19:38:00,19:38:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299364,19:40:00,19:40:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299364,19:40:00,19:40:10,stop_point:SP_5583,Serins,2
+2299364,19:42:00,19:42:10,stop_point:SP_5557,Sabla,3
+2299364,19:43:00,19:43:10,stop_point:SP_5553,Gravette,4
+2299364,19:45:00,19:45:10,stop_point:SP_3780,Fauvettes,5
+2299364,19:45:00,19:45:10,stop_point:SP_5560,Plaisance Monestié,6
+2299364,19:47:00,19:47:10,stop_point:SP_576,Béarn,7
+2299364,19:48:00,19:48:10,stop_point:SP_3150,11 Novembre 1918,8
+2299364,19:49:00,19:49:10,stop_point:SP_2475,Bourdies,9
+2299364,19:50:00,19:50:10,stop_point:SP_1048,Château d'eau,10
+2299364,19:51:00,19:51:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299364,19:51:00,19:51:10,stop_point:SP_881,Italiens,12
+2299364,19:53:00,19:53:10,stop_point:SP_3139,Taure,13
+2299364,19:53:00,19:53:10,stop_point:SP_2144,Puymorens,14
+2299364,19:54:00,19:54:10,stop_point:SP_2494,Mûriers,15
+2299364,19:55:00,19:55:10,stop_point:SP_4730,Peyrette,16
+2299364,19:56:00,19:56:10,stop_point:SP_2435,A. Perdiguier,17
+2299364,19:58:00,19:58:10,stop_point:SP_5324,Dr Charcot,18
+2299364,19:59:00,19:59:10,stop_point:SP_2972,Centre de tri postal,19
+2299364,20:00:00,20:00:10,stop_point:SP_3075,Giratoire Pluton,20
+2299364,20:02:00,20:02:10,stop_point:SP_5077,Bordeblanque,21
+2299364,20:03:00,20:03:10,stop_point:SP_2365,Cap Sicié,22
+2299364,20:03:00,20:03:10,stop_point:SP_2613,Nasque,23
+2299364,20:04:00,20:04:10,stop_point:SP_2309,Place des Marots,24
+2299364,20:04:00,20:04:10,stop_point:SP_1941,Esquillette,25
+2299364,20:05:00,20:05:10,stop_point:SP_4727,Tucol,26
+2299364,20:06:00,20:06:10,stop_point:SP_1745,En Sigal,27
+2299364,20:08:00,20:08:10,stop_point:SP_2412,Colomiers Gare SNCF,28
+2299365,20:20:00,20:20:10,stop_point:SP_5537,Plaisance Ousseau,1
+2299365,20:20:00,20:20:10,stop_point:SP_5583,Serins,2
+2299365,20:22:00,20:22:10,stop_point:SP_5557,Sabla,3
+2299365,20:23:00,20:23:10,stop_point:SP_5553,Gravette,4
+2299365,20:25:00,20:25:10,stop_point:SP_3780,Fauvettes,5
+2299365,20:25:00,20:25:10,stop_point:SP_5560,Plaisance Monestié,6
+2299365,20:27:00,20:27:10,stop_point:SP_576,Béarn,7
+2299365,20:28:00,20:28:10,stop_point:SP_3150,11 Novembre 1918,8
+2299365,20:29:00,20:29:10,stop_point:SP_2475,Bourdies,9
+2299365,20:30:00,20:30:10,stop_point:SP_1048,Château d'eau,10
+2299365,20:31:00,20:31:10,stop_point:SP_3521,Mairie La Salvetat,11
+2299365,20:31:00,20:31:10,stop_point:SP_881,Italiens,12
+2299365,20:33:00,20:33:10,stop_point:SP_3139,Taure,13
+2299365,20:33:00,20:33:10,stop_point:SP_2144,Puymorens,14
+2299365,20:34:00,20:34:10,stop_point:SP_2494,Mûriers,15
+2299365,20:35:00,20:35:10,stop_point:SP_4730,Peyrette,16
+2299365,20:36:00,20:36:10,stop_point:SP_2435,A. Perdiguier,17
+2299365,20:38:00,20:38:10,stop_point:SP_5324,Dr Charcot,18
+2299365,20:39:00,20:39:10,stop_point:SP_2972,Centre de tri postal,19
+2299365,20:40:00,20:40:10,stop_point:SP_3075,Giratoire Pluton,20
+2299365,20:42:00,20:42:10,stop_point:SP_5077,Bordeblanque,21
+2299365,20:43:00,20:43:10,stop_point:SP_2365,Cap Sicié,22
+2299365,20:43:00,20:43:10,stop_point:SP_2613,Nasque,23
+2299365,20:44:00,20:44:10,stop_point:SP_2309,Place des Marots,24
+2299365,20:44:00,20:44:10,stop_point:SP_1941,Esquillette,25
+2299365,20:45:00,20:45:10,stop_point:SP_4727,Tucol,26
+2299365,20:46:00,20:46:10,stop_point:SP_1745,En Sigal,27
+2299365,20:48:00,20:48:10,stop_point:SP_2412,Colomiers Gare SNCF,28

@@ -1,0 +1,761 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2297452,07:00:00,07:00:10,stop_point:SP_1507,Ramonville,1
+2297452,07:05:00,07:05:10,stop_point:SP_515,Clotasses,2
+2297452,07:06:00,07:06:10,stop_point:SP_3694,Parc St Agne,3
+2297452,07:07:00,07:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297452,07:07:00,07:07:10,stop_point:SP_364,Coustet,5
+2297452,07:08:00,07:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297452,07:09:00,07:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297452,07:11:00,07:11:10,stop_point:SP_1235,Salas,8
+2297452,07:12:00,07:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297452,07:13:00,07:13:10,stop_point:SP_2013,Montjoie,10
+2297453,07:15:00,07:15:10,stop_point:SP_1507,Ramonville,1
+2297453,07:20:00,07:20:10,stop_point:SP_515,Clotasses,2
+2297453,07:21:00,07:21:10,stop_point:SP_3694,Parc St Agne,3
+2297453,07:22:00,07:22:10,stop_point:SP_3236,Eglise Ramonville,4
+2297453,07:22:00,07:22:10,stop_point:SP_364,Coustet,5
+2297453,07:23:00,07:23:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297453,07:24:00,07:24:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297453,07:26:00,07:26:10,stop_point:SP_1235,Salas,8
+2297453,07:27:00,07:27:10,stop_point:SP_2176,Salas Montjoie,9
+2297453,07:28:00,07:28:10,stop_point:SP_2013,Montjoie,10
+2297454,07:30:00,07:30:10,stop_point:SP_1507,Ramonville,1
+2297454,07:35:00,07:35:10,stop_point:SP_515,Clotasses,2
+2297454,07:36:00,07:36:10,stop_point:SP_3694,Parc St Agne,3
+2297454,07:37:00,07:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297454,07:37:00,07:37:10,stop_point:SP_364,Coustet,5
+2297454,07:38:00,07:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297454,07:39:00,07:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297454,07:41:00,07:41:10,stop_point:SP_1235,Salas,8
+2297454,07:42:00,07:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297454,07:43:00,07:43:10,stop_point:SP_2013,Montjoie,10
+2297455,07:45:00,07:45:10,stop_point:SP_1507,Ramonville,1
+2297455,07:50:00,07:50:10,stop_point:SP_515,Clotasses,2
+2297455,07:51:00,07:51:10,stop_point:SP_3694,Parc St Agne,3
+2297455,07:52:00,07:52:10,stop_point:SP_3236,Eglise Ramonville,4
+2297455,07:52:00,07:52:10,stop_point:SP_364,Coustet,5
+2297455,07:53:00,07:53:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297455,07:54:00,07:54:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297455,07:56:00,07:56:10,stop_point:SP_1235,Salas,8
+2297455,07:57:00,07:57:10,stop_point:SP_2176,Salas Montjoie,9
+2297455,07:58:00,07:58:10,stop_point:SP_2013,Montjoie,10
+2297456,08:00:00,08:00:10,stop_point:SP_1507,Ramonville,1
+2297456,08:05:00,08:05:10,stop_point:SP_515,Clotasses,2
+2297456,08:06:00,08:06:10,stop_point:SP_3694,Parc St Agne,3
+2297456,08:07:00,08:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297456,08:07:00,08:07:10,stop_point:SP_364,Coustet,5
+2297456,08:08:00,08:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297456,08:09:00,08:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297456,08:11:00,08:11:10,stop_point:SP_1235,Salas,8
+2297456,08:12:00,08:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297456,08:13:00,08:13:10,stop_point:SP_2013,Montjoie,10
+2297457,08:15:00,08:15:10,stop_point:SP_1507,Ramonville,1
+2297457,08:20:00,08:20:10,stop_point:SP_515,Clotasses,2
+2297457,08:21:00,08:21:10,stop_point:SP_3694,Parc St Agne,3
+2297457,08:22:00,08:22:10,stop_point:SP_3236,Eglise Ramonville,4
+2297457,08:22:00,08:22:10,stop_point:SP_364,Coustet,5
+2297457,08:23:00,08:23:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297457,08:24:00,08:24:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297457,08:26:00,08:26:10,stop_point:SP_1235,Salas,8
+2297457,08:27:00,08:27:10,stop_point:SP_2176,Salas Montjoie,9
+2297457,08:28:00,08:28:10,stop_point:SP_2013,Montjoie,10
+2297458,08:30:00,08:30:10,stop_point:SP_1507,Ramonville,1
+2297458,08:35:00,08:35:10,stop_point:SP_515,Clotasses,2
+2297458,08:36:00,08:36:10,stop_point:SP_3694,Parc St Agne,3
+2297458,08:37:00,08:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297458,08:37:00,08:37:10,stop_point:SP_364,Coustet,5
+2297458,08:38:00,08:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297458,08:39:00,08:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297458,08:41:00,08:41:10,stop_point:SP_1235,Salas,8
+2297458,08:42:00,08:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297458,08:43:00,08:43:10,stop_point:SP_2013,Montjoie,10
+2297459,08:45:00,08:45:10,stop_point:SP_1507,Ramonville,1
+2297459,08:50:00,08:50:10,stop_point:SP_515,Clotasses,2
+2297459,08:51:00,08:51:10,stop_point:SP_3694,Parc St Agne,3
+2297459,08:52:00,08:52:10,stop_point:SP_3236,Eglise Ramonville,4
+2297459,08:52:00,08:52:10,stop_point:SP_364,Coustet,5
+2297459,08:53:00,08:53:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297459,08:54:00,08:54:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297459,08:56:00,08:56:10,stop_point:SP_1235,Salas,8
+2297459,08:57:00,08:57:10,stop_point:SP_2176,Salas Montjoie,9
+2297459,08:58:00,08:58:10,stop_point:SP_2013,Montjoie,10
+2297460,09:00:00,09:00:10,stop_point:SP_1507,Ramonville,1
+2297460,09:05:00,09:05:10,stop_point:SP_515,Clotasses,2
+2297460,09:06:00,09:06:10,stop_point:SP_3694,Parc St Agne,3
+2297460,09:07:00,09:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297460,09:07:00,09:07:10,stop_point:SP_364,Coustet,5
+2297460,09:08:00,09:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297460,09:09:00,09:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297460,09:11:00,09:11:10,stop_point:SP_1235,Salas,8
+2297460,09:12:00,09:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297460,09:13:00,09:13:10,stop_point:SP_2013,Montjoie,10
+2297461,09:30:00,09:30:10,stop_point:SP_1507,Ramonville,1
+2297461,09:35:00,09:35:10,stop_point:SP_515,Clotasses,2
+2297461,09:36:00,09:36:10,stop_point:SP_3694,Parc St Agne,3
+2297461,09:37:00,09:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297461,09:37:00,09:37:10,stop_point:SP_364,Coustet,5
+2297461,09:38:00,09:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297461,09:39:00,09:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297461,09:41:00,09:41:10,stop_point:SP_1235,Salas,8
+2297461,09:42:00,09:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297461,09:43:00,09:43:10,stop_point:SP_2013,Montjoie,10
+2297462,10:00:00,10:00:10,stop_point:SP_1507,Ramonville,1
+2297462,10:05:00,10:05:10,stop_point:SP_515,Clotasses,2
+2297462,10:06:00,10:06:10,stop_point:SP_3694,Parc St Agne,3
+2297462,10:07:00,10:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297462,10:07:00,10:07:10,stop_point:SP_364,Coustet,5
+2297462,10:08:00,10:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297462,10:09:00,10:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297462,10:11:00,10:11:10,stop_point:SP_1235,Salas,8
+2297462,10:12:00,10:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297462,10:13:00,10:13:10,stop_point:SP_2013,Montjoie,10
+2297463,10:30:00,10:30:10,stop_point:SP_1507,Ramonville,1
+2297463,10:35:00,10:35:10,stop_point:SP_515,Clotasses,2
+2297463,10:36:00,10:36:10,stop_point:SP_3694,Parc St Agne,3
+2297463,10:37:00,10:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297463,10:37:00,10:37:10,stop_point:SP_364,Coustet,5
+2297463,10:38:00,10:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297463,10:39:00,10:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297463,10:41:00,10:41:10,stop_point:SP_1235,Salas,8
+2297463,10:42:00,10:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297463,10:43:00,10:43:10,stop_point:SP_2013,Montjoie,10
+2297464,11:00:00,11:00:10,stop_point:SP_1507,Ramonville,1
+2297464,11:05:00,11:05:10,stop_point:SP_515,Clotasses,2
+2297464,11:06:00,11:06:10,stop_point:SP_3694,Parc St Agne,3
+2297464,11:07:00,11:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297464,11:07:00,11:07:10,stop_point:SP_364,Coustet,5
+2297464,11:08:00,11:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297464,11:09:00,11:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297464,11:11:00,11:11:10,stop_point:SP_1235,Salas,8
+2297464,11:12:00,11:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297464,11:13:00,11:13:10,stop_point:SP_2013,Montjoie,10
+2297465,11:30:00,11:30:10,stop_point:SP_1507,Ramonville,1
+2297465,11:35:00,11:35:10,stop_point:SP_515,Clotasses,2
+2297465,11:36:00,11:36:10,stop_point:SP_3694,Parc St Agne,3
+2297465,11:37:00,11:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297465,11:37:00,11:37:10,stop_point:SP_364,Coustet,5
+2297465,11:38:00,11:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297465,11:39:00,11:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297465,11:41:00,11:41:10,stop_point:SP_1235,Salas,8
+2297465,11:42:00,11:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297465,11:43:00,11:43:10,stop_point:SP_2013,Montjoie,10
+2297466,12:00:00,12:00:10,stop_point:SP_1507,Ramonville,1
+2297466,12:05:00,12:05:10,stop_point:SP_515,Clotasses,2
+2297466,12:06:00,12:06:10,stop_point:SP_3694,Parc St Agne,3
+2297466,12:07:00,12:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297466,12:07:00,12:07:10,stop_point:SP_364,Coustet,5
+2297466,12:08:00,12:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297466,12:09:00,12:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297466,12:11:00,12:11:10,stop_point:SP_1235,Salas,8
+2297466,12:12:00,12:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297466,12:13:00,12:13:10,stop_point:SP_2013,Montjoie,10
+2297467,12:30:00,12:30:10,stop_point:SP_1507,Ramonville,1
+2297467,12:35:00,12:35:10,stop_point:SP_515,Clotasses,2
+2297467,12:36:00,12:36:10,stop_point:SP_3694,Parc St Agne,3
+2297467,12:37:00,12:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297467,12:37:00,12:37:10,stop_point:SP_364,Coustet,5
+2297467,12:38:00,12:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297467,12:39:00,12:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297467,12:41:00,12:41:10,stop_point:SP_1235,Salas,8
+2297467,12:42:00,12:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297467,12:43:00,12:43:10,stop_point:SP_2013,Montjoie,10
+2297468,13:00:00,13:00:10,stop_point:SP_1507,Ramonville,1
+2297468,13:05:00,13:05:10,stop_point:SP_515,Clotasses,2
+2297468,13:06:00,13:06:10,stop_point:SP_3694,Parc St Agne,3
+2297468,13:07:00,13:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297468,13:07:00,13:07:10,stop_point:SP_364,Coustet,5
+2297468,13:08:00,13:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297468,13:09:00,13:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297468,13:11:00,13:11:10,stop_point:SP_1235,Salas,8
+2297468,13:12:00,13:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297468,13:13:00,13:13:10,stop_point:SP_2013,Montjoie,10
+2297469,13:30:00,13:30:10,stop_point:SP_1507,Ramonville,1
+2297469,13:35:00,13:35:10,stop_point:SP_515,Clotasses,2
+2297469,13:36:00,13:36:10,stop_point:SP_3694,Parc St Agne,3
+2297469,13:37:00,13:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297469,13:37:00,13:37:10,stop_point:SP_364,Coustet,5
+2297469,13:38:00,13:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297469,13:39:00,13:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297469,13:41:00,13:41:10,stop_point:SP_1235,Salas,8
+2297469,13:42:00,13:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297469,13:43:00,13:43:10,stop_point:SP_2013,Montjoie,10
+2297470,14:00:00,14:00:10,stop_point:SP_1507,Ramonville,1
+2297470,14:05:00,14:05:10,stop_point:SP_515,Clotasses,2
+2297470,14:06:00,14:06:10,stop_point:SP_3694,Parc St Agne,3
+2297470,14:07:00,14:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297470,14:07:00,14:07:10,stop_point:SP_364,Coustet,5
+2297470,14:08:00,14:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297470,14:09:00,14:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297470,14:11:00,14:11:10,stop_point:SP_1235,Salas,8
+2297470,14:12:00,14:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297470,14:13:00,14:13:10,stop_point:SP_2013,Montjoie,10
+2297471,14:30:00,14:30:10,stop_point:SP_1507,Ramonville,1
+2297471,14:35:00,14:35:10,stop_point:SP_515,Clotasses,2
+2297471,14:36:00,14:36:10,stop_point:SP_3694,Parc St Agne,3
+2297471,14:37:00,14:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297471,14:37:00,14:37:10,stop_point:SP_364,Coustet,5
+2297471,14:38:00,14:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297471,14:39:00,14:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297471,14:41:00,14:41:10,stop_point:SP_1235,Salas,8
+2297471,14:42:00,14:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297471,14:43:00,14:43:10,stop_point:SP_2013,Montjoie,10
+2297472,15:00:00,15:00:10,stop_point:SP_1507,Ramonville,1
+2297472,15:05:00,15:05:10,stop_point:SP_515,Clotasses,2
+2297472,15:06:00,15:06:10,stop_point:SP_3694,Parc St Agne,3
+2297472,15:07:00,15:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297472,15:07:00,15:07:10,stop_point:SP_364,Coustet,5
+2297472,15:08:00,15:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297472,15:09:00,15:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297472,15:11:00,15:11:10,stop_point:SP_1235,Salas,8
+2297472,15:12:00,15:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297472,15:13:00,15:13:10,stop_point:SP_2013,Montjoie,10
+2297473,15:30:00,15:30:10,stop_point:SP_1507,Ramonville,1
+2297473,15:35:00,15:35:10,stop_point:SP_515,Clotasses,2
+2297473,15:36:00,15:36:10,stop_point:SP_3694,Parc St Agne,3
+2297473,15:37:00,15:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297473,15:37:00,15:37:10,stop_point:SP_364,Coustet,5
+2297473,15:38:00,15:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297473,15:39:00,15:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297473,15:41:00,15:41:10,stop_point:SP_1235,Salas,8
+2297473,15:42:00,15:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297473,15:43:00,15:43:10,stop_point:SP_2013,Montjoie,10
+2297474,16:00:00,16:00:10,stop_point:SP_1507,Ramonville,1
+2297474,16:05:00,16:05:10,stop_point:SP_515,Clotasses,2
+2297474,16:06:00,16:06:10,stop_point:SP_3694,Parc St Agne,3
+2297474,16:07:00,16:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297474,16:07:00,16:07:10,stop_point:SP_364,Coustet,5
+2297474,16:08:00,16:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297474,16:09:00,16:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297474,16:11:00,16:11:10,stop_point:SP_1235,Salas,8
+2297474,16:12:00,16:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297474,16:13:00,16:13:10,stop_point:SP_2013,Montjoie,10
+2297475,16:15:00,16:15:10,stop_point:SP_1507,Ramonville,1
+2297475,16:20:00,16:20:10,stop_point:SP_515,Clotasses,2
+2297475,16:21:00,16:21:10,stop_point:SP_3694,Parc St Agne,3
+2297475,16:22:00,16:22:10,stop_point:SP_3236,Eglise Ramonville,4
+2297475,16:22:00,16:22:10,stop_point:SP_364,Coustet,5
+2297475,16:23:00,16:23:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297475,16:24:00,16:24:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297475,16:26:00,16:26:10,stop_point:SP_1235,Salas,8
+2297475,16:27:00,16:27:10,stop_point:SP_2176,Salas Montjoie,9
+2297475,16:28:00,16:28:10,stop_point:SP_2013,Montjoie,10
+2297476,16:30:00,16:30:10,stop_point:SP_1507,Ramonville,1
+2297476,16:35:00,16:35:10,stop_point:SP_515,Clotasses,2
+2297476,16:36:00,16:36:10,stop_point:SP_3694,Parc St Agne,3
+2297476,16:37:00,16:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297476,16:37:00,16:37:10,stop_point:SP_364,Coustet,5
+2297476,16:38:00,16:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297476,16:39:00,16:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297476,16:41:00,16:41:10,stop_point:SP_1235,Salas,8
+2297476,16:42:00,16:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297476,16:43:00,16:43:10,stop_point:SP_2013,Montjoie,10
+2297477,16:45:00,16:45:10,stop_point:SP_1507,Ramonville,1
+2297477,16:50:00,16:50:10,stop_point:SP_515,Clotasses,2
+2297477,16:51:00,16:51:10,stop_point:SP_3694,Parc St Agne,3
+2297477,16:52:00,16:52:10,stop_point:SP_3236,Eglise Ramonville,4
+2297477,16:52:00,16:52:10,stop_point:SP_364,Coustet,5
+2297477,16:53:00,16:53:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297477,16:54:00,16:54:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297477,16:56:00,16:56:10,stop_point:SP_1235,Salas,8
+2297477,16:57:00,16:57:10,stop_point:SP_2176,Salas Montjoie,9
+2297477,16:58:00,16:58:10,stop_point:SP_2013,Montjoie,10
+2297478,17:00:00,17:00:10,stop_point:SP_1507,Ramonville,1
+2297478,17:05:00,17:05:10,stop_point:SP_515,Clotasses,2
+2297478,17:06:00,17:06:10,stop_point:SP_3694,Parc St Agne,3
+2297478,17:07:00,17:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297478,17:07:00,17:07:10,stop_point:SP_364,Coustet,5
+2297478,17:08:00,17:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297478,17:09:00,17:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297478,17:11:00,17:11:10,stop_point:SP_1235,Salas,8
+2297478,17:12:00,17:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297478,17:13:00,17:13:10,stop_point:SP_2013,Montjoie,10
+2297479,17:15:00,17:15:10,stop_point:SP_1507,Ramonville,1
+2297479,17:20:00,17:20:10,stop_point:SP_515,Clotasses,2
+2297479,17:21:00,17:21:10,stop_point:SP_3694,Parc St Agne,3
+2297479,17:22:00,17:22:10,stop_point:SP_3236,Eglise Ramonville,4
+2297479,17:22:00,17:22:10,stop_point:SP_364,Coustet,5
+2297479,17:23:00,17:23:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297479,17:24:00,17:24:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297479,17:26:00,17:26:10,stop_point:SP_1235,Salas,8
+2297479,17:27:00,17:27:10,stop_point:SP_2176,Salas Montjoie,9
+2297479,17:28:00,17:28:10,stop_point:SP_2013,Montjoie,10
+2297480,17:30:00,17:30:10,stop_point:SP_1507,Ramonville,1
+2297480,17:35:00,17:35:10,stop_point:SP_515,Clotasses,2
+2297480,17:36:00,17:36:10,stop_point:SP_3694,Parc St Agne,3
+2297480,17:37:00,17:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297480,17:37:00,17:37:10,stop_point:SP_364,Coustet,5
+2297480,17:38:00,17:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297480,17:39:00,17:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297480,17:41:00,17:41:10,stop_point:SP_1235,Salas,8
+2297480,17:42:00,17:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297480,17:43:00,17:43:10,stop_point:SP_2013,Montjoie,10
+2297481,17:45:00,17:45:10,stop_point:SP_1507,Ramonville,1
+2297481,17:50:00,17:50:10,stop_point:SP_515,Clotasses,2
+2297481,17:51:00,17:51:10,stop_point:SP_3694,Parc St Agne,3
+2297481,17:52:00,17:52:10,stop_point:SP_3236,Eglise Ramonville,4
+2297481,17:52:00,17:52:10,stop_point:SP_364,Coustet,5
+2297481,17:53:00,17:53:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297481,17:54:00,17:54:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297481,17:56:00,17:56:10,stop_point:SP_1235,Salas,8
+2297481,17:57:00,17:57:10,stop_point:SP_2176,Salas Montjoie,9
+2297481,17:58:00,17:58:10,stop_point:SP_2013,Montjoie,10
+2297482,18:00:00,18:00:10,stop_point:SP_1507,Ramonville,1
+2297482,18:05:00,18:05:10,stop_point:SP_515,Clotasses,2
+2297482,18:06:00,18:06:10,stop_point:SP_3694,Parc St Agne,3
+2297482,18:07:00,18:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297482,18:07:00,18:07:10,stop_point:SP_364,Coustet,5
+2297482,18:08:00,18:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297482,18:09:00,18:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297482,18:11:00,18:11:10,stop_point:SP_1235,Salas,8
+2297482,18:12:00,18:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297482,18:13:00,18:13:10,stop_point:SP_2013,Montjoie,10
+2297483,18:15:00,18:15:10,stop_point:SP_1507,Ramonville,1
+2297483,18:20:00,18:20:10,stop_point:SP_515,Clotasses,2
+2297483,18:21:00,18:21:10,stop_point:SP_3694,Parc St Agne,3
+2297483,18:22:00,18:22:10,stop_point:SP_3236,Eglise Ramonville,4
+2297483,18:22:00,18:22:10,stop_point:SP_364,Coustet,5
+2297483,18:23:00,18:23:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297483,18:24:00,18:24:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297483,18:26:00,18:26:10,stop_point:SP_1235,Salas,8
+2297483,18:27:00,18:27:10,stop_point:SP_2176,Salas Montjoie,9
+2297483,18:28:00,18:28:10,stop_point:SP_2013,Montjoie,10
+2297484,18:30:00,18:30:10,stop_point:SP_1507,Ramonville,1
+2297484,18:35:00,18:35:10,stop_point:SP_515,Clotasses,2
+2297484,18:36:00,18:36:10,stop_point:SP_3694,Parc St Agne,3
+2297484,18:37:00,18:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297484,18:37:00,18:37:10,stop_point:SP_364,Coustet,5
+2297484,18:38:00,18:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297484,18:39:00,18:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297484,18:41:00,18:41:10,stop_point:SP_1235,Salas,8
+2297484,18:42:00,18:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297484,18:43:00,18:43:10,stop_point:SP_2013,Montjoie,10
+2297485,18:45:00,18:45:10,stop_point:SP_1507,Ramonville,1
+2297485,18:50:00,18:50:10,stop_point:SP_515,Clotasses,2
+2297485,18:51:00,18:51:10,stop_point:SP_3694,Parc St Agne,3
+2297485,18:52:00,18:52:10,stop_point:SP_3236,Eglise Ramonville,4
+2297485,18:52:00,18:52:10,stop_point:SP_364,Coustet,5
+2297485,18:53:00,18:53:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297485,18:54:00,18:54:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297485,18:56:00,18:56:10,stop_point:SP_1235,Salas,8
+2297485,18:57:00,18:57:10,stop_point:SP_2176,Salas Montjoie,9
+2297485,18:58:00,18:58:10,stop_point:SP_2013,Montjoie,10
+2297486,19:00:00,19:00:10,stop_point:SP_1507,Ramonville,1
+2297486,19:05:00,19:05:10,stop_point:SP_515,Clotasses,2
+2297486,19:06:00,19:06:10,stop_point:SP_3694,Parc St Agne,3
+2297486,19:07:00,19:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297486,19:07:00,19:07:10,stop_point:SP_364,Coustet,5
+2297486,19:08:00,19:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297486,19:09:00,19:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297486,19:11:00,19:11:10,stop_point:SP_1235,Salas,8
+2297486,19:12:00,19:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297486,19:13:00,19:13:10,stop_point:SP_2013,Montjoie,10
+2297487,19:30:00,19:30:10,stop_point:SP_1507,Ramonville,1
+2297487,19:35:00,19:35:10,stop_point:SP_515,Clotasses,2
+2297487,19:36:00,19:36:10,stop_point:SP_3694,Parc St Agne,3
+2297487,19:37:00,19:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297487,19:37:00,19:37:10,stop_point:SP_364,Coustet,5
+2297487,19:38:00,19:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297487,19:39:00,19:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297487,19:41:00,19:41:10,stop_point:SP_1235,Salas,8
+2297487,19:42:00,19:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297487,19:43:00,19:43:10,stop_point:SP_2013,Montjoie,10
+2297488,20:00:00,20:00:10,stop_point:SP_1507,Ramonville,1
+2297488,20:05:00,20:05:10,stop_point:SP_515,Clotasses,2
+2297488,20:06:00,20:06:10,stop_point:SP_3694,Parc St Agne,3
+2297488,20:07:00,20:07:10,stop_point:SP_3236,Eglise Ramonville,4
+2297488,20:07:00,20:07:10,stop_point:SP_364,Coustet,5
+2297488,20:08:00,20:08:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297488,20:09:00,20:09:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297488,20:11:00,20:11:10,stop_point:SP_1235,Salas,8
+2297488,20:12:00,20:12:10,stop_point:SP_2176,Salas Montjoie,9
+2297488,20:13:00,20:13:10,stop_point:SP_2013,Montjoie,10
+2297489,20:30:00,20:30:10,stop_point:SP_1507,Ramonville,1
+2297489,20:35:00,20:35:10,stop_point:SP_515,Clotasses,2
+2297489,20:36:00,20:36:10,stop_point:SP_3694,Parc St Agne,3
+2297489,20:37:00,20:37:10,stop_point:SP_3236,Eglise Ramonville,4
+2297489,20:37:00,20:37:10,stop_point:SP_364,Coustet,5
+2297489,20:38:00,20:38:10,stop_point:SP_2157,Gleyze-Vieille,6
+2297489,20:39:00,20:39:10,stop_point:SP_2668,Ecole Gleyze-Vieille,7
+2297489,20:41:00,20:41:10,stop_point:SP_1235,Salas,8
+2297489,20:42:00,20:42:10,stop_point:SP_2176,Salas Montjoie,9
+2297489,20:43:00,20:43:10,stop_point:SP_2013,Montjoie,10
+2297490,07:00:00,07:00:10,stop_point:SP_2013,Montjoie,1
+2297490,07:01:00,07:01:10,stop_point:SP_2593,Salas Montjoie,2
+2297490,07:01:00,07:01:10,stop_point:SP_955,Salas,3
+2297490,07:02:00,07:02:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297490,07:03:00,07:03:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297490,07:05:00,07:05:10,stop_point:SP_213,Coustet,6
+2297490,07:06:00,07:06:10,stop_point:SP_1330,Eglise Ramonville,7
+2297490,07:07:00,07:07:10,stop_point:SP_1746,Parc St Agne,8
+2297490,07:08:00,07:08:10,stop_point:SP_1250,Clotasses,9
+2297490,07:12:00,07:12:10,stop_point:SP_1507,Ramonville,10
+2297491,07:15:00,07:15:10,stop_point:SP_2013,Montjoie,1
+2297491,07:16:00,07:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297491,07:16:00,07:16:10,stop_point:SP_955,Salas,3
+2297491,07:17:00,07:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297491,07:18:00,07:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297491,07:20:00,07:20:10,stop_point:SP_213,Coustet,6
+2297491,07:21:00,07:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297491,07:22:00,07:22:10,stop_point:SP_1746,Parc St Agne,8
+2297491,07:23:00,07:23:10,stop_point:SP_1250,Clotasses,9
+2297491,07:27:00,07:27:10,stop_point:SP_1507,Ramonville,10
+2297492,07:30:00,07:30:10,stop_point:SP_2013,Montjoie,1
+2297492,07:31:00,07:31:10,stop_point:SP_2593,Salas Montjoie,2
+2297492,07:31:00,07:31:10,stop_point:SP_955,Salas,3
+2297492,07:32:00,07:32:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297492,07:33:00,07:33:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297492,07:35:00,07:35:10,stop_point:SP_213,Coustet,6
+2297492,07:36:00,07:36:10,stop_point:SP_1330,Eglise Ramonville,7
+2297492,07:37:00,07:37:10,stop_point:SP_1746,Parc St Agne,8
+2297492,07:38:00,07:38:10,stop_point:SP_1250,Clotasses,9
+2297492,07:42:00,07:42:10,stop_point:SP_1507,Ramonville,10
+2297493,07:45:00,07:45:10,stop_point:SP_2013,Montjoie,1
+2297493,07:46:00,07:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297493,07:46:00,07:46:10,stop_point:SP_955,Salas,3
+2297493,07:47:00,07:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297493,07:48:00,07:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297493,07:50:00,07:50:10,stop_point:SP_213,Coustet,6
+2297493,07:51:00,07:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297493,07:52:00,07:52:10,stop_point:SP_1746,Parc St Agne,8
+2297493,07:53:00,07:53:10,stop_point:SP_1250,Clotasses,9
+2297493,07:57:00,07:57:10,stop_point:SP_1507,Ramonville,10
+2297494,08:00:00,08:00:10,stop_point:SP_2013,Montjoie,1
+2297494,08:01:00,08:01:10,stop_point:SP_2593,Salas Montjoie,2
+2297494,08:01:00,08:01:10,stop_point:SP_955,Salas,3
+2297494,08:02:00,08:02:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297494,08:03:00,08:03:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297494,08:05:00,08:05:10,stop_point:SP_213,Coustet,6
+2297494,08:06:00,08:06:10,stop_point:SP_1330,Eglise Ramonville,7
+2297494,08:07:00,08:07:10,stop_point:SP_1746,Parc St Agne,8
+2297494,08:08:00,08:08:10,stop_point:SP_1250,Clotasses,9
+2297494,08:12:00,08:12:10,stop_point:SP_1507,Ramonville,10
+2297495,08:15:00,08:15:10,stop_point:SP_2013,Montjoie,1
+2297495,08:16:00,08:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297495,08:16:00,08:16:10,stop_point:SP_955,Salas,3
+2297495,08:17:00,08:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297495,08:18:00,08:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297495,08:20:00,08:20:10,stop_point:SP_213,Coustet,6
+2297495,08:21:00,08:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297495,08:22:00,08:22:10,stop_point:SP_1746,Parc St Agne,8
+2297495,08:23:00,08:23:10,stop_point:SP_1250,Clotasses,9
+2297495,08:27:00,08:27:10,stop_point:SP_1507,Ramonville,10
+2297496,08:30:00,08:30:10,stop_point:SP_2013,Montjoie,1
+2297496,08:31:00,08:31:10,stop_point:SP_2593,Salas Montjoie,2
+2297496,08:31:00,08:31:10,stop_point:SP_955,Salas,3
+2297496,08:32:00,08:32:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297496,08:33:00,08:33:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297496,08:35:00,08:35:10,stop_point:SP_213,Coustet,6
+2297496,08:36:00,08:36:10,stop_point:SP_1330,Eglise Ramonville,7
+2297496,08:37:00,08:37:10,stop_point:SP_1746,Parc St Agne,8
+2297496,08:38:00,08:38:10,stop_point:SP_1250,Clotasses,9
+2297496,08:42:00,08:42:10,stop_point:SP_1507,Ramonville,10
+2297497,08:45:00,08:45:10,stop_point:SP_2013,Montjoie,1
+2297497,08:46:00,08:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297497,08:46:00,08:46:10,stop_point:SP_955,Salas,3
+2297497,08:47:00,08:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297497,08:48:00,08:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297497,08:50:00,08:50:10,stop_point:SP_213,Coustet,6
+2297497,08:51:00,08:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297497,08:52:00,08:52:10,stop_point:SP_1746,Parc St Agne,8
+2297497,08:53:00,08:53:10,stop_point:SP_1250,Clotasses,9
+2297497,08:57:00,08:57:10,stop_point:SP_1507,Ramonville,10
+2297498,09:00:00,09:00:10,stop_point:SP_2013,Montjoie,1
+2297498,09:01:00,09:01:10,stop_point:SP_2593,Salas Montjoie,2
+2297498,09:01:00,09:01:10,stop_point:SP_955,Salas,3
+2297498,09:02:00,09:02:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297498,09:03:00,09:03:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297498,09:05:00,09:05:10,stop_point:SP_213,Coustet,6
+2297498,09:06:00,09:06:10,stop_point:SP_1330,Eglise Ramonville,7
+2297498,09:07:00,09:07:10,stop_point:SP_1746,Parc St Agne,8
+2297498,09:08:00,09:08:10,stop_point:SP_1250,Clotasses,9
+2297498,09:12:00,09:12:10,stop_point:SP_1507,Ramonville,10
+2297499,09:15:00,09:15:10,stop_point:SP_2013,Montjoie,1
+2297499,09:16:00,09:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297499,09:16:00,09:16:10,stop_point:SP_955,Salas,3
+2297499,09:17:00,09:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297499,09:18:00,09:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297499,09:20:00,09:20:10,stop_point:SP_213,Coustet,6
+2297499,09:21:00,09:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297499,09:22:00,09:22:10,stop_point:SP_1746,Parc St Agne,8
+2297499,09:23:00,09:23:10,stop_point:SP_1250,Clotasses,9
+2297499,09:27:00,09:27:10,stop_point:SP_1507,Ramonville,10
+2297500,09:45:00,09:45:10,stop_point:SP_2013,Montjoie,1
+2297500,09:46:00,09:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297500,09:46:00,09:46:10,stop_point:SP_955,Salas,3
+2297500,09:47:00,09:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297500,09:48:00,09:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297500,09:50:00,09:50:10,stop_point:SP_213,Coustet,6
+2297500,09:51:00,09:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297500,09:52:00,09:52:10,stop_point:SP_1746,Parc St Agne,8
+2297500,09:53:00,09:53:10,stop_point:SP_1250,Clotasses,9
+2297500,09:57:00,09:57:10,stop_point:SP_1507,Ramonville,10
+2297501,10:15:00,10:15:10,stop_point:SP_2013,Montjoie,1
+2297501,10:16:00,10:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297501,10:16:00,10:16:10,stop_point:SP_955,Salas,3
+2297501,10:17:00,10:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297501,10:18:00,10:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297501,10:20:00,10:20:10,stop_point:SP_213,Coustet,6
+2297501,10:21:00,10:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297501,10:22:00,10:22:10,stop_point:SP_1746,Parc St Agne,8
+2297501,10:23:00,10:23:10,stop_point:SP_1250,Clotasses,9
+2297501,10:27:00,10:27:10,stop_point:SP_1507,Ramonville,10
+2297502,10:45:00,10:45:10,stop_point:SP_2013,Montjoie,1
+2297502,10:46:00,10:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297502,10:46:00,10:46:10,stop_point:SP_955,Salas,3
+2297502,10:47:00,10:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297502,10:48:00,10:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297502,10:50:00,10:50:10,stop_point:SP_213,Coustet,6
+2297502,10:51:00,10:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297502,10:52:00,10:52:10,stop_point:SP_1746,Parc St Agne,8
+2297502,10:53:00,10:53:10,stop_point:SP_1250,Clotasses,9
+2297502,10:57:00,10:57:10,stop_point:SP_1507,Ramonville,10
+2297503,11:15:00,11:15:10,stop_point:SP_2013,Montjoie,1
+2297503,11:16:00,11:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297503,11:16:00,11:16:10,stop_point:SP_955,Salas,3
+2297503,11:17:00,11:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297503,11:18:00,11:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297503,11:20:00,11:20:10,stop_point:SP_213,Coustet,6
+2297503,11:21:00,11:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297503,11:22:00,11:22:10,stop_point:SP_1746,Parc St Agne,8
+2297503,11:23:00,11:23:10,stop_point:SP_1250,Clotasses,9
+2297503,11:27:00,11:27:10,stop_point:SP_1507,Ramonville,10
+2297504,11:45:00,11:45:10,stop_point:SP_2013,Montjoie,1
+2297504,11:46:00,11:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297504,11:46:00,11:46:10,stop_point:SP_955,Salas,3
+2297504,11:47:00,11:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297504,11:48:00,11:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297504,11:50:00,11:50:10,stop_point:SP_213,Coustet,6
+2297504,11:51:00,11:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297504,11:52:00,11:52:10,stop_point:SP_1746,Parc St Agne,8
+2297504,11:53:00,11:53:10,stop_point:SP_1250,Clotasses,9
+2297504,11:57:00,11:57:10,stop_point:SP_1507,Ramonville,10
+2297505,12:15:00,12:15:10,stop_point:SP_2013,Montjoie,1
+2297505,12:16:00,12:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297505,12:16:00,12:16:10,stop_point:SP_955,Salas,3
+2297505,12:17:00,12:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297505,12:18:00,12:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297505,12:20:00,12:20:10,stop_point:SP_213,Coustet,6
+2297505,12:21:00,12:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297505,12:22:00,12:22:10,stop_point:SP_1746,Parc St Agne,8
+2297505,12:23:00,12:23:10,stop_point:SP_1250,Clotasses,9
+2297505,12:27:00,12:27:10,stop_point:SP_1507,Ramonville,10
+2297506,12:45:00,12:45:10,stop_point:SP_2013,Montjoie,1
+2297506,12:46:00,12:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297506,12:46:00,12:46:10,stop_point:SP_955,Salas,3
+2297506,12:47:00,12:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297506,12:48:00,12:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297506,12:50:00,12:50:10,stop_point:SP_213,Coustet,6
+2297506,12:51:00,12:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297506,12:52:00,12:52:10,stop_point:SP_1746,Parc St Agne,8
+2297506,12:53:00,12:53:10,stop_point:SP_1250,Clotasses,9
+2297506,12:57:00,12:57:10,stop_point:SP_1507,Ramonville,10
+2297507,13:15:00,13:15:10,stop_point:SP_2013,Montjoie,1
+2297507,13:16:00,13:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297507,13:16:00,13:16:10,stop_point:SP_955,Salas,3
+2297507,13:17:00,13:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297507,13:18:00,13:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297507,13:20:00,13:20:10,stop_point:SP_213,Coustet,6
+2297507,13:21:00,13:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297507,13:22:00,13:22:10,stop_point:SP_1746,Parc St Agne,8
+2297507,13:23:00,13:23:10,stop_point:SP_1250,Clotasses,9
+2297507,13:27:00,13:27:10,stop_point:SP_1507,Ramonville,10
+2297508,13:45:00,13:45:10,stop_point:SP_2013,Montjoie,1
+2297508,13:46:00,13:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297508,13:46:00,13:46:10,stop_point:SP_955,Salas,3
+2297508,13:47:00,13:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297508,13:48:00,13:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297508,13:50:00,13:50:10,stop_point:SP_213,Coustet,6
+2297508,13:51:00,13:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297508,13:52:00,13:52:10,stop_point:SP_1746,Parc St Agne,8
+2297508,13:53:00,13:53:10,stop_point:SP_1250,Clotasses,9
+2297508,13:57:00,13:57:10,stop_point:SP_1507,Ramonville,10
+2297509,14:15:00,14:15:10,stop_point:SP_2013,Montjoie,1
+2297509,14:16:00,14:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297509,14:16:00,14:16:10,stop_point:SP_955,Salas,3
+2297509,14:17:00,14:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297509,14:18:00,14:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297509,14:20:00,14:20:10,stop_point:SP_213,Coustet,6
+2297509,14:21:00,14:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297509,14:22:00,14:22:10,stop_point:SP_1746,Parc St Agne,8
+2297509,14:23:00,14:23:10,stop_point:SP_1250,Clotasses,9
+2297509,14:27:00,14:27:10,stop_point:SP_1507,Ramonville,10
+2297510,14:45:00,14:45:10,stop_point:SP_2013,Montjoie,1
+2297510,14:46:00,14:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297510,14:46:00,14:46:10,stop_point:SP_955,Salas,3
+2297510,14:47:00,14:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297510,14:48:00,14:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297510,14:50:00,14:50:10,stop_point:SP_213,Coustet,6
+2297510,14:51:00,14:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297510,14:52:00,14:52:10,stop_point:SP_1746,Parc St Agne,8
+2297510,14:53:00,14:53:10,stop_point:SP_1250,Clotasses,9
+2297510,14:57:00,14:57:10,stop_point:SP_1507,Ramonville,10
+2297511,15:15:00,15:15:10,stop_point:SP_2013,Montjoie,1
+2297511,15:16:00,15:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297511,15:16:00,15:16:10,stop_point:SP_955,Salas,3
+2297511,15:17:00,15:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297511,15:18:00,15:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297511,15:20:00,15:20:10,stop_point:SP_213,Coustet,6
+2297511,15:21:00,15:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297511,15:22:00,15:22:10,stop_point:SP_1746,Parc St Agne,8
+2297511,15:23:00,15:23:10,stop_point:SP_1250,Clotasses,9
+2297511,15:27:00,15:27:10,stop_point:SP_1507,Ramonville,10
+2297512,15:45:00,15:45:10,stop_point:SP_2013,Montjoie,1
+2297512,15:46:00,15:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297512,15:46:00,15:46:10,stop_point:SP_955,Salas,3
+2297512,15:47:00,15:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297512,15:48:00,15:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297512,15:50:00,15:50:10,stop_point:SP_213,Coustet,6
+2297512,15:51:00,15:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297512,15:52:00,15:52:10,stop_point:SP_1746,Parc St Agne,8
+2297512,15:53:00,15:53:10,stop_point:SP_1250,Clotasses,9
+2297512,15:57:00,15:57:10,stop_point:SP_1507,Ramonville,10
+2297513,16:15:00,16:15:10,stop_point:SP_2013,Montjoie,1
+2297513,16:16:00,16:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297513,16:16:00,16:16:10,stop_point:SP_955,Salas,3
+2297513,16:17:00,16:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297513,16:18:00,16:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297513,16:20:00,16:20:10,stop_point:SP_213,Coustet,6
+2297513,16:21:00,16:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297513,16:22:00,16:22:10,stop_point:SP_1746,Parc St Agne,8
+2297513,16:23:00,16:23:10,stop_point:SP_1250,Clotasses,9
+2297513,16:27:00,16:27:10,stop_point:SP_1507,Ramonville,10
+2297514,16:30:00,16:30:10,stop_point:SP_2013,Montjoie,1
+2297514,16:31:00,16:31:10,stop_point:SP_2593,Salas Montjoie,2
+2297514,16:31:00,16:31:10,stop_point:SP_955,Salas,3
+2297514,16:32:00,16:32:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297514,16:33:00,16:33:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297514,16:35:00,16:35:10,stop_point:SP_213,Coustet,6
+2297514,16:36:00,16:36:10,stop_point:SP_1330,Eglise Ramonville,7
+2297514,16:37:00,16:37:10,stop_point:SP_1746,Parc St Agne,8
+2297514,16:38:00,16:38:10,stop_point:SP_1250,Clotasses,9
+2297514,16:42:00,16:42:10,stop_point:SP_1507,Ramonville,10
+2297515,16:45:00,16:45:10,stop_point:SP_2013,Montjoie,1
+2297515,16:46:00,16:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297515,16:46:00,16:46:10,stop_point:SP_955,Salas,3
+2297515,16:47:00,16:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297515,16:48:00,16:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297515,16:50:00,16:50:10,stop_point:SP_213,Coustet,6
+2297515,16:51:00,16:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297515,16:52:00,16:52:10,stop_point:SP_1746,Parc St Agne,8
+2297515,16:53:00,16:53:10,stop_point:SP_1250,Clotasses,9
+2297515,16:57:00,16:57:10,stop_point:SP_1507,Ramonville,10
+2297516,17:00:00,17:00:10,stop_point:SP_2013,Montjoie,1
+2297516,17:01:00,17:01:10,stop_point:SP_2593,Salas Montjoie,2
+2297516,17:01:00,17:01:10,stop_point:SP_955,Salas,3
+2297516,17:02:00,17:02:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297516,17:03:00,17:03:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297516,17:05:00,17:05:10,stop_point:SP_213,Coustet,6
+2297516,17:06:00,17:06:10,stop_point:SP_1330,Eglise Ramonville,7
+2297516,17:07:00,17:07:10,stop_point:SP_1746,Parc St Agne,8
+2297516,17:08:00,17:08:10,stop_point:SP_1250,Clotasses,9
+2297516,17:12:00,17:12:10,stop_point:SP_1507,Ramonville,10
+2297517,17:15:00,17:15:10,stop_point:SP_2013,Montjoie,1
+2297517,17:16:00,17:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297517,17:16:00,17:16:10,stop_point:SP_955,Salas,3
+2297517,17:17:00,17:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297517,17:18:00,17:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297517,17:20:00,17:20:10,stop_point:SP_213,Coustet,6
+2297517,17:21:00,17:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297517,17:22:00,17:22:10,stop_point:SP_1746,Parc St Agne,8
+2297517,17:23:00,17:23:10,stop_point:SP_1250,Clotasses,9
+2297517,17:27:00,17:27:10,stop_point:SP_1507,Ramonville,10
+2297518,17:30:00,17:30:10,stop_point:SP_2013,Montjoie,1
+2297518,17:31:00,17:31:10,stop_point:SP_2593,Salas Montjoie,2
+2297518,17:31:00,17:31:10,stop_point:SP_955,Salas,3
+2297518,17:32:00,17:32:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297518,17:33:00,17:33:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297518,17:35:00,17:35:10,stop_point:SP_213,Coustet,6
+2297518,17:36:00,17:36:10,stop_point:SP_1330,Eglise Ramonville,7
+2297518,17:37:00,17:37:10,stop_point:SP_1746,Parc St Agne,8
+2297518,17:38:00,17:38:10,stop_point:SP_1250,Clotasses,9
+2297518,17:42:00,17:42:10,stop_point:SP_1507,Ramonville,10
+2297519,17:45:00,17:45:10,stop_point:SP_2013,Montjoie,1
+2297519,17:46:00,17:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297519,17:46:00,17:46:10,stop_point:SP_955,Salas,3
+2297519,17:47:00,17:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297519,17:48:00,17:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297519,17:50:00,17:50:10,stop_point:SP_213,Coustet,6
+2297519,17:51:00,17:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297519,17:52:00,17:52:10,stop_point:SP_1746,Parc St Agne,8
+2297519,17:53:00,17:53:10,stop_point:SP_1250,Clotasses,9
+2297519,17:57:00,17:57:10,stop_point:SP_1507,Ramonville,10
+2297520,18:00:00,18:00:10,stop_point:SP_2013,Montjoie,1
+2297520,18:01:00,18:01:10,stop_point:SP_2593,Salas Montjoie,2
+2297520,18:01:00,18:01:10,stop_point:SP_955,Salas,3
+2297520,18:02:00,18:02:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297520,18:03:00,18:03:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297520,18:05:00,18:05:10,stop_point:SP_213,Coustet,6
+2297520,18:06:00,18:06:10,stop_point:SP_1330,Eglise Ramonville,7
+2297520,18:07:00,18:07:10,stop_point:SP_1746,Parc St Agne,8
+2297520,18:08:00,18:08:10,stop_point:SP_1250,Clotasses,9
+2297520,18:12:00,18:12:10,stop_point:SP_1507,Ramonville,10
+2297521,18:15:00,18:15:10,stop_point:SP_2013,Montjoie,1
+2297521,18:16:00,18:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297521,18:16:00,18:16:10,stop_point:SP_955,Salas,3
+2297521,18:17:00,18:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297521,18:18:00,18:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297521,18:20:00,18:20:10,stop_point:SP_213,Coustet,6
+2297521,18:21:00,18:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297521,18:22:00,18:22:10,stop_point:SP_1746,Parc St Agne,8
+2297521,18:23:00,18:23:10,stop_point:SP_1250,Clotasses,9
+2297521,18:27:00,18:27:10,stop_point:SP_1507,Ramonville,10
+2297522,18:30:00,18:30:10,stop_point:SP_2013,Montjoie,1
+2297522,18:31:00,18:31:10,stop_point:SP_2593,Salas Montjoie,2
+2297522,18:31:00,18:31:10,stop_point:SP_955,Salas,3
+2297522,18:32:00,18:32:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297522,18:33:00,18:33:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297522,18:35:00,18:35:10,stop_point:SP_213,Coustet,6
+2297522,18:36:00,18:36:10,stop_point:SP_1330,Eglise Ramonville,7
+2297522,18:37:00,18:37:10,stop_point:SP_1746,Parc St Agne,8
+2297522,18:38:00,18:38:10,stop_point:SP_1250,Clotasses,9
+2297522,18:42:00,18:42:10,stop_point:SP_1507,Ramonville,10
+2297523,18:45:00,18:45:10,stop_point:SP_2013,Montjoie,1
+2297523,18:46:00,18:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297523,18:46:00,18:46:10,stop_point:SP_955,Salas,3
+2297523,18:47:00,18:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297523,18:48:00,18:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297523,18:50:00,18:50:10,stop_point:SP_213,Coustet,6
+2297523,18:51:00,18:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297523,18:52:00,18:52:10,stop_point:SP_1746,Parc St Agne,8
+2297523,18:53:00,18:53:10,stop_point:SP_1250,Clotasses,9
+2297523,18:57:00,18:57:10,stop_point:SP_1507,Ramonville,10
+2297524,19:15:00,19:15:10,stop_point:SP_2013,Montjoie,1
+2297524,19:16:00,19:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297524,19:16:00,19:16:10,stop_point:SP_955,Salas,3
+2297524,19:17:00,19:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297524,19:18:00,19:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297524,19:20:00,19:20:10,stop_point:SP_213,Coustet,6
+2297524,19:21:00,19:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297524,19:22:00,19:22:10,stop_point:SP_1746,Parc St Agne,8
+2297524,19:23:00,19:23:10,stop_point:SP_1250,Clotasses,9
+2297524,19:27:00,19:27:10,stop_point:SP_1507,Ramonville,10
+2297525,19:45:00,19:45:10,stop_point:SP_2013,Montjoie,1
+2297525,19:46:00,19:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297525,19:46:00,19:46:10,stop_point:SP_955,Salas,3
+2297525,19:47:00,19:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297525,19:48:00,19:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297525,19:50:00,19:50:10,stop_point:SP_213,Coustet,6
+2297525,19:51:00,19:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297525,19:52:00,19:52:10,stop_point:SP_1746,Parc St Agne,8
+2297525,19:53:00,19:53:10,stop_point:SP_1250,Clotasses,9
+2297525,19:57:00,19:57:10,stop_point:SP_1507,Ramonville,10
+2297526,20:15:00,20:15:10,stop_point:SP_2013,Montjoie,1
+2297526,20:16:00,20:16:10,stop_point:SP_2593,Salas Montjoie,2
+2297526,20:16:00,20:16:10,stop_point:SP_955,Salas,3
+2297526,20:17:00,20:17:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297526,20:18:00,20:18:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297526,20:20:00,20:20:10,stop_point:SP_213,Coustet,6
+2297526,20:21:00,20:21:10,stop_point:SP_1330,Eglise Ramonville,7
+2297526,20:22:00,20:22:10,stop_point:SP_1746,Parc St Agne,8
+2297526,20:23:00,20:23:10,stop_point:SP_1250,Clotasses,9
+2297526,20:27:00,20:27:10,stop_point:SP_1507,Ramonville,10
+2297527,20:45:00,20:45:10,stop_point:SP_2013,Montjoie,1
+2297527,20:46:00,20:46:10,stop_point:SP_2593,Salas Montjoie,2
+2297527,20:46:00,20:46:10,stop_point:SP_955,Salas,3
+2297527,20:47:00,20:47:10,stop_point:SP_132,Ecole Gleyze-Vieille,4
+2297527,20:48:00,20:48:10,stop_point:SP_3056,Gleyze-Vieille,5
+2297527,20:50:00,20:50:10,stop_point:SP_213,Coustet,6
+2297527,20:51:00,20:51:10,stop_point:SP_1330,Eglise Ramonville,7
+2297527,20:52:00,20:52:10,stop_point:SP_1746,Parc St Agne,8
+2297527,20:53:00,20:53:10,stop_point:SP_1250,Clotasses,9
+2297527,20:57:00,20:57:10,stop_point:SP_1507,Ramonville,10

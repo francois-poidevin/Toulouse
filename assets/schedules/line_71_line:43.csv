@@ -1,0 +1,1130 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2299406,06:00:00,06:00:10,stop_point:SP_82,Seilh Mairie,1
+2299406,06:02:00,06:02:10,stop_point:SP_3963,Ader,2
+2299406,06:02:00,06:02:10,stop_point:SP_748,Aussonnelle,3
+2299406,06:04:00,06:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299406,06:05:00,06:05:10,stop_point:SP_5305,Boisson,5
+2299406,06:06:00,06:06:10,stop_point:SP_1573,Tricheries,6
+2299406,06:07:00,06:07:10,stop_point:SP_5069,Laubis,7
+2299406,06:09:00,06:09:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299406,06:10:00,06:10:10,stop_point:SP_3438,Amandiers,9
+2299406,06:11:00,06:11:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299406,06:12:00,06:12:10,stop_point:SP_5310,Mont Canigou,11
+2299406,06:12:00,06:12:10,stop_point:SP_5304,La Rhune,12
+2299406,06:13:00,06:13:10,stop_point:SP_5307,F. Mitterrand,13
+2299406,06:14:00,06:14:10,stop_point:SP_4960,Andromède-Lycée,14
+2299406,06:16:00,06:16:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299406,06:17:00,06:17:10,stop_point:SP_4096,Aéroconstellation,16
+2299406,06:25:00,06:25:10,stop_point:SP_1605,Périac,17
+2299406,06:26:00,06:26:10,stop_point:SP_1615,Cague L'Oule,18
+2299406,06:26:00,06:26:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299406,06:27:00,06:27:10,stop_point:SP_3575,Mairie Aussonne,20
+2299406,06:28:00,06:28:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299406,06:29:00,06:29:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299406,06:29:00,06:29:10,stop_point:SP_1812,Vignes,23
+2299406,06:32:00,06:32:10,stop_point:SP_2682,Aussonne Agassines,24
+2299407,06:25:00,06:25:10,stop_point:SP_82,Seilh Mairie,1
+2299407,06:27:00,06:27:10,stop_point:SP_3963,Ader,2
+2299407,06:28:00,06:28:10,stop_point:SP_748,Aussonnelle,3
+2299407,06:30:00,06:30:10,stop_point:SP_2218,Rond-point du Golf,4
+2299407,06:31:00,06:31:10,stop_point:SP_5305,Boisson,5
+2299407,06:32:00,06:32:10,stop_point:SP_1573,Tricheries,6
+2299407,06:33:00,06:33:10,stop_point:SP_5069,Laubis,7
+2299407,06:35:00,06:35:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299407,06:36:00,06:36:10,stop_point:SP_3438,Amandiers,9
+2299407,06:37:00,06:37:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299407,06:38:00,06:38:10,stop_point:SP_5310,Mont Canigou,11
+2299407,06:38:00,06:38:10,stop_point:SP_5304,La Rhune,12
+2299407,06:39:00,06:39:10,stop_point:SP_5307,F. Mitterrand,13
+2299407,06:40:00,06:40:10,stop_point:SP_4960,Andromède-Lycée,14
+2299407,06:42:00,06:42:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299407,06:43:00,06:43:10,stop_point:SP_4096,Aéroconstellation,16
+2299407,06:51:00,06:51:10,stop_point:SP_1605,Périac,17
+2299407,06:52:00,06:52:10,stop_point:SP_1615,Cague L'Oule,18
+2299407,06:52:00,06:52:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299407,06:53:00,06:53:10,stop_point:SP_3575,Mairie Aussonne,20
+2299407,06:54:00,06:54:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299407,06:55:00,06:55:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299407,06:55:00,06:55:10,stop_point:SP_1812,Vignes,23
+2299407,06:58:00,06:58:10,stop_point:SP_2682,Aussonne Agassines,24
+2299408,06:50:00,06:50:10,stop_point:SP_82,Seilh Mairie,1
+2299408,06:53:00,06:53:10,stop_point:SP_3963,Ader,2
+2299408,06:54:00,06:54:10,stop_point:SP_748,Aussonnelle,3
+2299408,06:57:00,06:57:10,stop_point:SP_2218,Rond-point du Golf,4
+2299408,06:58:00,06:58:10,stop_point:SP_5305,Boisson,5
+2299408,07:00:00,07:00:10,stop_point:SP_1573,Tricheries,6
+2299408,07:01:00,07:01:10,stop_point:SP_5069,Laubis,7
+2299408,07:03:00,07:03:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299408,07:04:00,07:04:10,stop_point:SP_3438,Amandiers,9
+2299408,07:05:00,07:05:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299408,07:06:00,07:06:10,stop_point:SP_5310,Mont Canigou,11
+2299408,07:06:00,07:06:10,stop_point:SP_5304,La Rhune,12
+2299408,07:07:00,07:07:10,stop_point:SP_5307,F. Mitterrand,13
+2299408,07:08:00,07:08:10,stop_point:SP_4960,Andromède-Lycée,14
+2299408,07:10:00,07:10:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299408,07:11:00,07:11:10,stop_point:SP_4096,Aéroconstellation,16
+2299408,07:20:00,07:20:10,stop_point:SP_1605,Périac,17
+2299408,07:21:00,07:21:10,stop_point:SP_1615,Cague L'Oule,18
+2299408,07:21:00,07:21:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299408,07:22:00,07:22:10,stop_point:SP_3575,Mairie Aussonne,20
+2299408,07:23:00,07:23:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299408,07:24:00,07:24:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299408,07:25:00,07:25:10,stop_point:SP_1812,Vignes,23
+2299408,07:28:00,07:28:10,stop_point:SP_2682,Aussonne Agassines,24
+2299409,07:15:00,07:15:10,stop_point:SP_82,Seilh Mairie,1
+2299409,07:18:00,07:18:10,stop_point:SP_3963,Ader,2
+2299409,07:20:00,07:20:10,stop_point:SP_748,Aussonnelle,3
+2299409,07:22:00,07:22:10,stop_point:SP_2218,Rond-point du Golf,4
+2299409,07:24:00,07:24:10,stop_point:SP_5305,Boisson,5
+2299409,07:26:00,07:26:10,stop_point:SP_1573,Tricheries,6
+2299409,07:27:00,07:27:10,stop_point:SP_5069,Laubis,7
+2299409,07:30:00,07:30:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299409,07:31:00,07:31:10,stop_point:SP_3438,Amandiers,9
+2299409,07:32:00,07:32:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299409,07:33:00,07:33:10,stop_point:SP_5310,Mont Canigou,11
+2299409,07:34:00,07:34:10,stop_point:SP_5304,La Rhune,12
+2299409,07:35:00,07:35:10,stop_point:SP_5307,F. Mitterrand,13
+2299409,07:36:00,07:36:10,stop_point:SP_4960,Andromède-Lycée,14
+2299409,07:38:00,07:38:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299409,07:39:00,07:39:10,stop_point:SP_4096,Aéroconstellation,16
+2299409,07:48:00,07:48:10,stop_point:SP_1605,Périac,17
+2299409,07:49:00,07:49:10,stop_point:SP_1615,Cague L'Oule,18
+2299409,07:49:00,07:49:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299409,07:51:00,07:51:10,stop_point:SP_3575,Mairie Aussonne,20
+2299409,07:52:00,07:52:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299409,07:53:00,07:53:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299409,07:54:00,07:54:10,stop_point:SP_1812,Vignes,23
+2299409,07:57:00,07:57:10,stop_point:SP_2682,Aussonne Agassines,24
+2299410,07:50:00,07:50:10,stop_point:SP_82,Seilh Mairie,1
+2299410,07:53:00,07:53:10,stop_point:SP_3963,Ader,2
+2299410,07:55:00,07:55:10,stop_point:SP_748,Aussonnelle,3
+2299410,07:57:00,07:57:10,stop_point:SP_2218,Rond-point du Golf,4
+2299410,07:59:00,07:59:10,stop_point:SP_5305,Boisson,5
+2299410,08:01:00,08:01:10,stop_point:SP_1573,Tricheries,6
+2299410,08:02:00,08:02:10,stop_point:SP_5069,Laubis,7
+2299410,08:05:00,08:05:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299410,08:06:00,08:06:10,stop_point:SP_3438,Amandiers,9
+2299410,08:07:00,08:07:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299410,08:08:00,08:08:10,stop_point:SP_5310,Mont Canigou,11
+2299410,08:09:00,08:09:10,stop_point:SP_5304,La Rhune,12
+2299410,08:10:00,08:10:10,stop_point:SP_5307,F. Mitterrand,13
+2299410,08:11:00,08:11:10,stop_point:SP_4960,Andromède-Lycée,14
+2299410,08:13:00,08:13:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299410,08:14:00,08:14:10,stop_point:SP_4096,Aéroconstellation,16
+2299410,08:23:00,08:23:10,stop_point:SP_1605,Périac,17
+2299410,08:24:00,08:24:10,stop_point:SP_1615,Cague L'Oule,18
+2299410,08:24:00,08:24:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299410,08:26:00,08:26:10,stop_point:SP_3575,Mairie Aussonne,20
+2299410,08:27:00,08:27:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299410,08:28:00,08:28:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299410,08:29:00,08:29:10,stop_point:SP_1812,Vignes,23
+2299410,08:32:00,08:32:10,stop_point:SP_2682,Aussonne Agassines,24
+2299411,08:10:00,08:10:10,stop_point:SP_82,Seilh Mairie,1
+2299411,08:13:00,08:13:10,stop_point:SP_3963,Ader,2
+2299411,08:15:00,08:15:10,stop_point:SP_748,Aussonnelle,3
+2299411,08:17:00,08:17:10,stop_point:SP_2218,Rond-point du Golf,4
+2299411,08:19:00,08:19:10,stop_point:SP_5305,Boisson,5
+2299411,08:21:00,08:21:10,stop_point:SP_1573,Tricheries,6
+2299411,08:22:00,08:22:10,stop_point:SP_5069,Laubis,7
+2299411,08:25:00,08:25:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299411,08:26:00,08:26:10,stop_point:SP_3438,Amandiers,9
+2299411,08:27:00,08:27:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299411,08:28:00,08:28:10,stop_point:SP_5310,Mont Canigou,11
+2299411,08:29:00,08:29:10,stop_point:SP_5304,La Rhune,12
+2299411,08:30:00,08:30:10,stop_point:SP_5307,F. Mitterrand,13
+2299411,08:31:00,08:31:10,stop_point:SP_4960,Andromède-Lycée,14
+2299411,08:33:00,08:33:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299411,08:34:00,08:34:10,stop_point:SP_4096,Aéroconstellation,16
+2299411,08:43:00,08:43:10,stop_point:SP_1605,Périac,17
+2299411,08:44:00,08:44:10,stop_point:SP_1615,Cague L'Oule,18
+2299411,08:44:00,08:44:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299411,08:46:00,08:46:10,stop_point:SP_3575,Mairie Aussonne,20
+2299411,08:47:00,08:47:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299411,08:48:00,08:48:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299411,08:49:00,08:49:10,stop_point:SP_1812,Vignes,23
+2299411,08:52:00,08:52:10,stop_point:SP_2682,Aussonne Agassines,24
+2299412,08:35:00,08:35:10,stop_point:SP_82,Seilh Mairie,1
+2299412,08:38:00,08:38:10,stop_point:SP_3963,Ader,2
+2299412,08:40:00,08:40:10,stop_point:SP_748,Aussonnelle,3
+2299412,08:42:00,08:42:10,stop_point:SP_2218,Rond-point du Golf,4
+2299412,08:44:00,08:44:10,stop_point:SP_5305,Boisson,5
+2299412,08:46:00,08:46:10,stop_point:SP_1573,Tricheries,6
+2299412,08:47:00,08:47:10,stop_point:SP_5069,Laubis,7
+2299412,08:49:00,08:49:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299412,08:50:00,08:50:10,stop_point:SP_3438,Amandiers,9
+2299412,08:51:00,08:51:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299412,08:52:00,08:52:10,stop_point:SP_5310,Mont Canigou,11
+2299412,08:52:00,08:52:10,stop_point:SP_5304,La Rhune,12
+2299412,08:53:00,08:53:10,stop_point:SP_5307,F. Mitterrand,13
+2299412,08:54:00,08:54:10,stop_point:SP_4960,Andromède-Lycée,14
+2299412,08:56:00,08:56:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299412,08:57:00,08:57:10,stop_point:SP_4096,Aéroconstellation,16
+2299412,09:06:00,09:06:10,stop_point:SP_1605,Périac,17
+2299412,09:07:00,09:07:10,stop_point:SP_1615,Cague L'Oule,18
+2299412,09:07:00,09:07:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299412,09:09:00,09:09:10,stop_point:SP_3575,Mairie Aussonne,20
+2299412,09:10:00,09:10:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299412,09:11:00,09:11:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299412,09:12:00,09:12:10,stop_point:SP_1812,Vignes,23
+2299412,09:15:00,09:15:10,stop_point:SP_2682,Aussonne Agassines,24
+2299413,09:00:00,09:00:10,stop_point:SP_82,Seilh Mairie,1
+2299413,09:02:00,09:02:10,stop_point:SP_3963,Ader,2
+2299413,09:03:00,09:03:10,stop_point:SP_748,Aussonnelle,3
+2299413,09:04:00,09:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299413,09:06:00,09:06:10,stop_point:SP_5305,Boisson,5
+2299413,09:07:00,09:07:10,stop_point:SP_1573,Tricheries,6
+2299413,09:08:00,09:08:10,stop_point:SP_5069,Laubis,7
+2299413,09:10:00,09:10:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299413,09:11:00,09:11:10,stop_point:SP_3438,Amandiers,9
+2299413,09:12:00,09:12:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299413,09:13:00,09:13:10,stop_point:SP_5310,Mont Canigou,11
+2299413,09:13:00,09:13:10,stop_point:SP_5304,La Rhune,12
+2299413,09:14:00,09:14:10,stop_point:SP_5307,F. Mitterrand,13
+2299413,09:15:00,09:15:10,stop_point:SP_4960,Andromède-Lycée,14
+2299414,09:30:00,09:30:10,stop_point:SP_82,Seilh Mairie,1
+2299414,09:32:00,09:32:10,stop_point:SP_3963,Ader,2
+2299414,09:33:00,09:33:10,stop_point:SP_748,Aussonnelle,3
+2299414,09:35:00,09:35:10,stop_point:SP_2218,Rond-point du Golf,4
+2299414,09:36:00,09:36:10,stop_point:SP_5305,Boisson,5
+2299414,09:38:00,09:38:10,stop_point:SP_1573,Tricheries,6
+2299414,09:39:00,09:39:10,stop_point:SP_5069,Laubis,7
+2299414,09:41:00,09:41:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299414,09:42:00,09:42:10,stop_point:SP_3438,Amandiers,9
+2299414,09:43:00,09:43:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299414,09:44:00,09:44:10,stop_point:SP_5310,Mont Canigou,11
+2299414,09:44:00,09:44:10,stop_point:SP_5304,La Rhune,12
+2299414,09:45:00,09:45:10,stop_point:SP_5307,F. Mitterrand,13
+2299414,09:46:00,09:46:10,stop_point:SP_4960,Andromède-Lycée,14
+2299414,09:48:00,09:48:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299414,09:49:00,09:49:10,stop_point:SP_4096,Aéroconstellation,16
+2299414,09:58:00,09:58:10,stop_point:SP_1605,Périac,17
+2299414,09:59:00,09:59:10,stop_point:SP_1615,Cague L'Oule,18
+2299414,09:59:00,09:59:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299414,10:00:00,10:00:10,stop_point:SP_3575,Mairie Aussonne,20
+2299414,10:01:00,10:01:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299414,10:02:00,10:02:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299414,10:02:00,10:02:10,stop_point:SP_1812,Vignes,23
+2299414,10:05:00,10:05:10,stop_point:SP_2682,Aussonne Agassines,24
+2299415,10:30:00,10:30:10,stop_point:SP_82,Seilh Mairie,1
+2299415,10:32:00,10:32:10,stop_point:SP_3963,Ader,2
+2299415,10:32:00,10:32:10,stop_point:SP_748,Aussonnelle,3
+2299415,10:34:00,10:34:10,stop_point:SP_2218,Rond-point du Golf,4
+2299415,10:35:00,10:35:10,stop_point:SP_5305,Boisson,5
+2299415,10:36:00,10:36:10,stop_point:SP_1573,Tricheries,6
+2299415,10:37:00,10:37:10,stop_point:SP_5069,Laubis,7
+2299415,10:39:00,10:39:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299415,10:40:00,10:40:10,stop_point:SP_3438,Amandiers,9
+2299415,10:41:00,10:41:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299415,10:42:00,10:42:10,stop_point:SP_5310,Mont Canigou,11
+2299415,10:42:00,10:42:10,stop_point:SP_5304,La Rhune,12
+2299415,10:43:00,10:43:10,stop_point:SP_5307,F. Mitterrand,13
+2299415,10:44:00,10:44:10,stop_point:SP_4960,Andromède-Lycée,14
+2299415,10:46:00,10:46:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299415,10:47:00,10:47:10,stop_point:SP_4096,Aéroconstellation,16
+2299415,10:56:00,10:56:10,stop_point:SP_1605,Périac,17
+2299415,10:57:00,10:57:10,stop_point:SP_1615,Cague L'Oule,18
+2299415,10:57:00,10:57:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299415,10:58:00,10:58:10,stop_point:SP_3575,Mairie Aussonne,20
+2299415,10:59:00,10:59:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299415,11:00:00,11:00:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299415,11:00:00,11:00:10,stop_point:SP_1812,Vignes,23
+2299415,11:03:00,11:03:10,stop_point:SP_2682,Aussonne Agassines,24
+2299416,11:20:00,11:20:10,stop_point:SP_82,Seilh Mairie,1
+2299416,11:22:00,11:22:10,stop_point:SP_3963,Ader,2
+2299416,11:22:00,11:22:10,stop_point:SP_748,Aussonnelle,3
+2299416,11:24:00,11:24:10,stop_point:SP_2218,Rond-point du Golf,4
+2299416,11:25:00,11:25:10,stop_point:SP_5305,Boisson,5
+2299416,11:26:00,11:26:10,stop_point:SP_1573,Tricheries,6
+2299416,11:27:00,11:27:10,stop_point:SP_5069,Laubis,7
+2299416,11:29:00,11:29:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299416,11:30:00,11:30:10,stop_point:SP_3438,Amandiers,9
+2299416,11:31:00,11:31:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299416,11:32:00,11:32:10,stop_point:SP_5310,Mont Canigou,11
+2299416,11:32:00,11:32:10,stop_point:SP_5304,La Rhune,12
+2299416,11:33:00,11:33:10,stop_point:SP_5307,F. Mitterrand,13
+2299416,11:34:00,11:34:10,stop_point:SP_4960,Andromède-Lycée,14
+2299416,11:36:00,11:36:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299416,11:37:00,11:37:10,stop_point:SP_4096,Aéroconstellation,16
+2299416,11:46:00,11:46:10,stop_point:SP_1605,Périac,17
+2299416,11:47:00,11:47:10,stop_point:SP_1615,Cague L'Oule,18
+2299416,11:47:00,11:47:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299416,11:48:00,11:48:10,stop_point:SP_3575,Mairie Aussonne,20
+2299416,11:49:00,11:49:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299416,11:50:00,11:50:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299416,11:50:00,11:50:10,stop_point:SP_1812,Vignes,23
+2299416,11:53:00,11:53:10,stop_point:SP_2682,Aussonne Agassines,24
+2299417,12:00:00,12:00:10,stop_point:SP_82,Seilh Mairie,1
+2299417,12:02:00,12:02:10,stop_point:SP_3963,Ader,2
+2299417,12:02:00,12:02:10,stop_point:SP_748,Aussonnelle,3
+2299417,12:04:00,12:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299417,12:05:00,12:05:10,stop_point:SP_5305,Boisson,5
+2299417,12:06:00,12:06:10,stop_point:SP_1573,Tricheries,6
+2299417,12:07:00,12:07:10,stop_point:SP_5069,Laubis,7
+2299417,12:09:00,12:09:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299417,12:10:00,12:10:10,stop_point:SP_3438,Amandiers,9
+2299417,12:11:00,12:11:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299417,12:12:00,12:12:10,stop_point:SP_5310,Mont Canigou,11
+2299417,12:12:00,12:12:10,stop_point:SP_5304,La Rhune,12
+2299417,12:13:00,12:13:10,stop_point:SP_5307,F. Mitterrand,13
+2299417,12:14:00,12:14:10,stop_point:SP_4960,Andromède-Lycée,14
+2299417,12:16:00,12:16:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299417,12:17:00,12:17:10,stop_point:SP_4096,Aéroconstellation,16
+2299417,12:26:00,12:26:10,stop_point:SP_1605,Périac,17
+2299417,12:27:00,12:27:10,stop_point:SP_1615,Cague L'Oule,18
+2299417,12:27:00,12:27:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299417,12:28:00,12:28:10,stop_point:SP_3575,Mairie Aussonne,20
+2299417,12:29:00,12:29:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299417,12:30:00,12:30:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299417,12:30:00,12:30:10,stop_point:SP_1812,Vignes,23
+2299417,12:33:00,12:33:10,stop_point:SP_2682,Aussonne Agassines,24
+2299418,13:00:00,13:00:10,stop_point:SP_82,Seilh Mairie,1
+2299418,13:02:00,13:02:10,stop_point:SP_3963,Ader,2
+2299418,13:02:00,13:02:10,stop_point:SP_748,Aussonnelle,3
+2299418,13:04:00,13:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299418,13:05:00,13:05:10,stop_point:SP_5305,Boisson,5
+2299418,13:06:00,13:06:10,stop_point:SP_1573,Tricheries,6
+2299418,13:07:00,13:07:10,stop_point:SP_5069,Laubis,7
+2299418,13:09:00,13:09:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299418,13:10:00,13:10:10,stop_point:SP_3438,Amandiers,9
+2299418,13:11:00,13:11:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299418,13:12:00,13:12:10,stop_point:SP_5310,Mont Canigou,11
+2299418,13:12:00,13:12:10,stop_point:SP_5304,La Rhune,12
+2299418,13:13:00,13:13:10,stop_point:SP_5307,F. Mitterrand,13
+2299418,13:14:00,13:14:10,stop_point:SP_4960,Andromède-Lycée,14
+2299418,13:16:00,13:16:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299418,13:17:00,13:17:10,stop_point:SP_4096,Aéroconstellation,16
+2299418,13:26:00,13:26:10,stop_point:SP_1605,Périac,17
+2299418,13:27:00,13:27:10,stop_point:SP_1615,Cague L'Oule,18
+2299418,13:27:00,13:27:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299418,13:28:00,13:28:10,stop_point:SP_3575,Mairie Aussonne,20
+2299418,13:29:00,13:29:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299418,13:30:00,13:30:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299418,13:30:00,13:30:10,stop_point:SP_1812,Vignes,23
+2299418,13:33:00,13:33:10,stop_point:SP_2682,Aussonne Agassines,24
+2299419,14:00:00,14:00:10,stop_point:SP_82,Seilh Mairie,1
+2299419,14:02:00,14:02:10,stop_point:SP_3963,Ader,2
+2299419,14:02:00,14:02:10,stop_point:SP_748,Aussonnelle,3
+2299419,14:04:00,14:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299419,14:05:00,14:05:10,stop_point:SP_5305,Boisson,5
+2299419,14:06:00,14:06:10,stop_point:SP_1573,Tricheries,6
+2299419,14:07:00,14:07:10,stop_point:SP_5069,Laubis,7
+2299419,14:09:00,14:09:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299419,14:11:00,14:11:10,stop_point:SP_3438,Amandiers,9
+2299419,14:11:00,14:11:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299419,14:13:00,14:13:10,stop_point:SP_5310,Mont Canigou,11
+2299419,14:13:00,14:13:10,stop_point:SP_5304,La Rhune,12
+2299419,14:14:00,14:14:10,stop_point:SP_5307,F. Mitterrand,13
+2299419,14:15:00,14:15:10,stop_point:SP_4960,Andromède-Lycée,14
+2299419,14:17:00,14:17:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299419,14:18:00,14:18:10,stop_point:SP_4096,Aéroconstellation,16
+2299419,14:27:00,14:27:10,stop_point:SP_1605,Périac,17
+2299419,14:28:00,14:28:10,stop_point:SP_1615,Cague L'Oule,18
+2299419,14:28:00,14:28:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299419,14:30:00,14:30:10,stop_point:SP_3575,Mairie Aussonne,20
+2299419,14:31:00,14:31:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299419,14:32:00,14:32:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299419,14:33:00,14:33:10,stop_point:SP_1812,Vignes,23
+2299419,14:36:00,14:36:10,stop_point:SP_2682,Aussonne Agassines,24
+2299420,15:00:00,15:00:10,stop_point:SP_82,Seilh Mairie,1
+2299420,15:02:00,15:02:10,stop_point:SP_3963,Ader,2
+2299420,15:03:00,15:03:10,stop_point:SP_748,Aussonnelle,3
+2299420,15:05:00,15:05:10,stop_point:SP_2218,Rond-point du Golf,4
+2299420,15:06:00,15:06:10,stop_point:SP_5305,Boisson,5
+2299420,15:07:00,15:07:10,stop_point:SP_1573,Tricheries,6
+2299420,15:08:00,15:08:10,stop_point:SP_5069,Laubis,7
+2299420,15:10:00,15:10:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299420,15:12:00,15:12:10,stop_point:SP_3438,Amandiers,9
+2299420,15:12:00,15:12:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299420,15:14:00,15:14:10,stop_point:SP_5310,Mont Canigou,11
+2299420,15:14:00,15:14:10,stop_point:SP_5304,La Rhune,12
+2299420,15:15:00,15:15:10,stop_point:SP_5307,F. Mitterrand,13
+2299420,15:16:00,15:16:10,stop_point:SP_4960,Andromède-Lycée,14
+2299420,15:18:00,15:18:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299420,15:19:00,15:19:10,stop_point:SP_4096,Aéroconstellation,16
+2299420,15:28:00,15:28:10,stop_point:SP_1605,Périac,17
+2299420,15:29:00,15:29:10,stop_point:SP_1615,Cague L'Oule,18
+2299420,15:29:00,15:29:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299420,15:31:00,15:31:10,stop_point:SP_3575,Mairie Aussonne,20
+2299420,15:32:00,15:32:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299420,15:33:00,15:33:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299420,15:34:00,15:34:10,stop_point:SP_1812,Vignes,23
+2299420,15:37:00,15:37:10,stop_point:SP_2682,Aussonne Agassines,24
+2299421,15:45:00,15:45:10,stop_point:SP_82,Seilh Mairie,1
+2299421,15:47:00,15:47:10,stop_point:SP_3963,Ader,2
+2299421,15:48:00,15:48:10,stop_point:SP_748,Aussonnelle,3
+2299421,15:50:00,15:50:10,stop_point:SP_2218,Rond-point du Golf,4
+2299421,15:51:00,15:51:10,stop_point:SP_5305,Boisson,5
+2299421,15:52:00,15:52:10,stop_point:SP_1573,Tricheries,6
+2299421,15:53:00,15:53:10,stop_point:SP_5069,Laubis,7
+2299421,15:55:00,15:55:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299421,15:57:00,15:57:10,stop_point:SP_3438,Amandiers,9
+2299421,15:57:00,15:57:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299421,15:59:00,15:59:10,stop_point:SP_5310,Mont Canigou,11
+2299421,15:59:00,15:59:10,stop_point:SP_5304,La Rhune,12
+2299421,16:00:00,16:00:10,stop_point:SP_5307,F. Mitterrand,13
+2299421,16:01:00,16:01:10,stop_point:SP_4960,Andromède-Lycée,14
+2299421,16:03:00,16:03:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299421,16:05:00,16:05:10,stop_point:SP_4096,Aéroconstellation,16
+2299421,16:14:00,16:14:10,stop_point:SP_1605,Périac,17
+2299421,16:15:00,16:15:10,stop_point:SP_1615,Cague L'Oule,18
+2299421,16:15:00,16:15:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299421,16:17:00,16:17:10,stop_point:SP_3575,Mairie Aussonne,20
+2299421,16:18:00,16:18:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299421,16:19:00,16:19:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299421,16:20:00,16:20:10,stop_point:SP_1812,Vignes,23
+2299421,16:23:00,16:23:10,stop_point:SP_2682,Aussonne Agassines,24
+2299422,16:10:00,16:10:10,stop_point:SP_82,Seilh Mairie,1
+2299422,16:12:00,16:12:10,stop_point:SP_3963,Ader,2
+2299422,16:13:00,16:13:10,stop_point:SP_748,Aussonnelle,3
+2299422,16:15:00,16:15:10,stop_point:SP_2218,Rond-point du Golf,4
+2299422,16:16:00,16:16:10,stop_point:SP_5305,Boisson,5
+2299422,16:17:00,16:17:10,stop_point:SP_1573,Tricheries,6
+2299422,16:18:00,16:18:10,stop_point:SP_5069,Laubis,7
+2299422,16:20:00,16:20:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299422,16:22:00,16:22:10,stop_point:SP_3438,Amandiers,9
+2299422,16:22:00,16:22:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299422,16:24:00,16:24:10,stop_point:SP_5310,Mont Canigou,11
+2299422,16:24:00,16:24:10,stop_point:SP_5304,La Rhune,12
+2299422,16:25:00,16:25:10,stop_point:SP_5307,F. Mitterrand,13
+2299422,16:26:00,16:26:10,stop_point:SP_4960,Andromède-Lycée,14
+2299422,16:28:00,16:28:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299422,16:30:00,16:30:10,stop_point:SP_4096,Aéroconstellation,16
+2299422,16:39:00,16:39:10,stop_point:SP_1605,Périac,17
+2299422,16:40:00,16:40:10,stop_point:SP_1615,Cague L'Oule,18
+2299422,16:40:00,16:40:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299422,16:42:00,16:42:10,stop_point:SP_3575,Mairie Aussonne,20
+2299422,16:43:00,16:43:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299422,16:44:00,16:44:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299422,16:45:00,16:45:10,stop_point:SP_1812,Vignes,23
+2299422,16:48:00,16:48:10,stop_point:SP_2682,Aussonne Agassines,24
+2299423,16:40:00,16:40:10,stop_point:SP_82,Seilh Mairie,1
+2299423,16:42:00,16:42:10,stop_point:SP_3963,Ader,2
+2299423,16:43:00,16:43:10,stop_point:SP_748,Aussonnelle,3
+2299423,16:45:00,16:45:10,stop_point:SP_2218,Rond-point du Golf,4
+2299423,16:46:00,16:46:10,stop_point:SP_5305,Boisson,5
+2299423,16:48:00,16:48:10,stop_point:SP_1573,Tricheries,6
+2299423,16:49:00,16:49:10,stop_point:SP_5069,Laubis,7
+2299423,16:52:00,16:52:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299423,16:54:00,16:54:10,stop_point:SP_3438,Amandiers,9
+2299423,16:54:00,16:54:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299423,16:56:00,16:56:10,stop_point:SP_5310,Mont Canigou,11
+2299423,16:57:00,16:57:10,stop_point:SP_5304,La Rhune,12
+2299423,16:58:00,16:58:10,stop_point:SP_5307,F. Mitterrand,13
+2299423,16:59:00,16:59:10,stop_point:SP_4960,Andromède-Lycée,14
+2299423,17:02:00,17:02:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299423,17:04:00,17:04:10,stop_point:SP_4096,Aéroconstellation,16
+2299423,17:15:00,17:15:10,stop_point:SP_1605,Périac,17
+2299423,17:16:00,17:16:10,stop_point:SP_1615,Cague L'Oule,18
+2299423,17:17:00,17:17:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299423,17:19:00,17:19:10,stop_point:SP_3575,Mairie Aussonne,20
+2299423,17:20:00,17:20:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299423,17:21:00,17:21:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299423,17:22:00,17:22:10,stop_point:SP_1812,Vignes,23
+2299423,17:26:00,17:26:10,stop_point:SP_2682,Aussonne Agassines,24
+2299424,17:10:00,17:10:10,stop_point:SP_82,Seilh Mairie,1
+2299424,17:12:00,17:12:10,stop_point:SP_3963,Ader,2
+2299424,17:12:00,17:12:10,stop_point:SP_748,Aussonnelle,3
+2299424,17:14:00,17:14:10,stop_point:SP_2218,Rond-point du Golf,4
+2299424,17:15:00,17:15:10,stop_point:SP_5305,Boisson,5
+2299424,17:16:00,17:16:10,stop_point:SP_1573,Tricheries,6
+2299424,17:17:00,17:17:10,stop_point:SP_5069,Laubis,7
+2299424,17:20:00,17:20:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299424,17:21:00,17:21:10,stop_point:SP_3438,Amandiers,9
+2299424,17:22:00,17:22:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299424,17:23:00,17:23:10,stop_point:SP_5310,Mont Canigou,11
+2299424,17:24:00,17:24:10,stop_point:SP_5304,La Rhune,12
+2299424,17:25:00,17:25:10,stop_point:SP_5307,F. Mitterrand,13
+2299424,17:26:00,17:26:10,stop_point:SP_4960,Andromède-Lycée,14
+2299424,17:29:00,17:29:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299424,17:31:00,17:31:10,stop_point:SP_4096,Aéroconstellation,16
+2299424,17:42:00,17:42:10,stop_point:SP_1605,Périac,17
+2299424,17:43:00,17:43:10,stop_point:SP_1615,Cague L'Oule,18
+2299424,17:44:00,17:44:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299424,17:46:00,17:46:10,stop_point:SP_3575,Mairie Aussonne,20
+2299424,17:47:00,17:47:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299424,17:48:00,17:48:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299424,17:49:00,17:49:10,stop_point:SP_1812,Vignes,23
+2299424,17:53:00,17:53:10,stop_point:SP_2682,Aussonne Agassines,24
+2299425,17:30:00,17:30:10,stop_point:SP_82,Seilh Mairie,1
+2299425,17:32:00,17:32:10,stop_point:SP_3963,Ader,2
+2299425,17:32:00,17:32:10,stop_point:SP_748,Aussonnelle,3
+2299425,17:34:00,17:34:10,stop_point:SP_2218,Rond-point du Golf,4
+2299425,17:35:00,17:35:10,stop_point:SP_5305,Boisson,5
+2299425,17:36:00,17:36:10,stop_point:SP_1573,Tricheries,6
+2299425,17:37:00,17:37:10,stop_point:SP_5069,Laubis,7
+2299425,17:39:00,17:39:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299425,17:41:00,17:41:10,stop_point:SP_3438,Amandiers,9
+2299425,17:41:00,17:41:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299425,17:43:00,17:43:10,stop_point:SP_5310,Mont Canigou,11
+2299425,17:43:00,17:43:10,stop_point:SP_5304,La Rhune,12
+2299425,17:44:00,17:44:10,stop_point:SP_5307,F. Mitterrand,13
+2299425,17:45:00,17:45:10,stop_point:SP_4960,Andromède-Lycée,14
+2299425,17:48:00,17:48:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299425,17:50:00,17:50:10,stop_point:SP_4096,Aéroconstellation,16
+2299425,18:01:00,18:01:10,stop_point:SP_1605,Périac,17
+2299425,18:02:00,18:02:10,stop_point:SP_1615,Cague L'Oule,18
+2299425,18:03:00,18:03:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299425,18:05:00,18:05:10,stop_point:SP_3575,Mairie Aussonne,20
+2299425,18:06:00,18:06:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299425,18:07:00,18:07:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299425,18:08:00,18:08:10,stop_point:SP_1812,Vignes,23
+2299425,18:12:00,18:12:10,stop_point:SP_2682,Aussonne Agassines,24
+2299426,18:00:00,18:00:10,stop_point:SP_82,Seilh Mairie,1
+2299426,18:02:00,18:02:10,stop_point:SP_3963,Ader,2
+2299426,18:02:00,18:02:10,stop_point:SP_748,Aussonnelle,3
+2299426,18:04:00,18:04:10,stop_point:SP_2218,Rond-point du Golf,4
+2299426,18:05:00,18:05:10,stop_point:SP_5305,Boisson,5
+2299426,18:06:00,18:06:10,stop_point:SP_1573,Tricheries,6
+2299426,18:07:00,18:07:10,stop_point:SP_5069,Laubis,7
+2299426,18:09:00,18:09:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299426,18:11:00,18:11:10,stop_point:SP_3438,Amandiers,9
+2299426,18:11:00,18:11:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299426,18:13:00,18:13:10,stop_point:SP_5310,Mont Canigou,11
+2299426,18:13:00,18:13:10,stop_point:SP_5304,La Rhune,12
+2299426,18:14:00,18:14:10,stop_point:SP_5307,F. Mitterrand,13
+2299426,18:15:00,18:15:10,stop_point:SP_4960,Andromède-Lycée,14
+2299426,18:18:00,18:18:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299426,18:20:00,18:20:10,stop_point:SP_4096,Aéroconstellation,16
+2299426,18:31:00,18:31:10,stop_point:SP_1605,Périac,17
+2299426,18:32:00,18:32:10,stop_point:SP_1615,Cague L'Oule,18
+2299426,18:33:00,18:33:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299426,18:35:00,18:35:10,stop_point:SP_3575,Mairie Aussonne,20
+2299426,18:36:00,18:36:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299426,18:37:00,18:37:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299426,18:38:00,18:38:10,stop_point:SP_1812,Vignes,23
+2299426,18:42:00,18:42:10,stop_point:SP_2682,Aussonne Agassines,24
+2299427,18:30:00,18:30:10,stop_point:SP_82,Seilh Mairie,1
+2299427,18:32:00,18:32:10,stop_point:SP_3963,Ader,2
+2299427,18:32:00,18:32:10,stop_point:SP_748,Aussonnelle,3
+2299427,18:34:00,18:34:10,stop_point:SP_2218,Rond-point du Golf,4
+2299427,18:35:00,18:35:10,stop_point:SP_5305,Boisson,5
+2299427,18:36:00,18:36:10,stop_point:SP_1573,Tricheries,6
+2299427,18:37:00,18:37:10,stop_point:SP_5069,Laubis,7
+2299427,18:39:00,18:39:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299427,18:40:00,18:40:10,stop_point:SP_3438,Amandiers,9
+2299427,18:41:00,18:41:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299427,18:42:00,18:42:10,stop_point:SP_5310,Mont Canigou,11
+2299427,18:42:00,18:42:10,stop_point:SP_5304,La Rhune,12
+2299427,18:43:00,18:43:10,stop_point:SP_5307,F. Mitterrand,13
+2299427,18:44:00,18:44:10,stop_point:SP_4960,Andromède-Lycée,14
+2299427,18:46:00,18:46:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299427,18:48:00,18:48:10,stop_point:SP_4096,Aéroconstellation,16
+2299427,18:57:00,18:57:10,stop_point:SP_1605,Périac,17
+2299427,18:59:00,18:59:10,stop_point:SP_1615,Cague L'Oule,18
+2299427,18:59:00,18:59:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299427,19:00:00,19:00:10,stop_point:SP_3575,Mairie Aussonne,20
+2299427,19:01:00,19:01:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299427,19:02:00,19:02:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299427,19:03:00,19:03:10,stop_point:SP_1812,Vignes,23
+2299427,19:06:00,19:06:10,stop_point:SP_2682,Aussonne Agassines,24
+2299428,19:15:00,19:15:10,stop_point:SP_82,Seilh Mairie,1
+2299428,19:17:00,19:17:10,stop_point:SP_3963,Ader,2
+2299428,19:17:00,19:17:10,stop_point:SP_748,Aussonnelle,3
+2299428,19:19:00,19:19:10,stop_point:SP_2218,Rond-point du Golf,4
+2299428,19:20:00,19:20:10,stop_point:SP_5305,Boisson,5
+2299428,19:21:00,19:21:10,stop_point:SP_1573,Tricheries,6
+2299428,19:22:00,19:22:10,stop_point:SP_5069,Laubis,7
+2299428,19:24:00,19:24:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299428,19:25:00,19:25:10,stop_point:SP_3438,Amandiers,9
+2299428,19:26:00,19:26:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299428,19:27:00,19:27:10,stop_point:SP_5310,Mont Canigou,11
+2299428,19:27:00,19:27:10,stop_point:SP_5304,La Rhune,12
+2299428,19:28:00,19:28:10,stop_point:SP_5307,F. Mitterrand,13
+2299428,19:29:00,19:29:10,stop_point:SP_4960,Andromède-Lycée,14
+2299428,19:31:00,19:31:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299428,19:32:00,19:32:10,stop_point:SP_4096,Aéroconstellation,16
+2299428,19:41:00,19:41:10,stop_point:SP_1605,Périac,17
+2299428,19:42:00,19:42:10,stop_point:SP_1615,Cague L'Oule,18
+2299428,19:42:00,19:42:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299428,19:43:00,19:43:10,stop_point:SP_3575,Mairie Aussonne,20
+2299428,19:44:00,19:44:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299428,19:45:00,19:45:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299428,19:45:00,19:45:10,stop_point:SP_1812,Vignes,23
+2299428,19:48:00,19:48:10,stop_point:SP_2682,Aussonne Agassines,24
+2299429,20:15:00,20:15:10,stop_point:SP_82,Seilh Mairie,1
+2299429,20:16:00,20:16:10,stop_point:SP_3963,Ader,2
+2299429,20:17:00,20:17:10,stop_point:SP_748,Aussonnelle,3
+2299429,20:18:00,20:18:10,stop_point:SP_2218,Rond-point du Golf,4
+2299429,20:19:00,20:19:10,stop_point:SP_5305,Boisson,5
+2299429,20:20:00,20:20:10,stop_point:SP_1573,Tricheries,6
+2299429,20:21:00,20:21:10,stop_point:SP_5069,Laubis,7
+2299429,20:23:00,20:23:10,stop_point:SP_5308,Ctre Cial Beauzelle,8
+2299429,20:24:00,20:24:10,stop_point:SP_3438,Amandiers,9
+2299429,20:24:00,20:24:10,stop_point:SP_5309,Collège Elisa Deroche,10
+2299429,20:25:00,20:25:10,stop_point:SP_5310,Mont Canigou,11
+2299429,20:26:00,20:26:10,stop_point:SP_5304,La Rhune,12
+2299429,20:26:00,20:26:10,stop_point:SP_5307,F. Mitterrand,13
+2299429,20:27:00,20:27:10,stop_point:SP_4960,Andromède-Lycée,14
+2299429,20:29:00,20:29:10,stop_point:SP_4110,Beauzelle - Aeroscopia,15
+2299429,20:30:00,20:30:10,stop_point:SP_4096,Aéroconstellation,16
+2299429,20:39:00,20:39:10,stop_point:SP_1605,Périac,17
+2299429,20:40:00,20:40:10,stop_point:SP_1615,Cague L'Oule,18
+2299429,20:40:00,20:40:10,stop_point:SP_2727,Les Jardins du Panariol,19
+2299429,20:40:00,20:40:10,stop_point:SP_3575,Mairie Aussonne,20
+2299429,20:40:00,20:40:10,stop_point:SP_2318,Ecole Jules Ferry,21
+2299429,20:41:00,20:41:10,stop_point:SP_5295,Collège d'Aussonne,22
+2299429,20:41:00,20:41:10,stop_point:SP_1812,Vignes,23
+2299429,20:44:00,20:44:10,stop_point:SP_2682,Aussonne Agassines,24
+2299430,06:05:00,06:05:10,stop_point:SP_2682,Aussonne Agassines,1
+2299430,06:06:00,06:06:10,stop_point:SP_401,Vignes,2
+2299430,06:08:00,06:08:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299430,06:09:00,06:09:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299430,06:10:00,06:10:10,stop_point:SP_22,Mairie Aussonne,5
+2299430,06:11:00,06:11:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299430,06:11:00,06:11:10,stop_point:SP_3275,Cague L'Oule,7
+2299430,06:13:00,06:13:10,stop_point:SP_2561,Périac,8
+2299430,06:22:00,06:22:10,stop_point:SP_754,Aéroconstellation,9
+2299430,06:23:00,06:23:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299430,06:25:00,06:25:10,stop_point:SP_3628,Andromède-Lycée,11
+2299430,06:26:00,06:26:10,stop_point:SP_5297,F. Mitterrand,12
+2299430,06:27:00,06:27:10,stop_point:SP_5311,La Rhune,13
+2299430,06:28:00,06:28:10,stop_point:SP_5301,Mont Canigou,14
+2299430,06:29:00,06:29:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299430,06:29:00,06:29:10,stop_point:SP_1247,Amandiers,16
+2299430,06:30:00,06:30:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299430,06:33:00,06:33:10,stop_point:SP_3107,Laubis,18
+2299430,06:33:00,06:33:10,stop_point:SP_3088,Tricheries,19
+2299430,06:34:00,06:34:10,stop_point:SP_5313,Boisson,20
+2299430,06:35:00,06:35:10,stop_point:SP_5306,Rond-point du Golf,21
+2299430,06:37:00,06:37:10,stop_point:SP_2633,Aussonnelle,22
+2299430,06:37:00,06:37:10,stop_point:SP_2902,Ader,23
+2299430,06:38:00,06:38:10,stop_point:SP_82,Seilh Mairie,24
+2299431,06:30:00,06:30:10,stop_point:SP_2682,Aussonne Agassines,1
+2299431,06:31:00,06:31:10,stop_point:SP_401,Vignes,2
+2299431,06:33:00,06:33:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299431,06:34:00,06:34:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299431,06:35:00,06:35:10,stop_point:SP_22,Mairie Aussonne,5
+2299431,06:36:00,06:36:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299431,06:36:00,06:36:10,stop_point:SP_3275,Cague L'Oule,7
+2299431,06:38:00,06:38:10,stop_point:SP_2561,Périac,8
+2299431,06:47:00,06:47:10,stop_point:SP_754,Aéroconstellation,9
+2299431,06:48:00,06:48:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299431,06:50:00,06:50:10,stop_point:SP_3628,Andromède-Lycée,11
+2299431,06:51:00,06:51:10,stop_point:SP_5297,F. Mitterrand,12
+2299431,06:52:00,06:52:10,stop_point:SP_5311,La Rhune,13
+2299431,06:53:00,06:53:10,stop_point:SP_5301,Mont Canigou,14
+2299431,06:54:00,06:54:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299431,06:54:00,06:54:10,stop_point:SP_1247,Amandiers,16
+2299431,06:55:00,06:55:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299431,06:58:00,06:58:10,stop_point:SP_3107,Laubis,18
+2299431,06:58:00,06:58:10,stop_point:SP_3088,Tricheries,19
+2299431,06:59:00,06:59:10,stop_point:SP_5313,Boisson,20
+2299431,07:00:00,07:00:10,stop_point:SP_5306,Rond-point du Golf,21
+2299431,07:02:00,07:02:10,stop_point:SP_2633,Aussonnelle,22
+2299431,07:02:00,07:02:10,stop_point:SP_2902,Ader,23
+2299431,07:03:00,07:03:10,stop_point:SP_82,Seilh Mairie,24
+2299432,07:00:00,07:00:10,stop_point:SP_2682,Aussonne Agassines,1
+2299432,07:01:00,07:01:10,stop_point:SP_401,Vignes,2
+2299432,07:03:00,07:03:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299432,07:04:00,07:04:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299432,07:05:00,07:05:10,stop_point:SP_22,Mairie Aussonne,5
+2299432,07:07:00,07:07:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299432,07:08:00,07:08:10,stop_point:SP_3275,Cague L'Oule,7
+2299432,07:09:00,07:09:10,stop_point:SP_2561,Périac,8
+2299432,07:22:00,07:22:10,stop_point:SP_754,Aéroconstellation,9
+2299432,07:25:00,07:25:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299432,07:27:00,07:27:10,stop_point:SP_3628,Andromède-Lycée,11
+2299432,07:28:00,07:28:10,stop_point:SP_5297,F. Mitterrand,12
+2299432,07:29:00,07:29:10,stop_point:SP_5311,La Rhune,13
+2299432,07:30:00,07:30:10,stop_point:SP_5301,Mont Canigou,14
+2299432,07:31:00,07:31:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299432,07:31:00,07:31:10,stop_point:SP_1247,Amandiers,16
+2299432,07:32:00,07:32:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299432,07:35:00,07:35:10,stop_point:SP_3107,Laubis,18
+2299432,07:35:00,07:35:10,stop_point:SP_3088,Tricheries,19
+2299432,07:36:00,07:36:10,stop_point:SP_5313,Boisson,20
+2299432,07:38:00,07:38:10,stop_point:SP_5306,Rond-point du Golf,21
+2299432,07:40:00,07:40:10,stop_point:SP_2633,Aussonnelle,22
+2299432,07:41:00,07:41:10,stop_point:SP_2902,Ader,23
+2299432,07:42:00,07:42:10,stop_point:SP_82,Seilh Mairie,24
+2299433,07:10:00,07:10:10,stop_point:SP_2682,Aussonne Agassines,1
+2299433,07:11:00,07:11:10,stop_point:SP_401,Vignes,2
+2299433,07:13:00,07:13:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299433,07:14:00,07:14:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299433,07:15:00,07:15:10,stop_point:SP_22,Mairie Aussonne,5
+2299433,07:17:00,07:17:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299433,07:18:00,07:18:10,stop_point:SP_3275,Cague L'Oule,7
+2299433,07:20:00,07:20:10,stop_point:SP_2561,Périac,8
+2299433,07:35:00,07:35:10,stop_point:SP_754,Aéroconstellation,9
+2299433,07:38:00,07:38:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299433,07:41:00,07:41:10,stop_point:SP_3628,Andromède-Lycée,11
+2299433,07:42:00,07:42:10,stop_point:SP_5297,F. Mitterrand,12
+2299433,07:43:00,07:43:10,stop_point:SP_5311,La Rhune,13
+2299433,07:44:00,07:44:10,stop_point:SP_5301,Mont Canigou,14
+2299433,07:45:00,07:45:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299433,07:45:00,07:45:10,stop_point:SP_1247,Amandiers,16
+2299433,07:46:00,07:46:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299433,07:49:00,07:49:10,stop_point:SP_3107,Laubis,18
+2299433,07:49:00,07:49:10,stop_point:SP_3088,Tricheries,19
+2299433,07:50:00,07:50:10,stop_point:SP_5313,Boisson,20
+2299433,07:52:00,07:52:10,stop_point:SP_5306,Rond-point du Golf,21
+2299433,07:54:00,07:54:10,stop_point:SP_2633,Aussonnelle,22
+2299433,07:55:00,07:55:10,stop_point:SP_2902,Ader,23
+2299433,07:56:00,07:56:10,stop_point:SP_82,Seilh Mairie,24
+2299434,07:35:00,07:35:10,stop_point:SP_2682,Aussonne Agassines,1
+2299434,07:36:00,07:36:10,stop_point:SP_401,Vignes,2
+2299434,07:38:00,07:38:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299434,07:39:00,07:39:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299434,07:40:00,07:40:10,stop_point:SP_22,Mairie Aussonne,5
+2299434,07:43:00,07:43:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299434,07:44:00,07:44:10,stop_point:SP_3275,Cague L'Oule,7
+2299434,07:46:00,07:46:10,stop_point:SP_2561,Périac,8
+2299434,08:01:00,08:01:10,stop_point:SP_754,Aéroconstellation,9
+2299434,08:03:00,08:03:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299434,08:06:00,08:06:10,stop_point:SP_3628,Andromède-Lycée,11
+2299434,08:07:00,08:07:10,stop_point:SP_5297,F. Mitterrand,12
+2299434,08:08:00,08:08:10,stop_point:SP_5311,La Rhune,13
+2299434,08:09:00,08:09:10,stop_point:SP_5301,Mont Canigou,14
+2299434,08:10:00,08:10:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299434,08:10:00,08:10:10,stop_point:SP_1247,Amandiers,16
+2299434,08:11:00,08:11:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299434,08:14:00,08:14:10,stop_point:SP_3107,Laubis,18
+2299434,08:14:00,08:14:10,stop_point:SP_3088,Tricheries,19
+2299434,08:15:00,08:15:10,stop_point:SP_5313,Boisson,20
+2299434,08:17:00,08:17:10,stop_point:SP_5306,Rond-point du Golf,21
+2299434,08:19:00,08:19:10,stop_point:SP_2633,Aussonnelle,22
+2299434,08:20:00,08:20:10,stop_point:SP_2902,Ader,23
+2299434,08:21:00,08:21:10,stop_point:SP_82,Seilh Mairie,24
+2299435,08:05:00,08:05:10,stop_point:SP_2682,Aussonne Agassines,1
+2299435,08:06:00,08:06:10,stop_point:SP_401,Vignes,2
+2299435,08:08:00,08:08:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299435,08:09:00,08:09:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299435,08:10:00,08:10:10,stop_point:SP_22,Mairie Aussonne,5
+2299435,08:12:00,08:12:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299435,08:13:00,08:13:10,stop_point:SP_3275,Cague L'Oule,7
+2299435,08:15:00,08:15:10,stop_point:SP_2561,Périac,8
+2299435,08:30:00,08:30:10,stop_point:SP_754,Aéroconstellation,9
+2299435,08:32:00,08:32:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299435,08:35:00,08:35:10,stop_point:SP_3628,Andromède-Lycée,11
+2299435,08:36:00,08:36:10,stop_point:SP_5297,F. Mitterrand,12
+2299435,08:37:00,08:37:10,stop_point:SP_5311,La Rhune,13
+2299435,08:38:00,08:38:10,stop_point:SP_5301,Mont Canigou,14
+2299435,08:39:00,08:39:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299435,08:39:00,08:39:10,stop_point:SP_1247,Amandiers,16
+2299435,08:40:00,08:40:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299435,08:43:00,08:43:10,stop_point:SP_3107,Laubis,18
+2299435,08:43:00,08:43:10,stop_point:SP_3088,Tricheries,19
+2299435,08:44:00,08:44:10,stop_point:SP_5313,Boisson,20
+2299435,08:45:00,08:45:10,stop_point:SP_5306,Rond-point du Golf,21
+2299435,08:47:00,08:47:10,stop_point:SP_2633,Aussonnelle,22
+2299435,08:47:00,08:47:10,stop_point:SP_2902,Ader,23
+2299435,08:48:00,08:48:10,stop_point:SP_82,Seilh Mairie,24
+2299436,08:40:00,08:40:10,stop_point:SP_2682,Aussonne Agassines,1
+2299436,08:41:00,08:41:10,stop_point:SP_401,Vignes,2
+2299436,08:43:00,08:43:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299436,08:44:00,08:44:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299436,08:45:00,08:45:10,stop_point:SP_22,Mairie Aussonne,5
+2299436,08:46:00,08:46:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299436,08:47:00,08:47:10,stop_point:SP_3275,Cague L'Oule,7
+2299436,08:48:00,08:48:10,stop_point:SP_2561,Périac,8
+2299436,08:59:00,08:59:10,stop_point:SP_754,Aéroconstellation,9
+2299436,09:01:00,09:01:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299436,09:03:00,09:03:10,stop_point:SP_3628,Andromède-Lycée,11
+2299436,09:04:00,09:04:10,stop_point:SP_5297,F. Mitterrand,12
+2299436,09:05:00,09:05:10,stop_point:SP_5311,La Rhune,13
+2299436,09:06:00,09:06:10,stop_point:SP_5301,Mont Canigou,14
+2299436,09:07:00,09:07:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299436,09:07:00,09:07:10,stop_point:SP_1247,Amandiers,16
+2299436,09:08:00,09:08:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299436,09:11:00,09:11:10,stop_point:SP_3107,Laubis,18
+2299436,09:11:00,09:11:10,stop_point:SP_3088,Tricheries,19
+2299436,09:12:00,09:12:10,stop_point:SP_5313,Boisson,20
+2299436,09:13:00,09:13:10,stop_point:SP_5306,Rond-point du Golf,21
+2299436,09:15:00,09:15:10,stop_point:SP_2633,Aussonnelle,22
+2299436,09:15:00,09:15:10,stop_point:SP_2902,Ader,23
+2299436,09:16:00,09:16:10,stop_point:SP_82,Seilh Mairie,24
+2299437,09:00:00,09:00:10,stop_point:SP_2682,Aussonne Agassines,1
+2299437,09:02:00,09:02:10,stop_point:SP_401,Vignes,2
+2299437,09:03:00,09:03:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299437,09:04:00,09:04:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299437,09:05:00,09:05:10,stop_point:SP_22,Mairie Aussonne,5
+2299437,09:07:00,09:07:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299437,09:07:00,09:07:10,stop_point:SP_3275,Cague L'Oule,7
+2299437,09:08:00,09:08:10,stop_point:SP_2561,Périac,8
+2299437,09:17:00,09:17:10,stop_point:SP_754,Aéroconstellation,9
+2299437,09:18:00,09:18:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299437,09:20:00,09:20:10,stop_point:SP_3628,Andromède-Lycée,11
+2299438,09:25:00,09:25:10,stop_point:SP_2682,Aussonne Agassines,1
+2299438,09:26:00,09:26:10,stop_point:SP_401,Vignes,2
+2299438,09:28:00,09:28:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299438,09:29:00,09:29:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299438,09:30:00,09:30:10,stop_point:SP_22,Mairie Aussonne,5
+2299438,09:31:00,09:31:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299438,09:31:00,09:31:10,stop_point:SP_3275,Cague L'Oule,7
+2299438,09:32:00,09:32:10,stop_point:SP_2561,Périac,8
+2299438,09:41:00,09:41:10,stop_point:SP_754,Aéroconstellation,9
+2299438,09:42:00,09:42:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299438,09:44:00,09:44:10,stop_point:SP_3628,Andromède-Lycée,11
+2299438,09:45:00,09:45:10,stop_point:SP_5297,F. Mitterrand,12
+2299438,09:46:00,09:46:10,stop_point:SP_5311,La Rhune,13
+2299438,09:47:00,09:47:10,stop_point:SP_5301,Mont Canigou,14
+2299438,09:48:00,09:48:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299438,09:48:00,09:48:10,stop_point:SP_1247,Amandiers,16
+2299438,09:49:00,09:49:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299438,09:52:00,09:52:10,stop_point:SP_3107,Laubis,18
+2299438,09:52:00,09:52:10,stop_point:SP_3088,Tricheries,19
+2299438,09:53:00,09:53:10,stop_point:SP_5313,Boisson,20
+2299438,09:54:00,09:54:10,stop_point:SP_5306,Rond-point du Golf,21
+2299438,09:56:00,09:56:10,stop_point:SP_2633,Aussonnelle,22
+2299438,09:56:00,09:56:10,stop_point:SP_2902,Ader,23
+2299438,09:57:00,09:57:10,stop_point:SP_82,Seilh Mairie,24
+2299439,10:25:00,10:25:10,stop_point:SP_2682,Aussonne Agassines,1
+2299439,10:26:00,10:26:10,stop_point:SP_401,Vignes,2
+2299439,10:28:00,10:28:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299439,10:29:00,10:29:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299439,10:30:00,10:30:10,stop_point:SP_22,Mairie Aussonne,5
+2299439,10:31:00,10:31:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299439,10:31:00,10:31:10,stop_point:SP_3275,Cague L'Oule,7
+2299439,10:32:00,10:32:10,stop_point:SP_2561,Périac,8
+2299439,10:41:00,10:41:10,stop_point:SP_754,Aéroconstellation,9
+2299439,10:42:00,10:42:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299439,10:44:00,10:44:10,stop_point:SP_3628,Andromède-Lycée,11
+2299439,10:45:00,10:45:10,stop_point:SP_5297,F. Mitterrand,12
+2299439,10:46:00,10:46:10,stop_point:SP_5311,La Rhune,13
+2299439,10:47:00,10:47:10,stop_point:SP_5301,Mont Canigou,14
+2299439,10:48:00,10:48:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299439,10:48:00,10:48:10,stop_point:SP_1247,Amandiers,16
+2299439,10:49:00,10:49:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299439,10:52:00,10:52:10,stop_point:SP_3107,Laubis,18
+2299439,10:52:00,10:52:10,stop_point:SP_3088,Tricheries,19
+2299439,10:53:00,10:53:10,stop_point:SP_5313,Boisson,20
+2299439,10:54:00,10:54:10,stop_point:SP_5306,Rond-point du Golf,21
+2299439,10:56:00,10:56:10,stop_point:SP_2633,Aussonnelle,22
+2299439,10:56:00,10:56:10,stop_point:SP_2902,Ader,23
+2299439,10:57:00,10:57:10,stop_point:SP_82,Seilh Mairie,24
+2299440,11:20:00,11:20:10,stop_point:SP_2682,Aussonne Agassines,1
+2299440,11:21:00,11:21:10,stop_point:SP_401,Vignes,2
+2299440,11:23:00,11:23:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299440,11:24:00,11:24:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299440,11:25:00,11:25:10,stop_point:SP_22,Mairie Aussonne,5
+2299440,11:26:00,11:26:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299440,11:26:00,11:26:10,stop_point:SP_3275,Cague L'Oule,7
+2299440,11:27:00,11:27:10,stop_point:SP_2561,Périac,8
+2299440,11:36:00,11:36:10,stop_point:SP_754,Aéroconstellation,9
+2299440,11:37:00,11:37:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299440,11:39:00,11:39:10,stop_point:SP_3628,Andromède-Lycée,11
+2299440,11:40:00,11:40:10,stop_point:SP_5297,F. Mitterrand,12
+2299440,11:41:00,11:41:10,stop_point:SP_5311,La Rhune,13
+2299440,11:42:00,11:42:10,stop_point:SP_5301,Mont Canigou,14
+2299440,11:43:00,11:43:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299440,11:43:00,11:43:10,stop_point:SP_1247,Amandiers,16
+2299440,11:44:00,11:44:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299440,11:47:00,11:47:10,stop_point:SP_3107,Laubis,18
+2299440,11:47:00,11:47:10,stop_point:SP_3088,Tricheries,19
+2299440,11:48:00,11:48:10,stop_point:SP_5313,Boisson,20
+2299440,11:49:00,11:49:10,stop_point:SP_5306,Rond-point du Golf,21
+2299440,11:51:00,11:51:10,stop_point:SP_2633,Aussonnelle,22
+2299440,11:51:00,11:51:10,stop_point:SP_2902,Ader,23
+2299440,11:52:00,11:52:10,stop_point:SP_82,Seilh Mairie,24
+2299441,12:00:00,12:00:10,stop_point:SP_2682,Aussonne Agassines,1
+2299441,12:01:00,12:01:10,stop_point:SP_401,Vignes,2
+2299441,12:03:00,12:03:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299441,12:04:00,12:04:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299441,12:05:00,12:05:10,stop_point:SP_22,Mairie Aussonne,5
+2299441,12:06:00,12:06:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299441,12:06:00,12:06:10,stop_point:SP_3275,Cague L'Oule,7
+2299441,12:07:00,12:07:10,stop_point:SP_2561,Périac,8
+2299441,12:16:00,12:16:10,stop_point:SP_754,Aéroconstellation,9
+2299441,12:17:00,12:17:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299441,12:19:00,12:19:10,stop_point:SP_3628,Andromède-Lycée,11
+2299441,12:20:00,12:20:10,stop_point:SP_5297,F. Mitterrand,12
+2299441,12:21:00,12:21:10,stop_point:SP_5311,La Rhune,13
+2299441,12:22:00,12:22:10,stop_point:SP_5301,Mont Canigou,14
+2299441,12:23:00,12:23:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299441,12:24:00,12:24:10,stop_point:SP_1247,Amandiers,16
+2299441,12:25:00,12:25:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299441,12:28:00,12:28:10,stop_point:SP_3107,Laubis,18
+2299441,12:28:00,12:28:10,stop_point:SP_3088,Tricheries,19
+2299441,12:29:00,12:29:10,stop_point:SP_5313,Boisson,20
+2299441,12:30:00,12:30:10,stop_point:SP_5306,Rond-point du Golf,21
+2299441,12:32:00,12:32:10,stop_point:SP_2633,Aussonnelle,22
+2299441,12:32:00,12:32:10,stop_point:SP_2902,Ader,23
+2299441,12:33:00,12:33:10,stop_point:SP_82,Seilh Mairie,24
+2299442,12:55:00,12:55:10,stop_point:SP_2682,Aussonne Agassines,1
+2299442,12:56:00,12:56:10,stop_point:SP_401,Vignes,2
+2299442,12:58:00,12:58:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299442,12:59:00,12:59:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299442,13:00:00,13:00:10,stop_point:SP_22,Mairie Aussonne,5
+2299442,13:01:00,13:01:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299442,13:01:00,13:01:10,stop_point:SP_3275,Cague L'Oule,7
+2299442,13:02:00,13:02:10,stop_point:SP_2561,Périac,8
+2299442,13:11:00,13:11:10,stop_point:SP_754,Aéroconstellation,9
+2299442,13:12:00,13:12:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299442,13:14:00,13:14:10,stop_point:SP_3628,Andromède-Lycée,11
+2299442,13:15:00,13:15:10,stop_point:SP_5297,F. Mitterrand,12
+2299442,13:16:00,13:16:10,stop_point:SP_5311,La Rhune,13
+2299442,13:17:00,13:17:10,stop_point:SP_5301,Mont Canigou,14
+2299442,13:18:00,13:18:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299442,13:19:00,13:19:10,stop_point:SP_1247,Amandiers,16
+2299442,13:20:00,13:20:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299442,13:23:00,13:23:10,stop_point:SP_3107,Laubis,18
+2299442,13:23:00,13:23:10,stop_point:SP_3088,Tricheries,19
+2299442,13:24:00,13:24:10,stop_point:SP_5313,Boisson,20
+2299442,13:25:00,13:25:10,stop_point:SP_5306,Rond-point du Golf,21
+2299442,13:27:00,13:27:10,stop_point:SP_2633,Aussonnelle,22
+2299442,13:27:00,13:27:10,stop_point:SP_2902,Ader,23
+2299442,13:28:00,13:28:10,stop_point:SP_82,Seilh Mairie,24
+2299443,14:00:00,14:00:10,stop_point:SP_2682,Aussonne Agassines,1
+2299443,14:01:00,14:01:10,stop_point:SP_401,Vignes,2
+2299443,14:03:00,14:03:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299443,14:04:00,14:04:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299443,14:05:00,14:05:10,stop_point:SP_22,Mairie Aussonne,5
+2299443,14:06:00,14:06:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299443,14:06:00,14:06:10,stop_point:SP_3275,Cague L'Oule,7
+2299443,14:07:00,14:07:10,stop_point:SP_2561,Périac,8
+2299443,14:16:00,14:16:10,stop_point:SP_754,Aéroconstellation,9
+2299443,14:17:00,14:17:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299443,14:19:00,14:19:10,stop_point:SP_3628,Andromède-Lycée,11
+2299443,14:20:00,14:20:10,stop_point:SP_5297,F. Mitterrand,12
+2299443,14:21:00,14:21:10,stop_point:SP_5311,La Rhune,13
+2299443,14:22:00,14:22:10,stop_point:SP_5301,Mont Canigou,14
+2299443,14:23:00,14:23:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299443,14:24:00,14:24:10,stop_point:SP_1247,Amandiers,16
+2299443,14:25:00,14:25:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299443,14:28:00,14:28:10,stop_point:SP_3107,Laubis,18
+2299443,14:28:00,14:28:10,stop_point:SP_3088,Tricheries,19
+2299443,14:29:00,14:29:10,stop_point:SP_5313,Boisson,20
+2299443,14:30:00,14:30:10,stop_point:SP_5306,Rond-point du Golf,21
+2299443,14:32:00,14:32:10,stop_point:SP_2633,Aussonnelle,22
+2299443,14:32:00,14:32:10,stop_point:SP_2902,Ader,23
+2299443,14:33:00,14:33:10,stop_point:SP_82,Seilh Mairie,24
+2299444,15:05:00,15:05:10,stop_point:SP_2682,Aussonne Agassines,1
+2299444,15:06:00,15:06:10,stop_point:SP_401,Vignes,2
+2299444,15:08:00,15:08:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299444,15:09:00,15:09:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299444,15:10:00,15:10:10,stop_point:SP_22,Mairie Aussonne,5
+2299444,15:11:00,15:11:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299444,15:11:00,15:11:10,stop_point:SP_3275,Cague L'Oule,7
+2299444,15:12:00,15:12:10,stop_point:SP_2561,Périac,8
+2299444,15:21:00,15:21:10,stop_point:SP_754,Aéroconstellation,9
+2299444,15:22:00,15:22:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299444,15:24:00,15:24:10,stop_point:SP_3628,Andromède-Lycée,11
+2299444,15:25:00,15:25:10,stop_point:SP_5297,F. Mitterrand,12
+2299444,15:26:00,15:26:10,stop_point:SP_5311,La Rhune,13
+2299444,15:27:00,15:27:10,stop_point:SP_5301,Mont Canigou,14
+2299444,15:28:00,15:28:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299444,15:29:00,15:29:10,stop_point:SP_1247,Amandiers,16
+2299444,15:30:00,15:30:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299444,15:33:00,15:33:10,stop_point:SP_3107,Laubis,18
+2299444,15:33:00,15:33:10,stop_point:SP_3088,Tricheries,19
+2299444,15:34:00,15:34:10,stop_point:SP_5313,Boisson,20
+2299444,15:36:00,15:36:10,stop_point:SP_5306,Rond-point du Golf,21
+2299444,15:38:00,15:38:10,stop_point:SP_2633,Aussonnelle,22
+2299444,15:39:00,15:39:10,stop_point:SP_2902,Ader,23
+2299444,15:40:00,15:40:10,stop_point:SP_82,Seilh Mairie,24
+2299445,15:55:00,15:55:10,stop_point:SP_2682,Aussonne Agassines,1
+2299445,15:56:00,15:56:10,stop_point:SP_401,Vignes,2
+2299445,15:57:00,15:57:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299445,15:58:00,15:58:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299445,15:59:00,15:59:10,stop_point:SP_22,Mairie Aussonne,5
+2299445,16:01:00,16:01:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299445,16:01:00,16:01:10,stop_point:SP_3275,Cague L'Oule,7
+2299445,16:02:00,16:02:10,stop_point:SP_2561,Périac,8
+2299445,16:11:00,16:11:10,stop_point:SP_754,Aéroconstellation,9
+2299445,16:12:00,16:12:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299445,16:14:00,16:14:10,stop_point:SP_3628,Andromède-Lycée,11
+2299445,16:15:00,16:15:10,stop_point:SP_5297,F. Mitterrand,12
+2299445,16:16:00,16:16:10,stop_point:SP_5311,La Rhune,13
+2299445,16:17:00,16:17:10,stop_point:SP_5301,Mont Canigou,14
+2299445,16:18:00,16:18:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299445,16:19:00,16:19:10,stop_point:SP_1247,Amandiers,16
+2299445,16:20:00,16:20:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299445,16:23:00,16:23:10,stop_point:SP_3107,Laubis,18
+2299445,16:23:00,16:23:10,stop_point:SP_3088,Tricheries,19
+2299445,16:24:00,16:24:10,stop_point:SP_5313,Boisson,20
+2299445,16:27:00,16:27:10,stop_point:SP_5306,Rond-point du Golf,21
+2299445,16:31:00,16:31:10,stop_point:SP_2633,Aussonnelle,22
+2299445,16:33:00,16:33:10,stop_point:SP_2902,Ader,23
+2299445,16:34:00,16:34:10,stop_point:SP_82,Seilh Mairie,24
+2299446,16:20:00,16:20:10,stop_point:SP_2682,Aussonne Agassines,1
+2299446,16:21:00,16:21:10,stop_point:SP_401,Vignes,2
+2299446,16:22:00,16:22:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299446,16:23:00,16:23:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299446,16:24:00,16:24:10,stop_point:SP_22,Mairie Aussonne,5
+2299446,16:26:00,16:26:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299446,16:26:00,16:26:10,stop_point:SP_3275,Cague L'Oule,7
+2299446,16:28:00,16:28:10,stop_point:SP_2561,Périac,8
+2299446,16:37:00,16:37:10,stop_point:SP_754,Aéroconstellation,9
+2299446,16:38:00,16:38:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299446,16:40:00,16:40:10,stop_point:SP_3628,Andromède-Lycée,11
+2299446,16:41:00,16:41:10,stop_point:SP_5297,F. Mitterrand,12
+2299446,16:43:00,16:43:10,stop_point:SP_5311,La Rhune,13
+2299446,16:44:00,16:44:10,stop_point:SP_5301,Mont Canigou,14
+2299446,16:45:00,16:45:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299446,16:46:00,16:46:10,stop_point:SP_1247,Amandiers,16
+2299446,16:47:00,16:47:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299446,16:51:00,16:51:10,stop_point:SP_3107,Laubis,18
+2299446,16:51:00,16:51:10,stop_point:SP_3088,Tricheries,19
+2299446,16:53:00,16:53:10,stop_point:SP_5313,Boisson,20
+2299446,16:57:00,16:57:10,stop_point:SP_5306,Rond-point du Golf,21
+2299446,17:03:00,17:03:10,stop_point:SP_2633,Aussonnelle,22
+2299446,17:05:00,17:05:10,stop_point:SP_2902,Ader,23
+2299446,17:07:00,17:07:10,stop_point:SP_82,Seilh Mairie,24
+2299447,16:40:00,16:40:10,stop_point:SP_2682,Aussonne Agassines,1
+2299447,16:41:00,16:41:10,stop_point:SP_401,Vignes,2
+2299447,16:42:00,16:42:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299447,16:43:00,16:43:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299447,16:44:00,16:44:10,stop_point:SP_22,Mairie Aussonne,5
+2299447,16:46:00,16:46:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299447,16:46:00,16:46:10,stop_point:SP_3275,Cague L'Oule,7
+2299447,16:48:00,16:48:10,stop_point:SP_2561,Périac,8
+2299447,16:58:00,16:58:10,stop_point:SP_754,Aéroconstellation,9
+2299447,16:59:00,16:59:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299447,17:01:00,17:01:10,stop_point:SP_3628,Andromède-Lycée,11
+2299447,17:02:00,17:02:10,stop_point:SP_5297,F. Mitterrand,12
+2299447,17:03:00,17:03:10,stop_point:SP_5311,La Rhune,13
+2299447,17:04:00,17:04:10,stop_point:SP_5301,Mont Canigou,14
+2299447,17:05:00,17:05:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299447,17:06:00,17:06:10,stop_point:SP_1247,Amandiers,16
+2299447,17:07:00,17:07:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299447,17:10:00,17:10:10,stop_point:SP_3107,Laubis,18
+2299447,17:10:00,17:10:10,stop_point:SP_3088,Tricheries,19
+2299447,17:12:00,17:12:10,stop_point:SP_5313,Boisson,20
+2299447,17:16:00,17:16:10,stop_point:SP_5306,Rond-point du Golf,21
+2299447,17:22:00,17:22:10,stop_point:SP_2633,Aussonnelle,22
+2299447,17:24:00,17:24:10,stop_point:SP_2902,Ader,23
+2299447,17:26:00,17:26:10,stop_point:SP_82,Seilh Mairie,24
+2299448,17:05:00,17:05:10,stop_point:SP_2682,Aussonne Agassines,1
+2299448,17:06:00,17:06:10,stop_point:SP_401,Vignes,2
+2299448,17:07:00,17:07:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299448,17:08:00,17:08:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299448,17:09:00,17:09:10,stop_point:SP_22,Mairie Aussonne,5
+2299448,17:11:00,17:11:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299448,17:11:00,17:11:10,stop_point:SP_3275,Cague L'Oule,7
+2299448,17:13:00,17:13:10,stop_point:SP_2561,Périac,8
+2299448,17:23:00,17:23:10,stop_point:SP_754,Aéroconstellation,9
+2299448,17:24:00,17:24:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299448,17:26:00,17:26:10,stop_point:SP_3628,Andromède-Lycée,11
+2299448,17:27:00,17:27:10,stop_point:SP_5297,F. Mitterrand,12
+2299448,17:28:00,17:28:10,stop_point:SP_5311,La Rhune,13
+2299448,17:29:00,17:29:10,stop_point:SP_5301,Mont Canigou,14
+2299448,17:30:00,17:30:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299448,17:31:00,17:31:10,stop_point:SP_1247,Amandiers,16
+2299448,17:32:00,17:32:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299448,17:35:00,17:35:10,stop_point:SP_3107,Laubis,18
+2299448,17:35:00,17:35:10,stop_point:SP_3088,Tricheries,19
+2299448,17:37:00,17:37:10,stop_point:SP_5313,Boisson,20
+2299448,17:41:00,17:41:10,stop_point:SP_5306,Rond-point du Golf,21
+2299448,17:47:00,17:47:10,stop_point:SP_2633,Aussonnelle,22
+2299448,17:49:00,17:49:10,stop_point:SP_2902,Ader,23
+2299448,17:51:00,17:51:10,stop_point:SP_82,Seilh Mairie,24
+2299449,17:30:00,17:30:10,stop_point:SP_2682,Aussonne Agassines,1
+2299449,17:31:00,17:31:10,stop_point:SP_401,Vignes,2
+2299449,17:32:00,17:32:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299449,17:33:00,17:33:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299449,17:34:00,17:34:10,stop_point:SP_22,Mairie Aussonne,5
+2299449,17:36:00,17:36:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299449,17:36:00,17:36:10,stop_point:SP_3275,Cague L'Oule,7
+2299449,17:38:00,17:38:10,stop_point:SP_2561,Périac,8
+2299449,17:48:00,17:48:10,stop_point:SP_754,Aéroconstellation,9
+2299449,17:49:00,17:49:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299449,17:51:00,17:51:10,stop_point:SP_3628,Andromède-Lycée,11
+2299449,17:52:00,17:52:10,stop_point:SP_5297,F. Mitterrand,12
+2299449,17:53:00,17:53:10,stop_point:SP_5311,La Rhune,13
+2299449,17:54:00,17:54:10,stop_point:SP_5301,Mont Canigou,14
+2299449,17:55:00,17:55:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299449,17:56:00,17:56:10,stop_point:SP_1247,Amandiers,16
+2299449,17:57:00,17:57:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299449,18:00:00,18:00:10,stop_point:SP_3107,Laubis,18
+2299449,18:00:00,18:00:10,stop_point:SP_3088,Tricheries,19
+2299449,18:02:00,18:02:10,stop_point:SP_5313,Boisson,20
+2299449,18:06:00,18:06:10,stop_point:SP_5306,Rond-point du Golf,21
+2299449,18:12:00,18:12:10,stop_point:SP_2633,Aussonnelle,22
+2299449,18:14:00,18:14:10,stop_point:SP_2902,Ader,23
+2299449,18:16:00,18:16:10,stop_point:SP_82,Seilh Mairie,24
+2299450,18:00:00,18:00:10,stop_point:SP_2682,Aussonne Agassines,1
+2299450,18:01:00,18:01:10,stop_point:SP_401,Vignes,2
+2299450,18:02:00,18:02:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299450,18:03:00,18:03:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299450,18:04:00,18:04:10,stop_point:SP_22,Mairie Aussonne,5
+2299450,18:06:00,18:06:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299450,18:06:00,18:06:10,stop_point:SP_3275,Cague L'Oule,7
+2299450,18:08:00,18:08:10,stop_point:SP_2561,Périac,8
+2299450,18:18:00,18:18:10,stop_point:SP_754,Aéroconstellation,9
+2299450,18:19:00,18:19:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299450,18:21:00,18:21:10,stop_point:SP_3628,Andromède-Lycée,11
+2299450,18:22:00,18:22:10,stop_point:SP_5297,F. Mitterrand,12
+2299450,18:23:00,18:23:10,stop_point:SP_5311,La Rhune,13
+2299450,18:24:00,18:24:10,stop_point:SP_5301,Mont Canigou,14
+2299450,18:25:00,18:25:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299450,18:26:00,18:26:10,stop_point:SP_1247,Amandiers,16
+2299450,18:27:00,18:27:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299450,18:30:00,18:30:10,stop_point:SP_3107,Laubis,18
+2299450,18:30:00,18:30:10,stop_point:SP_3088,Tricheries,19
+2299450,18:31:00,18:31:10,stop_point:SP_5313,Boisson,20
+2299450,18:34:00,18:34:10,stop_point:SP_5306,Rond-point du Golf,21
+2299450,18:37:00,18:37:10,stop_point:SP_2633,Aussonnelle,22
+2299450,18:39:00,18:39:10,stop_point:SP_2902,Ader,23
+2299450,18:40:00,18:40:10,stop_point:SP_82,Seilh Mairie,24
+2299451,18:30:00,18:30:10,stop_point:SP_2682,Aussonne Agassines,1
+2299451,18:31:00,18:31:10,stop_point:SP_401,Vignes,2
+2299451,18:32:00,18:32:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299451,18:33:00,18:33:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299451,18:34:00,18:34:10,stop_point:SP_22,Mairie Aussonne,5
+2299451,18:36:00,18:36:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299451,18:36:00,18:36:10,stop_point:SP_3275,Cague L'Oule,7
+2299451,18:38:00,18:38:10,stop_point:SP_2561,Périac,8
+2299451,18:48:00,18:48:10,stop_point:SP_754,Aéroconstellation,9
+2299451,18:49:00,18:49:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299451,18:51:00,18:51:10,stop_point:SP_3628,Andromède-Lycée,11
+2299451,18:52:00,18:52:10,stop_point:SP_5297,F. Mitterrand,12
+2299451,18:53:00,18:53:10,stop_point:SP_5311,La Rhune,13
+2299451,18:54:00,18:54:10,stop_point:SP_5301,Mont Canigou,14
+2299451,18:55:00,18:55:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299451,18:55:00,18:55:10,stop_point:SP_1247,Amandiers,16
+2299451,18:56:00,18:56:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299451,18:59:00,18:59:10,stop_point:SP_3107,Laubis,18
+2299451,18:59:00,18:59:10,stop_point:SP_3088,Tricheries,19
+2299451,19:00:00,19:00:10,stop_point:SP_5313,Boisson,20
+2299451,19:01:00,19:01:10,stop_point:SP_5306,Rond-point du Golf,21
+2299451,19:03:00,19:03:10,stop_point:SP_2633,Aussonnelle,22
+2299451,19:04:00,19:04:10,stop_point:SP_2902,Ader,23
+2299451,19:05:00,19:05:10,stop_point:SP_82,Seilh Mairie,24
+2299452,19:15:00,19:15:10,stop_point:SP_2682,Aussonne Agassines,1
+2299452,19:16:00,19:16:10,stop_point:SP_401,Vignes,2
+2299452,19:17:00,19:17:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299452,19:18:00,19:18:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299452,19:19:00,19:19:10,stop_point:SP_22,Mairie Aussonne,5
+2299452,19:20:00,19:20:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299452,19:20:00,19:20:10,stop_point:SP_3275,Cague L'Oule,7
+2299452,19:21:00,19:21:10,stop_point:SP_2561,Périac,8
+2299452,19:30:00,19:30:10,stop_point:SP_754,Aéroconstellation,9
+2299452,19:31:00,19:31:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299452,19:33:00,19:33:10,stop_point:SP_3628,Andromède-Lycée,11
+2299452,19:34:00,19:34:10,stop_point:SP_5297,F. Mitterrand,12
+2299452,19:35:00,19:35:10,stop_point:SP_5311,La Rhune,13
+2299452,19:36:00,19:36:10,stop_point:SP_5301,Mont Canigou,14
+2299452,19:37:00,19:37:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299452,19:37:00,19:37:10,stop_point:SP_1247,Amandiers,16
+2299452,19:38:00,19:38:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299452,19:41:00,19:41:10,stop_point:SP_3107,Laubis,18
+2299452,19:41:00,19:41:10,stop_point:SP_3088,Tricheries,19
+2299452,19:42:00,19:42:10,stop_point:SP_5313,Boisson,20
+2299452,19:43:00,19:43:10,stop_point:SP_5306,Rond-point du Golf,21
+2299452,19:45:00,19:45:10,stop_point:SP_2633,Aussonnelle,22
+2299452,19:45:00,19:45:10,stop_point:SP_2902,Ader,23
+2299452,19:46:00,19:46:10,stop_point:SP_82,Seilh Mairie,24
+2299453,20:15:00,20:15:10,stop_point:SP_2682,Aussonne Agassines,1
+2299453,20:16:00,20:16:10,stop_point:SP_401,Vignes,2
+2299453,20:17:00,20:17:10,stop_point:SP_5296,Collège d'Aussonne,3
+2299453,20:18:00,20:18:10,stop_point:SP_2617,Ecole Jules Ferry,4
+2299453,20:19:00,20:19:10,stop_point:SP_22,Mairie Aussonne,5
+2299453,20:20:00,20:20:10,stop_point:SP_34,Les Jardins du Panariol,6
+2299453,20:20:00,20:20:10,stop_point:SP_3275,Cague L'Oule,7
+2299453,20:21:00,20:21:10,stop_point:SP_2561,Périac,8
+2299453,20:29:00,20:29:10,stop_point:SP_754,Aéroconstellation,9
+2299453,20:31:00,20:31:10,stop_point:SP_4111,Beauzelle - Aeroscopia,10
+2299453,20:32:00,20:32:10,stop_point:SP_3628,Andromède-Lycée,11
+2299453,20:33:00,20:33:10,stop_point:SP_5297,F. Mitterrand,12
+2299453,20:34:00,20:34:10,stop_point:SP_5311,La Rhune,13
+2299453,20:34:00,20:34:10,stop_point:SP_5301,Mont Canigou,14
+2299453,20:35:00,20:35:10,stop_point:SP_5303,Collège Elisa Deroche,15
+2299453,20:36:00,20:36:10,stop_point:SP_1247,Amandiers,16
+2299453,20:37:00,20:37:10,stop_point:SP_5302,Ctre Cial Beauzelle,17
+2299453,20:39:00,20:39:10,stop_point:SP_3107,Laubis,18
+2299453,20:39:00,20:39:10,stop_point:SP_3088,Tricheries,19
+2299453,20:40:00,20:40:10,stop_point:SP_5313,Boisson,20
+2299453,20:41:00,20:41:10,stop_point:SP_5306,Rond-point du Golf,21
+2299453,20:43:00,20:43:10,stop_point:SP_2633,Aussonnelle,22
+2299453,20:43:00,20:43:10,stop_point:SP_2902,Ader,23
+2299453,20:44:00,20:44:10,stop_point:SP_82,Seilh Mairie,24

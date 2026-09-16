@@ -1,0 +1,1873 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2291539,06:00:00,06:00:10,stop_point:SP_2701,Basso Cambo,1
+2291539,06:01:00,06:01:10,stop_point:SP_1645,Mesplé,2
+2291539,06:02:00,06:02:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291539,06:03:00,06:03:10,stop_point:SP_2310,Talabot Nord,4
+2291539,06:04:00,06:04:10,stop_point:SP_339,Avionique,5
+2291539,06:05:00,06:05:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291539,06:07:00,06:07:10,stop_point:SP_1747,Angély,7
+2291539,06:08:00,06:08:10,stop_point:SP_734,Liffard,8
+2291539,06:08:00,06:08:10,stop_point:SP_2363,Reguelongue,9
+2291539,06:09:00,06:09:10,stop_point:SP_52,Licard,10
+2291539,06:10:00,06:10:10,stop_point:SP_2563,Coin Fermé,11
+2291539,06:10:00,06:10:10,stop_point:SP_2381,Bayès,12
+2291539,06:11:00,06:11:10,stop_point:SP_323,Villenouvelle,13
+2291539,06:12:00,06:12:10,stop_point:SP_1682,Canto Laouzetto,14
+2291539,06:13:00,06:13:10,stop_point:SP_1489,Carovis,15
+2291539,06:14:00,06:14:10,stop_point:SP_1186,Tibaous,16
+2291540,06:20:00,06:20:10,stop_point:SP_2701,Basso Cambo,1
+2291540,06:21:00,06:21:10,stop_point:SP_1645,Mesplé,2
+2291540,06:22:00,06:22:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291540,06:23:00,06:23:10,stop_point:SP_2310,Talabot Nord,4
+2291540,06:24:00,06:24:10,stop_point:SP_339,Avionique,5
+2291540,06:25:00,06:25:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291540,06:27:00,06:27:10,stop_point:SP_1747,Angély,7
+2291540,06:28:00,06:28:10,stop_point:SP_734,Liffard,8
+2291540,06:28:00,06:28:10,stop_point:SP_2363,Reguelongue,9
+2291540,06:29:00,06:29:10,stop_point:SP_52,Licard,10
+2291540,06:30:00,06:30:10,stop_point:SP_2563,Coin Fermé,11
+2291540,06:30:00,06:30:10,stop_point:SP_2381,Bayès,12
+2291540,06:31:00,06:31:10,stop_point:SP_323,Villenouvelle,13
+2291540,06:32:00,06:32:10,stop_point:SP_1682,Canto Laouzetto,14
+2291540,06:33:00,06:33:10,stop_point:SP_1489,Carovis,15
+2291540,06:34:00,06:34:10,stop_point:SP_1186,Tibaous,16
+2291541,06:50:00,06:50:10,stop_point:SP_2701,Basso Cambo,1
+2291541,06:51:00,06:51:10,stop_point:SP_1645,Mesplé,2
+2291541,06:52:00,06:52:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291541,06:53:00,06:53:10,stop_point:SP_2310,Talabot Nord,4
+2291541,06:54:00,06:54:10,stop_point:SP_339,Avionique,5
+2291541,06:55:00,06:55:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291541,06:57:00,06:57:10,stop_point:SP_1747,Angély,7
+2291541,06:58:00,06:58:10,stop_point:SP_734,Liffard,8
+2291541,06:58:00,06:58:10,stop_point:SP_2363,Reguelongue,9
+2291541,06:59:00,06:59:10,stop_point:SP_52,Licard,10
+2291541,07:00:00,07:00:10,stop_point:SP_2563,Coin Fermé,11
+2291541,07:00:00,07:00:10,stop_point:SP_2381,Bayès,12
+2291541,07:01:00,07:01:10,stop_point:SP_323,Villenouvelle,13
+2291541,07:02:00,07:02:10,stop_point:SP_1682,Canto Laouzetto,14
+2291541,07:03:00,07:03:10,stop_point:SP_1489,Carovis,15
+2291541,07:04:00,07:04:10,stop_point:SP_1186,Tibaous,16
+2291542,07:25:00,07:25:10,stop_point:SP_2701,Basso Cambo,1
+2291542,07:27:00,07:27:10,stop_point:SP_1645,Mesplé,2
+2291542,07:28:00,07:28:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291542,07:29:00,07:29:10,stop_point:SP_2310,Talabot Nord,4
+2291542,07:30:00,07:30:10,stop_point:SP_339,Avionique,5
+2291542,07:31:00,07:31:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291542,07:34:00,07:34:10,stop_point:SP_1747,Angély,7
+2291542,07:34:00,07:34:10,stop_point:SP_734,Liffard,8
+2291542,07:35:00,07:35:10,stop_point:SP_2363,Reguelongue,9
+2291542,07:36:00,07:36:10,stop_point:SP_52,Licard,10
+2291542,07:37:00,07:37:10,stop_point:SP_2563,Coin Fermé,11
+2291542,07:38:00,07:38:10,stop_point:SP_2381,Bayès,12
+2291542,07:39:00,07:39:10,stop_point:SP_323,Villenouvelle,13
+2291542,07:40:00,07:40:10,stop_point:SP_1682,Canto Laouzetto,14
+2291542,07:41:00,07:41:10,stop_point:SP_1489,Carovis,15
+2291542,07:42:00,07:42:10,stop_point:SP_1186,Tibaous,16
+2291543,07:45:00,07:45:10,stop_point:SP_2701,Basso Cambo,1
+2291543,07:47:00,07:47:10,stop_point:SP_1645,Mesplé,2
+2291543,07:48:00,07:48:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291543,07:49:00,07:49:10,stop_point:SP_2310,Talabot Nord,4
+2291543,07:50:00,07:50:10,stop_point:SP_339,Avionique,5
+2291543,07:51:00,07:51:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291543,07:54:00,07:54:10,stop_point:SP_1747,Angély,7
+2291543,07:54:00,07:54:10,stop_point:SP_734,Liffard,8
+2291543,07:55:00,07:55:10,stop_point:SP_2363,Reguelongue,9
+2291543,07:56:00,07:56:10,stop_point:SP_52,Licard,10
+2291543,07:57:00,07:57:10,stop_point:SP_2563,Coin Fermé,11
+2291543,07:58:00,07:58:10,stop_point:SP_2381,Bayès,12
+2291543,07:59:00,07:59:10,stop_point:SP_323,Villenouvelle,13
+2291543,08:00:00,08:00:10,stop_point:SP_1682,Canto Laouzetto,14
+2291543,08:01:00,08:01:10,stop_point:SP_1489,Carovis,15
+2291543,08:02:00,08:02:10,stop_point:SP_1186,Tibaous,16
+2291544,08:10:00,08:10:10,stop_point:SP_2701,Basso Cambo,1
+2291544,08:12:00,08:12:10,stop_point:SP_1645,Mesplé,2
+2291544,08:13:00,08:13:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291544,08:14:00,08:14:10,stop_point:SP_2310,Talabot Nord,4
+2291544,08:15:00,08:15:10,stop_point:SP_339,Avionique,5
+2291544,08:16:00,08:16:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291544,08:20:00,08:20:10,stop_point:SP_1747,Angély,7
+2291544,08:20:00,08:20:10,stop_point:SP_734,Liffard,8
+2291544,08:21:00,08:21:10,stop_point:SP_2363,Reguelongue,9
+2291544,08:22:00,08:22:10,stop_point:SP_52,Licard,10
+2291544,08:23:00,08:23:10,stop_point:SP_2563,Coin Fermé,11
+2291544,08:24:00,08:24:10,stop_point:SP_2381,Bayès,12
+2291544,08:25:00,08:25:10,stop_point:SP_323,Villenouvelle,13
+2291544,08:26:00,08:26:10,stop_point:SP_1682,Canto Laouzetto,14
+2291544,08:27:00,08:27:10,stop_point:SP_1489,Carovis,15
+2291544,08:28:00,08:28:10,stop_point:SP_1186,Tibaous,16
+2291545,08:35:00,08:35:10,stop_point:SP_2701,Basso Cambo,1
+2291545,08:37:00,08:37:10,stop_point:SP_1645,Mesplé,2
+2291545,08:38:00,08:38:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291545,08:39:00,08:39:10,stop_point:SP_2310,Talabot Nord,4
+2291545,08:40:00,08:40:10,stop_point:SP_339,Avionique,5
+2291545,08:41:00,08:41:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291545,08:45:00,08:45:10,stop_point:SP_1747,Angély,7
+2291545,08:45:00,08:45:10,stop_point:SP_734,Liffard,8
+2291545,08:46:00,08:46:10,stop_point:SP_2363,Reguelongue,9
+2291545,08:47:00,08:47:10,stop_point:SP_52,Licard,10
+2291545,08:48:00,08:48:10,stop_point:SP_2563,Coin Fermé,11
+2291545,08:49:00,08:49:10,stop_point:SP_2381,Bayès,12
+2291545,08:50:00,08:50:10,stop_point:SP_323,Villenouvelle,13
+2291545,08:51:00,08:51:10,stop_point:SP_1682,Canto Laouzetto,14
+2291545,08:52:00,08:52:10,stop_point:SP_1489,Carovis,15
+2291545,08:53:00,08:53:10,stop_point:SP_1186,Tibaous,16
+2291546,08:55:00,08:55:10,stop_point:SP_2701,Basso Cambo,1
+2291546,08:57:00,08:57:10,stop_point:SP_1645,Mesplé,2
+2291546,08:58:00,08:58:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291546,08:59:00,08:59:10,stop_point:SP_2310,Talabot Nord,4
+2291546,09:00:00,09:00:10,stop_point:SP_339,Avionique,5
+2291546,09:01:00,09:01:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291546,09:03:00,09:03:10,stop_point:SP_1747,Angély,7
+2291546,09:04:00,09:04:10,stop_point:SP_734,Liffard,8
+2291546,09:04:00,09:04:10,stop_point:SP_2363,Reguelongue,9
+2291546,09:05:00,09:05:10,stop_point:SP_52,Licard,10
+2291546,09:06:00,09:06:10,stop_point:SP_2563,Coin Fermé,11
+2291546,09:07:00,09:07:10,stop_point:SP_2381,Bayès,12
+2291546,09:08:00,09:08:10,stop_point:SP_323,Villenouvelle,13
+2291546,09:09:00,09:09:10,stop_point:SP_1682,Canto Laouzetto,14
+2291546,09:10:00,09:10:10,stop_point:SP_1489,Carovis,15
+2291546,09:11:00,09:11:10,stop_point:SP_1186,Tibaous,16
+2291547,09:10:00,09:10:10,stop_point:SP_2701,Basso Cambo,1
+2291547,09:11:00,09:11:10,stop_point:SP_1645,Mesplé,2
+2291547,09:12:00,09:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291547,09:13:00,09:13:10,stop_point:SP_2310,Talabot Nord,4
+2291547,09:14:00,09:14:10,stop_point:SP_339,Avionique,5
+2291547,09:15:00,09:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291547,09:17:00,09:17:10,stop_point:SP_1747,Angély,7
+2291547,09:18:00,09:18:10,stop_point:SP_734,Liffard,8
+2291547,09:18:00,09:18:10,stop_point:SP_2363,Reguelongue,9
+2291547,09:19:00,09:19:10,stop_point:SP_52,Licard,10
+2291547,09:20:00,09:20:10,stop_point:SP_2563,Coin Fermé,11
+2291547,09:21:00,09:21:10,stop_point:SP_2381,Bayès,12
+2291547,09:22:00,09:22:10,stop_point:SP_323,Villenouvelle,13
+2291547,09:23:00,09:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291547,09:24:00,09:24:10,stop_point:SP_1489,Carovis,15
+2291547,09:25:00,09:25:10,stop_point:SP_1186,Tibaous,16
+2291548,09:40:00,09:40:10,stop_point:SP_2701,Basso Cambo,1
+2291548,09:41:00,09:41:10,stop_point:SP_1645,Mesplé,2
+2291548,09:42:00,09:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291548,09:43:00,09:43:10,stop_point:SP_2310,Talabot Nord,4
+2291548,09:44:00,09:44:10,stop_point:SP_339,Avionique,5
+2291548,09:45:00,09:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291548,09:47:00,09:47:10,stop_point:SP_1747,Angély,7
+2291548,09:48:00,09:48:10,stop_point:SP_734,Liffard,8
+2291548,09:48:00,09:48:10,stop_point:SP_2363,Reguelongue,9
+2291548,09:49:00,09:49:10,stop_point:SP_52,Licard,10
+2291548,09:50:00,09:50:10,stop_point:SP_2563,Coin Fermé,11
+2291548,09:51:00,09:51:10,stop_point:SP_2381,Bayès,12
+2291548,09:52:00,09:52:10,stop_point:SP_323,Villenouvelle,13
+2291548,09:53:00,09:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291548,09:54:00,09:54:10,stop_point:SP_1489,Carovis,15
+2291548,09:55:00,09:55:10,stop_point:SP_1186,Tibaous,16
+2291549,10:10:00,10:10:10,stop_point:SP_2701,Basso Cambo,1
+2291549,10:11:00,10:11:10,stop_point:SP_1645,Mesplé,2
+2291549,10:12:00,10:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291549,10:13:00,10:13:10,stop_point:SP_2310,Talabot Nord,4
+2291549,10:14:00,10:14:10,stop_point:SP_339,Avionique,5
+2291549,10:15:00,10:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291549,10:17:00,10:17:10,stop_point:SP_1747,Angély,7
+2291549,10:18:00,10:18:10,stop_point:SP_734,Liffard,8
+2291549,10:18:00,10:18:10,stop_point:SP_2363,Reguelongue,9
+2291549,10:19:00,10:19:10,stop_point:SP_52,Licard,10
+2291549,10:20:00,10:20:10,stop_point:SP_2563,Coin Fermé,11
+2291549,10:21:00,10:21:10,stop_point:SP_2381,Bayès,12
+2291549,10:22:00,10:22:10,stop_point:SP_323,Villenouvelle,13
+2291549,10:23:00,10:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291549,10:24:00,10:24:10,stop_point:SP_1489,Carovis,15
+2291549,10:25:00,10:25:10,stop_point:SP_1186,Tibaous,16
+2291550,10:40:00,10:40:10,stop_point:SP_2701,Basso Cambo,1
+2291550,10:41:00,10:41:10,stop_point:SP_1645,Mesplé,2
+2291550,10:42:00,10:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291550,10:43:00,10:43:10,stop_point:SP_2310,Talabot Nord,4
+2291550,10:44:00,10:44:10,stop_point:SP_339,Avionique,5
+2291550,10:45:00,10:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291550,10:47:00,10:47:10,stop_point:SP_1747,Angély,7
+2291550,10:48:00,10:48:10,stop_point:SP_734,Liffard,8
+2291550,10:48:00,10:48:10,stop_point:SP_2363,Reguelongue,9
+2291550,10:49:00,10:49:10,stop_point:SP_52,Licard,10
+2291550,10:50:00,10:50:10,stop_point:SP_2563,Coin Fermé,11
+2291550,10:51:00,10:51:10,stop_point:SP_2381,Bayès,12
+2291550,10:52:00,10:52:10,stop_point:SP_323,Villenouvelle,13
+2291550,10:53:00,10:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291550,10:54:00,10:54:10,stop_point:SP_1489,Carovis,15
+2291550,10:55:00,10:55:10,stop_point:SP_1186,Tibaous,16
+2291551,11:10:00,11:10:10,stop_point:SP_2701,Basso Cambo,1
+2291551,11:11:00,11:11:10,stop_point:SP_1645,Mesplé,2
+2291551,11:12:00,11:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291551,11:13:00,11:13:10,stop_point:SP_2310,Talabot Nord,4
+2291551,11:14:00,11:14:10,stop_point:SP_339,Avionique,5
+2291551,11:15:00,11:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291551,11:17:00,11:17:10,stop_point:SP_1747,Angély,7
+2291551,11:18:00,11:18:10,stop_point:SP_734,Liffard,8
+2291551,11:18:00,11:18:10,stop_point:SP_2363,Reguelongue,9
+2291551,11:19:00,11:19:10,stop_point:SP_52,Licard,10
+2291551,11:20:00,11:20:10,stop_point:SP_2563,Coin Fermé,11
+2291551,11:21:00,11:21:10,stop_point:SP_2381,Bayès,12
+2291551,11:22:00,11:22:10,stop_point:SP_323,Villenouvelle,13
+2291551,11:23:00,11:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291551,11:24:00,11:24:10,stop_point:SP_1489,Carovis,15
+2291551,11:25:00,11:25:10,stop_point:SP_1186,Tibaous,16
+2291552,11:40:00,11:40:10,stop_point:SP_2701,Basso Cambo,1
+2291552,11:41:00,11:41:10,stop_point:SP_1645,Mesplé,2
+2291552,11:42:00,11:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291552,11:43:00,11:43:10,stop_point:SP_2310,Talabot Nord,4
+2291552,11:44:00,11:44:10,stop_point:SP_339,Avionique,5
+2291552,11:45:00,11:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291552,11:47:00,11:47:10,stop_point:SP_1747,Angély,7
+2291552,11:48:00,11:48:10,stop_point:SP_734,Liffard,8
+2291552,11:48:00,11:48:10,stop_point:SP_2363,Reguelongue,9
+2291552,11:49:00,11:49:10,stop_point:SP_52,Licard,10
+2291552,11:50:00,11:50:10,stop_point:SP_2563,Coin Fermé,11
+2291552,11:51:00,11:51:10,stop_point:SP_2381,Bayès,12
+2291552,11:52:00,11:52:10,stop_point:SP_323,Villenouvelle,13
+2291552,11:53:00,11:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291552,11:54:00,11:54:10,stop_point:SP_1489,Carovis,15
+2291552,11:55:00,11:55:10,stop_point:SP_1186,Tibaous,16
+2291553,12:10:00,12:10:10,stop_point:SP_2701,Basso Cambo,1
+2291553,12:11:00,12:11:10,stop_point:SP_1645,Mesplé,2
+2291553,12:12:00,12:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291553,12:13:00,12:13:10,stop_point:SP_2310,Talabot Nord,4
+2291553,12:14:00,12:14:10,stop_point:SP_339,Avionique,5
+2291553,12:15:00,12:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291553,12:17:00,12:17:10,stop_point:SP_1747,Angély,7
+2291553,12:18:00,12:18:10,stop_point:SP_734,Liffard,8
+2291553,12:18:00,12:18:10,stop_point:SP_2363,Reguelongue,9
+2291553,12:19:00,12:19:10,stop_point:SP_52,Licard,10
+2291553,12:20:00,12:20:10,stop_point:SP_2563,Coin Fermé,11
+2291553,12:21:00,12:21:10,stop_point:SP_2381,Bayès,12
+2291553,12:22:00,12:22:10,stop_point:SP_323,Villenouvelle,13
+2291553,12:23:00,12:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291553,12:24:00,12:24:10,stop_point:SP_1489,Carovis,15
+2291553,12:25:00,12:25:10,stop_point:SP_1186,Tibaous,16
+2291554,12:40:00,12:40:10,stop_point:SP_2701,Basso Cambo,1
+2291554,12:41:00,12:41:10,stop_point:SP_1645,Mesplé,2
+2291554,12:42:00,12:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291554,12:43:00,12:43:10,stop_point:SP_2310,Talabot Nord,4
+2291554,12:44:00,12:44:10,stop_point:SP_339,Avionique,5
+2291554,12:45:00,12:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291554,12:47:00,12:47:10,stop_point:SP_1747,Angély,7
+2291554,12:48:00,12:48:10,stop_point:SP_734,Liffard,8
+2291554,12:48:00,12:48:10,stop_point:SP_2363,Reguelongue,9
+2291554,12:49:00,12:49:10,stop_point:SP_52,Licard,10
+2291554,12:50:00,12:50:10,stop_point:SP_2563,Coin Fermé,11
+2291554,12:51:00,12:51:10,stop_point:SP_2381,Bayès,12
+2291554,12:52:00,12:52:10,stop_point:SP_323,Villenouvelle,13
+2291554,12:53:00,12:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291554,12:54:00,12:54:10,stop_point:SP_1489,Carovis,15
+2291554,12:55:00,12:55:10,stop_point:SP_1186,Tibaous,16
+2291555,13:10:00,13:10:10,stop_point:SP_2701,Basso Cambo,1
+2291555,13:11:00,13:11:10,stop_point:SP_1645,Mesplé,2
+2291555,13:12:00,13:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291555,13:13:00,13:13:10,stop_point:SP_2310,Talabot Nord,4
+2291555,13:14:00,13:14:10,stop_point:SP_339,Avionique,5
+2291555,13:15:00,13:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291555,13:17:00,13:17:10,stop_point:SP_1747,Angély,7
+2291555,13:18:00,13:18:10,stop_point:SP_734,Liffard,8
+2291555,13:18:00,13:18:10,stop_point:SP_2363,Reguelongue,9
+2291555,13:19:00,13:19:10,stop_point:SP_52,Licard,10
+2291555,13:20:00,13:20:10,stop_point:SP_2563,Coin Fermé,11
+2291555,13:21:00,13:21:10,stop_point:SP_2381,Bayès,12
+2291555,13:22:00,13:22:10,stop_point:SP_323,Villenouvelle,13
+2291555,13:23:00,13:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291555,13:24:00,13:24:10,stop_point:SP_1489,Carovis,15
+2291555,13:25:00,13:25:10,stop_point:SP_1186,Tibaous,16
+2291556,13:40:00,13:40:10,stop_point:SP_2701,Basso Cambo,1
+2291556,13:41:00,13:41:10,stop_point:SP_1645,Mesplé,2
+2291556,13:42:00,13:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291556,13:43:00,13:43:10,stop_point:SP_2310,Talabot Nord,4
+2291556,13:44:00,13:44:10,stop_point:SP_339,Avionique,5
+2291556,13:45:00,13:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291556,13:47:00,13:47:10,stop_point:SP_1747,Angély,7
+2291556,13:48:00,13:48:10,stop_point:SP_734,Liffard,8
+2291556,13:48:00,13:48:10,stop_point:SP_2363,Reguelongue,9
+2291556,13:49:00,13:49:10,stop_point:SP_52,Licard,10
+2291556,13:50:00,13:50:10,stop_point:SP_2563,Coin Fermé,11
+2291556,13:51:00,13:51:10,stop_point:SP_2381,Bayès,12
+2291556,13:52:00,13:52:10,stop_point:SP_323,Villenouvelle,13
+2291556,13:53:00,13:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291556,13:54:00,13:54:10,stop_point:SP_1489,Carovis,15
+2291556,13:55:00,13:55:10,stop_point:SP_1186,Tibaous,16
+2291557,14:10:00,14:10:10,stop_point:SP_2701,Basso Cambo,1
+2291557,14:11:00,14:11:10,stop_point:SP_1645,Mesplé,2
+2291557,14:12:00,14:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291557,14:13:00,14:13:10,stop_point:SP_2310,Talabot Nord,4
+2291557,14:14:00,14:14:10,stop_point:SP_339,Avionique,5
+2291557,14:15:00,14:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291557,14:17:00,14:17:10,stop_point:SP_1747,Angély,7
+2291557,14:18:00,14:18:10,stop_point:SP_734,Liffard,8
+2291557,14:18:00,14:18:10,stop_point:SP_2363,Reguelongue,9
+2291557,14:19:00,14:19:10,stop_point:SP_52,Licard,10
+2291557,14:20:00,14:20:10,stop_point:SP_2563,Coin Fermé,11
+2291557,14:21:00,14:21:10,stop_point:SP_2381,Bayès,12
+2291557,14:22:00,14:22:10,stop_point:SP_323,Villenouvelle,13
+2291557,14:23:00,14:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291557,14:24:00,14:24:10,stop_point:SP_1489,Carovis,15
+2291557,14:25:00,14:25:10,stop_point:SP_1186,Tibaous,16
+2291558,14:40:00,14:40:10,stop_point:SP_2701,Basso Cambo,1
+2291558,14:41:00,14:41:10,stop_point:SP_1645,Mesplé,2
+2291558,14:42:00,14:42:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291558,14:43:00,14:43:10,stop_point:SP_2310,Talabot Nord,4
+2291558,14:44:00,14:44:10,stop_point:SP_339,Avionique,5
+2291558,14:45:00,14:45:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291558,14:47:00,14:47:10,stop_point:SP_1747,Angély,7
+2291558,14:48:00,14:48:10,stop_point:SP_734,Liffard,8
+2291558,14:48:00,14:48:10,stop_point:SP_2363,Reguelongue,9
+2291558,14:49:00,14:49:10,stop_point:SP_52,Licard,10
+2291558,14:50:00,14:50:10,stop_point:SP_2563,Coin Fermé,11
+2291558,14:51:00,14:51:10,stop_point:SP_2381,Bayès,12
+2291558,14:52:00,14:52:10,stop_point:SP_323,Villenouvelle,13
+2291558,14:53:00,14:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291558,14:54:00,14:54:10,stop_point:SP_1489,Carovis,15
+2291558,14:55:00,14:55:10,stop_point:SP_1186,Tibaous,16
+2291559,15:10:00,15:10:10,stop_point:SP_2701,Basso Cambo,1
+2291559,15:11:00,15:11:10,stop_point:SP_1645,Mesplé,2
+2291559,15:12:00,15:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291559,15:13:00,15:13:10,stop_point:SP_2310,Talabot Nord,4
+2291559,15:14:00,15:14:10,stop_point:SP_339,Avionique,5
+2291559,15:15:00,15:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291559,15:17:00,15:17:10,stop_point:SP_1747,Angély,7
+2291559,15:18:00,15:18:10,stop_point:SP_734,Liffard,8
+2291559,15:18:00,15:18:10,stop_point:SP_2363,Reguelongue,9
+2291559,15:19:00,15:19:10,stop_point:SP_52,Licard,10
+2291559,15:20:00,15:20:10,stop_point:SP_2563,Coin Fermé,11
+2291559,15:21:00,15:21:10,stop_point:SP_2381,Bayès,12
+2291559,15:22:00,15:22:10,stop_point:SP_323,Villenouvelle,13
+2291559,15:23:00,15:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291559,15:24:00,15:24:10,stop_point:SP_1489,Carovis,15
+2291559,15:25:00,15:25:10,stop_point:SP_1186,Tibaous,16
+2291560,15:30:00,15:30:10,stop_point:SP_2701,Basso Cambo,1
+2291560,15:31:00,15:31:10,stop_point:SP_1645,Mesplé,2
+2291560,15:32:00,15:32:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291560,15:33:00,15:33:10,stop_point:SP_2310,Talabot Nord,4
+2291560,15:34:00,15:34:10,stop_point:SP_339,Avionique,5
+2291560,15:35:00,15:35:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291560,15:37:00,15:37:10,stop_point:SP_1747,Angély,7
+2291560,15:38:00,15:38:10,stop_point:SP_734,Liffard,8
+2291560,15:38:00,15:38:10,stop_point:SP_2363,Reguelongue,9
+2291560,15:39:00,15:39:10,stop_point:SP_52,Licard,10
+2291560,15:40:00,15:40:10,stop_point:SP_2563,Coin Fermé,11
+2291560,15:41:00,15:41:10,stop_point:SP_2381,Bayès,12
+2291560,15:42:00,15:42:10,stop_point:SP_323,Villenouvelle,13
+2291560,15:43:00,15:43:10,stop_point:SP_1682,Canto Laouzetto,14
+2291560,15:44:00,15:44:10,stop_point:SP_1489,Carovis,15
+2291560,15:45:00,15:45:10,stop_point:SP_1186,Tibaous,16
+2291561,15:50:00,15:50:10,stop_point:SP_2701,Basso Cambo,1
+2291561,15:51:00,15:51:10,stop_point:SP_1645,Mesplé,2
+2291561,15:52:00,15:52:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291561,15:53:00,15:53:10,stop_point:SP_2310,Talabot Nord,4
+2291561,15:54:00,15:54:10,stop_point:SP_339,Avionique,5
+2291561,15:55:00,15:55:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291561,15:57:00,15:57:10,stop_point:SP_1747,Angély,7
+2291561,15:58:00,15:58:10,stop_point:SP_734,Liffard,8
+2291561,15:58:00,15:58:10,stop_point:SP_2363,Reguelongue,9
+2291561,15:59:00,15:59:10,stop_point:SP_52,Licard,10
+2291561,16:00:00,16:00:10,stop_point:SP_2563,Coin Fermé,11
+2291561,16:01:00,16:01:10,stop_point:SP_2381,Bayès,12
+2291561,16:02:00,16:02:10,stop_point:SP_323,Villenouvelle,13
+2291561,16:03:00,16:03:10,stop_point:SP_1682,Canto Laouzetto,14
+2291561,16:04:00,16:04:10,stop_point:SP_1489,Carovis,15
+2291561,16:05:00,16:05:10,stop_point:SP_1186,Tibaous,16
+2291562,16:10:00,16:10:10,stop_point:SP_2701,Basso Cambo,1
+2291562,16:11:00,16:11:10,stop_point:SP_1645,Mesplé,2
+2291562,16:12:00,16:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291562,16:13:00,16:13:10,stop_point:SP_2310,Talabot Nord,4
+2291562,16:14:00,16:14:10,stop_point:SP_339,Avionique,5
+2291562,16:15:00,16:15:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291562,16:17:00,16:17:10,stop_point:SP_1747,Angély,7
+2291562,16:18:00,16:18:10,stop_point:SP_734,Liffard,8
+2291562,16:18:00,16:18:10,stop_point:SP_2363,Reguelongue,9
+2291562,16:19:00,16:19:10,stop_point:SP_52,Licard,10
+2291562,16:20:00,16:20:10,stop_point:SP_2563,Coin Fermé,11
+2291562,16:21:00,16:21:10,stop_point:SP_2381,Bayès,12
+2291562,16:22:00,16:22:10,stop_point:SP_323,Villenouvelle,13
+2291562,16:23:00,16:23:10,stop_point:SP_1682,Canto Laouzetto,14
+2291562,16:24:00,16:24:10,stop_point:SP_1489,Carovis,15
+2291562,16:25:00,16:25:10,stop_point:SP_1186,Tibaous,16
+2291563,16:30:00,16:30:10,stop_point:SP_2701,Basso Cambo,1
+2291563,16:31:00,16:31:10,stop_point:SP_1645,Mesplé,2
+2291563,16:32:00,16:32:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291563,16:33:00,16:33:10,stop_point:SP_2310,Talabot Nord,4
+2291563,16:34:00,16:34:10,stop_point:SP_339,Avionique,5
+2291563,16:35:00,16:35:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291563,16:39:00,16:39:10,stop_point:SP_1747,Angély,7
+2291563,16:39:00,16:39:10,stop_point:SP_734,Liffard,8
+2291563,16:40:00,16:40:10,stop_point:SP_2363,Reguelongue,9
+2291563,16:41:00,16:41:10,stop_point:SP_52,Licard,10
+2291563,16:42:00,16:42:10,stop_point:SP_2563,Coin Fermé,11
+2291563,16:43:00,16:43:10,stop_point:SP_2381,Bayès,12
+2291563,16:44:00,16:44:10,stop_point:SP_323,Villenouvelle,13
+2291563,16:45:00,16:45:10,stop_point:SP_1682,Canto Laouzetto,14
+2291563,16:46:00,16:46:10,stop_point:SP_1489,Carovis,15
+2291563,16:47:00,16:47:10,stop_point:SP_1186,Tibaous,16
+2291564,16:55:00,16:55:10,stop_point:SP_2701,Basso Cambo,1
+2291564,16:56:00,16:56:10,stop_point:SP_1645,Mesplé,2
+2291564,16:57:00,16:57:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291564,16:58:00,16:58:10,stop_point:SP_2310,Talabot Nord,4
+2291564,16:59:00,16:59:10,stop_point:SP_339,Avionique,5
+2291564,17:01:00,17:01:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291564,17:07:00,17:07:10,stop_point:SP_1747,Angély,7
+2291564,17:08:00,17:08:10,stop_point:SP_734,Liffard,8
+2291564,17:09:00,17:09:10,stop_point:SP_2363,Reguelongue,9
+2291564,17:10:00,17:10:10,stop_point:SP_52,Licard,10
+2291564,17:11:00,17:11:10,stop_point:SP_2563,Coin Fermé,11
+2291564,17:12:00,17:12:10,stop_point:SP_2381,Bayès,12
+2291564,17:13:00,17:13:10,stop_point:SP_323,Villenouvelle,13
+2291564,17:14:00,17:14:10,stop_point:SP_1682,Canto Laouzetto,14
+2291564,17:15:00,17:15:10,stop_point:SP_1489,Carovis,15
+2291564,17:16:00,17:16:10,stop_point:SP_1186,Tibaous,16
+2291565,17:10:00,17:10:10,stop_point:SP_2701,Basso Cambo,1
+2291565,17:11:00,17:11:10,stop_point:SP_1645,Mesplé,2
+2291565,17:12:00,17:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291565,17:13:00,17:13:10,stop_point:SP_2310,Talabot Nord,4
+2291565,17:14:00,17:14:10,stop_point:SP_339,Avionique,5
+2291565,17:16:00,17:16:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291565,17:22:00,17:22:10,stop_point:SP_1747,Angély,7
+2291565,17:23:00,17:23:10,stop_point:SP_734,Liffard,8
+2291565,17:24:00,17:24:10,stop_point:SP_2363,Reguelongue,9
+2291565,17:25:00,17:25:10,stop_point:SP_52,Licard,10
+2291565,17:26:00,17:26:10,stop_point:SP_2563,Coin Fermé,11
+2291565,17:27:00,17:27:10,stop_point:SP_2381,Bayès,12
+2291565,17:28:00,17:28:10,stop_point:SP_323,Villenouvelle,13
+2291565,17:29:00,17:29:10,stop_point:SP_1682,Canto Laouzetto,14
+2291565,17:30:00,17:30:10,stop_point:SP_1489,Carovis,15
+2291565,17:31:00,17:31:10,stop_point:SP_1186,Tibaous,16
+2291566,17:30:00,17:30:10,stop_point:SP_2701,Basso Cambo,1
+2291566,17:31:00,17:31:10,stop_point:SP_1645,Mesplé,2
+2291566,17:32:00,17:32:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291566,17:33:00,17:33:10,stop_point:SP_2310,Talabot Nord,4
+2291566,17:34:00,17:34:10,stop_point:SP_339,Avionique,5
+2291566,17:36:00,17:36:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291566,17:42:00,17:42:10,stop_point:SP_1747,Angély,7
+2291566,17:43:00,17:43:10,stop_point:SP_734,Liffard,8
+2291566,17:44:00,17:44:10,stop_point:SP_2363,Reguelongue,9
+2291566,17:45:00,17:45:10,stop_point:SP_52,Licard,10
+2291566,17:46:00,17:46:10,stop_point:SP_2563,Coin Fermé,11
+2291566,17:47:00,17:47:10,stop_point:SP_2381,Bayès,12
+2291566,17:48:00,17:48:10,stop_point:SP_323,Villenouvelle,13
+2291566,17:49:00,17:49:10,stop_point:SP_1682,Canto Laouzetto,14
+2291566,17:50:00,17:50:10,stop_point:SP_1489,Carovis,15
+2291566,17:51:00,17:51:10,stop_point:SP_1186,Tibaous,16
+2291567,17:50:00,17:50:10,stop_point:SP_2701,Basso Cambo,1
+2291567,17:51:00,17:51:10,stop_point:SP_1645,Mesplé,2
+2291567,17:52:00,17:52:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291567,17:53:00,17:53:10,stop_point:SP_2310,Talabot Nord,4
+2291567,17:54:00,17:54:10,stop_point:SP_339,Avionique,5
+2291567,17:56:00,17:56:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291567,18:02:00,18:02:10,stop_point:SP_1747,Angély,7
+2291567,18:03:00,18:03:10,stop_point:SP_734,Liffard,8
+2291567,18:04:00,18:04:10,stop_point:SP_2363,Reguelongue,9
+2291567,18:05:00,18:05:10,stop_point:SP_52,Licard,10
+2291567,18:06:00,18:06:10,stop_point:SP_2563,Coin Fermé,11
+2291567,18:07:00,18:07:10,stop_point:SP_2381,Bayès,12
+2291567,18:08:00,18:08:10,stop_point:SP_323,Villenouvelle,13
+2291567,18:09:00,18:09:10,stop_point:SP_1682,Canto Laouzetto,14
+2291567,18:10:00,18:10:10,stop_point:SP_1489,Carovis,15
+2291567,18:11:00,18:11:10,stop_point:SP_1186,Tibaous,16
+2291568,18:10:00,18:10:10,stop_point:SP_2701,Basso Cambo,1
+2291568,18:11:00,18:11:10,stop_point:SP_1645,Mesplé,2
+2291568,18:12:00,18:12:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291568,18:13:00,18:13:10,stop_point:SP_2310,Talabot Nord,4
+2291568,18:14:00,18:14:10,stop_point:SP_339,Avionique,5
+2291568,18:16:00,18:16:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291568,18:22:00,18:22:10,stop_point:SP_1747,Angély,7
+2291568,18:23:00,18:23:10,stop_point:SP_734,Liffard,8
+2291568,18:24:00,18:24:10,stop_point:SP_2363,Reguelongue,9
+2291568,18:25:00,18:25:10,stop_point:SP_52,Licard,10
+2291568,18:26:00,18:26:10,stop_point:SP_2563,Coin Fermé,11
+2291568,18:27:00,18:27:10,stop_point:SP_2381,Bayès,12
+2291568,18:28:00,18:28:10,stop_point:SP_323,Villenouvelle,13
+2291568,18:29:00,18:29:10,stop_point:SP_1682,Canto Laouzetto,14
+2291568,18:30:00,18:30:10,stop_point:SP_1489,Carovis,15
+2291568,18:31:00,18:31:10,stop_point:SP_1186,Tibaous,16
+2291569,18:30:00,18:30:10,stop_point:SP_2701,Basso Cambo,1
+2291569,18:31:00,18:31:10,stop_point:SP_1645,Mesplé,2
+2291569,18:32:00,18:32:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291569,18:33:00,18:33:10,stop_point:SP_2310,Talabot Nord,4
+2291569,18:34:00,18:34:10,stop_point:SP_339,Avionique,5
+2291569,18:35:00,18:35:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291569,18:39:00,18:39:10,stop_point:SP_1747,Angély,7
+2291569,18:39:00,18:39:10,stop_point:SP_734,Liffard,8
+2291569,18:40:00,18:40:10,stop_point:SP_2363,Reguelongue,9
+2291569,18:41:00,18:41:10,stop_point:SP_52,Licard,10
+2291569,18:42:00,18:42:10,stop_point:SP_2563,Coin Fermé,11
+2291569,18:43:00,18:43:10,stop_point:SP_2381,Bayès,12
+2291569,18:44:00,18:44:10,stop_point:SP_323,Villenouvelle,13
+2291569,18:45:00,18:45:10,stop_point:SP_1682,Canto Laouzetto,14
+2291569,18:46:00,18:46:10,stop_point:SP_1489,Carovis,15
+2291569,18:47:00,18:47:10,stop_point:SP_1186,Tibaous,16
+2291570,18:55:00,18:55:10,stop_point:SP_2701,Basso Cambo,1
+2291570,18:56:00,18:56:10,stop_point:SP_1645,Mesplé,2
+2291570,18:57:00,18:57:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291570,18:58:00,18:58:10,stop_point:SP_2310,Talabot Nord,4
+2291570,18:59:00,18:59:10,stop_point:SP_339,Avionique,5
+2291570,19:00:00,19:00:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291570,19:04:00,19:04:10,stop_point:SP_1747,Angély,7
+2291570,19:04:00,19:04:10,stop_point:SP_734,Liffard,8
+2291570,19:05:00,19:05:10,stop_point:SP_2363,Reguelongue,9
+2291570,19:06:00,19:06:10,stop_point:SP_52,Licard,10
+2291570,19:07:00,19:07:10,stop_point:SP_2563,Coin Fermé,11
+2291570,19:08:00,19:08:10,stop_point:SP_2381,Bayès,12
+2291570,19:09:00,19:09:10,stop_point:SP_323,Villenouvelle,13
+2291570,19:10:00,19:10:10,stop_point:SP_1682,Canto Laouzetto,14
+2291570,19:11:00,19:11:10,stop_point:SP_1489,Carovis,15
+2291570,19:12:00,19:12:10,stop_point:SP_1186,Tibaous,16
+2291571,19:25:00,19:25:10,stop_point:SP_2701,Basso Cambo,1
+2291571,19:26:00,19:26:10,stop_point:SP_1645,Mesplé,2
+2291571,19:27:00,19:27:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291571,19:28:00,19:28:10,stop_point:SP_2310,Talabot Nord,4
+2291571,19:29:00,19:29:10,stop_point:SP_339,Avionique,5
+2291571,19:30:00,19:30:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291571,19:33:00,19:33:10,stop_point:SP_1747,Angély,7
+2291571,19:33:00,19:33:10,stop_point:SP_734,Liffard,8
+2291571,19:34:00,19:34:10,stop_point:SP_2363,Reguelongue,9
+2291571,19:35:00,19:35:10,stop_point:SP_52,Licard,10
+2291571,19:36:00,19:36:10,stop_point:SP_2563,Coin Fermé,11
+2291571,19:37:00,19:37:10,stop_point:SP_2381,Bayès,12
+2291571,19:38:00,19:38:10,stop_point:SP_323,Villenouvelle,13
+2291571,19:39:00,19:39:10,stop_point:SP_1682,Canto Laouzetto,14
+2291571,19:40:00,19:40:10,stop_point:SP_1489,Carovis,15
+2291571,19:41:00,19:41:10,stop_point:SP_1186,Tibaous,16
+2291572,19:55:00,19:55:10,stop_point:SP_2701,Basso Cambo,1
+2291572,19:56:00,19:56:10,stop_point:SP_1645,Mesplé,2
+2291572,19:57:00,19:57:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291572,19:58:00,19:58:10,stop_point:SP_2310,Talabot Nord,4
+2291572,19:59:00,19:59:10,stop_point:SP_339,Avionique,5
+2291572,20:00:00,20:00:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291572,20:03:00,20:03:10,stop_point:SP_1747,Angély,7
+2291572,20:03:00,20:03:10,stop_point:SP_734,Liffard,8
+2291572,20:04:00,20:04:10,stop_point:SP_2363,Reguelongue,9
+2291572,20:05:00,20:05:10,stop_point:SP_52,Licard,10
+2291572,20:06:00,20:06:10,stop_point:SP_2563,Coin Fermé,11
+2291572,20:06:00,20:06:10,stop_point:SP_2381,Bayès,12
+2291572,20:07:00,20:07:10,stop_point:SP_323,Villenouvelle,13
+2291572,20:08:00,20:08:10,stop_point:SP_1682,Canto Laouzetto,14
+2291572,20:09:00,20:09:10,stop_point:SP_1489,Carovis,15
+2291572,20:10:00,20:10:10,stop_point:SP_1186,Tibaous,16
+2291573,20:25:00,20:25:10,stop_point:SP_2701,Basso Cambo,1
+2291573,20:26:00,20:26:10,stop_point:SP_1645,Mesplé,2
+2291573,20:27:00,20:27:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291573,20:28:00,20:28:10,stop_point:SP_2310,Talabot Nord,4
+2291573,20:29:00,20:29:10,stop_point:SP_339,Avionique,5
+2291573,20:30:00,20:30:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291573,20:32:00,20:32:10,stop_point:SP_1747,Angély,7
+2291573,20:33:00,20:33:10,stop_point:SP_734,Liffard,8
+2291573,20:33:00,20:33:10,stop_point:SP_2363,Reguelongue,9
+2291573,20:34:00,20:34:10,stop_point:SP_52,Licard,10
+2291573,20:35:00,20:35:10,stop_point:SP_2563,Coin Fermé,11
+2291573,20:35:00,20:35:10,stop_point:SP_2381,Bayès,12
+2291573,20:36:00,20:36:10,stop_point:SP_323,Villenouvelle,13
+2291573,20:37:00,20:37:10,stop_point:SP_1682,Canto Laouzetto,14
+2291573,20:38:00,20:38:10,stop_point:SP_1489,Carovis,15
+2291573,20:39:00,20:39:10,stop_point:SP_1186,Tibaous,16
+2291574,21:00:00,21:00:10,stop_point:SP_2701,Basso Cambo,1
+2291574,21:01:00,21:01:10,stop_point:SP_1645,Mesplé,2
+2291574,21:02:00,21:02:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291574,21:03:00,21:03:10,stop_point:SP_2310,Talabot Nord,4
+2291574,21:04:00,21:04:10,stop_point:SP_339,Avionique,5
+2291574,21:05:00,21:05:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291574,21:07:00,21:07:10,stop_point:SP_1747,Angély,7
+2291574,21:08:00,21:08:10,stop_point:SP_734,Liffard,8
+2291574,21:08:00,21:08:10,stop_point:SP_2363,Reguelongue,9
+2291574,21:09:00,21:09:10,stop_point:SP_52,Licard,10
+2291574,21:10:00,21:10:10,stop_point:SP_2563,Coin Fermé,11
+2291574,21:10:00,21:10:10,stop_point:SP_2381,Bayès,12
+2291574,21:11:00,21:11:10,stop_point:SP_323,Villenouvelle,13
+2291574,21:12:00,21:12:10,stop_point:SP_1682,Canto Laouzetto,14
+2291574,21:13:00,21:13:10,stop_point:SP_1489,Carovis,15
+2291574,21:14:00,21:14:10,stop_point:SP_1186,Tibaous,16
+2291575,06:00:00,06:00:10,stop_point:SP_1186,Tibaous,1
+2291575,06:01:00,06:01:10,stop_point:SP_449,Carovis,2
+2291575,06:02:00,06:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291575,06:02:00,06:02:10,stop_point:SP_1028,Villenouvelle,4
+2291575,06:03:00,06:03:10,stop_point:SP_2385,Bayès,5
+2291575,06:04:00,06:04:10,stop_point:SP_3029,Coin Fermé,6
+2291575,06:04:00,06:04:10,stop_point:SP_3399,Licard,7
+2291575,06:05:00,06:05:10,stop_point:SP_3300,Reguelongue,8
+2291575,06:06:00,06:06:10,stop_point:SP_3821,Liffard,9
+2291575,06:07:00,06:07:10,stop_point:SP_1403,Angély,10
+2291575,06:09:00,06:09:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291575,06:10:00,06:10:10,stop_point:SP_1625,Avionique,12
+2291575,06:11:00,06:11:10,stop_point:SP_3416,Talabot Nord,13
+2291575,06:12:00,06:12:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291575,06:14:00,06:14:10,stop_point:SP_1867,Mesplé,15
+2291575,06:15:00,06:15:10,stop_point:SP_2701,Basso Cambo,16
+2291576,06:30:00,06:30:10,stop_point:SP_1186,Tibaous,1
+2291576,06:31:00,06:31:10,stop_point:SP_449,Carovis,2
+2291576,06:32:00,06:32:10,stop_point:SP_2620,Canto Laouzetto,3
+2291576,06:32:00,06:32:10,stop_point:SP_1028,Villenouvelle,4
+2291576,06:33:00,06:33:10,stop_point:SP_2385,Bayès,5
+2291576,06:34:00,06:34:10,stop_point:SP_3029,Coin Fermé,6
+2291576,06:34:00,06:34:10,stop_point:SP_3399,Licard,7
+2291576,06:35:00,06:35:10,stop_point:SP_3300,Reguelongue,8
+2291576,06:36:00,06:36:10,stop_point:SP_3821,Liffard,9
+2291576,06:37:00,06:37:10,stop_point:SP_1403,Angély,10
+2291576,06:39:00,06:39:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291576,06:40:00,06:40:10,stop_point:SP_1625,Avionique,12
+2291576,06:41:00,06:41:10,stop_point:SP_3416,Talabot Nord,13
+2291576,06:42:00,06:42:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291576,06:44:00,06:44:10,stop_point:SP_1867,Mesplé,15
+2291576,06:45:00,06:45:10,stop_point:SP_2701,Basso Cambo,16
+2291577,07:00:00,07:00:10,stop_point:SP_1186,Tibaous,1
+2291577,07:01:00,07:01:10,stop_point:SP_449,Carovis,2
+2291577,07:02:00,07:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291577,07:02:00,07:02:10,stop_point:SP_1028,Villenouvelle,4
+2291577,07:04:00,07:04:10,stop_point:SP_2385,Bayès,5
+2291577,07:05:00,07:05:10,stop_point:SP_3029,Coin Fermé,6
+2291577,07:07:00,07:07:10,stop_point:SP_3399,Licard,7
+2291577,07:08:00,07:08:10,stop_point:SP_3300,Reguelongue,8
+2291577,07:09:00,07:09:10,stop_point:SP_3821,Liffard,9
+2291577,07:10:00,07:10:10,stop_point:SP_1403,Angély,10
+2291577,07:12:00,07:12:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291577,07:13:00,07:13:10,stop_point:SP_1625,Avionique,12
+2291577,07:14:00,07:14:10,stop_point:SP_3416,Talabot Nord,13
+2291577,07:15:00,07:15:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291577,07:17:00,07:17:10,stop_point:SP_1867,Mesplé,15
+2291577,07:18:00,07:18:10,stop_point:SP_2701,Basso Cambo,16
+2291578,07:20:00,07:20:10,stop_point:SP_1186,Tibaous,1
+2291578,07:21:00,07:21:10,stop_point:SP_449,Carovis,2
+2291578,07:22:00,07:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291578,07:22:00,07:22:10,stop_point:SP_1028,Villenouvelle,4
+2291578,07:24:00,07:24:10,stop_point:SP_2385,Bayès,5
+2291578,07:25:00,07:25:10,stop_point:SP_3029,Coin Fermé,6
+2291578,07:27:00,07:27:10,stop_point:SP_3399,Licard,7
+2291578,07:28:00,07:28:10,stop_point:SP_3300,Reguelongue,8
+2291578,07:29:00,07:29:10,stop_point:SP_3821,Liffard,9
+2291578,07:30:00,07:30:10,stop_point:SP_1403,Angély,10
+2291578,07:32:00,07:32:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291578,07:33:00,07:33:10,stop_point:SP_1625,Avionique,12
+2291578,07:34:00,07:34:10,stop_point:SP_3416,Talabot Nord,13
+2291578,07:35:00,07:35:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291578,07:37:00,07:37:10,stop_point:SP_1867,Mesplé,15
+2291578,07:38:00,07:38:10,stop_point:SP_2701,Basso Cambo,16
+2291579,07:40:00,07:40:10,stop_point:SP_1186,Tibaous,1
+2291579,07:41:00,07:41:10,stop_point:SP_449,Carovis,2
+2291579,07:42:00,07:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291579,07:42:00,07:42:10,stop_point:SP_1028,Villenouvelle,4
+2291579,07:44:00,07:44:10,stop_point:SP_2385,Bayès,5
+2291579,07:45:00,07:45:10,stop_point:SP_3029,Coin Fermé,6
+2291579,07:47:00,07:47:10,stop_point:SP_3399,Licard,7
+2291579,07:48:00,07:48:10,stop_point:SP_3300,Reguelongue,8
+2291579,07:49:00,07:49:10,stop_point:SP_3821,Liffard,9
+2291579,07:50:00,07:50:10,stop_point:SP_1403,Angély,10
+2291579,07:52:00,07:52:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291579,07:53:00,07:53:10,stop_point:SP_1625,Avionique,12
+2291579,07:55:00,07:55:10,stop_point:SP_3416,Talabot Nord,13
+2291579,07:57:00,07:57:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291579,08:00:00,08:00:10,stop_point:SP_1867,Mesplé,15
+2291579,08:02:00,08:02:10,stop_point:SP_2701,Basso Cambo,16
+2291580,08:00:00,08:00:10,stop_point:SP_1186,Tibaous,1
+2291580,08:01:00,08:01:10,stop_point:SP_449,Carovis,2
+2291580,08:02:00,08:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291580,08:02:00,08:02:10,stop_point:SP_1028,Villenouvelle,4
+2291580,08:04:00,08:04:10,stop_point:SP_2385,Bayès,5
+2291580,08:05:00,08:05:10,stop_point:SP_3029,Coin Fermé,6
+2291580,08:07:00,08:07:10,stop_point:SP_3399,Licard,7
+2291580,08:08:00,08:08:10,stop_point:SP_3300,Reguelongue,8
+2291580,08:09:00,08:09:10,stop_point:SP_3821,Liffard,9
+2291580,08:10:00,08:10:10,stop_point:SP_1403,Angély,10
+2291580,08:14:00,08:14:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291580,08:16:00,08:16:10,stop_point:SP_1625,Avionique,12
+2291580,08:18:00,08:18:10,stop_point:SP_3416,Talabot Nord,13
+2291580,08:21:00,08:21:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291580,08:24:00,08:24:10,stop_point:SP_1867,Mesplé,15
+2291580,08:27:00,08:27:10,stop_point:SP_2701,Basso Cambo,16
+2291581,08:15:00,08:15:10,stop_point:SP_1186,Tibaous,1
+2291581,08:16:00,08:16:10,stop_point:SP_449,Carovis,2
+2291581,08:17:00,08:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291581,08:17:00,08:17:10,stop_point:SP_1028,Villenouvelle,4
+2291581,08:19:00,08:19:10,stop_point:SP_2385,Bayès,5
+2291581,08:20:00,08:20:10,stop_point:SP_3029,Coin Fermé,6
+2291581,08:22:00,08:22:10,stop_point:SP_3399,Licard,7
+2291581,08:23:00,08:23:10,stop_point:SP_3300,Reguelongue,8
+2291581,08:24:00,08:24:10,stop_point:SP_3821,Liffard,9
+2291581,08:25:00,08:25:10,stop_point:SP_1403,Angély,10
+2291581,08:29:00,08:29:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291581,08:31:00,08:31:10,stop_point:SP_1625,Avionique,12
+2291581,08:33:00,08:33:10,stop_point:SP_3416,Talabot Nord,13
+2291581,08:37:00,08:37:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291581,08:40:00,08:40:10,stop_point:SP_1867,Mesplé,15
+2291581,08:44:00,08:44:10,stop_point:SP_2701,Basso Cambo,16
+2291582,08:40:00,08:40:10,stop_point:SP_1186,Tibaous,1
+2291582,08:41:00,08:41:10,stop_point:SP_449,Carovis,2
+2291582,08:42:00,08:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291582,08:42:00,08:42:10,stop_point:SP_1028,Villenouvelle,4
+2291582,08:44:00,08:44:10,stop_point:SP_2385,Bayès,5
+2291582,08:45:00,08:45:10,stop_point:SP_3029,Coin Fermé,6
+2291582,08:47:00,08:47:10,stop_point:SP_3399,Licard,7
+2291582,08:48:00,08:48:10,stop_point:SP_3300,Reguelongue,8
+2291582,08:49:00,08:49:10,stop_point:SP_3821,Liffard,9
+2291582,08:50:00,08:50:10,stop_point:SP_1403,Angély,10
+2291582,08:54:00,08:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291582,08:56:00,08:56:10,stop_point:SP_1625,Avionique,12
+2291582,08:58:00,08:58:10,stop_point:SP_3416,Talabot Nord,13
+2291582,09:00:00,09:00:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291582,09:02:00,09:02:10,stop_point:SP_1867,Mesplé,15
+2291582,09:04:00,09:04:10,stop_point:SP_2701,Basso Cambo,16
+2291583,09:00:00,09:00:10,stop_point:SP_1186,Tibaous,1
+2291583,09:01:00,09:01:10,stop_point:SP_449,Carovis,2
+2291583,09:02:00,09:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291583,09:02:00,09:02:10,stop_point:SP_1028,Villenouvelle,4
+2291583,09:03:00,09:03:10,stop_point:SP_2385,Bayès,5
+2291583,09:04:00,09:04:10,stop_point:SP_3029,Coin Fermé,6
+2291583,09:04:00,09:04:10,stop_point:SP_3399,Licard,7
+2291583,09:05:00,09:05:10,stop_point:SP_3300,Reguelongue,8
+2291583,09:06:00,09:06:10,stop_point:SP_3821,Liffard,9
+2291583,09:07:00,09:07:10,stop_point:SP_1403,Angély,10
+2291583,09:10:00,09:10:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291583,09:12:00,09:12:10,stop_point:SP_1625,Avionique,12
+2291583,09:13:00,09:13:10,stop_point:SP_3416,Talabot Nord,13
+2291583,09:15:00,09:15:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291583,09:17:00,09:17:10,stop_point:SP_1867,Mesplé,15
+2291583,09:19:00,09:19:10,stop_point:SP_2701,Basso Cambo,16
+2291584,09:20:00,09:20:10,stop_point:SP_1186,Tibaous,1
+2291584,09:21:00,09:21:10,stop_point:SP_449,Carovis,2
+2291584,09:22:00,09:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291584,09:22:00,09:22:10,stop_point:SP_1028,Villenouvelle,4
+2291584,09:23:00,09:23:10,stop_point:SP_2385,Bayès,5
+2291584,09:24:00,09:24:10,stop_point:SP_3029,Coin Fermé,6
+2291584,09:24:00,09:24:10,stop_point:SP_3399,Licard,7
+2291584,09:25:00,09:25:10,stop_point:SP_3300,Reguelongue,8
+2291584,09:26:00,09:26:10,stop_point:SP_3821,Liffard,9
+2291584,09:27:00,09:27:10,stop_point:SP_1403,Angély,10
+2291584,09:29:00,09:29:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291584,09:30:00,09:30:10,stop_point:SP_1625,Avionique,12
+2291584,09:31:00,09:31:10,stop_point:SP_3416,Talabot Nord,13
+2291584,09:33:00,09:33:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291584,09:35:00,09:35:10,stop_point:SP_1867,Mesplé,15
+2291584,09:37:00,09:37:10,stop_point:SP_2701,Basso Cambo,16
+2291585,09:45:00,09:45:10,stop_point:SP_1186,Tibaous,1
+2291585,09:46:00,09:46:10,stop_point:SP_449,Carovis,2
+2291585,09:47:00,09:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291585,09:47:00,09:47:10,stop_point:SP_1028,Villenouvelle,4
+2291585,09:48:00,09:48:10,stop_point:SP_2385,Bayès,5
+2291585,09:49:00,09:49:10,stop_point:SP_3029,Coin Fermé,6
+2291585,09:49:00,09:49:10,stop_point:SP_3399,Licard,7
+2291585,09:50:00,09:50:10,stop_point:SP_3300,Reguelongue,8
+2291585,09:51:00,09:51:10,stop_point:SP_3821,Liffard,9
+2291585,09:52:00,09:52:10,stop_point:SP_1403,Angély,10
+2291585,09:54:00,09:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291585,09:55:00,09:55:10,stop_point:SP_1625,Avionique,12
+2291585,09:56:00,09:56:10,stop_point:SP_3416,Talabot Nord,13
+2291585,09:58:00,09:58:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291585,10:00:00,10:00:10,stop_point:SP_1867,Mesplé,15
+2291585,10:02:00,10:02:10,stop_point:SP_2701,Basso Cambo,16
+2291586,10:15:00,10:15:10,stop_point:SP_1186,Tibaous,1
+2291586,10:16:00,10:16:10,stop_point:SP_449,Carovis,2
+2291586,10:17:00,10:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291586,10:17:00,10:17:10,stop_point:SP_1028,Villenouvelle,4
+2291586,10:18:00,10:18:10,stop_point:SP_2385,Bayès,5
+2291586,10:19:00,10:19:10,stop_point:SP_3029,Coin Fermé,6
+2291586,10:19:00,10:19:10,stop_point:SP_3399,Licard,7
+2291586,10:20:00,10:20:10,stop_point:SP_3300,Reguelongue,8
+2291586,10:21:00,10:21:10,stop_point:SP_3821,Liffard,9
+2291586,10:22:00,10:22:10,stop_point:SP_1403,Angély,10
+2291586,10:24:00,10:24:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291586,10:25:00,10:25:10,stop_point:SP_1625,Avionique,12
+2291586,10:26:00,10:26:10,stop_point:SP_3416,Talabot Nord,13
+2291586,10:27:00,10:27:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291586,10:29:00,10:29:10,stop_point:SP_1867,Mesplé,15
+2291586,10:30:00,10:30:10,stop_point:SP_2701,Basso Cambo,16
+2291587,10:45:00,10:45:10,stop_point:SP_1186,Tibaous,1
+2291587,10:46:00,10:46:10,stop_point:SP_449,Carovis,2
+2291587,10:47:00,10:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291587,10:47:00,10:47:10,stop_point:SP_1028,Villenouvelle,4
+2291587,10:48:00,10:48:10,stop_point:SP_2385,Bayès,5
+2291587,10:49:00,10:49:10,stop_point:SP_3029,Coin Fermé,6
+2291587,10:49:00,10:49:10,stop_point:SP_3399,Licard,7
+2291587,10:50:00,10:50:10,stop_point:SP_3300,Reguelongue,8
+2291587,10:51:00,10:51:10,stop_point:SP_3821,Liffard,9
+2291587,10:52:00,10:52:10,stop_point:SP_1403,Angély,10
+2291587,10:54:00,10:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291587,10:55:00,10:55:10,stop_point:SP_1625,Avionique,12
+2291587,10:56:00,10:56:10,stop_point:SP_3416,Talabot Nord,13
+2291587,10:57:00,10:57:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291587,10:59:00,10:59:10,stop_point:SP_1867,Mesplé,15
+2291587,11:00:00,11:00:10,stop_point:SP_2701,Basso Cambo,16
+2291588,11:15:00,11:15:10,stop_point:SP_1186,Tibaous,1
+2291588,11:16:00,11:16:10,stop_point:SP_449,Carovis,2
+2291588,11:17:00,11:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291588,11:17:00,11:17:10,stop_point:SP_1028,Villenouvelle,4
+2291588,11:18:00,11:18:10,stop_point:SP_2385,Bayès,5
+2291588,11:19:00,11:19:10,stop_point:SP_3029,Coin Fermé,6
+2291588,11:19:00,11:19:10,stop_point:SP_3399,Licard,7
+2291588,11:20:00,11:20:10,stop_point:SP_3300,Reguelongue,8
+2291588,11:21:00,11:21:10,stop_point:SP_3821,Liffard,9
+2291588,11:22:00,11:22:10,stop_point:SP_1403,Angély,10
+2291588,11:24:00,11:24:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291588,11:25:00,11:25:10,stop_point:SP_1625,Avionique,12
+2291588,11:26:00,11:26:10,stop_point:SP_3416,Talabot Nord,13
+2291588,11:27:00,11:27:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291588,11:29:00,11:29:10,stop_point:SP_1867,Mesplé,15
+2291588,11:30:00,11:30:10,stop_point:SP_2701,Basso Cambo,16
+2291589,11:45:00,11:45:10,stop_point:SP_1186,Tibaous,1
+2291589,11:46:00,11:46:10,stop_point:SP_449,Carovis,2
+2291589,11:47:00,11:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291589,11:47:00,11:47:10,stop_point:SP_1028,Villenouvelle,4
+2291589,11:48:00,11:48:10,stop_point:SP_2385,Bayès,5
+2291589,11:49:00,11:49:10,stop_point:SP_3029,Coin Fermé,6
+2291589,11:49:00,11:49:10,stop_point:SP_3399,Licard,7
+2291589,11:50:00,11:50:10,stop_point:SP_3300,Reguelongue,8
+2291589,11:51:00,11:51:10,stop_point:SP_3821,Liffard,9
+2291589,11:52:00,11:52:10,stop_point:SP_1403,Angély,10
+2291589,11:54:00,11:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291589,11:55:00,11:55:10,stop_point:SP_1625,Avionique,12
+2291589,11:56:00,11:56:10,stop_point:SP_3416,Talabot Nord,13
+2291589,11:57:00,11:57:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291589,11:59:00,11:59:10,stop_point:SP_1867,Mesplé,15
+2291589,12:00:00,12:00:10,stop_point:SP_2701,Basso Cambo,16
+2291590,12:15:00,12:15:10,stop_point:SP_1186,Tibaous,1
+2291590,12:16:00,12:16:10,stop_point:SP_449,Carovis,2
+2291590,12:17:00,12:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291590,12:17:00,12:17:10,stop_point:SP_1028,Villenouvelle,4
+2291590,12:18:00,12:18:10,stop_point:SP_2385,Bayès,5
+2291590,12:19:00,12:19:10,stop_point:SP_3029,Coin Fermé,6
+2291590,12:19:00,12:19:10,stop_point:SP_3399,Licard,7
+2291590,12:20:00,12:20:10,stop_point:SP_3300,Reguelongue,8
+2291590,12:21:00,12:21:10,stop_point:SP_3821,Liffard,9
+2291590,12:22:00,12:22:10,stop_point:SP_1403,Angély,10
+2291590,12:24:00,12:24:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291590,12:25:00,12:25:10,stop_point:SP_1625,Avionique,12
+2291590,12:26:00,12:26:10,stop_point:SP_3416,Talabot Nord,13
+2291590,12:27:00,12:27:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291590,12:29:00,12:29:10,stop_point:SP_1867,Mesplé,15
+2291590,12:30:00,12:30:10,stop_point:SP_2701,Basso Cambo,16
+2291591,12:45:00,12:45:10,stop_point:SP_1186,Tibaous,1
+2291591,12:46:00,12:46:10,stop_point:SP_449,Carovis,2
+2291591,12:47:00,12:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291591,12:47:00,12:47:10,stop_point:SP_1028,Villenouvelle,4
+2291591,12:48:00,12:48:10,stop_point:SP_2385,Bayès,5
+2291591,12:49:00,12:49:10,stop_point:SP_3029,Coin Fermé,6
+2291591,12:49:00,12:49:10,stop_point:SP_3399,Licard,7
+2291591,12:50:00,12:50:10,stop_point:SP_3300,Reguelongue,8
+2291591,12:51:00,12:51:10,stop_point:SP_3821,Liffard,9
+2291591,12:52:00,12:52:10,stop_point:SP_1403,Angély,10
+2291591,12:54:00,12:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291591,12:55:00,12:55:10,stop_point:SP_1625,Avionique,12
+2291591,12:56:00,12:56:10,stop_point:SP_3416,Talabot Nord,13
+2291591,12:57:00,12:57:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291591,12:59:00,12:59:10,stop_point:SP_1867,Mesplé,15
+2291591,13:00:00,13:00:10,stop_point:SP_2701,Basso Cambo,16
+2291592,13:15:00,13:15:10,stop_point:SP_1186,Tibaous,1
+2291592,13:16:00,13:16:10,stop_point:SP_449,Carovis,2
+2291592,13:17:00,13:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291592,13:17:00,13:17:10,stop_point:SP_1028,Villenouvelle,4
+2291592,13:18:00,13:18:10,stop_point:SP_2385,Bayès,5
+2291592,13:19:00,13:19:10,stop_point:SP_3029,Coin Fermé,6
+2291592,13:19:00,13:19:10,stop_point:SP_3399,Licard,7
+2291592,13:20:00,13:20:10,stop_point:SP_3300,Reguelongue,8
+2291592,13:21:00,13:21:10,stop_point:SP_3821,Liffard,9
+2291592,13:22:00,13:22:10,stop_point:SP_1403,Angély,10
+2291592,13:24:00,13:24:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291592,13:25:00,13:25:10,stop_point:SP_1625,Avionique,12
+2291592,13:26:00,13:26:10,stop_point:SP_3416,Talabot Nord,13
+2291592,13:28:00,13:28:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291592,13:29:00,13:29:10,stop_point:SP_1867,Mesplé,15
+2291592,13:31:00,13:31:10,stop_point:SP_2701,Basso Cambo,16
+2291593,13:45:00,13:45:10,stop_point:SP_1186,Tibaous,1
+2291593,13:46:00,13:46:10,stop_point:SP_449,Carovis,2
+2291593,13:47:00,13:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291593,13:47:00,13:47:10,stop_point:SP_1028,Villenouvelle,4
+2291593,13:48:00,13:48:10,stop_point:SP_2385,Bayès,5
+2291593,13:49:00,13:49:10,stop_point:SP_3029,Coin Fermé,6
+2291593,13:49:00,13:49:10,stop_point:SP_3399,Licard,7
+2291593,13:50:00,13:50:10,stop_point:SP_3300,Reguelongue,8
+2291593,13:51:00,13:51:10,stop_point:SP_3821,Liffard,9
+2291593,13:52:00,13:52:10,stop_point:SP_1403,Angély,10
+2291593,13:54:00,13:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291593,13:55:00,13:55:10,stop_point:SP_1625,Avionique,12
+2291593,13:56:00,13:56:10,stop_point:SP_3416,Talabot Nord,13
+2291593,13:58:00,13:58:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291593,13:59:00,13:59:10,stop_point:SP_1867,Mesplé,15
+2291593,14:01:00,14:01:10,stop_point:SP_2701,Basso Cambo,16
+2291594,14:15:00,14:15:10,stop_point:SP_1186,Tibaous,1
+2291594,14:16:00,14:16:10,stop_point:SP_449,Carovis,2
+2291594,14:17:00,14:17:10,stop_point:SP_2620,Canto Laouzetto,3
+2291594,14:17:00,14:17:10,stop_point:SP_1028,Villenouvelle,4
+2291594,14:18:00,14:18:10,stop_point:SP_2385,Bayès,5
+2291594,14:19:00,14:19:10,stop_point:SP_3029,Coin Fermé,6
+2291594,14:19:00,14:19:10,stop_point:SP_3399,Licard,7
+2291594,14:20:00,14:20:10,stop_point:SP_3300,Reguelongue,8
+2291594,14:21:00,14:21:10,stop_point:SP_3821,Liffard,9
+2291594,14:22:00,14:22:10,stop_point:SP_1403,Angély,10
+2291594,14:24:00,14:24:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291594,14:25:00,14:25:10,stop_point:SP_1625,Avionique,12
+2291594,14:26:00,14:26:10,stop_point:SP_3416,Talabot Nord,13
+2291594,14:28:00,14:28:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291594,14:29:00,14:29:10,stop_point:SP_1867,Mesplé,15
+2291594,14:31:00,14:31:10,stop_point:SP_2701,Basso Cambo,16
+2291595,14:45:00,14:45:10,stop_point:SP_1186,Tibaous,1
+2291595,14:46:00,14:46:10,stop_point:SP_449,Carovis,2
+2291595,14:47:00,14:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291595,14:47:00,14:47:10,stop_point:SP_1028,Villenouvelle,4
+2291595,14:48:00,14:48:10,stop_point:SP_2385,Bayès,5
+2291595,14:49:00,14:49:10,stop_point:SP_3029,Coin Fermé,6
+2291595,14:49:00,14:49:10,stop_point:SP_3399,Licard,7
+2291595,14:50:00,14:50:10,stop_point:SP_3300,Reguelongue,8
+2291595,14:51:00,14:51:10,stop_point:SP_3821,Liffard,9
+2291595,14:52:00,14:52:10,stop_point:SP_1403,Angély,10
+2291595,14:54:00,14:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291595,14:55:00,14:55:10,stop_point:SP_1625,Avionique,12
+2291595,14:56:00,14:56:10,stop_point:SP_3416,Talabot Nord,13
+2291595,14:58:00,14:58:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291595,14:59:00,14:59:10,stop_point:SP_1867,Mesplé,15
+2291595,15:01:00,15:01:10,stop_point:SP_2701,Basso Cambo,16
+2291596,15:05:00,15:05:10,stop_point:SP_1186,Tibaous,1
+2291596,15:06:00,15:06:10,stop_point:SP_449,Carovis,2
+2291596,15:07:00,15:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291596,15:07:00,15:07:10,stop_point:SP_1028,Villenouvelle,4
+2291596,15:08:00,15:08:10,stop_point:SP_2385,Bayès,5
+2291596,15:09:00,15:09:10,stop_point:SP_3029,Coin Fermé,6
+2291596,15:09:00,15:09:10,stop_point:SP_3399,Licard,7
+2291596,15:10:00,15:10:10,stop_point:SP_3300,Reguelongue,8
+2291596,15:11:00,15:11:10,stop_point:SP_3821,Liffard,9
+2291596,15:12:00,15:12:10,stop_point:SP_1403,Angély,10
+2291596,15:14:00,15:14:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291596,15:15:00,15:15:10,stop_point:SP_1625,Avionique,12
+2291596,15:16:00,15:16:10,stop_point:SP_3416,Talabot Nord,13
+2291596,15:18:00,15:18:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291596,15:19:00,15:19:10,stop_point:SP_1867,Mesplé,15
+2291596,15:21:00,15:21:10,stop_point:SP_2701,Basso Cambo,16
+2291597,15:25:00,15:25:10,stop_point:SP_1186,Tibaous,1
+2291597,15:26:00,15:26:10,stop_point:SP_449,Carovis,2
+2291597,15:27:00,15:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291597,15:27:00,15:27:10,stop_point:SP_1028,Villenouvelle,4
+2291597,15:28:00,15:28:10,stop_point:SP_2385,Bayès,5
+2291597,15:29:00,15:29:10,stop_point:SP_3029,Coin Fermé,6
+2291597,15:29:00,15:29:10,stop_point:SP_3399,Licard,7
+2291597,15:30:00,15:30:10,stop_point:SP_3300,Reguelongue,8
+2291597,15:31:00,15:31:10,stop_point:SP_3821,Liffard,9
+2291597,15:32:00,15:32:10,stop_point:SP_1403,Angély,10
+2291597,15:34:00,15:34:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291597,15:35:00,15:35:10,stop_point:SP_1625,Avionique,12
+2291597,15:36:00,15:36:10,stop_point:SP_3416,Talabot Nord,13
+2291597,15:38:00,15:38:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291597,15:39:00,15:39:10,stop_point:SP_1867,Mesplé,15
+2291597,15:41:00,15:41:10,stop_point:SP_2701,Basso Cambo,16
+2291598,15:45:00,15:45:10,stop_point:SP_1186,Tibaous,1
+2291598,15:46:00,15:46:10,stop_point:SP_449,Carovis,2
+2291598,15:47:00,15:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291598,15:47:00,15:47:10,stop_point:SP_1028,Villenouvelle,4
+2291598,15:48:00,15:48:10,stop_point:SP_2385,Bayès,5
+2291598,15:49:00,15:49:10,stop_point:SP_3029,Coin Fermé,6
+2291598,15:49:00,15:49:10,stop_point:SP_3399,Licard,7
+2291598,15:50:00,15:50:10,stop_point:SP_3300,Reguelongue,8
+2291598,15:51:00,15:51:10,stop_point:SP_3821,Liffard,9
+2291598,15:52:00,15:52:10,stop_point:SP_1403,Angély,10
+2291598,15:54:00,15:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291598,15:55:00,15:55:10,stop_point:SP_1625,Avionique,12
+2291598,15:56:00,15:56:10,stop_point:SP_3416,Talabot Nord,13
+2291598,15:58:00,15:58:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291598,16:00:00,16:00:10,stop_point:SP_1867,Mesplé,15
+2291598,16:02:00,16:02:10,stop_point:SP_2701,Basso Cambo,16
+2291599,16:05:00,16:05:10,stop_point:SP_1186,Tibaous,1
+2291599,16:06:00,16:06:10,stop_point:SP_449,Carovis,2
+2291599,16:07:00,16:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291599,16:07:00,16:07:10,stop_point:SP_1028,Villenouvelle,4
+2291599,16:08:00,16:08:10,stop_point:SP_2385,Bayès,5
+2291599,16:09:00,16:09:10,stop_point:SP_3029,Coin Fermé,6
+2291599,16:09:00,16:09:10,stop_point:SP_3399,Licard,7
+2291599,16:10:00,16:10:10,stop_point:SP_3300,Reguelongue,8
+2291599,16:11:00,16:11:10,stop_point:SP_3821,Liffard,9
+2291599,16:12:00,16:12:10,stop_point:SP_1403,Angély,10
+2291599,16:14:00,16:14:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291599,16:15:00,16:15:10,stop_point:SP_1625,Avionique,12
+2291599,16:16:00,16:16:10,stop_point:SP_3416,Talabot Nord,13
+2291599,16:18:00,16:18:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291599,16:20:00,16:20:10,stop_point:SP_1867,Mesplé,15
+2291599,16:22:00,16:22:10,stop_point:SP_2701,Basso Cambo,16
+2291600,16:25:00,16:25:10,stop_point:SP_1186,Tibaous,1
+2291600,16:26:00,16:26:10,stop_point:SP_449,Carovis,2
+2291600,16:27:00,16:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291600,16:27:00,16:27:10,stop_point:SP_1028,Villenouvelle,4
+2291600,16:28:00,16:28:10,stop_point:SP_2385,Bayès,5
+2291600,16:29:00,16:29:10,stop_point:SP_3029,Coin Fermé,6
+2291600,16:29:00,16:29:10,stop_point:SP_3399,Licard,7
+2291600,16:30:00,16:30:10,stop_point:SP_3300,Reguelongue,8
+2291600,16:31:00,16:31:10,stop_point:SP_3821,Liffard,9
+2291600,16:32:00,16:32:10,stop_point:SP_1403,Angély,10
+2291600,16:34:00,16:34:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291600,16:36:00,16:36:10,stop_point:SP_1625,Avionique,12
+2291600,16:37:00,16:37:10,stop_point:SP_3416,Talabot Nord,13
+2291600,16:39:00,16:39:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291600,16:41:00,16:41:10,stop_point:SP_1867,Mesplé,15
+2291600,16:43:00,16:43:10,stop_point:SP_2701,Basso Cambo,16
+2291601,16:45:00,16:45:10,stop_point:SP_1186,Tibaous,1
+2291601,16:46:00,16:46:10,stop_point:SP_449,Carovis,2
+2291601,16:47:00,16:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291601,16:47:00,16:47:10,stop_point:SP_1028,Villenouvelle,4
+2291601,16:48:00,16:48:10,stop_point:SP_2385,Bayès,5
+2291601,16:49:00,16:49:10,stop_point:SP_3029,Coin Fermé,6
+2291601,16:49:00,16:49:10,stop_point:SP_3399,Licard,7
+2291601,16:50:00,16:50:10,stop_point:SP_3300,Reguelongue,8
+2291601,16:51:00,16:51:10,stop_point:SP_3821,Liffard,9
+2291601,16:52:00,16:52:10,stop_point:SP_1403,Angély,10
+2291601,16:54:00,16:54:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291601,16:56:00,16:56:10,stop_point:SP_1625,Avionique,12
+2291601,16:57:00,16:57:10,stop_point:SP_3416,Talabot Nord,13
+2291601,16:59:00,16:59:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291601,17:01:00,17:01:10,stop_point:SP_1867,Mesplé,15
+2291601,17:03:00,17:03:10,stop_point:SP_2701,Basso Cambo,16
+2291602,17:05:00,17:05:10,stop_point:SP_1186,Tibaous,1
+2291602,17:06:00,17:06:10,stop_point:SP_449,Carovis,2
+2291602,17:07:00,17:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291602,17:07:00,17:07:10,stop_point:SP_1028,Villenouvelle,4
+2291602,17:09:00,17:09:10,stop_point:SP_2385,Bayès,5
+2291602,17:10:00,17:10:10,stop_point:SP_3029,Coin Fermé,6
+2291602,17:11:00,17:11:10,stop_point:SP_3399,Licard,7
+2291602,17:12:00,17:12:10,stop_point:SP_3300,Reguelongue,8
+2291602,17:13:00,17:13:10,stop_point:SP_3821,Liffard,9
+2291602,17:14:00,17:14:10,stop_point:SP_1403,Angély,10
+2291602,17:16:00,17:16:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291602,17:18:00,17:18:10,stop_point:SP_1625,Avionique,12
+2291602,17:19:00,17:19:10,stop_point:SP_3416,Talabot Nord,13
+2291602,17:21:00,17:21:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291602,17:23:00,17:23:10,stop_point:SP_1867,Mesplé,15
+2291602,17:25:00,17:25:10,stop_point:SP_2701,Basso Cambo,16
+2291603,17:25:00,17:25:10,stop_point:SP_1186,Tibaous,1
+2291603,17:26:00,17:26:10,stop_point:SP_449,Carovis,2
+2291603,17:27:00,17:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291603,17:27:00,17:27:10,stop_point:SP_1028,Villenouvelle,4
+2291603,17:29:00,17:29:10,stop_point:SP_2385,Bayès,5
+2291603,17:30:00,17:30:10,stop_point:SP_3029,Coin Fermé,6
+2291603,17:31:00,17:31:10,stop_point:SP_3399,Licard,7
+2291603,17:32:00,17:32:10,stop_point:SP_3300,Reguelongue,8
+2291603,17:33:00,17:33:10,stop_point:SP_3821,Liffard,9
+2291603,17:34:00,17:34:10,stop_point:SP_1403,Angély,10
+2291603,17:36:00,17:36:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291603,17:38:00,17:38:10,stop_point:SP_1625,Avionique,12
+2291603,17:39:00,17:39:10,stop_point:SP_3416,Talabot Nord,13
+2291603,17:41:00,17:41:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291603,17:43:00,17:43:10,stop_point:SP_1867,Mesplé,15
+2291603,17:45:00,17:45:10,stop_point:SP_2701,Basso Cambo,16
+2291604,17:45:00,17:45:10,stop_point:SP_1186,Tibaous,1
+2291604,17:46:00,17:46:10,stop_point:SP_449,Carovis,2
+2291604,17:47:00,17:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291604,17:47:00,17:47:10,stop_point:SP_1028,Villenouvelle,4
+2291604,17:49:00,17:49:10,stop_point:SP_2385,Bayès,5
+2291604,17:50:00,17:50:10,stop_point:SP_3029,Coin Fermé,6
+2291604,17:51:00,17:51:10,stop_point:SP_3399,Licard,7
+2291604,17:52:00,17:52:10,stop_point:SP_3300,Reguelongue,8
+2291604,17:53:00,17:53:10,stop_point:SP_3821,Liffard,9
+2291604,17:54:00,17:54:10,stop_point:SP_1403,Angély,10
+2291604,17:56:00,17:56:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291604,17:58:00,17:58:10,stop_point:SP_1625,Avionique,12
+2291604,17:59:00,17:59:10,stop_point:SP_3416,Talabot Nord,13
+2291604,18:01:00,18:01:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291604,18:03:00,18:03:10,stop_point:SP_1867,Mesplé,15
+2291604,18:05:00,18:05:10,stop_point:SP_2701,Basso Cambo,16
+2291605,18:05:00,18:05:10,stop_point:SP_1186,Tibaous,1
+2291605,18:06:00,18:06:10,stop_point:SP_449,Carovis,2
+2291605,18:07:00,18:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291605,18:07:00,18:07:10,stop_point:SP_1028,Villenouvelle,4
+2291605,18:09:00,18:09:10,stop_point:SP_2385,Bayès,5
+2291605,18:10:00,18:10:10,stop_point:SP_3029,Coin Fermé,6
+2291605,18:11:00,18:11:10,stop_point:SP_3399,Licard,7
+2291605,18:12:00,18:12:10,stop_point:SP_3300,Reguelongue,8
+2291605,18:13:00,18:13:10,stop_point:SP_3821,Liffard,9
+2291605,18:14:00,18:14:10,stop_point:SP_1403,Angély,10
+2291605,18:16:00,18:16:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291605,18:18:00,18:18:10,stop_point:SP_1625,Avionique,12
+2291605,18:19:00,18:19:10,stop_point:SP_3416,Talabot Nord,13
+2291605,18:21:00,18:21:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291605,18:23:00,18:23:10,stop_point:SP_1867,Mesplé,15
+2291605,18:25:00,18:25:10,stop_point:SP_2701,Basso Cambo,16
+2291606,18:30:00,18:30:10,stop_point:SP_1186,Tibaous,1
+2291606,18:31:00,18:31:10,stop_point:SP_449,Carovis,2
+2291606,18:32:00,18:32:10,stop_point:SP_2620,Canto Laouzetto,3
+2291606,18:32:00,18:32:10,stop_point:SP_1028,Villenouvelle,4
+2291606,18:34:00,18:34:10,stop_point:SP_2385,Bayès,5
+2291606,18:35:00,18:35:10,stop_point:SP_3029,Coin Fermé,6
+2291606,18:36:00,18:36:10,stop_point:SP_3399,Licard,7
+2291606,18:37:00,18:37:10,stop_point:SP_3300,Reguelongue,8
+2291606,18:38:00,18:38:10,stop_point:SP_3821,Liffard,9
+2291606,18:39:00,18:39:10,stop_point:SP_1403,Angély,10
+2291606,18:41:00,18:41:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291606,18:43:00,18:43:10,stop_point:SP_1625,Avionique,12
+2291606,18:44:00,18:44:10,stop_point:SP_3416,Talabot Nord,13
+2291606,18:46:00,18:46:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291606,18:47:00,18:47:10,stop_point:SP_1867,Mesplé,15
+2291606,18:49:00,18:49:10,stop_point:SP_2701,Basso Cambo,16
+2291607,19:00:00,19:00:10,stop_point:SP_1186,Tibaous,1
+2291607,19:01:00,19:01:10,stop_point:SP_449,Carovis,2
+2291607,19:02:00,19:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291607,19:02:00,19:02:10,stop_point:SP_1028,Villenouvelle,4
+2291607,19:03:00,19:03:10,stop_point:SP_2385,Bayès,5
+2291607,19:04:00,19:04:10,stop_point:SP_3029,Coin Fermé,6
+2291607,19:04:00,19:04:10,stop_point:SP_3399,Licard,7
+2291607,19:05:00,19:05:10,stop_point:SP_3300,Reguelongue,8
+2291607,19:06:00,19:06:10,stop_point:SP_3821,Liffard,9
+2291607,19:07:00,19:07:10,stop_point:SP_1403,Angély,10
+2291607,19:09:00,19:09:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291607,19:10:00,19:10:10,stop_point:SP_1625,Avionique,12
+2291607,19:11:00,19:11:10,stop_point:SP_3416,Talabot Nord,13
+2291607,19:13:00,19:13:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291607,19:14:00,19:14:10,stop_point:SP_1867,Mesplé,15
+2291607,19:16:00,19:16:10,stop_point:SP_2701,Basso Cambo,16
+2291608,19:30:00,19:30:10,stop_point:SP_1186,Tibaous,1
+2291608,19:31:00,19:31:10,stop_point:SP_449,Carovis,2
+2291608,19:32:00,19:32:10,stop_point:SP_2620,Canto Laouzetto,3
+2291608,19:32:00,19:32:10,stop_point:SP_1028,Villenouvelle,4
+2291608,19:33:00,19:33:10,stop_point:SP_2385,Bayès,5
+2291608,19:34:00,19:34:10,stop_point:SP_3029,Coin Fermé,6
+2291608,19:34:00,19:34:10,stop_point:SP_3399,Licard,7
+2291608,19:35:00,19:35:10,stop_point:SP_3300,Reguelongue,8
+2291608,19:36:00,19:36:10,stop_point:SP_3821,Liffard,9
+2291608,19:37:00,19:37:10,stop_point:SP_1403,Angély,10
+2291608,19:39:00,19:39:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291608,19:40:00,19:40:10,stop_point:SP_1625,Avionique,12
+2291608,19:41:00,19:41:10,stop_point:SP_3416,Talabot Nord,13
+2291608,19:42:00,19:42:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291608,19:43:00,19:43:10,stop_point:SP_1867,Mesplé,15
+2291608,19:44:00,19:44:10,stop_point:SP_2701,Basso Cambo,16
+2291609,20:05:00,20:05:10,stop_point:SP_1186,Tibaous,1
+2291609,20:06:00,20:06:10,stop_point:SP_449,Carovis,2
+2291609,20:07:00,20:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291609,20:07:00,20:07:10,stop_point:SP_1028,Villenouvelle,4
+2291609,20:08:00,20:08:10,stop_point:SP_2385,Bayès,5
+2291609,20:09:00,20:09:10,stop_point:SP_3029,Coin Fermé,6
+2291609,20:09:00,20:09:10,stop_point:SP_3399,Licard,7
+2291609,20:10:00,20:10:10,stop_point:SP_3300,Reguelongue,8
+2291609,20:11:00,20:11:10,stop_point:SP_3821,Liffard,9
+2291609,20:12:00,20:12:10,stop_point:SP_1403,Angély,10
+2291609,20:14:00,20:14:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291609,20:15:00,20:15:10,stop_point:SP_1625,Avionique,12
+2291609,20:16:00,20:16:10,stop_point:SP_3416,Talabot Nord,13
+2291609,20:17:00,20:17:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291609,20:18:00,20:18:10,stop_point:SP_1867,Mesplé,15
+2291609,20:19:00,20:19:10,stop_point:SP_2701,Basso Cambo,16
+2291610,20:42:00,20:42:10,stop_point:SP_1186,Tibaous,1
+2291610,20:43:00,20:43:10,stop_point:SP_449,Carovis,2
+2291610,20:44:00,20:44:10,stop_point:SP_2620,Canto Laouzetto,3
+2291610,20:44:00,20:44:10,stop_point:SP_1028,Villenouvelle,4
+2291610,20:45:00,20:45:10,stop_point:SP_2385,Bayès,5
+2291610,20:46:00,20:46:10,stop_point:SP_3029,Coin Fermé,6
+2291610,20:46:00,20:46:10,stop_point:SP_3399,Licard,7
+2291610,20:47:00,20:47:10,stop_point:SP_3300,Reguelongue,8
+2291610,20:48:00,20:48:10,stop_point:SP_3821,Liffard,9
+2291610,20:49:00,20:49:10,stop_point:SP_1403,Angély,10
+2291610,20:51:00,20:51:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291610,20:52:00,20:52:10,stop_point:SP_1625,Avionique,12
+2291610,20:53:00,20:53:10,stop_point:SP_3416,Talabot Nord,13
+2291610,20:54:00,20:54:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291610,20:55:00,20:55:10,stop_point:SP_1867,Mesplé,15
+2291610,20:56:00,20:56:10,stop_point:SP_2701,Basso Cambo,16
+2291611,06:15:00,06:15:10,stop_point:SP_2701,Basso Cambo,1
+2291611,06:16:00,06:16:10,stop_point:SP_1645,Mesplé,2
+2291611,06:17:00,06:17:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291611,06:18:00,06:18:10,stop_point:SP_2310,Talabot Nord,4
+2291611,06:19:00,06:19:10,stop_point:SP_339,Avionique,5
+2291611,06:20:00,06:20:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291611,06:22:00,06:22:10,stop_point:SP_1747,Angély,7
+2291611,06:23:00,06:23:10,stop_point:SP_734,Liffard,8
+2291611,06:23:00,06:23:10,stop_point:SP_2363,Reguelongue,9
+2291611,06:24:00,06:24:10,stop_point:SP_52,Licard,10
+2291611,06:25:00,06:25:10,stop_point:SP_2563,Coin Fermé,11
+2291611,06:25:00,06:25:10,stop_point:SP_2381,Bayès,12
+2291611,06:26:00,06:26:10,stop_point:SP_323,Villenouvelle,13
+2291611,06:27:00,06:27:10,stop_point:SP_1682,Canto Laouzetto,14
+2291611,06:27:00,06:27:10,stop_point:SP_1489,Carovis,15
+2291611,06:28:00,06:28:10,stop_point:SP_1186,Tibaous,16
+2291612,06:55:00,06:55:10,stop_point:SP_2701,Basso Cambo,1
+2291612,06:56:00,06:56:10,stop_point:SP_1645,Mesplé,2
+2291612,06:57:00,06:57:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291612,06:58:00,06:58:10,stop_point:SP_2310,Talabot Nord,4
+2291612,06:59:00,06:59:10,stop_point:SP_339,Avionique,5
+2291612,07:00:00,07:00:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291612,07:02:00,07:02:10,stop_point:SP_1747,Angély,7
+2291612,07:03:00,07:03:10,stop_point:SP_734,Liffard,8
+2291612,07:03:00,07:03:10,stop_point:SP_2363,Reguelongue,9
+2291612,07:04:00,07:04:10,stop_point:SP_52,Licard,10
+2291612,07:05:00,07:05:10,stop_point:SP_2563,Coin Fermé,11
+2291612,07:05:00,07:05:10,stop_point:SP_2381,Bayès,12
+2291612,07:06:00,07:06:10,stop_point:SP_323,Villenouvelle,13
+2291612,07:07:00,07:07:10,stop_point:SP_1682,Canto Laouzetto,14
+2291612,07:07:00,07:07:10,stop_point:SP_1489,Carovis,15
+2291612,07:08:00,07:08:10,stop_point:SP_1186,Tibaous,16
+2291613,07:35:00,07:35:10,stop_point:SP_2701,Basso Cambo,1
+2291613,07:36:00,07:36:10,stop_point:SP_1645,Mesplé,2
+2291613,07:37:00,07:37:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291613,07:38:00,07:38:10,stop_point:SP_2310,Talabot Nord,4
+2291613,07:39:00,07:39:10,stop_point:SP_339,Avionique,5
+2291613,07:40:00,07:40:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291613,07:42:00,07:42:10,stop_point:SP_1747,Angély,7
+2291613,07:43:00,07:43:10,stop_point:SP_734,Liffard,8
+2291613,07:43:00,07:43:10,stop_point:SP_2363,Reguelongue,9
+2291613,07:44:00,07:44:10,stop_point:SP_52,Licard,10
+2291613,07:45:00,07:45:10,stop_point:SP_2563,Coin Fermé,11
+2291613,07:45:00,07:45:10,stop_point:SP_2381,Bayès,12
+2291613,07:46:00,07:46:10,stop_point:SP_323,Villenouvelle,13
+2291613,07:47:00,07:47:10,stop_point:SP_1682,Canto Laouzetto,14
+2291613,07:47:00,07:47:10,stop_point:SP_1489,Carovis,15
+2291613,07:48:00,07:48:10,stop_point:SP_1186,Tibaous,16
+2291614,08:15:00,08:15:10,stop_point:SP_2701,Basso Cambo,1
+2291614,08:16:00,08:16:10,stop_point:SP_1645,Mesplé,2
+2291614,08:17:00,08:17:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291614,08:18:00,08:18:10,stop_point:SP_2310,Talabot Nord,4
+2291614,08:19:00,08:19:10,stop_point:SP_339,Avionique,5
+2291614,08:20:00,08:20:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291614,08:22:00,08:22:10,stop_point:SP_1747,Angély,7
+2291614,08:23:00,08:23:10,stop_point:SP_734,Liffard,8
+2291614,08:23:00,08:23:10,stop_point:SP_2363,Reguelongue,9
+2291614,08:24:00,08:24:10,stop_point:SP_52,Licard,10
+2291614,08:25:00,08:25:10,stop_point:SP_2563,Coin Fermé,11
+2291614,08:25:00,08:25:10,stop_point:SP_2381,Bayès,12
+2291614,08:26:00,08:26:10,stop_point:SP_323,Villenouvelle,13
+2291614,08:27:00,08:27:10,stop_point:SP_1682,Canto Laouzetto,14
+2291614,08:28:00,08:28:10,stop_point:SP_1489,Carovis,15
+2291614,08:29:00,08:29:10,stop_point:SP_1186,Tibaous,16
+2291615,08:55:00,08:55:10,stop_point:SP_2701,Basso Cambo,1
+2291615,08:56:00,08:56:10,stop_point:SP_1645,Mesplé,2
+2291615,08:57:00,08:57:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291615,08:58:00,08:58:10,stop_point:SP_2310,Talabot Nord,4
+2291615,08:59:00,08:59:10,stop_point:SP_339,Avionique,5
+2291615,09:00:00,09:00:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291615,09:02:00,09:02:10,stop_point:SP_1747,Angély,7
+2291615,09:03:00,09:03:10,stop_point:SP_734,Liffard,8
+2291615,09:03:00,09:03:10,stop_point:SP_2363,Reguelongue,9
+2291615,09:04:00,09:04:10,stop_point:SP_52,Licard,10
+2291615,09:05:00,09:05:10,stop_point:SP_2563,Coin Fermé,11
+2291615,09:05:00,09:05:10,stop_point:SP_2381,Bayès,12
+2291615,09:06:00,09:06:10,stop_point:SP_323,Villenouvelle,13
+2291615,09:07:00,09:07:10,stop_point:SP_1682,Canto Laouzetto,14
+2291615,09:08:00,09:08:10,stop_point:SP_1489,Carovis,15
+2291615,09:09:00,09:09:10,stop_point:SP_1186,Tibaous,16
+2291616,09:35:00,09:35:10,stop_point:SP_2701,Basso Cambo,1
+2291616,09:36:00,09:36:10,stop_point:SP_1645,Mesplé,2
+2291616,09:37:00,09:37:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291616,09:38:00,09:38:10,stop_point:SP_2310,Talabot Nord,4
+2291616,09:39:00,09:39:10,stop_point:SP_339,Avionique,5
+2291616,09:40:00,09:40:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291616,09:42:00,09:42:10,stop_point:SP_1747,Angély,7
+2291616,09:43:00,09:43:10,stop_point:SP_734,Liffard,8
+2291616,09:43:00,09:43:10,stop_point:SP_2363,Reguelongue,9
+2291616,09:44:00,09:44:10,stop_point:SP_52,Licard,10
+2291616,09:45:00,09:45:10,stop_point:SP_2563,Coin Fermé,11
+2291616,09:45:00,09:45:10,stop_point:SP_2381,Bayès,12
+2291616,09:46:00,09:46:10,stop_point:SP_323,Villenouvelle,13
+2291616,09:47:00,09:47:10,stop_point:SP_1682,Canto Laouzetto,14
+2291616,09:48:00,09:48:10,stop_point:SP_1489,Carovis,15
+2291616,09:49:00,09:49:10,stop_point:SP_1186,Tibaous,16
+2291617,10:15:00,10:15:10,stop_point:SP_2701,Basso Cambo,1
+2291617,10:17:00,10:17:10,stop_point:SP_1645,Mesplé,2
+2291617,10:18:00,10:18:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291617,10:19:00,10:19:10,stop_point:SP_2310,Talabot Nord,4
+2291617,10:20:00,10:20:10,stop_point:SP_339,Avionique,5
+2291617,10:21:00,10:21:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291617,10:23:00,10:23:10,stop_point:SP_1747,Angély,7
+2291617,10:24:00,10:24:10,stop_point:SP_734,Liffard,8
+2291617,10:24:00,10:24:10,stop_point:SP_2363,Reguelongue,9
+2291617,10:25:00,10:25:10,stop_point:SP_52,Licard,10
+2291617,10:26:00,10:26:10,stop_point:SP_2563,Coin Fermé,11
+2291617,10:26:00,10:26:10,stop_point:SP_2381,Bayès,12
+2291617,10:27:00,10:27:10,stop_point:SP_323,Villenouvelle,13
+2291617,10:28:00,10:28:10,stop_point:SP_1682,Canto Laouzetto,14
+2291617,10:29:00,10:29:10,stop_point:SP_1489,Carovis,15
+2291617,10:30:00,10:30:10,stop_point:SP_1186,Tibaous,16
+2291618,10:55:00,10:55:10,stop_point:SP_2701,Basso Cambo,1
+2291618,10:57:00,10:57:10,stop_point:SP_1645,Mesplé,2
+2291618,10:58:00,10:58:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291618,10:59:00,10:59:10,stop_point:SP_2310,Talabot Nord,4
+2291618,11:00:00,11:00:10,stop_point:SP_339,Avionique,5
+2291618,11:01:00,11:01:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291618,11:03:00,11:03:10,stop_point:SP_1747,Angély,7
+2291618,11:04:00,11:04:10,stop_point:SP_734,Liffard,8
+2291618,11:04:00,11:04:10,stop_point:SP_2363,Reguelongue,9
+2291618,11:05:00,11:05:10,stop_point:SP_52,Licard,10
+2291618,11:06:00,11:06:10,stop_point:SP_2563,Coin Fermé,11
+2291618,11:06:00,11:06:10,stop_point:SP_2381,Bayès,12
+2291618,11:07:00,11:07:10,stop_point:SP_323,Villenouvelle,13
+2291618,11:08:00,11:08:10,stop_point:SP_1682,Canto Laouzetto,14
+2291618,11:09:00,11:09:10,stop_point:SP_1489,Carovis,15
+2291618,11:10:00,11:10:10,stop_point:SP_1186,Tibaous,16
+2291619,11:35:00,11:35:10,stop_point:SP_2701,Basso Cambo,1
+2291619,11:37:00,11:37:10,stop_point:SP_1645,Mesplé,2
+2291619,11:38:00,11:38:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291619,11:39:00,11:39:10,stop_point:SP_2310,Talabot Nord,4
+2291619,11:40:00,11:40:10,stop_point:SP_339,Avionique,5
+2291619,11:41:00,11:41:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291619,11:43:00,11:43:10,stop_point:SP_1747,Angély,7
+2291619,11:44:00,11:44:10,stop_point:SP_734,Liffard,8
+2291619,11:44:00,11:44:10,stop_point:SP_2363,Reguelongue,9
+2291619,11:45:00,11:45:10,stop_point:SP_52,Licard,10
+2291619,11:46:00,11:46:10,stop_point:SP_2563,Coin Fermé,11
+2291619,11:46:00,11:46:10,stop_point:SP_2381,Bayès,12
+2291619,11:47:00,11:47:10,stop_point:SP_323,Villenouvelle,13
+2291619,11:48:00,11:48:10,stop_point:SP_1682,Canto Laouzetto,14
+2291619,11:49:00,11:49:10,stop_point:SP_1489,Carovis,15
+2291619,11:50:00,11:50:10,stop_point:SP_1186,Tibaous,16
+2291620,12:15:00,12:15:10,stop_point:SP_2701,Basso Cambo,1
+2291620,12:17:00,12:17:10,stop_point:SP_1645,Mesplé,2
+2291620,12:18:00,12:18:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291620,12:19:00,12:19:10,stop_point:SP_2310,Talabot Nord,4
+2291620,12:20:00,12:20:10,stop_point:SP_339,Avionique,5
+2291620,12:21:00,12:21:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291620,12:23:00,12:23:10,stop_point:SP_1747,Angély,7
+2291620,12:24:00,12:24:10,stop_point:SP_734,Liffard,8
+2291620,12:24:00,12:24:10,stop_point:SP_2363,Reguelongue,9
+2291620,12:25:00,12:25:10,stop_point:SP_52,Licard,10
+2291620,12:26:00,12:26:10,stop_point:SP_2563,Coin Fermé,11
+2291620,12:26:00,12:26:10,stop_point:SP_2381,Bayès,12
+2291620,12:27:00,12:27:10,stop_point:SP_323,Villenouvelle,13
+2291620,12:28:00,12:28:10,stop_point:SP_1682,Canto Laouzetto,14
+2291620,12:29:00,12:29:10,stop_point:SP_1489,Carovis,15
+2291620,12:30:00,12:30:10,stop_point:SP_1186,Tibaous,16
+2291621,12:55:00,12:55:10,stop_point:SP_2701,Basso Cambo,1
+2291621,12:57:00,12:57:10,stop_point:SP_1645,Mesplé,2
+2291621,12:58:00,12:58:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291621,12:59:00,12:59:10,stop_point:SP_2310,Talabot Nord,4
+2291621,13:00:00,13:00:10,stop_point:SP_339,Avionique,5
+2291621,13:01:00,13:01:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291621,13:03:00,13:03:10,stop_point:SP_1747,Angély,7
+2291621,13:04:00,13:04:10,stop_point:SP_734,Liffard,8
+2291621,13:04:00,13:04:10,stop_point:SP_2363,Reguelongue,9
+2291621,13:05:00,13:05:10,stop_point:SP_52,Licard,10
+2291621,13:06:00,13:06:10,stop_point:SP_2563,Coin Fermé,11
+2291621,13:06:00,13:06:10,stop_point:SP_2381,Bayès,12
+2291621,13:07:00,13:07:10,stop_point:SP_323,Villenouvelle,13
+2291621,13:08:00,13:08:10,stop_point:SP_1682,Canto Laouzetto,14
+2291621,13:09:00,13:09:10,stop_point:SP_1489,Carovis,15
+2291621,13:10:00,13:10:10,stop_point:SP_1186,Tibaous,16
+2291622,13:35:00,13:35:10,stop_point:SP_2701,Basso Cambo,1
+2291622,13:37:00,13:37:10,stop_point:SP_1645,Mesplé,2
+2291622,13:38:00,13:38:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291622,13:39:00,13:39:10,stop_point:SP_2310,Talabot Nord,4
+2291622,13:40:00,13:40:10,stop_point:SP_339,Avionique,5
+2291622,13:41:00,13:41:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291622,13:43:00,13:43:10,stop_point:SP_1747,Angély,7
+2291622,13:44:00,13:44:10,stop_point:SP_734,Liffard,8
+2291622,13:44:00,13:44:10,stop_point:SP_2363,Reguelongue,9
+2291622,13:45:00,13:45:10,stop_point:SP_52,Licard,10
+2291622,13:46:00,13:46:10,stop_point:SP_2563,Coin Fermé,11
+2291622,13:46:00,13:46:10,stop_point:SP_2381,Bayès,12
+2291622,13:47:00,13:47:10,stop_point:SP_323,Villenouvelle,13
+2291622,13:48:00,13:48:10,stop_point:SP_1682,Canto Laouzetto,14
+2291622,13:49:00,13:49:10,stop_point:SP_1489,Carovis,15
+2291622,13:50:00,13:50:10,stop_point:SP_1186,Tibaous,16
+2291623,14:20:00,14:20:10,stop_point:SP_2701,Basso Cambo,1
+2291623,14:22:00,14:22:10,stop_point:SP_1645,Mesplé,2
+2291623,14:23:00,14:23:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291623,14:24:00,14:24:10,stop_point:SP_2310,Talabot Nord,4
+2291623,14:25:00,14:25:10,stop_point:SP_339,Avionique,5
+2291623,14:26:00,14:26:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291623,14:28:00,14:28:10,stop_point:SP_1747,Angély,7
+2291623,14:29:00,14:29:10,stop_point:SP_734,Liffard,8
+2291623,14:29:00,14:29:10,stop_point:SP_2363,Reguelongue,9
+2291623,14:30:00,14:30:10,stop_point:SP_52,Licard,10
+2291623,14:31:00,14:31:10,stop_point:SP_2563,Coin Fermé,11
+2291623,14:31:00,14:31:10,stop_point:SP_2381,Bayès,12
+2291623,14:32:00,14:32:10,stop_point:SP_323,Villenouvelle,13
+2291623,14:33:00,14:33:10,stop_point:SP_1682,Canto Laouzetto,14
+2291623,14:34:00,14:34:10,stop_point:SP_1489,Carovis,15
+2291623,14:35:00,14:35:10,stop_point:SP_1186,Tibaous,16
+2291624,15:00:00,15:00:10,stop_point:SP_2701,Basso Cambo,1
+2291624,15:02:00,15:02:10,stop_point:SP_1645,Mesplé,2
+2291624,15:03:00,15:03:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291624,15:04:00,15:04:10,stop_point:SP_2310,Talabot Nord,4
+2291624,15:05:00,15:05:10,stop_point:SP_339,Avionique,5
+2291624,15:06:00,15:06:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291624,15:08:00,15:08:10,stop_point:SP_1747,Angély,7
+2291624,15:09:00,15:09:10,stop_point:SP_734,Liffard,8
+2291624,15:09:00,15:09:10,stop_point:SP_2363,Reguelongue,9
+2291624,15:10:00,15:10:10,stop_point:SP_52,Licard,10
+2291624,15:11:00,15:11:10,stop_point:SP_2563,Coin Fermé,11
+2291624,15:11:00,15:11:10,stop_point:SP_2381,Bayès,12
+2291624,15:12:00,15:12:10,stop_point:SP_323,Villenouvelle,13
+2291624,15:13:00,15:13:10,stop_point:SP_1682,Canto Laouzetto,14
+2291624,15:14:00,15:14:10,stop_point:SP_1489,Carovis,15
+2291624,15:15:00,15:15:10,stop_point:SP_1186,Tibaous,16
+2291625,15:40:00,15:40:10,stop_point:SP_2701,Basso Cambo,1
+2291625,15:42:00,15:42:10,stop_point:SP_1645,Mesplé,2
+2291625,15:43:00,15:43:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291625,15:44:00,15:44:10,stop_point:SP_2310,Talabot Nord,4
+2291625,15:45:00,15:45:10,stop_point:SP_339,Avionique,5
+2291625,15:46:00,15:46:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291625,15:48:00,15:48:10,stop_point:SP_1747,Angély,7
+2291625,15:49:00,15:49:10,stop_point:SP_734,Liffard,8
+2291625,15:49:00,15:49:10,stop_point:SP_2363,Reguelongue,9
+2291625,15:50:00,15:50:10,stop_point:SP_52,Licard,10
+2291625,15:51:00,15:51:10,stop_point:SP_2563,Coin Fermé,11
+2291625,15:51:00,15:51:10,stop_point:SP_2381,Bayès,12
+2291625,15:52:00,15:52:10,stop_point:SP_323,Villenouvelle,13
+2291625,15:53:00,15:53:10,stop_point:SP_1682,Canto Laouzetto,14
+2291625,15:54:00,15:54:10,stop_point:SP_1489,Carovis,15
+2291625,15:55:00,15:55:10,stop_point:SP_1186,Tibaous,16
+2291626,16:20:00,16:20:10,stop_point:SP_2701,Basso Cambo,1
+2291626,16:22:00,16:22:10,stop_point:SP_1645,Mesplé,2
+2291626,16:23:00,16:23:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291626,16:24:00,16:24:10,stop_point:SP_2310,Talabot Nord,4
+2291626,16:25:00,16:25:10,stop_point:SP_339,Avionique,5
+2291626,16:26:00,16:26:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291626,16:28:00,16:28:10,stop_point:SP_1747,Angély,7
+2291626,16:29:00,16:29:10,stop_point:SP_734,Liffard,8
+2291626,16:29:00,16:29:10,stop_point:SP_2363,Reguelongue,9
+2291626,16:30:00,16:30:10,stop_point:SP_52,Licard,10
+2291626,16:31:00,16:31:10,stop_point:SP_2563,Coin Fermé,11
+2291626,16:32:00,16:32:10,stop_point:SP_2381,Bayès,12
+2291626,16:33:00,16:33:10,stop_point:SP_323,Villenouvelle,13
+2291626,16:34:00,16:34:10,stop_point:SP_1682,Canto Laouzetto,14
+2291626,16:35:00,16:35:10,stop_point:SP_1489,Carovis,15
+2291626,16:36:00,16:36:10,stop_point:SP_1186,Tibaous,16
+2291627,17:00:00,17:00:10,stop_point:SP_2701,Basso Cambo,1
+2291627,17:02:00,17:02:10,stop_point:SP_1645,Mesplé,2
+2291627,17:03:00,17:03:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291627,17:04:00,17:04:10,stop_point:SP_2310,Talabot Nord,4
+2291627,17:05:00,17:05:10,stop_point:SP_339,Avionique,5
+2291627,17:06:00,17:06:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291627,17:08:00,17:08:10,stop_point:SP_1747,Angély,7
+2291627,17:09:00,17:09:10,stop_point:SP_734,Liffard,8
+2291627,17:09:00,17:09:10,stop_point:SP_2363,Reguelongue,9
+2291627,17:10:00,17:10:10,stop_point:SP_52,Licard,10
+2291627,17:11:00,17:11:10,stop_point:SP_2563,Coin Fermé,11
+2291627,17:12:00,17:12:10,stop_point:SP_2381,Bayès,12
+2291627,17:13:00,17:13:10,stop_point:SP_323,Villenouvelle,13
+2291627,17:14:00,17:14:10,stop_point:SP_1682,Canto Laouzetto,14
+2291627,17:15:00,17:15:10,stop_point:SP_1489,Carovis,15
+2291627,17:16:00,17:16:10,stop_point:SP_1186,Tibaous,16
+2291628,17:40:00,17:40:10,stop_point:SP_2701,Basso Cambo,1
+2291628,17:42:00,17:42:10,stop_point:SP_1645,Mesplé,2
+2291628,17:43:00,17:43:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291628,17:44:00,17:44:10,stop_point:SP_2310,Talabot Nord,4
+2291628,17:45:00,17:45:10,stop_point:SP_339,Avionique,5
+2291628,17:46:00,17:46:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291628,17:48:00,17:48:10,stop_point:SP_1747,Angély,7
+2291628,17:49:00,17:49:10,stop_point:SP_734,Liffard,8
+2291628,17:49:00,17:49:10,stop_point:SP_2363,Reguelongue,9
+2291628,17:50:00,17:50:10,stop_point:SP_52,Licard,10
+2291628,17:51:00,17:51:10,stop_point:SP_2563,Coin Fermé,11
+2291628,17:52:00,17:52:10,stop_point:SP_2381,Bayès,12
+2291628,17:53:00,17:53:10,stop_point:SP_323,Villenouvelle,13
+2291628,17:54:00,17:54:10,stop_point:SP_1682,Canto Laouzetto,14
+2291628,17:55:00,17:55:10,stop_point:SP_1489,Carovis,15
+2291628,17:56:00,17:56:10,stop_point:SP_1186,Tibaous,16
+2291629,18:20:00,18:20:10,stop_point:SP_2701,Basso Cambo,1
+2291629,18:22:00,18:22:10,stop_point:SP_1645,Mesplé,2
+2291629,18:23:00,18:23:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291629,18:24:00,18:24:10,stop_point:SP_2310,Talabot Nord,4
+2291629,18:25:00,18:25:10,stop_point:SP_339,Avionique,5
+2291629,18:26:00,18:26:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291629,18:28:00,18:28:10,stop_point:SP_1747,Angély,7
+2291629,18:29:00,18:29:10,stop_point:SP_734,Liffard,8
+2291629,18:29:00,18:29:10,stop_point:SP_2363,Reguelongue,9
+2291629,18:30:00,18:30:10,stop_point:SP_52,Licard,10
+2291629,18:31:00,18:31:10,stop_point:SP_2563,Coin Fermé,11
+2291629,18:32:00,18:32:10,stop_point:SP_2381,Bayès,12
+2291629,18:33:00,18:33:10,stop_point:SP_323,Villenouvelle,13
+2291629,18:34:00,18:34:10,stop_point:SP_1682,Canto Laouzetto,14
+2291629,18:35:00,18:35:10,stop_point:SP_1489,Carovis,15
+2291629,18:36:00,18:36:10,stop_point:SP_1186,Tibaous,16
+2291630,19:00:00,19:00:10,stop_point:SP_2701,Basso Cambo,1
+2291630,19:02:00,19:02:10,stop_point:SP_1645,Mesplé,2
+2291630,19:03:00,19:03:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291630,19:04:00,19:04:10,stop_point:SP_2310,Talabot Nord,4
+2291630,19:05:00,19:05:10,stop_point:SP_339,Avionique,5
+2291630,19:06:00,19:06:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291630,19:08:00,19:08:10,stop_point:SP_1747,Angély,7
+2291630,19:09:00,19:09:10,stop_point:SP_734,Liffard,8
+2291630,19:09:00,19:09:10,stop_point:SP_2363,Reguelongue,9
+2291630,19:10:00,19:10:10,stop_point:SP_52,Licard,10
+2291630,19:11:00,19:11:10,stop_point:SP_2563,Coin Fermé,11
+2291630,19:12:00,19:12:10,stop_point:SP_2381,Bayès,12
+2291630,19:13:00,19:13:10,stop_point:SP_323,Villenouvelle,13
+2291630,19:14:00,19:14:10,stop_point:SP_1682,Canto Laouzetto,14
+2291630,19:15:00,19:15:10,stop_point:SP_1489,Carovis,15
+2291630,19:16:00,19:16:10,stop_point:SP_1186,Tibaous,16
+2291631,19:40:00,19:40:10,stop_point:SP_2701,Basso Cambo,1
+2291631,19:42:00,19:42:10,stop_point:SP_1645,Mesplé,2
+2291631,19:43:00,19:43:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291631,19:44:00,19:44:10,stop_point:SP_2310,Talabot Nord,4
+2291631,19:45:00,19:45:10,stop_point:SP_339,Avionique,5
+2291631,19:46:00,19:46:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291631,19:48:00,19:48:10,stop_point:SP_1747,Angély,7
+2291631,19:49:00,19:49:10,stop_point:SP_734,Liffard,8
+2291631,19:49:00,19:49:10,stop_point:SP_2363,Reguelongue,9
+2291631,19:50:00,19:50:10,stop_point:SP_52,Licard,10
+2291631,19:51:00,19:51:10,stop_point:SP_2563,Coin Fermé,11
+2291631,19:52:00,19:52:10,stop_point:SP_2381,Bayès,12
+2291631,19:53:00,19:53:10,stop_point:SP_323,Villenouvelle,13
+2291631,19:54:00,19:54:10,stop_point:SP_1682,Canto Laouzetto,14
+2291631,19:55:00,19:55:10,stop_point:SP_1489,Carovis,15
+2291631,19:56:00,19:56:10,stop_point:SP_1186,Tibaous,16
+2291632,20:35:00,20:35:10,stop_point:SP_2701,Basso Cambo,1
+2291632,20:37:00,20:37:10,stop_point:SP_1645,Mesplé,2
+2291632,20:38:00,20:38:10,stop_point:SP_377,Pépinière Basso Cambo,3
+2291632,20:39:00,20:39:10,stop_point:SP_2310,Talabot Nord,4
+2291632,20:40:00,20:40:10,stop_point:SP_339,Avionique,5
+2291632,20:41:00,20:41:10,stop_point:SP_4837,Eisenhower Ouest,6
+2291632,20:43:00,20:43:10,stop_point:SP_1747,Angély,7
+2291632,20:44:00,20:44:10,stop_point:SP_734,Liffard,8
+2291632,20:44:00,20:44:10,stop_point:SP_2363,Reguelongue,9
+2291632,20:45:00,20:45:10,stop_point:SP_52,Licard,10
+2291632,20:46:00,20:46:10,stop_point:SP_2563,Coin Fermé,11
+2291632,20:46:00,20:46:10,stop_point:SP_2381,Bayès,12
+2291632,20:47:00,20:47:10,stop_point:SP_323,Villenouvelle,13
+2291632,20:48:00,20:48:10,stop_point:SP_1682,Canto Laouzetto,14
+2291632,20:49:00,20:49:10,stop_point:SP_1489,Carovis,15
+2291632,20:50:00,20:50:10,stop_point:SP_1186,Tibaous,16
+2291633,06:00:00,06:00:10,stop_point:SP_1186,Tibaous,1
+2291633,06:01:00,06:01:10,stop_point:SP_449,Carovis,2
+2291633,06:02:00,06:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291633,06:02:00,06:02:10,stop_point:SP_1028,Villenouvelle,4
+2291633,06:03:00,06:03:10,stop_point:SP_2385,Bayès,5
+2291633,06:03:00,06:03:10,stop_point:SP_3029,Coin Fermé,6
+2291633,06:04:00,06:04:10,stop_point:SP_3399,Licard,7
+2291633,06:04:00,06:04:10,stop_point:SP_3300,Reguelongue,8
+2291633,06:04:00,06:04:10,stop_point:SP_3821,Liffard,9
+2291633,06:05:00,06:05:10,stop_point:SP_1403,Angély,10
+2291633,06:06:00,06:06:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291633,06:07:00,06:07:10,stop_point:SP_1625,Avionique,12
+2291633,06:08:00,06:08:10,stop_point:SP_3416,Talabot Nord,13
+2291633,06:09:00,06:09:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291633,06:11:00,06:11:10,stop_point:SP_1867,Mesplé,15
+2291633,06:12:00,06:12:10,stop_point:SP_2701,Basso Cambo,16
+2291634,06:40:00,06:40:10,stop_point:SP_1186,Tibaous,1
+2291634,06:41:00,06:41:10,stop_point:SP_449,Carovis,2
+2291634,06:42:00,06:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291634,06:42:00,06:42:10,stop_point:SP_1028,Villenouvelle,4
+2291634,06:43:00,06:43:10,stop_point:SP_2385,Bayès,5
+2291634,06:43:00,06:43:10,stop_point:SP_3029,Coin Fermé,6
+2291634,06:44:00,06:44:10,stop_point:SP_3399,Licard,7
+2291634,06:44:00,06:44:10,stop_point:SP_3300,Reguelongue,8
+2291634,06:44:00,06:44:10,stop_point:SP_3821,Liffard,9
+2291634,06:45:00,06:45:10,stop_point:SP_1403,Angély,10
+2291634,06:46:00,06:46:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291634,06:47:00,06:47:10,stop_point:SP_1625,Avionique,12
+2291634,06:48:00,06:48:10,stop_point:SP_3416,Talabot Nord,13
+2291634,06:49:00,06:49:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291634,06:51:00,06:51:10,stop_point:SP_1867,Mesplé,15
+2291634,06:52:00,06:52:10,stop_point:SP_2701,Basso Cambo,16
+2291635,07:20:00,07:20:10,stop_point:SP_1186,Tibaous,1
+2291635,07:21:00,07:21:10,stop_point:SP_449,Carovis,2
+2291635,07:22:00,07:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291635,07:22:00,07:22:10,stop_point:SP_1028,Villenouvelle,4
+2291635,07:23:00,07:23:10,stop_point:SP_2385,Bayès,5
+2291635,07:23:00,07:23:10,stop_point:SP_3029,Coin Fermé,6
+2291635,07:24:00,07:24:10,stop_point:SP_3399,Licard,7
+2291635,07:24:00,07:24:10,stop_point:SP_3300,Reguelongue,8
+2291635,07:24:00,07:24:10,stop_point:SP_3821,Liffard,9
+2291635,07:25:00,07:25:10,stop_point:SP_1403,Angély,10
+2291635,07:26:00,07:26:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291635,07:27:00,07:27:10,stop_point:SP_1625,Avionique,12
+2291635,07:28:00,07:28:10,stop_point:SP_3416,Talabot Nord,13
+2291635,07:29:00,07:29:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291635,07:31:00,07:31:10,stop_point:SP_1867,Mesplé,15
+2291635,07:32:00,07:32:10,stop_point:SP_2701,Basso Cambo,16
+2291636,08:00:00,08:00:10,stop_point:SP_1186,Tibaous,1
+2291636,08:01:00,08:01:10,stop_point:SP_449,Carovis,2
+2291636,08:02:00,08:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291636,08:02:00,08:02:10,stop_point:SP_1028,Villenouvelle,4
+2291636,08:03:00,08:03:10,stop_point:SP_2385,Bayès,5
+2291636,08:03:00,08:03:10,stop_point:SP_3029,Coin Fermé,6
+2291636,08:04:00,08:04:10,stop_point:SP_3399,Licard,7
+2291636,08:04:00,08:04:10,stop_point:SP_3300,Reguelongue,8
+2291636,08:04:00,08:04:10,stop_point:SP_3821,Liffard,9
+2291636,08:05:00,08:05:10,stop_point:SP_1403,Angély,10
+2291636,08:06:00,08:06:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291636,08:07:00,08:07:10,stop_point:SP_1625,Avionique,12
+2291636,08:08:00,08:08:10,stop_point:SP_3416,Talabot Nord,13
+2291636,08:09:00,08:09:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291636,08:11:00,08:11:10,stop_point:SP_1867,Mesplé,15
+2291636,08:12:00,08:12:10,stop_point:SP_2701,Basso Cambo,16
+2291637,08:40:00,08:40:10,stop_point:SP_1186,Tibaous,1
+2291637,08:41:00,08:41:10,stop_point:SP_449,Carovis,2
+2291637,08:42:00,08:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291637,08:42:00,08:42:10,stop_point:SP_1028,Villenouvelle,4
+2291637,08:43:00,08:43:10,stop_point:SP_2385,Bayès,5
+2291637,08:43:00,08:43:10,stop_point:SP_3029,Coin Fermé,6
+2291637,08:44:00,08:44:10,stop_point:SP_3399,Licard,7
+2291637,08:44:00,08:44:10,stop_point:SP_3300,Reguelongue,8
+2291637,08:44:00,08:44:10,stop_point:SP_3821,Liffard,9
+2291637,08:45:00,08:45:10,stop_point:SP_1403,Angély,10
+2291637,08:46:00,08:46:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291637,08:47:00,08:47:10,stop_point:SP_1625,Avionique,12
+2291637,08:48:00,08:48:10,stop_point:SP_3416,Talabot Nord,13
+2291637,08:49:00,08:49:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291637,08:51:00,08:51:10,stop_point:SP_1867,Mesplé,15
+2291637,08:52:00,08:52:10,stop_point:SP_2701,Basso Cambo,16
+2291638,09:20:00,09:20:10,stop_point:SP_1186,Tibaous,1
+2291638,09:21:00,09:21:10,stop_point:SP_449,Carovis,2
+2291638,09:22:00,09:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291638,09:22:00,09:22:10,stop_point:SP_1028,Villenouvelle,4
+2291638,09:23:00,09:23:10,stop_point:SP_2385,Bayès,5
+2291638,09:24:00,09:24:10,stop_point:SP_3029,Coin Fermé,6
+2291638,09:24:00,09:24:10,stop_point:SP_3399,Licard,7
+2291638,09:25:00,09:25:10,stop_point:SP_3300,Reguelongue,8
+2291638,09:25:00,09:25:10,stop_point:SP_3821,Liffard,9
+2291638,09:26:00,09:26:10,stop_point:SP_1403,Angély,10
+2291638,09:27:00,09:27:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291638,09:28:00,09:28:10,stop_point:SP_1625,Avionique,12
+2291638,09:29:00,09:29:10,stop_point:SP_3416,Talabot Nord,13
+2291638,09:30:00,09:30:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291638,09:32:00,09:32:10,stop_point:SP_1867,Mesplé,15
+2291638,09:33:00,09:33:10,stop_point:SP_2701,Basso Cambo,16
+2291639,10:00:00,10:00:10,stop_point:SP_1186,Tibaous,1
+2291639,10:01:00,10:01:10,stop_point:SP_449,Carovis,2
+2291639,10:02:00,10:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291639,10:02:00,10:02:10,stop_point:SP_1028,Villenouvelle,4
+2291639,10:03:00,10:03:10,stop_point:SP_2385,Bayès,5
+2291639,10:04:00,10:04:10,stop_point:SP_3029,Coin Fermé,6
+2291639,10:04:00,10:04:10,stop_point:SP_3399,Licard,7
+2291639,10:05:00,10:05:10,stop_point:SP_3300,Reguelongue,8
+2291639,10:05:00,10:05:10,stop_point:SP_3821,Liffard,9
+2291639,10:06:00,10:06:10,stop_point:SP_1403,Angély,10
+2291639,10:07:00,10:07:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291639,10:08:00,10:08:10,stop_point:SP_1625,Avionique,12
+2291639,10:09:00,10:09:10,stop_point:SP_3416,Talabot Nord,13
+2291639,10:10:00,10:10:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291639,10:12:00,10:12:10,stop_point:SP_1867,Mesplé,15
+2291639,10:13:00,10:13:10,stop_point:SP_2701,Basso Cambo,16
+2291640,10:40:00,10:40:10,stop_point:SP_1186,Tibaous,1
+2291640,10:41:00,10:41:10,stop_point:SP_449,Carovis,2
+2291640,10:42:00,10:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291640,10:42:00,10:42:10,stop_point:SP_1028,Villenouvelle,4
+2291640,10:43:00,10:43:10,stop_point:SP_2385,Bayès,5
+2291640,10:44:00,10:44:10,stop_point:SP_3029,Coin Fermé,6
+2291640,10:44:00,10:44:10,stop_point:SP_3399,Licard,7
+2291640,10:45:00,10:45:10,stop_point:SP_3300,Reguelongue,8
+2291640,10:45:00,10:45:10,stop_point:SP_3821,Liffard,9
+2291640,10:46:00,10:46:10,stop_point:SP_1403,Angély,10
+2291640,10:47:00,10:47:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291640,10:48:00,10:48:10,stop_point:SP_1625,Avionique,12
+2291640,10:49:00,10:49:10,stop_point:SP_3416,Talabot Nord,13
+2291640,10:50:00,10:50:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291640,10:52:00,10:52:10,stop_point:SP_1867,Mesplé,15
+2291640,10:53:00,10:53:10,stop_point:SP_2701,Basso Cambo,16
+2291641,11:20:00,11:20:10,stop_point:SP_1186,Tibaous,1
+2291641,11:21:00,11:21:10,stop_point:SP_449,Carovis,2
+2291641,11:22:00,11:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291641,11:22:00,11:22:10,stop_point:SP_1028,Villenouvelle,4
+2291641,11:23:00,11:23:10,stop_point:SP_2385,Bayès,5
+2291641,11:24:00,11:24:10,stop_point:SP_3029,Coin Fermé,6
+2291641,11:24:00,11:24:10,stop_point:SP_3399,Licard,7
+2291641,11:25:00,11:25:10,stop_point:SP_3300,Reguelongue,8
+2291641,11:25:00,11:25:10,stop_point:SP_3821,Liffard,9
+2291641,11:26:00,11:26:10,stop_point:SP_1403,Angély,10
+2291641,11:27:00,11:27:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291641,11:28:00,11:28:10,stop_point:SP_1625,Avionique,12
+2291641,11:29:00,11:29:10,stop_point:SP_3416,Talabot Nord,13
+2291641,11:30:00,11:30:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291641,11:32:00,11:32:10,stop_point:SP_1867,Mesplé,15
+2291641,11:33:00,11:33:10,stop_point:SP_2701,Basso Cambo,16
+2291642,12:00:00,12:00:10,stop_point:SP_1186,Tibaous,1
+2291642,12:01:00,12:01:10,stop_point:SP_449,Carovis,2
+2291642,12:02:00,12:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291642,12:02:00,12:02:10,stop_point:SP_1028,Villenouvelle,4
+2291642,12:03:00,12:03:10,stop_point:SP_2385,Bayès,5
+2291642,12:04:00,12:04:10,stop_point:SP_3029,Coin Fermé,6
+2291642,12:04:00,12:04:10,stop_point:SP_3399,Licard,7
+2291642,12:05:00,12:05:10,stop_point:SP_3300,Reguelongue,8
+2291642,12:05:00,12:05:10,stop_point:SP_3821,Liffard,9
+2291642,12:06:00,12:06:10,stop_point:SP_1403,Angély,10
+2291642,12:07:00,12:07:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291642,12:08:00,12:08:10,stop_point:SP_1625,Avionique,12
+2291642,12:09:00,12:09:10,stop_point:SP_3416,Talabot Nord,13
+2291642,12:10:00,12:10:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291642,12:12:00,12:12:10,stop_point:SP_1867,Mesplé,15
+2291642,12:13:00,12:13:10,stop_point:SP_2701,Basso Cambo,16
+2291643,12:40:00,12:40:10,stop_point:SP_1186,Tibaous,1
+2291643,12:41:00,12:41:10,stop_point:SP_449,Carovis,2
+2291643,12:42:00,12:42:10,stop_point:SP_2620,Canto Laouzetto,3
+2291643,12:42:00,12:42:10,stop_point:SP_1028,Villenouvelle,4
+2291643,12:43:00,12:43:10,stop_point:SP_2385,Bayès,5
+2291643,12:44:00,12:44:10,stop_point:SP_3029,Coin Fermé,6
+2291643,12:44:00,12:44:10,stop_point:SP_3399,Licard,7
+2291643,12:45:00,12:45:10,stop_point:SP_3300,Reguelongue,8
+2291643,12:45:00,12:45:10,stop_point:SP_3821,Liffard,9
+2291643,12:46:00,12:46:10,stop_point:SP_1403,Angély,10
+2291643,12:47:00,12:47:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291643,12:48:00,12:48:10,stop_point:SP_1625,Avionique,12
+2291643,12:49:00,12:49:10,stop_point:SP_3416,Talabot Nord,13
+2291643,12:50:00,12:50:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291643,12:52:00,12:52:10,stop_point:SP_1867,Mesplé,15
+2291643,12:53:00,12:53:10,stop_point:SP_2701,Basso Cambo,16
+2291644,13:20:00,13:20:10,stop_point:SP_1186,Tibaous,1
+2291644,13:21:00,13:21:10,stop_point:SP_449,Carovis,2
+2291644,13:22:00,13:22:10,stop_point:SP_2620,Canto Laouzetto,3
+2291644,13:22:00,13:22:10,stop_point:SP_1028,Villenouvelle,4
+2291644,13:23:00,13:23:10,stop_point:SP_2385,Bayès,5
+2291644,13:24:00,13:24:10,stop_point:SP_3029,Coin Fermé,6
+2291644,13:24:00,13:24:10,stop_point:SP_3399,Licard,7
+2291644,13:25:00,13:25:10,stop_point:SP_3300,Reguelongue,8
+2291644,13:25:00,13:25:10,stop_point:SP_3821,Liffard,9
+2291644,13:26:00,13:26:10,stop_point:SP_1403,Angély,10
+2291644,13:27:00,13:27:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291644,13:28:00,13:28:10,stop_point:SP_1625,Avionique,12
+2291644,13:29:00,13:29:10,stop_point:SP_3416,Talabot Nord,13
+2291644,13:30:00,13:30:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291644,13:32:00,13:32:10,stop_point:SP_1867,Mesplé,15
+2291644,13:33:00,13:33:10,stop_point:SP_2701,Basso Cambo,16
+2291645,14:00:00,14:00:10,stop_point:SP_1186,Tibaous,1
+2291645,14:01:00,14:01:10,stop_point:SP_449,Carovis,2
+2291645,14:02:00,14:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291645,14:02:00,14:02:10,stop_point:SP_1028,Villenouvelle,4
+2291645,14:03:00,14:03:10,stop_point:SP_2385,Bayès,5
+2291645,14:04:00,14:04:10,stop_point:SP_3029,Coin Fermé,6
+2291645,14:04:00,14:04:10,stop_point:SP_3399,Licard,7
+2291645,14:05:00,14:05:10,stop_point:SP_3300,Reguelongue,8
+2291645,14:05:00,14:05:10,stop_point:SP_3821,Liffard,9
+2291645,14:06:00,14:06:10,stop_point:SP_1403,Angély,10
+2291645,14:07:00,14:07:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291645,14:08:00,14:08:10,stop_point:SP_1625,Avionique,12
+2291645,14:09:00,14:09:10,stop_point:SP_3416,Talabot Nord,13
+2291645,14:10:00,14:10:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291645,14:12:00,14:12:10,stop_point:SP_1867,Mesplé,15
+2291645,14:13:00,14:13:10,stop_point:SP_2701,Basso Cambo,16
+2291646,14:45:00,14:45:10,stop_point:SP_1186,Tibaous,1
+2291646,14:46:00,14:46:10,stop_point:SP_449,Carovis,2
+2291646,14:47:00,14:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291646,14:47:00,14:47:10,stop_point:SP_1028,Villenouvelle,4
+2291646,14:48:00,14:48:10,stop_point:SP_2385,Bayès,5
+2291646,14:49:00,14:49:10,stop_point:SP_3029,Coin Fermé,6
+2291646,14:49:00,14:49:10,stop_point:SP_3399,Licard,7
+2291646,14:50:00,14:50:10,stop_point:SP_3300,Reguelongue,8
+2291646,14:50:00,14:50:10,stop_point:SP_3821,Liffard,9
+2291646,14:51:00,14:51:10,stop_point:SP_1403,Angély,10
+2291646,14:52:00,14:52:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291646,14:53:00,14:53:10,stop_point:SP_1625,Avionique,12
+2291646,14:54:00,14:54:10,stop_point:SP_3416,Talabot Nord,13
+2291646,14:55:00,14:55:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291646,14:57:00,14:57:10,stop_point:SP_1867,Mesplé,15
+2291646,14:58:00,14:58:10,stop_point:SP_2701,Basso Cambo,16
+2291647,15:25:00,15:25:10,stop_point:SP_1186,Tibaous,1
+2291647,15:26:00,15:26:10,stop_point:SP_449,Carovis,2
+2291647,15:27:00,15:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291647,15:27:00,15:27:10,stop_point:SP_1028,Villenouvelle,4
+2291647,15:28:00,15:28:10,stop_point:SP_2385,Bayès,5
+2291647,15:29:00,15:29:10,stop_point:SP_3029,Coin Fermé,6
+2291647,15:29:00,15:29:10,stop_point:SP_3399,Licard,7
+2291647,15:30:00,15:30:10,stop_point:SP_3300,Reguelongue,8
+2291647,15:30:00,15:30:10,stop_point:SP_3821,Liffard,9
+2291647,15:31:00,15:31:10,stop_point:SP_1403,Angély,10
+2291647,15:32:00,15:32:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291647,15:33:00,15:33:10,stop_point:SP_1625,Avionique,12
+2291647,15:34:00,15:34:10,stop_point:SP_3416,Talabot Nord,13
+2291647,15:35:00,15:35:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291647,15:37:00,15:37:10,stop_point:SP_1867,Mesplé,15
+2291647,15:38:00,15:38:10,stop_point:SP_2701,Basso Cambo,16
+2291648,16:05:00,16:05:10,stop_point:SP_1186,Tibaous,1
+2291648,16:06:00,16:06:10,stop_point:SP_449,Carovis,2
+2291648,16:07:00,16:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291648,16:07:00,16:07:10,stop_point:SP_1028,Villenouvelle,4
+2291648,16:08:00,16:08:10,stop_point:SP_2385,Bayès,5
+2291648,16:09:00,16:09:10,stop_point:SP_3029,Coin Fermé,6
+2291648,16:09:00,16:09:10,stop_point:SP_3399,Licard,7
+2291648,16:10:00,16:10:10,stop_point:SP_3300,Reguelongue,8
+2291648,16:10:00,16:10:10,stop_point:SP_3821,Liffard,9
+2291648,16:11:00,16:11:10,stop_point:SP_1403,Angély,10
+2291648,16:12:00,16:12:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291648,16:13:00,16:13:10,stop_point:SP_1625,Avionique,12
+2291648,16:14:00,16:14:10,stop_point:SP_3416,Talabot Nord,13
+2291648,16:15:00,16:15:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291648,16:17:00,16:17:10,stop_point:SP_1867,Mesplé,15
+2291648,16:18:00,16:18:10,stop_point:SP_2701,Basso Cambo,16
+2291649,16:45:00,16:45:10,stop_point:SP_1186,Tibaous,1
+2291649,16:46:00,16:46:10,stop_point:SP_449,Carovis,2
+2291649,16:47:00,16:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291649,16:47:00,16:47:10,stop_point:SP_1028,Villenouvelle,4
+2291649,16:48:00,16:48:10,stop_point:SP_2385,Bayès,5
+2291649,16:49:00,16:49:10,stop_point:SP_3029,Coin Fermé,6
+2291649,16:49:00,16:49:10,stop_point:SP_3399,Licard,7
+2291649,16:50:00,16:50:10,stop_point:SP_3300,Reguelongue,8
+2291649,16:50:00,16:50:10,stop_point:SP_3821,Liffard,9
+2291649,16:51:00,16:51:10,stop_point:SP_1403,Angély,10
+2291649,16:52:00,16:52:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291649,16:53:00,16:53:10,stop_point:SP_1625,Avionique,12
+2291649,16:54:00,16:54:10,stop_point:SP_3416,Talabot Nord,13
+2291649,16:55:00,16:55:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291649,16:57:00,16:57:10,stop_point:SP_1867,Mesplé,15
+2291649,16:58:00,16:58:10,stop_point:SP_2701,Basso Cambo,16
+2291650,17:25:00,17:25:10,stop_point:SP_1186,Tibaous,1
+2291650,17:26:00,17:26:10,stop_point:SP_449,Carovis,2
+2291650,17:27:00,17:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291650,17:27:00,17:27:10,stop_point:SP_1028,Villenouvelle,4
+2291650,17:28:00,17:28:10,stop_point:SP_2385,Bayès,5
+2291650,17:29:00,17:29:10,stop_point:SP_3029,Coin Fermé,6
+2291650,17:29:00,17:29:10,stop_point:SP_3399,Licard,7
+2291650,17:30:00,17:30:10,stop_point:SP_3300,Reguelongue,8
+2291650,17:30:00,17:30:10,stop_point:SP_3821,Liffard,9
+2291650,17:31:00,17:31:10,stop_point:SP_1403,Angély,10
+2291650,17:32:00,17:32:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291650,17:33:00,17:33:10,stop_point:SP_1625,Avionique,12
+2291650,17:34:00,17:34:10,stop_point:SP_3416,Talabot Nord,13
+2291650,17:35:00,17:35:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291650,17:37:00,17:37:10,stop_point:SP_1867,Mesplé,15
+2291650,17:38:00,17:38:10,stop_point:SP_2701,Basso Cambo,16
+2291651,18:05:00,18:05:10,stop_point:SP_1186,Tibaous,1
+2291651,18:06:00,18:06:10,stop_point:SP_449,Carovis,2
+2291651,18:07:00,18:07:10,stop_point:SP_2620,Canto Laouzetto,3
+2291651,18:07:00,18:07:10,stop_point:SP_1028,Villenouvelle,4
+2291651,18:08:00,18:08:10,stop_point:SP_2385,Bayès,5
+2291651,18:09:00,18:09:10,stop_point:SP_3029,Coin Fermé,6
+2291651,18:09:00,18:09:10,stop_point:SP_3399,Licard,7
+2291651,18:10:00,18:10:10,stop_point:SP_3300,Reguelongue,8
+2291651,18:10:00,18:10:10,stop_point:SP_3821,Liffard,9
+2291651,18:11:00,18:11:10,stop_point:SP_1403,Angély,10
+2291651,18:12:00,18:12:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291651,18:13:00,18:13:10,stop_point:SP_1625,Avionique,12
+2291651,18:14:00,18:14:10,stop_point:SP_3416,Talabot Nord,13
+2291651,18:15:00,18:15:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291651,18:17:00,18:17:10,stop_point:SP_1867,Mesplé,15
+2291651,18:18:00,18:18:10,stop_point:SP_2701,Basso Cambo,16
+2291652,18:45:00,18:45:10,stop_point:SP_1186,Tibaous,1
+2291652,18:46:00,18:46:10,stop_point:SP_449,Carovis,2
+2291652,18:47:00,18:47:10,stop_point:SP_2620,Canto Laouzetto,3
+2291652,18:47:00,18:47:10,stop_point:SP_1028,Villenouvelle,4
+2291652,18:48:00,18:48:10,stop_point:SP_2385,Bayès,5
+2291652,18:49:00,18:49:10,stop_point:SP_3029,Coin Fermé,6
+2291652,18:49:00,18:49:10,stop_point:SP_3399,Licard,7
+2291652,18:50:00,18:50:10,stop_point:SP_3300,Reguelongue,8
+2291652,18:50:00,18:50:10,stop_point:SP_3821,Liffard,9
+2291652,18:51:00,18:51:10,stop_point:SP_1403,Angély,10
+2291652,18:52:00,18:52:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291652,18:53:00,18:53:10,stop_point:SP_1625,Avionique,12
+2291652,18:54:00,18:54:10,stop_point:SP_3416,Talabot Nord,13
+2291652,18:55:00,18:55:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291652,18:57:00,18:57:10,stop_point:SP_1867,Mesplé,15
+2291652,18:58:00,18:58:10,stop_point:SP_2701,Basso Cambo,16
+2291653,19:25:00,19:25:10,stop_point:SP_1186,Tibaous,1
+2291653,19:26:00,19:26:10,stop_point:SP_449,Carovis,2
+2291653,19:27:00,19:27:10,stop_point:SP_2620,Canto Laouzetto,3
+2291653,19:27:00,19:27:10,stop_point:SP_1028,Villenouvelle,4
+2291653,19:28:00,19:28:10,stop_point:SP_2385,Bayès,5
+2291653,19:29:00,19:29:10,stop_point:SP_3029,Coin Fermé,6
+2291653,19:29:00,19:29:10,stop_point:SP_3399,Licard,7
+2291653,19:30:00,19:30:10,stop_point:SP_3300,Reguelongue,8
+2291653,19:30:00,19:30:10,stop_point:SP_3821,Liffard,9
+2291653,19:31:00,19:31:10,stop_point:SP_1403,Angély,10
+2291653,19:32:00,19:32:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291653,19:33:00,19:33:10,stop_point:SP_1625,Avionique,12
+2291653,19:34:00,19:34:10,stop_point:SP_3416,Talabot Nord,13
+2291653,19:35:00,19:35:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291653,19:37:00,19:37:10,stop_point:SP_1867,Mesplé,15
+2291653,19:38:00,19:38:10,stop_point:SP_2701,Basso Cambo,16
+2291654,20:10:00,20:10:10,stop_point:SP_1186,Tibaous,1
+2291654,20:11:00,20:11:10,stop_point:SP_449,Carovis,2
+2291654,20:12:00,20:12:10,stop_point:SP_2620,Canto Laouzetto,3
+2291654,20:12:00,20:12:10,stop_point:SP_1028,Villenouvelle,4
+2291654,20:13:00,20:13:10,stop_point:SP_2385,Bayès,5
+2291654,20:14:00,20:14:10,stop_point:SP_3029,Coin Fermé,6
+2291654,20:14:00,20:14:10,stop_point:SP_3399,Licard,7
+2291654,20:15:00,20:15:10,stop_point:SP_3300,Reguelongue,8
+2291654,20:15:00,20:15:10,stop_point:SP_3821,Liffard,9
+2291654,20:16:00,20:16:10,stop_point:SP_1403,Angély,10
+2291654,20:17:00,20:17:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291654,20:18:00,20:18:10,stop_point:SP_1625,Avionique,12
+2291654,20:19:00,20:19:10,stop_point:SP_3416,Talabot Nord,13
+2291654,20:20:00,20:20:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291654,20:22:00,20:22:10,stop_point:SP_1867,Mesplé,15
+2291654,20:23:00,20:23:10,stop_point:SP_2701,Basso Cambo,16
+2291655,21:00:00,21:00:10,stop_point:SP_1186,Tibaous,1
+2291655,21:01:00,21:01:10,stop_point:SP_449,Carovis,2
+2291655,21:02:00,21:02:10,stop_point:SP_2620,Canto Laouzetto,3
+2291655,21:02:00,21:02:10,stop_point:SP_1028,Villenouvelle,4
+2291655,21:03:00,21:03:10,stop_point:SP_2385,Bayès,5
+2291655,21:04:00,21:04:10,stop_point:SP_3029,Coin Fermé,6
+2291655,21:04:00,21:04:10,stop_point:SP_3399,Licard,7
+2291655,21:05:00,21:05:10,stop_point:SP_3300,Reguelongue,8
+2291655,21:05:00,21:05:10,stop_point:SP_3821,Liffard,9
+2291655,21:06:00,21:06:10,stop_point:SP_1403,Angély,10
+2291655,21:07:00,21:07:10,stop_point:SP_4836,Eisenhower Ouest,11
+2291655,21:08:00,21:08:10,stop_point:SP_1625,Avionique,12
+2291655,21:09:00,21:09:10,stop_point:SP_3416,Talabot Nord,13
+2291655,21:10:00,21:10:10,stop_point:SP_1431,Pépinière Basso Cambo,14
+2291655,21:12:00,21:12:10,stop_point:SP_1867,Mesplé,15
+2291655,21:13:00,21:13:10,stop_point:SP_2701,Basso Cambo,16

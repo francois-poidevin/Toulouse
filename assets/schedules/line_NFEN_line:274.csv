@@ -1,0 +1,1994 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2361992,07:50:00,07:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361992,07:51:00,07:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361992,07:52:00,07:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361992,07:53:00,07:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361992,07:59:00,07:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361992,08:02:00,08:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361992,08:04:00,08:04:10,stop_point:SP_2234,Avenir,7
+2361992,08:05:00,08:05:10,stop_point:SP_4920,Gagnac,8
+2361992,08:05:00,08:05:10,stop_point:SP_1626,Moulin,9
+2361992,08:06:00,08:06:10,stop_point:SP_1007,Voie Romaine,10
+2361992,08:07:00,08:07:10,stop_point:SP_1761,Berbie Blaize,11
+2361992,08:08:00,08:08:10,stop_point:SP_920,Mairie Gagnac,12
+2361992,08:09:00,08:09:10,stop_point:SP_7,Chêne Vert,13
+2361992,08:11:00,08:11:10,stop_point:SP_142,Montplaisir,14
+2361992,08:13:00,08:13:10,stop_point:SP_1796,Fenouillet Croix,15
+2361992,08:14:00,08:14:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361992,08:15:00,08:15:10,stop_point:SP_2487,Gourgues,17
+2361992,08:15:00,08:15:10,stop_point:SP_2769,Billières,18
+2361992,08:16:00,08:16:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361992,08:17:00,08:17:10,stop_point:SP_4917,Tilleuls,20
+2361992,08:17:00,08:17:10,stop_point:SP_1893,Languedoc,21
+2361992,08:18:00,08:18:10,stop_point:SP_2417,Clos,22
+2361992,08:19:00,08:19:10,stop_point:SP_823,Tournelle,23
+2361992,08:19:00,08:19:10,stop_point:SP_1046,Tournelle,24
+2361993,08:50:00,08:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361993,08:51:00,08:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361993,08:52:00,08:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361993,08:53:00,08:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361993,08:59:00,08:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361993,09:02:00,09:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361993,09:04:00,09:04:10,stop_point:SP_2234,Avenir,7
+2361993,09:04:00,09:04:10,stop_point:SP_4920,Gagnac,8
+2361993,09:05:00,09:05:10,stop_point:SP_1626,Moulin,9
+2361993,09:06:00,09:06:10,stop_point:SP_1007,Voie Romaine,10
+2361993,09:06:00,09:06:10,stop_point:SP_1761,Berbie Blaize,11
+2361993,09:07:00,09:07:10,stop_point:SP_920,Mairie Gagnac,12
+2361993,09:08:00,09:08:10,stop_point:SP_7,Chêne Vert,13
+2361993,09:10:00,09:10:10,stop_point:SP_142,Montplaisir,14
+2361993,09:12:00,09:12:10,stop_point:SP_1796,Fenouillet Croix,15
+2361993,09:12:00,09:12:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361993,09:13:00,09:13:10,stop_point:SP_2487,Gourgues,17
+2361993,09:14:00,09:14:10,stop_point:SP_2769,Billières,18
+2361993,09:14:00,09:14:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361993,09:15:00,09:15:10,stop_point:SP_4917,Tilleuls,20
+2361993,09:16:00,09:16:10,stop_point:SP_1893,Languedoc,21
+2361993,09:16:00,09:16:10,stop_point:SP_2417,Clos,22
+2361993,09:17:00,09:17:10,stop_point:SP_823,Tournelle,23
+2361993,09:17:00,09:17:10,stop_point:SP_1046,Tournelle,24
+2361994,09:50:00,09:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361994,09:51:00,09:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361994,09:52:00,09:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361994,09:53:00,09:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361994,09:59:00,09:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361994,10:02:00,10:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361994,10:04:00,10:04:10,stop_point:SP_2234,Avenir,7
+2361994,10:04:00,10:04:10,stop_point:SP_4920,Gagnac,8
+2361994,10:05:00,10:05:10,stop_point:SP_1626,Moulin,9
+2361994,10:06:00,10:06:10,stop_point:SP_1007,Voie Romaine,10
+2361994,10:06:00,10:06:10,stop_point:SP_1761,Berbie Blaize,11
+2361994,10:07:00,10:07:10,stop_point:SP_920,Mairie Gagnac,12
+2361994,10:08:00,10:08:10,stop_point:SP_7,Chêne Vert,13
+2361994,10:10:00,10:10:10,stop_point:SP_142,Montplaisir,14
+2361994,10:12:00,10:12:10,stop_point:SP_1796,Fenouillet Croix,15
+2361994,10:12:00,10:12:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361994,10:13:00,10:13:10,stop_point:SP_2487,Gourgues,17
+2361994,10:14:00,10:14:10,stop_point:SP_2769,Billières,18
+2361994,10:14:00,10:14:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361994,10:15:00,10:15:10,stop_point:SP_4917,Tilleuls,20
+2361994,10:16:00,10:16:10,stop_point:SP_1893,Languedoc,21
+2361994,10:16:00,10:16:10,stop_point:SP_2417,Clos,22
+2361994,10:17:00,10:17:10,stop_point:SP_823,Tournelle,23
+2361994,10:17:00,10:17:10,stop_point:SP_1046,Tournelle,24
+2361995,10:50:00,10:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361995,10:51:00,10:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361995,10:52:00,10:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361995,10:53:00,10:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361995,10:59:00,10:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361995,11:02:00,11:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361995,11:04:00,11:04:10,stop_point:SP_2234,Avenir,7
+2361995,11:04:00,11:04:10,stop_point:SP_4920,Gagnac,8
+2361995,11:05:00,11:05:10,stop_point:SP_1626,Moulin,9
+2361995,11:06:00,11:06:10,stop_point:SP_1007,Voie Romaine,10
+2361995,11:06:00,11:06:10,stop_point:SP_1761,Berbie Blaize,11
+2361995,11:07:00,11:07:10,stop_point:SP_920,Mairie Gagnac,12
+2361995,11:08:00,11:08:10,stop_point:SP_7,Chêne Vert,13
+2361995,11:10:00,11:10:10,stop_point:SP_142,Montplaisir,14
+2361995,11:12:00,11:12:10,stop_point:SP_1796,Fenouillet Croix,15
+2361995,11:12:00,11:12:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361995,11:13:00,11:13:10,stop_point:SP_2487,Gourgues,17
+2361995,11:14:00,11:14:10,stop_point:SP_2769,Billières,18
+2361995,11:14:00,11:14:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361995,11:15:00,11:15:10,stop_point:SP_4917,Tilleuls,20
+2361995,11:16:00,11:16:10,stop_point:SP_1893,Languedoc,21
+2361995,11:16:00,11:16:10,stop_point:SP_2417,Clos,22
+2361995,11:17:00,11:17:10,stop_point:SP_823,Tournelle,23
+2361995,11:17:00,11:17:10,stop_point:SP_1046,Tournelle,24
+2361996,11:50:00,11:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361996,11:51:00,11:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361996,11:52:00,11:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361996,11:53:00,11:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361996,11:59:00,11:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361996,12:02:00,12:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361996,12:04:00,12:04:10,stop_point:SP_2234,Avenir,7
+2361996,12:04:00,12:04:10,stop_point:SP_4920,Gagnac,8
+2361996,12:05:00,12:05:10,stop_point:SP_1626,Moulin,9
+2361996,12:06:00,12:06:10,stop_point:SP_1007,Voie Romaine,10
+2361996,12:06:00,12:06:10,stop_point:SP_1761,Berbie Blaize,11
+2361996,12:07:00,12:07:10,stop_point:SP_920,Mairie Gagnac,12
+2361996,12:08:00,12:08:10,stop_point:SP_7,Chêne Vert,13
+2361996,12:10:00,12:10:10,stop_point:SP_142,Montplaisir,14
+2361996,12:12:00,12:12:10,stop_point:SP_1796,Fenouillet Croix,15
+2361996,12:12:00,12:12:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361996,12:13:00,12:13:10,stop_point:SP_2487,Gourgues,17
+2361996,12:14:00,12:14:10,stop_point:SP_2769,Billières,18
+2361996,12:14:00,12:14:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361996,12:15:00,12:15:10,stop_point:SP_4917,Tilleuls,20
+2361996,12:16:00,12:16:10,stop_point:SP_1893,Languedoc,21
+2361996,12:16:00,12:16:10,stop_point:SP_2417,Clos,22
+2361996,12:17:00,12:17:10,stop_point:SP_823,Tournelle,23
+2361996,12:17:00,12:17:10,stop_point:SP_1046,Tournelle,24
+2361997,12:50:00,12:50:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361997,12:51:00,12:51:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361997,12:52:00,12:52:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361997,12:53:00,12:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361997,12:59:00,12:59:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361997,13:02:00,13:02:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361997,13:04:00,13:04:10,stop_point:SP_2234,Avenir,7
+2361997,13:04:00,13:04:10,stop_point:SP_4920,Gagnac,8
+2361997,13:05:00,13:05:10,stop_point:SP_1626,Moulin,9
+2361997,13:06:00,13:06:10,stop_point:SP_1007,Voie Romaine,10
+2361997,13:06:00,13:06:10,stop_point:SP_1761,Berbie Blaize,11
+2361997,13:07:00,13:07:10,stop_point:SP_920,Mairie Gagnac,12
+2361997,13:08:00,13:08:10,stop_point:SP_7,Chêne Vert,13
+2361997,13:10:00,13:10:10,stop_point:SP_142,Montplaisir,14
+2361997,13:12:00,13:12:10,stop_point:SP_1796,Fenouillet Croix,15
+2361997,13:12:00,13:12:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361997,13:13:00,13:13:10,stop_point:SP_2487,Gourgues,17
+2361997,13:14:00,13:14:10,stop_point:SP_2769,Billières,18
+2361997,13:14:00,13:14:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361997,13:15:00,13:15:10,stop_point:SP_4917,Tilleuls,20
+2361997,13:16:00,13:16:10,stop_point:SP_1893,Languedoc,21
+2361997,13:16:00,13:16:10,stop_point:SP_2417,Clos,22
+2361997,13:17:00,13:17:10,stop_point:SP_823,Tournelle,23
+2361997,13:17:00,13:17:10,stop_point:SP_1046,Tournelle,24
+2361998,14:00:00,14:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361998,14:01:00,14:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361998,14:02:00,14:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361998,14:03:00,14:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361998,14:09:00,14:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361998,14:12:00,14:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361998,14:14:00,14:14:10,stop_point:SP_2234,Avenir,7
+2361998,14:14:00,14:14:10,stop_point:SP_4920,Gagnac,8
+2361998,14:15:00,14:15:10,stop_point:SP_1626,Moulin,9
+2361998,14:16:00,14:16:10,stop_point:SP_1007,Voie Romaine,10
+2361998,14:16:00,14:16:10,stop_point:SP_1761,Berbie Blaize,11
+2361998,14:17:00,14:17:10,stop_point:SP_920,Mairie Gagnac,12
+2361998,14:18:00,14:18:10,stop_point:SP_7,Chêne Vert,13
+2361998,14:20:00,14:20:10,stop_point:SP_142,Montplaisir,14
+2361998,14:22:00,14:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2361998,14:22:00,14:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361998,14:23:00,14:23:10,stop_point:SP_2487,Gourgues,17
+2361998,14:24:00,14:24:10,stop_point:SP_2769,Billières,18
+2361998,14:24:00,14:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361998,14:25:00,14:25:10,stop_point:SP_4917,Tilleuls,20
+2361998,14:26:00,14:26:10,stop_point:SP_1893,Languedoc,21
+2361998,14:26:00,14:26:10,stop_point:SP_2417,Clos,22
+2361998,14:27:00,14:27:10,stop_point:SP_823,Tournelle,23
+2361998,14:27:00,14:27:10,stop_point:SP_1046,Tournelle,24
+2361999,15:05:00,15:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2361999,15:06:00,15:06:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2361999,15:07:00,15:07:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2361999,15:08:00,15:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2361999,15:14:00,15:14:10,stop_point:SP_5215,Lespinasse Mairie,5
+2361999,15:17:00,15:17:10,stop_point:SP_3555,Lespinasse Mairie,6
+2361999,15:19:00,15:19:10,stop_point:SP_2234,Avenir,7
+2361999,15:19:00,15:19:10,stop_point:SP_4920,Gagnac,8
+2361999,15:20:00,15:20:10,stop_point:SP_1626,Moulin,9
+2361999,15:21:00,15:21:10,stop_point:SP_1007,Voie Romaine,10
+2361999,15:21:00,15:21:10,stop_point:SP_1761,Berbie Blaize,11
+2361999,15:22:00,15:22:10,stop_point:SP_920,Mairie Gagnac,12
+2361999,15:23:00,15:23:10,stop_point:SP_7,Chêne Vert,13
+2361999,15:25:00,15:25:10,stop_point:SP_142,Montplaisir,14
+2361999,15:27:00,15:27:10,stop_point:SP_1796,Fenouillet Croix,15
+2361999,15:27:00,15:27:10,stop_point:SP_3344,Eglise Fenouillet,16
+2361999,15:28:00,15:28:10,stop_point:SP_2487,Gourgues,17
+2361999,15:29:00,15:29:10,stop_point:SP_2769,Billières,18
+2361999,15:29:00,15:29:10,stop_point:SP_2424,Mairie Fenouillet,19
+2361999,15:30:00,15:30:10,stop_point:SP_4917,Tilleuls,20
+2361999,15:31:00,15:31:10,stop_point:SP_1893,Languedoc,21
+2361999,15:31:00,15:31:10,stop_point:SP_2417,Clos,22
+2361999,15:32:00,15:32:10,stop_point:SP_823,Tournelle,23
+2361999,15:32:00,15:32:10,stop_point:SP_1046,Tournelle,24
+2362000,16:05:00,16:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362000,16:06:00,16:06:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362000,16:07:00,16:07:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362000,16:08:00,16:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362000,16:14:00,16:14:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362000,16:17:00,16:17:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362000,16:19:00,16:19:10,stop_point:SP_2234,Avenir,7
+2362000,16:19:00,16:19:10,stop_point:SP_4920,Gagnac,8
+2362000,16:20:00,16:20:10,stop_point:SP_1626,Moulin,9
+2362000,16:21:00,16:21:10,stop_point:SP_1007,Voie Romaine,10
+2362000,16:21:00,16:21:10,stop_point:SP_1761,Berbie Blaize,11
+2362000,16:22:00,16:22:10,stop_point:SP_920,Mairie Gagnac,12
+2362000,16:23:00,16:23:10,stop_point:SP_7,Chêne Vert,13
+2362000,16:25:00,16:25:10,stop_point:SP_142,Montplaisir,14
+2362000,16:27:00,16:27:10,stop_point:SP_1796,Fenouillet Croix,15
+2362000,16:27:00,16:27:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362000,16:28:00,16:28:10,stop_point:SP_2487,Gourgues,17
+2362000,16:29:00,16:29:10,stop_point:SP_2769,Billières,18
+2362000,16:29:00,16:29:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362000,16:30:00,16:30:10,stop_point:SP_4917,Tilleuls,20
+2362000,16:31:00,16:31:10,stop_point:SP_1893,Languedoc,21
+2362000,16:31:00,16:31:10,stop_point:SP_2417,Clos,22
+2362000,16:32:00,16:32:10,stop_point:SP_823,Tournelle,23
+2362000,16:32:00,16:32:10,stop_point:SP_1046,Tournelle,24
+2362001,17:05:00,17:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362001,17:06:00,17:06:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362001,17:07:00,17:07:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362001,17:08:00,17:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362001,17:16:00,17:16:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362001,17:19:00,17:19:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362001,17:21:00,17:21:10,stop_point:SP_2234,Avenir,7
+2362001,17:22:00,17:22:10,stop_point:SP_4920,Gagnac,8
+2362001,17:22:00,17:22:10,stop_point:SP_1626,Moulin,9
+2362001,17:23:00,17:23:10,stop_point:SP_1007,Voie Romaine,10
+2362001,17:24:00,17:24:10,stop_point:SP_1761,Berbie Blaize,11
+2362001,17:25:00,17:25:10,stop_point:SP_920,Mairie Gagnac,12
+2362001,17:26:00,17:26:10,stop_point:SP_7,Chêne Vert,13
+2362001,17:28:00,17:28:10,stop_point:SP_142,Montplaisir,14
+2362001,17:29:00,17:29:10,stop_point:SP_1796,Fenouillet Croix,15
+2362001,17:30:00,17:30:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362001,17:31:00,17:31:10,stop_point:SP_2487,Gourgues,17
+2362001,17:32:00,17:32:10,stop_point:SP_2769,Billières,18
+2362001,17:32:00,17:32:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362001,17:33:00,17:33:10,stop_point:SP_4917,Tilleuls,20
+2362001,17:33:00,17:33:10,stop_point:SP_1893,Languedoc,21
+2362001,17:34:00,17:34:10,stop_point:SP_2417,Clos,22
+2362001,17:35:00,17:35:10,stop_point:SP_823,Tournelle,23
+2362001,17:35:00,17:35:10,stop_point:SP_1046,Tournelle,24
+2362002,18:10:00,18:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362002,18:11:00,18:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362002,18:12:00,18:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362002,18:13:00,18:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362002,18:21:00,18:21:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362002,18:24:00,18:24:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362002,18:26:00,18:26:10,stop_point:SP_2234,Avenir,7
+2362002,18:26:00,18:26:10,stop_point:SP_4920,Gagnac,8
+2362002,18:27:00,18:27:10,stop_point:SP_1626,Moulin,9
+2362002,18:28:00,18:28:10,stop_point:SP_1007,Voie Romaine,10
+2362002,18:28:00,18:28:10,stop_point:SP_1761,Berbie Blaize,11
+2362002,18:29:00,18:29:10,stop_point:SP_920,Mairie Gagnac,12
+2362002,18:30:00,18:30:10,stop_point:SP_7,Chêne Vert,13
+2362002,18:32:00,18:32:10,stop_point:SP_142,Montplaisir,14
+2362002,18:34:00,18:34:10,stop_point:SP_1796,Fenouillet Croix,15
+2362002,18:34:00,18:34:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362002,18:35:00,18:35:10,stop_point:SP_2487,Gourgues,17
+2362002,18:36:00,18:36:10,stop_point:SP_2769,Billières,18
+2362002,18:36:00,18:36:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362002,18:37:00,18:37:10,stop_point:SP_4917,Tilleuls,20
+2362002,18:38:00,18:38:10,stop_point:SP_1893,Languedoc,21
+2362002,18:38:00,18:38:10,stop_point:SP_2417,Clos,22
+2362002,18:39:00,18:39:10,stop_point:SP_823,Tournelle,23
+2362002,18:39:00,18:39:10,stop_point:SP_1046,Tournelle,24
+2362003,19:15:00,19:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362003,19:16:00,19:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362003,19:17:00,19:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362003,19:18:00,19:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362003,19:26:00,19:26:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362003,19:28:00,19:28:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362003,19:30:00,19:30:10,stop_point:SP_2234,Avenir,7
+2362003,19:31:00,19:31:10,stop_point:SP_4920,Gagnac,8
+2362003,19:31:00,19:31:10,stop_point:SP_1626,Moulin,9
+2362003,19:32:00,19:32:10,stop_point:SP_1007,Voie Romaine,10
+2362003,19:33:00,19:33:10,stop_point:SP_1761,Berbie Blaize,11
+2362003,19:34:00,19:34:10,stop_point:SP_920,Mairie Gagnac,12
+2362003,19:35:00,19:35:10,stop_point:SP_7,Chêne Vert,13
+2362003,19:36:00,19:36:10,stop_point:SP_142,Montplaisir,14
+2362003,19:38:00,19:38:10,stop_point:SP_1796,Fenouillet Croix,15
+2362003,19:38:00,19:38:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362003,19:39:00,19:39:10,stop_point:SP_2487,Gourgues,17
+2362003,19:40:00,19:40:10,stop_point:SP_2769,Billières,18
+2362003,19:40:00,19:40:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362003,19:41:00,19:41:10,stop_point:SP_4917,Tilleuls,20
+2362003,19:42:00,19:42:10,stop_point:SP_1893,Languedoc,21
+2362003,19:42:00,19:42:10,stop_point:SP_2417,Clos,22
+2362003,19:43:00,19:43:10,stop_point:SP_823,Tournelle,23
+2362003,19:43:00,19:43:10,stop_point:SP_1046,Tournelle,24
+2362004,07:15:00,07:15:10,stop_point:SP_1046,Tournelle,1
+2362004,07:16:00,07:16:10,stop_point:SP_2100,Clos,2
+2362004,07:16:00,07:16:10,stop_point:SP_3720,Languedoc,3
+2362004,07:17:00,07:17:10,stop_point:SP_4919,Tilleuls,4
+2362004,07:17:00,07:17:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362004,07:18:00,07:18:10,stop_point:SP_1903,Billières,6
+2362004,07:18:00,07:18:10,stop_point:SP_3457,Gourgues,7
+2362004,07:19:00,07:19:10,stop_point:SP_299,Eglise Fenouillet,8
+2362004,07:20:00,07:20:10,stop_point:SP_1773,Fenouillet Croix,9
+2362004,07:21:00,07:21:10,stop_point:SP_3504,Montplaisir,10
+2362004,07:22:00,07:22:10,stop_point:SP_3461,Chêne Vert,11
+2362004,07:23:00,07:23:10,stop_point:SP_527,Mairie Gagnac,12
+2362004,07:24:00,07:24:10,stop_point:SP_2689,Berbie Blaize,13
+2362004,07:24:00,07:24:10,stop_point:SP_482,Voie Romaine,14
+2362004,07:25:00,07:25:10,stop_point:SP_2551,Moulin,15
+2362004,07:26:00,07:26:10,stop_point:SP_4918,Gagnac,16
+2362004,07:26:00,07:26:10,stop_point:SP_2083,Avenir,17
+2362004,07:28:00,07:28:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362004,07:31:00,07:31:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362004,07:36:00,07:36:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362005,08:19:00,08:19:10,stop_point:SP_1046,Tournelle,1
+2362005,08:19:00,08:19:10,stop_point:SP_2100,Clos,2
+2362005,08:20:00,08:20:10,stop_point:SP_3720,Languedoc,3
+2362005,08:20:00,08:20:10,stop_point:SP_4919,Tilleuls,4
+2362005,08:21:00,08:21:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362005,08:21:00,08:21:10,stop_point:SP_1903,Billières,6
+2362005,08:22:00,08:22:10,stop_point:SP_3457,Gourgues,7
+2362005,08:23:00,08:23:10,stop_point:SP_299,Eglise Fenouillet,8
+2362005,08:23:00,08:23:10,stop_point:SP_1773,Fenouillet Croix,9
+2362005,08:24:00,08:24:10,stop_point:SP_3504,Montplaisir,10
+2362005,08:25:00,08:25:10,stop_point:SP_3461,Chêne Vert,11
+2362005,08:26:00,08:26:10,stop_point:SP_527,Mairie Gagnac,12
+2362005,08:27:00,08:27:10,stop_point:SP_2689,Berbie Blaize,13
+2362005,08:27:00,08:27:10,stop_point:SP_482,Voie Romaine,14
+2362005,08:28:00,08:28:10,stop_point:SP_2551,Moulin,15
+2362005,08:29:00,08:29:10,stop_point:SP_4918,Gagnac,16
+2362005,08:29:00,08:29:10,stop_point:SP_2083,Avenir,17
+2362005,08:31:00,08:31:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362005,08:34:00,08:34:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362005,08:39:00,08:39:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362006,09:17:00,09:17:10,stop_point:SP_1046,Tournelle,1
+2362006,09:17:00,09:17:10,stop_point:SP_2100,Clos,2
+2362006,09:18:00,09:18:10,stop_point:SP_3720,Languedoc,3
+2362006,09:18:00,09:18:10,stop_point:SP_4919,Tilleuls,4
+2362006,09:19:00,09:19:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362006,09:19:00,09:19:10,stop_point:SP_1903,Billières,6
+2362006,09:20:00,09:20:10,stop_point:SP_3457,Gourgues,7
+2362006,09:21:00,09:21:10,stop_point:SP_299,Eglise Fenouillet,8
+2362006,09:21:00,09:21:10,stop_point:SP_1773,Fenouillet Croix,9
+2362006,09:22:00,09:22:10,stop_point:SP_3504,Montplaisir,10
+2362006,09:23:00,09:23:10,stop_point:SP_3461,Chêne Vert,11
+2362006,09:24:00,09:24:10,stop_point:SP_527,Mairie Gagnac,12
+2362006,09:25:00,09:25:10,stop_point:SP_2689,Berbie Blaize,13
+2362006,09:25:00,09:25:10,stop_point:SP_482,Voie Romaine,14
+2362006,09:26:00,09:26:10,stop_point:SP_2551,Moulin,15
+2362006,09:27:00,09:27:10,stop_point:SP_4918,Gagnac,16
+2362006,09:27:00,09:27:10,stop_point:SP_2083,Avenir,17
+2362006,09:29:00,09:29:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362006,09:32:00,09:32:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362006,09:37:00,09:37:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362007,10:17:00,10:17:10,stop_point:SP_1046,Tournelle,1
+2362007,10:18:00,10:18:10,stop_point:SP_2100,Clos,2
+2362007,10:18:00,10:18:10,stop_point:SP_3720,Languedoc,3
+2362007,10:19:00,10:19:10,stop_point:SP_4919,Tilleuls,4
+2362007,10:19:00,10:19:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362007,10:20:00,10:20:10,stop_point:SP_1903,Billières,6
+2362007,10:20:00,10:20:10,stop_point:SP_3457,Gourgues,7
+2362007,10:21:00,10:21:10,stop_point:SP_299,Eglise Fenouillet,8
+2362007,10:22:00,10:22:10,stop_point:SP_1773,Fenouillet Croix,9
+2362007,10:23:00,10:23:10,stop_point:SP_3504,Montplaisir,10
+2362007,10:24:00,10:24:10,stop_point:SP_3461,Chêne Vert,11
+2362007,10:25:00,10:25:10,stop_point:SP_527,Mairie Gagnac,12
+2362007,10:26:00,10:26:10,stop_point:SP_2689,Berbie Blaize,13
+2362007,10:26:00,10:26:10,stop_point:SP_482,Voie Romaine,14
+2362007,10:27:00,10:27:10,stop_point:SP_2551,Moulin,15
+2362007,10:28:00,10:28:10,stop_point:SP_4918,Gagnac,16
+2362007,10:28:00,10:28:10,stop_point:SP_2083,Avenir,17
+2362007,10:30:00,10:30:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362007,10:33:00,10:33:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362007,10:38:00,10:38:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362008,11:17:00,11:17:10,stop_point:SP_1046,Tournelle,1
+2362008,11:18:00,11:18:10,stop_point:SP_2100,Clos,2
+2362008,11:18:00,11:18:10,stop_point:SP_3720,Languedoc,3
+2362008,11:19:00,11:19:10,stop_point:SP_4919,Tilleuls,4
+2362008,11:19:00,11:19:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362008,11:20:00,11:20:10,stop_point:SP_1903,Billières,6
+2362008,11:20:00,11:20:10,stop_point:SP_3457,Gourgues,7
+2362008,11:21:00,11:21:10,stop_point:SP_299,Eglise Fenouillet,8
+2362008,11:22:00,11:22:10,stop_point:SP_1773,Fenouillet Croix,9
+2362008,11:23:00,11:23:10,stop_point:SP_3504,Montplaisir,10
+2362008,11:24:00,11:24:10,stop_point:SP_3461,Chêne Vert,11
+2362008,11:25:00,11:25:10,stop_point:SP_527,Mairie Gagnac,12
+2362008,11:26:00,11:26:10,stop_point:SP_2689,Berbie Blaize,13
+2362008,11:26:00,11:26:10,stop_point:SP_482,Voie Romaine,14
+2362008,11:27:00,11:27:10,stop_point:SP_2551,Moulin,15
+2362008,11:28:00,11:28:10,stop_point:SP_4918,Gagnac,16
+2362008,11:28:00,11:28:10,stop_point:SP_2083,Avenir,17
+2362008,11:30:00,11:30:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362008,11:33:00,11:33:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362008,11:38:00,11:38:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362009,12:17:00,12:17:10,stop_point:SP_1046,Tournelle,1
+2362009,12:18:00,12:18:10,stop_point:SP_2100,Clos,2
+2362009,12:18:00,12:18:10,stop_point:SP_3720,Languedoc,3
+2362009,12:19:00,12:19:10,stop_point:SP_4919,Tilleuls,4
+2362009,12:19:00,12:19:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362009,12:20:00,12:20:10,stop_point:SP_1903,Billières,6
+2362009,12:20:00,12:20:10,stop_point:SP_3457,Gourgues,7
+2362009,12:21:00,12:21:10,stop_point:SP_299,Eglise Fenouillet,8
+2362009,12:22:00,12:22:10,stop_point:SP_1773,Fenouillet Croix,9
+2362009,12:23:00,12:23:10,stop_point:SP_3504,Montplaisir,10
+2362009,12:24:00,12:24:10,stop_point:SP_3461,Chêne Vert,11
+2362009,12:25:00,12:25:10,stop_point:SP_527,Mairie Gagnac,12
+2362009,12:26:00,12:26:10,stop_point:SP_2689,Berbie Blaize,13
+2362009,12:26:00,12:26:10,stop_point:SP_482,Voie Romaine,14
+2362009,12:27:00,12:27:10,stop_point:SP_2551,Moulin,15
+2362009,12:28:00,12:28:10,stop_point:SP_4918,Gagnac,16
+2362009,12:28:00,12:28:10,stop_point:SP_2083,Avenir,17
+2362009,12:30:00,12:30:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362009,12:33:00,12:33:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362009,12:38:00,12:38:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362010,13:17:00,13:17:10,stop_point:SP_1046,Tournelle,1
+2362010,13:18:00,13:18:10,stop_point:SP_2100,Clos,2
+2362010,13:18:00,13:18:10,stop_point:SP_3720,Languedoc,3
+2362010,13:19:00,13:19:10,stop_point:SP_4919,Tilleuls,4
+2362010,13:19:00,13:19:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362010,13:20:00,13:20:10,stop_point:SP_1903,Billières,6
+2362010,13:20:00,13:20:10,stop_point:SP_3457,Gourgues,7
+2362010,13:21:00,13:21:10,stop_point:SP_299,Eglise Fenouillet,8
+2362010,13:22:00,13:22:10,stop_point:SP_1773,Fenouillet Croix,9
+2362010,13:23:00,13:23:10,stop_point:SP_3504,Montplaisir,10
+2362010,13:24:00,13:24:10,stop_point:SP_3461,Chêne Vert,11
+2362010,13:25:00,13:25:10,stop_point:SP_527,Mairie Gagnac,12
+2362010,13:26:00,13:26:10,stop_point:SP_2689,Berbie Blaize,13
+2362010,13:26:00,13:26:10,stop_point:SP_482,Voie Romaine,14
+2362010,13:27:00,13:27:10,stop_point:SP_2551,Moulin,15
+2362010,13:28:00,13:28:10,stop_point:SP_4918,Gagnac,16
+2362010,13:28:00,13:28:10,stop_point:SP_2083,Avenir,17
+2362010,13:30:00,13:30:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362010,13:33:00,13:33:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362010,13:38:00,13:38:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362011,14:27:00,14:27:10,stop_point:SP_1046,Tournelle,1
+2362011,14:28:00,14:28:10,stop_point:SP_2100,Clos,2
+2362011,14:28:00,14:28:10,stop_point:SP_3720,Languedoc,3
+2362011,14:29:00,14:29:10,stop_point:SP_4919,Tilleuls,4
+2362011,14:29:00,14:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362011,14:30:00,14:30:10,stop_point:SP_1903,Billières,6
+2362011,14:30:00,14:30:10,stop_point:SP_3457,Gourgues,7
+2362011,14:31:00,14:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362011,14:32:00,14:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362011,14:33:00,14:33:10,stop_point:SP_3504,Montplaisir,10
+2362011,14:34:00,14:34:10,stop_point:SP_3461,Chêne Vert,11
+2362011,14:35:00,14:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362011,14:36:00,14:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362011,14:36:00,14:36:10,stop_point:SP_482,Voie Romaine,14
+2362011,14:37:00,14:37:10,stop_point:SP_2551,Moulin,15
+2362011,14:38:00,14:38:10,stop_point:SP_4918,Gagnac,16
+2362011,14:38:00,14:38:10,stop_point:SP_2083,Avenir,17
+2362011,14:40:00,14:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362011,14:43:00,14:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362011,14:48:00,14:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362012,15:32:00,15:32:10,stop_point:SP_1046,Tournelle,1
+2362012,15:33:00,15:33:10,stop_point:SP_2100,Clos,2
+2362012,15:33:00,15:33:10,stop_point:SP_3720,Languedoc,3
+2362012,15:34:00,15:34:10,stop_point:SP_4919,Tilleuls,4
+2362012,15:35:00,15:35:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362012,15:36:00,15:36:10,stop_point:SP_1903,Billières,6
+2362012,15:36:00,15:36:10,stop_point:SP_3457,Gourgues,7
+2362012,15:37:00,15:37:10,stop_point:SP_299,Eglise Fenouillet,8
+2362012,15:38:00,15:38:10,stop_point:SP_1773,Fenouillet Croix,9
+2362012,15:39:00,15:39:10,stop_point:SP_3504,Montplaisir,10
+2362012,15:40:00,15:40:10,stop_point:SP_3461,Chêne Vert,11
+2362012,15:41:00,15:41:10,stop_point:SP_527,Mairie Gagnac,12
+2362012,15:42:00,15:42:10,stop_point:SP_2689,Berbie Blaize,13
+2362012,15:42:00,15:42:10,stop_point:SP_482,Voie Romaine,14
+2362012,15:43:00,15:43:10,stop_point:SP_2551,Moulin,15
+2362012,15:44:00,15:44:10,stop_point:SP_4918,Gagnac,16
+2362012,15:44:00,15:44:10,stop_point:SP_2083,Avenir,17
+2362012,15:46:00,15:46:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362012,15:49:00,15:49:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362012,15:54:00,15:54:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362013,16:32:00,16:32:10,stop_point:SP_1046,Tournelle,1
+2362013,16:33:00,16:33:10,stop_point:SP_2100,Clos,2
+2362013,16:33:00,16:33:10,stop_point:SP_3720,Languedoc,3
+2362013,16:34:00,16:34:10,stop_point:SP_4919,Tilleuls,4
+2362013,16:35:00,16:35:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362013,16:36:00,16:36:10,stop_point:SP_1903,Billières,6
+2362013,16:36:00,16:36:10,stop_point:SP_3457,Gourgues,7
+2362013,16:37:00,16:37:10,stop_point:SP_299,Eglise Fenouillet,8
+2362013,16:38:00,16:38:10,stop_point:SP_1773,Fenouillet Croix,9
+2362013,16:39:00,16:39:10,stop_point:SP_3504,Montplaisir,10
+2362013,16:40:00,16:40:10,stop_point:SP_3461,Chêne Vert,11
+2362013,16:41:00,16:41:10,stop_point:SP_527,Mairie Gagnac,12
+2362013,16:42:00,16:42:10,stop_point:SP_2689,Berbie Blaize,13
+2362013,16:42:00,16:42:10,stop_point:SP_482,Voie Romaine,14
+2362013,16:43:00,16:43:10,stop_point:SP_2551,Moulin,15
+2362013,16:44:00,16:44:10,stop_point:SP_4918,Gagnac,16
+2362013,16:44:00,16:44:10,stop_point:SP_2083,Avenir,17
+2362013,16:46:00,16:46:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362013,16:49:00,16:49:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362013,16:54:00,16:54:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362014,17:35:00,17:35:10,stop_point:SP_1046,Tournelle,1
+2362014,17:36:00,17:36:10,stop_point:SP_2100,Clos,2
+2362014,17:36:00,17:36:10,stop_point:SP_3720,Languedoc,3
+2362014,17:37:00,17:37:10,stop_point:SP_4919,Tilleuls,4
+2362014,17:38:00,17:38:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362014,17:39:00,17:39:10,stop_point:SP_1903,Billières,6
+2362014,17:39:00,17:39:10,stop_point:SP_3457,Gourgues,7
+2362014,17:40:00,17:40:10,stop_point:SP_299,Eglise Fenouillet,8
+2362014,17:41:00,17:41:10,stop_point:SP_1773,Fenouillet Croix,9
+2362014,17:42:00,17:42:10,stop_point:SP_3504,Montplaisir,10
+2362014,17:43:00,17:43:10,stop_point:SP_3461,Chêne Vert,11
+2362014,17:44:00,17:44:10,stop_point:SP_527,Mairie Gagnac,12
+2362014,17:45:00,17:45:10,stop_point:SP_2689,Berbie Blaize,13
+2362014,17:45:00,17:45:10,stop_point:SP_482,Voie Romaine,14
+2362014,17:46:00,17:46:10,stop_point:SP_2551,Moulin,15
+2362014,17:47:00,17:47:10,stop_point:SP_4918,Gagnac,16
+2362014,17:47:00,17:47:10,stop_point:SP_2083,Avenir,17
+2362014,17:49:00,17:49:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362014,17:52:00,17:52:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362014,17:58:00,17:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362015,18:39:00,18:39:10,stop_point:SP_1046,Tournelle,1
+2362015,18:40:00,18:40:10,stop_point:SP_2100,Clos,2
+2362015,18:40:00,18:40:10,stop_point:SP_3720,Languedoc,3
+2362015,18:41:00,18:41:10,stop_point:SP_4919,Tilleuls,4
+2362015,18:41:00,18:41:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362015,18:42:00,18:42:10,stop_point:SP_1903,Billières,6
+2362015,18:42:00,18:42:10,stop_point:SP_3457,Gourgues,7
+2362015,18:43:00,18:43:10,stop_point:SP_299,Eglise Fenouillet,8
+2362015,18:44:00,18:44:10,stop_point:SP_1773,Fenouillet Croix,9
+2362015,18:45:00,18:45:10,stop_point:SP_3504,Montplaisir,10
+2362015,18:46:00,18:46:10,stop_point:SP_3461,Chêne Vert,11
+2362015,18:47:00,18:47:10,stop_point:SP_527,Mairie Gagnac,12
+2362015,18:48:00,18:48:10,stop_point:SP_2689,Berbie Blaize,13
+2362015,18:48:00,18:48:10,stop_point:SP_482,Voie Romaine,14
+2362015,18:49:00,18:49:10,stop_point:SP_2551,Moulin,15
+2362015,18:49:00,18:49:10,stop_point:SP_4918,Gagnac,16
+2362015,18:50:00,18:50:10,stop_point:SP_2083,Avenir,17
+2362015,18:52:00,18:52:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362015,18:54:00,18:54:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362015,19:00:00,19:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362016,19:43:00,19:43:10,stop_point:SP_1046,Tournelle,1
+2362016,19:44:00,19:44:10,stop_point:SP_2100,Clos,2
+2362016,19:44:00,19:44:10,stop_point:SP_3720,Languedoc,3
+2362016,19:45:00,19:45:10,stop_point:SP_4919,Tilleuls,4
+2362016,19:45:00,19:45:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362016,19:46:00,19:46:10,stop_point:SP_1903,Billières,6
+2362016,19:46:00,19:46:10,stop_point:SP_3457,Gourgues,7
+2362016,19:47:00,19:47:10,stop_point:SP_299,Eglise Fenouillet,8
+2362016,19:48:00,19:48:10,stop_point:SP_1773,Fenouillet Croix,9
+2362016,19:49:00,19:49:10,stop_point:SP_3504,Montplaisir,10
+2362016,19:50:00,19:50:10,stop_point:SP_3461,Chêne Vert,11
+2362016,19:51:00,19:51:10,stop_point:SP_527,Mairie Gagnac,12
+2362016,19:52:00,19:52:10,stop_point:SP_2689,Berbie Blaize,13
+2362016,19:52:00,19:52:10,stop_point:SP_482,Voie Romaine,14
+2362016,19:53:00,19:53:10,stop_point:SP_2551,Moulin,15
+2362016,19:53:00,19:53:10,stop_point:SP_4918,Gagnac,16
+2362016,19:54:00,19:54:10,stop_point:SP_2083,Avenir,17
+2362016,19:56:00,19:56:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362016,19:58:00,19:58:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362016,20:04:00,20:04:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362017,07:05:00,07:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362017,07:06:00,07:06:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362017,07:07:00,07:07:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362017,07:08:00,07:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362017,07:14:00,07:14:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362017,07:17:00,07:17:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362017,07:20:00,07:20:10,stop_point:SP_2234,Avenir,7
+2362017,07:20:00,07:20:10,stop_point:SP_4920,Gagnac,8
+2362017,07:21:00,07:21:10,stop_point:SP_1626,Moulin,9
+2362017,07:22:00,07:22:10,stop_point:SP_1007,Voie Romaine,10
+2362017,07:23:00,07:23:10,stop_point:SP_1761,Berbie Blaize,11
+2362017,07:24:00,07:24:10,stop_point:SP_920,Mairie Gagnac,12
+2362017,07:25:00,07:25:10,stop_point:SP_7,Chêne Vert,13
+2362017,07:27:00,07:27:10,stop_point:SP_142,Montplaisir,14
+2362017,07:29:00,07:29:10,stop_point:SP_1796,Fenouillet Croix,15
+2362017,07:30:00,07:30:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362017,07:31:00,07:31:10,stop_point:SP_2487,Gourgues,17
+2362017,07:32:00,07:32:10,stop_point:SP_2769,Billières,18
+2362017,07:33:00,07:33:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362017,07:34:00,07:34:10,stop_point:SP_4917,Tilleuls,20
+2362017,07:34:00,07:34:10,stop_point:SP_1893,Languedoc,21
+2362017,07:35:00,07:35:10,stop_point:SP_2417,Clos,22
+2362017,07:36:00,07:36:10,stop_point:SP_823,Tournelle,23
+2362017,07:36:00,07:36:10,stop_point:SP_1046,Tournelle,24
+2362018,07:45:00,07:45:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362018,07:46:00,07:46:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362018,07:47:00,07:47:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362018,07:48:00,07:48:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362018,07:54:00,07:54:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362018,07:57:00,07:57:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362018,07:59:00,07:59:10,stop_point:SP_2234,Avenir,7
+2362018,08:00:00,08:00:10,stop_point:SP_4920,Gagnac,8
+2362018,08:00:00,08:00:10,stop_point:SP_1626,Moulin,9
+2362018,08:01:00,08:01:10,stop_point:SP_1007,Voie Romaine,10
+2362018,08:02:00,08:02:10,stop_point:SP_1761,Berbie Blaize,11
+2362018,08:03:00,08:03:10,stop_point:SP_920,Mairie Gagnac,12
+2362018,08:04:00,08:04:10,stop_point:SP_7,Chêne Vert,13
+2362018,08:06:00,08:06:10,stop_point:SP_142,Montplaisir,14
+2362018,08:08:00,08:08:10,stop_point:SP_1796,Fenouillet Croix,15
+2362018,08:09:00,08:09:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362018,08:10:00,08:10:10,stop_point:SP_2487,Gourgues,17
+2362018,08:10:00,08:10:10,stop_point:SP_2769,Billières,18
+2362018,08:11:00,08:11:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362018,08:12:00,08:12:10,stop_point:SP_4917,Tilleuls,20
+2362018,08:12:00,08:12:10,stop_point:SP_1893,Languedoc,21
+2362018,08:13:00,08:13:10,stop_point:SP_2417,Clos,22
+2362018,08:14:00,08:14:10,stop_point:SP_823,Tournelle,23
+2362018,08:14:00,08:14:10,stop_point:SP_1046,Tournelle,24
+2362019,08:15:00,08:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362019,08:16:00,08:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362019,08:17:00,08:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362019,08:18:00,08:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362019,08:24:00,08:24:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362019,08:27:00,08:27:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362019,08:29:00,08:29:10,stop_point:SP_2234,Avenir,7
+2362019,08:30:00,08:30:10,stop_point:SP_4920,Gagnac,8
+2362019,08:30:00,08:30:10,stop_point:SP_1626,Moulin,9
+2362019,08:31:00,08:31:10,stop_point:SP_1007,Voie Romaine,10
+2362019,08:32:00,08:32:10,stop_point:SP_1761,Berbie Blaize,11
+2362019,08:33:00,08:33:10,stop_point:SP_920,Mairie Gagnac,12
+2362019,08:34:00,08:34:10,stop_point:SP_7,Chêne Vert,13
+2362019,08:36:00,08:36:10,stop_point:SP_142,Montplaisir,14
+2362019,08:37:00,08:37:10,stop_point:SP_1796,Fenouillet Croix,15
+2362019,08:38:00,08:38:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362019,08:39:00,08:39:10,stop_point:SP_2487,Gourgues,17
+2362019,08:40:00,08:40:10,stop_point:SP_2769,Billières,18
+2362019,08:40:00,08:40:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362019,08:41:00,08:41:10,stop_point:SP_4917,Tilleuls,20
+2362019,08:41:00,08:41:10,stop_point:SP_1893,Languedoc,21
+2362019,08:42:00,08:42:10,stop_point:SP_2417,Clos,22
+2362019,08:43:00,08:43:10,stop_point:SP_823,Tournelle,23
+2362019,08:43:00,08:43:10,stop_point:SP_1046,Tournelle,24
+2362020,09:10:00,09:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362020,09:11:00,09:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362020,09:12:00,09:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362020,09:13:00,09:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362020,09:19:00,09:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362020,09:22:00,09:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362020,09:24:00,09:24:10,stop_point:SP_2234,Avenir,7
+2362020,09:24:00,09:24:10,stop_point:SP_4920,Gagnac,8
+2362020,09:25:00,09:25:10,stop_point:SP_1626,Moulin,9
+2362020,09:26:00,09:26:10,stop_point:SP_1007,Voie Romaine,10
+2362020,09:26:00,09:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362020,09:27:00,09:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362020,09:28:00,09:28:10,stop_point:SP_7,Chêne Vert,13
+2362020,09:30:00,09:30:10,stop_point:SP_142,Montplaisir,14
+2362020,09:32:00,09:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362020,09:32:00,09:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362020,09:33:00,09:33:10,stop_point:SP_2487,Gourgues,17
+2362020,09:34:00,09:34:10,stop_point:SP_2769,Billières,18
+2362020,09:34:00,09:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362020,09:35:00,09:35:10,stop_point:SP_4917,Tilleuls,20
+2362020,09:36:00,09:36:10,stop_point:SP_1893,Languedoc,21
+2362020,09:36:00,09:36:10,stop_point:SP_2417,Clos,22
+2362020,09:37:00,09:37:10,stop_point:SP_823,Tournelle,23
+2362020,09:37:00,09:37:10,stop_point:SP_1046,Tournelle,24
+2362021,10:10:00,10:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362021,10:11:00,10:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362021,10:12:00,10:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362021,10:13:00,10:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362021,10:19:00,10:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362021,10:22:00,10:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362021,10:24:00,10:24:10,stop_point:SP_2234,Avenir,7
+2362021,10:24:00,10:24:10,stop_point:SP_4920,Gagnac,8
+2362021,10:25:00,10:25:10,stop_point:SP_1626,Moulin,9
+2362021,10:26:00,10:26:10,stop_point:SP_1007,Voie Romaine,10
+2362021,10:26:00,10:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362021,10:27:00,10:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362021,10:28:00,10:28:10,stop_point:SP_7,Chêne Vert,13
+2362021,10:30:00,10:30:10,stop_point:SP_142,Montplaisir,14
+2362021,10:32:00,10:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362021,10:32:00,10:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362021,10:33:00,10:33:10,stop_point:SP_2487,Gourgues,17
+2362021,10:34:00,10:34:10,stop_point:SP_2769,Billières,18
+2362021,10:34:00,10:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362021,10:35:00,10:35:10,stop_point:SP_4917,Tilleuls,20
+2362021,10:36:00,10:36:10,stop_point:SP_1893,Languedoc,21
+2362021,10:36:00,10:36:10,stop_point:SP_2417,Clos,22
+2362021,10:37:00,10:37:10,stop_point:SP_823,Tournelle,23
+2362021,10:37:00,10:37:10,stop_point:SP_1046,Tournelle,24
+2362022,11:10:00,11:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362022,11:11:00,11:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362022,11:12:00,11:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362022,11:13:00,11:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362022,11:19:00,11:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362022,11:22:00,11:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362022,11:24:00,11:24:10,stop_point:SP_2234,Avenir,7
+2362022,11:24:00,11:24:10,stop_point:SP_4920,Gagnac,8
+2362022,11:25:00,11:25:10,stop_point:SP_1626,Moulin,9
+2362022,11:26:00,11:26:10,stop_point:SP_1007,Voie Romaine,10
+2362022,11:26:00,11:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362022,11:27:00,11:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362022,11:28:00,11:28:10,stop_point:SP_7,Chêne Vert,13
+2362022,11:30:00,11:30:10,stop_point:SP_142,Montplaisir,14
+2362022,11:32:00,11:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362022,11:32:00,11:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362022,11:33:00,11:33:10,stop_point:SP_2487,Gourgues,17
+2362022,11:34:00,11:34:10,stop_point:SP_2769,Billières,18
+2362022,11:34:00,11:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362022,11:35:00,11:35:10,stop_point:SP_4917,Tilleuls,20
+2362022,11:36:00,11:36:10,stop_point:SP_1893,Languedoc,21
+2362022,11:36:00,11:36:10,stop_point:SP_2417,Clos,22
+2362022,11:37:00,11:37:10,stop_point:SP_823,Tournelle,23
+2362022,11:37:00,11:37:10,stop_point:SP_1046,Tournelle,24
+2362023,12:05:00,12:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362023,12:06:00,12:06:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362023,12:07:00,12:07:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362023,12:08:00,12:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362023,12:14:00,12:14:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362023,12:17:00,12:17:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362023,12:19:00,12:19:10,stop_point:SP_2234,Avenir,7
+2362023,12:19:00,12:19:10,stop_point:SP_4920,Gagnac,8
+2362023,12:20:00,12:20:10,stop_point:SP_1626,Moulin,9
+2362023,12:21:00,12:21:10,stop_point:SP_1007,Voie Romaine,10
+2362023,12:21:00,12:21:10,stop_point:SP_1761,Berbie Blaize,11
+2362023,12:22:00,12:22:10,stop_point:SP_920,Mairie Gagnac,12
+2362023,12:23:00,12:23:10,stop_point:SP_7,Chêne Vert,13
+2362023,12:25:00,12:25:10,stop_point:SP_142,Montplaisir,14
+2362023,12:27:00,12:27:10,stop_point:SP_1796,Fenouillet Croix,15
+2362023,12:27:00,12:27:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362023,12:28:00,12:28:10,stop_point:SP_2487,Gourgues,17
+2362023,12:29:00,12:29:10,stop_point:SP_2769,Billières,18
+2362023,12:29:00,12:29:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362023,12:30:00,12:30:10,stop_point:SP_4917,Tilleuls,20
+2362023,12:31:00,12:31:10,stop_point:SP_1893,Languedoc,21
+2362023,12:31:00,12:31:10,stop_point:SP_2417,Clos,22
+2362023,12:32:00,12:32:10,stop_point:SP_823,Tournelle,23
+2362023,12:32:00,12:32:10,stop_point:SP_1046,Tournelle,24
+2362024,13:10:00,13:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362024,13:11:00,13:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362024,13:12:00,13:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362024,13:13:00,13:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362024,13:19:00,13:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362024,13:22:00,13:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362024,13:24:00,13:24:10,stop_point:SP_2234,Avenir,7
+2362024,13:24:00,13:24:10,stop_point:SP_4920,Gagnac,8
+2362024,13:25:00,13:25:10,stop_point:SP_1626,Moulin,9
+2362024,13:26:00,13:26:10,stop_point:SP_1007,Voie Romaine,10
+2362024,13:26:00,13:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362024,13:27:00,13:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362024,13:28:00,13:28:10,stop_point:SP_7,Chêne Vert,13
+2362024,13:30:00,13:30:10,stop_point:SP_142,Montplaisir,14
+2362024,13:32:00,13:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362024,13:32:00,13:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362024,13:33:00,13:33:10,stop_point:SP_2487,Gourgues,17
+2362024,13:34:00,13:34:10,stop_point:SP_2769,Billières,18
+2362024,13:34:00,13:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362024,13:35:00,13:35:10,stop_point:SP_4917,Tilleuls,20
+2362024,13:36:00,13:36:10,stop_point:SP_1893,Languedoc,21
+2362024,13:36:00,13:36:10,stop_point:SP_2417,Clos,22
+2362024,13:37:00,13:37:10,stop_point:SP_823,Tournelle,23
+2362024,13:37:00,13:37:10,stop_point:SP_1046,Tournelle,24
+2362025,14:10:00,14:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362025,14:11:00,14:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362025,14:12:00,14:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362025,14:13:00,14:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362025,14:19:00,14:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362025,14:22:00,14:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362025,14:24:00,14:24:10,stop_point:SP_2234,Avenir,7
+2362025,14:24:00,14:24:10,stop_point:SP_4920,Gagnac,8
+2362025,14:25:00,14:25:10,stop_point:SP_1626,Moulin,9
+2362025,14:26:00,14:26:10,stop_point:SP_1007,Voie Romaine,10
+2362025,14:26:00,14:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362025,14:27:00,14:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362025,14:28:00,14:28:10,stop_point:SP_7,Chêne Vert,13
+2362025,14:30:00,14:30:10,stop_point:SP_142,Montplaisir,14
+2362025,14:32:00,14:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362025,14:32:00,14:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362025,14:33:00,14:33:10,stop_point:SP_2487,Gourgues,17
+2362025,14:34:00,14:34:10,stop_point:SP_2769,Billières,18
+2362025,14:34:00,14:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362025,14:35:00,14:35:10,stop_point:SP_4917,Tilleuls,20
+2362025,14:36:00,14:36:10,stop_point:SP_1893,Languedoc,21
+2362025,14:36:00,14:36:10,stop_point:SP_2417,Clos,22
+2362025,14:37:00,14:37:10,stop_point:SP_823,Tournelle,23
+2362025,14:37:00,14:37:10,stop_point:SP_1046,Tournelle,24
+2362026,15:10:00,15:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362026,15:11:00,15:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362026,15:12:00,15:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362026,15:13:00,15:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362026,15:19:00,15:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362026,15:22:00,15:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362026,15:24:00,15:24:10,stop_point:SP_2234,Avenir,7
+2362026,15:24:00,15:24:10,stop_point:SP_4920,Gagnac,8
+2362026,15:25:00,15:25:10,stop_point:SP_1626,Moulin,9
+2362026,15:26:00,15:26:10,stop_point:SP_1007,Voie Romaine,10
+2362026,15:26:00,15:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362026,15:27:00,15:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362026,15:28:00,15:28:10,stop_point:SP_7,Chêne Vert,13
+2362026,15:30:00,15:30:10,stop_point:SP_142,Montplaisir,14
+2362026,15:32:00,15:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362026,15:32:00,15:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362026,15:33:00,15:33:10,stop_point:SP_2487,Gourgues,17
+2362026,15:34:00,15:34:10,stop_point:SP_2769,Billières,18
+2362026,15:34:00,15:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362026,15:35:00,15:35:10,stop_point:SP_4917,Tilleuls,20
+2362026,15:36:00,15:36:10,stop_point:SP_1893,Languedoc,21
+2362026,15:36:00,15:36:10,stop_point:SP_2417,Clos,22
+2362026,15:37:00,15:37:10,stop_point:SP_823,Tournelle,23
+2362026,15:37:00,15:37:10,stop_point:SP_1046,Tournelle,24
+2362027,16:10:00,16:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362027,16:11:00,16:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362027,16:12:00,16:12:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362027,16:13:00,16:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362027,16:19:00,16:19:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362027,16:22:00,16:22:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362027,16:24:00,16:24:10,stop_point:SP_2234,Avenir,7
+2362027,16:24:00,16:24:10,stop_point:SP_4920,Gagnac,8
+2362027,16:25:00,16:25:10,stop_point:SP_1626,Moulin,9
+2362027,16:26:00,16:26:10,stop_point:SP_1007,Voie Romaine,10
+2362027,16:26:00,16:26:10,stop_point:SP_1761,Berbie Blaize,11
+2362027,16:27:00,16:27:10,stop_point:SP_920,Mairie Gagnac,12
+2362027,16:28:00,16:28:10,stop_point:SP_7,Chêne Vert,13
+2362027,16:30:00,16:30:10,stop_point:SP_142,Montplaisir,14
+2362027,16:32:00,16:32:10,stop_point:SP_1796,Fenouillet Croix,15
+2362027,16:32:00,16:32:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362027,16:33:00,16:33:10,stop_point:SP_2487,Gourgues,17
+2362027,16:34:00,16:34:10,stop_point:SP_2769,Billières,18
+2362027,16:34:00,16:34:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362027,16:35:00,16:35:10,stop_point:SP_4917,Tilleuls,20
+2362027,16:36:00,16:36:10,stop_point:SP_1893,Languedoc,21
+2362027,16:36:00,16:36:10,stop_point:SP_2417,Clos,22
+2362027,16:37:00,16:37:10,stop_point:SP_823,Tournelle,23
+2362027,16:37:00,16:37:10,stop_point:SP_1046,Tournelle,24
+2362028,16:45:00,16:45:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362028,16:46:00,16:46:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362028,16:47:00,16:47:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362028,16:48:00,16:48:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362028,16:56:00,16:56:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362028,16:59:00,16:59:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362028,17:01:00,17:01:10,stop_point:SP_2234,Avenir,7
+2362028,17:02:00,17:02:10,stop_point:SP_4920,Gagnac,8
+2362028,17:02:00,17:02:10,stop_point:SP_1626,Moulin,9
+2362028,17:03:00,17:03:10,stop_point:SP_1007,Voie Romaine,10
+2362028,17:04:00,17:04:10,stop_point:SP_1761,Berbie Blaize,11
+2362028,17:05:00,17:05:10,stop_point:SP_920,Mairie Gagnac,12
+2362028,17:06:00,17:06:10,stop_point:SP_7,Chêne Vert,13
+2362028,17:08:00,17:08:10,stop_point:SP_142,Montplaisir,14
+2362028,17:09:00,17:09:10,stop_point:SP_1796,Fenouillet Croix,15
+2362028,17:10:00,17:10:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362028,17:11:00,17:11:10,stop_point:SP_2487,Gourgues,17
+2362028,17:12:00,17:12:10,stop_point:SP_2769,Billières,18
+2362028,17:12:00,17:12:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362028,17:13:00,17:13:10,stop_point:SP_4917,Tilleuls,20
+2362028,17:13:00,17:13:10,stop_point:SP_1893,Languedoc,21
+2362028,17:14:00,17:14:10,stop_point:SP_2417,Clos,22
+2362028,17:15:00,17:15:10,stop_point:SP_823,Tournelle,23
+2362028,17:15:00,17:15:10,stop_point:SP_1046,Tournelle,24
+2362029,17:15:00,17:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362029,17:16:00,17:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362029,17:17:00,17:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362029,17:18:00,17:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362029,17:26:00,17:26:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362029,17:29:00,17:29:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362029,17:31:00,17:31:10,stop_point:SP_2234,Avenir,7
+2362029,17:31:00,17:31:10,stop_point:SP_4920,Gagnac,8
+2362029,17:32:00,17:32:10,stop_point:SP_1626,Moulin,9
+2362029,17:33:00,17:33:10,stop_point:SP_1007,Voie Romaine,10
+2362029,17:33:00,17:33:10,stop_point:SP_1761,Berbie Blaize,11
+2362029,17:34:00,17:34:10,stop_point:SP_920,Mairie Gagnac,12
+2362029,17:35:00,17:35:10,stop_point:SP_7,Chêne Vert,13
+2362029,17:37:00,17:37:10,stop_point:SP_142,Montplaisir,14
+2362029,17:39:00,17:39:10,stop_point:SP_1796,Fenouillet Croix,15
+2362029,17:39:00,17:39:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362029,17:40:00,17:40:10,stop_point:SP_2487,Gourgues,17
+2362029,17:41:00,17:41:10,stop_point:SP_2769,Billières,18
+2362029,17:41:00,17:41:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362029,17:42:00,17:42:10,stop_point:SP_4917,Tilleuls,20
+2362029,17:43:00,17:43:10,stop_point:SP_1893,Languedoc,21
+2362029,17:43:00,17:43:10,stop_point:SP_2417,Clos,22
+2362029,17:44:00,17:44:10,stop_point:SP_823,Tournelle,23
+2362029,17:44:00,17:44:10,stop_point:SP_1046,Tournelle,24
+2362030,17:45:00,17:45:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362030,17:46:00,17:46:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362030,17:47:00,17:47:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362030,17:48:00,17:48:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362030,17:56:00,17:56:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362030,17:59:00,17:59:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362030,18:01:00,18:01:10,stop_point:SP_2234,Avenir,7
+2362030,18:01:00,18:01:10,stop_point:SP_4920,Gagnac,8
+2362030,18:02:00,18:02:10,stop_point:SP_1626,Moulin,9
+2362030,18:03:00,18:03:10,stop_point:SP_1007,Voie Romaine,10
+2362030,18:03:00,18:03:10,stop_point:SP_1761,Berbie Blaize,11
+2362030,18:04:00,18:04:10,stop_point:SP_920,Mairie Gagnac,12
+2362030,18:05:00,18:05:10,stop_point:SP_7,Chêne Vert,13
+2362030,18:07:00,18:07:10,stop_point:SP_142,Montplaisir,14
+2362030,18:09:00,18:09:10,stop_point:SP_1796,Fenouillet Croix,15
+2362030,18:09:00,18:09:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362030,18:10:00,18:10:10,stop_point:SP_2487,Gourgues,17
+2362030,18:11:00,18:11:10,stop_point:SP_2769,Billières,18
+2362030,18:11:00,18:11:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362030,18:12:00,18:12:10,stop_point:SP_4917,Tilleuls,20
+2362030,18:13:00,18:13:10,stop_point:SP_1893,Languedoc,21
+2362030,18:13:00,18:13:10,stop_point:SP_2417,Clos,22
+2362030,18:14:00,18:14:10,stop_point:SP_823,Tournelle,23
+2362030,18:14:00,18:14:10,stop_point:SP_1046,Tournelle,24
+2362031,18:15:00,18:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362031,18:16:00,18:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362031,18:17:00,18:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362031,18:18:00,18:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362031,18:26:00,18:26:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362031,18:28:00,18:28:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362031,18:30:00,18:30:10,stop_point:SP_2234,Avenir,7
+2362031,18:31:00,18:31:10,stop_point:SP_4920,Gagnac,8
+2362031,18:31:00,18:31:10,stop_point:SP_1626,Moulin,9
+2362031,18:32:00,18:32:10,stop_point:SP_1007,Voie Romaine,10
+2362031,18:33:00,18:33:10,stop_point:SP_1761,Berbie Blaize,11
+2362031,18:34:00,18:34:10,stop_point:SP_920,Mairie Gagnac,12
+2362031,18:35:00,18:35:10,stop_point:SP_7,Chêne Vert,13
+2362031,18:36:00,18:36:10,stop_point:SP_142,Montplaisir,14
+2362031,18:38:00,18:38:10,stop_point:SP_1796,Fenouillet Croix,15
+2362031,18:38:00,18:38:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362031,18:39:00,18:39:10,stop_point:SP_2487,Gourgues,17
+2362031,18:40:00,18:40:10,stop_point:SP_2769,Billières,18
+2362031,18:40:00,18:40:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362031,18:41:00,18:41:10,stop_point:SP_4917,Tilleuls,20
+2362031,18:42:00,18:42:10,stop_point:SP_1893,Languedoc,21
+2362031,18:42:00,18:42:10,stop_point:SP_2417,Clos,22
+2362031,18:43:00,18:43:10,stop_point:SP_823,Tournelle,23
+2362031,18:43:00,18:43:10,stop_point:SP_1046,Tournelle,24
+2362032,19:15:00,19:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362032,19:16:00,19:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362032,19:17:00,19:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362032,19:18:00,19:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362032,19:26:00,19:26:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362032,19:28:00,19:28:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362032,19:30:00,19:30:10,stop_point:SP_2234,Avenir,7
+2362032,19:31:00,19:31:10,stop_point:SP_4920,Gagnac,8
+2362032,19:31:00,19:31:10,stop_point:SP_1626,Moulin,9
+2362032,19:32:00,19:32:10,stop_point:SP_1007,Voie Romaine,10
+2362032,19:33:00,19:33:10,stop_point:SP_1761,Berbie Blaize,11
+2362032,19:34:00,19:34:10,stop_point:SP_920,Mairie Gagnac,12
+2362032,19:35:00,19:35:10,stop_point:SP_7,Chêne Vert,13
+2362032,19:36:00,19:36:10,stop_point:SP_142,Montplaisir,14
+2362032,19:38:00,19:38:10,stop_point:SP_1796,Fenouillet Croix,15
+2362032,19:38:00,19:38:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362032,19:39:00,19:39:10,stop_point:SP_2487,Gourgues,17
+2362032,19:40:00,19:40:10,stop_point:SP_2769,Billières,18
+2362032,19:40:00,19:40:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362032,19:41:00,19:41:10,stop_point:SP_4917,Tilleuls,20
+2362032,19:42:00,19:42:10,stop_point:SP_1893,Languedoc,21
+2362032,19:42:00,19:42:10,stop_point:SP_2417,Clos,22
+2362032,19:43:00,19:43:10,stop_point:SP_823,Tournelle,23
+2362032,19:43:00,19:43:10,stop_point:SP_1046,Tournelle,24
+2362033,20:15:00,20:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362033,20:16:00,20:16:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362033,20:17:00,20:17:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362033,20:18:00,20:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362033,20:24:00,20:24:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362033,20:26:00,20:26:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362033,20:28:00,20:28:10,stop_point:SP_2234,Avenir,7
+2362033,20:29:00,20:29:10,stop_point:SP_4920,Gagnac,8
+2362033,20:29:00,20:29:10,stop_point:SP_1626,Moulin,9
+2362033,20:30:00,20:30:10,stop_point:SP_1007,Voie Romaine,10
+2362033,20:30:00,20:30:10,stop_point:SP_1761,Berbie Blaize,11
+2362033,20:31:00,20:31:10,stop_point:SP_920,Mairie Gagnac,12
+2362033,20:32:00,20:32:10,stop_point:SP_7,Chêne Vert,13
+2362033,20:34:00,20:34:10,stop_point:SP_142,Montplaisir,14
+2362033,20:35:00,20:35:10,stop_point:SP_1796,Fenouillet Croix,15
+2362033,20:36:00,20:36:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362033,20:37:00,20:37:10,stop_point:SP_2487,Gourgues,17
+2362033,20:37:00,20:37:10,stop_point:SP_2769,Billières,18
+2362033,20:37:00,20:37:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362033,20:38:00,20:38:10,stop_point:SP_4917,Tilleuls,20
+2362033,20:39:00,20:39:10,stop_point:SP_1893,Languedoc,21
+2362033,20:39:00,20:39:10,stop_point:SP_2417,Clos,22
+2362033,20:40:00,20:40:10,stop_point:SP_823,Tournelle,23
+2362033,20:40:00,20:40:10,stop_point:SP_1046,Tournelle,24
+2362034,12:15:00,12:15:10,stop_point:SP_5277,Lycée Toulouse-Lautrec,1
+2362034,12:26:00,12:26:10,stop_point:SP_2490,La Vache,2
+2362034,12:28:00,12:28:10,stop_point:SP_2028,Pader,3
+2362034,12:29:00,12:29:10,stop_point:SP_1294,Le Grand Marché,4
+2362034,12:30:00,12:30:10,stop_point:SP_2231,Etats-Unis Fondeyre,5
+2362034,12:31:00,12:31:10,stop_point:SP_2429,Glacière,6
+2362034,12:33:00,12:33:10,stop_point:SP_1698,Cadène,7
+2362034,12:34:00,12:34:10,stop_point:SP_908,Rupé,8
+2362034,12:35:00,12:35:10,stop_point:SP_2946,Salvador Allende,9
+2362034,12:35:00,12:35:10,stop_point:SP_3459,Marie Curie,10
+2362034,12:36:00,12:36:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,11
+2362034,12:37:00,12:37:10,stop_point:SP_3118,Auguste Gratian,12
+2362034,12:39:00,12:39:10,stop_point:SP_2878,Plaine,13
+2362034,12:40:00,12:40:10,stop_point:SP_2349,St-Gobain,14
+2362034,12:42:00,12:42:10,stop_point:SP_1515,Mazurié,15
+2362034,12:44:00,12:44:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,16
+2362034,12:45:00,12:45:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,17
+2362034,12:52:00,12:52:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362034,12:55:00,12:55:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362034,12:57:00,12:57:10,stop_point:SP_2234,Avenir,20
+2362034,12:57:00,12:57:10,stop_point:SP_4920,Gagnac,21
+2362034,12:58:00,12:58:10,stop_point:SP_1626,Moulin,22
+2362034,12:59:00,12:59:10,stop_point:SP_1007,Voie Romaine,23
+2362034,12:59:00,12:59:10,stop_point:SP_1761,Berbie Blaize,24
+2362034,13:00:00,13:00:10,stop_point:SP_920,Mairie Gagnac,25
+2362034,13:01:00,13:01:10,stop_point:SP_7,Chêne Vert,26
+2362034,13:03:00,13:03:10,stop_point:SP_142,Montplaisir,27
+2362034,13:05:00,13:05:10,stop_point:SP_1796,Fenouillet Croix,28
+2362034,13:05:00,13:05:10,stop_point:SP_3344,Eglise Fenouillet,29
+2362034,13:06:00,13:06:10,stop_point:SP_2487,Gourgues,30
+2362034,13:07:00,13:07:10,stop_point:SP_2769,Billières,31
+2362034,13:07:00,13:07:10,stop_point:SP_2424,Mairie Fenouillet,32
+2362034,13:08:00,13:08:10,stop_point:SP_4917,Tilleuls,33
+2362034,13:09:00,13:09:10,stop_point:SP_1893,Languedoc,34
+2362034,13:09:00,13:09:10,stop_point:SP_2417,Clos,35
+2362034,13:10:00,13:10:10,stop_point:SP_823,Tournelle,36
+2362034,13:10:00,13:10:10,stop_point:SP_1046,Tournelle,37
+2362035,16:50:00,16:50:10,stop_point:SP_5277,Lycée Toulouse-Lautrec,1
+2362035,17:02:00,17:02:10,stop_point:SP_2490,La Vache,2
+2362035,17:04:00,17:04:10,stop_point:SP_2028,Pader,3
+2362035,17:05:00,17:05:10,stop_point:SP_1294,Le Grand Marché,4
+2362035,17:06:00,17:06:10,stop_point:SP_2231,Etats-Unis Fondeyre,5
+2362035,17:07:00,17:07:10,stop_point:SP_2429,Glacière,6
+2362035,17:11:00,17:11:10,stop_point:SP_1698,Cadène,7
+2362035,17:12:00,17:12:10,stop_point:SP_908,Rupé,8
+2362035,17:13:00,17:13:10,stop_point:SP_2946,Salvador Allende,9
+2362035,17:14:00,17:14:10,stop_point:SP_3459,Marie Curie,10
+2362035,17:15:00,17:15:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,11
+2362035,17:16:00,17:16:10,stop_point:SP_3118,Auguste Gratian,12
+2362035,17:18:00,17:18:10,stop_point:SP_2878,Plaine,13
+2362035,17:19:00,17:19:10,stop_point:SP_2349,St-Gobain,14
+2362035,17:21:00,17:21:10,stop_point:SP_1515,Mazurié,15
+2362035,17:23:00,17:23:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,16
+2362035,17:24:00,17:24:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,17
+2362035,17:33:00,17:33:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362035,17:36:00,17:36:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362035,17:38:00,17:38:10,stop_point:SP_2234,Avenir,20
+2362035,17:38:00,17:38:10,stop_point:SP_4920,Gagnac,21
+2362035,17:39:00,17:39:10,stop_point:SP_1626,Moulin,22
+2362035,17:40:00,17:40:10,stop_point:SP_1007,Voie Romaine,23
+2362035,17:40:00,17:40:10,stop_point:SP_1761,Berbie Blaize,24
+2362035,17:41:00,17:41:10,stop_point:SP_920,Mairie Gagnac,25
+2362035,17:42:00,17:42:10,stop_point:SP_7,Chêne Vert,26
+2362035,17:44:00,17:44:10,stop_point:SP_142,Montplaisir,27
+2362035,17:46:00,17:46:10,stop_point:SP_1796,Fenouillet Croix,28
+2362035,17:46:00,17:46:10,stop_point:SP_3344,Eglise Fenouillet,29
+2362035,17:47:00,17:47:10,stop_point:SP_2487,Gourgues,30
+2362035,17:48:00,17:48:10,stop_point:SP_2769,Billières,31
+2362035,17:48:00,17:48:10,stop_point:SP_2424,Mairie Fenouillet,32
+2362035,17:49:00,17:49:10,stop_point:SP_4917,Tilleuls,33
+2362035,17:50:00,17:50:10,stop_point:SP_1893,Languedoc,34
+2362035,17:50:00,17:50:10,stop_point:SP_2417,Clos,35
+2362035,17:51:00,17:51:10,stop_point:SP_823,Tournelle,36
+2362035,17:51:00,17:51:10,stop_point:SP_1046,Tournelle,37
+2362036,06:35:00,06:35:10,stop_point:SP_1046,Tournelle,1
+2362036,06:35:00,06:35:10,stop_point:SP_2100,Clos,2
+2362036,06:36:00,06:36:10,stop_point:SP_3720,Languedoc,3
+2362036,06:36:00,06:36:10,stop_point:SP_4919,Tilleuls,4
+2362036,06:37:00,06:37:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362036,06:37:00,06:37:10,stop_point:SP_1903,Billières,6
+2362036,06:38:00,06:38:10,stop_point:SP_3457,Gourgues,7
+2362036,06:39:00,06:39:10,stop_point:SP_299,Eglise Fenouillet,8
+2362036,06:39:00,06:39:10,stop_point:SP_1773,Fenouillet Croix,9
+2362036,06:40:00,06:40:10,stop_point:SP_3504,Montplaisir,10
+2362036,06:41:00,06:41:10,stop_point:SP_3461,Chêne Vert,11
+2362036,06:42:00,06:42:10,stop_point:SP_527,Mairie Gagnac,12
+2362036,06:43:00,06:43:10,stop_point:SP_2689,Berbie Blaize,13
+2362036,06:43:00,06:43:10,stop_point:SP_482,Voie Romaine,14
+2362036,06:44:00,06:44:10,stop_point:SP_2551,Moulin,15
+2362036,06:45:00,06:45:10,stop_point:SP_4918,Gagnac,16
+2362036,06:45:00,06:45:10,stop_point:SP_2083,Avenir,17
+2362036,06:47:00,06:47:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362036,06:50:00,06:50:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362036,06:55:00,06:55:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362037,06:50:00,06:50:10,stop_point:SP_1046,Tournelle,1
+2362037,06:50:00,06:50:10,stop_point:SP_2100,Clos,2
+2362037,06:51:00,06:51:10,stop_point:SP_3720,Languedoc,3
+2362037,06:51:00,06:51:10,stop_point:SP_4919,Tilleuls,4
+2362037,06:52:00,06:52:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362037,06:52:00,06:52:10,stop_point:SP_1903,Billières,6
+2362037,06:53:00,06:53:10,stop_point:SP_3457,Gourgues,7
+2362037,06:54:00,06:54:10,stop_point:SP_299,Eglise Fenouillet,8
+2362037,06:54:00,06:54:10,stop_point:SP_1773,Fenouillet Croix,9
+2362037,06:55:00,06:55:10,stop_point:SP_3504,Montplaisir,10
+2362037,06:56:00,06:56:10,stop_point:SP_3461,Chêne Vert,11
+2362037,06:57:00,06:57:10,stop_point:SP_527,Mairie Gagnac,12
+2362037,06:58:00,06:58:10,stop_point:SP_2689,Berbie Blaize,13
+2362037,06:58:00,06:58:10,stop_point:SP_482,Voie Romaine,14
+2362037,06:59:00,06:59:10,stop_point:SP_2551,Moulin,15
+2362037,07:00:00,07:00:10,stop_point:SP_4918,Gagnac,16
+2362037,07:00:00,07:00:10,stop_point:SP_2083,Avenir,17
+2362037,07:02:00,07:02:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362037,07:05:00,07:05:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362037,07:10:00,07:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362037,07:11:00,07:11:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,21
+2362037,07:13:00,07:13:10,stop_point:SP_2973,Mazurié,22
+2362037,07:15:00,07:15:10,stop_point:SP_3724,St-Gobain,23
+2362037,07:15:00,07:15:10,stop_point:SP_1071,Plaine,24
+2362037,07:17:00,07:17:10,stop_point:SP_2707,Auguste Gratian,25
+2362037,07:18:00,07:18:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,26
+2362037,07:19:00,07:19:10,stop_point:SP_3560,Marie Curie,27
+2362037,07:20:00,07:20:10,stop_point:SP_2642,Salvador Allende,28
+2362037,07:20:00,07:20:10,stop_point:SP_3440,Rupé,29
+2362037,07:22:00,07:22:10,stop_point:SP_409,Cadène,30
+2362037,07:25:00,07:25:10,stop_point:SP_3442,Etats-Unis Fondeyre,31
+2362037,07:26:00,07:26:10,stop_point:SP_1494,Le Grand Marché,32
+2362037,07:28:00,07:28:10,stop_point:SP_97,Pader,33
+2362037,07:29:00,07:29:10,stop_point:SP_2490,La Vache,34
+2362037,07:35:00,07:35:10,stop_point:SP_5277,Lycée Toulouse-Lautrec,35
+2362038,07:15:00,07:15:10,stop_point:SP_1046,Tournelle,1
+2362038,07:16:00,07:16:10,stop_point:SP_2100,Clos,2
+2362038,07:16:00,07:16:10,stop_point:SP_3720,Languedoc,3
+2362038,07:17:00,07:17:10,stop_point:SP_4919,Tilleuls,4
+2362038,07:17:00,07:17:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362038,07:18:00,07:18:10,stop_point:SP_1903,Billières,6
+2362038,07:18:00,07:18:10,stop_point:SP_3457,Gourgues,7
+2362038,07:19:00,07:19:10,stop_point:SP_299,Eglise Fenouillet,8
+2362038,07:20:00,07:20:10,stop_point:SP_1773,Fenouillet Croix,9
+2362038,07:21:00,07:21:10,stop_point:SP_3504,Montplaisir,10
+2362038,07:22:00,07:22:10,stop_point:SP_3461,Chêne Vert,11
+2362038,07:23:00,07:23:10,stop_point:SP_527,Mairie Gagnac,12
+2362038,07:24:00,07:24:10,stop_point:SP_2689,Berbie Blaize,13
+2362038,07:24:00,07:24:10,stop_point:SP_482,Voie Romaine,14
+2362038,07:25:00,07:25:10,stop_point:SP_2551,Moulin,15
+2362038,07:26:00,07:26:10,stop_point:SP_4918,Gagnac,16
+2362038,07:26:00,07:26:10,stop_point:SP_2083,Avenir,17
+2362038,07:28:00,07:28:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362038,07:31:00,07:31:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362038,07:36:00,07:36:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362039,07:36:00,07:36:10,stop_point:SP_1046,Tournelle,1
+2362039,07:37:00,07:37:10,stop_point:SP_2100,Clos,2
+2362039,07:37:00,07:37:10,stop_point:SP_3720,Languedoc,3
+2362039,07:38:00,07:38:10,stop_point:SP_4919,Tilleuls,4
+2362039,07:38:00,07:38:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362039,07:39:00,07:39:10,stop_point:SP_1903,Billières,6
+2362039,07:39:00,07:39:10,stop_point:SP_3457,Gourgues,7
+2362039,07:40:00,07:40:10,stop_point:SP_299,Eglise Fenouillet,8
+2362039,07:41:00,07:41:10,stop_point:SP_1773,Fenouillet Croix,9
+2362039,07:42:00,07:42:10,stop_point:SP_3504,Montplaisir,10
+2362039,07:43:00,07:43:10,stop_point:SP_3461,Chêne Vert,11
+2362039,07:44:00,07:44:10,stop_point:SP_527,Mairie Gagnac,12
+2362039,07:45:00,07:45:10,stop_point:SP_2689,Berbie Blaize,13
+2362039,07:45:00,07:45:10,stop_point:SP_482,Voie Romaine,14
+2362039,07:46:00,07:46:10,stop_point:SP_2551,Moulin,15
+2362039,07:47:00,07:47:10,stop_point:SP_4918,Gagnac,16
+2362039,07:48:00,07:48:10,stop_point:SP_2083,Avenir,17
+2362039,07:50:00,07:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362039,07:53:00,07:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362039,07:58:00,07:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362040,08:14:00,08:14:10,stop_point:SP_1046,Tournelle,1
+2362040,08:14:00,08:14:10,stop_point:SP_2100,Clos,2
+2362040,08:15:00,08:15:10,stop_point:SP_3720,Languedoc,3
+2362040,08:15:00,08:15:10,stop_point:SP_4919,Tilleuls,4
+2362040,08:16:00,08:16:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362040,08:16:00,08:16:10,stop_point:SP_1903,Billières,6
+2362040,08:17:00,08:17:10,stop_point:SP_3457,Gourgues,7
+2362040,08:18:00,08:18:10,stop_point:SP_299,Eglise Fenouillet,8
+2362040,08:18:00,08:18:10,stop_point:SP_1773,Fenouillet Croix,9
+2362040,08:19:00,08:19:10,stop_point:SP_3504,Montplaisir,10
+2362040,08:20:00,08:20:10,stop_point:SP_3461,Chêne Vert,11
+2362040,08:21:00,08:21:10,stop_point:SP_527,Mairie Gagnac,12
+2362040,08:22:00,08:22:10,stop_point:SP_2689,Berbie Blaize,13
+2362040,08:22:00,08:22:10,stop_point:SP_482,Voie Romaine,14
+2362040,08:23:00,08:23:10,stop_point:SP_2551,Moulin,15
+2362040,08:24:00,08:24:10,stop_point:SP_4918,Gagnac,16
+2362040,08:24:00,08:24:10,stop_point:SP_2083,Avenir,17
+2362040,08:26:00,08:26:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362040,08:29:00,08:29:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362040,08:34:00,08:34:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362041,08:43:00,08:43:10,stop_point:SP_1046,Tournelle,1
+2362041,08:43:00,08:43:10,stop_point:SP_2100,Clos,2
+2362041,08:44:00,08:44:10,stop_point:SP_3720,Languedoc,3
+2362041,08:44:00,08:44:10,stop_point:SP_4919,Tilleuls,4
+2362041,08:45:00,08:45:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362041,08:45:00,08:45:10,stop_point:SP_1903,Billières,6
+2362041,08:46:00,08:46:10,stop_point:SP_3457,Gourgues,7
+2362041,08:47:00,08:47:10,stop_point:SP_299,Eglise Fenouillet,8
+2362041,08:47:00,08:47:10,stop_point:SP_1773,Fenouillet Croix,9
+2362041,08:48:00,08:48:10,stop_point:SP_3504,Montplaisir,10
+2362041,08:49:00,08:49:10,stop_point:SP_3461,Chêne Vert,11
+2362041,08:50:00,08:50:10,stop_point:SP_527,Mairie Gagnac,12
+2362041,08:51:00,08:51:10,stop_point:SP_2689,Berbie Blaize,13
+2362041,08:51:00,08:51:10,stop_point:SP_482,Voie Romaine,14
+2362041,08:52:00,08:52:10,stop_point:SP_2551,Moulin,15
+2362041,08:53:00,08:53:10,stop_point:SP_4918,Gagnac,16
+2362041,08:53:00,08:53:10,stop_point:SP_2083,Avenir,17
+2362041,08:55:00,08:55:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362041,08:58:00,08:58:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362041,09:03:00,09:03:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362042,09:37:00,09:37:10,stop_point:SP_1046,Tournelle,1
+2362042,09:38:00,09:38:10,stop_point:SP_2100,Clos,2
+2362042,09:38:00,09:38:10,stop_point:SP_3720,Languedoc,3
+2362042,09:39:00,09:39:10,stop_point:SP_4919,Tilleuls,4
+2362042,09:39:00,09:39:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362042,09:40:00,09:40:10,stop_point:SP_1903,Billières,6
+2362042,09:40:00,09:40:10,stop_point:SP_3457,Gourgues,7
+2362042,09:41:00,09:41:10,stop_point:SP_299,Eglise Fenouillet,8
+2362042,09:42:00,09:42:10,stop_point:SP_1773,Fenouillet Croix,9
+2362042,09:43:00,09:43:10,stop_point:SP_3504,Montplaisir,10
+2362042,09:44:00,09:44:10,stop_point:SP_3461,Chêne Vert,11
+2362042,09:45:00,09:45:10,stop_point:SP_527,Mairie Gagnac,12
+2362042,09:46:00,09:46:10,stop_point:SP_2689,Berbie Blaize,13
+2362042,09:46:00,09:46:10,stop_point:SP_482,Voie Romaine,14
+2362042,09:47:00,09:47:10,stop_point:SP_2551,Moulin,15
+2362042,09:48:00,09:48:10,stop_point:SP_4918,Gagnac,16
+2362042,09:48:00,09:48:10,stop_point:SP_2083,Avenir,17
+2362042,09:50:00,09:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362042,09:53:00,09:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362042,09:58:00,09:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362043,10:37:00,10:37:10,stop_point:SP_1046,Tournelle,1
+2362043,10:38:00,10:38:10,stop_point:SP_2100,Clos,2
+2362043,10:38:00,10:38:10,stop_point:SP_3720,Languedoc,3
+2362043,10:39:00,10:39:10,stop_point:SP_4919,Tilleuls,4
+2362043,10:39:00,10:39:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362043,10:40:00,10:40:10,stop_point:SP_1903,Billières,6
+2362043,10:40:00,10:40:10,stop_point:SP_3457,Gourgues,7
+2362043,10:41:00,10:41:10,stop_point:SP_299,Eglise Fenouillet,8
+2362043,10:42:00,10:42:10,stop_point:SP_1773,Fenouillet Croix,9
+2362043,10:43:00,10:43:10,stop_point:SP_3504,Montplaisir,10
+2362043,10:44:00,10:44:10,stop_point:SP_3461,Chêne Vert,11
+2362043,10:45:00,10:45:10,stop_point:SP_527,Mairie Gagnac,12
+2362043,10:46:00,10:46:10,stop_point:SP_2689,Berbie Blaize,13
+2362043,10:46:00,10:46:10,stop_point:SP_482,Voie Romaine,14
+2362043,10:47:00,10:47:10,stop_point:SP_2551,Moulin,15
+2362043,10:48:00,10:48:10,stop_point:SP_4918,Gagnac,16
+2362043,10:48:00,10:48:10,stop_point:SP_2083,Avenir,17
+2362043,10:50:00,10:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362043,10:53:00,10:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362043,10:58:00,10:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362044,11:37:00,11:37:10,stop_point:SP_1046,Tournelle,1
+2362044,11:38:00,11:38:10,stop_point:SP_2100,Clos,2
+2362044,11:38:00,11:38:10,stop_point:SP_3720,Languedoc,3
+2362044,11:39:00,11:39:10,stop_point:SP_4919,Tilleuls,4
+2362044,11:39:00,11:39:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362044,11:40:00,11:40:10,stop_point:SP_1903,Billières,6
+2362044,11:40:00,11:40:10,stop_point:SP_3457,Gourgues,7
+2362044,11:41:00,11:41:10,stop_point:SP_299,Eglise Fenouillet,8
+2362044,11:42:00,11:42:10,stop_point:SP_1773,Fenouillet Croix,9
+2362044,11:43:00,11:43:10,stop_point:SP_3504,Montplaisir,10
+2362044,11:44:00,11:44:10,stop_point:SP_3461,Chêne Vert,11
+2362044,11:45:00,11:45:10,stop_point:SP_527,Mairie Gagnac,12
+2362044,11:46:00,11:46:10,stop_point:SP_2689,Berbie Blaize,13
+2362044,11:46:00,11:46:10,stop_point:SP_482,Voie Romaine,14
+2362044,11:47:00,11:47:10,stop_point:SP_2551,Moulin,15
+2362044,11:48:00,11:48:10,stop_point:SP_4918,Gagnac,16
+2362044,11:48:00,11:48:10,stop_point:SP_2083,Avenir,17
+2362044,11:50:00,11:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362044,11:53:00,11:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362044,11:58:00,11:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362045,12:32:00,12:32:10,stop_point:SP_1046,Tournelle,1
+2362045,12:33:00,12:33:10,stop_point:SP_2100,Clos,2
+2362045,12:33:00,12:33:10,stop_point:SP_3720,Languedoc,3
+2362045,12:34:00,12:34:10,stop_point:SP_4919,Tilleuls,4
+2362045,12:34:00,12:34:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362045,12:35:00,12:35:10,stop_point:SP_1903,Billières,6
+2362045,12:35:00,12:35:10,stop_point:SP_3457,Gourgues,7
+2362045,12:36:00,12:36:10,stop_point:SP_299,Eglise Fenouillet,8
+2362045,12:37:00,12:37:10,stop_point:SP_1773,Fenouillet Croix,9
+2362045,12:38:00,12:38:10,stop_point:SP_3504,Montplaisir,10
+2362045,12:39:00,12:39:10,stop_point:SP_3461,Chêne Vert,11
+2362045,12:40:00,12:40:10,stop_point:SP_527,Mairie Gagnac,12
+2362045,12:41:00,12:41:10,stop_point:SP_2689,Berbie Blaize,13
+2362045,12:41:00,12:41:10,stop_point:SP_482,Voie Romaine,14
+2362045,12:42:00,12:42:10,stop_point:SP_2551,Moulin,15
+2362045,12:43:00,12:43:10,stop_point:SP_4918,Gagnac,16
+2362045,12:43:00,12:43:10,stop_point:SP_2083,Avenir,17
+2362045,12:45:00,12:45:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362045,12:48:00,12:48:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362045,12:53:00,12:53:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362046,13:37:00,13:37:10,stop_point:SP_1046,Tournelle,1
+2362046,13:38:00,13:38:10,stop_point:SP_2100,Clos,2
+2362046,13:38:00,13:38:10,stop_point:SP_3720,Languedoc,3
+2362046,13:39:00,13:39:10,stop_point:SP_4919,Tilleuls,4
+2362046,13:39:00,13:39:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362046,13:40:00,13:40:10,stop_point:SP_1903,Billières,6
+2362046,13:40:00,13:40:10,stop_point:SP_3457,Gourgues,7
+2362046,13:41:00,13:41:10,stop_point:SP_299,Eglise Fenouillet,8
+2362046,13:42:00,13:42:10,stop_point:SP_1773,Fenouillet Croix,9
+2362046,13:43:00,13:43:10,stop_point:SP_3504,Montplaisir,10
+2362046,13:44:00,13:44:10,stop_point:SP_3461,Chêne Vert,11
+2362046,13:45:00,13:45:10,stop_point:SP_527,Mairie Gagnac,12
+2362046,13:46:00,13:46:10,stop_point:SP_2689,Berbie Blaize,13
+2362046,13:46:00,13:46:10,stop_point:SP_482,Voie Romaine,14
+2362046,13:47:00,13:47:10,stop_point:SP_2551,Moulin,15
+2362046,13:48:00,13:48:10,stop_point:SP_4918,Gagnac,16
+2362046,13:48:00,13:48:10,stop_point:SP_2083,Avenir,17
+2362046,13:50:00,13:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362046,13:53:00,13:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362046,13:58:00,13:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362047,14:37:00,14:37:10,stop_point:SP_1046,Tournelle,1
+2362047,14:38:00,14:38:10,stop_point:SP_2100,Clos,2
+2362047,14:38:00,14:38:10,stop_point:SP_3720,Languedoc,3
+2362047,14:39:00,14:39:10,stop_point:SP_4919,Tilleuls,4
+2362047,14:39:00,14:39:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362047,14:40:00,14:40:10,stop_point:SP_1903,Billières,6
+2362047,14:40:00,14:40:10,stop_point:SP_3457,Gourgues,7
+2362047,14:41:00,14:41:10,stop_point:SP_299,Eglise Fenouillet,8
+2362047,14:42:00,14:42:10,stop_point:SP_1773,Fenouillet Croix,9
+2362047,14:43:00,14:43:10,stop_point:SP_3504,Montplaisir,10
+2362047,14:44:00,14:44:10,stop_point:SP_3461,Chêne Vert,11
+2362047,14:45:00,14:45:10,stop_point:SP_527,Mairie Gagnac,12
+2362047,14:46:00,14:46:10,stop_point:SP_2689,Berbie Blaize,13
+2362047,14:46:00,14:46:10,stop_point:SP_482,Voie Romaine,14
+2362047,14:47:00,14:47:10,stop_point:SP_2551,Moulin,15
+2362047,14:48:00,14:48:10,stop_point:SP_4918,Gagnac,16
+2362047,14:48:00,14:48:10,stop_point:SP_2083,Avenir,17
+2362047,14:50:00,14:50:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362047,14:53:00,14:53:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362047,14:58:00,14:58:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362048,15:37:00,15:37:10,stop_point:SP_1046,Tournelle,1
+2362048,15:38:00,15:38:10,stop_point:SP_2100,Clos,2
+2362048,15:38:00,15:38:10,stop_point:SP_3720,Languedoc,3
+2362048,15:39:00,15:39:10,stop_point:SP_4919,Tilleuls,4
+2362048,15:40:00,15:40:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362048,15:41:00,15:41:10,stop_point:SP_1903,Billières,6
+2362048,15:41:00,15:41:10,stop_point:SP_3457,Gourgues,7
+2362048,15:42:00,15:42:10,stop_point:SP_299,Eglise Fenouillet,8
+2362048,15:43:00,15:43:10,stop_point:SP_1773,Fenouillet Croix,9
+2362048,15:44:00,15:44:10,stop_point:SP_3504,Montplaisir,10
+2362048,15:45:00,15:45:10,stop_point:SP_3461,Chêne Vert,11
+2362048,15:46:00,15:46:10,stop_point:SP_527,Mairie Gagnac,12
+2362048,15:47:00,15:47:10,stop_point:SP_2689,Berbie Blaize,13
+2362048,15:47:00,15:47:10,stop_point:SP_482,Voie Romaine,14
+2362048,15:48:00,15:48:10,stop_point:SP_2551,Moulin,15
+2362048,15:49:00,15:49:10,stop_point:SP_4918,Gagnac,16
+2362048,15:49:00,15:49:10,stop_point:SP_2083,Avenir,17
+2362048,15:51:00,15:51:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362048,15:54:00,15:54:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362048,15:59:00,15:59:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362049,16:37:00,16:37:10,stop_point:SP_1046,Tournelle,1
+2362049,16:38:00,16:38:10,stop_point:SP_2100,Clos,2
+2362049,16:38:00,16:38:10,stop_point:SP_3720,Languedoc,3
+2362049,16:39:00,16:39:10,stop_point:SP_4919,Tilleuls,4
+2362049,16:40:00,16:40:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362049,16:41:00,16:41:10,stop_point:SP_1903,Billières,6
+2362049,16:41:00,16:41:10,stop_point:SP_3457,Gourgues,7
+2362049,16:42:00,16:42:10,stop_point:SP_299,Eglise Fenouillet,8
+2362049,16:43:00,16:43:10,stop_point:SP_1773,Fenouillet Croix,9
+2362049,16:44:00,16:44:10,stop_point:SP_3504,Montplaisir,10
+2362049,16:45:00,16:45:10,stop_point:SP_3461,Chêne Vert,11
+2362049,16:46:00,16:46:10,stop_point:SP_527,Mairie Gagnac,12
+2362049,16:47:00,16:47:10,stop_point:SP_2689,Berbie Blaize,13
+2362049,16:47:00,16:47:10,stop_point:SP_482,Voie Romaine,14
+2362049,16:48:00,16:48:10,stop_point:SP_2551,Moulin,15
+2362049,16:49:00,16:49:10,stop_point:SP_4918,Gagnac,16
+2362049,16:49:00,16:49:10,stop_point:SP_2083,Avenir,17
+2362049,16:51:00,16:51:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362049,16:54:00,16:54:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362049,16:59:00,16:59:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362050,17:15:00,17:15:10,stop_point:SP_1046,Tournelle,1
+2362050,17:16:00,17:16:10,stop_point:SP_2100,Clos,2
+2362050,17:16:00,17:16:10,stop_point:SP_3720,Languedoc,3
+2362050,17:17:00,17:17:10,stop_point:SP_4919,Tilleuls,4
+2362050,17:18:00,17:18:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362050,17:19:00,17:19:10,stop_point:SP_1903,Billières,6
+2362050,17:19:00,17:19:10,stop_point:SP_3457,Gourgues,7
+2362050,17:20:00,17:20:10,stop_point:SP_299,Eglise Fenouillet,8
+2362050,17:21:00,17:21:10,stop_point:SP_1773,Fenouillet Croix,9
+2362050,17:22:00,17:22:10,stop_point:SP_3504,Montplaisir,10
+2362050,17:23:00,17:23:10,stop_point:SP_3461,Chêne Vert,11
+2362050,17:24:00,17:24:10,stop_point:SP_527,Mairie Gagnac,12
+2362050,17:25:00,17:25:10,stop_point:SP_2689,Berbie Blaize,13
+2362050,17:25:00,17:25:10,stop_point:SP_482,Voie Romaine,14
+2362050,17:26:00,17:26:10,stop_point:SP_2551,Moulin,15
+2362050,17:27:00,17:27:10,stop_point:SP_4918,Gagnac,16
+2362050,17:27:00,17:27:10,stop_point:SP_2083,Avenir,17
+2362050,17:29:00,17:29:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362050,17:32:00,17:32:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362050,17:38:00,17:38:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362051,17:44:00,17:44:10,stop_point:SP_1046,Tournelle,1
+2362051,17:45:00,17:45:10,stop_point:SP_2100,Clos,2
+2362051,17:45:00,17:45:10,stop_point:SP_3720,Languedoc,3
+2362051,17:46:00,17:46:10,stop_point:SP_4919,Tilleuls,4
+2362051,17:47:00,17:47:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362051,17:48:00,17:48:10,stop_point:SP_1903,Billières,6
+2362051,17:48:00,17:48:10,stop_point:SP_3457,Gourgues,7
+2362051,17:49:00,17:49:10,stop_point:SP_299,Eglise Fenouillet,8
+2362051,17:50:00,17:50:10,stop_point:SP_1773,Fenouillet Croix,9
+2362051,17:51:00,17:51:10,stop_point:SP_3504,Montplaisir,10
+2362051,17:52:00,17:52:10,stop_point:SP_3461,Chêne Vert,11
+2362051,17:53:00,17:53:10,stop_point:SP_527,Mairie Gagnac,12
+2362051,17:54:00,17:54:10,stop_point:SP_2689,Berbie Blaize,13
+2362051,17:54:00,17:54:10,stop_point:SP_482,Voie Romaine,14
+2362051,17:55:00,17:55:10,stop_point:SP_2551,Moulin,15
+2362051,17:56:00,17:56:10,stop_point:SP_4918,Gagnac,16
+2362051,17:56:00,17:56:10,stop_point:SP_2083,Avenir,17
+2362051,17:58:00,17:58:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362051,18:01:00,18:01:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362051,18:07:00,18:07:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362052,18:14:00,18:14:10,stop_point:SP_1046,Tournelle,1
+2362052,18:15:00,18:15:10,stop_point:SP_2100,Clos,2
+2362052,18:15:00,18:15:10,stop_point:SP_3720,Languedoc,3
+2362052,18:16:00,18:16:10,stop_point:SP_4919,Tilleuls,4
+2362052,18:16:00,18:16:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362052,18:17:00,18:17:10,stop_point:SP_1903,Billières,6
+2362052,18:17:00,18:17:10,stop_point:SP_3457,Gourgues,7
+2362052,18:18:00,18:18:10,stop_point:SP_299,Eglise Fenouillet,8
+2362052,18:19:00,18:19:10,stop_point:SP_1773,Fenouillet Croix,9
+2362052,18:20:00,18:20:10,stop_point:SP_3504,Montplaisir,10
+2362052,18:21:00,18:21:10,stop_point:SP_3461,Chêne Vert,11
+2362052,18:22:00,18:22:10,stop_point:SP_527,Mairie Gagnac,12
+2362052,18:23:00,18:23:10,stop_point:SP_2689,Berbie Blaize,13
+2362052,18:23:00,18:23:10,stop_point:SP_482,Voie Romaine,14
+2362052,18:24:00,18:24:10,stop_point:SP_2551,Moulin,15
+2362052,18:25:00,18:25:10,stop_point:SP_4918,Gagnac,16
+2362052,18:25:00,18:25:10,stop_point:SP_2083,Avenir,17
+2362052,18:27:00,18:27:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362052,18:30:00,18:30:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362052,18:36:00,18:36:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362053,18:43:00,18:43:10,stop_point:SP_1046,Tournelle,1
+2362053,18:44:00,18:44:10,stop_point:SP_2100,Clos,2
+2362053,18:44:00,18:44:10,stop_point:SP_3720,Languedoc,3
+2362053,18:45:00,18:45:10,stop_point:SP_4919,Tilleuls,4
+2362053,18:45:00,18:45:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362053,18:46:00,18:46:10,stop_point:SP_1903,Billières,6
+2362053,18:46:00,18:46:10,stop_point:SP_3457,Gourgues,7
+2362053,18:47:00,18:47:10,stop_point:SP_299,Eglise Fenouillet,8
+2362053,18:48:00,18:48:10,stop_point:SP_1773,Fenouillet Croix,9
+2362053,18:49:00,18:49:10,stop_point:SP_3504,Montplaisir,10
+2362053,18:50:00,18:50:10,stop_point:SP_3461,Chêne Vert,11
+2362053,18:51:00,18:51:10,stop_point:SP_527,Mairie Gagnac,12
+2362053,18:52:00,18:52:10,stop_point:SP_2689,Berbie Blaize,13
+2362053,18:52:00,18:52:10,stop_point:SP_482,Voie Romaine,14
+2362053,18:53:00,18:53:10,stop_point:SP_2551,Moulin,15
+2362053,18:53:00,18:53:10,stop_point:SP_4918,Gagnac,16
+2362053,18:54:00,18:54:10,stop_point:SP_2083,Avenir,17
+2362053,18:56:00,18:56:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362053,18:58:00,18:58:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362053,19:04:00,19:04:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362054,19:43:00,19:43:10,stop_point:SP_1046,Tournelle,1
+2362054,19:44:00,19:44:10,stop_point:SP_2100,Clos,2
+2362054,19:44:00,19:44:10,stop_point:SP_3720,Languedoc,3
+2362054,19:45:00,19:45:10,stop_point:SP_4919,Tilleuls,4
+2362054,19:45:00,19:45:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362054,19:46:00,19:46:10,stop_point:SP_1903,Billières,6
+2362054,19:46:00,19:46:10,stop_point:SP_3457,Gourgues,7
+2362054,19:47:00,19:47:10,stop_point:SP_299,Eglise Fenouillet,8
+2362054,19:48:00,19:48:10,stop_point:SP_1773,Fenouillet Croix,9
+2362054,19:49:00,19:49:10,stop_point:SP_3504,Montplaisir,10
+2362054,19:50:00,19:50:10,stop_point:SP_3461,Chêne Vert,11
+2362054,19:51:00,19:51:10,stop_point:SP_527,Mairie Gagnac,12
+2362054,19:52:00,19:52:10,stop_point:SP_2689,Berbie Blaize,13
+2362054,19:52:00,19:52:10,stop_point:SP_482,Voie Romaine,14
+2362054,19:53:00,19:53:10,stop_point:SP_2551,Moulin,15
+2362054,19:53:00,19:53:10,stop_point:SP_4918,Gagnac,16
+2362054,19:54:00,19:54:10,stop_point:SP_2083,Avenir,17
+2362054,19:56:00,19:56:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362054,19:58:00,19:58:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362054,20:04:00,20:04:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362055,20:40:00,20:40:10,stop_point:SP_1046,Tournelle,1
+2362055,20:41:00,20:41:10,stop_point:SP_2100,Clos,2
+2362055,20:41:00,20:41:10,stop_point:SP_3720,Languedoc,3
+2362055,20:42:00,20:42:10,stop_point:SP_4919,Tilleuls,4
+2362055,20:42:00,20:42:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362055,20:43:00,20:43:10,stop_point:SP_1903,Billières,6
+2362055,20:43:00,20:43:10,stop_point:SP_3457,Gourgues,7
+2362055,20:44:00,20:44:10,stop_point:SP_299,Eglise Fenouillet,8
+2362055,20:45:00,20:45:10,stop_point:SP_1773,Fenouillet Croix,9
+2362055,20:46:00,20:46:10,stop_point:SP_3504,Montplaisir,10
+2362055,20:47:00,20:47:10,stop_point:SP_3461,Chêne Vert,11
+2362055,20:48:00,20:48:10,stop_point:SP_527,Mairie Gagnac,12
+2362055,20:49:00,20:49:10,stop_point:SP_2689,Berbie Blaize,13
+2362055,20:49:00,20:49:10,stop_point:SP_482,Voie Romaine,14
+2362055,20:50:00,20:50:10,stop_point:SP_2551,Moulin,15
+2362055,20:50:00,20:50:10,stop_point:SP_4918,Gagnac,16
+2362055,20:51:00,20:51:10,stop_point:SP_2083,Avenir,17
+2362055,20:53:00,20:53:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362055,20:55:00,20:55:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362055,21:01:00,21:01:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362056,08:00:00,08:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362056,08:01:00,08:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362056,08:02:00,08:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362056,08:03:00,08:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362056,08:09:00,08:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362056,08:12:00,08:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362056,08:14:00,08:14:10,stop_point:SP_2234,Avenir,7
+2362056,08:15:00,08:15:10,stop_point:SP_4920,Gagnac,8
+2362056,08:15:00,08:15:10,stop_point:SP_1626,Moulin,9
+2362056,08:16:00,08:16:10,stop_point:SP_1007,Voie Romaine,10
+2362056,08:17:00,08:17:10,stop_point:SP_1761,Berbie Blaize,11
+2362056,08:18:00,08:18:10,stop_point:SP_920,Mairie Gagnac,12
+2362056,08:19:00,08:19:10,stop_point:SP_7,Chêne Vert,13
+2362056,08:21:00,08:21:10,stop_point:SP_142,Montplaisir,14
+2362056,08:22:00,08:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362056,08:23:00,08:23:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362056,08:24:00,08:24:10,stop_point:SP_2487,Gourgues,17
+2362056,08:25:00,08:25:10,stop_point:SP_2769,Billières,18
+2362056,08:25:00,08:25:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362056,08:26:00,08:26:10,stop_point:SP_4917,Tilleuls,20
+2362056,08:26:00,08:26:10,stop_point:SP_1893,Languedoc,21
+2362056,08:27:00,08:27:10,stop_point:SP_2417,Clos,22
+2362056,08:28:00,08:28:10,stop_point:SP_823,Tournelle,23
+2362056,08:28:00,08:28:10,stop_point:SP_1046,Tournelle,24
+2362057,09:00:00,09:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362057,09:01:00,09:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362057,09:02:00,09:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362057,09:03:00,09:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362057,09:09:00,09:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362057,09:12:00,09:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362057,09:14:00,09:14:10,stop_point:SP_2234,Avenir,7
+2362057,09:14:00,09:14:10,stop_point:SP_4920,Gagnac,8
+2362057,09:15:00,09:15:10,stop_point:SP_1626,Moulin,9
+2362057,09:16:00,09:16:10,stop_point:SP_1007,Voie Romaine,10
+2362057,09:16:00,09:16:10,stop_point:SP_1761,Berbie Blaize,11
+2362057,09:17:00,09:17:10,stop_point:SP_920,Mairie Gagnac,12
+2362057,09:18:00,09:18:10,stop_point:SP_7,Chêne Vert,13
+2362057,09:20:00,09:20:10,stop_point:SP_142,Montplaisir,14
+2362057,09:22:00,09:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362057,09:22:00,09:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362057,09:23:00,09:23:10,stop_point:SP_2487,Gourgues,17
+2362057,09:24:00,09:24:10,stop_point:SP_2769,Billières,18
+2362057,09:24:00,09:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362057,09:25:00,09:25:10,stop_point:SP_4917,Tilleuls,20
+2362057,09:26:00,09:26:10,stop_point:SP_1893,Languedoc,21
+2362057,09:26:00,09:26:10,stop_point:SP_2417,Clos,22
+2362057,09:27:00,09:27:10,stop_point:SP_823,Tournelle,23
+2362057,09:27:00,09:27:10,stop_point:SP_1046,Tournelle,24
+2362058,10:00:00,10:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362058,10:01:00,10:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362058,10:02:00,10:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362058,10:03:00,10:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362058,10:09:00,10:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362058,10:12:00,10:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362058,10:14:00,10:14:10,stop_point:SP_2234,Avenir,7
+2362058,10:14:00,10:14:10,stop_point:SP_4920,Gagnac,8
+2362058,10:15:00,10:15:10,stop_point:SP_1626,Moulin,9
+2362058,10:16:00,10:16:10,stop_point:SP_1007,Voie Romaine,10
+2362058,10:16:00,10:16:10,stop_point:SP_1761,Berbie Blaize,11
+2362058,10:17:00,10:17:10,stop_point:SP_920,Mairie Gagnac,12
+2362058,10:18:00,10:18:10,stop_point:SP_7,Chêne Vert,13
+2362058,10:20:00,10:20:10,stop_point:SP_142,Montplaisir,14
+2362058,10:22:00,10:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362058,10:22:00,10:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362058,10:23:00,10:23:10,stop_point:SP_2487,Gourgues,17
+2362058,10:24:00,10:24:10,stop_point:SP_2769,Billières,18
+2362058,10:24:00,10:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362058,10:25:00,10:25:10,stop_point:SP_4917,Tilleuls,20
+2362058,10:26:00,10:26:10,stop_point:SP_1893,Languedoc,21
+2362058,10:26:00,10:26:10,stop_point:SP_2417,Clos,22
+2362058,10:27:00,10:27:10,stop_point:SP_823,Tournelle,23
+2362058,10:27:00,10:27:10,stop_point:SP_1046,Tournelle,24
+2362059,11:00:00,11:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362059,11:01:00,11:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362059,11:02:00,11:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362059,11:03:00,11:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362059,11:09:00,11:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362059,11:12:00,11:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362059,11:14:00,11:14:10,stop_point:SP_2234,Avenir,7
+2362059,11:14:00,11:14:10,stop_point:SP_4920,Gagnac,8
+2362059,11:15:00,11:15:10,stop_point:SP_1626,Moulin,9
+2362059,11:16:00,11:16:10,stop_point:SP_1007,Voie Romaine,10
+2362059,11:16:00,11:16:10,stop_point:SP_1761,Berbie Blaize,11
+2362059,11:17:00,11:17:10,stop_point:SP_920,Mairie Gagnac,12
+2362059,11:18:00,11:18:10,stop_point:SP_7,Chêne Vert,13
+2362059,11:20:00,11:20:10,stop_point:SP_142,Montplaisir,14
+2362059,11:22:00,11:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362059,11:22:00,11:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362059,11:23:00,11:23:10,stop_point:SP_2487,Gourgues,17
+2362059,11:24:00,11:24:10,stop_point:SP_2769,Billières,18
+2362059,11:24:00,11:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362059,11:25:00,11:25:10,stop_point:SP_4917,Tilleuls,20
+2362059,11:26:00,11:26:10,stop_point:SP_1893,Languedoc,21
+2362059,11:26:00,11:26:10,stop_point:SP_2417,Clos,22
+2362059,11:27:00,11:27:10,stop_point:SP_823,Tournelle,23
+2362059,11:27:00,11:27:10,stop_point:SP_1046,Tournelle,24
+2362060,12:00:00,12:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362060,12:01:00,12:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362060,12:02:00,12:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362060,12:03:00,12:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362060,12:09:00,12:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362060,12:12:00,12:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362060,12:14:00,12:14:10,stop_point:SP_2234,Avenir,7
+2362060,12:14:00,12:14:10,stop_point:SP_4920,Gagnac,8
+2362060,12:15:00,12:15:10,stop_point:SP_1626,Moulin,9
+2362060,12:16:00,12:16:10,stop_point:SP_1007,Voie Romaine,10
+2362060,12:16:00,12:16:10,stop_point:SP_1761,Berbie Blaize,11
+2362060,12:17:00,12:17:10,stop_point:SP_920,Mairie Gagnac,12
+2362060,12:18:00,12:18:10,stop_point:SP_7,Chêne Vert,13
+2362060,12:20:00,12:20:10,stop_point:SP_142,Montplaisir,14
+2362060,12:22:00,12:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362060,12:22:00,12:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362060,12:23:00,12:23:10,stop_point:SP_2487,Gourgues,17
+2362060,12:24:00,12:24:10,stop_point:SP_2769,Billières,18
+2362060,12:24:00,12:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362060,12:25:00,12:25:10,stop_point:SP_4917,Tilleuls,20
+2362060,12:26:00,12:26:10,stop_point:SP_1893,Languedoc,21
+2362060,12:26:00,12:26:10,stop_point:SP_2417,Clos,22
+2362060,12:27:00,12:27:10,stop_point:SP_823,Tournelle,23
+2362060,12:27:00,12:27:10,stop_point:SP_1046,Tournelle,24
+2362061,13:00:00,13:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362061,13:01:00,13:01:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362061,13:02:00,13:02:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362061,13:03:00,13:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362061,13:09:00,13:09:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362061,13:12:00,13:12:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362061,13:14:00,13:14:10,stop_point:SP_2234,Avenir,7
+2362061,13:14:00,13:14:10,stop_point:SP_4920,Gagnac,8
+2362061,13:15:00,13:15:10,stop_point:SP_1626,Moulin,9
+2362061,13:16:00,13:16:10,stop_point:SP_1007,Voie Romaine,10
+2362061,13:16:00,13:16:10,stop_point:SP_1761,Berbie Blaize,11
+2362061,13:17:00,13:17:10,stop_point:SP_920,Mairie Gagnac,12
+2362061,13:18:00,13:18:10,stop_point:SP_7,Chêne Vert,13
+2362061,13:20:00,13:20:10,stop_point:SP_142,Montplaisir,14
+2362061,13:22:00,13:22:10,stop_point:SP_1796,Fenouillet Croix,15
+2362061,13:22:00,13:22:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362061,13:23:00,13:23:10,stop_point:SP_2487,Gourgues,17
+2362061,13:24:00,13:24:10,stop_point:SP_2769,Billières,18
+2362061,13:24:00,13:24:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362061,13:25:00,13:25:10,stop_point:SP_4917,Tilleuls,20
+2362061,13:26:00,13:26:10,stop_point:SP_1893,Languedoc,21
+2362061,13:26:00,13:26:10,stop_point:SP_2417,Clos,22
+2362061,13:27:00,13:27:10,stop_point:SP_823,Tournelle,23
+2362061,13:27:00,13:27:10,stop_point:SP_1046,Tournelle,24
+2362062,14:18:00,14:18:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362062,14:19:00,14:19:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362062,14:20:00,14:20:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362062,14:21:00,14:21:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362062,14:27:00,14:27:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362062,14:30:00,14:30:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362062,14:32:00,14:32:10,stop_point:SP_2234,Avenir,7
+2362062,14:32:00,14:32:10,stop_point:SP_4920,Gagnac,8
+2362062,14:33:00,14:33:10,stop_point:SP_1626,Moulin,9
+2362062,14:34:00,14:34:10,stop_point:SP_1007,Voie Romaine,10
+2362062,14:34:00,14:34:10,stop_point:SP_1761,Berbie Blaize,11
+2362062,14:35:00,14:35:10,stop_point:SP_920,Mairie Gagnac,12
+2362062,14:36:00,14:36:10,stop_point:SP_7,Chêne Vert,13
+2362062,14:38:00,14:38:10,stop_point:SP_142,Montplaisir,14
+2362062,14:40:00,14:40:10,stop_point:SP_1796,Fenouillet Croix,15
+2362062,14:40:00,14:40:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362062,14:41:00,14:41:10,stop_point:SP_2487,Gourgues,17
+2362062,14:42:00,14:42:10,stop_point:SP_2769,Billières,18
+2362062,14:42:00,14:42:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362062,14:43:00,14:43:10,stop_point:SP_4917,Tilleuls,20
+2362062,14:44:00,14:44:10,stop_point:SP_1893,Languedoc,21
+2362062,14:44:00,14:44:10,stop_point:SP_2417,Clos,22
+2362062,14:45:00,14:45:10,stop_point:SP_823,Tournelle,23
+2362062,14:45:00,14:45:10,stop_point:SP_1046,Tournelle,24
+2362063,15:21:00,15:21:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362063,15:22:00,15:22:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362063,15:23:00,15:23:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362063,15:24:00,15:24:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362063,15:30:00,15:30:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362063,15:33:00,15:33:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362063,15:35:00,15:35:10,stop_point:SP_2234,Avenir,7
+2362063,15:35:00,15:35:10,stop_point:SP_4920,Gagnac,8
+2362063,15:36:00,15:36:10,stop_point:SP_1626,Moulin,9
+2362063,15:37:00,15:37:10,stop_point:SP_1007,Voie Romaine,10
+2362063,15:37:00,15:37:10,stop_point:SP_1761,Berbie Blaize,11
+2362063,15:38:00,15:38:10,stop_point:SP_920,Mairie Gagnac,12
+2362063,15:39:00,15:39:10,stop_point:SP_7,Chêne Vert,13
+2362063,15:41:00,15:41:10,stop_point:SP_142,Montplaisir,14
+2362063,15:43:00,15:43:10,stop_point:SP_1796,Fenouillet Croix,15
+2362063,15:43:00,15:43:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362063,15:44:00,15:44:10,stop_point:SP_2487,Gourgues,17
+2362063,15:45:00,15:45:10,stop_point:SP_2769,Billières,18
+2362063,15:45:00,15:45:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362063,15:46:00,15:46:10,stop_point:SP_4917,Tilleuls,20
+2362063,15:47:00,15:47:10,stop_point:SP_1893,Languedoc,21
+2362063,15:47:00,15:47:10,stop_point:SP_2417,Clos,22
+2362063,15:48:00,15:48:10,stop_point:SP_823,Tournelle,23
+2362063,15:48:00,15:48:10,stop_point:SP_1046,Tournelle,24
+2362064,16:21:00,16:21:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362064,16:22:00,16:22:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362064,16:23:00,16:23:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362064,16:24:00,16:24:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362064,16:30:00,16:30:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362064,16:33:00,16:33:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362064,16:35:00,16:35:10,stop_point:SP_2234,Avenir,7
+2362064,16:36:00,16:36:10,stop_point:SP_4920,Gagnac,8
+2362064,16:36:00,16:36:10,stop_point:SP_1626,Moulin,9
+2362064,16:37:00,16:37:10,stop_point:SP_1007,Voie Romaine,10
+2362064,16:38:00,16:38:10,stop_point:SP_1761,Berbie Blaize,11
+2362064,16:39:00,16:39:10,stop_point:SP_920,Mairie Gagnac,12
+2362064,16:40:00,16:40:10,stop_point:SP_7,Chêne Vert,13
+2362064,16:42:00,16:42:10,stop_point:SP_142,Montplaisir,14
+2362064,16:43:00,16:43:10,stop_point:SP_1796,Fenouillet Croix,15
+2362064,16:44:00,16:44:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362064,16:45:00,16:45:10,stop_point:SP_2487,Gourgues,17
+2362064,16:46:00,16:46:10,stop_point:SP_2769,Billières,18
+2362064,16:46:00,16:46:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362064,16:47:00,16:47:10,stop_point:SP_4917,Tilleuls,20
+2362064,16:47:00,16:47:10,stop_point:SP_1893,Languedoc,21
+2362064,16:48:00,16:48:10,stop_point:SP_2417,Clos,22
+2362064,16:49:00,16:49:10,stop_point:SP_823,Tournelle,23
+2362064,16:49:00,16:49:10,stop_point:SP_1046,Tournelle,24
+2362065,17:21:00,17:21:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362065,17:22:00,17:22:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362065,17:23:00,17:23:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362065,17:24:00,17:24:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362065,17:32:00,17:32:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362065,17:35:00,17:35:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362065,17:37:00,17:37:10,stop_point:SP_2234,Avenir,7
+2362065,17:37:00,17:37:10,stop_point:SP_4920,Gagnac,8
+2362065,17:38:00,17:38:10,stop_point:SP_1626,Moulin,9
+2362065,17:39:00,17:39:10,stop_point:SP_1007,Voie Romaine,10
+2362065,17:39:00,17:39:10,stop_point:SP_1761,Berbie Blaize,11
+2362065,17:40:00,17:40:10,stop_point:SP_920,Mairie Gagnac,12
+2362065,17:41:00,17:41:10,stop_point:SP_7,Chêne Vert,13
+2362065,17:43:00,17:43:10,stop_point:SP_142,Montplaisir,14
+2362065,17:45:00,17:45:10,stop_point:SP_1796,Fenouillet Croix,15
+2362065,17:45:00,17:45:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362065,17:46:00,17:46:10,stop_point:SP_2487,Gourgues,17
+2362065,17:47:00,17:47:10,stop_point:SP_2769,Billières,18
+2362065,17:47:00,17:47:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362065,17:48:00,17:48:10,stop_point:SP_4917,Tilleuls,20
+2362065,17:49:00,17:49:10,stop_point:SP_1893,Languedoc,21
+2362065,17:49:00,17:49:10,stop_point:SP_2417,Clos,22
+2362065,17:50:00,17:50:10,stop_point:SP_823,Tournelle,23
+2362065,17:50:00,17:50:10,stop_point:SP_1046,Tournelle,24
+2362066,18:25:00,18:25:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362066,18:26:00,18:26:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362066,18:27:00,18:27:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362066,18:28:00,18:28:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362066,18:36:00,18:36:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362066,18:38:00,18:38:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362066,18:40:00,18:40:10,stop_point:SP_2234,Avenir,7
+2362066,18:41:00,18:41:10,stop_point:SP_4920,Gagnac,8
+2362066,18:41:00,18:41:10,stop_point:SP_1626,Moulin,9
+2362066,18:42:00,18:42:10,stop_point:SP_1007,Voie Romaine,10
+2362066,18:43:00,18:43:10,stop_point:SP_1761,Berbie Blaize,11
+2362066,18:44:00,18:44:10,stop_point:SP_920,Mairie Gagnac,12
+2362066,18:45:00,18:45:10,stop_point:SP_7,Chêne Vert,13
+2362066,18:46:00,18:46:10,stop_point:SP_142,Montplaisir,14
+2362066,18:48:00,18:48:10,stop_point:SP_1796,Fenouillet Croix,15
+2362066,18:48:00,18:48:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362066,18:49:00,18:49:10,stop_point:SP_2487,Gourgues,17
+2362066,18:50:00,18:50:10,stop_point:SP_2769,Billières,18
+2362066,18:50:00,18:50:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362066,18:51:00,18:51:10,stop_point:SP_4917,Tilleuls,20
+2362066,18:52:00,18:52:10,stop_point:SP_1893,Languedoc,21
+2362066,18:52:00,18:52:10,stop_point:SP_2417,Clos,22
+2362066,18:53:00,18:53:10,stop_point:SP_823,Tournelle,23
+2362066,18:53:00,18:53:10,stop_point:SP_1046,Tournelle,24
+2362067,19:30:00,19:30:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2362067,19:31:00,19:31:10,stop_point:SP_5168,Fenouillet Ctre Cial - Entrée Sud,2
+2362067,19:32:00,19:32:10,stop_point:SP_5169,Fenouillet Ctre Cial - Entrée Sud,3
+2362067,19:33:00,19:33:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,4
+2362067,19:41:00,19:41:10,stop_point:SP_5215,Lespinasse Mairie,5
+2362067,19:43:00,19:43:10,stop_point:SP_3555,Lespinasse Mairie,6
+2362067,19:45:00,19:45:10,stop_point:SP_2234,Avenir,7
+2362067,19:46:00,19:46:10,stop_point:SP_4920,Gagnac,8
+2362067,19:46:00,19:46:10,stop_point:SP_1626,Moulin,9
+2362067,19:47:00,19:47:10,stop_point:SP_1007,Voie Romaine,10
+2362067,19:48:00,19:48:10,stop_point:SP_1761,Berbie Blaize,11
+2362067,19:49:00,19:49:10,stop_point:SP_920,Mairie Gagnac,12
+2362067,19:50:00,19:50:10,stop_point:SP_7,Chêne Vert,13
+2362067,19:51:00,19:51:10,stop_point:SP_142,Montplaisir,14
+2362067,19:53:00,19:53:10,stop_point:SP_1796,Fenouillet Croix,15
+2362067,19:53:00,19:53:10,stop_point:SP_3344,Eglise Fenouillet,16
+2362067,19:54:00,19:54:10,stop_point:SP_2487,Gourgues,17
+2362067,19:55:00,19:55:10,stop_point:SP_2769,Billières,18
+2362067,19:55:00,19:55:10,stop_point:SP_2424,Mairie Fenouillet,19
+2362067,19:56:00,19:56:10,stop_point:SP_4917,Tilleuls,20
+2362067,19:57:00,19:57:10,stop_point:SP_1893,Languedoc,21
+2362067,19:57:00,19:57:10,stop_point:SP_2417,Clos,22
+2362067,19:58:00,19:58:10,stop_point:SP_823,Tournelle,23
+2362067,19:58:00,19:58:10,stop_point:SP_1046,Tournelle,24
+2362068,07:25:00,07:25:10,stop_point:SP_1046,Tournelle,1
+2362068,07:26:00,07:26:10,stop_point:SP_2100,Clos,2
+2362068,07:26:00,07:26:10,stop_point:SP_3720,Languedoc,3
+2362068,07:27:00,07:27:10,stop_point:SP_4919,Tilleuls,4
+2362068,07:27:00,07:27:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362068,07:28:00,07:28:10,stop_point:SP_1903,Billières,6
+2362068,07:28:00,07:28:10,stop_point:SP_3457,Gourgues,7
+2362068,07:29:00,07:29:10,stop_point:SP_299,Eglise Fenouillet,8
+2362068,07:30:00,07:30:10,stop_point:SP_1773,Fenouillet Croix,9
+2362068,07:31:00,07:31:10,stop_point:SP_3504,Montplaisir,10
+2362068,07:32:00,07:32:10,stop_point:SP_3461,Chêne Vert,11
+2362068,07:33:00,07:33:10,stop_point:SP_527,Mairie Gagnac,12
+2362068,07:34:00,07:34:10,stop_point:SP_2689,Berbie Blaize,13
+2362068,07:34:00,07:34:10,stop_point:SP_482,Voie Romaine,14
+2362068,07:35:00,07:35:10,stop_point:SP_2551,Moulin,15
+2362068,07:36:00,07:36:10,stop_point:SP_4918,Gagnac,16
+2362068,07:36:00,07:36:10,stop_point:SP_2083,Avenir,17
+2362068,07:38:00,07:38:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362068,07:41:00,07:41:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362068,07:46:00,07:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362069,08:28:00,08:28:10,stop_point:SP_1046,Tournelle,1
+2362069,08:28:00,08:28:10,stop_point:SP_2100,Clos,2
+2362069,08:29:00,08:29:10,stop_point:SP_3720,Languedoc,3
+2362069,08:29:00,08:29:10,stop_point:SP_4919,Tilleuls,4
+2362069,08:30:00,08:30:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362069,08:30:00,08:30:10,stop_point:SP_1903,Billières,6
+2362069,08:31:00,08:31:10,stop_point:SP_3457,Gourgues,7
+2362069,08:32:00,08:32:10,stop_point:SP_299,Eglise Fenouillet,8
+2362069,08:32:00,08:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362069,08:33:00,08:33:10,stop_point:SP_3504,Montplaisir,10
+2362069,08:34:00,08:34:10,stop_point:SP_3461,Chêne Vert,11
+2362069,08:35:00,08:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362069,08:36:00,08:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362069,08:36:00,08:36:10,stop_point:SP_482,Voie Romaine,14
+2362069,08:37:00,08:37:10,stop_point:SP_2551,Moulin,15
+2362069,08:38:00,08:38:10,stop_point:SP_4918,Gagnac,16
+2362069,08:38:00,08:38:10,stop_point:SP_2083,Avenir,17
+2362069,08:40:00,08:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362069,08:43:00,08:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362069,08:48:00,08:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362070,09:27:00,09:27:10,stop_point:SP_1046,Tournelle,1
+2362070,09:27:00,09:27:10,stop_point:SP_2100,Clos,2
+2362070,09:28:00,09:28:10,stop_point:SP_3720,Languedoc,3
+2362070,09:28:00,09:28:10,stop_point:SP_4919,Tilleuls,4
+2362070,09:29:00,09:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362070,09:29:00,09:29:10,stop_point:SP_1903,Billières,6
+2362070,09:30:00,09:30:10,stop_point:SP_3457,Gourgues,7
+2362070,09:31:00,09:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362070,09:31:00,09:31:10,stop_point:SP_1773,Fenouillet Croix,9
+2362070,09:32:00,09:32:10,stop_point:SP_3504,Montplaisir,10
+2362070,09:33:00,09:33:10,stop_point:SP_3461,Chêne Vert,11
+2362070,09:34:00,09:34:10,stop_point:SP_527,Mairie Gagnac,12
+2362070,09:35:00,09:35:10,stop_point:SP_2689,Berbie Blaize,13
+2362070,09:35:00,09:35:10,stop_point:SP_482,Voie Romaine,14
+2362070,09:36:00,09:36:10,stop_point:SP_2551,Moulin,15
+2362070,09:37:00,09:37:10,stop_point:SP_4918,Gagnac,16
+2362070,09:37:00,09:37:10,stop_point:SP_2083,Avenir,17
+2362070,09:39:00,09:39:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362070,09:42:00,09:42:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362070,09:47:00,09:47:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362071,10:27:00,10:27:10,stop_point:SP_1046,Tournelle,1
+2362071,10:28:00,10:28:10,stop_point:SP_2100,Clos,2
+2362071,10:28:00,10:28:10,stop_point:SP_3720,Languedoc,3
+2362071,10:29:00,10:29:10,stop_point:SP_4919,Tilleuls,4
+2362071,10:29:00,10:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362071,10:30:00,10:30:10,stop_point:SP_1903,Billières,6
+2362071,10:30:00,10:30:10,stop_point:SP_3457,Gourgues,7
+2362071,10:31:00,10:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362071,10:32:00,10:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362071,10:33:00,10:33:10,stop_point:SP_3504,Montplaisir,10
+2362071,10:34:00,10:34:10,stop_point:SP_3461,Chêne Vert,11
+2362071,10:35:00,10:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362071,10:36:00,10:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362071,10:36:00,10:36:10,stop_point:SP_482,Voie Romaine,14
+2362071,10:37:00,10:37:10,stop_point:SP_2551,Moulin,15
+2362071,10:38:00,10:38:10,stop_point:SP_4918,Gagnac,16
+2362071,10:38:00,10:38:10,stop_point:SP_2083,Avenir,17
+2362071,10:40:00,10:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362071,10:43:00,10:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362071,10:48:00,10:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362072,11:27:00,11:27:10,stop_point:SP_1046,Tournelle,1
+2362072,11:28:00,11:28:10,stop_point:SP_2100,Clos,2
+2362072,11:28:00,11:28:10,stop_point:SP_3720,Languedoc,3
+2362072,11:29:00,11:29:10,stop_point:SP_4919,Tilleuls,4
+2362072,11:29:00,11:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362072,11:30:00,11:30:10,stop_point:SP_1903,Billières,6
+2362072,11:30:00,11:30:10,stop_point:SP_3457,Gourgues,7
+2362072,11:31:00,11:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362072,11:32:00,11:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362072,11:33:00,11:33:10,stop_point:SP_3504,Montplaisir,10
+2362072,11:34:00,11:34:10,stop_point:SP_3461,Chêne Vert,11
+2362072,11:35:00,11:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362072,11:36:00,11:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362072,11:36:00,11:36:10,stop_point:SP_482,Voie Romaine,14
+2362072,11:37:00,11:37:10,stop_point:SP_2551,Moulin,15
+2362072,11:38:00,11:38:10,stop_point:SP_4918,Gagnac,16
+2362072,11:38:00,11:38:10,stop_point:SP_2083,Avenir,17
+2362072,11:40:00,11:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362072,11:43:00,11:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362072,11:48:00,11:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362073,12:27:00,12:27:10,stop_point:SP_1046,Tournelle,1
+2362073,12:28:00,12:28:10,stop_point:SP_2100,Clos,2
+2362073,12:28:00,12:28:10,stop_point:SP_3720,Languedoc,3
+2362073,12:29:00,12:29:10,stop_point:SP_4919,Tilleuls,4
+2362073,12:29:00,12:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362073,12:30:00,12:30:10,stop_point:SP_1903,Billières,6
+2362073,12:30:00,12:30:10,stop_point:SP_3457,Gourgues,7
+2362073,12:31:00,12:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362073,12:32:00,12:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362073,12:33:00,12:33:10,stop_point:SP_3504,Montplaisir,10
+2362073,12:34:00,12:34:10,stop_point:SP_3461,Chêne Vert,11
+2362073,12:35:00,12:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362073,12:36:00,12:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362073,12:36:00,12:36:10,stop_point:SP_482,Voie Romaine,14
+2362073,12:37:00,12:37:10,stop_point:SP_2551,Moulin,15
+2362073,12:38:00,12:38:10,stop_point:SP_4918,Gagnac,16
+2362073,12:38:00,12:38:10,stop_point:SP_2083,Avenir,17
+2362073,12:40:00,12:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362073,12:43:00,12:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362073,12:48:00,12:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362074,13:27:00,13:27:10,stop_point:SP_1046,Tournelle,1
+2362074,13:28:00,13:28:10,stop_point:SP_2100,Clos,2
+2362074,13:28:00,13:28:10,stop_point:SP_3720,Languedoc,3
+2362074,13:29:00,13:29:10,stop_point:SP_4919,Tilleuls,4
+2362074,13:29:00,13:29:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362074,13:30:00,13:30:10,stop_point:SP_1903,Billières,6
+2362074,13:30:00,13:30:10,stop_point:SP_3457,Gourgues,7
+2362074,13:31:00,13:31:10,stop_point:SP_299,Eglise Fenouillet,8
+2362074,13:32:00,13:32:10,stop_point:SP_1773,Fenouillet Croix,9
+2362074,13:33:00,13:33:10,stop_point:SP_3504,Montplaisir,10
+2362074,13:34:00,13:34:10,stop_point:SP_3461,Chêne Vert,11
+2362074,13:35:00,13:35:10,stop_point:SP_527,Mairie Gagnac,12
+2362074,13:36:00,13:36:10,stop_point:SP_2689,Berbie Blaize,13
+2362074,13:36:00,13:36:10,stop_point:SP_482,Voie Romaine,14
+2362074,13:37:00,13:37:10,stop_point:SP_2551,Moulin,15
+2362074,13:38:00,13:38:10,stop_point:SP_4918,Gagnac,16
+2362074,13:38:00,13:38:10,stop_point:SP_2083,Avenir,17
+2362074,13:40:00,13:40:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362074,13:43:00,13:43:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362074,13:48:00,13:48:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362075,14:45:00,14:45:10,stop_point:SP_1046,Tournelle,1
+2362075,14:46:00,14:46:10,stop_point:SP_2100,Clos,2
+2362075,14:46:00,14:46:10,stop_point:SP_3720,Languedoc,3
+2362075,14:47:00,14:47:10,stop_point:SP_4919,Tilleuls,4
+2362075,14:47:00,14:47:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362075,14:48:00,14:48:10,stop_point:SP_1903,Billières,6
+2362075,14:48:00,14:48:10,stop_point:SP_3457,Gourgues,7
+2362075,14:49:00,14:49:10,stop_point:SP_299,Eglise Fenouillet,8
+2362075,14:50:00,14:50:10,stop_point:SP_1773,Fenouillet Croix,9
+2362075,14:51:00,14:51:10,stop_point:SP_3504,Montplaisir,10
+2362075,14:52:00,14:52:10,stop_point:SP_3461,Chêne Vert,11
+2362075,14:53:00,14:53:10,stop_point:SP_527,Mairie Gagnac,12
+2362075,14:54:00,14:54:10,stop_point:SP_2689,Berbie Blaize,13
+2362075,14:54:00,14:54:10,stop_point:SP_482,Voie Romaine,14
+2362075,14:55:00,14:55:10,stop_point:SP_2551,Moulin,15
+2362075,14:56:00,14:56:10,stop_point:SP_4918,Gagnac,16
+2362075,14:56:00,14:56:10,stop_point:SP_2083,Avenir,17
+2362075,14:58:00,14:58:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362075,15:01:00,15:01:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362075,15:06:00,15:06:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362076,15:48:00,15:48:10,stop_point:SP_1046,Tournelle,1
+2362076,15:49:00,15:49:10,stop_point:SP_2100,Clos,2
+2362076,15:49:00,15:49:10,stop_point:SP_3720,Languedoc,3
+2362076,15:50:00,15:50:10,stop_point:SP_4919,Tilleuls,4
+2362076,15:51:00,15:51:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362076,15:52:00,15:52:10,stop_point:SP_1903,Billières,6
+2362076,15:52:00,15:52:10,stop_point:SP_3457,Gourgues,7
+2362076,15:53:00,15:53:10,stop_point:SP_299,Eglise Fenouillet,8
+2362076,15:54:00,15:54:10,stop_point:SP_1773,Fenouillet Croix,9
+2362076,15:55:00,15:55:10,stop_point:SP_3504,Montplaisir,10
+2362076,15:56:00,15:56:10,stop_point:SP_3461,Chêne Vert,11
+2362076,15:57:00,15:57:10,stop_point:SP_527,Mairie Gagnac,12
+2362076,15:58:00,15:58:10,stop_point:SP_2689,Berbie Blaize,13
+2362076,15:58:00,15:58:10,stop_point:SP_482,Voie Romaine,14
+2362076,15:59:00,15:59:10,stop_point:SP_2551,Moulin,15
+2362076,16:00:00,16:00:10,stop_point:SP_4918,Gagnac,16
+2362076,16:00:00,16:00:10,stop_point:SP_2083,Avenir,17
+2362076,16:02:00,16:02:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362076,16:05:00,16:05:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362076,16:10:00,16:10:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362077,16:49:00,16:49:10,stop_point:SP_1046,Tournelle,1
+2362077,16:50:00,16:50:10,stop_point:SP_2100,Clos,2
+2362077,16:50:00,16:50:10,stop_point:SP_3720,Languedoc,3
+2362077,16:51:00,16:51:10,stop_point:SP_4919,Tilleuls,4
+2362077,16:52:00,16:52:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362077,16:53:00,16:53:10,stop_point:SP_1903,Billières,6
+2362077,16:53:00,16:53:10,stop_point:SP_3457,Gourgues,7
+2362077,16:54:00,16:54:10,stop_point:SP_299,Eglise Fenouillet,8
+2362077,16:55:00,16:55:10,stop_point:SP_1773,Fenouillet Croix,9
+2362077,16:56:00,16:56:10,stop_point:SP_3504,Montplaisir,10
+2362077,16:57:00,16:57:10,stop_point:SP_3461,Chêne Vert,11
+2362077,16:58:00,16:58:10,stop_point:SP_527,Mairie Gagnac,12
+2362077,16:59:00,16:59:10,stop_point:SP_2689,Berbie Blaize,13
+2362077,16:59:00,16:59:10,stop_point:SP_482,Voie Romaine,14
+2362077,17:00:00,17:00:10,stop_point:SP_2551,Moulin,15
+2362077,17:01:00,17:01:10,stop_point:SP_4918,Gagnac,16
+2362077,17:01:00,17:01:10,stop_point:SP_2083,Avenir,17
+2362077,17:03:00,17:03:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362077,17:06:00,17:06:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362077,17:11:00,17:11:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362078,17:50:00,17:50:10,stop_point:SP_1046,Tournelle,1
+2362078,17:51:00,17:51:10,stop_point:SP_2100,Clos,2
+2362078,17:51:00,17:51:10,stop_point:SP_3720,Languedoc,3
+2362078,17:52:00,17:52:10,stop_point:SP_4919,Tilleuls,4
+2362078,17:53:00,17:53:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362078,17:54:00,17:54:10,stop_point:SP_1903,Billières,6
+2362078,17:54:00,17:54:10,stop_point:SP_3457,Gourgues,7
+2362078,17:55:00,17:55:10,stop_point:SP_299,Eglise Fenouillet,8
+2362078,17:56:00,17:56:10,stop_point:SP_1773,Fenouillet Croix,9
+2362078,17:57:00,17:57:10,stop_point:SP_3504,Montplaisir,10
+2362078,17:58:00,17:58:10,stop_point:SP_3461,Chêne Vert,11
+2362078,17:59:00,17:59:10,stop_point:SP_527,Mairie Gagnac,12
+2362078,18:00:00,18:00:10,stop_point:SP_2689,Berbie Blaize,13
+2362078,18:00:00,18:00:10,stop_point:SP_482,Voie Romaine,14
+2362078,18:01:00,18:01:10,stop_point:SP_2551,Moulin,15
+2362078,18:02:00,18:02:10,stop_point:SP_4918,Gagnac,16
+2362078,18:02:00,18:02:10,stop_point:SP_2083,Avenir,17
+2362078,18:04:00,18:04:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362078,18:07:00,18:07:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362078,18:13:00,18:13:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362079,18:53:00,18:53:10,stop_point:SP_1046,Tournelle,1
+2362079,18:54:00,18:54:10,stop_point:SP_2100,Clos,2
+2362079,18:54:00,18:54:10,stop_point:SP_3720,Languedoc,3
+2362079,18:55:00,18:55:10,stop_point:SP_4919,Tilleuls,4
+2362079,18:55:00,18:55:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362079,18:56:00,18:56:10,stop_point:SP_1903,Billières,6
+2362079,18:56:00,18:56:10,stop_point:SP_3457,Gourgues,7
+2362079,18:57:00,18:57:10,stop_point:SP_299,Eglise Fenouillet,8
+2362079,18:58:00,18:58:10,stop_point:SP_1773,Fenouillet Croix,9
+2362079,18:59:00,18:59:10,stop_point:SP_3504,Montplaisir,10
+2362079,19:00:00,19:00:10,stop_point:SP_3461,Chêne Vert,11
+2362079,19:01:00,19:01:10,stop_point:SP_527,Mairie Gagnac,12
+2362079,19:02:00,19:02:10,stop_point:SP_2689,Berbie Blaize,13
+2362079,19:02:00,19:02:10,stop_point:SP_482,Voie Romaine,14
+2362079,19:03:00,19:03:10,stop_point:SP_2551,Moulin,15
+2362079,19:03:00,19:03:10,stop_point:SP_4918,Gagnac,16
+2362079,19:04:00,19:04:10,stop_point:SP_2083,Avenir,17
+2362079,19:06:00,19:06:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362079,19:08:00,19:08:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362079,19:14:00,19:14:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20
+2362080,19:58:00,19:58:10,stop_point:SP_1046,Tournelle,1
+2362080,19:59:00,19:59:10,stop_point:SP_2100,Clos,2
+2362080,19:59:00,19:59:10,stop_point:SP_3720,Languedoc,3
+2362080,20:00:00,20:00:10,stop_point:SP_4919,Tilleuls,4
+2362080,20:00:00,20:00:10,stop_point:SP_3584,Mairie Fenouillet,5
+2362080,20:01:00,20:01:10,stop_point:SP_1903,Billières,6
+2362080,20:01:00,20:01:10,stop_point:SP_3457,Gourgues,7
+2362080,20:02:00,20:02:10,stop_point:SP_299,Eglise Fenouillet,8
+2362080,20:03:00,20:03:10,stop_point:SP_1773,Fenouillet Croix,9
+2362080,20:04:00,20:04:10,stop_point:SP_3504,Montplaisir,10
+2362080,20:05:00,20:05:10,stop_point:SP_3461,Chêne Vert,11
+2362080,20:06:00,20:06:10,stop_point:SP_527,Mairie Gagnac,12
+2362080,20:07:00,20:07:10,stop_point:SP_2689,Berbie Blaize,13
+2362080,20:07:00,20:07:10,stop_point:SP_482,Voie Romaine,14
+2362080,20:08:00,20:08:10,stop_point:SP_2551,Moulin,15
+2362080,20:08:00,20:08:10,stop_point:SP_4918,Gagnac,16
+2362080,20:09:00,20:09:10,stop_point:SP_2083,Avenir,17
+2362080,20:11:00,20:11:10,stop_point:SP_5215,Lespinasse Mairie,18
+2362080,20:13:00,20:13:10,stop_point:SP_3555,Lespinasse Mairie,19
+2362080,20:19:00,20:19:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,20

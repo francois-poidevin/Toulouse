@@ -1,0 +1,1244 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2299494,06:15:00,06:15:10,stop_point:SP_3479,Andromède-Lycée,1
+2299494,06:16:00,06:16:10,stop_point:SP_3923,Savary,2
+2299494,06:18:00,06:18:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299494,06:19:00,06:19:10,stop_point:SP_3031,Joseph Strauss,4
+2299494,06:22:00,06:22:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299494,06:23:00,06:23:10,stop_point:SP_2643,Buette,6
+2299494,06:25:00,06:25:10,stop_point:SP_3219,Dewoitine,7
+2299494,06:26:00,06:26:10,stop_point:SP_437,Latécoère,8
+2299494,06:28:00,06:28:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299494,06:29:00,06:29:10,stop_point:SP_522,St-Jean,10
+2299494,06:30:00,06:30:10,stop_point:SP_4941,Monges,11
+2299494,06:32:00,06:32:10,stop_point:SP_2505,Chênes,12
+2299494,06:32:00,06:32:10,stop_point:SP_3656,Les Ambrits,13
+2299494,06:33:00,06:33:10,stop_point:SP_789,Berlioz,14
+2299494,06:35:00,06:35:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299494,06:36:00,06:36:10,stop_point:SP_1163,Croix d'Alliez,16
+2299494,06:37:00,06:37:10,stop_point:SP_351,Larroque,17
+2299494,06:40:00,06:40:10,stop_point:SP_3356,Mairie Mondonville,18
+2299494,06:41:00,06:41:10,stop_point:SP_2265,Cantegril,19
+2299494,06:42:00,06:42:10,stop_point:SP_761,Bordeneuve,20
+2299494,06:42:00,06:42:10,stop_point:SP_3830,Plaine,21
+2299494,06:43:00,06:43:10,stop_point:SP_5358,Mondonville Moulis,22
+2299495,06:35:00,06:35:10,stop_point:SP_3479,Andromède-Lycée,1
+2299495,06:36:00,06:36:10,stop_point:SP_3923,Savary,2
+2299495,06:38:00,06:38:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299495,06:39:00,06:39:10,stop_point:SP_3031,Joseph Strauss,4
+2299495,06:42:00,06:42:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299495,06:43:00,06:43:10,stop_point:SP_2643,Buette,6
+2299495,06:45:00,06:45:10,stop_point:SP_3219,Dewoitine,7
+2299495,06:46:00,06:46:10,stop_point:SP_437,Latécoère,8
+2299495,06:48:00,06:48:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299495,06:49:00,06:49:10,stop_point:SP_522,St-Jean,10
+2299495,06:50:00,06:50:10,stop_point:SP_4941,Monges,11
+2299495,06:52:00,06:52:10,stop_point:SP_2505,Chênes,12
+2299495,06:52:00,06:52:10,stop_point:SP_3656,Les Ambrits,13
+2299495,06:53:00,06:53:10,stop_point:SP_789,Berlioz,14
+2299495,06:55:00,06:55:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299495,06:56:00,06:56:10,stop_point:SP_1163,Croix d'Alliez,16
+2299495,06:57:00,06:57:10,stop_point:SP_351,Larroque,17
+2299495,07:00:00,07:00:10,stop_point:SP_3356,Mairie Mondonville,18
+2299495,07:01:00,07:01:10,stop_point:SP_2265,Cantegril,19
+2299495,07:02:00,07:02:10,stop_point:SP_761,Bordeneuve,20
+2299495,07:02:00,07:02:10,stop_point:SP_3830,Plaine,21
+2299495,07:03:00,07:03:10,stop_point:SP_5358,Mondonville Moulis,22
+2299496,06:55:00,06:55:10,stop_point:SP_3479,Andromède-Lycée,1
+2299496,06:56:00,06:56:10,stop_point:SP_3923,Savary,2
+2299496,06:58:00,06:58:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299496,06:59:00,06:59:10,stop_point:SP_3031,Joseph Strauss,4
+2299496,07:01:00,07:01:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299496,07:03:00,07:03:10,stop_point:SP_2643,Buette,6
+2299496,07:04:00,07:04:10,stop_point:SP_3219,Dewoitine,7
+2299496,07:05:00,07:05:10,stop_point:SP_437,Latécoère,8
+2299496,07:07:00,07:07:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299496,07:08:00,07:08:10,stop_point:SP_522,St-Jean,10
+2299496,07:09:00,07:09:10,stop_point:SP_4941,Monges,11
+2299497,07:10:00,07:10:10,stop_point:SP_3479,Andromède-Lycée,1
+2299497,07:11:00,07:11:10,stop_point:SP_3923,Savary,2
+2299497,07:13:00,07:13:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299497,07:14:00,07:14:10,stop_point:SP_3031,Joseph Strauss,4
+2299497,07:18:00,07:18:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299497,07:20:00,07:20:10,stop_point:SP_2643,Buette,6
+2299497,07:22:00,07:22:10,stop_point:SP_3219,Dewoitine,7
+2299497,07:23:00,07:23:10,stop_point:SP_437,Latécoère,8
+2299497,07:25:00,07:25:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299497,07:26:00,07:26:10,stop_point:SP_522,St-Jean,10
+2299497,07:28:00,07:28:10,stop_point:SP_4941,Monges,11
+2299497,07:30:00,07:30:10,stop_point:SP_2505,Chênes,12
+2299497,07:32:00,07:32:10,stop_point:SP_3656,Les Ambrits,13
+2299497,07:32:00,07:32:10,stop_point:SP_789,Berlioz,14
+2299497,07:35:00,07:35:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299497,07:36:00,07:36:10,stop_point:SP_1163,Croix d'Alliez,16
+2299497,07:38:00,07:38:10,stop_point:SP_351,Larroque,17
+2299497,07:42:00,07:42:10,stop_point:SP_3356,Mairie Mondonville,18
+2299497,07:43:00,07:43:10,stop_point:SP_2265,Cantegril,19
+2299497,07:44:00,07:44:10,stop_point:SP_761,Bordeneuve,20
+2299497,07:45:00,07:45:10,stop_point:SP_3830,Plaine,21
+2299497,07:46:00,07:46:10,stop_point:SP_5358,Mondonville Moulis,22
+2299498,07:35:00,07:35:10,stop_point:SP_3479,Andromède-Lycée,1
+2299498,07:36:00,07:36:10,stop_point:SP_3923,Savary,2
+2299498,07:38:00,07:38:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299498,07:39:00,07:39:10,stop_point:SP_3031,Joseph Strauss,4
+2299498,07:43:00,07:43:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299498,07:45:00,07:45:10,stop_point:SP_2643,Buette,6
+2299498,07:47:00,07:47:10,stop_point:SP_3219,Dewoitine,7
+2299498,07:48:00,07:48:10,stop_point:SP_437,Latécoère,8
+2299498,07:50:00,07:50:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299498,07:51:00,07:51:10,stop_point:SP_522,St-Jean,10
+2299498,07:52:00,07:52:10,stop_point:SP_4941,Monges,11
+2299499,07:45:00,07:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299499,07:46:00,07:46:10,stop_point:SP_3923,Savary,2
+2299499,07:48:00,07:48:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299499,07:49:00,07:49:10,stop_point:SP_3031,Joseph Strauss,4
+2299499,07:53:00,07:53:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299499,07:56:00,07:56:10,stop_point:SP_2643,Buette,6
+2299499,07:59:00,07:59:10,stop_point:SP_3219,Dewoitine,7
+2299499,08:00:00,08:00:10,stop_point:SP_437,Latécoère,8
+2299499,08:02:00,08:02:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299499,08:03:00,08:03:10,stop_point:SP_522,St-Jean,10
+2299499,08:05:00,08:05:10,stop_point:SP_4941,Monges,11
+2299499,08:07:00,08:07:10,stop_point:SP_2505,Chênes,12
+2299499,08:09:00,08:09:10,stop_point:SP_3656,Les Ambrits,13
+2299499,08:09:00,08:09:10,stop_point:SP_789,Berlioz,14
+2299499,08:12:00,08:12:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299499,08:13:00,08:13:10,stop_point:SP_1163,Croix d'Alliez,16
+2299499,08:15:00,08:15:10,stop_point:SP_351,Larroque,17
+2299499,08:19:00,08:19:10,stop_point:SP_3356,Mairie Mondonville,18
+2299499,08:20:00,08:20:10,stop_point:SP_2265,Cantegril,19
+2299499,08:21:00,08:21:10,stop_point:SP_761,Bordeneuve,20
+2299499,08:22:00,08:22:10,stop_point:SP_3830,Plaine,21
+2299499,08:23:00,08:23:10,stop_point:SP_5358,Mondonville Moulis,22
+2299500,08:00:00,08:00:10,stop_point:SP_3479,Andromède-Lycée,1
+2299500,08:01:00,08:01:10,stop_point:SP_3923,Savary,2
+2299500,08:03:00,08:03:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299500,08:04:00,08:04:10,stop_point:SP_3031,Joseph Strauss,4
+2299500,08:08:00,08:08:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299500,08:10:00,08:10:10,stop_point:SP_2643,Buette,6
+2299500,08:13:00,08:13:10,stop_point:SP_3219,Dewoitine,7
+2299500,08:14:00,08:14:10,stop_point:SP_437,Latécoère,8
+2299500,08:16:00,08:16:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299500,08:17:00,08:17:10,stop_point:SP_522,St-Jean,10
+2299500,08:19:00,08:19:10,stop_point:SP_4941,Monges,11
+2299500,08:21:00,08:21:10,stop_point:SP_2505,Chênes,12
+2299500,08:23:00,08:23:10,stop_point:SP_3656,Les Ambrits,13
+2299500,08:23:00,08:23:10,stop_point:SP_789,Berlioz,14
+2299500,08:26:00,08:26:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299500,08:27:00,08:27:10,stop_point:SP_1163,Croix d'Alliez,16
+2299500,08:29:00,08:29:10,stop_point:SP_351,Larroque,17
+2299500,08:33:00,08:33:10,stop_point:SP_3356,Mairie Mondonville,18
+2299500,08:34:00,08:34:10,stop_point:SP_2265,Cantegril,19
+2299500,08:34:00,08:34:10,stop_point:SP_761,Bordeneuve,20
+2299500,08:35:00,08:35:10,stop_point:SP_3830,Plaine,21
+2299500,08:36:00,08:36:10,stop_point:SP_5358,Mondonville Moulis,22
+2299501,08:35:00,08:35:10,stop_point:SP_3479,Andromède-Lycée,1
+2299501,08:36:00,08:36:10,stop_point:SP_3923,Savary,2
+2299501,08:38:00,08:38:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299501,08:39:00,08:39:10,stop_point:SP_3031,Joseph Strauss,4
+2299501,08:42:00,08:42:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299501,08:44:00,08:44:10,stop_point:SP_2643,Buette,6
+2299501,08:46:00,08:46:10,stop_point:SP_3219,Dewoitine,7
+2299501,08:47:00,08:47:10,stop_point:SP_437,Latécoère,8
+2299501,08:49:00,08:49:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299501,08:50:00,08:50:10,stop_point:SP_522,St-Jean,10
+2299501,08:51:00,08:51:10,stop_point:SP_4941,Monges,11
+2299501,08:53:00,08:53:10,stop_point:SP_2505,Chênes,12
+2299501,08:53:00,08:53:10,stop_point:SP_3656,Les Ambrits,13
+2299501,08:54:00,08:54:10,stop_point:SP_789,Berlioz,14
+2299501,08:56:00,08:56:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299501,08:57:00,08:57:10,stop_point:SP_1163,Croix d'Alliez,16
+2299501,08:58:00,08:58:10,stop_point:SP_351,Larroque,17
+2299501,09:01:00,09:01:10,stop_point:SP_3356,Mairie Mondonville,18
+2299501,09:02:00,09:02:10,stop_point:SP_2265,Cantegril,19
+2299501,09:03:00,09:03:10,stop_point:SP_761,Bordeneuve,20
+2299501,09:03:00,09:03:10,stop_point:SP_3830,Plaine,21
+2299501,09:04:00,09:04:10,stop_point:SP_5358,Mondonville Moulis,22
+2299502,09:00:00,09:00:10,stop_point:SP_3479,Andromède-Lycée,1
+2299502,09:01:00,09:01:10,stop_point:SP_3923,Savary,2
+2299502,09:03:00,09:03:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299502,09:04:00,09:04:10,stop_point:SP_3031,Joseph Strauss,4
+2299502,09:07:00,09:07:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299502,09:08:00,09:08:10,stop_point:SP_2643,Buette,6
+2299502,09:10:00,09:10:10,stop_point:SP_3219,Dewoitine,7
+2299502,09:11:00,09:11:10,stop_point:SP_437,Latécoère,8
+2299502,09:13:00,09:13:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299502,09:14:00,09:14:10,stop_point:SP_522,St-Jean,10
+2299502,09:15:00,09:15:10,stop_point:SP_4941,Monges,11
+2299502,09:17:00,09:17:10,stop_point:SP_2505,Chênes,12
+2299502,09:17:00,09:17:10,stop_point:SP_3656,Les Ambrits,13
+2299502,09:18:00,09:18:10,stop_point:SP_789,Berlioz,14
+2299502,09:20:00,09:20:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299502,09:21:00,09:21:10,stop_point:SP_1163,Croix d'Alliez,16
+2299502,09:22:00,09:22:10,stop_point:SP_351,Larroque,17
+2299502,09:25:00,09:25:10,stop_point:SP_3356,Mairie Mondonville,18
+2299502,09:26:00,09:26:10,stop_point:SP_2265,Cantegril,19
+2299502,09:27:00,09:27:10,stop_point:SP_761,Bordeneuve,20
+2299502,09:27:00,09:27:10,stop_point:SP_3830,Plaine,21
+2299502,09:28:00,09:28:10,stop_point:SP_5358,Mondonville Moulis,22
+2299503,09:50:00,09:50:10,stop_point:SP_3479,Andromède-Lycée,1
+2299503,09:52:00,09:52:10,stop_point:SP_3923,Savary,2
+2299503,09:54:00,09:54:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299503,09:55:00,09:55:10,stop_point:SP_3031,Joseph Strauss,4
+2299503,09:58:00,09:58:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299503,09:59:00,09:59:10,stop_point:SP_2643,Buette,6
+2299503,10:01:00,10:01:10,stop_point:SP_3219,Dewoitine,7
+2299503,10:02:00,10:02:10,stop_point:SP_437,Latécoère,8
+2299503,10:04:00,10:04:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299503,10:05:00,10:05:10,stop_point:SP_522,St-Jean,10
+2299503,10:06:00,10:06:10,stop_point:SP_4941,Monges,11
+2299503,10:08:00,10:08:10,stop_point:SP_2505,Chênes,12
+2299503,10:08:00,10:08:10,stop_point:SP_3656,Les Ambrits,13
+2299503,10:09:00,10:09:10,stop_point:SP_789,Berlioz,14
+2299503,10:11:00,10:11:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299503,10:12:00,10:12:10,stop_point:SP_1163,Croix d'Alliez,16
+2299503,10:13:00,10:13:10,stop_point:SP_351,Larroque,17
+2299503,10:16:00,10:16:10,stop_point:SP_3356,Mairie Mondonville,18
+2299503,10:17:00,10:17:10,stop_point:SP_2265,Cantegril,19
+2299503,10:18:00,10:18:10,stop_point:SP_761,Bordeneuve,20
+2299503,10:18:00,10:18:10,stop_point:SP_3830,Plaine,21
+2299503,10:19:00,10:19:10,stop_point:SP_5358,Mondonville Moulis,22
+2299504,10:55:00,10:55:10,stop_point:SP_3479,Andromède-Lycée,1
+2299504,10:57:00,10:57:10,stop_point:SP_3923,Savary,2
+2299504,10:59:00,10:59:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299504,11:00:00,11:00:10,stop_point:SP_3031,Joseph Strauss,4
+2299504,11:03:00,11:03:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299504,11:04:00,11:04:10,stop_point:SP_2643,Buette,6
+2299504,11:06:00,11:06:10,stop_point:SP_3219,Dewoitine,7
+2299504,11:07:00,11:07:10,stop_point:SP_437,Latécoère,8
+2299504,11:09:00,11:09:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299504,11:10:00,11:10:10,stop_point:SP_522,St-Jean,10
+2299504,11:11:00,11:11:10,stop_point:SP_4941,Monges,11
+2299504,11:13:00,11:13:10,stop_point:SP_2505,Chênes,12
+2299504,11:13:00,11:13:10,stop_point:SP_3656,Les Ambrits,13
+2299504,11:14:00,11:14:10,stop_point:SP_789,Berlioz,14
+2299504,11:16:00,11:16:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299504,11:17:00,11:17:10,stop_point:SP_1163,Croix d'Alliez,16
+2299504,11:18:00,11:18:10,stop_point:SP_351,Larroque,17
+2299504,11:21:00,11:21:10,stop_point:SP_3356,Mairie Mondonville,18
+2299504,11:22:00,11:22:10,stop_point:SP_2265,Cantegril,19
+2299504,11:23:00,11:23:10,stop_point:SP_761,Bordeneuve,20
+2299504,11:23:00,11:23:10,stop_point:SP_3830,Plaine,21
+2299504,11:24:00,11:24:10,stop_point:SP_5358,Mondonville Moulis,22
+2299505,12:15:00,12:15:10,stop_point:SP_3479,Andromède-Lycée,1
+2299505,12:17:00,12:17:10,stop_point:SP_3923,Savary,2
+2299505,12:19:00,12:19:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299505,12:21:00,12:21:10,stop_point:SP_3031,Joseph Strauss,4
+2299505,12:25:00,12:25:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299505,12:27:00,12:27:10,stop_point:SP_2643,Buette,6
+2299505,12:29:00,12:29:10,stop_point:SP_3219,Dewoitine,7
+2299505,12:30:00,12:30:10,stop_point:SP_437,Latécoère,8
+2299505,12:32:00,12:32:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299505,12:33:00,12:33:10,stop_point:SP_522,St-Jean,10
+2299505,12:34:00,12:34:10,stop_point:SP_4941,Monges,11
+2299505,12:36:00,12:36:10,stop_point:SP_2505,Chênes,12
+2299505,12:37:00,12:37:10,stop_point:SP_3656,Les Ambrits,13
+2299505,12:38:00,12:38:10,stop_point:SP_789,Berlioz,14
+2299505,12:40:00,12:40:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299505,12:41:00,12:41:10,stop_point:SP_1163,Croix d'Alliez,16
+2299505,12:42:00,12:42:10,stop_point:SP_351,Larroque,17
+2299505,12:45:00,12:45:10,stop_point:SP_3356,Mairie Mondonville,18
+2299505,12:46:00,12:46:10,stop_point:SP_2265,Cantegril,19
+2299505,12:47:00,12:47:10,stop_point:SP_761,Bordeneuve,20
+2299505,12:47:00,12:47:10,stop_point:SP_3830,Plaine,21
+2299505,12:48:00,12:48:10,stop_point:SP_5358,Mondonville Moulis,22
+2299506,13:25:00,13:25:10,stop_point:SP_3479,Andromède-Lycée,1
+2299506,13:27:00,13:27:10,stop_point:SP_3923,Savary,2
+2299506,13:29:00,13:29:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299506,13:31:00,13:31:10,stop_point:SP_3031,Joseph Strauss,4
+2299506,13:34:00,13:34:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299506,13:36:00,13:36:10,stop_point:SP_2643,Buette,6
+2299506,13:38:00,13:38:10,stop_point:SP_3219,Dewoitine,7
+2299506,13:39:00,13:39:10,stop_point:SP_437,Latécoère,8
+2299506,13:41:00,13:41:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299506,13:42:00,13:42:10,stop_point:SP_522,St-Jean,10
+2299506,13:43:00,13:43:10,stop_point:SP_4941,Monges,11
+2299506,13:45:00,13:45:10,stop_point:SP_2505,Chênes,12
+2299506,13:46:00,13:46:10,stop_point:SP_3656,Les Ambrits,13
+2299506,13:47:00,13:47:10,stop_point:SP_789,Berlioz,14
+2299506,13:49:00,13:49:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299506,13:50:00,13:50:10,stop_point:SP_1163,Croix d'Alliez,16
+2299506,13:51:00,13:51:10,stop_point:SP_351,Larroque,17
+2299506,13:54:00,13:54:10,stop_point:SP_3356,Mairie Mondonville,18
+2299506,13:55:00,13:55:10,stop_point:SP_2265,Cantegril,19
+2299506,13:56:00,13:56:10,stop_point:SP_761,Bordeneuve,20
+2299506,13:56:00,13:56:10,stop_point:SP_3830,Plaine,21
+2299506,13:57:00,13:57:10,stop_point:SP_5358,Mondonville Moulis,22
+2299507,14:45:00,14:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299507,14:47:00,14:47:10,stop_point:SP_3923,Savary,2
+2299507,14:49:00,14:49:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299507,14:51:00,14:51:10,stop_point:SP_3031,Joseph Strauss,4
+2299507,14:54:00,14:54:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299507,14:56:00,14:56:10,stop_point:SP_2643,Buette,6
+2299507,14:58:00,14:58:10,stop_point:SP_3219,Dewoitine,7
+2299507,14:59:00,14:59:10,stop_point:SP_437,Latécoère,8
+2299507,15:01:00,15:01:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299507,15:02:00,15:02:10,stop_point:SP_522,St-Jean,10
+2299507,15:03:00,15:03:10,stop_point:SP_4941,Monges,11
+2299507,15:05:00,15:05:10,stop_point:SP_2505,Chênes,12
+2299507,15:06:00,15:06:10,stop_point:SP_3656,Les Ambrits,13
+2299507,15:07:00,15:07:10,stop_point:SP_789,Berlioz,14
+2299507,15:09:00,15:09:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299507,15:10:00,15:10:10,stop_point:SP_1163,Croix d'Alliez,16
+2299507,15:11:00,15:11:10,stop_point:SP_351,Larroque,17
+2299507,15:14:00,15:14:10,stop_point:SP_3356,Mairie Mondonville,18
+2299507,15:15:00,15:15:10,stop_point:SP_2265,Cantegril,19
+2299507,15:16:00,15:16:10,stop_point:SP_761,Bordeneuve,20
+2299507,15:16:00,15:16:10,stop_point:SP_3830,Plaine,21
+2299507,15:17:00,15:17:10,stop_point:SP_5358,Mondonville Moulis,22
+2299508,15:40:00,15:40:10,stop_point:SP_3479,Andromède-Lycée,1
+2299508,15:42:00,15:42:10,stop_point:SP_3923,Savary,2
+2299508,15:44:00,15:44:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299508,15:46:00,15:46:10,stop_point:SP_3031,Joseph Strauss,4
+2299508,15:50:00,15:50:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299508,15:52:00,15:52:10,stop_point:SP_2643,Buette,6
+2299508,15:54:00,15:54:10,stop_point:SP_3219,Dewoitine,7
+2299508,15:55:00,15:55:10,stop_point:SP_437,Latécoère,8
+2299508,15:57:00,15:57:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299508,15:58:00,15:58:10,stop_point:SP_522,St-Jean,10
+2299508,16:00:00,16:00:10,stop_point:SP_4941,Monges,11
+2299508,16:02:00,16:02:10,stop_point:SP_2505,Chênes,12
+2299508,16:03:00,16:03:10,stop_point:SP_3656,Les Ambrits,13
+2299508,16:04:00,16:04:10,stop_point:SP_789,Berlioz,14
+2299508,16:06:00,16:06:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299508,16:07:00,16:07:10,stop_point:SP_1163,Croix d'Alliez,16
+2299508,16:09:00,16:09:10,stop_point:SP_351,Larroque,17
+2299508,16:13:00,16:13:10,stop_point:SP_3356,Mairie Mondonville,18
+2299508,16:14:00,16:14:10,stop_point:SP_2265,Cantegril,19
+2299508,16:15:00,16:15:10,stop_point:SP_761,Bordeneuve,20
+2299508,16:16:00,16:16:10,stop_point:SP_3830,Plaine,21
+2299508,16:17:00,16:17:10,stop_point:SP_5358,Mondonville Moulis,22
+2299509,16:00:00,16:00:10,stop_point:SP_3479,Andromède-Lycée,1
+2299509,16:02:00,16:02:10,stop_point:SP_3923,Savary,2
+2299509,16:04:00,16:04:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299509,16:06:00,16:06:10,stop_point:SP_3031,Joseph Strauss,4
+2299509,16:10:00,16:10:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299509,16:12:00,16:12:10,stop_point:SP_2643,Buette,6
+2299509,16:14:00,16:14:10,stop_point:SP_3219,Dewoitine,7
+2299509,16:15:00,16:15:10,stop_point:SP_437,Latécoère,8
+2299509,16:17:00,16:17:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299509,16:18:00,16:18:10,stop_point:SP_522,St-Jean,10
+2299509,16:20:00,16:20:10,stop_point:SP_4941,Monges,11
+2299509,16:22:00,16:22:10,stop_point:SP_2505,Chênes,12
+2299509,16:23:00,16:23:10,stop_point:SP_3656,Les Ambrits,13
+2299509,16:24:00,16:24:10,stop_point:SP_789,Berlioz,14
+2299509,16:26:00,16:26:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299509,16:27:00,16:27:10,stop_point:SP_1163,Croix d'Alliez,16
+2299509,16:29:00,16:29:10,stop_point:SP_351,Larroque,17
+2299509,16:33:00,16:33:10,stop_point:SP_3356,Mairie Mondonville,18
+2299509,16:34:00,16:34:10,stop_point:SP_2265,Cantegril,19
+2299509,16:35:00,16:35:10,stop_point:SP_761,Bordeneuve,20
+2299509,16:36:00,16:36:10,stop_point:SP_3830,Plaine,21
+2299509,16:37:00,16:37:10,stop_point:SP_5358,Mondonville Moulis,22
+2299510,16:20:00,16:20:10,stop_point:SP_3479,Andromède-Lycée,1
+2299510,16:22:00,16:22:10,stop_point:SP_3923,Savary,2
+2299510,16:24:00,16:24:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299510,16:26:00,16:26:10,stop_point:SP_3031,Joseph Strauss,4
+2299510,16:30:00,16:30:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299510,16:32:00,16:32:10,stop_point:SP_2643,Buette,6
+2299510,16:34:00,16:34:10,stop_point:SP_3219,Dewoitine,7
+2299510,16:35:00,16:35:10,stop_point:SP_437,Latécoère,8
+2299510,16:37:00,16:37:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299510,16:38:00,16:38:10,stop_point:SP_522,St-Jean,10
+2299510,16:40:00,16:40:10,stop_point:SP_4941,Monges,11
+2299510,16:42:00,16:42:10,stop_point:SP_2505,Chênes,12
+2299510,16:43:00,16:43:10,stop_point:SP_3656,Les Ambrits,13
+2299510,16:44:00,16:44:10,stop_point:SP_789,Berlioz,14
+2299510,16:46:00,16:46:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299510,16:48:00,16:48:10,stop_point:SP_1163,Croix d'Alliez,16
+2299510,16:50:00,16:50:10,stop_point:SP_351,Larroque,17
+2299510,16:55:00,16:55:10,stop_point:SP_3356,Mairie Mondonville,18
+2299510,16:56:00,16:56:10,stop_point:SP_2265,Cantegril,19
+2299510,16:57:00,16:57:10,stop_point:SP_761,Bordeneuve,20
+2299510,16:58:00,16:58:10,stop_point:SP_3830,Plaine,21
+2299510,16:59:00,16:59:10,stop_point:SP_5358,Mondonville Moulis,22
+2299511,16:45:00,16:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299511,16:47:00,16:47:10,stop_point:SP_3923,Savary,2
+2299511,16:49:00,16:49:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299511,16:51:00,16:51:10,stop_point:SP_3031,Joseph Strauss,4
+2299511,16:55:00,16:55:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299511,16:57:00,16:57:10,stop_point:SP_2643,Buette,6
+2299511,16:59:00,16:59:10,stop_point:SP_3219,Dewoitine,7
+2299511,17:00:00,17:00:10,stop_point:SP_437,Latécoère,8
+2299511,17:02:00,17:02:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299511,17:03:00,17:03:10,stop_point:SP_522,St-Jean,10
+2299511,17:05:00,17:05:10,stop_point:SP_4941,Monges,11
+2299511,17:07:00,17:07:10,stop_point:SP_2505,Chênes,12
+2299511,17:08:00,17:08:10,stop_point:SP_3656,Les Ambrits,13
+2299511,17:09:00,17:09:10,stop_point:SP_789,Berlioz,14
+2299511,17:11:00,17:11:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299511,17:13:00,17:13:10,stop_point:SP_1163,Croix d'Alliez,16
+2299511,17:15:00,17:15:10,stop_point:SP_351,Larroque,17
+2299511,17:20:00,17:20:10,stop_point:SP_3356,Mairie Mondonville,18
+2299511,17:21:00,17:21:10,stop_point:SP_2265,Cantegril,19
+2299511,17:22:00,17:22:10,stop_point:SP_761,Bordeneuve,20
+2299511,17:23:00,17:23:10,stop_point:SP_3830,Plaine,21
+2299511,17:24:00,17:24:10,stop_point:SP_5358,Mondonville Moulis,22
+2299512,17:05:00,17:05:10,stop_point:SP_3479,Andromède-Lycée,1
+2299512,17:07:00,17:07:10,stop_point:SP_3923,Savary,2
+2299512,17:09:00,17:09:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299512,17:11:00,17:11:10,stop_point:SP_3031,Joseph Strauss,4
+2299512,17:17:00,17:17:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299512,17:20:00,17:20:10,stop_point:SP_2643,Buette,6
+2299512,17:23:00,17:23:10,stop_point:SP_3219,Dewoitine,7
+2299512,17:25:00,17:25:10,stop_point:SP_437,Latécoère,8
+2299512,17:28:00,17:28:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299512,17:29:00,17:29:10,stop_point:SP_522,St-Jean,10
+2299512,17:31:00,17:31:10,stop_point:SP_4941,Monges,11
+2299512,17:34:00,17:34:10,stop_point:SP_2505,Chênes,12
+2299512,17:35:00,17:35:10,stop_point:SP_3656,Les Ambrits,13
+2299512,17:36:00,17:36:10,stop_point:SP_789,Berlioz,14
+2299512,17:39:00,17:39:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299512,17:41:00,17:41:10,stop_point:SP_1163,Croix d'Alliez,16
+2299512,17:43:00,17:43:10,stop_point:SP_351,Larroque,17
+2299512,17:48:00,17:48:10,stop_point:SP_3356,Mairie Mondonville,18
+2299512,17:49:00,17:49:10,stop_point:SP_2265,Cantegril,19
+2299512,17:50:00,17:50:10,stop_point:SP_761,Bordeneuve,20
+2299512,17:51:00,17:51:10,stop_point:SP_3830,Plaine,21
+2299512,17:52:00,17:52:10,stop_point:SP_5358,Mondonville Moulis,22
+2299513,17:10:00,17:10:10,stop_point:SP_3479,Andromède-Lycée,1
+2299513,17:12:00,17:12:10,stop_point:SP_3923,Savary,2
+2299513,17:14:00,17:14:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299513,17:16:00,17:16:10,stop_point:SP_3031,Joseph Strauss,4
+2299513,17:21:00,17:21:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299513,17:24:00,17:24:10,stop_point:SP_2643,Buette,6
+2299513,17:27:00,17:27:10,stop_point:SP_3219,Dewoitine,7
+2299513,17:29:00,17:29:10,stop_point:SP_437,Latécoère,8
+2299513,17:31:00,17:31:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299513,17:32:00,17:32:10,stop_point:SP_522,St-Jean,10
+2299513,17:34:00,17:34:10,stop_point:SP_4941,Monges,11
+2299514,17:20:00,17:20:10,stop_point:SP_3479,Andromède-Lycée,1
+2299514,17:22:00,17:22:10,stop_point:SP_3923,Savary,2
+2299514,17:24:00,17:24:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299514,17:26:00,17:26:10,stop_point:SP_3031,Joseph Strauss,4
+2299514,17:32:00,17:32:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299514,17:35:00,17:35:10,stop_point:SP_2643,Buette,6
+2299514,17:38:00,17:38:10,stop_point:SP_3219,Dewoitine,7
+2299514,17:40:00,17:40:10,stop_point:SP_437,Latécoère,8
+2299514,17:42:00,17:42:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299514,17:43:00,17:43:10,stop_point:SP_522,St-Jean,10
+2299514,17:45:00,17:45:10,stop_point:SP_4941,Monges,11
+2299514,17:47:00,17:47:10,stop_point:SP_2505,Chênes,12
+2299514,17:48:00,17:48:10,stop_point:SP_3656,Les Ambrits,13
+2299514,17:49:00,17:49:10,stop_point:SP_789,Berlioz,14
+2299514,17:51:00,17:51:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299514,17:53:00,17:53:10,stop_point:SP_1163,Croix d'Alliez,16
+2299514,17:55:00,17:55:10,stop_point:SP_351,Larroque,17
+2299514,18:00:00,18:00:10,stop_point:SP_3356,Mairie Mondonville,18
+2299514,18:01:00,18:01:10,stop_point:SP_2265,Cantegril,19
+2299514,18:02:00,18:02:10,stop_point:SP_761,Bordeneuve,20
+2299514,18:03:00,18:03:10,stop_point:SP_3830,Plaine,21
+2299514,18:04:00,18:04:10,stop_point:SP_5358,Mondonville Moulis,22
+2299515,17:45:00,17:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299515,17:47:00,17:47:10,stop_point:SP_3923,Savary,2
+2299515,17:49:00,17:49:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299515,17:50:00,17:50:10,stop_point:SP_3031,Joseph Strauss,4
+2299515,17:54:00,17:54:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299515,17:57:00,17:57:10,stop_point:SP_2643,Buette,6
+2299515,18:00:00,18:00:10,stop_point:SP_3219,Dewoitine,7
+2299515,18:01:00,18:01:10,stop_point:SP_437,Latécoère,8
+2299515,18:03:00,18:03:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299515,18:04:00,18:04:10,stop_point:SP_522,St-Jean,10
+2299515,18:05:00,18:05:10,stop_point:SP_4941,Monges,11
+2299515,18:07:00,18:07:10,stop_point:SP_2505,Chênes,12
+2299515,18:08:00,18:08:10,stop_point:SP_3656,Les Ambrits,13
+2299515,18:09:00,18:09:10,stop_point:SP_789,Berlioz,14
+2299515,18:11:00,18:11:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299515,18:12:00,18:12:10,stop_point:SP_1163,Croix d'Alliez,16
+2299515,18:15:00,18:15:10,stop_point:SP_351,Larroque,17
+2299515,18:19:00,18:19:10,stop_point:SP_3356,Mairie Mondonville,18
+2299515,18:20:00,18:20:10,stop_point:SP_2265,Cantegril,19
+2299515,18:21:00,18:21:10,stop_point:SP_761,Bordeneuve,20
+2299515,18:22:00,18:22:10,stop_point:SP_3830,Plaine,21
+2299515,18:23:00,18:23:10,stop_point:SP_5358,Mondonville Moulis,22
+2299516,17:55:00,17:55:10,stop_point:SP_3479,Andromède-Lycée,1
+2299516,17:57:00,17:57:10,stop_point:SP_3923,Savary,2
+2299516,17:59:00,17:59:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299516,18:00:00,18:00:10,stop_point:SP_3031,Joseph Strauss,4
+2299516,18:04:00,18:04:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299516,18:07:00,18:07:10,stop_point:SP_2643,Buette,6
+2299516,18:10:00,18:10:10,stop_point:SP_3219,Dewoitine,7
+2299516,18:11:00,18:11:10,stop_point:SP_437,Latécoère,8
+2299516,18:13:00,18:13:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299516,18:14:00,18:14:10,stop_point:SP_522,St-Jean,10
+2299516,18:15:00,18:15:10,stop_point:SP_4941,Monges,11
+2299516,18:17:00,18:17:10,stop_point:SP_2505,Chênes,12
+2299516,18:18:00,18:18:10,stop_point:SP_3656,Les Ambrits,13
+2299516,18:19:00,18:19:10,stop_point:SP_789,Berlioz,14
+2299516,18:21:00,18:21:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299516,18:22:00,18:22:10,stop_point:SP_1163,Croix d'Alliez,16
+2299516,18:25:00,18:25:10,stop_point:SP_351,Larroque,17
+2299516,18:29:00,18:29:10,stop_point:SP_3356,Mairie Mondonville,18
+2299516,18:30:00,18:30:10,stop_point:SP_2265,Cantegril,19
+2299516,18:31:00,18:31:10,stop_point:SP_761,Bordeneuve,20
+2299516,18:32:00,18:32:10,stop_point:SP_3830,Plaine,21
+2299516,18:33:00,18:33:10,stop_point:SP_5358,Mondonville Moulis,22
+2299517,18:10:00,18:10:10,stop_point:SP_3479,Andromède-Lycée,1
+2299517,18:12:00,18:12:10,stop_point:SP_3923,Savary,2
+2299517,18:14:00,18:14:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299517,18:16:00,18:16:10,stop_point:SP_3031,Joseph Strauss,4
+2299517,18:20:00,18:20:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299517,18:22:00,18:22:10,stop_point:SP_2643,Buette,6
+2299517,18:25:00,18:25:10,stop_point:SP_3219,Dewoitine,7
+2299517,18:26:00,18:26:10,stop_point:SP_437,Latécoère,8
+2299517,18:28:00,18:28:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299517,18:29:00,18:29:10,stop_point:SP_522,St-Jean,10
+2299517,18:30:00,18:30:10,stop_point:SP_4941,Monges,11
+2299518,18:25:00,18:25:10,stop_point:SP_3479,Andromède-Lycée,1
+2299518,18:27:00,18:27:10,stop_point:SP_3923,Savary,2
+2299518,18:29:00,18:29:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299518,18:30:00,18:30:10,stop_point:SP_3031,Joseph Strauss,4
+2299518,18:34:00,18:34:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299518,18:36:00,18:36:10,stop_point:SP_2643,Buette,6
+2299518,18:39:00,18:39:10,stop_point:SP_3219,Dewoitine,7
+2299518,18:40:00,18:40:10,stop_point:SP_437,Latécoère,8
+2299518,18:42:00,18:42:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299518,18:43:00,18:43:10,stop_point:SP_522,St-Jean,10
+2299518,18:44:00,18:44:10,stop_point:SP_4941,Monges,11
+2299518,18:46:00,18:46:10,stop_point:SP_2505,Chênes,12
+2299518,18:47:00,18:47:10,stop_point:SP_3656,Les Ambrits,13
+2299518,18:48:00,18:48:10,stop_point:SP_789,Berlioz,14
+2299518,18:50:00,18:50:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299518,18:51:00,18:51:10,stop_point:SP_1163,Croix d'Alliez,16
+2299518,18:53:00,18:53:10,stop_point:SP_351,Larroque,17
+2299518,18:57:00,18:57:10,stop_point:SP_3356,Mairie Mondonville,18
+2299518,18:58:00,18:58:10,stop_point:SP_2265,Cantegril,19
+2299518,18:59:00,18:59:10,stop_point:SP_761,Bordeneuve,20
+2299518,19:00:00,19:00:10,stop_point:SP_3830,Plaine,21
+2299518,19:01:00,19:01:10,stop_point:SP_5358,Mondonville Moulis,22
+2299519,18:45:00,18:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299519,18:47:00,18:47:10,stop_point:SP_3923,Savary,2
+2299519,18:49:00,18:49:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299519,18:50:00,18:50:10,stop_point:SP_3031,Joseph Strauss,4
+2299519,18:54:00,18:54:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299519,18:56:00,18:56:10,stop_point:SP_2643,Buette,6
+2299519,18:58:00,18:58:10,stop_point:SP_3219,Dewoitine,7
+2299519,18:59:00,18:59:10,stop_point:SP_437,Latécoère,8
+2299519,19:01:00,19:01:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299519,19:02:00,19:02:10,stop_point:SP_522,St-Jean,10
+2299519,19:03:00,19:03:10,stop_point:SP_4941,Monges,11
+2299519,19:05:00,19:05:10,stop_point:SP_2505,Chênes,12
+2299519,19:06:00,19:06:10,stop_point:SP_3656,Les Ambrits,13
+2299519,19:07:00,19:07:10,stop_point:SP_789,Berlioz,14
+2299519,19:09:00,19:09:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299519,19:10:00,19:10:10,stop_point:SP_1163,Croix d'Alliez,16
+2299519,19:12:00,19:12:10,stop_point:SP_351,Larroque,17
+2299519,19:16:00,19:16:10,stop_point:SP_3356,Mairie Mondonville,18
+2299519,19:17:00,19:17:10,stop_point:SP_2265,Cantegril,19
+2299519,19:18:00,19:18:10,stop_point:SP_761,Bordeneuve,20
+2299519,19:19:00,19:19:10,stop_point:SP_3830,Plaine,21
+2299519,19:20:00,19:20:10,stop_point:SP_5358,Mondonville Moulis,22
+2299520,19:45:00,19:45:10,stop_point:SP_3479,Andromède-Lycée,1
+2299520,19:47:00,19:47:10,stop_point:SP_3923,Savary,2
+2299520,19:49:00,19:49:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299520,19:50:00,19:50:10,stop_point:SP_3031,Joseph Strauss,4
+2299520,19:53:00,19:53:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299520,19:54:00,19:54:10,stop_point:SP_2643,Buette,6
+2299520,19:56:00,19:56:10,stop_point:SP_3219,Dewoitine,7
+2299520,19:57:00,19:57:10,stop_point:SP_437,Latécoère,8
+2299520,19:59:00,19:59:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299520,20:00:00,20:00:10,stop_point:SP_522,St-Jean,10
+2299520,20:01:00,20:01:10,stop_point:SP_4941,Monges,11
+2299520,20:03:00,20:03:10,stop_point:SP_2505,Chênes,12
+2299520,20:04:00,20:04:10,stop_point:SP_3656,Les Ambrits,13
+2299520,20:05:00,20:05:10,stop_point:SP_789,Berlioz,14
+2299520,20:07:00,20:07:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299520,20:08:00,20:08:10,stop_point:SP_1163,Croix d'Alliez,16
+2299520,20:10:00,20:10:10,stop_point:SP_351,Larroque,17
+2299520,20:13:00,20:13:10,stop_point:SP_3356,Mairie Mondonville,18
+2299520,20:14:00,20:14:10,stop_point:SP_2265,Cantegril,19
+2299520,20:14:00,20:14:10,stop_point:SP_761,Bordeneuve,20
+2299520,20:15:00,20:15:10,stop_point:SP_3830,Plaine,21
+2299520,20:16:00,20:16:10,stop_point:SP_5358,Mondonville Moulis,22
+2299521,21:00:00,21:00:10,stop_point:SP_3479,Andromède-Lycée,1
+2299521,21:01:00,21:01:10,stop_point:SP_3923,Savary,2
+2299521,21:03:00,21:03:10,stop_point:SP_1824,Ctre Cial Blagnac,3
+2299521,21:04:00,21:04:10,stop_point:SP_3031,Joseph Strauss,4
+2299521,21:07:00,21:07:10,stop_point:SP_3918,ZA Jean Mermoz,5
+2299521,21:08:00,21:08:10,stop_point:SP_2643,Buette,6
+2299521,21:10:00,21:10:10,stop_point:SP_3219,Dewoitine,7
+2299521,21:11:00,21:11:10,stop_point:SP_437,Latécoère,8
+2299521,21:13:00,21:13:10,stop_point:SP_429,Mairie Cornebarrieu,9
+2299521,21:13:00,21:13:10,stop_point:SP_522,St-Jean,10
+2299521,21:15:00,21:15:10,stop_point:SP_4941,Monges,11
+2299521,21:16:00,21:16:10,stop_point:SP_2505,Chênes,12
+2299521,21:17:00,21:17:10,stop_point:SP_3656,Les Ambrits,13
+2299521,21:17:00,21:17:10,stop_point:SP_789,Berlioz,14
+2299521,21:19:00,21:19:10,stop_point:SP_2660,Clinique des Cèdres,15
+2299521,21:20:00,21:20:10,stop_point:SP_1163,Croix d'Alliez,16
+2299521,21:21:00,21:21:10,stop_point:SP_351,Larroque,17
+2299521,21:24:00,21:24:10,stop_point:SP_3356,Mairie Mondonville,18
+2299521,21:25:00,21:25:10,stop_point:SP_2265,Cantegril,19
+2299521,21:26:00,21:26:10,stop_point:SP_761,Bordeneuve,20
+2299521,21:26:00,21:26:10,stop_point:SP_3830,Plaine,21
+2299521,21:27:00,21:27:10,stop_point:SP_5358,Mondonville Moulis,22
+2299522,12:10:00,12:10:10,stop_point:SP_1701,Collège Mermoz,1
+2299522,12:20:00,12:20:10,stop_point:SP_3479,Andromède-Lycée,2
+2299522,12:22:00,12:22:10,stop_point:SP_3923,Savary,3
+2299522,12:25:00,12:25:10,stop_point:SP_1824,Ctre Cial Blagnac,4
+2299522,12:27:00,12:27:10,stop_point:SP_3031,Joseph Strauss,5
+2299522,12:30:00,12:30:10,stop_point:SP_3918,ZA Jean Mermoz,6
+2299522,12:32:00,12:32:10,stop_point:SP_2643,Buette,7
+2299522,12:34:00,12:34:10,stop_point:SP_3219,Dewoitine,8
+2299522,12:35:00,12:35:10,stop_point:SP_437,Latécoère,9
+2299522,12:37:00,12:37:10,stop_point:SP_429,Mairie Cornebarrieu,10
+2299522,12:38:00,12:38:10,stop_point:SP_522,St-Jean,11
+2299522,12:39:00,12:39:10,stop_point:SP_4941,Monges,12
+2299522,12:41:00,12:41:10,stop_point:SP_2505,Chênes,13
+2299522,12:42:00,12:42:10,stop_point:SP_3656,Les Ambrits,14
+2299522,12:43:00,12:43:10,stop_point:SP_789,Berlioz,15
+2299522,12:45:00,12:45:10,stop_point:SP_2660,Clinique des Cèdres,16
+2299522,12:46:00,12:46:10,stop_point:SP_1163,Croix d'Alliez,17
+2299522,12:48:00,12:48:10,stop_point:SP_351,Larroque,18
+2299522,12:51:00,12:51:10,stop_point:SP_3356,Mairie Mondonville,19
+2299522,12:52:00,12:52:10,stop_point:SP_2265,Cantegril,20
+2299522,12:52:00,12:52:10,stop_point:SP_761,Bordeneuve,21
+2299522,12:53:00,12:53:10,stop_point:SP_3830,Plaine,22
+2299522,12:54:00,12:54:10,stop_point:SP_5358,Mondonville Moulis,23
+2299523,13:20:00,13:20:10,stop_point:SP_1701,Collège Mermoz,1
+2299523,13:27:00,13:27:10,stop_point:SP_3479,Andromède-Lycée,2
+2299523,13:29:00,13:29:10,stop_point:SP_3923,Savary,3
+2299523,13:31:00,13:31:10,stop_point:SP_1824,Ctre Cial Blagnac,4
+2299523,13:33:00,13:33:10,stop_point:SP_3031,Joseph Strauss,5
+2299523,13:36:00,13:36:10,stop_point:SP_3918,ZA Jean Mermoz,6
+2299523,13:38:00,13:38:10,stop_point:SP_2643,Buette,7
+2299523,13:40:00,13:40:10,stop_point:SP_3219,Dewoitine,8
+2299523,13:41:00,13:41:10,stop_point:SP_437,Latécoère,9
+2299523,13:43:00,13:43:10,stop_point:SP_429,Mairie Cornebarrieu,10
+2299523,13:44:00,13:44:10,stop_point:SP_522,St-Jean,11
+2299523,13:45:00,13:45:10,stop_point:SP_4941,Monges,12
+2299523,13:47:00,13:47:10,stop_point:SP_2505,Chênes,13
+2299523,13:48:00,13:48:10,stop_point:SP_3656,Les Ambrits,14
+2299523,13:49:00,13:49:10,stop_point:SP_789,Berlioz,15
+2299523,13:51:00,13:51:10,stop_point:SP_2660,Clinique des Cèdres,16
+2299523,13:52:00,13:52:10,stop_point:SP_1163,Croix d'Alliez,17
+2299523,13:54:00,13:54:10,stop_point:SP_351,Larroque,18
+2299523,13:57:00,13:57:10,stop_point:SP_3356,Mairie Mondonville,19
+2299523,13:58:00,13:58:10,stop_point:SP_2265,Cantegril,20
+2299523,13:58:00,13:58:10,stop_point:SP_761,Bordeneuve,21
+2299523,13:59:00,13:59:10,stop_point:SP_3830,Plaine,22
+2299523,14:00:00,14:00:10,stop_point:SP_5358,Mondonville Moulis,23
+2299524,17:00:00,17:00:10,stop_point:SP_1701,Collège Mermoz,1
+2299524,17:07:00,17:07:10,stop_point:SP_3479,Andromède-Lycée,2
+2299524,17:09:00,17:09:10,stop_point:SP_3923,Savary,3
+2299524,17:11:00,17:11:10,stop_point:SP_1824,Ctre Cial Blagnac,4
+2299524,17:13:00,17:13:10,stop_point:SP_3031,Joseph Strauss,5
+2299524,17:18:00,17:18:10,stop_point:SP_3918,ZA Jean Mermoz,6
+2299524,17:21:00,17:21:10,stop_point:SP_2643,Buette,7
+2299524,17:24:00,17:24:10,stop_point:SP_3219,Dewoitine,8
+2299524,17:26:00,17:26:10,stop_point:SP_437,Latécoère,9
+2299524,17:29:00,17:29:10,stop_point:SP_429,Mairie Cornebarrieu,10
+2299524,17:31:00,17:31:10,stop_point:SP_522,St-Jean,11
+2299524,17:33:00,17:33:10,stop_point:SP_4941,Monges,12
+2299524,17:36:00,17:36:10,stop_point:SP_2505,Chênes,13
+2299524,17:37:00,17:37:10,stop_point:SP_3656,Les Ambrits,14
+2299524,17:39:00,17:39:10,stop_point:SP_789,Berlioz,15
+2299524,17:42:00,17:42:10,stop_point:SP_2660,Clinique des Cèdres,16
+2299524,17:44:00,17:44:10,stop_point:SP_1163,Croix d'Alliez,17
+2299524,17:47:00,17:47:10,stop_point:SP_351,Larroque,18
+2299524,17:54:00,17:54:10,stop_point:SP_3356,Mairie Mondonville,19
+2299524,17:56:00,17:56:10,stop_point:SP_2265,Cantegril,20
+2299524,17:57:00,17:57:10,stop_point:SP_761,Bordeneuve,21
+2299524,17:58:00,17:58:10,stop_point:SP_3830,Plaine,22
+2299524,18:00:00,18:00:10,stop_point:SP_5358,Mondonville Moulis,23
+2299525,06:00:00,06:00:10,stop_point:SP_5358,Mondonville Moulis,1
+2299525,06:01:00,06:01:10,stop_point:SP_2105,Plaine,2
+2299525,06:01:00,06:01:10,stop_point:SP_5318,Bordeneuve,3
+2299525,06:02:00,06:02:10,stop_point:SP_73,Cantegril,4
+2299525,06:02:00,06:02:10,stop_point:SP_5317,Mairie Mondonville,5
+2299525,06:06:00,06:06:10,stop_point:SP_1578,Larroque,6
+2299525,06:08:00,06:08:10,stop_point:SP_2081,Croix d'Alliez,7
+2299525,06:09:00,06:09:10,stop_point:SP_717,Clinique des Cèdres,8
+2299525,06:11:00,06:11:10,stop_point:SP_2941,Berlioz,9
+2299525,06:12:00,06:12:10,stop_point:SP_796,Les Ambrits,10
+2299525,06:13:00,06:13:10,stop_point:SP_5314,Chênes,11
+2299525,06:14:00,06:14:10,stop_point:SP_4941,Monges,12
+2299525,06:16:00,06:16:10,stop_point:SP_862,St-Jean,13
+2299525,06:17:00,06:17:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299525,06:18:00,06:18:10,stop_point:SP_5315,République,15
+2299525,06:19:00,06:19:10,stop_point:SP_1389,Latécoère,16
+2299525,06:20:00,06:20:10,stop_point:SP_3607,Dewoitine,17
+2299525,06:21:00,06:21:10,stop_point:SP_700,Buette,18
+2299525,06:22:00,06:22:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299525,06:24:00,06:24:10,stop_point:SP_2145,Joseph Strauss,20
+2299525,06:25:00,06:25:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299525,06:28:00,06:28:10,stop_point:SP_172,Savary,22
+2299525,06:29:00,06:29:10,stop_point:SP_3479,Andromède-Lycée,23
+2299526,06:30:00,06:30:10,stop_point:SP_5358,Mondonville Moulis,1
+2299526,06:31:00,06:31:10,stop_point:SP_2105,Plaine,2
+2299526,06:31:00,06:31:10,stop_point:SP_5318,Bordeneuve,3
+2299526,06:32:00,06:32:10,stop_point:SP_73,Cantegril,4
+2299526,06:32:00,06:32:10,stop_point:SP_5317,Mairie Mondonville,5
+2299526,06:36:00,06:36:10,stop_point:SP_1578,Larroque,6
+2299526,06:38:00,06:38:10,stop_point:SP_2081,Croix d'Alliez,7
+2299526,06:39:00,06:39:10,stop_point:SP_717,Clinique des Cèdres,8
+2299526,06:41:00,06:41:10,stop_point:SP_2941,Berlioz,9
+2299526,06:42:00,06:42:10,stop_point:SP_796,Les Ambrits,10
+2299526,06:43:00,06:43:10,stop_point:SP_5314,Chênes,11
+2299526,06:45:00,06:45:10,stop_point:SP_4941,Monges,12
+2299526,06:48:00,06:48:10,stop_point:SP_862,St-Jean,13
+2299526,06:48:00,06:48:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299526,06:50:00,06:50:10,stop_point:SP_5315,République,15
+2299526,06:51:00,06:51:10,stop_point:SP_1389,Latécoère,16
+2299526,06:52:00,06:52:10,stop_point:SP_3607,Dewoitine,17
+2299526,06:54:00,06:54:10,stop_point:SP_700,Buette,18
+2299526,06:56:00,06:56:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299526,06:59:00,06:59:10,stop_point:SP_2145,Joseph Strauss,20
+2299526,07:00:00,07:00:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299526,07:03:00,07:03:10,stop_point:SP_172,Savary,22
+2299526,07:04:00,07:04:10,stop_point:SP_3479,Andromède-Lycée,23
+2299527,06:45:00,06:45:10,stop_point:SP_5358,Mondonville Moulis,1
+2299527,06:46:00,06:46:10,stop_point:SP_2105,Plaine,2
+2299527,06:47:00,06:47:10,stop_point:SP_5318,Bordeneuve,3
+2299527,06:48:00,06:48:10,stop_point:SP_73,Cantegril,4
+2299527,06:49:00,06:49:10,stop_point:SP_5317,Mairie Mondonville,5
+2299527,06:55:00,06:55:10,stop_point:SP_1578,Larroque,6
+2299527,06:58:00,06:58:10,stop_point:SP_2081,Croix d'Alliez,7
+2299527,07:00:00,07:00:10,stop_point:SP_717,Clinique des Cèdres,8
+2299527,07:02:00,07:02:10,stop_point:SP_2941,Berlioz,9
+2299527,07:03:00,07:03:10,stop_point:SP_796,Les Ambrits,10
+2299527,07:04:00,07:04:10,stop_point:SP_5314,Chênes,11
+2299527,07:06:00,07:06:10,stop_point:SP_4941,Monges,12
+2299527,07:08:00,07:08:10,stop_point:SP_862,St-Jean,13
+2299527,07:09:00,07:09:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299527,07:11:00,07:11:10,stop_point:SP_5315,République,15
+2299527,07:12:00,07:12:10,stop_point:SP_1389,Latécoère,16
+2299527,07:13:00,07:13:10,stop_point:SP_3607,Dewoitine,17
+2299527,07:14:00,07:14:10,stop_point:SP_700,Buette,18
+2299527,07:16:00,07:16:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299527,07:18:00,07:18:10,stop_point:SP_2145,Joseph Strauss,20
+2299527,07:20:00,07:20:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299527,07:23:00,07:23:10,stop_point:SP_172,Savary,22
+2299527,07:25:00,07:25:10,stop_point:SP_3479,Andromède-Lycée,23
+2299527,07:31:00,07:31:10,stop_point:SP_1701,Collège Mermoz,24
+2299528,06:55:00,06:55:10,stop_point:SP_5358,Mondonville Moulis,1
+2299528,06:56:00,06:56:10,stop_point:SP_2105,Plaine,2
+2299528,06:57:00,06:57:10,stop_point:SP_5318,Bordeneuve,3
+2299528,06:58:00,06:58:10,stop_point:SP_73,Cantegril,4
+2299528,06:59:00,06:59:10,stop_point:SP_5317,Mairie Mondonville,5
+2299528,07:05:00,07:05:10,stop_point:SP_1578,Larroque,6
+2299528,07:08:00,07:08:10,stop_point:SP_2081,Croix d'Alliez,7
+2299528,07:10:00,07:10:10,stop_point:SP_717,Clinique des Cèdres,8
+2299528,07:12:00,07:12:10,stop_point:SP_2941,Berlioz,9
+2299528,07:13:00,07:13:10,stop_point:SP_796,Les Ambrits,10
+2299528,07:14:00,07:14:10,stop_point:SP_5314,Chênes,11
+2299528,07:16:00,07:16:10,stop_point:SP_4941,Monges,12
+2299528,07:18:00,07:18:10,stop_point:SP_862,St-Jean,13
+2299528,07:19:00,07:19:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299528,07:21:00,07:21:10,stop_point:SP_5315,République,15
+2299528,07:22:00,07:22:10,stop_point:SP_1389,Latécoère,16
+2299528,07:23:00,07:23:10,stop_point:SP_3607,Dewoitine,17
+2299528,07:24:00,07:24:10,stop_point:SP_700,Buette,18
+2299528,07:26:00,07:26:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299528,07:28:00,07:28:10,stop_point:SP_2145,Joseph Strauss,20
+2299528,07:30:00,07:30:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299528,07:33:00,07:33:10,stop_point:SP_172,Savary,22
+2299528,07:35:00,07:35:10,stop_point:SP_3479,Andromède-Lycée,23
+2299528,07:45:00,07:45:10,stop_point:SP_1701,Collège Mermoz,24
+2299529,07:05:00,07:05:10,stop_point:SP_5358,Mondonville Moulis,1
+2299529,07:06:00,07:06:10,stop_point:SP_2105,Plaine,2
+2299529,07:08:00,07:08:10,stop_point:SP_5318,Bordeneuve,3
+2299529,07:09:00,07:09:10,stop_point:SP_73,Cantegril,4
+2299529,07:10:00,07:10:10,stop_point:SP_5317,Mairie Mondonville,5
+2299529,07:18:00,07:18:10,stop_point:SP_1578,Larroque,6
+2299529,07:21:00,07:21:10,stop_point:SP_2081,Croix d'Alliez,7
+2299529,07:24:00,07:24:10,stop_point:SP_717,Clinique des Cèdres,8
+2299529,07:27:00,07:27:10,stop_point:SP_2941,Berlioz,9
+2299529,07:29:00,07:29:10,stop_point:SP_796,Les Ambrits,10
+2299529,07:31:00,07:31:10,stop_point:SP_5314,Chênes,11
+2299529,07:34:00,07:34:10,stop_point:SP_4941,Monges,12
+2299529,07:37:00,07:37:10,stop_point:SP_862,St-Jean,13
+2299529,07:39:00,07:39:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299529,07:42:00,07:42:10,stop_point:SP_5315,République,15
+2299529,07:43:00,07:43:10,stop_point:SP_1389,Latécoère,16
+2299529,07:44:00,07:44:10,stop_point:SP_3607,Dewoitine,17
+2299529,07:46:00,07:46:10,stop_point:SP_700,Buette,18
+2299529,07:48:00,07:48:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299529,07:51:00,07:51:10,stop_point:SP_2145,Joseph Strauss,20
+2299529,07:53:00,07:53:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299529,07:57:00,07:57:10,stop_point:SP_172,Savary,22
+2299529,07:59:00,07:59:10,stop_point:SP_3479,Andromède-Lycée,23
+2299530,07:45:00,07:45:10,stop_point:SP_5358,Mondonville Moulis,1
+2299530,07:46:00,07:46:10,stop_point:SP_2105,Plaine,2
+2299530,07:47:00,07:47:10,stop_point:SP_5318,Bordeneuve,3
+2299530,07:49:00,07:49:10,stop_point:SP_73,Cantegril,4
+2299530,07:50:00,07:50:10,stop_point:SP_5317,Mairie Mondonville,5
+2299530,07:57:00,07:57:10,stop_point:SP_1578,Larroque,6
+2299530,08:00:00,08:00:10,stop_point:SP_2081,Croix d'Alliez,7
+2299530,08:03:00,08:03:10,stop_point:SP_717,Clinique des Cèdres,8
+2299530,08:06:00,08:06:10,stop_point:SP_2941,Berlioz,9
+2299530,08:07:00,08:07:10,stop_point:SP_796,Les Ambrits,10
+2299530,08:09:00,08:09:10,stop_point:SP_5314,Chênes,11
+2299530,08:12:00,08:12:10,stop_point:SP_4941,Monges,12
+2299530,08:15:00,08:15:10,stop_point:SP_862,St-Jean,13
+2299530,08:16:00,08:16:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299530,08:19:00,08:19:10,stop_point:SP_5315,République,15
+2299530,08:20:00,08:20:10,stop_point:SP_1389,Latécoère,16
+2299530,08:21:00,08:21:10,stop_point:SP_3607,Dewoitine,17
+2299530,08:23:00,08:23:10,stop_point:SP_700,Buette,18
+2299530,08:25:00,08:25:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299530,08:28:00,08:28:10,stop_point:SP_2145,Joseph Strauss,20
+2299530,08:30:00,08:30:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299530,08:32:00,08:32:10,stop_point:SP_172,Savary,22
+2299530,08:34:00,08:34:10,stop_point:SP_3479,Andromède-Lycée,23
+2299531,08:15:00,08:15:10,stop_point:SP_5358,Mondonville Moulis,1
+2299531,08:16:00,08:16:10,stop_point:SP_2105,Plaine,2
+2299531,08:17:00,08:17:10,stop_point:SP_5318,Bordeneuve,3
+2299531,08:18:00,08:18:10,stop_point:SP_73,Cantegril,4
+2299531,08:19:00,08:19:10,stop_point:SP_5317,Mairie Mondonville,5
+2299531,08:24:00,08:24:10,stop_point:SP_1578,Larroque,6
+2299531,08:26:00,08:26:10,stop_point:SP_2081,Croix d'Alliez,7
+2299531,08:28:00,08:28:10,stop_point:SP_717,Clinique des Cèdres,8
+2299531,08:30:00,08:30:10,stop_point:SP_2941,Berlioz,9
+2299531,08:32:00,08:32:10,stop_point:SP_796,Les Ambrits,10
+2299531,08:33:00,08:33:10,stop_point:SP_5314,Chênes,11
+2299531,08:35:00,08:35:10,stop_point:SP_4941,Monges,12
+2299531,08:38:00,08:38:10,stop_point:SP_862,St-Jean,13
+2299531,08:39:00,08:39:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299531,08:41:00,08:41:10,stop_point:SP_5315,République,15
+2299531,08:42:00,08:42:10,stop_point:SP_1389,Latécoère,16
+2299531,08:43:00,08:43:10,stop_point:SP_3607,Dewoitine,17
+2299531,08:45:00,08:45:10,stop_point:SP_700,Buette,18
+2299531,08:47:00,08:47:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299531,08:50:00,08:50:10,stop_point:SP_2145,Joseph Strauss,20
+2299531,08:51:00,08:51:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299531,08:54:00,08:54:10,stop_point:SP_172,Savary,22
+2299531,08:55:00,08:55:10,stop_point:SP_3479,Andromède-Lycée,23
+2299532,08:40:00,08:40:10,stop_point:SP_5358,Mondonville Moulis,1
+2299532,08:41:00,08:41:10,stop_point:SP_2105,Plaine,2
+2299532,08:41:00,08:41:10,stop_point:SP_5318,Bordeneuve,3
+2299532,08:42:00,08:42:10,stop_point:SP_73,Cantegril,4
+2299532,08:43:00,08:43:10,stop_point:SP_5317,Mairie Mondonville,5
+2299532,08:47:00,08:47:10,stop_point:SP_1578,Larroque,6
+2299532,08:49:00,08:49:10,stop_point:SP_2081,Croix d'Alliez,7
+2299532,08:51:00,08:51:10,stop_point:SP_717,Clinique des Cèdres,8
+2299532,08:53:00,08:53:10,stop_point:SP_2941,Berlioz,9
+2299532,08:54:00,08:54:10,stop_point:SP_796,Les Ambrits,10
+2299532,08:56:00,08:56:10,stop_point:SP_5314,Chênes,11
+2299532,08:58:00,08:58:10,stop_point:SP_4941,Monges,12
+2299532,09:00:00,09:00:10,stop_point:SP_862,St-Jean,13
+2299532,09:01:00,09:01:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299532,09:03:00,09:03:10,stop_point:SP_5315,République,15
+2299532,09:04:00,09:04:10,stop_point:SP_1389,Latécoère,16
+2299532,09:05:00,09:05:10,stop_point:SP_3607,Dewoitine,17
+2299532,09:06:00,09:06:10,stop_point:SP_700,Buette,18
+2299532,09:08:00,09:08:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299532,09:10:00,09:10:10,stop_point:SP_2145,Joseph Strauss,20
+2299532,09:11:00,09:11:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299532,09:14:00,09:14:10,stop_point:SP_172,Savary,22
+2299532,09:15:00,09:15:10,stop_point:SP_3479,Andromède-Lycée,23
+2299533,09:15:00,09:15:10,stop_point:SP_5358,Mondonville Moulis,1
+2299533,09:16:00,09:16:10,stop_point:SP_2105,Plaine,2
+2299533,09:16:00,09:16:10,stop_point:SP_5318,Bordeneuve,3
+2299533,09:17:00,09:17:10,stop_point:SP_73,Cantegril,4
+2299533,09:18:00,09:18:10,stop_point:SP_5317,Mairie Mondonville,5
+2299533,09:22:00,09:22:10,stop_point:SP_1578,Larroque,6
+2299533,09:23:00,09:23:10,stop_point:SP_2081,Croix d'Alliez,7
+2299533,09:25:00,09:25:10,stop_point:SP_717,Clinique des Cèdres,8
+2299533,09:27:00,09:27:10,stop_point:SP_2941,Berlioz,9
+2299533,09:28:00,09:28:10,stop_point:SP_796,Les Ambrits,10
+2299533,09:29:00,09:29:10,stop_point:SP_5314,Chênes,11
+2299533,09:31:00,09:31:10,stop_point:SP_4941,Monges,12
+2299533,09:34:00,09:34:10,stop_point:SP_862,St-Jean,13
+2299533,09:34:00,09:34:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299533,09:36:00,09:36:10,stop_point:SP_5315,République,15
+2299533,09:37:00,09:37:10,stop_point:SP_1389,Latécoère,16
+2299533,09:38:00,09:38:10,stop_point:SP_3607,Dewoitine,17
+2299533,09:39:00,09:39:10,stop_point:SP_700,Buette,18
+2299533,09:41:00,09:41:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299533,09:43:00,09:43:10,stop_point:SP_2145,Joseph Strauss,20
+2299533,09:44:00,09:44:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299533,09:47:00,09:47:10,stop_point:SP_172,Savary,22
+2299533,09:48:00,09:48:10,stop_point:SP_3479,Andromède-Lycée,23
+2299534,10:25:00,10:25:10,stop_point:SP_5358,Mondonville Moulis,1
+2299534,10:26:00,10:26:10,stop_point:SP_2105,Plaine,2
+2299534,10:26:00,10:26:10,stop_point:SP_5318,Bordeneuve,3
+2299534,10:27:00,10:27:10,stop_point:SP_73,Cantegril,4
+2299534,10:28:00,10:28:10,stop_point:SP_5317,Mairie Mondonville,5
+2299534,10:32:00,10:32:10,stop_point:SP_1578,Larroque,6
+2299534,10:33:00,10:33:10,stop_point:SP_2081,Croix d'Alliez,7
+2299534,10:35:00,10:35:10,stop_point:SP_717,Clinique des Cèdres,8
+2299534,10:37:00,10:37:10,stop_point:SP_2941,Berlioz,9
+2299534,10:38:00,10:38:10,stop_point:SP_796,Les Ambrits,10
+2299534,10:39:00,10:39:10,stop_point:SP_5314,Chênes,11
+2299534,10:41:00,10:41:10,stop_point:SP_4941,Monges,12
+2299534,10:43:00,10:43:10,stop_point:SP_862,St-Jean,13
+2299534,10:44:00,10:44:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299534,10:45:00,10:45:10,stop_point:SP_5315,République,15
+2299534,10:46:00,10:46:10,stop_point:SP_1389,Latécoère,16
+2299534,10:46:00,10:46:10,stop_point:SP_3607,Dewoitine,17
+2299534,10:47:00,10:47:10,stop_point:SP_700,Buette,18
+2299534,10:48:00,10:48:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299534,10:50:00,10:50:10,stop_point:SP_2145,Joseph Strauss,20
+2299534,10:51:00,10:51:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299534,10:54:00,10:54:10,stop_point:SP_172,Savary,22
+2299534,10:55:00,10:55:10,stop_point:SP_3479,Andromède-Lycée,23
+2299535,11:35:00,11:35:10,stop_point:SP_5358,Mondonville Moulis,1
+2299535,11:36:00,11:36:10,stop_point:SP_2105,Plaine,2
+2299535,11:36:00,11:36:10,stop_point:SP_5318,Bordeneuve,3
+2299535,11:37:00,11:37:10,stop_point:SP_73,Cantegril,4
+2299535,11:37:00,11:37:10,stop_point:SP_5317,Mairie Mondonville,5
+2299535,11:41:00,11:41:10,stop_point:SP_1578,Larroque,6
+2299535,11:43:00,11:43:10,stop_point:SP_2081,Croix d'Alliez,7
+2299535,11:44:00,11:44:10,stop_point:SP_717,Clinique des Cèdres,8
+2299535,11:46:00,11:46:10,stop_point:SP_2941,Berlioz,9
+2299535,11:47:00,11:47:10,stop_point:SP_796,Les Ambrits,10
+2299535,11:48:00,11:48:10,stop_point:SP_5314,Chênes,11
+2299535,11:50:00,11:50:10,stop_point:SP_4941,Monges,12
+2299535,11:53:00,11:53:10,stop_point:SP_862,St-Jean,13
+2299535,11:53:00,11:53:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299535,11:55:00,11:55:10,stop_point:SP_5315,République,15
+2299535,11:56:00,11:56:10,stop_point:SP_1389,Latécoère,16
+2299535,11:56:00,11:56:10,stop_point:SP_3607,Dewoitine,17
+2299535,11:57:00,11:57:10,stop_point:SP_700,Buette,18
+2299535,11:58:00,11:58:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299535,12:00:00,12:00:10,stop_point:SP_2145,Joseph Strauss,20
+2299535,12:01:00,12:01:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299535,12:04:00,12:04:10,stop_point:SP_172,Savary,22
+2299535,12:05:00,12:05:10,stop_point:SP_3479,Andromède-Lycée,23
+2299536,12:55:00,12:55:10,stop_point:SP_5358,Mondonville Moulis,1
+2299536,12:56:00,12:56:10,stop_point:SP_2105,Plaine,2
+2299536,12:56:00,12:56:10,stop_point:SP_5318,Bordeneuve,3
+2299536,12:57:00,12:57:10,stop_point:SP_73,Cantegril,4
+2299536,12:58:00,12:58:10,stop_point:SP_5317,Mairie Mondonville,5
+2299536,13:02:00,13:02:10,stop_point:SP_1578,Larroque,6
+2299536,13:03:00,13:03:10,stop_point:SP_2081,Croix d'Alliez,7
+2299536,13:05:00,13:05:10,stop_point:SP_717,Clinique des Cèdres,8
+2299536,13:07:00,13:07:10,stop_point:SP_2941,Berlioz,9
+2299536,13:08:00,13:08:10,stop_point:SP_796,Les Ambrits,10
+2299536,13:09:00,13:09:10,stop_point:SP_5314,Chênes,11
+2299536,13:11:00,13:11:10,stop_point:SP_4941,Monges,12
+2299536,13:14:00,13:14:10,stop_point:SP_862,St-Jean,13
+2299536,13:14:00,13:14:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299536,13:16:00,13:16:10,stop_point:SP_5315,République,15
+2299536,13:17:00,13:17:10,stop_point:SP_1389,Latécoère,16
+2299536,13:18:00,13:18:10,stop_point:SP_3607,Dewoitine,17
+2299536,13:19:00,13:19:10,stop_point:SP_700,Buette,18
+2299536,13:21:00,13:21:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299536,13:24:00,13:24:10,stop_point:SP_2145,Joseph Strauss,20
+2299536,13:25:00,13:25:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299536,13:28:00,13:28:10,stop_point:SP_172,Savary,22
+2299536,13:29:00,13:29:10,stop_point:SP_3479,Andromède-Lycée,23
+2299537,14:05:00,14:05:10,stop_point:SP_5358,Mondonville Moulis,1
+2299537,14:06:00,14:06:10,stop_point:SP_2105,Plaine,2
+2299537,14:06:00,14:06:10,stop_point:SP_5318,Bordeneuve,3
+2299537,14:07:00,14:07:10,stop_point:SP_73,Cantegril,4
+2299537,14:08:00,14:08:10,stop_point:SP_5317,Mairie Mondonville,5
+2299537,14:12:00,14:12:10,stop_point:SP_1578,Larroque,6
+2299537,14:13:00,14:13:10,stop_point:SP_2081,Croix d'Alliez,7
+2299537,14:15:00,14:15:10,stop_point:SP_717,Clinique des Cèdres,8
+2299537,14:17:00,14:17:10,stop_point:SP_2941,Berlioz,9
+2299537,14:18:00,14:18:10,stop_point:SP_796,Les Ambrits,10
+2299537,14:19:00,14:19:10,stop_point:SP_5314,Chênes,11
+2299537,14:21:00,14:21:10,stop_point:SP_4941,Monges,12
+2299537,14:24:00,14:24:10,stop_point:SP_862,St-Jean,13
+2299537,14:24:00,14:24:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299537,14:26:00,14:26:10,stop_point:SP_5315,République,15
+2299537,14:27:00,14:27:10,stop_point:SP_1389,Latécoère,16
+2299537,14:28:00,14:28:10,stop_point:SP_3607,Dewoitine,17
+2299537,14:29:00,14:29:10,stop_point:SP_700,Buette,18
+2299537,14:31:00,14:31:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299537,14:34:00,14:34:10,stop_point:SP_2145,Joseph Strauss,20
+2299537,14:35:00,14:35:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299537,14:38:00,14:38:10,stop_point:SP_172,Savary,22
+2299537,14:39:00,14:39:10,stop_point:SP_3479,Andromède-Lycée,23
+2299538,15:05:00,15:05:10,stop_point:SP_5358,Mondonville Moulis,1
+2299538,15:06:00,15:06:10,stop_point:SP_2105,Plaine,2
+2299538,15:06:00,15:06:10,stop_point:SP_5318,Bordeneuve,3
+2299538,15:07:00,15:07:10,stop_point:SP_73,Cantegril,4
+2299538,15:08:00,15:08:10,stop_point:SP_5317,Mairie Mondonville,5
+2299538,15:12:00,15:12:10,stop_point:SP_1578,Larroque,6
+2299538,15:13:00,15:13:10,stop_point:SP_2081,Croix d'Alliez,7
+2299538,15:15:00,15:15:10,stop_point:SP_717,Clinique des Cèdres,8
+2299538,15:17:00,15:17:10,stop_point:SP_2941,Berlioz,9
+2299538,15:18:00,15:18:10,stop_point:SP_796,Les Ambrits,10
+2299538,15:19:00,15:19:10,stop_point:SP_5314,Chênes,11
+2299538,15:21:00,15:21:10,stop_point:SP_4941,Monges,12
+2299538,15:24:00,15:24:10,stop_point:SP_862,St-Jean,13
+2299538,15:24:00,15:24:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299538,15:26:00,15:26:10,stop_point:SP_5315,République,15
+2299538,15:27:00,15:27:10,stop_point:SP_1389,Latécoère,16
+2299538,15:28:00,15:28:10,stop_point:SP_3607,Dewoitine,17
+2299538,15:29:00,15:29:10,stop_point:SP_700,Buette,18
+2299538,15:31:00,15:31:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299538,15:34:00,15:34:10,stop_point:SP_2145,Joseph Strauss,20
+2299538,15:35:00,15:35:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299538,15:38:00,15:38:10,stop_point:SP_172,Savary,22
+2299538,15:39:00,15:39:10,stop_point:SP_3479,Andromède-Lycée,23
+2299539,16:10:00,16:10:10,stop_point:SP_5358,Mondonville Moulis,1
+2299539,16:11:00,16:11:10,stop_point:SP_2105,Plaine,2
+2299539,16:11:00,16:11:10,stop_point:SP_5318,Bordeneuve,3
+2299539,16:12:00,16:12:10,stop_point:SP_73,Cantegril,4
+2299539,16:13:00,16:13:10,stop_point:SP_5317,Mairie Mondonville,5
+2299539,16:17:00,16:17:10,stop_point:SP_1578,Larroque,6
+2299539,16:18:00,16:18:10,stop_point:SP_2081,Croix d'Alliez,7
+2299539,16:20:00,16:20:10,stop_point:SP_717,Clinique des Cèdres,8
+2299539,16:22:00,16:22:10,stop_point:SP_2941,Berlioz,9
+2299539,16:23:00,16:23:10,stop_point:SP_796,Les Ambrits,10
+2299539,16:24:00,16:24:10,stop_point:SP_5314,Chênes,11
+2299539,16:26:00,16:26:10,stop_point:SP_4941,Monges,12
+2299539,16:29:00,16:29:10,stop_point:SP_862,St-Jean,13
+2299539,16:29:00,16:29:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299539,16:31:00,16:31:10,stop_point:SP_5315,République,15
+2299539,16:32:00,16:32:10,stop_point:SP_1389,Latécoère,16
+2299539,16:33:00,16:33:10,stop_point:SP_3607,Dewoitine,17
+2299539,16:34:00,16:34:10,stop_point:SP_700,Buette,18
+2299539,16:36:00,16:36:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299539,16:39:00,16:39:10,stop_point:SP_2145,Joseph Strauss,20
+2299539,16:40:00,16:40:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299539,16:43:00,16:43:10,stop_point:SP_172,Savary,22
+2299539,16:44:00,16:44:10,stop_point:SP_3479,Andromède-Lycée,23
+2299540,16:40:00,16:40:10,stop_point:SP_5358,Mondonville Moulis,1
+2299540,16:41:00,16:41:10,stop_point:SP_2105,Plaine,2
+2299540,16:41:00,16:41:10,stop_point:SP_5318,Bordeneuve,3
+2299540,16:42:00,16:42:10,stop_point:SP_73,Cantegril,4
+2299540,16:43:00,16:43:10,stop_point:SP_5317,Mairie Mondonville,5
+2299540,16:47:00,16:47:10,stop_point:SP_1578,Larroque,6
+2299540,16:48:00,16:48:10,stop_point:SP_2081,Croix d'Alliez,7
+2299540,16:50:00,16:50:10,stop_point:SP_717,Clinique des Cèdres,8
+2299540,16:52:00,16:52:10,stop_point:SP_2941,Berlioz,9
+2299540,16:53:00,16:53:10,stop_point:SP_796,Les Ambrits,10
+2299540,16:54:00,16:54:10,stop_point:SP_5314,Chênes,11
+2299540,16:56:00,16:56:10,stop_point:SP_4941,Monges,12
+2299540,16:59:00,16:59:10,stop_point:SP_862,St-Jean,13
+2299540,16:59:00,16:59:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299540,17:01:00,17:01:10,stop_point:SP_5315,République,15
+2299540,17:02:00,17:02:10,stop_point:SP_1389,Latécoère,16
+2299540,17:03:00,17:03:10,stop_point:SP_3607,Dewoitine,17
+2299540,17:04:00,17:04:10,stop_point:SP_700,Buette,18
+2299540,17:06:00,17:06:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299540,17:09:00,17:09:10,stop_point:SP_2145,Joseph Strauss,20
+2299540,17:10:00,17:10:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299540,17:13:00,17:13:10,stop_point:SP_172,Savary,22
+2299540,17:14:00,17:14:10,stop_point:SP_3479,Andromède-Lycée,23
+2299541,17:00:00,17:00:10,stop_point:SP_5358,Mondonville Moulis,1
+2299541,17:01:00,17:01:10,stop_point:SP_2105,Plaine,2
+2299541,17:01:00,17:01:10,stop_point:SP_5318,Bordeneuve,3
+2299541,17:02:00,17:02:10,stop_point:SP_73,Cantegril,4
+2299541,17:03:00,17:03:10,stop_point:SP_5317,Mairie Mondonville,5
+2299541,17:07:00,17:07:10,stop_point:SP_1578,Larroque,6
+2299541,17:08:00,17:08:10,stop_point:SP_2081,Croix d'Alliez,7
+2299541,17:10:00,17:10:10,stop_point:SP_717,Clinique des Cèdres,8
+2299541,17:12:00,17:12:10,stop_point:SP_2941,Berlioz,9
+2299541,17:13:00,17:13:10,stop_point:SP_796,Les Ambrits,10
+2299541,17:14:00,17:14:10,stop_point:SP_5314,Chênes,11
+2299541,17:15:00,17:15:10,stop_point:SP_4941,Monges,12
+2299541,17:17:00,17:17:10,stop_point:SP_862,St-Jean,13
+2299541,17:18:00,17:18:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299541,17:19:00,17:19:10,stop_point:SP_5315,République,15
+2299541,17:20:00,17:20:10,stop_point:SP_1389,Latécoère,16
+2299541,17:21:00,17:21:10,stop_point:SP_3607,Dewoitine,17
+2299541,17:22:00,17:22:10,stop_point:SP_700,Buette,18
+2299541,17:24:00,17:24:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299541,17:26:00,17:26:10,stop_point:SP_2145,Joseph Strauss,20
+2299541,17:27:00,17:27:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299541,17:30:00,17:30:10,stop_point:SP_172,Savary,22
+2299541,17:31:00,17:31:10,stop_point:SP_3479,Andromède-Lycée,23
+2299542,17:10:00,17:10:10,stop_point:SP_5358,Mondonville Moulis,1
+2299542,17:11:00,17:11:10,stop_point:SP_2105,Plaine,2
+2299542,17:11:00,17:11:10,stop_point:SP_5318,Bordeneuve,3
+2299542,17:12:00,17:12:10,stop_point:SP_73,Cantegril,4
+2299542,17:13:00,17:13:10,stop_point:SP_5317,Mairie Mondonville,5
+2299542,17:17:00,17:17:10,stop_point:SP_1578,Larroque,6
+2299542,17:18:00,17:18:10,stop_point:SP_2081,Croix d'Alliez,7
+2299542,17:20:00,17:20:10,stop_point:SP_717,Clinique des Cèdres,8
+2299542,17:22:00,17:22:10,stop_point:SP_2941,Berlioz,9
+2299542,17:23:00,17:23:10,stop_point:SP_796,Les Ambrits,10
+2299542,17:24:00,17:24:10,stop_point:SP_5314,Chênes,11
+2299542,17:25:00,17:25:10,stop_point:SP_4941,Monges,12
+2299542,17:27:00,17:27:10,stop_point:SP_862,St-Jean,13
+2299542,17:28:00,17:28:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299542,17:29:00,17:29:10,stop_point:SP_5315,République,15
+2299542,17:30:00,17:30:10,stop_point:SP_1389,Latécoère,16
+2299542,17:31:00,17:31:10,stop_point:SP_3607,Dewoitine,17
+2299542,17:32:00,17:32:10,stop_point:SP_700,Buette,18
+2299542,17:33:00,17:33:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299542,17:35:00,17:35:10,stop_point:SP_2145,Joseph Strauss,20
+2299542,17:36:00,17:36:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299542,17:39:00,17:39:10,stop_point:SP_172,Savary,22
+2299542,17:40:00,17:40:10,stop_point:SP_3479,Andromède-Lycée,23
+2299543,17:40:00,17:40:10,stop_point:SP_5358,Mondonville Moulis,1
+2299543,17:41:00,17:41:10,stop_point:SP_2105,Plaine,2
+2299543,17:41:00,17:41:10,stop_point:SP_5318,Bordeneuve,3
+2299543,17:42:00,17:42:10,stop_point:SP_73,Cantegril,4
+2299543,17:43:00,17:43:10,stop_point:SP_5317,Mairie Mondonville,5
+2299543,17:47:00,17:47:10,stop_point:SP_1578,Larroque,6
+2299543,17:48:00,17:48:10,stop_point:SP_2081,Croix d'Alliez,7
+2299543,17:50:00,17:50:10,stop_point:SP_717,Clinique des Cèdres,8
+2299543,17:52:00,17:52:10,stop_point:SP_2941,Berlioz,9
+2299543,17:53:00,17:53:10,stop_point:SP_796,Les Ambrits,10
+2299543,17:54:00,17:54:10,stop_point:SP_5314,Chênes,11
+2299543,17:55:00,17:55:10,stop_point:SP_4941,Monges,12
+2299543,17:57:00,17:57:10,stop_point:SP_862,St-Jean,13
+2299543,17:58:00,17:58:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299543,17:59:00,17:59:10,stop_point:SP_5315,République,15
+2299543,18:00:00,18:00:10,stop_point:SP_1389,Latécoère,16
+2299543,18:01:00,18:01:10,stop_point:SP_3607,Dewoitine,17
+2299543,18:02:00,18:02:10,stop_point:SP_700,Buette,18
+2299543,18:03:00,18:03:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299543,18:05:00,18:05:10,stop_point:SP_2145,Joseph Strauss,20
+2299543,18:06:00,18:06:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299543,18:09:00,18:09:10,stop_point:SP_172,Savary,22
+2299543,18:10:00,18:10:10,stop_point:SP_3479,Andromède-Lycée,23
+2299544,18:05:00,18:05:10,stop_point:SP_5358,Mondonville Moulis,1
+2299544,18:06:00,18:06:10,stop_point:SP_2105,Plaine,2
+2299544,18:06:00,18:06:10,stop_point:SP_5318,Bordeneuve,3
+2299544,18:07:00,18:07:10,stop_point:SP_73,Cantegril,4
+2299544,18:08:00,18:08:10,stop_point:SP_5317,Mairie Mondonville,5
+2299544,18:12:00,18:12:10,stop_point:SP_1578,Larroque,6
+2299544,18:13:00,18:13:10,stop_point:SP_2081,Croix d'Alliez,7
+2299544,18:15:00,18:15:10,stop_point:SP_717,Clinique des Cèdres,8
+2299544,18:17:00,18:17:10,stop_point:SP_2941,Berlioz,9
+2299544,18:18:00,18:18:10,stop_point:SP_796,Les Ambrits,10
+2299544,18:19:00,18:19:10,stop_point:SP_5314,Chênes,11
+2299544,18:21:00,18:21:10,stop_point:SP_4941,Monges,12
+2299544,18:24:00,18:24:10,stop_point:SP_862,St-Jean,13
+2299544,18:24:00,18:24:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299544,18:26:00,18:26:10,stop_point:SP_5315,République,15
+2299544,18:27:00,18:27:10,stop_point:SP_1389,Latécoère,16
+2299544,18:28:00,18:28:10,stop_point:SP_3607,Dewoitine,17
+2299544,18:29:00,18:29:10,stop_point:SP_700,Buette,18
+2299544,18:31:00,18:31:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299544,18:34:00,18:34:10,stop_point:SP_2145,Joseph Strauss,20
+2299544,18:35:00,18:35:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299544,18:38:00,18:38:10,stop_point:SP_172,Savary,22
+2299544,18:39:00,18:39:10,stop_point:SP_3479,Andromède-Lycée,23
+2299545,18:15:00,18:15:10,stop_point:SP_5358,Mondonville Moulis,1
+2299545,18:16:00,18:16:10,stop_point:SP_2105,Plaine,2
+2299545,18:17:00,18:17:10,stop_point:SP_5318,Bordeneuve,3
+2299545,18:17:00,18:17:10,stop_point:SP_73,Cantegril,4
+2299545,18:18:00,18:18:10,stop_point:SP_5317,Mairie Mondonville,5
+2299545,18:23:00,18:23:10,stop_point:SP_1578,Larroque,6
+2299545,18:25:00,18:25:10,stop_point:SP_2081,Croix d'Alliez,7
+2299545,18:27:00,18:27:10,stop_point:SP_717,Clinique des Cèdres,8
+2299545,18:29:00,18:29:10,stop_point:SP_2941,Berlioz,9
+2299545,18:30:00,18:30:10,stop_point:SP_796,Les Ambrits,10
+2299545,18:31:00,18:31:10,stop_point:SP_5314,Chênes,11
+2299545,18:33:00,18:33:10,stop_point:SP_4941,Monges,12
+2299545,18:35:00,18:35:10,stop_point:SP_862,St-Jean,13
+2299545,18:36:00,18:36:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299545,18:37:00,18:37:10,stop_point:SP_5315,République,15
+2299545,18:38:00,18:38:10,stop_point:SP_1389,Latécoère,16
+2299545,18:39:00,18:39:10,stop_point:SP_3607,Dewoitine,17
+2299545,18:40:00,18:40:10,stop_point:SP_700,Buette,18
+2299545,18:42:00,18:42:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299545,18:44:00,18:44:10,stop_point:SP_2145,Joseph Strauss,20
+2299545,18:45:00,18:45:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299545,18:48:00,18:48:10,stop_point:SP_172,Savary,22
+2299545,18:49:00,18:49:10,stop_point:SP_3479,Andromède-Lycée,23
+2299546,18:40:00,18:40:10,stop_point:SP_5358,Mondonville Moulis,1
+2299546,18:41:00,18:41:10,stop_point:SP_2105,Plaine,2
+2299546,18:41:00,18:41:10,stop_point:SP_5318,Bordeneuve,3
+2299546,18:42:00,18:42:10,stop_point:SP_73,Cantegril,4
+2299546,18:43:00,18:43:10,stop_point:SP_5317,Mairie Mondonville,5
+2299546,18:47:00,18:47:10,stop_point:SP_1578,Larroque,6
+2299546,18:49:00,18:49:10,stop_point:SP_2081,Croix d'Alliez,7
+2299546,18:51:00,18:51:10,stop_point:SP_717,Clinique des Cèdres,8
+2299546,18:53:00,18:53:10,stop_point:SP_2941,Berlioz,9
+2299546,18:54:00,18:54:10,stop_point:SP_796,Les Ambrits,10
+2299546,18:55:00,18:55:10,stop_point:SP_5314,Chênes,11
+2299546,18:56:00,18:56:10,stop_point:SP_4941,Monges,12
+2299546,18:58:00,18:58:10,stop_point:SP_862,St-Jean,13
+2299546,18:59:00,18:59:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299546,19:00:00,19:00:10,stop_point:SP_5315,République,15
+2299546,19:01:00,19:01:10,stop_point:SP_1389,Latécoère,16
+2299546,19:02:00,19:02:10,stop_point:SP_3607,Dewoitine,17
+2299546,19:03:00,19:03:10,stop_point:SP_700,Buette,18
+2299546,19:05:00,19:05:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299546,19:07:00,19:07:10,stop_point:SP_2145,Joseph Strauss,20
+2299546,19:08:00,19:08:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299546,19:11:00,19:11:10,stop_point:SP_172,Savary,22
+2299546,19:12:00,19:12:10,stop_point:SP_3479,Andromède-Lycée,23
+2299547,19:10:00,19:10:10,stop_point:SP_5358,Mondonville Moulis,1
+2299547,19:11:00,19:11:10,stop_point:SP_2105,Plaine,2
+2299547,19:11:00,19:11:10,stop_point:SP_5318,Bordeneuve,3
+2299547,19:12:00,19:12:10,stop_point:SP_73,Cantegril,4
+2299547,19:12:00,19:12:10,stop_point:SP_5317,Mairie Mondonville,5
+2299547,19:16:00,19:16:10,stop_point:SP_1578,Larroque,6
+2299547,19:18:00,19:18:10,stop_point:SP_2081,Croix d'Alliez,7
+2299547,19:19:00,19:19:10,stop_point:SP_717,Clinique des Cèdres,8
+2299547,19:21:00,19:21:10,stop_point:SP_2941,Berlioz,9
+2299547,19:21:00,19:21:10,stop_point:SP_796,Les Ambrits,10
+2299547,19:22:00,19:22:10,stop_point:SP_5314,Chênes,11
+2299547,19:24:00,19:24:10,stop_point:SP_4941,Monges,12
+2299547,19:25:00,19:25:10,stop_point:SP_862,St-Jean,13
+2299547,19:26:00,19:26:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299547,19:27:00,19:27:10,stop_point:SP_5315,République,15
+2299547,19:28:00,19:28:10,stop_point:SP_1389,Latécoère,16
+2299547,19:29:00,19:29:10,stop_point:SP_3607,Dewoitine,17
+2299547,19:30:00,19:30:10,stop_point:SP_700,Buette,18
+2299547,19:32:00,19:32:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299547,19:34:00,19:34:10,stop_point:SP_2145,Joseph Strauss,20
+2299547,19:35:00,19:35:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299547,19:38:00,19:38:10,stop_point:SP_172,Savary,22
+2299547,19:39:00,19:39:10,stop_point:SP_3479,Andromède-Lycée,23
+2299548,20:25:00,20:25:10,stop_point:SP_5358,Mondonville Moulis,1
+2299548,20:26:00,20:26:10,stop_point:SP_2105,Plaine,2
+2299548,20:26:00,20:26:10,stop_point:SP_5318,Bordeneuve,3
+2299548,20:27:00,20:27:10,stop_point:SP_73,Cantegril,4
+2299548,20:27:00,20:27:10,stop_point:SP_5317,Mairie Mondonville,5
+2299548,20:31:00,20:31:10,stop_point:SP_1578,Larroque,6
+2299548,20:33:00,20:33:10,stop_point:SP_2081,Croix d'Alliez,7
+2299548,20:34:00,20:34:10,stop_point:SP_717,Clinique des Cèdres,8
+2299548,20:35:00,20:35:10,stop_point:SP_2941,Berlioz,9
+2299548,20:36:00,20:36:10,stop_point:SP_796,Les Ambrits,10
+2299548,20:37:00,20:37:10,stop_point:SP_5314,Chênes,11
+2299548,20:38:00,20:38:10,stop_point:SP_4941,Monges,12
+2299548,20:40:00,20:40:10,stop_point:SP_862,St-Jean,13
+2299548,20:40:00,20:40:10,stop_point:SP_3726,Mairie Cornebarrieu,14
+2299548,20:41:00,20:41:10,stop_point:SP_5315,République,15
+2299548,20:42:00,20:42:10,stop_point:SP_1389,Latécoère,16
+2299548,20:43:00,20:43:10,stop_point:SP_3607,Dewoitine,17
+2299548,20:44:00,20:44:10,stop_point:SP_700,Buette,18
+2299548,20:46:00,20:46:10,stop_point:SP_2602,ZA Jean Mermoz,19
+2299548,20:48:00,20:48:10,stop_point:SP_2145,Joseph Strauss,20
+2299548,20:49:00,20:49:10,stop_point:SP_3588,Ctre Cial Blagnac,21
+2299548,20:52:00,20:52:10,stop_point:SP_172,Savary,22
+2299548,20:53:00,20:53:10,stop_point:SP_3479,Andromède-Lycée,23
+2299549,06:30:00,06:30:10,stop_point:SP_4941,Monges,1
+2299549,06:32:00,06:32:10,stop_point:SP_862,St-Jean,2
+2299549,06:32:00,06:32:10,stop_point:SP_3726,Mairie Cornebarrieu,3
+2299549,06:33:00,06:33:10,stop_point:SP_5315,République,4
+2299549,06:34:00,06:34:10,stop_point:SP_1389,Latécoère,5
+2299549,06:35:00,06:35:10,stop_point:SP_3607,Dewoitine,6
+2299549,06:36:00,06:36:10,stop_point:SP_700,Buette,7
+2299549,06:37:00,06:37:10,stop_point:SP_2602,ZA Jean Mermoz,8
+2299549,06:39:00,06:39:10,stop_point:SP_2145,Joseph Strauss,9
+2299549,06:40:00,06:40:10,stop_point:SP_3588,Ctre Cial Blagnac,10
+2299549,06:43:00,06:43:10,stop_point:SP_172,Savary,11
+2299549,06:44:00,06:44:10,stop_point:SP_3479,Andromède-Lycée,12
+2299550,07:10:00,07:10:10,stop_point:SP_4941,Monges,1
+2299550,07:12:00,07:12:10,stop_point:SP_862,St-Jean,2
+2299550,07:13:00,07:13:10,stop_point:SP_3726,Mairie Cornebarrieu,3
+2299550,07:14:00,07:14:10,stop_point:SP_5315,République,4
+2299550,07:15:00,07:15:10,stop_point:SP_1389,Latécoère,5
+2299550,07:16:00,07:16:10,stop_point:SP_3607,Dewoitine,6
+2299550,07:17:00,07:17:10,stop_point:SP_700,Buette,7
+2299550,07:19:00,07:19:10,stop_point:SP_2602,ZA Jean Mermoz,8
+2299550,07:22:00,07:22:10,stop_point:SP_2145,Joseph Strauss,9
+2299550,07:24:00,07:24:10,stop_point:SP_3588,Ctre Cial Blagnac,10
+2299550,07:26:00,07:26:10,stop_point:SP_172,Savary,11
+2299550,07:28:00,07:28:10,stop_point:SP_3479,Andromède-Lycée,12
+2299551,07:55:00,07:55:10,stop_point:SP_4941,Monges,1
+2299551,07:57:00,07:57:10,stop_point:SP_862,St-Jean,2
+2299551,07:58:00,07:58:10,stop_point:SP_3726,Mairie Cornebarrieu,3
+2299551,08:00:00,08:00:10,stop_point:SP_5315,République,4
+2299551,08:01:00,08:01:10,stop_point:SP_1389,Latécoère,5
+2299551,08:02:00,08:02:10,stop_point:SP_3607,Dewoitine,6
+2299551,08:04:00,08:04:10,stop_point:SP_700,Buette,7
+2299551,08:06:00,08:06:10,stop_point:SP_2602,ZA Jean Mermoz,8
+2299551,08:09:00,08:09:10,stop_point:SP_2145,Joseph Strauss,9
+2299551,08:11:00,08:11:10,stop_point:SP_3588,Ctre Cial Blagnac,10
+2299551,08:13:00,08:13:10,stop_point:SP_172,Savary,11
+2299551,08:15:00,08:15:10,stop_point:SP_3479,Andromède-Lycée,12
+2299552,17:40:00,17:40:10,stop_point:SP_4941,Monges,1
+2299552,17:42:00,17:42:10,stop_point:SP_862,St-Jean,2
+2299552,17:42:00,17:42:10,stop_point:SP_3726,Mairie Cornebarrieu,3
+2299552,17:43:00,17:43:10,stop_point:SP_5315,République,4
+2299552,17:44:00,17:44:10,stop_point:SP_1389,Latécoère,5
+2299552,17:45:00,17:45:10,stop_point:SP_3607,Dewoitine,6
+2299552,17:46:00,17:46:10,stop_point:SP_700,Buette,7
+2299552,17:48:00,17:48:10,stop_point:SP_2602,ZA Jean Mermoz,8
+2299552,17:50:00,17:50:10,stop_point:SP_2145,Joseph Strauss,9
+2299552,17:51:00,17:51:10,stop_point:SP_3588,Ctre Cial Blagnac,10
+2299552,17:54:00,17:54:10,stop_point:SP_172,Savary,11
+2299552,17:55:00,17:55:10,stop_point:SP_3479,Andromède-Lycée,12

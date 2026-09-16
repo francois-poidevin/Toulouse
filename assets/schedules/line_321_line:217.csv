@@ -1,0 +1,476 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2292898,07:00:00,07:00:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292898,07:00:00,07:00:10,stop_point:SP_3891,Palarin,2
+2292898,07:02:00,07:02:10,stop_point:SP_69,Saguens,3
+2292898,07:05:00,07:05:10,stop_point:SP_3751,Route de Portet,4
+2292898,07:08:00,07:08:10,stop_point:SP_3881,Petit Barry,5
+2292898,07:09:00,07:09:10,stop_point:SP_1369,Lilas,6
+2292898,07:10:00,07:10:10,stop_point:SP_943,Stade,7
+2292898,07:10:00,07:10:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292898,07:11:00,07:11:10,stop_point:SP_3715,Vivier,9
+2292898,07:11:00,07:11:10,stop_point:SP_1042,Béarn,10
+2292898,07:12:00,07:12:10,stop_point:SP_5164,Couserans,11
+2292898,07:13:00,07:13:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292898,07:14:00,07:14:10,stop_point:SP_5154,Densus,13
+2292898,07:15:00,07:15:10,stop_point:SP_5156,Jonquilles,14
+2292898,07:15:00,07:15:10,stop_point:SP_5149,F. Mitterrand,15
+2292898,07:16:00,07:16:10,stop_point:SP_3028,Painlevé,16
+2292898,07:17:00,07:17:10,stop_point:SP_3124,Collège Picasso,17
+2292898,07:18:00,07:18:10,stop_point:SP_5145,Rouget de Lisle,18
+2292898,07:19:00,07:19:10,stop_point:SP_5147,Frouzins Tréville,19
+2292899,07:35:00,07:35:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292899,07:35:00,07:35:10,stop_point:SP_3891,Palarin,2
+2292899,07:37:00,07:37:10,stop_point:SP_69,Saguens,3
+2292899,07:40:00,07:40:10,stop_point:SP_3751,Route de Portet,4
+2292899,07:43:00,07:43:10,stop_point:SP_3881,Petit Barry,5
+2292899,07:44:00,07:44:10,stop_point:SP_1369,Lilas,6
+2292899,07:45:00,07:45:10,stop_point:SP_943,Stade,7
+2292899,07:46:00,07:46:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292899,07:47:00,07:47:10,stop_point:SP_3715,Vivier,9
+2292899,07:47:00,07:47:10,stop_point:SP_1042,Béarn,10
+2292899,07:48:00,07:48:10,stop_point:SP_5164,Couserans,11
+2292899,07:49:00,07:49:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292899,07:50:00,07:50:10,stop_point:SP_5154,Densus,13
+2292899,07:51:00,07:51:10,stop_point:SP_5156,Jonquilles,14
+2292899,07:51:00,07:51:10,stop_point:SP_5149,F. Mitterrand,15
+2292899,07:52:00,07:52:10,stop_point:SP_3028,Painlevé,16
+2292899,07:53:00,07:53:10,stop_point:SP_3124,Collège Picasso,17
+2292899,07:54:00,07:54:10,stop_point:SP_5145,Rouget de Lisle,18
+2292899,07:55:00,07:55:10,stop_point:SP_5147,Frouzins Tréville,19
+2292900,08:15:00,08:15:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292900,08:15:00,08:15:10,stop_point:SP_3891,Palarin,2
+2292900,08:17:00,08:17:10,stop_point:SP_69,Saguens,3
+2292900,08:20:00,08:20:10,stop_point:SP_3751,Route de Portet,4
+2292900,08:23:00,08:23:10,stop_point:SP_3881,Petit Barry,5
+2292900,08:24:00,08:24:10,stop_point:SP_1369,Lilas,6
+2292900,08:25:00,08:25:10,stop_point:SP_943,Stade,7
+2292900,08:26:00,08:26:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292900,08:27:00,08:27:10,stop_point:SP_3715,Vivier,9
+2292900,08:27:00,08:27:10,stop_point:SP_1042,Béarn,10
+2292900,08:28:00,08:28:10,stop_point:SP_5164,Couserans,11
+2292900,08:29:00,08:29:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292900,08:30:00,08:30:10,stop_point:SP_5154,Densus,13
+2292900,08:31:00,08:31:10,stop_point:SP_5156,Jonquilles,14
+2292900,08:31:00,08:31:10,stop_point:SP_5149,F. Mitterrand,15
+2292900,08:32:00,08:32:10,stop_point:SP_3028,Painlevé,16
+2292900,08:33:00,08:33:10,stop_point:SP_3124,Collège Picasso,17
+2292900,08:34:00,08:34:10,stop_point:SP_5145,Rouget de Lisle,18
+2292900,08:35:00,08:35:10,stop_point:SP_5147,Frouzins Tréville,19
+2292901,08:40:00,08:40:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292901,08:40:00,08:40:10,stop_point:SP_3891,Palarin,2
+2292901,08:42:00,08:42:10,stop_point:SP_69,Saguens,3
+2292901,08:45:00,08:45:10,stop_point:SP_3751,Route de Portet,4
+2292901,08:48:00,08:48:10,stop_point:SP_3881,Petit Barry,5
+2292901,08:49:00,08:49:10,stop_point:SP_1369,Lilas,6
+2292901,08:50:00,08:50:10,stop_point:SP_943,Stade,7
+2292901,08:51:00,08:51:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292901,08:52:00,08:52:10,stop_point:SP_3715,Vivier,9
+2292901,08:52:00,08:52:10,stop_point:SP_1042,Béarn,10
+2292901,08:53:00,08:53:10,stop_point:SP_5164,Couserans,11
+2292901,08:54:00,08:54:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292901,08:55:00,08:55:10,stop_point:SP_5154,Densus,13
+2292901,08:56:00,08:56:10,stop_point:SP_5156,Jonquilles,14
+2292901,08:56:00,08:56:10,stop_point:SP_5149,F. Mitterrand,15
+2292901,08:57:00,08:57:10,stop_point:SP_3028,Painlevé,16
+2292901,08:58:00,08:58:10,stop_point:SP_3124,Collège Picasso,17
+2292901,08:59:00,08:59:10,stop_point:SP_5145,Rouget de Lisle,18
+2292901,09:00:00,09:00:10,stop_point:SP_5147,Frouzins Tréville,19
+2292902,12:05:00,12:05:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292902,12:05:00,12:05:10,stop_point:SP_3891,Palarin,2
+2292902,12:07:00,12:07:10,stop_point:SP_69,Saguens,3
+2292902,12:09:00,12:09:10,stop_point:SP_3751,Route de Portet,4
+2292902,12:12:00,12:12:10,stop_point:SP_3881,Petit Barry,5
+2292902,12:13:00,12:13:10,stop_point:SP_1369,Lilas,6
+2292902,12:14:00,12:14:10,stop_point:SP_943,Stade,7
+2292902,12:15:00,12:15:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292902,12:16:00,12:16:10,stop_point:SP_3715,Vivier,9
+2292902,12:16:00,12:16:10,stop_point:SP_1042,Béarn,10
+2292902,12:17:00,12:17:10,stop_point:SP_5164,Couserans,11
+2292902,12:18:00,12:18:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292902,12:19:00,12:19:10,stop_point:SP_5154,Densus,13
+2292902,12:20:00,12:20:10,stop_point:SP_5156,Jonquilles,14
+2292902,12:20:00,12:20:10,stop_point:SP_5149,F. Mitterrand,15
+2292902,12:21:00,12:21:10,stop_point:SP_3028,Painlevé,16
+2292902,12:22:00,12:22:10,stop_point:SP_3124,Collège Picasso,17
+2292902,12:23:00,12:23:10,stop_point:SP_5145,Rouget de Lisle,18
+2292902,12:24:00,12:24:10,stop_point:SP_5147,Frouzins Tréville,19
+2292903,14:00:00,14:00:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292903,14:00:00,14:00:10,stop_point:SP_3891,Palarin,2
+2292903,14:02:00,14:02:10,stop_point:SP_69,Saguens,3
+2292903,14:04:00,14:04:10,stop_point:SP_3751,Route de Portet,4
+2292903,14:07:00,14:07:10,stop_point:SP_3881,Petit Barry,5
+2292903,14:08:00,14:08:10,stop_point:SP_1369,Lilas,6
+2292903,14:09:00,14:09:10,stop_point:SP_943,Stade,7
+2292903,14:10:00,14:10:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292903,14:11:00,14:11:10,stop_point:SP_3715,Vivier,9
+2292903,14:11:00,14:11:10,stop_point:SP_1042,Béarn,10
+2292903,14:12:00,14:12:10,stop_point:SP_5164,Couserans,11
+2292903,14:13:00,14:13:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292903,14:14:00,14:14:10,stop_point:SP_5154,Densus,13
+2292903,14:15:00,14:15:10,stop_point:SP_5156,Jonquilles,14
+2292903,14:15:00,14:15:10,stop_point:SP_5149,F. Mitterrand,15
+2292903,14:16:00,14:16:10,stop_point:SP_3028,Painlevé,16
+2292903,14:17:00,14:17:10,stop_point:SP_3124,Collège Picasso,17
+2292903,14:18:00,14:18:10,stop_point:SP_5145,Rouget de Lisle,18
+2292903,14:19:00,14:19:10,stop_point:SP_5147,Frouzins Tréville,19
+2292904,17:00:00,17:00:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292904,17:00:00,17:00:10,stop_point:SP_3891,Palarin,2
+2292904,17:02:00,17:02:10,stop_point:SP_69,Saguens,3
+2292904,17:04:00,17:04:10,stop_point:SP_3751,Route de Portet,4
+2292904,17:07:00,17:07:10,stop_point:SP_3881,Petit Barry,5
+2292904,17:08:00,17:08:10,stop_point:SP_1369,Lilas,6
+2292904,17:10:00,17:10:10,stop_point:SP_943,Stade,7
+2292904,17:11:00,17:11:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292904,17:12:00,17:12:10,stop_point:SP_3715,Vivier,9
+2292904,17:12:00,17:12:10,stop_point:SP_1042,Béarn,10
+2292904,17:13:00,17:13:10,stop_point:SP_5164,Couserans,11
+2292904,17:14:00,17:14:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292904,17:15:00,17:15:10,stop_point:SP_5154,Densus,13
+2292904,17:16:00,17:16:10,stop_point:SP_5156,Jonquilles,14
+2292904,17:16:00,17:16:10,stop_point:SP_5149,F. Mitterrand,15
+2292904,17:17:00,17:17:10,stop_point:SP_3028,Painlevé,16
+2292904,17:18:00,17:18:10,stop_point:SP_3124,Collège Picasso,17
+2292904,17:19:00,17:19:10,stop_point:SP_5145,Rouget de Lisle,18
+2292904,17:20:00,17:20:10,stop_point:SP_5147,Frouzins Tréville,19
+2292905,17:35:00,17:35:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292905,17:35:00,17:35:10,stop_point:SP_3891,Palarin,2
+2292905,17:37:00,17:37:10,stop_point:SP_69,Saguens,3
+2292905,17:40:00,17:40:10,stop_point:SP_3751,Route de Portet,4
+2292905,17:43:00,17:43:10,stop_point:SP_3881,Petit Barry,5
+2292905,17:44:00,17:44:10,stop_point:SP_1369,Lilas,6
+2292905,17:46:00,17:46:10,stop_point:SP_943,Stade,7
+2292905,17:47:00,17:47:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292905,17:48:00,17:48:10,stop_point:SP_3715,Vivier,9
+2292905,17:48:00,17:48:10,stop_point:SP_1042,Béarn,10
+2292905,17:49:00,17:49:10,stop_point:SP_5164,Couserans,11
+2292905,17:50:00,17:50:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292905,17:51:00,17:51:10,stop_point:SP_5154,Densus,13
+2292905,17:52:00,17:52:10,stop_point:SP_5156,Jonquilles,14
+2292905,17:52:00,17:52:10,stop_point:SP_5149,F. Mitterrand,15
+2292905,17:53:00,17:53:10,stop_point:SP_3028,Painlevé,16
+2292905,17:54:00,17:54:10,stop_point:SP_3124,Collège Picasso,17
+2292905,17:55:00,17:55:10,stop_point:SP_5145,Rouget de Lisle,18
+2292905,17:56:00,17:56:10,stop_point:SP_5147,Frouzins Tréville,19
+2292906,18:05:00,18:05:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292906,18:05:00,18:05:10,stop_point:SP_3891,Palarin,2
+2292906,18:07:00,18:07:10,stop_point:SP_69,Saguens,3
+2292906,18:10:00,18:10:10,stop_point:SP_3751,Route de Portet,4
+2292906,18:13:00,18:13:10,stop_point:SP_3881,Petit Barry,5
+2292906,18:15:00,18:15:10,stop_point:SP_1369,Lilas,6
+2292906,18:16:00,18:16:10,stop_point:SP_943,Stade,7
+2292906,18:17:00,18:17:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292906,18:19:00,18:19:10,stop_point:SP_3715,Vivier,9
+2292906,18:19:00,18:19:10,stop_point:SP_1042,Béarn,10
+2292906,18:20:00,18:20:10,stop_point:SP_5164,Couserans,11
+2292906,18:21:00,18:21:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292906,18:22:00,18:22:10,stop_point:SP_5154,Densus,13
+2292906,18:23:00,18:23:10,stop_point:SP_5156,Jonquilles,14
+2292906,18:23:00,18:23:10,stop_point:SP_5149,F. Mitterrand,15
+2292906,18:24:00,18:24:10,stop_point:SP_3028,Painlevé,16
+2292906,18:25:00,18:25:10,stop_point:SP_3124,Collège Picasso,17
+2292906,18:26:00,18:26:10,stop_point:SP_5145,Rouget de Lisle,18
+2292906,18:27:00,18:27:10,stop_point:SP_5147,Frouzins Tréville,19
+2292907,18:45:00,18:45:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292907,18:45:00,18:45:10,stop_point:SP_3891,Palarin,2
+2292907,18:47:00,18:47:10,stop_point:SP_69,Saguens,3
+2292907,18:49:00,18:49:10,stop_point:SP_3751,Route de Portet,4
+2292907,18:52:00,18:52:10,stop_point:SP_3881,Petit Barry,5
+2292907,18:53:00,18:53:10,stop_point:SP_1369,Lilas,6
+2292907,18:55:00,18:55:10,stop_point:SP_943,Stade,7
+2292907,18:56:00,18:56:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292907,18:57:00,18:57:10,stop_point:SP_3715,Vivier,9
+2292907,18:57:00,18:57:10,stop_point:SP_1042,Béarn,10
+2292907,18:58:00,18:58:10,stop_point:SP_5164,Couserans,11
+2292907,18:59:00,18:59:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292907,19:00:00,19:00:10,stop_point:SP_5154,Densus,13
+2292907,19:01:00,19:01:10,stop_point:SP_5156,Jonquilles,14
+2292907,19:01:00,19:01:10,stop_point:SP_5149,F. Mitterrand,15
+2292907,19:02:00,19:02:10,stop_point:SP_3028,Painlevé,16
+2292907,19:03:00,19:03:10,stop_point:SP_3124,Collège Picasso,17
+2292907,19:04:00,19:04:10,stop_point:SP_5145,Rouget de Lisle,18
+2292907,19:05:00,19:05:10,stop_point:SP_5147,Frouzins Tréville,19
+2292908,19:30:00,19:30:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292908,19:30:00,19:30:10,stop_point:SP_3891,Palarin,2
+2292908,19:32:00,19:32:10,stop_point:SP_69,Saguens,3
+2292908,19:34:00,19:34:10,stop_point:SP_3751,Route de Portet,4
+2292908,19:37:00,19:37:10,stop_point:SP_3881,Petit Barry,5
+2292908,19:38:00,19:38:10,stop_point:SP_1369,Lilas,6
+2292908,19:39:00,19:39:10,stop_point:SP_943,Stade,7
+2292908,19:40:00,19:40:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292908,19:41:00,19:41:10,stop_point:SP_3715,Vivier,9
+2292908,19:41:00,19:41:10,stop_point:SP_1042,Béarn,10
+2292908,19:42:00,19:42:10,stop_point:SP_5164,Couserans,11
+2292908,19:43:00,19:43:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292908,19:44:00,19:44:10,stop_point:SP_5154,Densus,13
+2292908,19:45:00,19:45:10,stop_point:SP_5156,Jonquilles,14
+2292908,19:45:00,19:45:10,stop_point:SP_5149,F. Mitterrand,15
+2292908,19:46:00,19:46:10,stop_point:SP_3028,Painlevé,16
+2292908,19:47:00,19:47:10,stop_point:SP_3124,Collège Picasso,17
+2292908,19:48:00,19:48:10,stop_point:SP_5145,Rouget de Lisle,18
+2292908,19:49:00,19:49:10,stop_point:SP_5147,Frouzins Tréville,19
+2292909,20:05:00,20:05:10,stop_point:SP_4755,Portet Gare SNCF,1
+2292909,20:05:00,20:05:10,stop_point:SP_3891,Palarin,2
+2292909,20:07:00,20:07:10,stop_point:SP_69,Saguens,3
+2292909,20:09:00,20:09:10,stop_point:SP_3751,Route de Portet,4
+2292909,20:12:00,20:12:10,stop_point:SP_3881,Petit Barry,5
+2292909,20:13:00,20:13:10,stop_point:SP_1369,Lilas,6
+2292909,20:14:00,20:14:10,stop_point:SP_943,Stade,7
+2292909,20:14:00,20:14:10,stop_point:SP_5180,Mairie Cugnaux,8
+2292909,20:15:00,20:15:10,stop_point:SP_3715,Vivier,9
+2292909,20:15:00,20:15:10,stop_point:SP_1042,Béarn,10
+2292909,20:16:00,20:16:10,stop_point:SP_5164,Couserans,11
+2292909,20:17:00,20:17:10,stop_point:SP_5155,Cloche - Maguelonne,12
+2292909,20:18:00,20:18:10,stop_point:SP_5154,Densus,13
+2292909,20:19:00,20:19:10,stop_point:SP_5156,Jonquilles,14
+2292909,20:19:00,20:19:10,stop_point:SP_5149,F. Mitterrand,15
+2292909,20:20:00,20:20:10,stop_point:SP_3028,Painlevé,16
+2292909,20:21:00,20:21:10,stop_point:SP_3124,Collège Picasso,17
+2292909,20:22:00,20:22:10,stop_point:SP_5145,Rouget de Lisle,18
+2292909,20:23:00,20:23:10,stop_point:SP_5147,Frouzins Tréville,19
+2292910,06:30:00,06:30:10,stop_point:SP_5147,Frouzins Tréville,1
+2292910,06:31:00,06:31:10,stop_point:SP_5146,Rouget de Lisle,2
+2292910,06:32:00,06:32:10,stop_point:SP_2597,Collège Picasso,3
+2292910,06:33:00,06:33:10,stop_point:SP_321,Painlevé,4
+2292910,06:33:00,06:33:10,stop_point:SP_1267,F. Mitterrand,5
+2292910,06:34:00,06:34:10,stop_point:SP_5162,Jonquilles,6
+2292910,06:35:00,06:35:10,stop_point:SP_5152,Densus,7
+2292910,06:37:00,06:37:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292910,06:38:00,06:38:10,stop_point:SP_5158,Couserans,9
+2292910,06:38:00,06:38:10,stop_point:SP_2319,Béarn,10
+2292910,06:39:00,06:39:10,stop_point:SP_1075,Vivier,11
+2292910,06:40:00,06:40:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292910,06:41:00,06:41:10,stop_point:SP_1955,Stade,13
+2292910,06:42:00,06:42:10,stop_point:SP_476,Lilas,14
+2292910,06:43:00,06:43:10,stop_point:SP_1830,Petit Barry,15
+2292910,06:46:00,06:46:10,stop_point:SP_2223,Route de Portet,16
+2292910,06:49:00,06:49:10,stop_point:SP_382,Saguens,17
+2292910,06:50:00,06:50:10,stop_point:SP_2539,Palarin,18
+2292910,06:51:00,06:51:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292911,07:00:00,07:00:10,stop_point:SP_5147,Frouzins Tréville,1
+2292911,07:02:00,07:02:10,stop_point:SP_5146,Rouget de Lisle,2
+2292911,07:03:00,07:03:10,stop_point:SP_2597,Collège Picasso,3
+2292911,07:04:00,07:04:10,stop_point:SP_321,Painlevé,4
+2292911,07:04:00,07:04:10,stop_point:SP_1267,F. Mitterrand,5
+2292911,07:05:00,07:05:10,stop_point:SP_5162,Jonquilles,6
+2292911,07:06:00,07:06:10,stop_point:SP_5152,Densus,7
+2292911,07:08:00,07:08:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292911,07:09:00,07:09:10,stop_point:SP_5158,Couserans,9
+2292911,07:09:00,07:09:10,stop_point:SP_2319,Béarn,10
+2292911,07:10:00,07:10:10,stop_point:SP_1075,Vivier,11
+2292911,07:11:00,07:11:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292911,07:12:00,07:12:10,stop_point:SP_1955,Stade,13
+2292911,07:13:00,07:13:10,stop_point:SP_476,Lilas,14
+2292911,07:14:00,07:14:10,stop_point:SP_1830,Petit Barry,15
+2292911,07:17:00,07:17:10,stop_point:SP_2223,Route de Portet,16
+2292911,07:20:00,07:20:10,stop_point:SP_382,Saguens,17
+2292911,07:21:00,07:21:10,stop_point:SP_2539,Palarin,18
+2292911,07:22:00,07:22:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292912,07:30:00,07:30:10,stop_point:SP_5147,Frouzins Tréville,1
+2292912,07:32:00,07:32:10,stop_point:SP_5146,Rouget de Lisle,2
+2292912,07:33:00,07:33:10,stop_point:SP_2597,Collège Picasso,3
+2292912,07:34:00,07:34:10,stop_point:SP_321,Painlevé,4
+2292912,07:34:00,07:34:10,stop_point:SP_1267,F. Mitterrand,5
+2292912,07:35:00,07:35:10,stop_point:SP_5162,Jonquilles,6
+2292912,07:36:00,07:36:10,stop_point:SP_5152,Densus,7
+2292912,07:38:00,07:38:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292912,07:39:00,07:39:10,stop_point:SP_5158,Couserans,9
+2292912,07:39:00,07:39:10,stop_point:SP_2319,Béarn,10
+2292912,07:40:00,07:40:10,stop_point:SP_1075,Vivier,11
+2292912,07:41:00,07:41:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292912,07:42:00,07:42:10,stop_point:SP_1955,Stade,13
+2292912,07:43:00,07:43:10,stop_point:SP_476,Lilas,14
+2292912,07:44:00,07:44:10,stop_point:SP_1830,Petit Barry,15
+2292912,07:48:00,07:48:10,stop_point:SP_2223,Route de Portet,16
+2292912,07:51:00,07:51:10,stop_point:SP_382,Saguens,17
+2292912,07:53:00,07:53:10,stop_point:SP_2539,Palarin,18
+2292912,07:54:00,07:54:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292913,08:05:00,08:05:10,stop_point:SP_5147,Frouzins Tréville,1
+2292913,08:07:00,08:07:10,stop_point:SP_5146,Rouget de Lisle,2
+2292913,08:08:00,08:08:10,stop_point:SP_2597,Collège Picasso,3
+2292913,08:09:00,08:09:10,stop_point:SP_321,Painlevé,4
+2292913,08:09:00,08:09:10,stop_point:SP_1267,F. Mitterrand,5
+2292913,08:10:00,08:10:10,stop_point:SP_5162,Jonquilles,6
+2292913,08:11:00,08:11:10,stop_point:SP_5152,Densus,7
+2292913,08:13:00,08:13:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292913,08:14:00,08:14:10,stop_point:SP_5158,Couserans,9
+2292913,08:14:00,08:14:10,stop_point:SP_2319,Béarn,10
+2292913,08:15:00,08:15:10,stop_point:SP_1075,Vivier,11
+2292913,08:16:00,08:16:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292913,08:17:00,08:17:10,stop_point:SP_1955,Stade,13
+2292913,08:18:00,08:18:10,stop_point:SP_476,Lilas,14
+2292913,08:19:00,08:19:10,stop_point:SP_1830,Petit Barry,15
+2292913,08:23:00,08:23:10,stop_point:SP_2223,Route de Portet,16
+2292913,08:26:00,08:26:10,stop_point:SP_382,Saguens,17
+2292913,08:28:00,08:28:10,stop_point:SP_2539,Palarin,18
+2292913,08:29:00,08:29:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292914,08:45:00,08:45:10,stop_point:SP_5147,Frouzins Tréville,1
+2292914,08:47:00,08:47:10,stop_point:SP_5146,Rouget de Lisle,2
+2292914,08:48:00,08:48:10,stop_point:SP_2597,Collège Picasso,3
+2292914,08:49:00,08:49:10,stop_point:SP_321,Painlevé,4
+2292914,08:49:00,08:49:10,stop_point:SP_1267,F. Mitterrand,5
+2292914,08:50:00,08:50:10,stop_point:SP_5162,Jonquilles,6
+2292914,08:51:00,08:51:10,stop_point:SP_5152,Densus,7
+2292914,08:53:00,08:53:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292914,08:54:00,08:54:10,stop_point:SP_5158,Couserans,9
+2292914,08:54:00,08:54:10,stop_point:SP_2319,Béarn,10
+2292914,08:55:00,08:55:10,stop_point:SP_1075,Vivier,11
+2292914,08:56:00,08:56:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292914,08:58:00,08:58:10,stop_point:SP_1955,Stade,13
+2292914,08:58:00,08:58:10,stop_point:SP_476,Lilas,14
+2292914,09:00:00,09:00:10,stop_point:SP_1830,Petit Barry,15
+2292914,09:03:00,09:03:10,stop_point:SP_2223,Route de Portet,16
+2292914,09:06:00,09:06:10,stop_point:SP_382,Saguens,17
+2292914,09:07:00,09:07:10,stop_point:SP_2539,Palarin,18
+2292914,09:08:00,09:08:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292915,09:15:00,09:15:10,stop_point:SP_5147,Frouzins Tréville,1
+2292915,09:16:00,09:16:10,stop_point:SP_5146,Rouget de Lisle,2
+2292915,09:17:00,09:17:10,stop_point:SP_2597,Collège Picasso,3
+2292915,09:18:00,09:18:10,stop_point:SP_321,Painlevé,4
+2292915,09:18:00,09:18:10,stop_point:SP_1267,F. Mitterrand,5
+2292915,09:19:00,09:19:10,stop_point:SP_5162,Jonquilles,6
+2292915,09:20:00,09:20:10,stop_point:SP_5152,Densus,7
+2292915,09:22:00,09:22:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292915,09:23:00,09:23:10,stop_point:SP_5158,Couserans,9
+2292915,09:23:00,09:23:10,stop_point:SP_2319,Béarn,10
+2292915,09:24:00,09:24:10,stop_point:SP_1075,Vivier,11
+2292915,09:25:00,09:25:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292915,09:26:00,09:26:10,stop_point:SP_1955,Stade,13
+2292915,09:27:00,09:27:10,stop_point:SP_476,Lilas,14
+2292915,09:28:00,09:28:10,stop_point:SP_1830,Petit Barry,15
+2292915,09:31:00,09:31:10,stop_point:SP_2223,Route de Portet,16
+2292915,09:33:00,09:33:10,stop_point:SP_382,Saguens,17
+2292915,09:34:00,09:34:10,stop_point:SP_2539,Palarin,18
+2292915,09:35:00,09:35:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292916,12:30:00,12:30:10,stop_point:SP_5147,Frouzins Tréville,1
+2292916,12:31:00,12:31:10,stop_point:SP_5146,Rouget de Lisle,2
+2292916,12:32:00,12:32:10,stop_point:SP_2597,Collège Picasso,3
+2292916,12:33:00,12:33:10,stop_point:SP_321,Painlevé,4
+2292916,12:33:00,12:33:10,stop_point:SP_1267,F. Mitterrand,5
+2292916,12:34:00,12:34:10,stop_point:SP_5162,Jonquilles,6
+2292916,12:35:00,12:35:10,stop_point:SP_5152,Densus,7
+2292916,12:37:00,12:37:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292916,12:38:00,12:38:10,stop_point:SP_5158,Couserans,9
+2292916,12:38:00,12:38:10,stop_point:SP_2319,Béarn,10
+2292916,12:39:00,12:39:10,stop_point:SP_1075,Vivier,11
+2292916,12:40:00,12:40:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292916,12:41:00,12:41:10,stop_point:SP_1955,Stade,13
+2292916,12:42:00,12:42:10,stop_point:SP_476,Lilas,14
+2292916,12:43:00,12:43:10,stop_point:SP_1830,Petit Barry,15
+2292916,12:46:00,12:46:10,stop_point:SP_2223,Route de Portet,16
+2292916,12:48:00,12:48:10,stop_point:SP_382,Saguens,17
+2292916,12:49:00,12:49:10,stop_point:SP_2539,Palarin,18
+2292916,12:50:00,12:50:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292917,14:30:00,14:30:10,stop_point:SP_5147,Frouzins Tréville,1
+2292917,14:31:00,14:31:10,stop_point:SP_5146,Rouget de Lisle,2
+2292917,14:32:00,14:32:10,stop_point:SP_2597,Collège Picasso,3
+2292917,14:33:00,14:33:10,stop_point:SP_321,Painlevé,4
+2292917,14:33:00,14:33:10,stop_point:SP_1267,F. Mitterrand,5
+2292917,14:34:00,14:34:10,stop_point:SP_5162,Jonquilles,6
+2292917,14:35:00,14:35:10,stop_point:SP_5152,Densus,7
+2292917,14:37:00,14:37:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292917,14:38:00,14:38:10,stop_point:SP_5158,Couserans,9
+2292917,14:38:00,14:38:10,stop_point:SP_2319,Béarn,10
+2292917,14:39:00,14:39:10,stop_point:SP_1075,Vivier,11
+2292917,14:40:00,14:40:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292917,14:41:00,14:41:10,stop_point:SP_1955,Stade,13
+2292917,14:42:00,14:42:10,stop_point:SP_476,Lilas,14
+2292917,14:43:00,14:43:10,stop_point:SP_1830,Petit Barry,15
+2292917,14:46:00,14:46:10,stop_point:SP_2223,Route de Portet,16
+2292917,14:48:00,14:48:10,stop_point:SP_382,Saguens,17
+2292917,14:49:00,14:49:10,stop_point:SP_2539,Palarin,18
+2292917,14:50:00,14:50:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292918,17:30:00,17:30:10,stop_point:SP_5147,Frouzins Tréville,1
+2292918,17:31:00,17:31:10,stop_point:SP_5146,Rouget de Lisle,2
+2292918,17:32:00,17:32:10,stop_point:SP_2597,Collège Picasso,3
+2292918,17:33:00,17:33:10,stop_point:SP_321,Painlevé,4
+2292918,17:33:00,17:33:10,stop_point:SP_1267,F. Mitterrand,5
+2292918,17:34:00,17:34:10,stop_point:SP_5162,Jonquilles,6
+2292918,17:35:00,17:35:10,stop_point:SP_5152,Densus,7
+2292918,17:37:00,17:37:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292918,17:38:00,17:38:10,stop_point:SP_5158,Couserans,9
+2292918,17:38:00,17:38:10,stop_point:SP_2319,Béarn,10
+2292918,17:39:00,17:39:10,stop_point:SP_1075,Vivier,11
+2292918,17:40:00,17:40:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292918,17:42:00,17:42:10,stop_point:SP_1955,Stade,13
+2292918,17:42:00,17:42:10,stop_point:SP_476,Lilas,14
+2292918,17:44:00,17:44:10,stop_point:SP_1830,Petit Barry,15
+2292918,17:47:00,17:47:10,stop_point:SP_2223,Route de Portet,16
+2292918,17:50:00,17:50:10,stop_point:SP_382,Saguens,17
+2292918,17:51:00,17:51:10,stop_point:SP_2539,Palarin,18
+2292918,17:52:00,17:52:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292919,18:05:00,18:05:10,stop_point:SP_5147,Frouzins Tréville,1
+2292919,18:06:00,18:06:10,stop_point:SP_5146,Rouget de Lisle,2
+2292919,18:07:00,18:07:10,stop_point:SP_2597,Collège Picasso,3
+2292919,18:08:00,18:08:10,stop_point:SP_321,Painlevé,4
+2292919,18:08:00,18:08:10,stop_point:SP_1267,F. Mitterrand,5
+2292919,18:09:00,18:09:10,stop_point:SP_5162,Jonquilles,6
+2292919,18:10:00,18:10:10,stop_point:SP_5152,Densus,7
+2292919,18:12:00,18:12:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292919,18:13:00,18:13:10,stop_point:SP_5158,Couserans,9
+2292919,18:13:00,18:13:10,stop_point:SP_2319,Béarn,10
+2292919,18:14:00,18:14:10,stop_point:SP_1075,Vivier,11
+2292919,18:15:00,18:15:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292919,18:17:00,18:17:10,stop_point:SP_1955,Stade,13
+2292919,18:17:00,18:17:10,stop_point:SP_476,Lilas,14
+2292919,18:19:00,18:19:10,stop_point:SP_1830,Petit Barry,15
+2292919,18:22:00,18:22:10,stop_point:SP_2223,Route de Portet,16
+2292919,18:25:00,18:25:10,stop_point:SP_382,Saguens,17
+2292919,18:26:00,18:26:10,stop_point:SP_2539,Palarin,18
+2292919,18:27:00,18:27:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292920,18:35:00,18:35:10,stop_point:SP_5147,Frouzins Tréville,1
+2292920,18:36:00,18:36:10,stop_point:SP_5146,Rouget de Lisle,2
+2292920,18:37:00,18:37:10,stop_point:SP_2597,Collège Picasso,3
+2292920,18:38:00,18:38:10,stop_point:SP_321,Painlevé,4
+2292920,18:38:00,18:38:10,stop_point:SP_1267,F. Mitterrand,5
+2292920,18:39:00,18:39:10,stop_point:SP_5162,Jonquilles,6
+2292920,18:40:00,18:40:10,stop_point:SP_5152,Densus,7
+2292920,18:42:00,18:42:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292920,18:43:00,18:43:10,stop_point:SP_5158,Couserans,9
+2292920,18:43:00,18:43:10,stop_point:SP_2319,Béarn,10
+2292920,18:44:00,18:44:10,stop_point:SP_1075,Vivier,11
+2292920,18:45:00,18:45:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292920,18:47:00,18:47:10,stop_point:SP_1955,Stade,13
+2292920,18:47:00,18:47:10,stop_point:SP_476,Lilas,14
+2292920,18:49:00,18:49:10,stop_point:SP_1830,Petit Barry,15
+2292920,18:52:00,18:52:10,stop_point:SP_2223,Route de Portet,16
+2292920,18:55:00,18:55:10,stop_point:SP_382,Saguens,17
+2292920,18:56:00,18:56:10,stop_point:SP_2539,Palarin,18
+2292920,18:57:00,18:57:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292921,19:15:00,19:15:10,stop_point:SP_5147,Frouzins Tréville,1
+2292921,19:16:00,19:16:10,stop_point:SP_5146,Rouget de Lisle,2
+2292921,19:17:00,19:17:10,stop_point:SP_2597,Collège Picasso,3
+2292921,19:18:00,19:18:10,stop_point:SP_321,Painlevé,4
+2292921,19:18:00,19:18:10,stop_point:SP_1267,F. Mitterrand,5
+2292921,19:19:00,19:19:10,stop_point:SP_5162,Jonquilles,6
+2292921,19:20:00,19:20:10,stop_point:SP_5152,Densus,7
+2292921,19:21:00,19:21:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292921,19:22:00,19:22:10,stop_point:SP_5158,Couserans,9
+2292921,19:22:00,19:22:10,stop_point:SP_2319,Béarn,10
+2292921,19:23:00,19:23:10,stop_point:SP_1075,Vivier,11
+2292921,19:24:00,19:24:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292921,19:25:00,19:25:10,stop_point:SP_1955,Stade,13
+2292921,19:26:00,19:26:10,stop_point:SP_476,Lilas,14
+2292921,19:27:00,19:27:10,stop_point:SP_1830,Petit Barry,15
+2292921,19:30:00,19:30:10,stop_point:SP_2223,Route de Portet,16
+2292921,19:32:00,19:32:10,stop_point:SP_382,Saguens,17
+2292921,19:33:00,19:33:10,stop_point:SP_2539,Palarin,18
+2292921,19:34:00,19:34:10,stop_point:SP_4755,Portet Gare SNCF,19
+2292922,20:00:00,20:00:10,stop_point:SP_5147,Frouzins Tréville,1
+2292922,20:01:00,20:01:10,stop_point:SP_5146,Rouget de Lisle,2
+2292922,20:02:00,20:02:10,stop_point:SP_2597,Collège Picasso,3
+2292922,20:03:00,20:03:10,stop_point:SP_321,Painlevé,4
+2292922,20:03:00,20:03:10,stop_point:SP_1267,F. Mitterrand,5
+2292922,20:04:00,20:04:10,stop_point:SP_5162,Jonquilles,6
+2292922,20:05:00,20:05:10,stop_point:SP_5152,Densus,7
+2292922,20:06:00,20:06:10,stop_point:SP_5161,Cloche - Maguelonne,8
+2292922,20:07:00,20:07:10,stop_point:SP_5158,Couserans,9
+2292922,20:07:00,20:07:10,stop_point:SP_2319,Béarn,10
+2292922,20:08:00,20:08:10,stop_point:SP_1075,Vivier,11
+2292922,20:09:00,20:09:10,stop_point:SP_5178,Mairie Cugnaux,12
+2292922,20:10:00,20:10:10,stop_point:SP_1955,Stade,13
+2292922,20:11:00,20:11:10,stop_point:SP_476,Lilas,14
+2292922,20:12:00,20:12:10,stop_point:SP_1830,Petit Barry,15
+2292922,20:14:00,20:14:10,stop_point:SP_2223,Route de Portet,16
+2292922,20:16:00,20:16:10,stop_point:SP_382,Saguens,17
+2292922,20:17:00,20:17:10,stop_point:SP_2539,Palarin,18
+2292922,20:18:00,20:18:10,stop_point:SP_4755,Portet Gare SNCF,19

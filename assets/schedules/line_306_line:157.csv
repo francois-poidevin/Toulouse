@@ -1,0 +1,43 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2293032,07:40:00,07:40:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,1
+2293032,07:43:00,07:43:10,stop_point:SP_834,Séro,2
+2293032,07:44:00,07:44:10,stop_point:SP_3522,Niel,3
+2293032,07:48:00,07:48:10,stop_point:SP_5390,Muret Lycée,4
+2293032,07:50:00,07:50:10,stop_point:SP_5251,Muret Lycée,5
+2293033,08:05:00,08:05:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,1
+2293033,08:08:00,08:08:10,stop_point:SP_834,Séro,2
+2293033,08:09:00,08:09:10,stop_point:SP_3522,Niel,3
+2293033,08:13:00,08:13:10,stop_point:SP_5390,Muret Lycée,4
+2293033,08:15:00,08:15:10,stop_point:SP_5251,Muret Lycée,5
+2293033,08:20:00,08:20:10,stop_point:SP_4386,Pont de l'Europe,6
+2293033,08:22:00,08:22:10,stop_point:SP_4383,Bernard IV,7
+2293033,08:24:00,08:24:10,stop_point:SP_4372,Henri Dunant,8
+2293033,08:25:00,08:25:10,stop_point:SP_4390,Muret C.A.M.,9
+2293034,12:35:00,12:35:10,stop_point:SP_4405,Muret C.A.M.,1
+2293034,12:36:00,12:36:10,stop_point:SP_4342,Henri Dunant,2
+2293034,12:38:00,12:38:10,stop_point:SP_4371,Bernard IV,3
+2293034,12:40:00,12:40:10,stop_point:SP_4351,Pont de l'Europe,4
+2293034,12:44:00,12:44:10,stop_point:SP_5251,Muret Lycée,5
+2293034,12:45:00,12:45:10,stop_point:SP_5389,Muret Lycée,6
+2293034,12:49:00,12:49:10,stop_point:SP_914,Niel,7
+2293034,12:50:00,12:50:10,stop_point:SP_530,Séro,8
+2293034,12:51:00,12:51:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,9
+2293035,17:10:00,17:10:10,stop_point:SP_4405,Muret C.A.M.,1
+2293035,17:11:00,17:11:10,stop_point:SP_4342,Henri Dunant,2
+2293035,17:13:00,17:13:10,stop_point:SP_4371,Bernard IV,3
+2293035,17:15:00,17:15:10,stop_point:SP_4351,Pont de l'Europe,4
+2293035,17:19:00,17:19:10,stop_point:SP_5251,Muret Lycée,5
+2293035,17:20:00,17:20:10,stop_point:SP_5389,Muret Lycée,6
+2293035,17:24:00,17:24:10,stop_point:SP_914,Niel,7
+2293035,17:25:00,17:25:10,stop_point:SP_530,Séro,8
+2293035,17:26:00,17:26:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,9
+2293036,13:15:00,13:15:10,stop_point:SP_5251,Muret Lycée,1
+2293036,13:16:00,13:16:10,stop_point:SP_5389,Muret Lycée,2
+2293036,13:20:00,13:20:10,stop_point:SP_914,Niel,3
+2293036,13:21:00,13:21:10,stop_point:SP_530,Séro,4
+2293036,13:22:00,13:22:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,5
+2293037,17:35:00,17:35:10,stop_point:SP_5251,Muret Lycée,1
+2293037,17:36:00,17:36:10,stop_point:SP_5389,Muret Lycée,2
+2293037,17:40:00,17:40:10,stop_point:SP_914,Niel,3
+2293037,17:41:00,17:41:10,stop_point:SP_530,Séro,4
+2293037,17:42:00,17:42:10,stop_point:SP_4881,Muret Gare SNCF - Parvis,5

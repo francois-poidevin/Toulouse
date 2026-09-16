@@ -1,0 +1,2500 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2300990,06:30:00,06:30:10,stop_point:SP_4009,Basso Cambo,1
+2300990,06:31:00,06:31:10,stop_point:SP_1645,Mesplé,2
+2300990,06:32:00,06:32:10,stop_point:SP_3138,Mounède,3
+2300990,06:34:00,06:34:10,stop_point:SP_3905,De Croutte,4
+2300990,06:35:00,06:35:10,stop_point:SP_2194,Guilhermy,5
+2300990,06:36:00,06:36:10,stop_point:SP_3022,La Ramée,6
+2300990,06:36:00,06:36:10,stop_point:SP_4854,Grillou,7
+2300990,06:37:00,06:37:10,stop_point:SP_2948,Tucaut,8
+2300990,06:38:00,06:38:10,stop_point:SP_3436,Ecarts,9
+2300990,06:39:00,06:39:10,stop_point:SP_363,Canal,10
+2300990,06:40:00,06:40:10,stop_point:SP_1023,Bordenoire,11
+2300990,06:41:00,06:41:10,stop_point:SP_2726,La Ramée Sud,12
+2300990,06:42:00,06:42:10,stop_point:SP_2208,Passerive,13
+2300990,06:43:00,06:43:10,stop_point:SP_579,Marquisat,14
+2300990,06:43:00,06:43:10,stop_point:SP_3608,Pasteur,15
+2300990,06:44:00,06:44:10,stop_point:SP_2062,Cèdres,16
+2300990,06:44:00,06:44:10,stop_point:SP_348,Général Leclerc,17
+2300990,06:45:00,06:45:10,stop_point:SP_2379,Collège Labitrie,18
+2300990,06:45:00,06:45:10,stop_point:SP_3740,Bordeneuve,19
+2300990,06:46:00,06:46:10,stop_point:SP_4840,Jean Gay,20
+2300990,06:47:00,06:47:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300991,07:00:00,07:00:10,stop_point:SP_4009,Basso Cambo,1
+2300991,07:01:00,07:01:10,stop_point:SP_1645,Mesplé,2
+2300991,07:02:00,07:02:10,stop_point:SP_3138,Mounède,3
+2300991,07:04:00,07:04:10,stop_point:SP_3905,De Croutte,4
+2300991,07:05:00,07:05:10,stop_point:SP_2194,Guilhermy,5
+2300991,07:06:00,07:06:10,stop_point:SP_3022,La Ramée,6
+2300991,07:06:00,07:06:10,stop_point:SP_4854,Grillou,7
+2300991,07:07:00,07:07:10,stop_point:SP_2948,Tucaut,8
+2300991,07:08:00,07:08:10,stop_point:SP_3436,Ecarts,9
+2300991,07:09:00,07:09:10,stop_point:SP_363,Canal,10
+2300991,07:10:00,07:10:10,stop_point:SP_1023,Bordenoire,11
+2300991,07:11:00,07:11:10,stop_point:SP_2726,La Ramée Sud,12
+2300991,07:12:00,07:12:10,stop_point:SP_2208,Passerive,13
+2300991,07:13:00,07:13:10,stop_point:SP_579,Marquisat,14
+2300991,07:13:00,07:13:10,stop_point:SP_3608,Pasteur,15
+2300991,07:14:00,07:14:10,stop_point:SP_2062,Cèdres,16
+2300991,07:14:00,07:14:10,stop_point:SP_348,Général Leclerc,17
+2300991,07:15:00,07:15:10,stop_point:SP_2379,Collège Labitrie,18
+2300991,07:15:00,07:15:10,stop_point:SP_3740,Bordeneuve,19
+2300991,07:16:00,07:16:10,stop_point:SP_4840,Jean Gay,20
+2300991,07:17:00,07:17:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300992,07:30:00,07:30:10,stop_point:SP_4009,Basso Cambo,1
+2300992,07:31:00,07:31:10,stop_point:SP_1645,Mesplé,2
+2300992,07:32:00,07:32:10,stop_point:SP_3138,Mounède,3
+2300992,07:34:00,07:34:10,stop_point:SP_3905,De Croutte,4
+2300992,07:35:00,07:35:10,stop_point:SP_2194,Guilhermy,5
+2300992,07:36:00,07:36:10,stop_point:SP_3022,La Ramée,6
+2300992,07:36:00,07:36:10,stop_point:SP_4854,Grillou,7
+2300992,07:37:00,07:37:10,stop_point:SP_2948,Tucaut,8
+2300992,07:38:00,07:38:10,stop_point:SP_3436,Ecarts,9
+2300992,07:39:00,07:39:10,stop_point:SP_363,Canal,10
+2300992,07:40:00,07:40:10,stop_point:SP_1023,Bordenoire,11
+2300992,07:41:00,07:41:10,stop_point:SP_2726,La Ramée Sud,12
+2300992,07:42:00,07:42:10,stop_point:SP_2208,Passerive,13
+2300992,07:43:00,07:43:10,stop_point:SP_579,Marquisat,14
+2300992,07:43:00,07:43:10,stop_point:SP_3608,Pasteur,15
+2300992,07:44:00,07:44:10,stop_point:SP_2062,Cèdres,16
+2300992,07:44:00,07:44:10,stop_point:SP_348,Général Leclerc,17
+2300992,07:45:00,07:45:10,stop_point:SP_2379,Collège Labitrie,18
+2300992,07:45:00,07:45:10,stop_point:SP_3740,Bordeneuve,19
+2300992,07:46:00,07:46:10,stop_point:SP_4840,Jean Gay,20
+2300992,07:47:00,07:47:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300993,08:00:00,08:00:10,stop_point:SP_4009,Basso Cambo,1
+2300993,08:01:00,08:01:10,stop_point:SP_1645,Mesplé,2
+2300993,08:02:00,08:02:10,stop_point:SP_3138,Mounède,3
+2300993,08:04:00,08:04:10,stop_point:SP_3905,De Croutte,4
+2300993,08:05:00,08:05:10,stop_point:SP_2194,Guilhermy,5
+2300993,08:06:00,08:06:10,stop_point:SP_3022,La Ramée,6
+2300993,08:06:00,08:06:10,stop_point:SP_4854,Grillou,7
+2300993,08:07:00,08:07:10,stop_point:SP_2948,Tucaut,8
+2300993,08:08:00,08:08:10,stop_point:SP_3436,Ecarts,9
+2300993,08:09:00,08:09:10,stop_point:SP_363,Canal,10
+2300993,08:10:00,08:10:10,stop_point:SP_1023,Bordenoire,11
+2300993,08:11:00,08:11:10,stop_point:SP_2726,La Ramée Sud,12
+2300993,08:12:00,08:12:10,stop_point:SP_2208,Passerive,13
+2300993,08:13:00,08:13:10,stop_point:SP_579,Marquisat,14
+2300993,08:13:00,08:13:10,stop_point:SP_3608,Pasteur,15
+2300993,08:14:00,08:14:10,stop_point:SP_2062,Cèdres,16
+2300993,08:14:00,08:14:10,stop_point:SP_348,Général Leclerc,17
+2300993,08:15:00,08:15:10,stop_point:SP_2379,Collège Labitrie,18
+2300993,08:15:00,08:15:10,stop_point:SP_3740,Bordeneuve,19
+2300993,08:16:00,08:16:10,stop_point:SP_4840,Jean Gay,20
+2300993,08:17:00,08:17:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300994,08:30:00,08:30:10,stop_point:SP_4009,Basso Cambo,1
+2300994,08:31:00,08:31:10,stop_point:SP_1645,Mesplé,2
+2300994,08:32:00,08:32:10,stop_point:SP_3138,Mounède,3
+2300994,08:34:00,08:34:10,stop_point:SP_3905,De Croutte,4
+2300994,08:35:00,08:35:10,stop_point:SP_2194,Guilhermy,5
+2300994,08:36:00,08:36:10,stop_point:SP_3022,La Ramée,6
+2300994,08:36:00,08:36:10,stop_point:SP_4854,Grillou,7
+2300994,08:37:00,08:37:10,stop_point:SP_2948,Tucaut,8
+2300994,08:38:00,08:38:10,stop_point:SP_3436,Ecarts,9
+2300994,08:39:00,08:39:10,stop_point:SP_363,Canal,10
+2300994,08:40:00,08:40:10,stop_point:SP_1023,Bordenoire,11
+2300994,08:42:00,08:42:10,stop_point:SP_2726,La Ramée Sud,12
+2300994,08:43:00,08:43:10,stop_point:SP_2208,Passerive,13
+2300994,08:44:00,08:44:10,stop_point:SP_579,Marquisat,14
+2300994,08:44:00,08:44:10,stop_point:SP_3608,Pasteur,15
+2300994,08:45:00,08:45:10,stop_point:SP_2062,Cèdres,16
+2300994,08:45:00,08:45:10,stop_point:SP_348,Général Leclerc,17
+2300994,08:46:00,08:46:10,stop_point:SP_2379,Collège Labitrie,18
+2300994,08:46:00,08:46:10,stop_point:SP_3740,Bordeneuve,19
+2300994,08:47:00,08:47:10,stop_point:SP_4840,Jean Gay,20
+2300994,08:48:00,08:48:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300995,09:00:00,09:00:10,stop_point:SP_4009,Basso Cambo,1
+2300995,09:01:00,09:01:10,stop_point:SP_1645,Mesplé,2
+2300995,09:02:00,09:02:10,stop_point:SP_3138,Mounède,3
+2300995,09:04:00,09:04:10,stop_point:SP_3905,De Croutte,4
+2300995,09:05:00,09:05:10,stop_point:SP_2194,Guilhermy,5
+2300995,09:06:00,09:06:10,stop_point:SP_3022,La Ramée,6
+2300995,09:06:00,09:06:10,stop_point:SP_4854,Grillou,7
+2300995,09:07:00,09:07:10,stop_point:SP_2948,Tucaut,8
+2300995,09:08:00,09:08:10,stop_point:SP_3436,Ecarts,9
+2300995,09:09:00,09:09:10,stop_point:SP_363,Canal,10
+2300995,09:10:00,09:10:10,stop_point:SP_1023,Bordenoire,11
+2300995,09:12:00,09:12:10,stop_point:SP_2726,La Ramée Sud,12
+2300995,09:13:00,09:13:10,stop_point:SP_2208,Passerive,13
+2300995,09:14:00,09:14:10,stop_point:SP_579,Marquisat,14
+2300995,09:14:00,09:14:10,stop_point:SP_3608,Pasteur,15
+2300995,09:15:00,09:15:10,stop_point:SP_2062,Cèdres,16
+2300995,09:15:00,09:15:10,stop_point:SP_348,Général Leclerc,17
+2300995,09:16:00,09:16:10,stop_point:SP_2379,Collège Labitrie,18
+2300995,09:16:00,09:16:10,stop_point:SP_3740,Bordeneuve,19
+2300995,09:17:00,09:17:10,stop_point:SP_4840,Jean Gay,20
+2300995,09:18:00,09:18:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300996,09:30:00,09:30:10,stop_point:SP_4009,Basso Cambo,1
+2300996,09:31:00,09:31:10,stop_point:SP_1645,Mesplé,2
+2300996,09:32:00,09:32:10,stop_point:SP_3138,Mounède,3
+2300996,09:34:00,09:34:10,stop_point:SP_3905,De Croutte,4
+2300996,09:35:00,09:35:10,stop_point:SP_2194,Guilhermy,5
+2300996,09:36:00,09:36:10,stop_point:SP_3022,La Ramée,6
+2300996,09:36:00,09:36:10,stop_point:SP_4854,Grillou,7
+2300996,09:37:00,09:37:10,stop_point:SP_2948,Tucaut,8
+2300996,09:38:00,09:38:10,stop_point:SP_3436,Ecarts,9
+2300996,09:39:00,09:39:10,stop_point:SP_363,Canal,10
+2300996,09:40:00,09:40:10,stop_point:SP_1023,Bordenoire,11
+2300996,09:42:00,09:42:10,stop_point:SP_2726,La Ramée Sud,12
+2300996,09:43:00,09:43:10,stop_point:SP_2208,Passerive,13
+2300996,09:44:00,09:44:10,stop_point:SP_579,Marquisat,14
+2300996,09:45:00,09:45:10,stop_point:SP_3608,Pasteur,15
+2300996,09:46:00,09:46:10,stop_point:SP_2062,Cèdres,16
+2300996,09:46:00,09:46:10,stop_point:SP_348,Général Leclerc,17
+2300996,09:47:00,09:47:10,stop_point:SP_2379,Collège Labitrie,18
+2300996,09:47:00,09:47:10,stop_point:SP_3740,Bordeneuve,19
+2300996,09:48:00,09:48:10,stop_point:SP_4840,Jean Gay,20
+2300996,09:49:00,09:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300997,10:00:00,10:00:10,stop_point:SP_4009,Basso Cambo,1
+2300997,10:01:00,10:01:10,stop_point:SP_1645,Mesplé,2
+2300997,10:02:00,10:02:10,stop_point:SP_3138,Mounède,3
+2300997,10:04:00,10:04:10,stop_point:SP_3905,De Croutte,4
+2300997,10:05:00,10:05:10,stop_point:SP_2194,Guilhermy,5
+2300997,10:06:00,10:06:10,stop_point:SP_3022,La Ramée,6
+2300997,10:06:00,10:06:10,stop_point:SP_4854,Grillou,7
+2300997,10:07:00,10:07:10,stop_point:SP_2948,Tucaut,8
+2300997,10:08:00,10:08:10,stop_point:SP_3436,Ecarts,9
+2300997,10:09:00,10:09:10,stop_point:SP_363,Canal,10
+2300997,10:10:00,10:10:10,stop_point:SP_1023,Bordenoire,11
+2300997,10:12:00,10:12:10,stop_point:SP_2726,La Ramée Sud,12
+2300997,10:13:00,10:13:10,stop_point:SP_2208,Passerive,13
+2300997,10:14:00,10:14:10,stop_point:SP_579,Marquisat,14
+2300997,10:15:00,10:15:10,stop_point:SP_3608,Pasteur,15
+2300997,10:16:00,10:16:10,stop_point:SP_2062,Cèdres,16
+2300997,10:16:00,10:16:10,stop_point:SP_348,Général Leclerc,17
+2300997,10:17:00,10:17:10,stop_point:SP_2379,Collège Labitrie,18
+2300997,10:17:00,10:17:10,stop_point:SP_3740,Bordeneuve,19
+2300997,10:18:00,10:18:10,stop_point:SP_4840,Jean Gay,20
+2300997,10:19:00,10:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300998,10:30:00,10:30:10,stop_point:SP_4009,Basso Cambo,1
+2300998,10:31:00,10:31:10,stop_point:SP_1645,Mesplé,2
+2300998,10:32:00,10:32:10,stop_point:SP_3138,Mounède,3
+2300998,10:34:00,10:34:10,stop_point:SP_3905,De Croutte,4
+2300998,10:35:00,10:35:10,stop_point:SP_2194,Guilhermy,5
+2300998,10:36:00,10:36:10,stop_point:SP_3022,La Ramée,6
+2300998,10:36:00,10:36:10,stop_point:SP_4854,Grillou,7
+2300998,10:37:00,10:37:10,stop_point:SP_2948,Tucaut,8
+2300998,10:38:00,10:38:10,stop_point:SP_3436,Ecarts,9
+2300998,10:39:00,10:39:10,stop_point:SP_363,Canal,10
+2300998,10:40:00,10:40:10,stop_point:SP_1023,Bordenoire,11
+2300998,10:42:00,10:42:10,stop_point:SP_2726,La Ramée Sud,12
+2300998,10:43:00,10:43:10,stop_point:SP_2208,Passerive,13
+2300998,10:44:00,10:44:10,stop_point:SP_579,Marquisat,14
+2300998,10:45:00,10:45:10,stop_point:SP_3608,Pasteur,15
+2300998,10:46:00,10:46:10,stop_point:SP_2062,Cèdres,16
+2300998,10:46:00,10:46:10,stop_point:SP_348,Général Leclerc,17
+2300998,10:47:00,10:47:10,stop_point:SP_2379,Collège Labitrie,18
+2300998,10:47:00,10:47:10,stop_point:SP_3740,Bordeneuve,19
+2300998,10:48:00,10:48:10,stop_point:SP_4840,Jean Gay,20
+2300998,10:49:00,10:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2300999,11:00:00,11:00:10,stop_point:SP_4009,Basso Cambo,1
+2300999,11:01:00,11:01:10,stop_point:SP_1645,Mesplé,2
+2300999,11:02:00,11:02:10,stop_point:SP_3138,Mounède,3
+2300999,11:04:00,11:04:10,stop_point:SP_3905,De Croutte,4
+2300999,11:05:00,11:05:10,stop_point:SP_2194,Guilhermy,5
+2300999,11:06:00,11:06:10,stop_point:SP_3022,La Ramée,6
+2300999,11:06:00,11:06:10,stop_point:SP_4854,Grillou,7
+2300999,11:07:00,11:07:10,stop_point:SP_2948,Tucaut,8
+2300999,11:08:00,11:08:10,stop_point:SP_3436,Ecarts,9
+2300999,11:09:00,11:09:10,stop_point:SP_363,Canal,10
+2300999,11:10:00,11:10:10,stop_point:SP_1023,Bordenoire,11
+2300999,11:12:00,11:12:10,stop_point:SP_2726,La Ramée Sud,12
+2300999,11:13:00,11:13:10,stop_point:SP_2208,Passerive,13
+2300999,11:14:00,11:14:10,stop_point:SP_579,Marquisat,14
+2300999,11:15:00,11:15:10,stop_point:SP_3608,Pasteur,15
+2300999,11:16:00,11:16:10,stop_point:SP_2062,Cèdres,16
+2300999,11:16:00,11:16:10,stop_point:SP_348,Général Leclerc,17
+2300999,11:17:00,11:17:10,stop_point:SP_2379,Collège Labitrie,18
+2300999,11:17:00,11:17:10,stop_point:SP_3740,Bordeneuve,19
+2300999,11:18:00,11:18:10,stop_point:SP_4840,Jean Gay,20
+2300999,11:19:00,11:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301000,11:30:00,11:30:10,stop_point:SP_4009,Basso Cambo,1
+2301000,11:31:00,11:31:10,stop_point:SP_1645,Mesplé,2
+2301000,11:32:00,11:32:10,stop_point:SP_3138,Mounède,3
+2301000,11:34:00,11:34:10,stop_point:SP_3905,De Croutte,4
+2301000,11:35:00,11:35:10,stop_point:SP_2194,Guilhermy,5
+2301000,11:36:00,11:36:10,stop_point:SP_3022,La Ramée,6
+2301000,11:36:00,11:36:10,stop_point:SP_4854,Grillou,7
+2301000,11:37:00,11:37:10,stop_point:SP_2948,Tucaut,8
+2301000,11:38:00,11:38:10,stop_point:SP_3436,Ecarts,9
+2301000,11:39:00,11:39:10,stop_point:SP_363,Canal,10
+2301000,11:40:00,11:40:10,stop_point:SP_1023,Bordenoire,11
+2301000,11:42:00,11:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301000,11:43:00,11:43:10,stop_point:SP_2208,Passerive,13
+2301000,11:44:00,11:44:10,stop_point:SP_579,Marquisat,14
+2301000,11:45:00,11:45:10,stop_point:SP_3608,Pasteur,15
+2301000,11:46:00,11:46:10,stop_point:SP_2062,Cèdres,16
+2301000,11:46:00,11:46:10,stop_point:SP_348,Général Leclerc,17
+2301000,11:47:00,11:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301000,11:47:00,11:47:10,stop_point:SP_3740,Bordeneuve,19
+2301000,11:48:00,11:48:10,stop_point:SP_4840,Jean Gay,20
+2301000,11:49:00,11:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301001,12:00:00,12:00:10,stop_point:SP_4009,Basso Cambo,1
+2301001,12:01:00,12:01:10,stop_point:SP_1645,Mesplé,2
+2301001,12:02:00,12:02:10,stop_point:SP_3138,Mounède,3
+2301001,12:04:00,12:04:10,stop_point:SP_3905,De Croutte,4
+2301001,12:05:00,12:05:10,stop_point:SP_2194,Guilhermy,5
+2301001,12:06:00,12:06:10,stop_point:SP_3022,La Ramée,6
+2301001,12:06:00,12:06:10,stop_point:SP_4854,Grillou,7
+2301001,12:07:00,12:07:10,stop_point:SP_2948,Tucaut,8
+2301001,12:08:00,12:08:10,stop_point:SP_3436,Ecarts,9
+2301001,12:09:00,12:09:10,stop_point:SP_363,Canal,10
+2301001,12:10:00,12:10:10,stop_point:SP_1023,Bordenoire,11
+2301001,12:12:00,12:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301001,12:13:00,12:13:10,stop_point:SP_2208,Passerive,13
+2301001,12:14:00,12:14:10,stop_point:SP_579,Marquisat,14
+2301001,12:15:00,12:15:10,stop_point:SP_3608,Pasteur,15
+2301001,12:16:00,12:16:10,stop_point:SP_2062,Cèdres,16
+2301001,12:16:00,12:16:10,stop_point:SP_348,Général Leclerc,17
+2301001,12:17:00,12:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301001,12:17:00,12:17:10,stop_point:SP_3740,Bordeneuve,19
+2301001,12:18:00,12:18:10,stop_point:SP_4840,Jean Gay,20
+2301001,12:19:00,12:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301002,12:30:00,12:30:10,stop_point:SP_4009,Basso Cambo,1
+2301002,12:31:00,12:31:10,stop_point:SP_1645,Mesplé,2
+2301002,12:32:00,12:32:10,stop_point:SP_3138,Mounède,3
+2301002,12:34:00,12:34:10,stop_point:SP_3905,De Croutte,4
+2301002,12:35:00,12:35:10,stop_point:SP_2194,Guilhermy,5
+2301002,12:36:00,12:36:10,stop_point:SP_3022,La Ramée,6
+2301002,12:36:00,12:36:10,stop_point:SP_4854,Grillou,7
+2301002,12:37:00,12:37:10,stop_point:SP_2948,Tucaut,8
+2301002,12:38:00,12:38:10,stop_point:SP_3436,Ecarts,9
+2301002,12:39:00,12:39:10,stop_point:SP_363,Canal,10
+2301002,12:40:00,12:40:10,stop_point:SP_1023,Bordenoire,11
+2301002,12:42:00,12:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301002,12:43:00,12:43:10,stop_point:SP_2208,Passerive,13
+2301002,12:44:00,12:44:10,stop_point:SP_579,Marquisat,14
+2301002,12:45:00,12:45:10,stop_point:SP_3608,Pasteur,15
+2301002,12:46:00,12:46:10,stop_point:SP_2062,Cèdres,16
+2301002,12:46:00,12:46:10,stop_point:SP_348,Général Leclerc,17
+2301002,12:47:00,12:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301002,12:47:00,12:47:10,stop_point:SP_3740,Bordeneuve,19
+2301002,12:48:00,12:48:10,stop_point:SP_4840,Jean Gay,20
+2301002,12:49:00,12:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301003,13:00:00,13:00:10,stop_point:SP_4009,Basso Cambo,1
+2301003,13:01:00,13:01:10,stop_point:SP_1645,Mesplé,2
+2301003,13:02:00,13:02:10,stop_point:SP_3138,Mounède,3
+2301003,13:04:00,13:04:10,stop_point:SP_3905,De Croutte,4
+2301003,13:05:00,13:05:10,stop_point:SP_2194,Guilhermy,5
+2301003,13:06:00,13:06:10,stop_point:SP_3022,La Ramée,6
+2301003,13:06:00,13:06:10,stop_point:SP_4854,Grillou,7
+2301003,13:07:00,13:07:10,stop_point:SP_2948,Tucaut,8
+2301003,13:08:00,13:08:10,stop_point:SP_3436,Ecarts,9
+2301003,13:09:00,13:09:10,stop_point:SP_363,Canal,10
+2301003,13:10:00,13:10:10,stop_point:SP_1023,Bordenoire,11
+2301003,13:12:00,13:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301003,13:13:00,13:13:10,stop_point:SP_2208,Passerive,13
+2301003,13:14:00,13:14:10,stop_point:SP_579,Marquisat,14
+2301003,13:15:00,13:15:10,stop_point:SP_3608,Pasteur,15
+2301003,13:16:00,13:16:10,stop_point:SP_2062,Cèdres,16
+2301003,13:16:00,13:16:10,stop_point:SP_348,Général Leclerc,17
+2301003,13:17:00,13:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301003,13:17:00,13:17:10,stop_point:SP_3740,Bordeneuve,19
+2301003,13:18:00,13:18:10,stop_point:SP_4840,Jean Gay,20
+2301003,13:19:00,13:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301004,13:30:00,13:30:10,stop_point:SP_4009,Basso Cambo,1
+2301004,13:31:00,13:31:10,stop_point:SP_1645,Mesplé,2
+2301004,13:32:00,13:32:10,stop_point:SP_3138,Mounède,3
+2301004,13:34:00,13:34:10,stop_point:SP_3905,De Croutte,4
+2301004,13:35:00,13:35:10,stop_point:SP_2194,Guilhermy,5
+2301004,13:36:00,13:36:10,stop_point:SP_3022,La Ramée,6
+2301004,13:36:00,13:36:10,stop_point:SP_4854,Grillou,7
+2301004,13:37:00,13:37:10,stop_point:SP_2948,Tucaut,8
+2301004,13:38:00,13:38:10,stop_point:SP_3436,Ecarts,9
+2301004,13:39:00,13:39:10,stop_point:SP_363,Canal,10
+2301004,13:40:00,13:40:10,stop_point:SP_1023,Bordenoire,11
+2301004,13:42:00,13:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301004,13:43:00,13:43:10,stop_point:SP_2208,Passerive,13
+2301004,13:44:00,13:44:10,stop_point:SP_579,Marquisat,14
+2301004,13:45:00,13:45:10,stop_point:SP_3608,Pasteur,15
+2301004,13:46:00,13:46:10,stop_point:SP_2062,Cèdres,16
+2301004,13:46:00,13:46:10,stop_point:SP_348,Général Leclerc,17
+2301004,13:47:00,13:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301004,13:47:00,13:47:10,stop_point:SP_3740,Bordeneuve,19
+2301004,13:48:00,13:48:10,stop_point:SP_4840,Jean Gay,20
+2301004,13:49:00,13:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301005,14:00:00,14:00:10,stop_point:SP_4009,Basso Cambo,1
+2301005,14:01:00,14:01:10,stop_point:SP_1645,Mesplé,2
+2301005,14:02:00,14:02:10,stop_point:SP_3138,Mounède,3
+2301005,14:04:00,14:04:10,stop_point:SP_3905,De Croutte,4
+2301005,14:05:00,14:05:10,stop_point:SP_2194,Guilhermy,5
+2301005,14:06:00,14:06:10,stop_point:SP_3022,La Ramée,6
+2301005,14:06:00,14:06:10,stop_point:SP_4854,Grillou,7
+2301005,14:07:00,14:07:10,stop_point:SP_2948,Tucaut,8
+2301005,14:08:00,14:08:10,stop_point:SP_3436,Ecarts,9
+2301005,14:09:00,14:09:10,stop_point:SP_363,Canal,10
+2301005,14:10:00,14:10:10,stop_point:SP_1023,Bordenoire,11
+2301005,14:12:00,14:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301005,14:13:00,14:13:10,stop_point:SP_2208,Passerive,13
+2301005,14:14:00,14:14:10,stop_point:SP_579,Marquisat,14
+2301005,14:15:00,14:15:10,stop_point:SP_3608,Pasteur,15
+2301005,14:16:00,14:16:10,stop_point:SP_2062,Cèdres,16
+2301005,14:16:00,14:16:10,stop_point:SP_348,Général Leclerc,17
+2301005,14:17:00,14:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301005,14:17:00,14:17:10,stop_point:SP_3740,Bordeneuve,19
+2301005,14:18:00,14:18:10,stop_point:SP_4840,Jean Gay,20
+2301005,14:19:00,14:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301006,14:30:00,14:30:10,stop_point:SP_4009,Basso Cambo,1
+2301006,14:31:00,14:31:10,stop_point:SP_1645,Mesplé,2
+2301006,14:32:00,14:32:10,stop_point:SP_3138,Mounède,3
+2301006,14:34:00,14:34:10,stop_point:SP_3905,De Croutte,4
+2301006,14:35:00,14:35:10,stop_point:SP_2194,Guilhermy,5
+2301006,14:36:00,14:36:10,stop_point:SP_3022,La Ramée,6
+2301006,14:36:00,14:36:10,stop_point:SP_4854,Grillou,7
+2301006,14:37:00,14:37:10,stop_point:SP_2948,Tucaut,8
+2301006,14:38:00,14:38:10,stop_point:SP_3436,Ecarts,9
+2301006,14:39:00,14:39:10,stop_point:SP_363,Canal,10
+2301006,14:40:00,14:40:10,stop_point:SP_1023,Bordenoire,11
+2301006,14:42:00,14:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301006,14:43:00,14:43:10,stop_point:SP_2208,Passerive,13
+2301006,14:44:00,14:44:10,stop_point:SP_579,Marquisat,14
+2301006,14:45:00,14:45:10,stop_point:SP_3608,Pasteur,15
+2301006,14:46:00,14:46:10,stop_point:SP_2062,Cèdres,16
+2301006,14:46:00,14:46:10,stop_point:SP_348,Général Leclerc,17
+2301006,14:47:00,14:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301006,14:47:00,14:47:10,stop_point:SP_3740,Bordeneuve,19
+2301006,14:48:00,14:48:10,stop_point:SP_4840,Jean Gay,20
+2301006,14:49:00,14:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301007,15:00:00,15:00:10,stop_point:SP_4009,Basso Cambo,1
+2301007,15:01:00,15:01:10,stop_point:SP_1645,Mesplé,2
+2301007,15:02:00,15:02:10,stop_point:SP_3138,Mounède,3
+2301007,15:04:00,15:04:10,stop_point:SP_3905,De Croutte,4
+2301007,15:05:00,15:05:10,stop_point:SP_2194,Guilhermy,5
+2301007,15:06:00,15:06:10,stop_point:SP_3022,La Ramée,6
+2301007,15:06:00,15:06:10,stop_point:SP_4854,Grillou,7
+2301007,15:07:00,15:07:10,stop_point:SP_2948,Tucaut,8
+2301007,15:08:00,15:08:10,stop_point:SP_3436,Ecarts,9
+2301007,15:09:00,15:09:10,stop_point:SP_363,Canal,10
+2301007,15:10:00,15:10:10,stop_point:SP_1023,Bordenoire,11
+2301007,15:12:00,15:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301007,15:13:00,15:13:10,stop_point:SP_2208,Passerive,13
+2301007,15:14:00,15:14:10,stop_point:SP_579,Marquisat,14
+2301007,15:15:00,15:15:10,stop_point:SP_3608,Pasteur,15
+2301007,15:16:00,15:16:10,stop_point:SP_2062,Cèdres,16
+2301007,15:16:00,15:16:10,stop_point:SP_348,Général Leclerc,17
+2301007,15:17:00,15:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301007,15:17:00,15:17:10,stop_point:SP_3740,Bordeneuve,19
+2301007,15:18:00,15:18:10,stop_point:SP_4840,Jean Gay,20
+2301007,15:19:00,15:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301008,15:30:00,15:30:10,stop_point:SP_4009,Basso Cambo,1
+2301008,15:31:00,15:31:10,stop_point:SP_1645,Mesplé,2
+2301008,15:32:00,15:32:10,stop_point:SP_3138,Mounède,3
+2301008,15:34:00,15:34:10,stop_point:SP_3905,De Croutte,4
+2301008,15:35:00,15:35:10,stop_point:SP_2194,Guilhermy,5
+2301008,15:36:00,15:36:10,stop_point:SP_3022,La Ramée,6
+2301008,15:36:00,15:36:10,stop_point:SP_4854,Grillou,7
+2301008,15:37:00,15:37:10,stop_point:SP_2948,Tucaut,8
+2301008,15:38:00,15:38:10,stop_point:SP_3436,Ecarts,9
+2301008,15:39:00,15:39:10,stop_point:SP_363,Canal,10
+2301008,15:40:00,15:40:10,stop_point:SP_1023,Bordenoire,11
+2301008,15:42:00,15:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301008,15:43:00,15:43:10,stop_point:SP_2208,Passerive,13
+2301008,15:44:00,15:44:10,stop_point:SP_579,Marquisat,14
+2301008,15:45:00,15:45:10,stop_point:SP_3608,Pasteur,15
+2301008,15:46:00,15:46:10,stop_point:SP_2062,Cèdres,16
+2301008,15:46:00,15:46:10,stop_point:SP_348,Général Leclerc,17
+2301008,15:47:00,15:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301008,15:47:00,15:47:10,stop_point:SP_3740,Bordeneuve,19
+2301008,15:48:00,15:48:10,stop_point:SP_4840,Jean Gay,20
+2301008,15:49:00,15:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301009,16:00:00,16:00:10,stop_point:SP_4009,Basso Cambo,1
+2301009,16:01:00,16:01:10,stop_point:SP_1645,Mesplé,2
+2301009,16:02:00,16:02:10,stop_point:SP_3138,Mounède,3
+2301009,16:04:00,16:04:10,stop_point:SP_3905,De Croutte,4
+2301009,16:05:00,16:05:10,stop_point:SP_2194,Guilhermy,5
+2301009,16:06:00,16:06:10,stop_point:SP_3022,La Ramée,6
+2301009,16:06:00,16:06:10,stop_point:SP_4854,Grillou,7
+2301009,16:07:00,16:07:10,stop_point:SP_2948,Tucaut,8
+2301009,16:08:00,16:08:10,stop_point:SP_3436,Ecarts,9
+2301009,16:09:00,16:09:10,stop_point:SP_363,Canal,10
+2301009,16:10:00,16:10:10,stop_point:SP_1023,Bordenoire,11
+2301009,16:12:00,16:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301009,16:13:00,16:13:10,stop_point:SP_2208,Passerive,13
+2301009,16:14:00,16:14:10,stop_point:SP_579,Marquisat,14
+2301009,16:15:00,16:15:10,stop_point:SP_3608,Pasteur,15
+2301009,16:16:00,16:16:10,stop_point:SP_2062,Cèdres,16
+2301009,16:16:00,16:16:10,stop_point:SP_348,Général Leclerc,17
+2301009,16:17:00,16:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301009,16:17:00,16:17:10,stop_point:SP_3740,Bordeneuve,19
+2301009,16:18:00,16:18:10,stop_point:SP_4840,Jean Gay,20
+2301009,16:19:00,16:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301010,16:30:00,16:30:10,stop_point:SP_4009,Basso Cambo,1
+2301010,16:31:00,16:31:10,stop_point:SP_1645,Mesplé,2
+2301010,16:32:00,16:32:10,stop_point:SP_3138,Mounède,3
+2301010,16:34:00,16:34:10,stop_point:SP_3905,De Croutte,4
+2301010,16:35:00,16:35:10,stop_point:SP_2194,Guilhermy,5
+2301010,16:36:00,16:36:10,stop_point:SP_3022,La Ramée,6
+2301010,16:36:00,16:36:10,stop_point:SP_4854,Grillou,7
+2301010,16:37:00,16:37:10,stop_point:SP_2948,Tucaut,8
+2301010,16:38:00,16:38:10,stop_point:SP_3436,Ecarts,9
+2301010,16:39:00,16:39:10,stop_point:SP_363,Canal,10
+2301010,16:40:00,16:40:10,stop_point:SP_1023,Bordenoire,11
+2301010,16:42:00,16:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301010,16:43:00,16:43:10,stop_point:SP_2208,Passerive,13
+2301010,16:44:00,16:44:10,stop_point:SP_579,Marquisat,14
+2301010,16:45:00,16:45:10,stop_point:SP_3608,Pasteur,15
+2301010,16:46:00,16:46:10,stop_point:SP_2062,Cèdres,16
+2301010,16:46:00,16:46:10,stop_point:SP_348,Général Leclerc,17
+2301010,16:47:00,16:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301010,16:47:00,16:47:10,stop_point:SP_3740,Bordeneuve,19
+2301010,16:48:00,16:48:10,stop_point:SP_4840,Jean Gay,20
+2301010,16:49:00,16:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301011,17:00:00,17:00:10,stop_point:SP_4009,Basso Cambo,1
+2301011,17:01:00,17:01:10,stop_point:SP_1645,Mesplé,2
+2301011,17:02:00,17:02:10,stop_point:SP_3138,Mounède,3
+2301011,17:04:00,17:04:10,stop_point:SP_3905,De Croutte,4
+2301011,17:05:00,17:05:10,stop_point:SP_2194,Guilhermy,5
+2301011,17:06:00,17:06:10,stop_point:SP_3022,La Ramée,6
+2301011,17:06:00,17:06:10,stop_point:SP_4854,Grillou,7
+2301011,17:07:00,17:07:10,stop_point:SP_2948,Tucaut,8
+2301011,17:08:00,17:08:10,stop_point:SP_3436,Ecarts,9
+2301011,17:09:00,17:09:10,stop_point:SP_363,Canal,10
+2301011,17:10:00,17:10:10,stop_point:SP_1023,Bordenoire,11
+2301011,17:12:00,17:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301011,17:13:00,17:13:10,stop_point:SP_2208,Passerive,13
+2301011,17:14:00,17:14:10,stop_point:SP_579,Marquisat,14
+2301011,17:15:00,17:15:10,stop_point:SP_3608,Pasteur,15
+2301011,17:16:00,17:16:10,stop_point:SP_2062,Cèdres,16
+2301011,17:16:00,17:16:10,stop_point:SP_348,Général Leclerc,17
+2301011,17:17:00,17:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301011,17:17:00,17:17:10,stop_point:SP_3740,Bordeneuve,19
+2301011,17:18:00,17:18:10,stop_point:SP_4840,Jean Gay,20
+2301011,17:19:00,17:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301012,17:30:00,17:30:10,stop_point:SP_4009,Basso Cambo,1
+2301012,17:31:00,17:31:10,stop_point:SP_1645,Mesplé,2
+2301012,17:32:00,17:32:10,stop_point:SP_3138,Mounède,3
+2301012,17:34:00,17:34:10,stop_point:SP_3905,De Croutte,4
+2301012,17:35:00,17:35:10,stop_point:SP_2194,Guilhermy,5
+2301012,17:36:00,17:36:10,stop_point:SP_3022,La Ramée,6
+2301012,17:36:00,17:36:10,stop_point:SP_4854,Grillou,7
+2301012,17:37:00,17:37:10,stop_point:SP_2948,Tucaut,8
+2301012,17:38:00,17:38:10,stop_point:SP_3436,Ecarts,9
+2301012,17:39:00,17:39:10,stop_point:SP_363,Canal,10
+2301012,17:40:00,17:40:10,stop_point:SP_1023,Bordenoire,11
+2301012,17:42:00,17:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301012,17:43:00,17:43:10,stop_point:SP_2208,Passerive,13
+2301012,17:44:00,17:44:10,stop_point:SP_579,Marquisat,14
+2301012,17:45:00,17:45:10,stop_point:SP_3608,Pasteur,15
+2301012,17:46:00,17:46:10,stop_point:SP_2062,Cèdres,16
+2301012,17:46:00,17:46:10,stop_point:SP_348,Général Leclerc,17
+2301012,17:47:00,17:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301012,17:47:00,17:47:10,stop_point:SP_3740,Bordeneuve,19
+2301012,17:48:00,17:48:10,stop_point:SP_4840,Jean Gay,20
+2301012,17:49:00,17:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301013,18:00:00,18:00:10,stop_point:SP_4009,Basso Cambo,1
+2301013,18:01:00,18:01:10,stop_point:SP_1645,Mesplé,2
+2301013,18:02:00,18:02:10,stop_point:SP_3138,Mounède,3
+2301013,18:04:00,18:04:10,stop_point:SP_3905,De Croutte,4
+2301013,18:05:00,18:05:10,stop_point:SP_2194,Guilhermy,5
+2301013,18:06:00,18:06:10,stop_point:SP_3022,La Ramée,6
+2301013,18:06:00,18:06:10,stop_point:SP_4854,Grillou,7
+2301013,18:07:00,18:07:10,stop_point:SP_2948,Tucaut,8
+2301013,18:08:00,18:08:10,stop_point:SP_3436,Ecarts,9
+2301013,18:09:00,18:09:10,stop_point:SP_363,Canal,10
+2301013,18:10:00,18:10:10,stop_point:SP_1023,Bordenoire,11
+2301013,18:12:00,18:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301013,18:13:00,18:13:10,stop_point:SP_2208,Passerive,13
+2301013,18:14:00,18:14:10,stop_point:SP_579,Marquisat,14
+2301013,18:15:00,18:15:10,stop_point:SP_3608,Pasteur,15
+2301013,18:16:00,18:16:10,stop_point:SP_2062,Cèdres,16
+2301013,18:16:00,18:16:10,stop_point:SP_348,Général Leclerc,17
+2301013,18:17:00,18:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301013,18:17:00,18:17:10,stop_point:SP_3740,Bordeneuve,19
+2301013,18:18:00,18:18:10,stop_point:SP_4840,Jean Gay,20
+2301013,18:19:00,18:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301014,18:30:00,18:30:10,stop_point:SP_4009,Basso Cambo,1
+2301014,18:31:00,18:31:10,stop_point:SP_1645,Mesplé,2
+2301014,18:32:00,18:32:10,stop_point:SP_3138,Mounède,3
+2301014,18:34:00,18:34:10,stop_point:SP_3905,De Croutte,4
+2301014,18:35:00,18:35:10,stop_point:SP_2194,Guilhermy,5
+2301014,18:36:00,18:36:10,stop_point:SP_3022,La Ramée,6
+2301014,18:36:00,18:36:10,stop_point:SP_4854,Grillou,7
+2301014,18:37:00,18:37:10,stop_point:SP_2948,Tucaut,8
+2301014,18:38:00,18:38:10,stop_point:SP_3436,Ecarts,9
+2301014,18:39:00,18:39:10,stop_point:SP_363,Canal,10
+2301014,18:40:00,18:40:10,stop_point:SP_1023,Bordenoire,11
+2301014,18:42:00,18:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301014,18:43:00,18:43:10,stop_point:SP_2208,Passerive,13
+2301014,18:44:00,18:44:10,stop_point:SP_579,Marquisat,14
+2301014,18:45:00,18:45:10,stop_point:SP_3608,Pasteur,15
+2301014,18:46:00,18:46:10,stop_point:SP_2062,Cèdres,16
+2301014,18:46:00,18:46:10,stop_point:SP_348,Général Leclerc,17
+2301014,18:47:00,18:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301014,18:47:00,18:47:10,stop_point:SP_3740,Bordeneuve,19
+2301014,18:48:00,18:48:10,stop_point:SP_4840,Jean Gay,20
+2301014,18:49:00,18:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301015,19:00:00,19:00:10,stop_point:SP_4009,Basso Cambo,1
+2301015,19:01:00,19:01:10,stop_point:SP_1645,Mesplé,2
+2301015,19:02:00,19:02:10,stop_point:SP_3138,Mounède,3
+2301015,19:04:00,19:04:10,stop_point:SP_3905,De Croutte,4
+2301015,19:05:00,19:05:10,stop_point:SP_2194,Guilhermy,5
+2301015,19:06:00,19:06:10,stop_point:SP_3022,La Ramée,6
+2301015,19:06:00,19:06:10,stop_point:SP_4854,Grillou,7
+2301015,19:07:00,19:07:10,stop_point:SP_2948,Tucaut,8
+2301015,19:08:00,19:08:10,stop_point:SP_3436,Ecarts,9
+2301015,19:09:00,19:09:10,stop_point:SP_363,Canal,10
+2301015,19:10:00,19:10:10,stop_point:SP_1023,Bordenoire,11
+2301015,19:12:00,19:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301015,19:13:00,19:13:10,stop_point:SP_2208,Passerive,13
+2301015,19:14:00,19:14:10,stop_point:SP_579,Marquisat,14
+2301015,19:15:00,19:15:10,stop_point:SP_3608,Pasteur,15
+2301015,19:16:00,19:16:10,stop_point:SP_2062,Cèdres,16
+2301015,19:16:00,19:16:10,stop_point:SP_348,Général Leclerc,17
+2301015,19:17:00,19:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301015,19:17:00,19:17:10,stop_point:SP_3740,Bordeneuve,19
+2301015,19:18:00,19:18:10,stop_point:SP_4840,Jean Gay,20
+2301015,19:19:00,19:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301016,19:30:00,19:30:10,stop_point:SP_4009,Basso Cambo,1
+2301016,19:31:00,19:31:10,stop_point:SP_1645,Mesplé,2
+2301016,19:32:00,19:32:10,stop_point:SP_3138,Mounède,3
+2301016,19:34:00,19:34:10,stop_point:SP_3905,De Croutte,4
+2301016,19:35:00,19:35:10,stop_point:SP_2194,Guilhermy,5
+2301016,19:36:00,19:36:10,stop_point:SP_3022,La Ramée,6
+2301016,19:36:00,19:36:10,stop_point:SP_4854,Grillou,7
+2301016,19:37:00,19:37:10,stop_point:SP_2948,Tucaut,8
+2301016,19:38:00,19:38:10,stop_point:SP_3436,Ecarts,9
+2301016,19:39:00,19:39:10,stop_point:SP_363,Canal,10
+2301016,19:40:00,19:40:10,stop_point:SP_1023,Bordenoire,11
+2301016,19:42:00,19:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301016,19:43:00,19:43:10,stop_point:SP_2208,Passerive,13
+2301016,19:44:00,19:44:10,stop_point:SP_579,Marquisat,14
+2301016,19:45:00,19:45:10,stop_point:SP_3608,Pasteur,15
+2301016,19:46:00,19:46:10,stop_point:SP_2062,Cèdres,16
+2301016,19:46:00,19:46:10,stop_point:SP_348,Général Leclerc,17
+2301016,19:47:00,19:47:10,stop_point:SP_2379,Collège Labitrie,18
+2301016,19:47:00,19:47:10,stop_point:SP_3740,Bordeneuve,19
+2301016,19:48:00,19:48:10,stop_point:SP_4840,Jean Gay,20
+2301016,19:49:00,19:49:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301017,20:00:00,20:00:10,stop_point:SP_4009,Basso Cambo,1
+2301017,20:01:00,20:01:10,stop_point:SP_1645,Mesplé,2
+2301017,20:02:00,20:02:10,stop_point:SP_3138,Mounède,3
+2301017,20:04:00,20:04:10,stop_point:SP_3905,De Croutte,4
+2301017,20:05:00,20:05:10,stop_point:SP_2194,Guilhermy,5
+2301017,20:06:00,20:06:10,stop_point:SP_3022,La Ramée,6
+2301017,20:06:00,20:06:10,stop_point:SP_4854,Grillou,7
+2301017,20:07:00,20:07:10,stop_point:SP_2948,Tucaut,8
+2301017,20:08:00,20:08:10,stop_point:SP_3436,Ecarts,9
+2301017,20:09:00,20:09:10,stop_point:SP_363,Canal,10
+2301017,20:10:00,20:10:10,stop_point:SP_1023,Bordenoire,11
+2301017,20:12:00,20:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301017,20:13:00,20:13:10,stop_point:SP_2208,Passerive,13
+2301017,20:14:00,20:14:10,stop_point:SP_579,Marquisat,14
+2301017,20:15:00,20:15:10,stop_point:SP_3608,Pasteur,15
+2301017,20:16:00,20:16:10,stop_point:SP_2062,Cèdres,16
+2301017,20:16:00,20:16:10,stop_point:SP_348,Général Leclerc,17
+2301017,20:17:00,20:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301017,20:17:00,20:17:10,stop_point:SP_3740,Bordeneuve,19
+2301017,20:18:00,20:18:10,stop_point:SP_4840,Jean Gay,20
+2301017,20:19:00,20:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301018,20:30:00,20:30:10,stop_point:SP_4009,Basso Cambo,1
+2301018,20:31:00,20:31:10,stop_point:SP_1645,Mesplé,2
+2301018,20:32:00,20:32:10,stop_point:SP_3138,Mounède,3
+2301018,20:34:00,20:34:10,stop_point:SP_3905,De Croutte,4
+2301018,20:35:00,20:35:10,stop_point:SP_2194,Guilhermy,5
+2301018,20:36:00,20:36:10,stop_point:SP_3022,La Ramée,6
+2301018,20:36:00,20:36:10,stop_point:SP_4854,Grillou,7
+2301018,20:37:00,20:37:10,stop_point:SP_2948,Tucaut,8
+2301018,20:38:00,20:38:10,stop_point:SP_3436,Ecarts,9
+2301018,20:39:00,20:39:10,stop_point:SP_363,Canal,10
+2301018,20:40:00,20:40:10,stop_point:SP_1023,Bordenoire,11
+2301018,20:42:00,20:42:10,stop_point:SP_2726,La Ramée Sud,12
+2301018,20:43:00,20:43:10,stop_point:SP_2208,Passerive,13
+2301018,20:44:00,20:44:10,stop_point:SP_579,Marquisat,14
+2301018,20:44:00,20:44:10,stop_point:SP_3608,Pasteur,15
+2301018,20:45:00,20:45:10,stop_point:SP_2062,Cèdres,16
+2301018,20:45:00,20:45:10,stop_point:SP_348,Général Leclerc,17
+2301018,20:46:00,20:46:10,stop_point:SP_2379,Collège Labitrie,18
+2301018,20:46:00,20:46:10,stop_point:SP_3740,Bordeneuve,19
+2301018,20:47:00,20:47:10,stop_point:SP_4840,Jean Gay,20
+2301018,20:48:00,20:48:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301019,06:28:00,06:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301019,06:29:00,06:29:10,stop_point:SP_4841,Jean Gay,2
+2301019,06:30:00,06:30:10,stop_point:SP_3834,Bordeneuve,3
+2301019,06:30:00,06:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301019,06:30:00,06:30:10,stop_point:SP_3973,Général Leclerc,5
+2301019,06:31:00,06:31:10,stop_point:SP_600,Cèdres,6
+2301019,06:32:00,06:32:10,stop_point:SP_666,Pasteur,7
+2301019,06:32:00,06:32:10,stop_point:SP_1502,Marquisat,8
+2301019,06:33:00,06:33:10,stop_point:SP_2940,Passerive,9
+2301019,06:34:00,06:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301019,06:35:00,06:35:10,stop_point:SP_1304,Bordenoire,11
+2301019,06:36:00,06:36:10,stop_point:SP_846,Canal,12
+2301019,06:37:00,06:37:10,stop_point:SP_2147,Ecarts,13
+2301019,06:38:00,06:38:10,stop_point:SP_3106,Tucaut,14
+2301019,06:38:00,06:38:10,stop_point:SP_4853,Grillou,15
+2301019,06:39:00,06:39:10,stop_point:SP_1672,La Ramée,16
+2301019,06:40:00,06:40:10,stop_point:SP_2104,Guilhermy,17
+2301019,06:42:00,06:42:10,stop_point:SP_1458,De Croutte,18
+2301019,06:44:00,06:44:10,stop_point:SP_2122,Mounède,19
+2301019,06:45:00,06:45:10,stop_point:SP_1867,Mesplé,20
+2301019,06:47:00,06:47:10,stop_point:SP_4009,Basso Cambo,21
+2301020,06:58:00,06:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301020,06:59:00,06:59:10,stop_point:SP_4841,Jean Gay,2
+2301020,07:00:00,07:00:10,stop_point:SP_3834,Bordeneuve,3
+2301020,07:00:00,07:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301020,07:00:00,07:00:10,stop_point:SP_3973,Général Leclerc,5
+2301020,07:01:00,07:01:10,stop_point:SP_600,Cèdres,6
+2301020,07:02:00,07:02:10,stop_point:SP_666,Pasteur,7
+2301020,07:02:00,07:02:10,stop_point:SP_1502,Marquisat,8
+2301020,07:03:00,07:03:10,stop_point:SP_2940,Passerive,9
+2301020,07:04:00,07:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301020,07:05:00,07:05:10,stop_point:SP_1304,Bordenoire,11
+2301020,07:06:00,07:06:10,stop_point:SP_846,Canal,12
+2301020,07:07:00,07:07:10,stop_point:SP_2147,Ecarts,13
+2301020,07:08:00,07:08:10,stop_point:SP_3106,Tucaut,14
+2301020,07:08:00,07:08:10,stop_point:SP_4853,Grillou,15
+2301020,07:09:00,07:09:10,stop_point:SP_1672,La Ramée,16
+2301020,07:10:00,07:10:10,stop_point:SP_2104,Guilhermy,17
+2301020,07:12:00,07:12:10,stop_point:SP_1458,De Croutte,18
+2301020,07:14:00,07:14:10,stop_point:SP_2122,Mounède,19
+2301020,07:15:00,07:15:10,stop_point:SP_1867,Mesplé,20
+2301020,07:17:00,07:17:10,stop_point:SP_4009,Basso Cambo,21
+2301021,07:28:00,07:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301021,07:29:00,07:29:10,stop_point:SP_4841,Jean Gay,2
+2301021,07:30:00,07:30:10,stop_point:SP_3834,Bordeneuve,3
+2301021,07:30:00,07:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301021,07:30:00,07:30:10,stop_point:SP_3973,Général Leclerc,5
+2301021,07:31:00,07:31:10,stop_point:SP_600,Cèdres,6
+2301021,07:32:00,07:32:10,stop_point:SP_666,Pasteur,7
+2301021,07:32:00,07:32:10,stop_point:SP_1502,Marquisat,8
+2301021,07:33:00,07:33:10,stop_point:SP_2940,Passerive,9
+2301021,07:34:00,07:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301021,07:35:00,07:35:10,stop_point:SP_1304,Bordenoire,11
+2301021,07:36:00,07:36:10,stop_point:SP_846,Canal,12
+2301021,07:37:00,07:37:10,stop_point:SP_2147,Ecarts,13
+2301021,07:38:00,07:38:10,stop_point:SP_3106,Tucaut,14
+2301021,07:39:00,07:39:10,stop_point:SP_4853,Grillou,15
+2301021,07:40:00,07:40:10,stop_point:SP_1672,La Ramée,16
+2301021,07:41:00,07:41:10,stop_point:SP_2104,Guilhermy,17
+2301021,07:43:00,07:43:10,stop_point:SP_1458,De Croutte,18
+2301021,07:45:00,07:45:10,stop_point:SP_2122,Mounède,19
+2301021,07:46:00,07:46:10,stop_point:SP_1867,Mesplé,20
+2301021,07:48:00,07:48:10,stop_point:SP_4009,Basso Cambo,21
+2301022,07:58:00,07:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301022,07:59:00,07:59:10,stop_point:SP_4841,Jean Gay,2
+2301022,08:00:00,08:00:10,stop_point:SP_3834,Bordeneuve,3
+2301022,08:00:00,08:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301022,08:00:00,08:00:10,stop_point:SP_3973,Général Leclerc,5
+2301022,08:01:00,08:01:10,stop_point:SP_600,Cèdres,6
+2301022,08:02:00,08:02:10,stop_point:SP_666,Pasteur,7
+2301022,08:02:00,08:02:10,stop_point:SP_1502,Marquisat,8
+2301022,08:03:00,08:03:10,stop_point:SP_2940,Passerive,9
+2301022,08:04:00,08:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301022,08:05:00,08:05:10,stop_point:SP_1304,Bordenoire,11
+2301022,08:06:00,08:06:10,stop_point:SP_846,Canal,12
+2301022,08:07:00,08:07:10,stop_point:SP_2147,Ecarts,13
+2301022,08:08:00,08:08:10,stop_point:SP_3106,Tucaut,14
+2301022,08:09:00,08:09:10,stop_point:SP_4853,Grillou,15
+2301022,08:10:00,08:10:10,stop_point:SP_1672,La Ramée,16
+2301022,08:11:00,08:11:10,stop_point:SP_2104,Guilhermy,17
+2301022,08:13:00,08:13:10,stop_point:SP_1458,De Croutte,18
+2301022,08:15:00,08:15:10,stop_point:SP_2122,Mounède,19
+2301022,08:16:00,08:16:10,stop_point:SP_1867,Mesplé,20
+2301022,08:18:00,08:18:10,stop_point:SP_4009,Basso Cambo,21
+2301023,08:28:00,08:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301023,08:29:00,08:29:10,stop_point:SP_4841,Jean Gay,2
+2301023,08:30:00,08:30:10,stop_point:SP_3834,Bordeneuve,3
+2301023,08:30:00,08:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301023,08:30:00,08:30:10,stop_point:SP_3973,Général Leclerc,5
+2301023,08:31:00,08:31:10,stop_point:SP_600,Cèdres,6
+2301023,08:32:00,08:32:10,stop_point:SP_666,Pasteur,7
+2301023,08:32:00,08:32:10,stop_point:SP_1502,Marquisat,8
+2301023,08:33:00,08:33:10,stop_point:SP_2940,Passerive,9
+2301023,08:34:00,08:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301023,08:35:00,08:35:10,stop_point:SP_1304,Bordenoire,11
+2301023,08:36:00,08:36:10,stop_point:SP_846,Canal,12
+2301023,08:37:00,08:37:10,stop_point:SP_2147,Ecarts,13
+2301023,08:38:00,08:38:10,stop_point:SP_3106,Tucaut,14
+2301023,08:39:00,08:39:10,stop_point:SP_4853,Grillou,15
+2301023,08:40:00,08:40:10,stop_point:SP_1672,La Ramée,16
+2301023,08:41:00,08:41:10,stop_point:SP_2104,Guilhermy,17
+2301023,08:43:00,08:43:10,stop_point:SP_1458,De Croutte,18
+2301023,08:45:00,08:45:10,stop_point:SP_2122,Mounède,19
+2301023,08:46:00,08:46:10,stop_point:SP_1867,Mesplé,20
+2301023,08:48:00,08:48:10,stop_point:SP_4009,Basso Cambo,21
+2301024,08:58:00,08:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301024,08:59:00,08:59:10,stop_point:SP_4841,Jean Gay,2
+2301024,09:00:00,09:00:10,stop_point:SP_3834,Bordeneuve,3
+2301024,09:00:00,09:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301024,09:00:00,09:00:10,stop_point:SP_3973,Général Leclerc,5
+2301024,09:01:00,09:01:10,stop_point:SP_600,Cèdres,6
+2301024,09:02:00,09:02:10,stop_point:SP_666,Pasteur,7
+2301024,09:02:00,09:02:10,stop_point:SP_1502,Marquisat,8
+2301024,09:03:00,09:03:10,stop_point:SP_2940,Passerive,9
+2301024,09:04:00,09:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301024,09:05:00,09:05:10,stop_point:SP_1304,Bordenoire,11
+2301024,09:06:00,09:06:10,stop_point:SP_846,Canal,12
+2301024,09:07:00,09:07:10,stop_point:SP_2147,Ecarts,13
+2301024,09:08:00,09:08:10,stop_point:SP_3106,Tucaut,14
+2301024,09:09:00,09:09:10,stop_point:SP_4853,Grillou,15
+2301024,09:10:00,09:10:10,stop_point:SP_1672,La Ramée,16
+2301024,09:11:00,09:11:10,stop_point:SP_2104,Guilhermy,17
+2301024,09:13:00,09:13:10,stop_point:SP_1458,De Croutte,18
+2301024,09:15:00,09:15:10,stop_point:SP_2122,Mounède,19
+2301024,09:16:00,09:16:10,stop_point:SP_1867,Mesplé,20
+2301024,09:18:00,09:18:10,stop_point:SP_4009,Basso Cambo,21
+2301025,09:28:00,09:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301025,09:29:00,09:29:10,stop_point:SP_4841,Jean Gay,2
+2301025,09:30:00,09:30:10,stop_point:SP_3834,Bordeneuve,3
+2301025,09:30:00,09:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301025,09:30:00,09:30:10,stop_point:SP_3973,Général Leclerc,5
+2301025,09:31:00,09:31:10,stop_point:SP_600,Cèdres,6
+2301025,09:32:00,09:32:10,stop_point:SP_666,Pasteur,7
+2301025,09:32:00,09:32:10,stop_point:SP_1502,Marquisat,8
+2301025,09:33:00,09:33:10,stop_point:SP_2940,Passerive,9
+2301025,09:34:00,09:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301025,09:35:00,09:35:10,stop_point:SP_1304,Bordenoire,11
+2301025,09:36:00,09:36:10,stop_point:SP_846,Canal,12
+2301025,09:37:00,09:37:10,stop_point:SP_2147,Ecarts,13
+2301025,09:38:00,09:38:10,stop_point:SP_3106,Tucaut,14
+2301025,09:39:00,09:39:10,stop_point:SP_4853,Grillou,15
+2301025,09:40:00,09:40:10,stop_point:SP_1672,La Ramée,16
+2301025,09:41:00,09:41:10,stop_point:SP_2104,Guilhermy,17
+2301025,09:43:00,09:43:10,stop_point:SP_1458,De Croutte,18
+2301025,09:45:00,09:45:10,stop_point:SP_2122,Mounède,19
+2301025,09:46:00,09:46:10,stop_point:SP_1867,Mesplé,20
+2301025,09:48:00,09:48:10,stop_point:SP_4009,Basso Cambo,21
+2301026,09:58:00,09:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301026,09:59:00,09:59:10,stop_point:SP_4841,Jean Gay,2
+2301026,10:00:00,10:00:10,stop_point:SP_3834,Bordeneuve,3
+2301026,10:00:00,10:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301026,10:00:00,10:00:10,stop_point:SP_3973,Général Leclerc,5
+2301026,10:01:00,10:01:10,stop_point:SP_600,Cèdres,6
+2301026,10:02:00,10:02:10,stop_point:SP_666,Pasteur,7
+2301026,10:02:00,10:02:10,stop_point:SP_1502,Marquisat,8
+2301026,10:03:00,10:03:10,stop_point:SP_2940,Passerive,9
+2301026,10:04:00,10:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301026,10:05:00,10:05:10,stop_point:SP_1304,Bordenoire,11
+2301026,10:06:00,10:06:10,stop_point:SP_846,Canal,12
+2301026,10:07:00,10:07:10,stop_point:SP_2147,Ecarts,13
+2301026,10:08:00,10:08:10,stop_point:SP_3106,Tucaut,14
+2301026,10:09:00,10:09:10,stop_point:SP_4853,Grillou,15
+2301026,10:10:00,10:10:10,stop_point:SP_1672,La Ramée,16
+2301026,10:11:00,10:11:10,stop_point:SP_2104,Guilhermy,17
+2301026,10:13:00,10:13:10,stop_point:SP_1458,De Croutte,18
+2301026,10:15:00,10:15:10,stop_point:SP_2122,Mounède,19
+2301026,10:16:00,10:16:10,stop_point:SP_1867,Mesplé,20
+2301026,10:18:00,10:18:10,stop_point:SP_4009,Basso Cambo,21
+2301027,10:28:00,10:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301027,10:29:00,10:29:10,stop_point:SP_4841,Jean Gay,2
+2301027,10:30:00,10:30:10,stop_point:SP_3834,Bordeneuve,3
+2301027,10:30:00,10:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301027,10:30:00,10:30:10,stop_point:SP_3973,Général Leclerc,5
+2301027,10:31:00,10:31:10,stop_point:SP_600,Cèdres,6
+2301027,10:32:00,10:32:10,stop_point:SP_666,Pasteur,7
+2301027,10:32:00,10:32:10,stop_point:SP_1502,Marquisat,8
+2301027,10:33:00,10:33:10,stop_point:SP_2940,Passerive,9
+2301027,10:34:00,10:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301027,10:35:00,10:35:10,stop_point:SP_1304,Bordenoire,11
+2301027,10:36:00,10:36:10,stop_point:SP_846,Canal,12
+2301027,10:37:00,10:37:10,stop_point:SP_2147,Ecarts,13
+2301027,10:38:00,10:38:10,stop_point:SP_3106,Tucaut,14
+2301027,10:39:00,10:39:10,stop_point:SP_4853,Grillou,15
+2301027,10:40:00,10:40:10,stop_point:SP_1672,La Ramée,16
+2301027,10:41:00,10:41:10,stop_point:SP_2104,Guilhermy,17
+2301027,10:43:00,10:43:10,stop_point:SP_1458,De Croutte,18
+2301027,10:45:00,10:45:10,stop_point:SP_2122,Mounède,19
+2301027,10:46:00,10:46:10,stop_point:SP_1867,Mesplé,20
+2301027,10:48:00,10:48:10,stop_point:SP_4009,Basso Cambo,21
+2301028,10:58:00,10:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301028,10:59:00,10:59:10,stop_point:SP_4841,Jean Gay,2
+2301028,11:00:00,11:00:10,stop_point:SP_3834,Bordeneuve,3
+2301028,11:00:00,11:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301028,11:00:00,11:00:10,stop_point:SP_3973,Général Leclerc,5
+2301028,11:01:00,11:01:10,stop_point:SP_600,Cèdres,6
+2301028,11:02:00,11:02:10,stop_point:SP_666,Pasteur,7
+2301028,11:02:00,11:02:10,stop_point:SP_1502,Marquisat,8
+2301028,11:03:00,11:03:10,stop_point:SP_2940,Passerive,9
+2301028,11:04:00,11:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301028,11:05:00,11:05:10,stop_point:SP_1304,Bordenoire,11
+2301028,11:06:00,11:06:10,stop_point:SP_846,Canal,12
+2301028,11:07:00,11:07:10,stop_point:SP_2147,Ecarts,13
+2301028,11:08:00,11:08:10,stop_point:SP_3106,Tucaut,14
+2301028,11:09:00,11:09:10,stop_point:SP_4853,Grillou,15
+2301028,11:10:00,11:10:10,stop_point:SP_1672,La Ramée,16
+2301028,11:11:00,11:11:10,stop_point:SP_2104,Guilhermy,17
+2301028,11:13:00,11:13:10,stop_point:SP_1458,De Croutte,18
+2301028,11:15:00,11:15:10,stop_point:SP_2122,Mounède,19
+2301028,11:16:00,11:16:10,stop_point:SP_1867,Mesplé,20
+2301028,11:18:00,11:18:10,stop_point:SP_4009,Basso Cambo,21
+2301029,11:28:00,11:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301029,11:29:00,11:29:10,stop_point:SP_4841,Jean Gay,2
+2301029,11:30:00,11:30:10,stop_point:SP_3834,Bordeneuve,3
+2301029,11:30:00,11:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301029,11:30:00,11:30:10,stop_point:SP_3973,Général Leclerc,5
+2301029,11:31:00,11:31:10,stop_point:SP_600,Cèdres,6
+2301029,11:32:00,11:32:10,stop_point:SP_666,Pasteur,7
+2301029,11:32:00,11:32:10,stop_point:SP_1502,Marquisat,8
+2301029,11:33:00,11:33:10,stop_point:SP_2940,Passerive,9
+2301029,11:34:00,11:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301029,11:35:00,11:35:10,stop_point:SP_1304,Bordenoire,11
+2301029,11:36:00,11:36:10,stop_point:SP_846,Canal,12
+2301029,11:37:00,11:37:10,stop_point:SP_2147,Ecarts,13
+2301029,11:38:00,11:38:10,stop_point:SP_3106,Tucaut,14
+2301029,11:39:00,11:39:10,stop_point:SP_4853,Grillou,15
+2301029,11:40:00,11:40:10,stop_point:SP_1672,La Ramée,16
+2301029,11:41:00,11:41:10,stop_point:SP_2104,Guilhermy,17
+2301029,11:43:00,11:43:10,stop_point:SP_1458,De Croutte,18
+2301029,11:45:00,11:45:10,stop_point:SP_2122,Mounède,19
+2301029,11:46:00,11:46:10,stop_point:SP_1867,Mesplé,20
+2301029,11:48:00,11:48:10,stop_point:SP_4009,Basso Cambo,21
+2301030,11:58:00,11:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301030,11:59:00,11:59:10,stop_point:SP_4841,Jean Gay,2
+2301030,12:00:00,12:00:10,stop_point:SP_3834,Bordeneuve,3
+2301030,12:00:00,12:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301030,12:00:00,12:00:10,stop_point:SP_3973,Général Leclerc,5
+2301030,12:01:00,12:01:10,stop_point:SP_600,Cèdres,6
+2301030,12:02:00,12:02:10,stop_point:SP_666,Pasteur,7
+2301030,12:02:00,12:02:10,stop_point:SP_1502,Marquisat,8
+2301030,12:03:00,12:03:10,stop_point:SP_2940,Passerive,9
+2301030,12:04:00,12:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301030,12:05:00,12:05:10,stop_point:SP_1304,Bordenoire,11
+2301030,12:06:00,12:06:10,stop_point:SP_846,Canal,12
+2301030,12:07:00,12:07:10,stop_point:SP_2147,Ecarts,13
+2301030,12:08:00,12:08:10,stop_point:SP_3106,Tucaut,14
+2301030,12:09:00,12:09:10,stop_point:SP_4853,Grillou,15
+2301030,12:10:00,12:10:10,stop_point:SP_1672,La Ramée,16
+2301030,12:11:00,12:11:10,stop_point:SP_2104,Guilhermy,17
+2301030,12:13:00,12:13:10,stop_point:SP_1458,De Croutte,18
+2301030,12:15:00,12:15:10,stop_point:SP_2122,Mounède,19
+2301030,12:16:00,12:16:10,stop_point:SP_1867,Mesplé,20
+2301030,12:18:00,12:18:10,stop_point:SP_4009,Basso Cambo,21
+2301031,12:28:00,12:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301031,12:29:00,12:29:10,stop_point:SP_4841,Jean Gay,2
+2301031,12:30:00,12:30:10,stop_point:SP_3834,Bordeneuve,3
+2301031,12:30:00,12:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301031,12:30:00,12:30:10,stop_point:SP_3973,Général Leclerc,5
+2301031,12:31:00,12:31:10,stop_point:SP_600,Cèdres,6
+2301031,12:32:00,12:32:10,stop_point:SP_666,Pasteur,7
+2301031,12:32:00,12:32:10,stop_point:SP_1502,Marquisat,8
+2301031,12:33:00,12:33:10,stop_point:SP_2940,Passerive,9
+2301031,12:34:00,12:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301031,12:35:00,12:35:10,stop_point:SP_1304,Bordenoire,11
+2301031,12:36:00,12:36:10,stop_point:SP_846,Canal,12
+2301031,12:37:00,12:37:10,stop_point:SP_2147,Ecarts,13
+2301031,12:38:00,12:38:10,stop_point:SP_3106,Tucaut,14
+2301031,12:39:00,12:39:10,stop_point:SP_4853,Grillou,15
+2301031,12:40:00,12:40:10,stop_point:SP_1672,La Ramée,16
+2301031,12:41:00,12:41:10,stop_point:SP_2104,Guilhermy,17
+2301031,12:43:00,12:43:10,stop_point:SP_1458,De Croutte,18
+2301031,12:45:00,12:45:10,stop_point:SP_2122,Mounède,19
+2301031,12:46:00,12:46:10,stop_point:SP_1867,Mesplé,20
+2301031,12:48:00,12:48:10,stop_point:SP_4009,Basso Cambo,21
+2301032,12:58:00,12:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301032,12:59:00,12:59:10,stop_point:SP_4841,Jean Gay,2
+2301032,13:00:00,13:00:10,stop_point:SP_3834,Bordeneuve,3
+2301032,13:00:00,13:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301032,13:00:00,13:00:10,stop_point:SP_3973,Général Leclerc,5
+2301032,13:01:00,13:01:10,stop_point:SP_600,Cèdres,6
+2301032,13:02:00,13:02:10,stop_point:SP_666,Pasteur,7
+2301032,13:02:00,13:02:10,stop_point:SP_1502,Marquisat,8
+2301032,13:03:00,13:03:10,stop_point:SP_2940,Passerive,9
+2301032,13:04:00,13:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301032,13:05:00,13:05:10,stop_point:SP_1304,Bordenoire,11
+2301032,13:06:00,13:06:10,stop_point:SP_846,Canal,12
+2301032,13:07:00,13:07:10,stop_point:SP_2147,Ecarts,13
+2301032,13:08:00,13:08:10,stop_point:SP_3106,Tucaut,14
+2301032,13:09:00,13:09:10,stop_point:SP_4853,Grillou,15
+2301032,13:10:00,13:10:10,stop_point:SP_1672,La Ramée,16
+2301032,13:11:00,13:11:10,stop_point:SP_2104,Guilhermy,17
+2301032,13:13:00,13:13:10,stop_point:SP_1458,De Croutte,18
+2301032,13:15:00,13:15:10,stop_point:SP_2122,Mounède,19
+2301032,13:16:00,13:16:10,stop_point:SP_1867,Mesplé,20
+2301032,13:18:00,13:18:10,stop_point:SP_4009,Basso Cambo,21
+2301033,13:28:00,13:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301033,13:29:00,13:29:10,stop_point:SP_4841,Jean Gay,2
+2301033,13:30:00,13:30:10,stop_point:SP_3834,Bordeneuve,3
+2301033,13:30:00,13:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301033,13:30:00,13:30:10,stop_point:SP_3973,Général Leclerc,5
+2301033,13:31:00,13:31:10,stop_point:SP_600,Cèdres,6
+2301033,13:32:00,13:32:10,stop_point:SP_666,Pasteur,7
+2301033,13:32:00,13:32:10,stop_point:SP_1502,Marquisat,8
+2301033,13:33:00,13:33:10,stop_point:SP_2940,Passerive,9
+2301033,13:34:00,13:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301033,13:35:00,13:35:10,stop_point:SP_1304,Bordenoire,11
+2301033,13:36:00,13:36:10,stop_point:SP_846,Canal,12
+2301033,13:37:00,13:37:10,stop_point:SP_2147,Ecarts,13
+2301033,13:38:00,13:38:10,stop_point:SP_3106,Tucaut,14
+2301033,13:39:00,13:39:10,stop_point:SP_4853,Grillou,15
+2301033,13:40:00,13:40:10,stop_point:SP_1672,La Ramée,16
+2301033,13:41:00,13:41:10,stop_point:SP_2104,Guilhermy,17
+2301033,13:43:00,13:43:10,stop_point:SP_1458,De Croutte,18
+2301033,13:45:00,13:45:10,stop_point:SP_2122,Mounède,19
+2301033,13:46:00,13:46:10,stop_point:SP_1867,Mesplé,20
+2301033,13:48:00,13:48:10,stop_point:SP_4009,Basso Cambo,21
+2301034,13:58:00,13:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301034,13:59:00,13:59:10,stop_point:SP_4841,Jean Gay,2
+2301034,14:00:00,14:00:10,stop_point:SP_3834,Bordeneuve,3
+2301034,14:00:00,14:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301034,14:00:00,14:00:10,stop_point:SP_3973,Général Leclerc,5
+2301034,14:01:00,14:01:10,stop_point:SP_600,Cèdres,6
+2301034,14:02:00,14:02:10,stop_point:SP_666,Pasteur,7
+2301034,14:02:00,14:02:10,stop_point:SP_1502,Marquisat,8
+2301034,14:03:00,14:03:10,stop_point:SP_2940,Passerive,9
+2301034,14:04:00,14:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301034,14:05:00,14:05:10,stop_point:SP_1304,Bordenoire,11
+2301034,14:06:00,14:06:10,stop_point:SP_846,Canal,12
+2301034,14:07:00,14:07:10,stop_point:SP_2147,Ecarts,13
+2301034,14:08:00,14:08:10,stop_point:SP_3106,Tucaut,14
+2301034,14:09:00,14:09:10,stop_point:SP_4853,Grillou,15
+2301034,14:10:00,14:10:10,stop_point:SP_1672,La Ramée,16
+2301034,14:11:00,14:11:10,stop_point:SP_2104,Guilhermy,17
+2301034,14:13:00,14:13:10,stop_point:SP_1458,De Croutte,18
+2301034,14:15:00,14:15:10,stop_point:SP_2122,Mounède,19
+2301034,14:16:00,14:16:10,stop_point:SP_1867,Mesplé,20
+2301034,14:18:00,14:18:10,stop_point:SP_4009,Basso Cambo,21
+2301035,14:28:00,14:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301035,14:29:00,14:29:10,stop_point:SP_4841,Jean Gay,2
+2301035,14:30:00,14:30:10,stop_point:SP_3834,Bordeneuve,3
+2301035,14:30:00,14:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301035,14:30:00,14:30:10,stop_point:SP_3973,Général Leclerc,5
+2301035,14:31:00,14:31:10,stop_point:SP_600,Cèdres,6
+2301035,14:32:00,14:32:10,stop_point:SP_666,Pasteur,7
+2301035,14:32:00,14:32:10,stop_point:SP_1502,Marquisat,8
+2301035,14:33:00,14:33:10,stop_point:SP_2940,Passerive,9
+2301035,14:34:00,14:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301035,14:35:00,14:35:10,stop_point:SP_1304,Bordenoire,11
+2301035,14:36:00,14:36:10,stop_point:SP_846,Canal,12
+2301035,14:37:00,14:37:10,stop_point:SP_2147,Ecarts,13
+2301035,14:38:00,14:38:10,stop_point:SP_3106,Tucaut,14
+2301035,14:39:00,14:39:10,stop_point:SP_4853,Grillou,15
+2301035,14:40:00,14:40:10,stop_point:SP_1672,La Ramée,16
+2301035,14:41:00,14:41:10,stop_point:SP_2104,Guilhermy,17
+2301035,14:43:00,14:43:10,stop_point:SP_1458,De Croutte,18
+2301035,14:45:00,14:45:10,stop_point:SP_2122,Mounède,19
+2301035,14:46:00,14:46:10,stop_point:SP_1867,Mesplé,20
+2301035,14:48:00,14:48:10,stop_point:SP_4009,Basso Cambo,21
+2301036,14:58:00,14:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301036,14:59:00,14:59:10,stop_point:SP_4841,Jean Gay,2
+2301036,15:00:00,15:00:10,stop_point:SP_3834,Bordeneuve,3
+2301036,15:00:00,15:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301036,15:00:00,15:00:10,stop_point:SP_3973,Général Leclerc,5
+2301036,15:01:00,15:01:10,stop_point:SP_600,Cèdres,6
+2301036,15:02:00,15:02:10,stop_point:SP_666,Pasteur,7
+2301036,15:02:00,15:02:10,stop_point:SP_1502,Marquisat,8
+2301036,15:03:00,15:03:10,stop_point:SP_2940,Passerive,9
+2301036,15:04:00,15:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301036,15:05:00,15:05:10,stop_point:SP_1304,Bordenoire,11
+2301036,15:06:00,15:06:10,stop_point:SP_846,Canal,12
+2301036,15:07:00,15:07:10,stop_point:SP_2147,Ecarts,13
+2301036,15:08:00,15:08:10,stop_point:SP_3106,Tucaut,14
+2301036,15:09:00,15:09:10,stop_point:SP_4853,Grillou,15
+2301036,15:10:00,15:10:10,stop_point:SP_1672,La Ramée,16
+2301036,15:11:00,15:11:10,stop_point:SP_2104,Guilhermy,17
+2301036,15:13:00,15:13:10,stop_point:SP_1458,De Croutte,18
+2301036,15:15:00,15:15:10,stop_point:SP_2122,Mounède,19
+2301036,15:16:00,15:16:10,stop_point:SP_1867,Mesplé,20
+2301036,15:18:00,15:18:10,stop_point:SP_4009,Basso Cambo,21
+2301037,15:28:00,15:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301037,15:29:00,15:29:10,stop_point:SP_4841,Jean Gay,2
+2301037,15:30:00,15:30:10,stop_point:SP_3834,Bordeneuve,3
+2301037,15:30:00,15:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301037,15:30:00,15:30:10,stop_point:SP_3973,Général Leclerc,5
+2301037,15:31:00,15:31:10,stop_point:SP_600,Cèdres,6
+2301037,15:32:00,15:32:10,stop_point:SP_666,Pasteur,7
+2301037,15:32:00,15:32:10,stop_point:SP_1502,Marquisat,8
+2301037,15:33:00,15:33:10,stop_point:SP_2940,Passerive,9
+2301037,15:34:00,15:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301037,15:35:00,15:35:10,stop_point:SP_1304,Bordenoire,11
+2301037,15:36:00,15:36:10,stop_point:SP_846,Canal,12
+2301037,15:37:00,15:37:10,stop_point:SP_2147,Ecarts,13
+2301037,15:38:00,15:38:10,stop_point:SP_3106,Tucaut,14
+2301037,15:39:00,15:39:10,stop_point:SP_4853,Grillou,15
+2301037,15:40:00,15:40:10,stop_point:SP_1672,La Ramée,16
+2301037,15:41:00,15:41:10,stop_point:SP_2104,Guilhermy,17
+2301037,15:43:00,15:43:10,stop_point:SP_1458,De Croutte,18
+2301037,15:45:00,15:45:10,stop_point:SP_2122,Mounède,19
+2301037,15:46:00,15:46:10,stop_point:SP_1867,Mesplé,20
+2301037,15:48:00,15:48:10,stop_point:SP_4009,Basso Cambo,21
+2301038,15:58:00,15:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301038,15:59:00,15:59:10,stop_point:SP_4841,Jean Gay,2
+2301038,16:00:00,16:00:10,stop_point:SP_3834,Bordeneuve,3
+2301038,16:00:00,16:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301038,16:00:00,16:00:10,stop_point:SP_3973,Général Leclerc,5
+2301038,16:01:00,16:01:10,stop_point:SP_600,Cèdres,6
+2301038,16:02:00,16:02:10,stop_point:SP_666,Pasteur,7
+2301038,16:02:00,16:02:10,stop_point:SP_1502,Marquisat,8
+2301038,16:03:00,16:03:10,stop_point:SP_2940,Passerive,9
+2301038,16:04:00,16:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301038,16:05:00,16:05:10,stop_point:SP_1304,Bordenoire,11
+2301038,16:06:00,16:06:10,stop_point:SP_846,Canal,12
+2301038,16:07:00,16:07:10,stop_point:SP_2147,Ecarts,13
+2301038,16:08:00,16:08:10,stop_point:SP_3106,Tucaut,14
+2301038,16:09:00,16:09:10,stop_point:SP_4853,Grillou,15
+2301038,16:10:00,16:10:10,stop_point:SP_1672,La Ramée,16
+2301038,16:11:00,16:11:10,stop_point:SP_2104,Guilhermy,17
+2301038,16:13:00,16:13:10,stop_point:SP_1458,De Croutte,18
+2301038,16:15:00,16:15:10,stop_point:SP_2122,Mounède,19
+2301038,16:16:00,16:16:10,stop_point:SP_1867,Mesplé,20
+2301038,16:18:00,16:18:10,stop_point:SP_4009,Basso Cambo,21
+2301039,16:28:00,16:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301039,16:29:00,16:29:10,stop_point:SP_4841,Jean Gay,2
+2301039,16:30:00,16:30:10,stop_point:SP_3834,Bordeneuve,3
+2301039,16:30:00,16:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301039,16:30:00,16:30:10,stop_point:SP_3973,Général Leclerc,5
+2301039,16:31:00,16:31:10,stop_point:SP_600,Cèdres,6
+2301039,16:32:00,16:32:10,stop_point:SP_666,Pasteur,7
+2301039,16:32:00,16:32:10,stop_point:SP_1502,Marquisat,8
+2301039,16:33:00,16:33:10,stop_point:SP_2940,Passerive,9
+2301039,16:34:00,16:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301039,16:35:00,16:35:10,stop_point:SP_1304,Bordenoire,11
+2301039,16:36:00,16:36:10,stop_point:SP_846,Canal,12
+2301039,16:37:00,16:37:10,stop_point:SP_2147,Ecarts,13
+2301039,16:38:00,16:38:10,stop_point:SP_3106,Tucaut,14
+2301039,16:39:00,16:39:10,stop_point:SP_4853,Grillou,15
+2301039,16:40:00,16:40:10,stop_point:SP_1672,La Ramée,16
+2301039,16:41:00,16:41:10,stop_point:SP_2104,Guilhermy,17
+2301039,16:43:00,16:43:10,stop_point:SP_1458,De Croutte,18
+2301039,16:45:00,16:45:10,stop_point:SP_2122,Mounède,19
+2301039,16:46:00,16:46:10,stop_point:SP_1867,Mesplé,20
+2301039,16:48:00,16:48:10,stop_point:SP_4009,Basso Cambo,21
+2301040,16:58:00,16:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301040,16:59:00,16:59:10,stop_point:SP_4841,Jean Gay,2
+2301040,17:00:00,17:00:10,stop_point:SP_3834,Bordeneuve,3
+2301040,17:00:00,17:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301040,17:00:00,17:00:10,stop_point:SP_3973,Général Leclerc,5
+2301040,17:01:00,17:01:10,stop_point:SP_600,Cèdres,6
+2301040,17:02:00,17:02:10,stop_point:SP_666,Pasteur,7
+2301040,17:02:00,17:02:10,stop_point:SP_1502,Marquisat,8
+2301040,17:03:00,17:03:10,stop_point:SP_2940,Passerive,9
+2301040,17:04:00,17:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301040,17:05:00,17:05:10,stop_point:SP_1304,Bordenoire,11
+2301040,17:06:00,17:06:10,stop_point:SP_846,Canal,12
+2301040,17:07:00,17:07:10,stop_point:SP_2147,Ecarts,13
+2301040,17:08:00,17:08:10,stop_point:SP_3106,Tucaut,14
+2301040,17:09:00,17:09:10,stop_point:SP_4853,Grillou,15
+2301040,17:10:00,17:10:10,stop_point:SP_1672,La Ramée,16
+2301040,17:11:00,17:11:10,stop_point:SP_2104,Guilhermy,17
+2301040,17:13:00,17:13:10,stop_point:SP_1458,De Croutte,18
+2301040,17:15:00,17:15:10,stop_point:SP_2122,Mounède,19
+2301040,17:16:00,17:16:10,stop_point:SP_1867,Mesplé,20
+2301040,17:18:00,17:18:10,stop_point:SP_4009,Basso Cambo,21
+2301041,17:28:00,17:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301041,17:29:00,17:29:10,stop_point:SP_4841,Jean Gay,2
+2301041,17:30:00,17:30:10,stop_point:SP_3834,Bordeneuve,3
+2301041,17:30:00,17:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301041,17:30:00,17:30:10,stop_point:SP_3973,Général Leclerc,5
+2301041,17:31:00,17:31:10,stop_point:SP_600,Cèdres,6
+2301041,17:32:00,17:32:10,stop_point:SP_666,Pasteur,7
+2301041,17:32:00,17:32:10,stop_point:SP_1502,Marquisat,8
+2301041,17:33:00,17:33:10,stop_point:SP_2940,Passerive,9
+2301041,17:34:00,17:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301041,17:35:00,17:35:10,stop_point:SP_1304,Bordenoire,11
+2301041,17:36:00,17:36:10,stop_point:SP_846,Canal,12
+2301041,17:37:00,17:37:10,stop_point:SP_2147,Ecarts,13
+2301041,17:38:00,17:38:10,stop_point:SP_3106,Tucaut,14
+2301041,17:39:00,17:39:10,stop_point:SP_4853,Grillou,15
+2301041,17:40:00,17:40:10,stop_point:SP_1672,La Ramée,16
+2301041,17:41:00,17:41:10,stop_point:SP_2104,Guilhermy,17
+2301041,17:43:00,17:43:10,stop_point:SP_1458,De Croutte,18
+2301041,17:45:00,17:45:10,stop_point:SP_2122,Mounède,19
+2301041,17:46:00,17:46:10,stop_point:SP_1867,Mesplé,20
+2301041,17:48:00,17:48:10,stop_point:SP_4009,Basso Cambo,21
+2301042,17:58:00,17:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301042,17:59:00,17:59:10,stop_point:SP_4841,Jean Gay,2
+2301042,18:00:00,18:00:10,stop_point:SP_3834,Bordeneuve,3
+2301042,18:00:00,18:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301042,18:00:00,18:00:10,stop_point:SP_3973,Général Leclerc,5
+2301042,18:01:00,18:01:10,stop_point:SP_600,Cèdres,6
+2301042,18:02:00,18:02:10,stop_point:SP_666,Pasteur,7
+2301042,18:02:00,18:02:10,stop_point:SP_1502,Marquisat,8
+2301042,18:03:00,18:03:10,stop_point:SP_2940,Passerive,9
+2301042,18:04:00,18:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301042,18:05:00,18:05:10,stop_point:SP_1304,Bordenoire,11
+2301042,18:06:00,18:06:10,stop_point:SP_846,Canal,12
+2301042,18:07:00,18:07:10,stop_point:SP_2147,Ecarts,13
+2301042,18:08:00,18:08:10,stop_point:SP_3106,Tucaut,14
+2301042,18:09:00,18:09:10,stop_point:SP_4853,Grillou,15
+2301042,18:10:00,18:10:10,stop_point:SP_1672,La Ramée,16
+2301042,18:11:00,18:11:10,stop_point:SP_2104,Guilhermy,17
+2301042,18:13:00,18:13:10,stop_point:SP_1458,De Croutte,18
+2301042,18:15:00,18:15:10,stop_point:SP_2122,Mounède,19
+2301042,18:16:00,18:16:10,stop_point:SP_1867,Mesplé,20
+2301042,18:18:00,18:18:10,stop_point:SP_4009,Basso Cambo,21
+2301043,18:28:00,18:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301043,18:29:00,18:29:10,stop_point:SP_4841,Jean Gay,2
+2301043,18:30:00,18:30:10,stop_point:SP_3834,Bordeneuve,3
+2301043,18:30:00,18:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301043,18:30:00,18:30:10,stop_point:SP_3973,Général Leclerc,5
+2301043,18:31:00,18:31:10,stop_point:SP_600,Cèdres,6
+2301043,18:32:00,18:32:10,stop_point:SP_666,Pasteur,7
+2301043,18:32:00,18:32:10,stop_point:SP_1502,Marquisat,8
+2301043,18:33:00,18:33:10,stop_point:SP_2940,Passerive,9
+2301043,18:34:00,18:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301043,18:35:00,18:35:10,stop_point:SP_1304,Bordenoire,11
+2301043,18:36:00,18:36:10,stop_point:SP_846,Canal,12
+2301043,18:37:00,18:37:10,stop_point:SP_2147,Ecarts,13
+2301043,18:38:00,18:38:10,stop_point:SP_3106,Tucaut,14
+2301043,18:39:00,18:39:10,stop_point:SP_4853,Grillou,15
+2301043,18:40:00,18:40:10,stop_point:SP_1672,La Ramée,16
+2301043,18:41:00,18:41:10,stop_point:SP_2104,Guilhermy,17
+2301043,18:43:00,18:43:10,stop_point:SP_1458,De Croutte,18
+2301043,18:45:00,18:45:10,stop_point:SP_2122,Mounède,19
+2301043,18:46:00,18:46:10,stop_point:SP_1867,Mesplé,20
+2301043,18:48:00,18:48:10,stop_point:SP_4009,Basso Cambo,21
+2301044,18:58:00,18:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301044,18:59:00,18:59:10,stop_point:SP_4841,Jean Gay,2
+2301044,19:00:00,19:00:10,stop_point:SP_3834,Bordeneuve,3
+2301044,19:00:00,19:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301044,19:00:00,19:00:10,stop_point:SP_3973,Général Leclerc,5
+2301044,19:01:00,19:01:10,stop_point:SP_600,Cèdres,6
+2301044,19:02:00,19:02:10,stop_point:SP_666,Pasteur,7
+2301044,19:02:00,19:02:10,stop_point:SP_1502,Marquisat,8
+2301044,19:03:00,19:03:10,stop_point:SP_2940,Passerive,9
+2301044,19:04:00,19:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301044,19:05:00,19:05:10,stop_point:SP_1304,Bordenoire,11
+2301044,19:06:00,19:06:10,stop_point:SP_846,Canal,12
+2301044,19:07:00,19:07:10,stop_point:SP_2147,Ecarts,13
+2301044,19:08:00,19:08:10,stop_point:SP_3106,Tucaut,14
+2301044,19:09:00,19:09:10,stop_point:SP_4853,Grillou,15
+2301044,19:10:00,19:10:10,stop_point:SP_1672,La Ramée,16
+2301044,19:11:00,19:11:10,stop_point:SP_2104,Guilhermy,17
+2301044,19:13:00,19:13:10,stop_point:SP_1458,De Croutte,18
+2301044,19:15:00,19:15:10,stop_point:SP_2122,Mounède,19
+2301044,19:16:00,19:16:10,stop_point:SP_1867,Mesplé,20
+2301044,19:18:00,19:18:10,stop_point:SP_4009,Basso Cambo,21
+2301045,19:28:00,19:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301045,19:29:00,19:29:10,stop_point:SP_4841,Jean Gay,2
+2301045,19:30:00,19:30:10,stop_point:SP_3834,Bordeneuve,3
+2301045,19:30:00,19:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301045,19:30:00,19:30:10,stop_point:SP_3973,Général Leclerc,5
+2301045,19:31:00,19:31:10,stop_point:SP_600,Cèdres,6
+2301045,19:32:00,19:32:10,stop_point:SP_666,Pasteur,7
+2301045,19:32:00,19:32:10,stop_point:SP_1502,Marquisat,8
+2301045,19:33:00,19:33:10,stop_point:SP_2940,Passerive,9
+2301045,19:34:00,19:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301045,19:35:00,19:35:10,stop_point:SP_1304,Bordenoire,11
+2301045,19:36:00,19:36:10,stop_point:SP_846,Canal,12
+2301045,19:37:00,19:37:10,stop_point:SP_2147,Ecarts,13
+2301045,19:38:00,19:38:10,stop_point:SP_3106,Tucaut,14
+2301045,19:39:00,19:39:10,stop_point:SP_4853,Grillou,15
+2301045,19:40:00,19:40:10,stop_point:SP_1672,La Ramée,16
+2301045,19:41:00,19:41:10,stop_point:SP_2104,Guilhermy,17
+2301045,19:43:00,19:43:10,stop_point:SP_1458,De Croutte,18
+2301045,19:45:00,19:45:10,stop_point:SP_2122,Mounède,19
+2301045,19:46:00,19:46:10,stop_point:SP_1867,Mesplé,20
+2301045,19:48:00,19:48:10,stop_point:SP_4009,Basso Cambo,21
+2301046,19:58:00,19:58:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301046,19:59:00,19:59:10,stop_point:SP_4841,Jean Gay,2
+2301046,20:00:00,20:00:10,stop_point:SP_3834,Bordeneuve,3
+2301046,20:00:00,20:00:10,stop_point:SP_1724,Collège Labitrie,4
+2301046,20:00:00,20:00:10,stop_point:SP_3973,Général Leclerc,5
+2301046,20:01:00,20:01:10,stop_point:SP_600,Cèdres,6
+2301046,20:02:00,20:02:10,stop_point:SP_666,Pasteur,7
+2301046,20:02:00,20:02:10,stop_point:SP_1502,Marquisat,8
+2301046,20:03:00,20:03:10,stop_point:SP_2940,Passerive,9
+2301046,20:04:00,20:04:10,stop_point:SP_3057,La Ramée Sud,10
+2301046,20:05:00,20:05:10,stop_point:SP_1304,Bordenoire,11
+2301046,20:06:00,20:06:10,stop_point:SP_846,Canal,12
+2301046,20:07:00,20:07:10,stop_point:SP_2147,Ecarts,13
+2301046,20:08:00,20:08:10,stop_point:SP_3106,Tucaut,14
+2301046,20:09:00,20:09:10,stop_point:SP_4853,Grillou,15
+2301046,20:10:00,20:10:10,stop_point:SP_1672,La Ramée,16
+2301046,20:11:00,20:11:10,stop_point:SP_2104,Guilhermy,17
+2301046,20:13:00,20:13:10,stop_point:SP_1458,De Croutte,18
+2301046,20:15:00,20:15:10,stop_point:SP_2122,Mounède,19
+2301046,20:16:00,20:16:10,stop_point:SP_1867,Mesplé,20
+2301046,20:18:00,20:18:10,stop_point:SP_4009,Basso Cambo,21
+2301047,20:28:00,20:28:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301047,20:29:00,20:29:10,stop_point:SP_4841,Jean Gay,2
+2301047,20:30:00,20:30:10,stop_point:SP_3834,Bordeneuve,3
+2301047,20:30:00,20:30:10,stop_point:SP_1724,Collège Labitrie,4
+2301047,20:30:00,20:30:10,stop_point:SP_3973,Général Leclerc,5
+2301047,20:31:00,20:31:10,stop_point:SP_600,Cèdres,6
+2301047,20:32:00,20:32:10,stop_point:SP_666,Pasteur,7
+2301047,20:32:00,20:32:10,stop_point:SP_1502,Marquisat,8
+2301047,20:33:00,20:33:10,stop_point:SP_2940,Passerive,9
+2301047,20:34:00,20:34:10,stop_point:SP_3057,La Ramée Sud,10
+2301047,20:35:00,20:35:10,stop_point:SP_1304,Bordenoire,11
+2301047,20:36:00,20:36:10,stop_point:SP_846,Canal,12
+2301047,20:37:00,20:37:10,stop_point:SP_2147,Ecarts,13
+2301047,20:38:00,20:38:10,stop_point:SP_3106,Tucaut,14
+2301047,20:38:00,20:38:10,stop_point:SP_4853,Grillou,15
+2301047,20:39:00,20:39:10,stop_point:SP_1672,La Ramée,16
+2301047,20:40:00,20:40:10,stop_point:SP_2104,Guilhermy,17
+2301047,20:42:00,20:42:10,stop_point:SP_1458,De Croutte,18
+2301047,20:44:00,20:44:10,stop_point:SP_2122,Mounède,19
+2301047,20:45:00,20:45:10,stop_point:SP_1867,Mesplé,20
+2301047,20:47:00,20:47:10,stop_point:SP_4009,Basso Cambo,21
+2301048,06:00:00,06:00:10,stop_point:SP_4009,Basso Cambo,1
+2301048,06:01:00,06:01:10,stop_point:SP_1645,Mesplé,2
+2301048,06:02:00,06:02:10,stop_point:SP_3138,Mounède,3
+2301048,06:04:00,06:04:10,stop_point:SP_3905,De Croutte,4
+2301048,06:05:00,06:05:10,stop_point:SP_2194,Guilhermy,5
+2301048,06:06:00,06:06:10,stop_point:SP_3022,La Ramée,6
+2301048,06:06:00,06:06:10,stop_point:SP_4854,Grillou,7
+2301048,06:07:00,06:07:10,stop_point:SP_2948,Tucaut,8
+2301048,06:08:00,06:08:10,stop_point:SP_3436,Ecarts,9
+2301048,06:09:00,06:09:10,stop_point:SP_363,Canal,10
+2301048,06:10:00,06:10:10,stop_point:SP_1023,Bordenoire,11
+2301048,06:12:00,06:12:10,stop_point:SP_2726,La Ramée Sud,12
+2301048,06:13:00,06:13:10,stop_point:SP_2208,Passerive,13
+2301048,06:14:00,06:14:10,stop_point:SP_579,Marquisat,14
+2301048,06:14:00,06:14:10,stop_point:SP_3608,Pasteur,15
+2301048,06:15:00,06:15:10,stop_point:SP_2062,Cèdres,16
+2301048,06:15:00,06:15:10,stop_point:SP_348,Général Leclerc,17
+2301048,06:16:00,06:16:10,stop_point:SP_2379,Collège Labitrie,18
+2301048,06:16:00,06:16:10,stop_point:SP_3740,Bordeneuve,19
+2301048,06:17:00,06:17:10,stop_point:SP_4840,Jean Gay,20
+2301048,06:18:00,06:18:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301049,06:25:00,06:25:10,stop_point:SP_4009,Basso Cambo,1
+2301049,06:26:00,06:26:10,stop_point:SP_1645,Mesplé,2
+2301049,06:27:00,06:27:10,stop_point:SP_3138,Mounède,3
+2301049,06:29:00,06:29:10,stop_point:SP_3905,De Croutte,4
+2301049,06:30:00,06:30:10,stop_point:SP_2194,Guilhermy,5
+2301049,06:31:00,06:31:10,stop_point:SP_3022,La Ramée,6
+2301049,06:31:00,06:31:10,stop_point:SP_4854,Grillou,7
+2301049,06:32:00,06:32:10,stop_point:SP_2948,Tucaut,8
+2301049,06:33:00,06:33:10,stop_point:SP_3436,Ecarts,9
+2301049,06:34:00,06:34:10,stop_point:SP_363,Canal,10
+2301049,06:35:00,06:35:10,stop_point:SP_1023,Bordenoire,11
+2301049,06:37:00,06:37:10,stop_point:SP_2726,La Ramée Sud,12
+2301049,06:38:00,06:38:10,stop_point:SP_2208,Passerive,13
+2301049,06:39:00,06:39:10,stop_point:SP_579,Marquisat,14
+2301049,06:40:00,06:40:10,stop_point:SP_3608,Pasteur,15
+2301049,06:41:00,06:41:10,stop_point:SP_2062,Cèdres,16
+2301049,06:41:00,06:41:10,stop_point:SP_348,Général Leclerc,17
+2301049,06:42:00,06:42:10,stop_point:SP_2379,Collège Labitrie,18
+2301049,06:42:00,06:42:10,stop_point:SP_3740,Bordeneuve,19
+2301049,06:43:00,06:43:10,stop_point:SP_4840,Jean Gay,20
+2301049,06:44:00,06:44:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301050,06:50:00,06:50:10,stop_point:SP_4009,Basso Cambo,1
+2301050,06:51:00,06:51:10,stop_point:SP_1645,Mesplé,2
+2301050,06:52:00,06:52:10,stop_point:SP_3138,Mounède,3
+2301050,06:54:00,06:54:10,stop_point:SP_3905,De Croutte,4
+2301050,06:55:00,06:55:10,stop_point:SP_2194,Guilhermy,5
+2301050,06:56:00,06:56:10,stop_point:SP_3022,La Ramée,6
+2301050,06:57:00,06:57:10,stop_point:SP_4854,Grillou,7
+2301050,06:58:00,06:58:10,stop_point:SP_2948,Tucaut,8
+2301050,06:59:00,06:59:10,stop_point:SP_3436,Ecarts,9
+2301050,07:00:00,07:00:10,stop_point:SP_363,Canal,10
+2301050,07:01:00,07:01:10,stop_point:SP_1023,Bordenoire,11
+2301050,07:03:00,07:03:10,stop_point:SP_2726,La Ramée Sud,12
+2301050,07:04:00,07:04:10,stop_point:SP_2208,Passerive,13
+2301050,07:06:00,07:06:10,stop_point:SP_579,Marquisat,14
+2301050,07:07:00,07:07:10,stop_point:SP_3608,Pasteur,15
+2301050,07:08:00,07:08:10,stop_point:SP_2062,Cèdres,16
+2301050,07:09:00,07:09:10,stop_point:SP_348,Général Leclerc,17
+2301050,07:10:00,07:10:10,stop_point:SP_2379,Collège Labitrie,18
+2301050,07:10:00,07:10:10,stop_point:SP_3740,Bordeneuve,19
+2301050,07:11:00,07:11:10,stop_point:SP_4840,Jean Gay,20
+2301050,07:12:00,07:12:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301051,07:10:00,07:10:10,stop_point:SP_4009,Basso Cambo,1
+2301051,07:12:00,07:12:10,stop_point:SP_1645,Mesplé,2
+2301051,07:13:00,07:13:10,stop_point:SP_3138,Mounède,3
+2301051,07:14:00,07:14:10,stop_point:SP_3905,De Croutte,4
+2301051,07:16:00,07:16:10,stop_point:SP_2194,Guilhermy,5
+2301051,07:17:00,07:17:10,stop_point:SP_3022,La Ramée,6
+2301051,07:18:00,07:18:10,stop_point:SP_4854,Grillou,7
+2301051,07:19:00,07:19:10,stop_point:SP_2948,Tucaut,8
+2301051,07:21:00,07:21:10,stop_point:SP_3436,Ecarts,9
+2301051,07:22:00,07:22:10,stop_point:SP_363,Canal,10
+2301051,07:23:00,07:23:10,stop_point:SP_1023,Bordenoire,11
+2301051,07:25:00,07:25:10,stop_point:SP_2726,La Ramée Sud,12
+2301051,07:27:00,07:27:10,stop_point:SP_2208,Passerive,13
+2301051,07:29:00,07:29:10,stop_point:SP_579,Marquisat,14
+2301051,07:31:00,07:31:10,stop_point:SP_3608,Pasteur,15
+2301051,07:33:00,07:33:10,stop_point:SP_2062,Cèdres,16
+2301051,07:34:00,07:34:10,stop_point:SP_348,Général Leclerc,17
+2301051,07:36:00,07:36:10,stop_point:SP_2379,Collège Labitrie,18
+2301051,07:36:00,07:36:10,stop_point:SP_3740,Bordeneuve,19
+2301051,07:37:00,07:37:10,stop_point:SP_4840,Jean Gay,20
+2301051,07:38:00,07:38:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301052,07:35:00,07:35:10,stop_point:SP_4009,Basso Cambo,1
+2301052,07:37:00,07:37:10,stop_point:SP_1645,Mesplé,2
+2301052,07:38:00,07:38:10,stop_point:SP_3138,Mounède,3
+2301052,07:39:00,07:39:10,stop_point:SP_3905,De Croutte,4
+2301052,07:41:00,07:41:10,stop_point:SP_2194,Guilhermy,5
+2301052,07:42:00,07:42:10,stop_point:SP_3022,La Ramée,6
+2301052,07:43:00,07:43:10,stop_point:SP_4854,Grillou,7
+2301052,07:44:00,07:44:10,stop_point:SP_2948,Tucaut,8
+2301052,07:46:00,07:46:10,stop_point:SP_3436,Ecarts,9
+2301052,07:47:00,07:47:10,stop_point:SP_363,Canal,10
+2301052,07:48:00,07:48:10,stop_point:SP_1023,Bordenoire,11
+2301052,07:50:00,07:50:10,stop_point:SP_2726,La Ramée Sud,12
+2301052,07:52:00,07:52:10,stop_point:SP_2208,Passerive,13
+2301052,07:55:00,07:55:10,stop_point:SP_579,Marquisat,14
+2301052,07:57:00,07:57:10,stop_point:SP_3608,Pasteur,15
+2301052,08:00:00,08:00:10,stop_point:SP_2062,Cèdres,16
+2301052,08:01:00,08:01:10,stop_point:SP_348,Général Leclerc,17
+2301052,08:03:00,08:03:10,stop_point:SP_2379,Collège Labitrie,18
+2301052,08:03:00,08:03:10,stop_point:SP_3740,Bordeneuve,19
+2301052,08:04:00,08:04:10,stop_point:SP_4840,Jean Gay,20
+2301052,08:05:00,08:05:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301053,08:15:00,08:15:10,stop_point:SP_4009,Basso Cambo,1
+2301053,08:17:00,08:17:10,stop_point:SP_1645,Mesplé,2
+2301053,08:18:00,08:18:10,stop_point:SP_3138,Mounède,3
+2301053,08:20:00,08:20:10,stop_point:SP_3905,De Croutte,4
+2301053,08:22:00,08:22:10,stop_point:SP_2194,Guilhermy,5
+2301053,08:23:00,08:23:10,stop_point:SP_3022,La Ramée,6
+2301053,08:24:00,08:24:10,stop_point:SP_4854,Grillou,7
+2301053,08:25:00,08:25:10,stop_point:SP_2948,Tucaut,8
+2301053,08:26:00,08:26:10,stop_point:SP_3436,Ecarts,9
+2301053,08:27:00,08:27:10,stop_point:SP_363,Canal,10
+2301053,08:28:00,08:28:10,stop_point:SP_1023,Bordenoire,11
+2301053,08:30:00,08:30:10,stop_point:SP_2726,La Ramée Sud,12
+2301053,08:32:00,08:32:10,stop_point:SP_2208,Passerive,13
+2301053,08:34:00,08:34:10,stop_point:SP_579,Marquisat,14
+2301053,08:35:00,08:35:10,stop_point:SP_3608,Pasteur,15
+2301053,08:38:00,08:38:10,stop_point:SP_2062,Cèdres,16
+2301053,08:38:00,08:38:10,stop_point:SP_348,Général Leclerc,17
+2301053,08:40:00,08:40:10,stop_point:SP_2379,Collège Labitrie,18
+2301053,08:40:00,08:40:10,stop_point:SP_3740,Bordeneuve,19
+2301053,08:41:00,08:41:10,stop_point:SP_4840,Jean Gay,20
+2301053,08:42:00,08:42:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301054,08:50:00,08:50:10,stop_point:SP_4009,Basso Cambo,1
+2301054,08:52:00,08:52:10,stop_point:SP_1645,Mesplé,2
+2301054,08:53:00,08:53:10,stop_point:SP_3138,Mounède,3
+2301054,08:55:00,08:55:10,stop_point:SP_3905,De Croutte,4
+2301054,08:57:00,08:57:10,stop_point:SP_2194,Guilhermy,5
+2301054,08:58:00,08:58:10,stop_point:SP_3022,La Ramée,6
+2301054,08:59:00,08:59:10,stop_point:SP_4854,Grillou,7
+2301054,09:00:00,09:00:10,stop_point:SP_2948,Tucaut,8
+2301054,09:01:00,09:01:10,stop_point:SP_3436,Ecarts,9
+2301054,09:02:00,09:02:10,stop_point:SP_363,Canal,10
+2301054,09:03:00,09:03:10,stop_point:SP_1023,Bordenoire,11
+2301054,09:05:00,09:05:10,stop_point:SP_2726,La Ramée Sud,12
+2301054,09:06:00,09:06:10,stop_point:SP_2208,Passerive,13
+2301054,09:07:00,09:07:10,stop_point:SP_579,Marquisat,14
+2301054,09:08:00,09:08:10,stop_point:SP_3608,Pasteur,15
+2301054,09:10:00,09:10:10,stop_point:SP_2062,Cèdres,16
+2301054,09:10:00,09:10:10,stop_point:SP_348,Général Leclerc,17
+2301054,09:11:00,09:11:10,stop_point:SP_2379,Collège Labitrie,18
+2301054,09:11:00,09:11:10,stop_point:SP_3740,Bordeneuve,19
+2301054,09:12:00,09:12:10,stop_point:SP_4840,Jean Gay,20
+2301054,09:13:00,09:13:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301055,09:20:00,09:20:10,stop_point:SP_4009,Basso Cambo,1
+2301055,09:21:00,09:21:10,stop_point:SP_1645,Mesplé,2
+2301055,09:22:00,09:22:10,stop_point:SP_3138,Mounède,3
+2301055,09:24:00,09:24:10,stop_point:SP_3905,De Croutte,4
+2301055,09:25:00,09:25:10,stop_point:SP_2194,Guilhermy,5
+2301055,09:26:00,09:26:10,stop_point:SP_3022,La Ramée,6
+2301055,09:27:00,09:27:10,stop_point:SP_4854,Grillou,7
+2301055,09:28:00,09:28:10,stop_point:SP_2948,Tucaut,8
+2301055,09:29:00,09:29:10,stop_point:SP_3436,Ecarts,9
+2301055,09:30:00,09:30:10,stop_point:SP_363,Canal,10
+2301055,09:31:00,09:31:10,stop_point:SP_1023,Bordenoire,11
+2301055,09:33:00,09:33:10,stop_point:SP_2726,La Ramée Sud,12
+2301055,09:34:00,09:34:10,stop_point:SP_2208,Passerive,13
+2301055,09:35:00,09:35:10,stop_point:SP_579,Marquisat,14
+2301055,09:36:00,09:36:10,stop_point:SP_3608,Pasteur,15
+2301055,09:37:00,09:37:10,stop_point:SP_2062,Cèdres,16
+2301055,09:37:00,09:37:10,stop_point:SP_348,Général Leclerc,17
+2301055,09:38:00,09:38:10,stop_point:SP_2379,Collège Labitrie,18
+2301055,09:38:00,09:38:10,stop_point:SP_3740,Bordeneuve,19
+2301055,09:39:00,09:39:10,stop_point:SP_4840,Jean Gay,20
+2301055,09:40:00,09:40:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301056,09:55:00,09:55:10,stop_point:SP_4009,Basso Cambo,1
+2301056,09:56:00,09:56:10,stop_point:SP_1645,Mesplé,2
+2301056,09:57:00,09:57:10,stop_point:SP_3138,Mounède,3
+2301056,09:59:00,09:59:10,stop_point:SP_3905,De Croutte,4
+2301056,10:00:00,10:00:10,stop_point:SP_2194,Guilhermy,5
+2301056,10:01:00,10:01:10,stop_point:SP_3022,La Ramée,6
+2301056,10:02:00,10:02:10,stop_point:SP_4854,Grillou,7
+2301056,10:03:00,10:03:10,stop_point:SP_2948,Tucaut,8
+2301056,10:04:00,10:04:10,stop_point:SP_3436,Ecarts,9
+2301056,10:05:00,10:05:10,stop_point:SP_363,Canal,10
+2301056,10:06:00,10:06:10,stop_point:SP_1023,Bordenoire,11
+2301056,10:08:00,10:08:10,stop_point:SP_2726,La Ramée Sud,12
+2301056,10:09:00,10:09:10,stop_point:SP_2208,Passerive,13
+2301056,10:10:00,10:10:10,stop_point:SP_579,Marquisat,14
+2301056,10:11:00,10:11:10,stop_point:SP_3608,Pasteur,15
+2301056,10:12:00,10:12:10,stop_point:SP_2062,Cèdres,16
+2301056,10:12:00,10:12:10,stop_point:SP_348,Général Leclerc,17
+2301056,10:13:00,10:13:10,stop_point:SP_2379,Collège Labitrie,18
+2301056,10:13:00,10:13:10,stop_point:SP_3740,Bordeneuve,19
+2301056,10:14:00,10:14:10,stop_point:SP_4840,Jean Gay,20
+2301056,10:15:00,10:15:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301057,10:30:00,10:30:10,stop_point:SP_4009,Basso Cambo,1
+2301057,10:31:00,10:31:10,stop_point:SP_1645,Mesplé,2
+2301057,10:32:00,10:32:10,stop_point:SP_3138,Mounède,3
+2301057,10:34:00,10:34:10,stop_point:SP_3905,De Croutte,4
+2301057,10:35:00,10:35:10,stop_point:SP_2194,Guilhermy,5
+2301057,10:36:00,10:36:10,stop_point:SP_3022,La Ramée,6
+2301057,10:37:00,10:37:10,stop_point:SP_4854,Grillou,7
+2301057,10:38:00,10:38:10,stop_point:SP_2948,Tucaut,8
+2301057,10:39:00,10:39:10,stop_point:SP_3436,Ecarts,9
+2301057,10:40:00,10:40:10,stop_point:SP_363,Canal,10
+2301057,10:41:00,10:41:10,stop_point:SP_1023,Bordenoire,11
+2301057,10:43:00,10:43:10,stop_point:SP_2726,La Ramée Sud,12
+2301057,10:44:00,10:44:10,stop_point:SP_2208,Passerive,13
+2301057,10:45:00,10:45:10,stop_point:SP_579,Marquisat,14
+2301057,10:46:00,10:46:10,stop_point:SP_3608,Pasteur,15
+2301057,10:47:00,10:47:10,stop_point:SP_2062,Cèdres,16
+2301057,10:47:00,10:47:10,stop_point:SP_348,Général Leclerc,17
+2301057,10:48:00,10:48:10,stop_point:SP_2379,Collège Labitrie,18
+2301057,10:48:00,10:48:10,stop_point:SP_3740,Bordeneuve,19
+2301057,10:49:00,10:49:10,stop_point:SP_4840,Jean Gay,20
+2301057,10:50:00,10:50:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301058,11:05:00,11:05:10,stop_point:SP_4009,Basso Cambo,1
+2301058,11:06:00,11:06:10,stop_point:SP_1645,Mesplé,2
+2301058,11:07:00,11:07:10,stop_point:SP_3138,Mounède,3
+2301058,11:09:00,11:09:10,stop_point:SP_3905,De Croutte,4
+2301058,11:10:00,11:10:10,stop_point:SP_2194,Guilhermy,5
+2301058,11:11:00,11:11:10,stop_point:SP_3022,La Ramée,6
+2301058,11:12:00,11:12:10,stop_point:SP_4854,Grillou,7
+2301058,11:13:00,11:13:10,stop_point:SP_2948,Tucaut,8
+2301058,11:14:00,11:14:10,stop_point:SP_3436,Ecarts,9
+2301058,11:15:00,11:15:10,stop_point:SP_363,Canal,10
+2301058,11:16:00,11:16:10,stop_point:SP_1023,Bordenoire,11
+2301058,11:18:00,11:18:10,stop_point:SP_2726,La Ramée Sud,12
+2301058,11:19:00,11:19:10,stop_point:SP_2208,Passerive,13
+2301058,11:20:00,11:20:10,stop_point:SP_579,Marquisat,14
+2301058,11:21:00,11:21:10,stop_point:SP_3608,Pasteur,15
+2301058,11:22:00,11:22:10,stop_point:SP_2062,Cèdres,16
+2301058,11:22:00,11:22:10,stop_point:SP_348,Général Leclerc,17
+2301058,11:23:00,11:23:10,stop_point:SP_2379,Collège Labitrie,18
+2301058,11:23:00,11:23:10,stop_point:SP_3740,Bordeneuve,19
+2301058,11:24:00,11:24:10,stop_point:SP_4840,Jean Gay,20
+2301058,11:25:00,11:25:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301059,11:40:00,11:40:10,stop_point:SP_4009,Basso Cambo,1
+2301059,11:41:00,11:41:10,stop_point:SP_1645,Mesplé,2
+2301059,11:42:00,11:42:10,stop_point:SP_3138,Mounède,3
+2301059,11:44:00,11:44:10,stop_point:SP_3905,De Croutte,4
+2301059,11:45:00,11:45:10,stop_point:SP_2194,Guilhermy,5
+2301059,11:46:00,11:46:10,stop_point:SP_3022,La Ramée,6
+2301059,11:47:00,11:47:10,stop_point:SP_4854,Grillou,7
+2301059,11:48:00,11:48:10,stop_point:SP_2948,Tucaut,8
+2301059,11:49:00,11:49:10,stop_point:SP_3436,Ecarts,9
+2301059,11:50:00,11:50:10,stop_point:SP_363,Canal,10
+2301059,11:51:00,11:51:10,stop_point:SP_1023,Bordenoire,11
+2301059,11:53:00,11:53:10,stop_point:SP_2726,La Ramée Sud,12
+2301059,11:54:00,11:54:10,stop_point:SP_2208,Passerive,13
+2301059,11:55:00,11:55:10,stop_point:SP_579,Marquisat,14
+2301059,11:56:00,11:56:10,stop_point:SP_3608,Pasteur,15
+2301059,11:57:00,11:57:10,stop_point:SP_2062,Cèdres,16
+2301059,11:57:00,11:57:10,stop_point:SP_348,Général Leclerc,17
+2301059,11:58:00,11:58:10,stop_point:SP_2379,Collège Labitrie,18
+2301059,11:58:00,11:58:10,stop_point:SP_3740,Bordeneuve,19
+2301059,11:59:00,11:59:10,stop_point:SP_4840,Jean Gay,20
+2301059,12:00:00,12:00:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301060,12:15:00,12:15:10,stop_point:SP_4009,Basso Cambo,1
+2301060,12:16:00,12:16:10,stop_point:SP_1645,Mesplé,2
+2301060,12:17:00,12:17:10,stop_point:SP_3138,Mounède,3
+2301060,12:19:00,12:19:10,stop_point:SP_3905,De Croutte,4
+2301060,12:20:00,12:20:10,stop_point:SP_2194,Guilhermy,5
+2301060,12:21:00,12:21:10,stop_point:SP_3022,La Ramée,6
+2301060,12:22:00,12:22:10,stop_point:SP_4854,Grillou,7
+2301060,12:23:00,12:23:10,stop_point:SP_2948,Tucaut,8
+2301060,12:24:00,12:24:10,stop_point:SP_3436,Ecarts,9
+2301060,12:25:00,12:25:10,stop_point:SP_363,Canal,10
+2301060,12:26:00,12:26:10,stop_point:SP_1023,Bordenoire,11
+2301060,12:28:00,12:28:10,stop_point:SP_2726,La Ramée Sud,12
+2301060,12:29:00,12:29:10,stop_point:SP_2208,Passerive,13
+2301060,12:30:00,12:30:10,stop_point:SP_579,Marquisat,14
+2301060,12:31:00,12:31:10,stop_point:SP_3608,Pasteur,15
+2301060,12:32:00,12:32:10,stop_point:SP_2062,Cèdres,16
+2301060,12:32:00,12:32:10,stop_point:SP_348,Général Leclerc,17
+2301060,12:33:00,12:33:10,stop_point:SP_2379,Collège Labitrie,18
+2301060,12:33:00,12:33:10,stop_point:SP_3740,Bordeneuve,19
+2301060,12:34:00,12:34:10,stop_point:SP_4840,Jean Gay,20
+2301060,12:35:00,12:35:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301061,12:50:00,12:50:10,stop_point:SP_4009,Basso Cambo,1
+2301061,12:51:00,12:51:10,stop_point:SP_1645,Mesplé,2
+2301061,12:52:00,12:52:10,stop_point:SP_3138,Mounède,3
+2301061,12:54:00,12:54:10,stop_point:SP_3905,De Croutte,4
+2301061,12:55:00,12:55:10,stop_point:SP_2194,Guilhermy,5
+2301061,12:56:00,12:56:10,stop_point:SP_3022,La Ramée,6
+2301061,12:57:00,12:57:10,stop_point:SP_4854,Grillou,7
+2301061,12:58:00,12:58:10,stop_point:SP_2948,Tucaut,8
+2301061,12:59:00,12:59:10,stop_point:SP_3436,Ecarts,9
+2301061,13:00:00,13:00:10,stop_point:SP_363,Canal,10
+2301061,13:01:00,13:01:10,stop_point:SP_1023,Bordenoire,11
+2301061,13:03:00,13:03:10,stop_point:SP_2726,La Ramée Sud,12
+2301061,13:04:00,13:04:10,stop_point:SP_2208,Passerive,13
+2301061,13:05:00,13:05:10,stop_point:SP_579,Marquisat,14
+2301061,13:06:00,13:06:10,stop_point:SP_3608,Pasteur,15
+2301061,13:07:00,13:07:10,stop_point:SP_2062,Cèdres,16
+2301061,13:07:00,13:07:10,stop_point:SP_348,Général Leclerc,17
+2301061,13:08:00,13:08:10,stop_point:SP_2379,Collège Labitrie,18
+2301061,13:08:00,13:08:10,stop_point:SP_3740,Bordeneuve,19
+2301061,13:09:00,13:09:10,stop_point:SP_4840,Jean Gay,20
+2301061,13:10:00,13:10:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301062,13:25:00,13:25:10,stop_point:SP_4009,Basso Cambo,1
+2301062,13:26:00,13:26:10,stop_point:SP_1645,Mesplé,2
+2301062,13:27:00,13:27:10,stop_point:SP_3138,Mounède,3
+2301062,13:29:00,13:29:10,stop_point:SP_3905,De Croutte,4
+2301062,13:30:00,13:30:10,stop_point:SP_2194,Guilhermy,5
+2301062,13:31:00,13:31:10,stop_point:SP_3022,La Ramée,6
+2301062,13:32:00,13:32:10,stop_point:SP_4854,Grillou,7
+2301062,13:33:00,13:33:10,stop_point:SP_2948,Tucaut,8
+2301062,13:34:00,13:34:10,stop_point:SP_3436,Ecarts,9
+2301062,13:35:00,13:35:10,stop_point:SP_363,Canal,10
+2301062,13:36:00,13:36:10,stop_point:SP_1023,Bordenoire,11
+2301062,13:38:00,13:38:10,stop_point:SP_2726,La Ramée Sud,12
+2301062,13:39:00,13:39:10,stop_point:SP_2208,Passerive,13
+2301062,13:40:00,13:40:10,stop_point:SP_579,Marquisat,14
+2301062,13:41:00,13:41:10,stop_point:SP_3608,Pasteur,15
+2301062,13:42:00,13:42:10,stop_point:SP_2062,Cèdres,16
+2301062,13:42:00,13:42:10,stop_point:SP_348,Général Leclerc,17
+2301062,13:43:00,13:43:10,stop_point:SP_2379,Collège Labitrie,18
+2301062,13:43:00,13:43:10,stop_point:SP_3740,Bordeneuve,19
+2301062,13:44:00,13:44:10,stop_point:SP_4840,Jean Gay,20
+2301062,13:45:00,13:45:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301063,14:00:00,14:00:10,stop_point:SP_4009,Basso Cambo,1
+2301063,14:01:00,14:01:10,stop_point:SP_1645,Mesplé,2
+2301063,14:02:00,14:02:10,stop_point:SP_3138,Mounède,3
+2301063,14:04:00,14:04:10,stop_point:SP_3905,De Croutte,4
+2301063,14:05:00,14:05:10,stop_point:SP_2194,Guilhermy,5
+2301063,14:06:00,14:06:10,stop_point:SP_3022,La Ramée,6
+2301063,14:07:00,14:07:10,stop_point:SP_4854,Grillou,7
+2301063,14:08:00,14:08:10,stop_point:SP_2948,Tucaut,8
+2301063,14:09:00,14:09:10,stop_point:SP_3436,Ecarts,9
+2301063,14:10:00,14:10:10,stop_point:SP_363,Canal,10
+2301063,14:11:00,14:11:10,stop_point:SP_1023,Bordenoire,11
+2301063,14:13:00,14:13:10,stop_point:SP_2726,La Ramée Sud,12
+2301063,14:14:00,14:14:10,stop_point:SP_2208,Passerive,13
+2301063,14:15:00,14:15:10,stop_point:SP_579,Marquisat,14
+2301063,14:16:00,14:16:10,stop_point:SP_3608,Pasteur,15
+2301063,14:17:00,14:17:10,stop_point:SP_2062,Cèdres,16
+2301063,14:17:00,14:17:10,stop_point:SP_348,Général Leclerc,17
+2301063,14:18:00,14:18:10,stop_point:SP_2379,Collège Labitrie,18
+2301063,14:18:00,14:18:10,stop_point:SP_3740,Bordeneuve,19
+2301063,14:19:00,14:19:10,stop_point:SP_4840,Jean Gay,20
+2301063,14:20:00,14:20:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301064,14:35:00,14:35:10,stop_point:SP_4009,Basso Cambo,1
+2301064,14:36:00,14:36:10,stop_point:SP_1645,Mesplé,2
+2301064,14:37:00,14:37:10,stop_point:SP_3138,Mounède,3
+2301064,14:39:00,14:39:10,stop_point:SP_3905,De Croutte,4
+2301064,14:40:00,14:40:10,stop_point:SP_2194,Guilhermy,5
+2301064,14:41:00,14:41:10,stop_point:SP_3022,La Ramée,6
+2301064,14:42:00,14:42:10,stop_point:SP_4854,Grillou,7
+2301064,14:43:00,14:43:10,stop_point:SP_2948,Tucaut,8
+2301064,14:44:00,14:44:10,stop_point:SP_3436,Ecarts,9
+2301064,14:45:00,14:45:10,stop_point:SP_363,Canal,10
+2301064,14:46:00,14:46:10,stop_point:SP_1023,Bordenoire,11
+2301064,14:48:00,14:48:10,stop_point:SP_2726,La Ramée Sud,12
+2301064,14:49:00,14:49:10,stop_point:SP_2208,Passerive,13
+2301064,14:50:00,14:50:10,stop_point:SP_579,Marquisat,14
+2301064,14:51:00,14:51:10,stop_point:SP_3608,Pasteur,15
+2301064,14:52:00,14:52:10,stop_point:SP_2062,Cèdres,16
+2301064,14:52:00,14:52:10,stop_point:SP_348,Général Leclerc,17
+2301064,14:53:00,14:53:10,stop_point:SP_2379,Collège Labitrie,18
+2301064,14:53:00,14:53:10,stop_point:SP_3740,Bordeneuve,19
+2301064,14:54:00,14:54:10,stop_point:SP_4840,Jean Gay,20
+2301064,14:55:00,14:55:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301065,15:10:00,15:10:10,stop_point:SP_4009,Basso Cambo,1
+2301065,15:11:00,15:11:10,stop_point:SP_1645,Mesplé,2
+2301065,15:12:00,15:12:10,stop_point:SP_3138,Mounède,3
+2301065,15:14:00,15:14:10,stop_point:SP_3905,De Croutte,4
+2301065,15:15:00,15:15:10,stop_point:SP_2194,Guilhermy,5
+2301065,15:16:00,15:16:10,stop_point:SP_3022,La Ramée,6
+2301065,15:17:00,15:17:10,stop_point:SP_4854,Grillou,7
+2301065,15:18:00,15:18:10,stop_point:SP_2948,Tucaut,8
+2301065,15:19:00,15:19:10,stop_point:SP_3436,Ecarts,9
+2301065,15:20:00,15:20:10,stop_point:SP_363,Canal,10
+2301065,15:21:00,15:21:10,stop_point:SP_1023,Bordenoire,11
+2301065,15:23:00,15:23:10,stop_point:SP_2726,La Ramée Sud,12
+2301065,15:24:00,15:24:10,stop_point:SP_2208,Passerive,13
+2301065,15:25:00,15:25:10,stop_point:SP_579,Marquisat,14
+2301065,15:26:00,15:26:10,stop_point:SP_3608,Pasteur,15
+2301065,15:27:00,15:27:10,stop_point:SP_2062,Cèdres,16
+2301065,15:27:00,15:27:10,stop_point:SP_348,Général Leclerc,17
+2301065,15:28:00,15:28:10,stop_point:SP_2379,Collège Labitrie,18
+2301065,15:28:00,15:28:10,stop_point:SP_3740,Bordeneuve,19
+2301065,15:29:00,15:29:10,stop_point:SP_4840,Jean Gay,20
+2301065,15:30:00,15:30:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301066,15:35:00,15:35:10,stop_point:SP_4009,Basso Cambo,1
+2301066,15:36:00,15:36:10,stop_point:SP_1645,Mesplé,2
+2301066,15:37:00,15:37:10,stop_point:SP_3138,Mounède,3
+2301066,15:39:00,15:39:10,stop_point:SP_3905,De Croutte,4
+2301066,15:40:00,15:40:10,stop_point:SP_2194,Guilhermy,5
+2301066,15:41:00,15:41:10,stop_point:SP_3022,La Ramée,6
+2301066,15:42:00,15:42:10,stop_point:SP_4854,Grillou,7
+2301066,15:43:00,15:43:10,stop_point:SP_2948,Tucaut,8
+2301066,15:44:00,15:44:10,stop_point:SP_3436,Ecarts,9
+2301066,15:45:00,15:45:10,stop_point:SP_363,Canal,10
+2301066,15:46:00,15:46:10,stop_point:SP_1023,Bordenoire,11
+2301066,15:48:00,15:48:10,stop_point:SP_2726,La Ramée Sud,12
+2301066,15:49:00,15:49:10,stop_point:SP_2208,Passerive,13
+2301066,15:50:00,15:50:10,stop_point:SP_579,Marquisat,14
+2301066,15:51:00,15:51:10,stop_point:SP_3608,Pasteur,15
+2301066,15:52:00,15:52:10,stop_point:SP_2062,Cèdres,16
+2301066,15:52:00,15:52:10,stop_point:SP_348,Général Leclerc,17
+2301066,15:53:00,15:53:10,stop_point:SP_2379,Collège Labitrie,18
+2301066,15:53:00,15:53:10,stop_point:SP_3740,Bordeneuve,19
+2301066,15:54:00,15:54:10,stop_point:SP_4840,Jean Gay,20
+2301066,15:55:00,15:55:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301067,16:00:00,16:00:10,stop_point:SP_4009,Basso Cambo,1
+2301067,16:02:00,16:02:10,stop_point:SP_1645,Mesplé,2
+2301067,16:03:00,16:03:10,stop_point:SP_3138,Mounède,3
+2301067,16:04:00,16:04:10,stop_point:SP_3905,De Croutte,4
+2301067,16:06:00,16:06:10,stop_point:SP_2194,Guilhermy,5
+2301067,16:07:00,16:07:10,stop_point:SP_3022,La Ramée,6
+2301067,16:08:00,16:08:10,stop_point:SP_4854,Grillou,7
+2301067,16:09:00,16:09:10,stop_point:SP_2948,Tucaut,8
+2301067,16:10:00,16:10:10,stop_point:SP_3436,Ecarts,9
+2301067,16:11:00,16:11:10,stop_point:SP_363,Canal,10
+2301067,16:12:00,16:12:10,stop_point:SP_1023,Bordenoire,11
+2301067,16:14:00,16:14:10,stop_point:SP_2726,La Ramée Sud,12
+2301067,16:15:00,16:15:10,stop_point:SP_2208,Passerive,13
+2301067,16:16:00,16:16:10,stop_point:SP_579,Marquisat,14
+2301067,16:17:00,16:17:10,stop_point:SP_3608,Pasteur,15
+2301067,16:18:00,16:18:10,stop_point:SP_2062,Cèdres,16
+2301067,16:18:00,16:18:10,stop_point:SP_348,Général Leclerc,17
+2301067,16:19:00,16:19:10,stop_point:SP_2379,Collège Labitrie,18
+2301067,16:19:00,16:19:10,stop_point:SP_3740,Bordeneuve,19
+2301067,16:20:00,16:20:10,stop_point:SP_4840,Jean Gay,20
+2301067,16:21:00,16:21:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301068,16:25:00,16:25:10,stop_point:SP_4009,Basso Cambo,1
+2301068,16:27:00,16:27:10,stop_point:SP_1645,Mesplé,2
+2301068,16:28:00,16:28:10,stop_point:SP_3138,Mounède,3
+2301068,16:29:00,16:29:10,stop_point:SP_3905,De Croutte,4
+2301068,16:31:00,16:31:10,stop_point:SP_2194,Guilhermy,5
+2301068,16:32:00,16:32:10,stop_point:SP_3022,La Ramée,6
+2301068,16:33:00,16:33:10,stop_point:SP_4854,Grillou,7
+2301068,16:34:00,16:34:10,stop_point:SP_2948,Tucaut,8
+2301068,16:35:00,16:35:10,stop_point:SP_3436,Ecarts,9
+2301068,16:36:00,16:36:10,stop_point:SP_363,Canal,10
+2301068,16:37:00,16:37:10,stop_point:SP_1023,Bordenoire,11
+2301068,16:39:00,16:39:10,stop_point:SP_2726,La Ramée Sud,12
+2301068,16:40:00,16:40:10,stop_point:SP_2208,Passerive,13
+2301068,16:41:00,16:41:10,stop_point:SP_579,Marquisat,14
+2301068,16:42:00,16:42:10,stop_point:SP_3608,Pasteur,15
+2301068,16:44:00,16:44:10,stop_point:SP_2062,Cèdres,16
+2301068,16:44:00,16:44:10,stop_point:SP_348,Général Leclerc,17
+2301068,16:45:00,16:45:10,stop_point:SP_2379,Collège Labitrie,18
+2301068,16:45:00,16:45:10,stop_point:SP_3740,Bordeneuve,19
+2301068,16:46:00,16:46:10,stop_point:SP_4840,Jean Gay,20
+2301068,16:47:00,16:47:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301069,16:50:00,16:50:10,stop_point:SP_4009,Basso Cambo,1
+2301069,16:52:00,16:52:10,stop_point:SP_1645,Mesplé,2
+2301069,16:53:00,16:53:10,stop_point:SP_3138,Mounède,3
+2301069,16:54:00,16:54:10,stop_point:SP_3905,De Croutte,4
+2301069,16:56:00,16:56:10,stop_point:SP_2194,Guilhermy,5
+2301069,16:57:00,16:57:10,stop_point:SP_3022,La Ramée,6
+2301069,16:58:00,16:58:10,stop_point:SP_4854,Grillou,7
+2301069,16:59:00,16:59:10,stop_point:SP_2948,Tucaut,8
+2301069,17:01:00,17:01:10,stop_point:SP_3436,Ecarts,9
+2301069,17:02:00,17:02:10,stop_point:SP_363,Canal,10
+2301069,17:04:00,17:04:10,stop_point:SP_1023,Bordenoire,11
+2301069,17:06:00,17:06:10,stop_point:SP_2726,La Ramée Sud,12
+2301069,17:07:00,17:07:10,stop_point:SP_2208,Passerive,13
+2301069,17:08:00,17:08:10,stop_point:SP_579,Marquisat,14
+2301069,17:09:00,17:09:10,stop_point:SP_3608,Pasteur,15
+2301069,17:11:00,17:11:10,stop_point:SP_2062,Cèdres,16
+2301069,17:11:00,17:11:10,stop_point:SP_348,Général Leclerc,17
+2301069,17:12:00,17:12:10,stop_point:SP_2379,Collège Labitrie,18
+2301069,17:12:00,17:12:10,stop_point:SP_3740,Bordeneuve,19
+2301069,17:13:00,17:13:10,stop_point:SP_4840,Jean Gay,20
+2301069,17:14:00,17:14:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301070,17:15:00,17:15:10,stop_point:SP_4009,Basso Cambo,1
+2301070,17:17:00,17:17:10,stop_point:SP_1645,Mesplé,2
+2301070,17:18:00,17:18:10,stop_point:SP_3138,Mounède,3
+2301070,17:20:00,17:20:10,stop_point:SP_3905,De Croutte,4
+2301070,17:22:00,17:22:10,stop_point:SP_2194,Guilhermy,5
+2301070,17:23:00,17:23:10,stop_point:SP_3022,La Ramée,6
+2301070,17:24:00,17:24:10,stop_point:SP_4854,Grillou,7
+2301070,17:25:00,17:25:10,stop_point:SP_2948,Tucaut,8
+2301070,17:27:00,17:27:10,stop_point:SP_3436,Ecarts,9
+2301070,17:28:00,17:28:10,stop_point:SP_363,Canal,10
+2301070,17:30:00,17:30:10,stop_point:SP_1023,Bordenoire,11
+2301070,17:32:00,17:32:10,stop_point:SP_2726,La Ramée Sud,12
+2301070,17:33:00,17:33:10,stop_point:SP_2208,Passerive,13
+2301070,17:34:00,17:34:10,stop_point:SP_579,Marquisat,14
+2301070,17:35:00,17:35:10,stop_point:SP_3608,Pasteur,15
+2301070,17:37:00,17:37:10,stop_point:SP_2062,Cèdres,16
+2301070,17:37:00,17:37:10,stop_point:SP_348,Général Leclerc,17
+2301070,17:38:00,17:38:10,stop_point:SP_2379,Collège Labitrie,18
+2301070,17:38:00,17:38:10,stop_point:SP_3740,Bordeneuve,19
+2301070,17:39:00,17:39:10,stop_point:SP_4840,Jean Gay,20
+2301070,17:40:00,17:40:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301071,17:40:00,17:40:10,stop_point:SP_4009,Basso Cambo,1
+2301071,17:42:00,17:42:10,stop_point:SP_1645,Mesplé,2
+2301071,17:43:00,17:43:10,stop_point:SP_3138,Mounède,3
+2301071,17:45:00,17:45:10,stop_point:SP_3905,De Croutte,4
+2301071,17:47:00,17:47:10,stop_point:SP_2194,Guilhermy,5
+2301071,17:48:00,17:48:10,stop_point:SP_3022,La Ramée,6
+2301071,17:49:00,17:49:10,stop_point:SP_4854,Grillou,7
+2301071,17:50:00,17:50:10,stop_point:SP_2948,Tucaut,8
+2301071,17:52:00,17:52:10,stop_point:SP_3436,Ecarts,9
+2301071,17:53:00,17:53:10,stop_point:SP_363,Canal,10
+2301071,17:55:00,17:55:10,stop_point:SP_1023,Bordenoire,11
+2301071,17:57:00,17:57:10,stop_point:SP_2726,La Ramée Sud,12
+2301071,17:58:00,17:58:10,stop_point:SP_2208,Passerive,13
+2301071,17:59:00,17:59:10,stop_point:SP_579,Marquisat,14
+2301071,18:00:00,18:00:10,stop_point:SP_3608,Pasteur,15
+2301071,18:02:00,18:02:10,stop_point:SP_2062,Cèdres,16
+2301071,18:02:00,18:02:10,stop_point:SP_348,Général Leclerc,17
+2301071,18:03:00,18:03:10,stop_point:SP_2379,Collège Labitrie,18
+2301071,18:03:00,18:03:10,stop_point:SP_3740,Bordeneuve,19
+2301071,18:04:00,18:04:10,stop_point:SP_4840,Jean Gay,20
+2301071,18:05:00,18:05:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301072,18:05:00,18:05:10,stop_point:SP_4009,Basso Cambo,1
+2301072,18:07:00,18:07:10,stop_point:SP_1645,Mesplé,2
+2301072,18:08:00,18:08:10,stop_point:SP_3138,Mounède,3
+2301072,18:10:00,18:10:10,stop_point:SP_3905,De Croutte,4
+2301072,18:12:00,18:12:10,stop_point:SP_2194,Guilhermy,5
+2301072,18:13:00,18:13:10,stop_point:SP_3022,La Ramée,6
+2301072,18:14:00,18:14:10,stop_point:SP_4854,Grillou,7
+2301072,18:15:00,18:15:10,stop_point:SP_2948,Tucaut,8
+2301072,18:17:00,18:17:10,stop_point:SP_3436,Ecarts,9
+2301072,18:18:00,18:18:10,stop_point:SP_363,Canal,10
+2301072,18:19:00,18:19:10,stop_point:SP_1023,Bordenoire,11
+2301072,18:21:00,18:21:10,stop_point:SP_2726,La Ramée Sud,12
+2301072,18:22:00,18:22:10,stop_point:SP_2208,Passerive,13
+2301072,18:23:00,18:23:10,stop_point:SP_579,Marquisat,14
+2301072,18:24:00,18:24:10,stop_point:SP_3608,Pasteur,15
+2301072,18:26:00,18:26:10,stop_point:SP_2062,Cèdres,16
+2301072,18:26:00,18:26:10,stop_point:SP_348,Général Leclerc,17
+2301072,18:27:00,18:27:10,stop_point:SP_2379,Collège Labitrie,18
+2301072,18:27:00,18:27:10,stop_point:SP_3740,Bordeneuve,19
+2301072,18:28:00,18:28:10,stop_point:SP_4840,Jean Gay,20
+2301072,18:29:00,18:29:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301073,18:30:00,18:30:10,stop_point:SP_4009,Basso Cambo,1
+2301073,18:32:00,18:32:10,stop_point:SP_1645,Mesplé,2
+2301073,18:33:00,18:33:10,stop_point:SP_3138,Mounède,3
+2301073,18:34:00,18:34:10,stop_point:SP_3905,De Croutte,4
+2301073,18:36:00,18:36:10,stop_point:SP_2194,Guilhermy,5
+2301073,18:37:00,18:37:10,stop_point:SP_3022,La Ramée,6
+2301073,18:38:00,18:38:10,stop_point:SP_4854,Grillou,7
+2301073,18:39:00,18:39:10,stop_point:SP_2948,Tucaut,8
+2301073,18:41:00,18:41:10,stop_point:SP_3436,Ecarts,9
+2301073,18:42:00,18:42:10,stop_point:SP_363,Canal,10
+2301073,18:43:00,18:43:10,stop_point:SP_1023,Bordenoire,11
+2301073,18:45:00,18:45:10,stop_point:SP_2726,La Ramée Sud,12
+2301073,18:46:00,18:46:10,stop_point:SP_2208,Passerive,13
+2301073,18:47:00,18:47:10,stop_point:SP_579,Marquisat,14
+2301073,18:48:00,18:48:10,stop_point:SP_3608,Pasteur,15
+2301073,18:50:00,18:50:10,stop_point:SP_2062,Cèdres,16
+2301073,18:50:00,18:50:10,stop_point:SP_348,Général Leclerc,17
+2301073,18:51:00,18:51:10,stop_point:SP_2379,Collège Labitrie,18
+2301073,18:51:00,18:51:10,stop_point:SP_3740,Bordeneuve,19
+2301073,18:52:00,18:52:10,stop_point:SP_4840,Jean Gay,20
+2301073,18:53:00,18:53:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301074,19:00:00,19:00:10,stop_point:SP_4009,Basso Cambo,1
+2301074,19:02:00,19:02:10,stop_point:SP_1645,Mesplé,2
+2301074,19:03:00,19:03:10,stop_point:SP_3138,Mounède,3
+2301074,19:04:00,19:04:10,stop_point:SP_3905,De Croutte,4
+2301074,19:06:00,19:06:10,stop_point:SP_2194,Guilhermy,5
+2301074,19:07:00,19:07:10,stop_point:SP_3022,La Ramée,6
+2301074,19:08:00,19:08:10,stop_point:SP_4854,Grillou,7
+2301074,19:09:00,19:09:10,stop_point:SP_2948,Tucaut,8
+2301074,19:10:00,19:10:10,stop_point:SP_3436,Ecarts,9
+2301074,19:11:00,19:11:10,stop_point:SP_363,Canal,10
+2301074,19:12:00,19:12:10,stop_point:SP_1023,Bordenoire,11
+2301074,19:14:00,19:14:10,stop_point:SP_2726,La Ramée Sud,12
+2301074,19:15:00,19:15:10,stop_point:SP_2208,Passerive,13
+2301074,19:16:00,19:16:10,stop_point:SP_579,Marquisat,14
+2301074,19:17:00,19:17:10,stop_point:SP_3608,Pasteur,15
+2301074,19:18:00,19:18:10,stop_point:SP_2062,Cèdres,16
+2301074,19:18:00,19:18:10,stop_point:SP_348,Général Leclerc,17
+2301074,19:19:00,19:19:10,stop_point:SP_2379,Collège Labitrie,18
+2301074,19:19:00,19:19:10,stop_point:SP_3740,Bordeneuve,19
+2301074,19:20:00,19:20:10,stop_point:SP_4840,Jean Gay,20
+2301074,19:21:00,19:21:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301075,19:30:00,19:30:10,stop_point:SP_4009,Basso Cambo,1
+2301075,19:32:00,19:32:10,stop_point:SP_1645,Mesplé,2
+2301075,19:33:00,19:33:10,stop_point:SP_3138,Mounède,3
+2301075,19:34:00,19:34:10,stop_point:SP_3905,De Croutte,4
+2301075,19:36:00,19:36:10,stop_point:SP_2194,Guilhermy,5
+2301075,19:37:00,19:37:10,stop_point:SP_3022,La Ramée,6
+2301075,19:38:00,19:38:10,stop_point:SP_4854,Grillou,7
+2301075,19:39:00,19:39:10,stop_point:SP_2948,Tucaut,8
+2301075,19:40:00,19:40:10,stop_point:SP_3436,Ecarts,9
+2301075,19:41:00,19:41:10,stop_point:SP_363,Canal,10
+2301075,19:42:00,19:42:10,stop_point:SP_1023,Bordenoire,11
+2301075,19:43:00,19:43:10,stop_point:SP_2726,La Ramée Sud,12
+2301075,19:44:00,19:44:10,stop_point:SP_2208,Passerive,13
+2301075,19:45:00,19:45:10,stop_point:SP_579,Marquisat,14
+2301075,19:46:00,19:46:10,stop_point:SP_3608,Pasteur,15
+2301075,19:47:00,19:47:10,stop_point:SP_2062,Cèdres,16
+2301075,19:47:00,19:47:10,stop_point:SP_348,Général Leclerc,17
+2301075,19:48:00,19:48:10,stop_point:SP_2379,Collège Labitrie,18
+2301075,19:48:00,19:48:10,stop_point:SP_3740,Bordeneuve,19
+2301075,19:49:00,19:49:10,stop_point:SP_4840,Jean Gay,20
+2301075,19:50:00,19:50:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301076,20:00:00,20:00:10,stop_point:SP_4009,Basso Cambo,1
+2301076,20:02:00,20:02:10,stop_point:SP_1645,Mesplé,2
+2301076,20:03:00,20:03:10,stop_point:SP_3138,Mounède,3
+2301076,20:04:00,20:04:10,stop_point:SP_3905,De Croutte,4
+2301076,20:06:00,20:06:10,stop_point:SP_2194,Guilhermy,5
+2301076,20:07:00,20:07:10,stop_point:SP_3022,La Ramée,6
+2301076,20:08:00,20:08:10,stop_point:SP_4854,Grillou,7
+2301076,20:09:00,20:09:10,stop_point:SP_2948,Tucaut,8
+2301076,20:10:00,20:10:10,stop_point:SP_3436,Ecarts,9
+2301076,20:11:00,20:11:10,stop_point:SP_363,Canal,10
+2301076,20:12:00,20:12:10,stop_point:SP_1023,Bordenoire,11
+2301076,20:13:00,20:13:10,stop_point:SP_2726,La Ramée Sud,12
+2301076,20:14:00,20:14:10,stop_point:SP_2208,Passerive,13
+2301076,20:15:00,20:15:10,stop_point:SP_579,Marquisat,14
+2301076,20:16:00,20:16:10,stop_point:SP_3608,Pasteur,15
+2301076,20:17:00,20:17:10,stop_point:SP_2062,Cèdres,16
+2301076,20:17:00,20:17:10,stop_point:SP_348,Général Leclerc,17
+2301076,20:18:00,20:18:10,stop_point:SP_2379,Collège Labitrie,18
+2301076,20:18:00,20:18:10,stop_point:SP_3740,Bordeneuve,19
+2301076,20:19:00,20:19:10,stop_point:SP_4840,Jean Gay,20
+2301076,20:20:00,20:20:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301077,20:30:00,20:30:10,stop_point:SP_4009,Basso Cambo,1
+2301077,20:32:00,20:32:10,stop_point:SP_1645,Mesplé,2
+2301077,20:33:00,20:33:10,stop_point:SP_3138,Mounède,3
+2301077,20:34:00,20:34:10,stop_point:SP_3905,De Croutte,4
+2301077,20:36:00,20:36:10,stop_point:SP_2194,Guilhermy,5
+2301077,20:37:00,20:37:10,stop_point:SP_3022,La Ramée,6
+2301077,20:38:00,20:38:10,stop_point:SP_4854,Grillou,7
+2301077,20:39:00,20:39:10,stop_point:SP_2948,Tucaut,8
+2301077,20:40:00,20:40:10,stop_point:SP_3436,Ecarts,9
+2301077,20:41:00,20:41:10,stop_point:SP_363,Canal,10
+2301077,20:42:00,20:42:10,stop_point:SP_1023,Bordenoire,11
+2301077,20:43:00,20:43:10,stop_point:SP_2726,La Ramée Sud,12
+2301077,20:44:00,20:44:10,stop_point:SP_2208,Passerive,13
+2301077,20:45:00,20:45:10,stop_point:SP_579,Marquisat,14
+2301077,20:46:00,20:46:10,stop_point:SP_3608,Pasteur,15
+2301077,20:47:00,20:47:10,stop_point:SP_2062,Cèdres,16
+2301077,20:47:00,20:47:10,stop_point:SP_348,Général Leclerc,17
+2301077,20:48:00,20:48:10,stop_point:SP_2379,Collège Labitrie,18
+2301077,20:48:00,20:48:10,stop_point:SP_3740,Bordeneuve,19
+2301077,20:49:00,20:49:10,stop_point:SP_4840,Jean Gay,20
+2301077,20:50:00,20:50:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301078,21:00:00,21:00:10,stop_point:SP_4009,Basso Cambo,1
+2301078,21:02:00,21:02:10,stop_point:SP_1645,Mesplé,2
+2301078,21:03:00,21:03:10,stop_point:SP_3138,Mounède,3
+2301078,21:04:00,21:04:10,stop_point:SP_3905,De Croutte,4
+2301078,21:06:00,21:06:10,stop_point:SP_2194,Guilhermy,5
+2301078,21:07:00,21:07:10,stop_point:SP_3022,La Ramée,6
+2301078,21:08:00,21:08:10,stop_point:SP_4854,Grillou,7
+2301078,21:09:00,21:09:10,stop_point:SP_2948,Tucaut,8
+2301078,21:10:00,21:10:10,stop_point:SP_3436,Ecarts,9
+2301078,21:11:00,21:11:10,stop_point:SP_363,Canal,10
+2301078,21:12:00,21:12:10,stop_point:SP_1023,Bordenoire,11
+2301078,21:13:00,21:13:10,stop_point:SP_2726,La Ramée Sud,12
+2301078,21:14:00,21:14:10,stop_point:SP_2208,Passerive,13
+2301078,21:15:00,21:15:10,stop_point:SP_579,Marquisat,14
+2301078,21:15:00,21:15:10,stop_point:SP_3608,Pasteur,15
+2301078,21:16:00,21:16:10,stop_point:SP_2062,Cèdres,16
+2301078,21:16:00,21:16:10,stop_point:SP_348,Général Leclerc,17
+2301078,21:17:00,21:17:10,stop_point:SP_2379,Collège Labitrie,18
+2301078,21:17:00,21:17:10,stop_point:SP_3740,Bordeneuve,19
+2301078,21:18:00,21:18:10,stop_point:SP_4840,Jean Gay,20
+2301078,21:19:00,21:19:10,stop_point:SP_2064,Tournefeuille Lycée,21
+2301079,06:15:00,06:15:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301079,06:16:00,06:16:10,stop_point:SP_4841,Jean Gay,2
+2301079,06:17:00,06:17:10,stop_point:SP_3834,Bordeneuve,3
+2301079,06:17:00,06:17:10,stop_point:SP_1724,Collège Labitrie,4
+2301079,06:17:00,06:17:10,stop_point:SP_3973,Général Leclerc,5
+2301079,06:18:00,06:18:10,stop_point:SP_600,Cèdres,6
+2301079,06:19:00,06:19:10,stop_point:SP_666,Pasteur,7
+2301079,06:19:00,06:19:10,stop_point:SP_1502,Marquisat,8
+2301079,06:20:00,06:20:10,stop_point:SP_2940,Passerive,9
+2301079,06:21:00,06:21:10,stop_point:SP_3057,La Ramée Sud,10
+2301079,06:22:00,06:22:10,stop_point:SP_1304,Bordenoire,11
+2301079,06:23:00,06:23:10,stop_point:SP_846,Canal,12
+2301079,06:24:00,06:24:10,stop_point:SP_2147,Ecarts,13
+2301079,06:25:00,06:25:10,stop_point:SP_3106,Tucaut,14
+2301079,06:26:00,06:26:10,stop_point:SP_4853,Grillou,15
+2301079,06:27:00,06:27:10,stop_point:SP_1672,La Ramée,16
+2301079,06:28:00,06:28:10,stop_point:SP_2104,Guilhermy,17
+2301079,06:29:00,06:29:10,stop_point:SP_1458,De Croutte,18
+2301079,06:31:00,06:31:10,stop_point:SP_2122,Mounède,19
+2301079,06:31:00,06:31:10,stop_point:SP_1867,Mesplé,20
+2301079,06:33:00,06:33:10,stop_point:SP_4009,Basso Cambo,21
+2301080,06:40:00,06:40:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301080,06:41:00,06:41:10,stop_point:SP_4841,Jean Gay,2
+2301080,06:42:00,06:42:10,stop_point:SP_3834,Bordeneuve,3
+2301080,06:42:00,06:42:10,stop_point:SP_1724,Collège Labitrie,4
+2301080,06:42:00,06:42:10,stop_point:SP_3973,Général Leclerc,5
+2301080,06:43:00,06:43:10,stop_point:SP_600,Cèdres,6
+2301080,06:44:00,06:44:10,stop_point:SP_666,Pasteur,7
+2301080,06:45:00,06:45:10,stop_point:SP_1502,Marquisat,8
+2301080,06:46:00,06:46:10,stop_point:SP_2940,Passerive,9
+2301080,06:47:00,06:47:10,stop_point:SP_3057,La Ramée Sud,10
+2301080,06:49:00,06:49:10,stop_point:SP_1304,Bordenoire,11
+2301080,06:50:00,06:50:10,stop_point:SP_846,Canal,12
+2301080,06:50:00,06:50:10,stop_point:SP_2147,Ecarts,13
+2301080,06:52:00,06:52:10,stop_point:SP_3106,Tucaut,14
+2301080,06:53:00,06:53:10,stop_point:SP_4853,Grillou,15
+2301080,06:54:00,06:54:10,stop_point:SP_1672,La Ramée,16
+2301080,06:55:00,06:55:10,stop_point:SP_2104,Guilhermy,17
+2301080,06:57:00,06:57:10,stop_point:SP_1458,De Croutte,18
+2301080,06:58:00,06:58:10,stop_point:SP_2122,Mounède,19
+2301080,06:59:00,06:59:10,stop_point:SP_1867,Mesplé,20
+2301080,07:01:00,07:01:10,stop_point:SP_4009,Basso Cambo,21
+2301081,07:05:00,07:05:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301081,07:06:00,07:06:10,stop_point:SP_4841,Jean Gay,2
+2301081,07:07:00,07:07:10,stop_point:SP_3834,Bordeneuve,3
+2301081,07:07:00,07:07:10,stop_point:SP_1724,Collège Labitrie,4
+2301081,07:07:00,07:07:10,stop_point:SP_3973,Général Leclerc,5
+2301081,07:08:00,07:08:10,stop_point:SP_600,Cèdres,6
+2301081,07:09:00,07:09:10,stop_point:SP_666,Pasteur,7
+2301081,07:10:00,07:10:10,stop_point:SP_1502,Marquisat,8
+2301081,07:11:00,07:11:10,stop_point:SP_2940,Passerive,9
+2301081,07:12:00,07:12:10,stop_point:SP_3057,La Ramée Sud,10
+2301081,07:14:00,07:14:10,stop_point:SP_1304,Bordenoire,11
+2301081,07:15:00,07:15:10,stop_point:SP_846,Canal,12
+2301081,07:16:00,07:16:10,stop_point:SP_2147,Ecarts,13
+2301081,07:18:00,07:18:10,stop_point:SP_3106,Tucaut,14
+2301081,07:19:00,07:19:10,stop_point:SP_4853,Grillou,15
+2301081,07:21:00,07:21:10,stop_point:SP_1672,La Ramée,16
+2301081,07:22:00,07:22:10,stop_point:SP_2104,Guilhermy,17
+2301081,07:24:00,07:24:10,stop_point:SP_1458,De Croutte,18
+2301081,07:25:00,07:25:10,stop_point:SP_2122,Mounède,19
+2301081,07:26:00,07:26:10,stop_point:SP_1867,Mesplé,20
+2301081,07:28:00,07:28:10,stop_point:SP_4009,Basso Cambo,21
+2301082,07:30:00,07:30:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301082,07:31:00,07:31:10,stop_point:SP_4841,Jean Gay,2
+2301082,07:32:00,07:32:10,stop_point:SP_3834,Bordeneuve,3
+2301082,07:32:00,07:32:10,stop_point:SP_1724,Collège Labitrie,4
+2301082,07:32:00,07:32:10,stop_point:SP_3973,Général Leclerc,5
+2301082,07:33:00,07:33:10,stop_point:SP_600,Cèdres,6
+2301082,07:35:00,07:35:10,stop_point:SP_666,Pasteur,7
+2301082,07:35:00,07:35:10,stop_point:SP_1502,Marquisat,8
+2301082,07:37:00,07:37:10,stop_point:SP_2940,Passerive,9
+2301082,07:38:00,07:38:10,stop_point:SP_3057,La Ramée Sud,10
+2301082,07:40:00,07:40:10,stop_point:SP_1304,Bordenoire,11
+2301082,07:41:00,07:41:10,stop_point:SP_846,Canal,12
+2301082,07:42:00,07:42:10,stop_point:SP_2147,Ecarts,13
+2301082,07:44:00,07:44:10,stop_point:SP_3106,Tucaut,14
+2301082,07:45:00,07:45:10,stop_point:SP_4853,Grillou,15
+2301082,07:47:00,07:47:10,stop_point:SP_1672,La Ramée,16
+2301082,07:48:00,07:48:10,stop_point:SP_2104,Guilhermy,17
+2301082,07:50:00,07:50:10,stop_point:SP_1458,De Croutte,18
+2301082,07:52:00,07:52:10,stop_point:SP_2122,Mounède,19
+2301082,07:53:00,07:53:10,stop_point:SP_1867,Mesplé,20
+2301082,07:55:00,07:55:10,stop_point:SP_4009,Basso Cambo,21
+2301083,08:00:00,08:00:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301083,08:01:00,08:01:10,stop_point:SP_4841,Jean Gay,2
+2301083,08:02:00,08:02:10,stop_point:SP_3834,Bordeneuve,3
+2301083,08:03:00,08:03:10,stop_point:SP_1724,Collège Labitrie,4
+2301083,08:03:00,08:03:10,stop_point:SP_3973,Général Leclerc,5
+2301083,08:04:00,08:04:10,stop_point:SP_600,Cèdres,6
+2301083,08:06:00,08:06:10,stop_point:SP_666,Pasteur,7
+2301083,08:06:00,08:06:10,stop_point:SP_1502,Marquisat,8
+2301083,08:08:00,08:08:10,stop_point:SP_2940,Passerive,9
+2301083,08:09:00,08:09:10,stop_point:SP_3057,La Ramée Sud,10
+2301083,08:12:00,08:12:10,stop_point:SP_1304,Bordenoire,11
+2301083,08:13:00,08:13:10,stop_point:SP_846,Canal,12
+2301083,08:15:00,08:15:10,stop_point:SP_2147,Ecarts,13
+2301083,08:17:00,08:17:10,stop_point:SP_3106,Tucaut,14
+2301083,08:18:00,08:18:10,stop_point:SP_4853,Grillou,15
+2301083,08:20:00,08:20:10,stop_point:SP_1672,La Ramée,16
+2301083,08:21:00,08:21:10,stop_point:SP_2104,Guilhermy,17
+2301083,08:23:00,08:23:10,stop_point:SP_1458,De Croutte,18
+2301083,08:25:00,08:25:10,stop_point:SP_2122,Mounède,19
+2301083,08:26:00,08:26:10,stop_point:SP_1867,Mesplé,20
+2301083,08:28:00,08:28:10,stop_point:SP_4009,Basso Cambo,21
+2301084,08:40:00,08:40:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301084,08:41:00,08:41:10,stop_point:SP_4841,Jean Gay,2
+2301084,08:42:00,08:42:10,stop_point:SP_3834,Bordeneuve,3
+2301084,08:42:00,08:42:10,stop_point:SP_1724,Collège Labitrie,4
+2301084,08:42:00,08:42:10,stop_point:SP_3973,Général Leclerc,5
+2301084,08:43:00,08:43:10,stop_point:SP_600,Cèdres,6
+2301084,08:44:00,08:44:10,stop_point:SP_666,Pasteur,7
+2301084,08:45:00,08:45:10,stop_point:SP_1502,Marquisat,8
+2301084,08:46:00,08:46:10,stop_point:SP_2940,Passerive,9
+2301084,08:47:00,08:47:10,stop_point:SP_3057,La Ramée Sud,10
+2301084,08:49:00,08:49:10,stop_point:SP_1304,Bordenoire,11
+2301084,08:51:00,08:51:10,stop_point:SP_846,Canal,12
+2301084,08:52:00,08:52:10,stop_point:SP_2147,Ecarts,13
+2301084,08:54:00,08:54:10,stop_point:SP_3106,Tucaut,14
+2301084,08:55:00,08:55:10,stop_point:SP_4853,Grillou,15
+2301084,08:56:00,08:56:10,stop_point:SP_1672,La Ramée,16
+2301084,08:57:00,08:57:10,stop_point:SP_2104,Guilhermy,17
+2301084,08:59:00,08:59:10,stop_point:SP_1458,De Croutte,18
+2301084,09:00:00,09:00:10,stop_point:SP_2122,Mounède,19
+2301084,09:01:00,09:01:10,stop_point:SP_1867,Mesplé,20
+2301084,09:03:00,09:03:10,stop_point:SP_4009,Basso Cambo,21
+2301085,09:15:00,09:15:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301085,09:16:00,09:16:10,stop_point:SP_4841,Jean Gay,2
+2301085,09:17:00,09:17:10,stop_point:SP_3834,Bordeneuve,3
+2301085,09:17:00,09:17:10,stop_point:SP_1724,Collège Labitrie,4
+2301085,09:17:00,09:17:10,stop_point:SP_3973,Général Leclerc,5
+2301085,09:18:00,09:18:10,stop_point:SP_600,Cèdres,6
+2301085,09:19:00,09:19:10,stop_point:SP_666,Pasteur,7
+2301085,09:20:00,09:20:10,stop_point:SP_1502,Marquisat,8
+2301085,09:21:00,09:21:10,stop_point:SP_2940,Passerive,9
+2301085,09:22:00,09:22:10,stop_point:SP_3057,La Ramée Sud,10
+2301085,09:24:00,09:24:10,stop_point:SP_1304,Bordenoire,11
+2301085,09:25:00,09:25:10,stop_point:SP_846,Canal,12
+2301085,09:25:00,09:25:10,stop_point:SP_2147,Ecarts,13
+2301085,09:27:00,09:27:10,stop_point:SP_3106,Tucaut,14
+2301085,09:28:00,09:28:10,stop_point:SP_4853,Grillou,15
+2301085,09:29:00,09:29:10,stop_point:SP_1672,La Ramée,16
+2301085,09:30:00,09:30:10,stop_point:SP_2104,Guilhermy,17
+2301085,09:32:00,09:32:10,stop_point:SP_1458,De Croutte,18
+2301085,09:33:00,09:33:10,stop_point:SP_2122,Mounède,19
+2301085,09:34:00,09:34:10,stop_point:SP_1867,Mesplé,20
+2301085,09:36:00,09:36:10,stop_point:SP_4009,Basso Cambo,21
+2301086,09:50:00,09:50:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301086,09:51:00,09:51:10,stop_point:SP_4841,Jean Gay,2
+2301086,09:52:00,09:52:10,stop_point:SP_3834,Bordeneuve,3
+2301086,09:52:00,09:52:10,stop_point:SP_1724,Collège Labitrie,4
+2301086,09:52:00,09:52:10,stop_point:SP_3973,Général Leclerc,5
+2301086,09:53:00,09:53:10,stop_point:SP_600,Cèdres,6
+2301086,09:54:00,09:54:10,stop_point:SP_666,Pasteur,7
+2301086,09:55:00,09:55:10,stop_point:SP_1502,Marquisat,8
+2301086,09:56:00,09:56:10,stop_point:SP_2940,Passerive,9
+2301086,09:57:00,09:57:10,stop_point:SP_3057,La Ramée Sud,10
+2301086,09:59:00,09:59:10,stop_point:SP_1304,Bordenoire,11
+2301086,10:00:00,10:00:10,stop_point:SP_846,Canal,12
+2301086,10:00:00,10:00:10,stop_point:SP_2147,Ecarts,13
+2301086,10:02:00,10:02:10,stop_point:SP_3106,Tucaut,14
+2301086,10:03:00,10:03:10,stop_point:SP_4853,Grillou,15
+2301086,10:04:00,10:04:10,stop_point:SP_1672,La Ramée,16
+2301086,10:05:00,10:05:10,stop_point:SP_2104,Guilhermy,17
+2301086,10:07:00,10:07:10,stop_point:SP_1458,De Croutte,18
+2301086,10:08:00,10:08:10,stop_point:SP_2122,Mounède,19
+2301086,10:09:00,10:09:10,stop_point:SP_1867,Mesplé,20
+2301086,10:11:00,10:11:10,stop_point:SP_4009,Basso Cambo,21
+2301087,10:25:00,10:25:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301087,10:26:00,10:26:10,stop_point:SP_4841,Jean Gay,2
+2301087,10:27:00,10:27:10,stop_point:SP_3834,Bordeneuve,3
+2301087,10:27:00,10:27:10,stop_point:SP_1724,Collège Labitrie,4
+2301087,10:27:00,10:27:10,stop_point:SP_3973,Général Leclerc,5
+2301087,10:28:00,10:28:10,stop_point:SP_600,Cèdres,6
+2301087,10:29:00,10:29:10,stop_point:SP_666,Pasteur,7
+2301087,10:30:00,10:30:10,stop_point:SP_1502,Marquisat,8
+2301087,10:31:00,10:31:10,stop_point:SP_2940,Passerive,9
+2301087,10:32:00,10:32:10,stop_point:SP_3057,La Ramée Sud,10
+2301087,10:34:00,10:34:10,stop_point:SP_1304,Bordenoire,11
+2301087,10:35:00,10:35:10,stop_point:SP_846,Canal,12
+2301087,10:35:00,10:35:10,stop_point:SP_2147,Ecarts,13
+2301087,10:37:00,10:37:10,stop_point:SP_3106,Tucaut,14
+2301087,10:38:00,10:38:10,stop_point:SP_4853,Grillou,15
+2301087,10:39:00,10:39:10,stop_point:SP_1672,La Ramée,16
+2301087,10:40:00,10:40:10,stop_point:SP_2104,Guilhermy,17
+2301087,10:42:00,10:42:10,stop_point:SP_1458,De Croutte,18
+2301087,10:43:00,10:43:10,stop_point:SP_2122,Mounède,19
+2301087,10:44:00,10:44:10,stop_point:SP_1867,Mesplé,20
+2301087,10:46:00,10:46:10,stop_point:SP_4009,Basso Cambo,21
+2301088,11:00:00,11:00:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301088,11:01:00,11:01:10,stop_point:SP_4841,Jean Gay,2
+2301088,11:02:00,11:02:10,stop_point:SP_3834,Bordeneuve,3
+2301088,11:02:00,11:02:10,stop_point:SP_1724,Collège Labitrie,4
+2301088,11:02:00,11:02:10,stop_point:SP_3973,Général Leclerc,5
+2301088,11:03:00,11:03:10,stop_point:SP_600,Cèdres,6
+2301088,11:04:00,11:04:10,stop_point:SP_666,Pasteur,7
+2301088,11:05:00,11:05:10,stop_point:SP_1502,Marquisat,8
+2301088,11:06:00,11:06:10,stop_point:SP_2940,Passerive,9
+2301088,11:07:00,11:07:10,stop_point:SP_3057,La Ramée Sud,10
+2301088,11:09:00,11:09:10,stop_point:SP_1304,Bordenoire,11
+2301088,11:10:00,11:10:10,stop_point:SP_846,Canal,12
+2301088,11:10:00,11:10:10,stop_point:SP_2147,Ecarts,13
+2301088,11:12:00,11:12:10,stop_point:SP_3106,Tucaut,14
+2301088,11:13:00,11:13:10,stop_point:SP_4853,Grillou,15
+2301088,11:14:00,11:14:10,stop_point:SP_1672,La Ramée,16
+2301088,11:15:00,11:15:10,stop_point:SP_2104,Guilhermy,17
+2301088,11:17:00,11:17:10,stop_point:SP_1458,De Croutte,18
+2301088,11:18:00,11:18:10,stop_point:SP_2122,Mounède,19
+2301088,11:19:00,11:19:10,stop_point:SP_1867,Mesplé,20
+2301088,11:21:00,11:21:10,stop_point:SP_4009,Basso Cambo,21
+2301089,11:35:00,11:35:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301089,11:36:00,11:36:10,stop_point:SP_4841,Jean Gay,2
+2301089,11:37:00,11:37:10,stop_point:SP_3834,Bordeneuve,3
+2301089,11:37:00,11:37:10,stop_point:SP_1724,Collège Labitrie,4
+2301089,11:37:00,11:37:10,stop_point:SP_3973,Général Leclerc,5
+2301089,11:38:00,11:38:10,stop_point:SP_600,Cèdres,6
+2301089,11:39:00,11:39:10,stop_point:SP_666,Pasteur,7
+2301089,11:40:00,11:40:10,stop_point:SP_1502,Marquisat,8
+2301089,11:41:00,11:41:10,stop_point:SP_2940,Passerive,9
+2301089,11:42:00,11:42:10,stop_point:SP_3057,La Ramée Sud,10
+2301089,11:44:00,11:44:10,stop_point:SP_1304,Bordenoire,11
+2301089,11:45:00,11:45:10,stop_point:SP_846,Canal,12
+2301089,11:45:00,11:45:10,stop_point:SP_2147,Ecarts,13
+2301089,11:47:00,11:47:10,stop_point:SP_3106,Tucaut,14
+2301089,11:48:00,11:48:10,stop_point:SP_4853,Grillou,15
+2301089,11:49:00,11:49:10,stop_point:SP_1672,La Ramée,16
+2301089,11:50:00,11:50:10,stop_point:SP_2104,Guilhermy,17
+2301089,11:52:00,11:52:10,stop_point:SP_1458,De Croutte,18
+2301089,11:53:00,11:53:10,stop_point:SP_2122,Mounède,19
+2301089,11:54:00,11:54:10,stop_point:SP_1867,Mesplé,20
+2301089,11:56:00,11:56:10,stop_point:SP_4009,Basso Cambo,21
+2301090,12:10:00,12:10:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301090,12:11:00,12:11:10,stop_point:SP_4841,Jean Gay,2
+2301090,12:12:00,12:12:10,stop_point:SP_3834,Bordeneuve,3
+2301090,12:12:00,12:12:10,stop_point:SP_1724,Collège Labitrie,4
+2301090,12:12:00,12:12:10,stop_point:SP_3973,Général Leclerc,5
+2301090,12:13:00,12:13:10,stop_point:SP_600,Cèdres,6
+2301090,12:14:00,12:14:10,stop_point:SP_666,Pasteur,7
+2301090,12:15:00,12:15:10,stop_point:SP_1502,Marquisat,8
+2301090,12:16:00,12:16:10,stop_point:SP_2940,Passerive,9
+2301090,12:17:00,12:17:10,stop_point:SP_3057,La Ramée Sud,10
+2301090,12:19:00,12:19:10,stop_point:SP_1304,Bordenoire,11
+2301090,12:20:00,12:20:10,stop_point:SP_846,Canal,12
+2301090,12:20:00,12:20:10,stop_point:SP_2147,Ecarts,13
+2301090,12:22:00,12:22:10,stop_point:SP_3106,Tucaut,14
+2301090,12:23:00,12:23:10,stop_point:SP_4853,Grillou,15
+2301090,12:24:00,12:24:10,stop_point:SP_1672,La Ramée,16
+2301090,12:25:00,12:25:10,stop_point:SP_2104,Guilhermy,17
+2301090,12:27:00,12:27:10,stop_point:SP_1458,De Croutte,18
+2301090,12:28:00,12:28:10,stop_point:SP_2122,Mounède,19
+2301090,12:29:00,12:29:10,stop_point:SP_1867,Mesplé,20
+2301090,12:31:00,12:31:10,stop_point:SP_4009,Basso Cambo,21
+2301091,12:45:00,12:45:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301091,12:46:00,12:46:10,stop_point:SP_4841,Jean Gay,2
+2301091,12:47:00,12:47:10,stop_point:SP_3834,Bordeneuve,3
+2301091,12:47:00,12:47:10,stop_point:SP_1724,Collège Labitrie,4
+2301091,12:47:00,12:47:10,stop_point:SP_3973,Général Leclerc,5
+2301091,12:48:00,12:48:10,stop_point:SP_600,Cèdres,6
+2301091,12:49:00,12:49:10,stop_point:SP_666,Pasteur,7
+2301091,12:50:00,12:50:10,stop_point:SP_1502,Marquisat,8
+2301091,12:51:00,12:51:10,stop_point:SP_2940,Passerive,9
+2301091,12:52:00,12:52:10,stop_point:SP_3057,La Ramée Sud,10
+2301091,12:54:00,12:54:10,stop_point:SP_1304,Bordenoire,11
+2301091,12:55:00,12:55:10,stop_point:SP_846,Canal,12
+2301091,12:55:00,12:55:10,stop_point:SP_2147,Ecarts,13
+2301091,12:57:00,12:57:10,stop_point:SP_3106,Tucaut,14
+2301091,12:58:00,12:58:10,stop_point:SP_4853,Grillou,15
+2301091,12:59:00,12:59:10,stop_point:SP_1672,La Ramée,16
+2301091,13:00:00,13:00:10,stop_point:SP_2104,Guilhermy,17
+2301091,13:02:00,13:02:10,stop_point:SP_1458,De Croutte,18
+2301091,13:03:00,13:03:10,stop_point:SP_2122,Mounède,19
+2301091,13:04:00,13:04:10,stop_point:SP_1867,Mesplé,20
+2301091,13:06:00,13:06:10,stop_point:SP_4009,Basso Cambo,21
+2301092,13:20:00,13:20:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301092,13:21:00,13:21:10,stop_point:SP_4841,Jean Gay,2
+2301092,13:22:00,13:22:10,stop_point:SP_3834,Bordeneuve,3
+2301092,13:22:00,13:22:10,stop_point:SP_1724,Collège Labitrie,4
+2301092,13:22:00,13:22:10,stop_point:SP_3973,Général Leclerc,5
+2301092,13:23:00,13:23:10,stop_point:SP_600,Cèdres,6
+2301092,13:24:00,13:24:10,stop_point:SP_666,Pasteur,7
+2301092,13:25:00,13:25:10,stop_point:SP_1502,Marquisat,8
+2301092,13:26:00,13:26:10,stop_point:SP_2940,Passerive,9
+2301092,13:27:00,13:27:10,stop_point:SP_3057,La Ramée Sud,10
+2301092,13:29:00,13:29:10,stop_point:SP_1304,Bordenoire,11
+2301092,13:30:00,13:30:10,stop_point:SP_846,Canal,12
+2301092,13:30:00,13:30:10,stop_point:SP_2147,Ecarts,13
+2301092,13:32:00,13:32:10,stop_point:SP_3106,Tucaut,14
+2301092,13:33:00,13:33:10,stop_point:SP_4853,Grillou,15
+2301092,13:34:00,13:34:10,stop_point:SP_1672,La Ramée,16
+2301092,13:35:00,13:35:10,stop_point:SP_2104,Guilhermy,17
+2301092,13:37:00,13:37:10,stop_point:SP_1458,De Croutte,18
+2301092,13:38:00,13:38:10,stop_point:SP_2122,Mounède,19
+2301092,13:39:00,13:39:10,stop_point:SP_1867,Mesplé,20
+2301092,13:41:00,13:41:10,stop_point:SP_4009,Basso Cambo,21
+2301093,13:55:00,13:55:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301093,13:56:00,13:56:10,stop_point:SP_4841,Jean Gay,2
+2301093,13:57:00,13:57:10,stop_point:SP_3834,Bordeneuve,3
+2301093,13:57:00,13:57:10,stop_point:SP_1724,Collège Labitrie,4
+2301093,13:57:00,13:57:10,stop_point:SP_3973,Général Leclerc,5
+2301093,13:58:00,13:58:10,stop_point:SP_600,Cèdres,6
+2301093,13:59:00,13:59:10,stop_point:SP_666,Pasteur,7
+2301093,14:00:00,14:00:10,stop_point:SP_1502,Marquisat,8
+2301093,14:01:00,14:01:10,stop_point:SP_2940,Passerive,9
+2301093,14:02:00,14:02:10,stop_point:SP_3057,La Ramée Sud,10
+2301093,14:04:00,14:04:10,stop_point:SP_1304,Bordenoire,11
+2301093,14:05:00,14:05:10,stop_point:SP_846,Canal,12
+2301093,14:05:00,14:05:10,stop_point:SP_2147,Ecarts,13
+2301093,14:07:00,14:07:10,stop_point:SP_3106,Tucaut,14
+2301093,14:08:00,14:08:10,stop_point:SP_4853,Grillou,15
+2301093,14:09:00,14:09:10,stop_point:SP_1672,La Ramée,16
+2301093,14:10:00,14:10:10,stop_point:SP_2104,Guilhermy,17
+2301093,14:12:00,14:12:10,stop_point:SP_1458,De Croutte,18
+2301093,14:13:00,14:13:10,stop_point:SP_2122,Mounède,19
+2301093,14:14:00,14:14:10,stop_point:SP_1867,Mesplé,20
+2301093,14:16:00,14:16:10,stop_point:SP_4009,Basso Cambo,21
+2301094,14:30:00,14:30:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301094,14:31:00,14:31:10,stop_point:SP_4841,Jean Gay,2
+2301094,14:32:00,14:32:10,stop_point:SP_3834,Bordeneuve,3
+2301094,14:32:00,14:32:10,stop_point:SP_1724,Collège Labitrie,4
+2301094,14:32:00,14:32:10,stop_point:SP_3973,Général Leclerc,5
+2301094,14:33:00,14:33:10,stop_point:SP_600,Cèdres,6
+2301094,14:34:00,14:34:10,stop_point:SP_666,Pasteur,7
+2301094,14:35:00,14:35:10,stop_point:SP_1502,Marquisat,8
+2301094,14:36:00,14:36:10,stop_point:SP_2940,Passerive,9
+2301094,14:37:00,14:37:10,stop_point:SP_3057,La Ramée Sud,10
+2301094,14:39:00,14:39:10,stop_point:SP_1304,Bordenoire,11
+2301094,14:40:00,14:40:10,stop_point:SP_846,Canal,12
+2301094,14:40:00,14:40:10,stop_point:SP_2147,Ecarts,13
+2301094,14:42:00,14:42:10,stop_point:SP_3106,Tucaut,14
+2301094,14:43:00,14:43:10,stop_point:SP_4853,Grillou,15
+2301094,14:44:00,14:44:10,stop_point:SP_1672,La Ramée,16
+2301094,14:45:00,14:45:10,stop_point:SP_2104,Guilhermy,17
+2301094,14:47:00,14:47:10,stop_point:SP_1458,De Croutte,18
+2301094,14:48:00,14:48:10,stop_point:SP_2122,Mounède,19
+2301094,14:49:00,14:49:10,stop_point:SP_1867,Mesplé,20
+2301094,14:51:00,14:51:10,stop_point:SP_4009,Basso Cambo,21
+2301095,15:05:00,15:05:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301095,15:06:00,15:06:10,stop_point:SP_4841,Jean Gay,2
+2301095,15:07:00,15:07:10,stop_point:SP_3834,Bordeneuve,3
+2301095,15:07:00,15:07:10,stop_point:SP_1724,Collège Labitrie,4
+2301095,15:07:00,15:07:10,stop_point:SP_3973,Général Leclerc,5
+2301095,15:08:00,15:08:10,stop_point:SP_600,Cèdres,6
+2301095,15:09:00,15:09:10,stop_point:SP_666,Pasteur,7
+2301095,15:10:00,15:10:10,stop_point:SP_1502,Marquisat,8
+2301095,15:11:00,15:11:10,stop_point:SP_2940,Passerive,9
+2301095,15:12:00,15:12:10,stop_point:SP_3057,La Ramée Sud,10
+2301095,15:14:00,15:14:10,stop_point:SP_1304,Bordenoire,11
+2301095,15:15:00,15:15:10,stop_point:SP_846,Canal,12
+2301095,15:15:00,15:15:10,stop_point:SP_2147,Ecarts,13
+2301095,15:17:00,15:17:10,stop_point:SP_3106,Tucaut,14
+2301095,15:18:00,15:18:10,stop_point:SP_4853,Grillou,15
+2301095,15:19:00,15:19:10,stop_point:SP_1672,La Ramée,16
+2301095,15:20:00,15:20:10,stop_point:SP_2104,Guilhermy,17
+2301095,15:22:00,15:22:10,stop_point:SP_1458,De Croutte,18
+2301095,15:23:00,15:23:10,stop_point:SP_2122,Mounède,19
+2301095,15:24:00,15:24:10,stop_point:SP_1867,Mesplé,20
+2301095,15:26:00,15:26:10,stop_point:SP_4009,Basso Cambo,21
+2301096,15:40:00,15:40:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301096,15:41:00,15:41:10,stop_point:SP_4841,Jean Gay,2
+2301096,15:42:00,15:42:10,stop_point:SP_3834,Bordeneuve,3
+2301096,15:42:00,15:42:10,stop_point:SP_1724,Collège Labitrie,4
+2301096,15:42:00,15:42:10,stop_point:SP_3973,Général Leclerc,5
+2301096,15:43:00,15:43:10,stop_point:SP_600,Cèdres,6
+2301096,15:44:00,15:44:10,stop_point:SP_666,Pasteur,7
+2301096,15:45:00,15:45:10,stop_point:SP_1502,Marquisat,8
+2301096,15:46:00,15:46:10,stop_point:SP_2940,Passerive,9
+2301096,15:47:00,15:47:10,stop_point:SP_3057,La Ramée Sud,10
+2301096,15:49:00,15:49:10,stop_point:SP_1304,Bordenoire,11
+2301096,15:50:00,15:50:10,stop_point:SP_846,Canal,12
+2301096,15:50:00,15:50:10,stop_point:SP_2147,Ecarts,13
+2301096,15:52:00,15:52:10,stop_point:SP_3106,Tucaut,14
+2301096,15:53:00,15:53:10,stop_point:SP_4853,Grillou,15
+2301096,15:54:00,15:54:10,stop_point:SP_1672,La Ramée,16
+2301096,15:55:00,15:55:10,stop_point:SP_2104,Guilhermy,17
+2301096,15:57:00,15:57:10,stop_point:SP_1458,De Croutte,18
+2301096,15:58:00,15:58:10,stop_point:SP_2122,Mounède,19
+2301096,15:59:00,15:59:10,stop_point:SP_1867,Mesplé,20
+2301096,16:01:00,16:01:10,stop_point:SP_4009,Basso Cambo,21
+2301097,16:10:00,16:10:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301097,16:11:00,16:11:10,stop_point:SP_4841,Jean Gay,2
+2301097,16:12:00,16:12:10,stop_point:SP_3834,Bordeneuve,3
+2301097,16:12:00,16:12:10,stop_point:SP_1724,Collège Labitrie,4
+2301097,16:12:00,16:12:10,stop_point:SP_3973,Général Leclerc,5
+2301097,16:13:00,16:13:10,stop_point:SP_600,Cèdres,6
+2301097,16:15:00,16:15:10,stop_point:SP_666,Pasteur,7
+2301097,16:15:00,16:15:10,stop_point:SP_1502,Marquisat,8
+2301097,16:17:00,16:17:10,stop_point:SP_2940,Passerive,9
+2301097,16:18:00,16:18:10,stop_point:SP_3057,La Ramée Sud,10
+2301097,16:20:00,16:20:10,stop_point:SP_1304,Bordenoire,11
+2301097,16:21:00,16:21:10,stop_point:SP_846,Canal,12
+2301097,16:21:00,16:21:10,stop_point:SP_2147,Ecarts,13
+2301097,16:23:00,16:23:10,stop_point:SP_3106,Tucaut,14
+2301097,16:24:00,16:24:10,stop_point:SP_4853,Grillou,15
+2301097,16:25:00,16:25:10,stop_point:SP_1672,La Ramée,16
+2301097,16:26:00,16:26:10,stop_point:SP_2104,Guilhermy,17
+2301097,16:28:00,16:28:10,stop_point:SP_1458,De Croutte,18
+2301097,16:29:00,16:29:10,stop_point:SP_2122,Mounède,19
+2301097,16:30:00,16:30:10,stop_point:SP_1867,Mesplé,20
+2301097,16:32:00,16:32:10,stop_point:SP_4009,Basso Cambo,21
+2301098,16:30:00,16:30:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301098,16:31:00,16:31:10,stop_point:SP_4841,Jean Gay,2
+2301098,16:32:00,16:32:10,stop_point:SP_3834,Bordeneuve,3
+2301098,16:32:00,16:32:10,stop_point:SP_1724,Collège Labitrie,4
+2301098,16:32:00,16:32:10,stop_point:SP_3973,Général Leclerc,5
+2301098,16:33:00,16:33:10,stop_point:SP_600,Cèdres,6
+2301098,16:35:00,16:35:10,stop_point:SP_666,Pasteur,7
+2301098,16:35:00,16:35:10,stop_point:SP_1502,Marquisat,8
+2301098,16:37:00,16:37:10,stop_point:SP_2940,Passerive,9
+2301098,16:38:00,16:38:10,stop_point:SP_3057,La Ramée Sud,10
+2301098,16:40:00,16:40:10,stop_point:SP_1304,Bordenoire,11
+2301098,16:41:00,16:41:10,stop_point:SP_846,Canal,12
+2301098,16:41:00,16:41:10,stop_point:SP_2147,Ecarts,13
+2301098,16:43:00,16:43:10,stop_point:SP_3106,Tucaut,14
+2301098,16:44:00,16:44:10,stop_point:SP_4853,Grillou,15
+2301098,16:45:00,16:45:10,stop_point:SP_1672,La Ramée,16
+2301098,16:46:00,16:46:10,stop_point:SP_2104,Guilhermy,17
+2301098,16:48:00,16:48:10,stop_point:SP_1458,De Croutte,18
+2301098,16:50:00,16:50:10,stop_point:SP_2122,Mounède,19
+2301098,16:51:00,16:51:10,stop_point:SP_1867,Mesplé,20
+2301098,16:53:00,16:53:10,stop_point:SP_4009,Basso Cambo,21
+2301099,17:05:00,17:05:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301099,17:06:00,17:06:10,stop_point:SP_4841,Jean Gay,2
+2301099,17:07:00,17:07:10,stop_point:SP_3834,Bordeneuve,3
+2301099,17:07:00,17:07:10,stop_point:SP_1724,Collège Labitrie,4
+2301099,17:07:00,17:07:10,stop_point:SP_3973,Général Leclerc,5
+2301099,17:08:00,17:08:10,stop_point:SP_600,Cèdres,6
+2301099,17:10:00,17:10:10,stop_point:SP_666,Pasteur,7
+2301099,17:10:00,17:10:10,stop_point:SP_1502,Marquisat,8
+2301099,17:12:00,17:12:10,stop_point:SP_2940,Passerive,9
+2301099,17:13:00,17:13:10,stop_point:SP_3057,La Ramée Sud,10
+2301099,17:15:00,17:15:10,stop_point:SP_1304,Bordenoire,11
+2301099,17:16:00,17:16:10,stop_point:SP_846,Canal,12
+2301099,17:17:00,17:17:10,stop_point:SP_2147,Ecarts,13
+2301099,17:19:00,17:19:10,stop_point:SP_3106,Tucaut,14
+2301099,17:20:00,17:20:10,stop_point:SP_4853,Grillou,15
+2301099,17:21:00,17:21:10,stop_point:SP_1672,La Ramée,16
+2301099,17:22:00,17:22:10,stop_point:SP_2104,Guilhermy,17
+2301099,17:24:00,17:24:10,stop_point:SP_1458,De Croutte,18
+2301099,17:26:00,17:26:10,stop_point:SP_2122,Mounède,19
+2301099,17:27:00,17:27:10,stop_point:SP_1867,Mesplé,20
+2301099,17:29:00,17:29:10,stop_point:SP_4009,Basso Cambo,21
+2301100,17:20:00,17:20:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301100,17:21:00,17:21:10,stop_point:SP_4841,Jean Gay,2
+2301100,17:22:00,17:22:10,stop_point:SP_3834,Bordeneuve,3
+2301100,17:22:00,17:22:10,stop_point:SP_1724,Collège Labitrie,4
+2301100,17:23:00,17:23:10,stop_point:SP_3973,Général Leclerc,5
+2301100,17:24:00,17:24:10,stop_point:SP_600,Cèdres,6
+2301100,17:27:00,17:27:10,stop_point:SP_666,Pasteur,7
+2301100,17:28:00,17:28:10,stop_point:SP_1502,Marquisat,8
+2301100,17:30:00,17:30:10,stop_point:SP_2940,Passerive,9
+2301100,17:32:00,17:32:10,stop_point:SP_3057,La Ramée Sud,10
+2301100,17:34:00,17:34:10,stop_point:SP_1304,Bordenoire,11
+2301100,17:35:00,17:35:10,stop_point:SP_846,Canal,12
+2301100,17:36:00,17:36:10,stop_point:SP_2147,Ecarts,13
+2301100,17:38:00,17:38:10,stop_point:SP_3106,Tucaut,14
+2301100,17:39:00,17:39:10,stop_point:SP_4853,Grillou,15
+2301100,17:40:00,17:40:10,stop_point:SP_1672,La Ramée,16
+2301100,17:41:00,17:41:10,stop_point:SP_2104,Guilhermy,17
+2301100,17:43:00,17:43:10,stop_point:SP_1458,De Croutte,18
+2301100,17:45:00,17:45:10,stop_point:SP_2122,Mounède,19
+2301100,17:46:00,17:46:10,stop_point:SP_1867,Mesplé,20
+2301100,17:48:00,17:48:10,stop_point:SP_4009,Basso Cambo,21
+2301101,17:50:00,17:50:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301101,17:51:00,17:51:10,stop_point:SP_4841,Jean Gay,2
+2301101,17:52:00,17:52:10,stop_point:SP_3834,Bordeneuve,3
+2301101,17:52:00,17:52:10,stop_point:SP_1724,Collège Labitrie,4
+2301101,17:53:00,17:53:10,stop_point:SP_3973,Général Leclerc,5
+2301101,17:54:00,17:54:10,stop_point:SP_600,Cèdres,6
+2301101,17:56:00,17:56:10,stop_point:SP_666,Pasteur,7
+2301101,17:57:00,17:57:10,stop_point:SP_1502,Marquisat,8
+2301101,17:59:00,17:59:10,stop_point:SP_2940,Passerive,9
+2301101,18:01:00,18:01:10,stop_point:SP_3057,La Ramée Sud,10
+2301101,18:03:00,18:03:10,stop_point:SP_1304,Bordenoire,11
+2301101,18:04:00,18:04:10,stop_point:SP_846,Canal,12
+2301101,18:04:00,18:04:10,stop_point:SP_2147,Ecarts,13
+2301101,18:06:00,18:06:10,stop_point:SP_3106,Tucaut,14
+2301101,18:06:00,18:06:10,stop_point:SP_4853,Grillou,15
+2301101,18:07:00,18:07:10,stop_point:SP_1672,La Ramée,16
+2301101,18:08:00,18:08:10,stop_point:SP_2104,Guilhermy,17
+2301101,18:10:00,18:10:10,stop_point:SP_1458,De Croutte,18
+2301101,18:12:00,18:12:10,stop_point:SP_2122,Mounède,19
+2301101,18:13:00,18:13:10,stop_point:SP_1867,Mesplé,20
+2301101,18:15:00,18:15:10,stop_point:SP_4009,Basso Cambo,21
+2301102,18:15:00,18:15:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301102,18:16:00,18:16:10,stop_point:SP_4841,Jean Gay,2
+2301102,18:17:00,18:17:10,stop_point:SP_3834,Bordeneuve,3
+2301102,18:17:00,18:17:10,stop_point:SP_1724,Collège Labitrie,4
+2301102,18:18:00,18:18:10,stop_point:SP_3973,Général Leclerc,5
+2301102,18:19:00,18:19:10,stop_point:SP_600,Cèdres,6
+2301102,18:21:00,18:21:10,stop_point:SP_666,Pasteur,7
+2301102,18:22:00,18:22:10,stop_point:SP_1502,Marquisat,8
+2301102,18:24:00,18:24:10,stop_point:SP_2940,Passerive,9
+2301102,18:26:00,18:26:10,stop_point:SP_3057,La Ramée Sud,10
+2301102,18:28:00,18:28:10,stop_point:SP_1304,Bordenoire,11
+2301102,18:29:00,18:29:10,stop_point:SP_846,Canal,12
+2301102,18:29:00,18:29:10,stop_point:SP_2147,Ecarts,13
+2301102,18:31:00,18:31:10,stop_point:SP_3106,Tucaut,14
+2301102,18:31:00,18:31:10,stop_point:SP_4853,Grillou,15
+2301102,18:32:00,18:32:10,stop_point:SP_1672,La Ramée,16
+2301102,18:33:00,18:33:10,stop_point:SP_2104,Guilhermy,17
+2301102,18:35:00,18:35:10,stop_point:SP_1458,De Croutte,18
+2301102,18:37:00,18:37:10,stop_point:SP_2122,Mounède,19
+2301102,18:38:00,18:38:10,stop_point:SP_1867,Mesplé,20
+2301102,18:40:00,18:40:10,stop_point:SP_4009,Basso Cambo,21
+2301103,18:40:00,18:40:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301103,18:41:00,18:41:10,stop_point:SP_4841,Jean Gay,2
+2301103,18:42:00,18:42:10,stop_point:SP_3834,Bordeneuve,3
+2301103,18:42:00,18:42:10,stop_point:SP_1724,Collège Labitrie,4
+2301103,18:42:00,18:42:10,stop_point:SP_3973,Général Leclerc,5
+2301103,18:43:00,18:43:10,stop_point:SP_600,Cèdres,6
+2301103,18:45:00,18:45:10,stop_point:SP_666,Pasteur,7
+2301103,18:45:00,18:45:10,stop_point:SP_1502,Marquisat,8
+2301103,18:47:00,18:47:10,stop_point:SP_2940,Passerive,9
+2301103,18:48:00,18:48:10,stop_point:SP_3057,La Ramée Sud,10
+2301103,18:50:00,18:50:10,stop_point:SP_1304,Bordenoire,11
+2301103,18:51:00,18:51:10,stop_point:SP_846,Canal,12
+2301103,18:51:00,18:51:10,stop_point:SP_2147,Ecarts,13
+2301103,18:53:00,18:53:10,stop_point:SP_3106,Tucaut,14
+2301103,18:53:00,18:53:10,stop_point:SP_4853,Grillou,15
+2301103,18:54:00,18:54:10,stop_point:SP_1672,La Ramée,16
+2301103,18:55:00,18:55:10,stop_point:SP_2104,Guilhermy,17
+2301103,18:57:00,18:57:10,stop_point:SP_1458,De Croutte,18
+2301103,18:58:00,18:58:10,stop_point:SP_2122,Mounède,19
+2301103,18:59:00,18:59:10,stop_point:SP_1867,Mesplé,20
+2301103,19:01:00,19:01:10,stop_point:SP_4009,Basso Cambo,21
+2301104,19:00:00,19:00:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301104,19:01:00,19:01:10,stop_point:SP_4841,Jean Gay,2
+2301104,19:02:00,19:02:10,stop_point:SP_3834,Bordeneuve,3
+2301104,19:02:00,19:02:10,stop_point:SP_1724,Collège Labitrie,4
+2301104,19:02:00,19:02:10,stop_point:SP_3973,Général Leclerc,5
+2301104,19:03:00,19:03:10,stop_point:SP_600,Cèdres,6
+2301104,19:04:00,19:04:10,stop_point:SP_666,Pasteur,7
+2301104,19:05:00,19:05:10,stop_point:SP_1502,Marquisat,8
+2301104,19:06:00,19:06:10,stop_point:SP_2940,Passerive,9
+2301104,19:07:00,19:07:10,stop_point:SP_3057,La Ramée Sud,10
+2301104,19:09:00,19:09:10,stop_point:SP_1304,Bordenoire,11
+2301104,19:10:00,19:10:10,stop_point:SP_846,Canal,12
+2301104,19:10:00,19:10:10,stop_point:SP_2147,Ecarts,13
+2301104,19:12:00,19:12:10,stop_point:SP_3106,Tucaut,14
+2301104,19:12:00,19:12:10,stop_point:SP_4853,Grillou,15
+2301104,19:13:00,19:13:10,stop_point:SP_1672,La Ramée,16
+2301104,19:14:00,19:14:10,stop_point:SP_2104,Guilhermy,17
+2301104,19:16:00,19:16:10,stop_point:SP_1458,De Croutte,18
+2301104,19:17:00,19:17:10,stop_point:SP_2122,Mounède,19
+2301104,19:18:00,19:18:10,stop_point:SP_1867,Mesplé,20
+2301104,19:20:00,19:20:10,stop_point:SP_4009,Basso Cambo,21
+2301105,19:30:00,19:30:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301105,19:31:00,19:31:10,stop_point:SP_4841,Jean Gay,2
+2301105,19:32:00,19:32:10,stop_point:SP_3834,Bordeneuve,3
+2301105,19:32:00,19:32:10,stop_point:SP_1724,Collège Labitrie,4
+2301105,19:32:00,19:32:10,stop_point:SP_3973,Général Leclerc,5
+2301105,19:33:00,19:33:10,stop_point:SP_600,Cèdres,6
+2301105,19:34:00,19:34:10,stop_point:SP_666,Pasteur,7
+2301105,19:34:00,19:34:10,stop_point:SP_1502,Marquisat,8
+2301105,19:35:00,19:35:10,stop_point:SP_2940,Passerive,9
+2301105,19:36:00,19:36:10,stop_point:SP_3057,La Ramée Sud,10
+2301105,19:38:00,19:38:10,stop_point:SP_1304,Bordenoire,11
+2301105,19:39:00,19:39:10,stop_point:SP_846,Canal,12
+2301105,19:39:00,19:39:10,stop_point:SP_2147,Ecarts,13
+2301105,19:41:00,19:41:10,stop_point:SP_3106,Tucaut,14
+2301105,19:41:00,19:41:10,stop_point:SP_4853,Grillou,15
+2301105,19:42:00,19:42:10,stop_point:SP_1672,La Ramée,16
+2301105,19:43:00,19:43:10,stop_point:SP_2104,Guilhermy,17
+2301105,19:45:00,19:45:10,stop_point:SP_1458,De Croutte,18
+2301105,19:46:00,19:46:10,stop_point:SP_2122,Mounède,19
+2301105,19:47:00,19:47:10,stop_point:SP_1867,Mesplé,20
+2301105,19:49:00,19:49:10,stop_point:SP_4009,Basso Cambo,21
+2301106,20:00:00,20:00:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301106,20:01:00,20:01:10,stop_point:SP_4841,Jean Gay,2
+2301106,20:02:00,20:02:10,stop_point:SP_3834,Bordeneuve,3
+2301106,20:02:00,20:02:10,stop_point:SP_1724,Collège Labitrie,4
+2301106,20:02:00,20:02:10,stop_point:SP_3973,Général Leclerc,5
+2301106,20:03:00,20:03:10,stop_point:SP_600,Cèdres,6
+2301106,20:04:00,20:04:10,stop_point:SP_666,Pasteur,7
+2301106,20:04:00,20:04:10,stop_point:SP_1502,Marquisat,8
+2301106,20:05:00,20:05:10,stop_point:SP_2940,Passerive,9
+2301106,20:06:00,20:06:10,stop_point:SP_3057,La Ramée Sud,10
+2301106,20:08:00,20:08:10,stop_point:SP_1304,Bordenoire,11
+2301106,20:09:00,20:09:10,stop_point:SP_846,Canal,12
+2301106,20:09:00,20:09:10,stop_point:SP_2147,Ecarts,13
+2301106,20:11:00,20:11:10,stop_point:SP_3106,Tucaut,14
+2301106,20:11:00,20:11:10,stop_point:SP_4853,Grillou,15
+2301106,20:12:00,20:12:10,stop_point:SP_1672,La Ramée,16
+2301106,20:13:00,20:13:10,stop_point:SP_2104,Guilhermy,17
+2301106,20:15:00,20:15:10,stop_point:SP_1458,De Croutte,18
+2301106,20:16:00,20:16:10,stop_point:SP_2122,Mounède,19
+2301106,20:17:00,20:17:10,stop_point:SP_1867,Mesplé,20
+2301106,20:19:00,20:19:10,stop_point:SP_4009,Basso Cambo,21
+2301107,20:30:00,20:30:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301107,20:31:00,20:31:10,stop_point:SP_4841,Jean Gay,2
+2301107,20:32:00,20:32:10,stop_point:SP_3834,Bordeneuve,3
+2301107,20:32:00,20:32:10,stop_point:SP_1724,Collège Labitrie,4
+2301107,20:32:00,20:32:10,stop_point:SP_3973,Général Leclerc,5
+2301107,20:33:00,20:33:10,stop_point:SP_600,Cèdres,6
+2301107,20:34:00,20:34:10,stop_point:SP_666,Pasteur,7
+2301107,20:34:00,20:34:10,stop_point:SP_1502,Marquisat,8
+2301107,20:35:00,20:35:10,stop_point:SP_2940,Passerive,9
+2301107,20:36:00,20:36:10,stop_point:SP_3057,La Ramée Sud,10
+2301107,20:38:00,20:38:10,stop_point:SP_1304,Bordenoire,11
+2301107,20:39:00,20:39:10,stop_point:SP_846,Canal,12
+2301107,20:39:00,20:39:10,stop_point:SP_2147,Ecarts,13
+2301107,20:41:00,20:41:10,stop_point:SP_3106,Tucaut,14
+2301107,20:41:00,20:41:10,stop_point:SP_4853,Grillou,15
+2301107,20:42:00,20:42:10,stop_point:SP_1672,La Ramée,16
+2301107,20:43:00,20:43:10,stop_point:SP_2104,Guilhermy,17
+2301107,20:44:00,20:44:10,stop_point:SP_1458,De Croutte,18
+2301107,20:46:00,20:46:10,stop_point:SP_2122,Mounède,19
+2301107,20:46:00,20:46:10,stop_point:SP_1867,Mesplé,20
+2301107,20:48:00,20:48:10,stop_point:SP_4009,Basso Cambo,21
+2301108,21:00:00,21:00:10,stop_point:SP_2064,Tournefeuille Lycée,1
+2301108,21:01:00,21:01:10,stop_point:SP_4841,Jean Gay,2
+2301108,21:02:00,21:02:10,stop_point:SP_3834,Bordeneuve,3
+2301108,21:02:00,21:02:10,stop_point:SP_1724,Collège Labitrie,4
+2301108,21:02:00,21:02:10,stop_point:SP_3973,Général Leclerc,5
+2301108,21:03:00,21:03:10,stop_point:SP_600,Cèdres,6
+2301108,21:04:00,21:04:10,stop_point:SP_666,Pasteur,7
+2301108,21:04:00,21:04:10,stop_point:SP_1502,Marquisat,8
+2301108,21:05:00,21:05:10,stop_point:SP_2940,Passerive,9
+2301108,21:06:00,21:06:10,stop_point:SP_3057,La Ramée Sud,10
+2301108,21:08:00,21:08:10,stop_point:SP_1304,Bordenoire,11
+2301108,21:09:00,21:09:10,stop_point:SP_846,Canal,12
+2301108,21:09:00,21:09:10,stop_point:SP_2147,Ecarts,13
+2301108,21:11:00,21:11:10,stop_point:SP_3106,Tucaut,14
+2301108,21:11:00,21:11:10,stop_point:SP_4853,Grillou,15
+2301108,21:12:00,21:12:10,stop_point:SP_1672,La Ramée,16
+2301108,21:13:00,21:13:10,stop_point:SP_2104,Guilhermy,17
+2301108,21:14:00,21:14:10,stop_point:SP_1458,De Croutte,18
+2301108,21:16:00,21:16:10,stop_point:SP_2122,Mounède,19
+2301108,21:16:00,21:16:10,stop_point:SP_1867,Mesplé,20
+2301108,21:18:00,21:18:10,stop_point:SP_4009,Basso Cambo,21

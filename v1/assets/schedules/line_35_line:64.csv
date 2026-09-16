@@ -1,0 +1,740 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2292162,06:10:00,06:10:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292162,06:11:00,06:11:10,stop_point:SP_4925,Sévérac,2
+2292162,06:12:00,06:12:10,stop_point:SP_4922,Saint Granier,3
+2292162,06:14:00,06:14:10,stop_point:SP_5589,Ellis,4
+2292162,06:15:00,06:15:10,stop_point:SP_5591,André Turcat,5
+2292162,06:16:00,06:16:10,stop_point:SP_5585,Camille Claudel,6
+2292162,06:17:00,06:17:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292162,06:19:00,06:19:10,stop_point:SP_5592,Dominique Clos,8
+2292162,06:20:00,06:20:10,stop_point:SP_5596,Bertier,9
+2292162,06:22:00,06:22:10,stop_point:SP_3456,Bisson,10
+2292162,06:23:00,06:23:10,stop_point:SP_3643,Flambère,11
+2292162,06:24:00,06:24:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292162,06:26:00,06:26:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292162,06:27:00,06:27:10,stop_point:SP_214,Arènes Romaines,14
+2292162,06:28:00,06:28:10,stop_point:SP_1198,Arènes Romaines,15
+2292163,06:40:00,06:40:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292163,06:41:00,06:41:10,stop_point:SP_4925,Sévérac,2
+2292163,06:42:00,06:42:10,stop_point:SP_4922,Saint Granier,3
+2292163,06:44:00,06:44:10,stop_point:SP_5589,Ellis,4
+2292163,06:45:00,06:45:10,stop_point:SP_5591,André Turcat,5
+2292163,06:46:00,06:46:10,stop_point:SP_5585,Camille Claudel,6
+2292163,06:47:00,06:47:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292163,06:49:00,06:49:10,stop_point:SP_5592,Dominique Clos,8
+2292163,06:50:00,06:50:10,stop_point:SP_5596,Bertier,9
+2292163,06:52:00,06:52:10,stop_point:SP_3456,Bisson,10
+2292163,06:53:00,06:53:10,stop_point:SP_3643,Flambère,11
+2292163,06:54:00,06:54:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292163,06:56:00,06:56:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292163,06:57:00,06:57:10,stop_point:SP_214,Arènes Romaines,14
+2292163,06:58:00,06:58:10,stop_point:SP_1198,Arènes Romaines,15
+2292164,07:05:00,07:05:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292164,07:06:00,07:06:10,stop_point:SP_4925,Sévérac,2
+2292164,07:07:00,07:07:10,stop_point:SP_4922,Saint Granier,3
+2292164,07:09:00,07:09:10,stop_point:SP_5589,Ellis,4
+2292164,07:10:00,07:10:10,stop_point:SP_5591,André Turcat,5
+2292164,07:11:00,07:11:10,stop_point:SP_5585,Camille Claudel,6
+2292164,07:12:00,07:12:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292164,07:14:00,07:14:10,stop_point:SP_5592,Dominique Clos,8
+2292164,07:15:00,07:15:10,stop_point:SP_5596,Bertier,9
+2292164,07:17:00,07:17:10,stop_point:SP_3456,Bisson,10
+2292164,07:18:00,07:18:10,stop_point:SP_3643,Flambère,11
+2292164,07:19:00,07:19:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292164,07:21:00,07:21:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292164,07:22:00,07:22:10,stop_point:SP_214,Arènes Romaines,14
+2292164,07:23:00,07:23:10,stop_point:SP_1198,Arènes Romaines,15
+2292165,07:30:00,07:30:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292165,07:31:00,07:31:10,stop_point:SP_4925,Sévérac,2
+2292165,07:32:00,07:32:10,stop_point:SP_4922,Saint Granier,3
+2292165,07:34:00,07:34:10,stop_point:SP_5589,Ellis,4
+2292165,07:35:00,07:35:10,stop_point:SP_5591,André Turcat,5
+2292165,07:36:00,07:36:10,stop_point:SP_5585,Camille Claudel,6
+2292165,07:37:00,07:37:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292165,07:39:00,07:39:10,stop_point:SP_5592,Dominique Clos,8
+2292165,07:40:00,07:40:10,stop_point:SP_5596,Bertier,9
+2292165,07:42:00,07:42:10,stop_point:SP_3456,Bisson,10
+2292165,07:43:00,07:43:10,stop_point:SP_3643,Flambère,11
+2292165,07:44:00,07:44:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292165,07:46:00,07:46:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292165,07:47:00,07:47:10,stop_point:SP_214,Arènes Romaines,14
+2292165,07:48:00,07:48:10,stop_point:SP_1198,Arènes Romaines,15
+2292166,07:55:00,07:55:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292166,07:56:00,07:56:10,stop_point:SP_4925,Sévérac,2
+2292166,07:58:00,07:58:10,stop_point:SP_4922,Saint Granier,3
+2292166,08:00:00,08:00:10,stop_point:SP_5589,Ellis,4
+2292166,08:01:00,08:01:10,stop_point:SP_5591,André Turcat,5
+2292166,08:01:00,08:01:10,stop_point:SP_5585,Camille Claudel,6
+2292166,08:03:00,08:03:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292166,08:04:00,08:04:10,stop_point:SP_5592,Dominique Clos,8
+2292166,08:06:00,08:06:10,stop_point:SP_5596,Bertier,9
+2292166,08:07:00,08:07:10,stop_point:SP_3456,Bisson,10
+2292166,08:09:00,08:09:10,stop_point:SP_3643,Flambère,11
+2292166,08:10:00,08:10:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292166,08:12:00,08:12:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292166,08:13:00,08:13:10,stop_point:SP_214,Arènes Romaines,14
+2292166,08:14:00,08:14:10,stop_point:SP_1198,Arènes Romaines,15
+2292167,08:20:00,08:20:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292167,08:21:00,08:21:10,stop_point:SP_4925,Sévérac,2
+2292167,08:23:00,08:23:10,stop_point:SP_4922,Saint Granier,3
+2292167,08:25:00,08:25:10,stop_point:SP_5589,Ellis,4
+2292167,08:26:00,08:26:10,stop_point:SP_5591,André Turcat,5
+2292167,08:26:00,08:26:10,stop_point:SP_5585,Camille Claudel,6
+2292167,08:28:00,08:28:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292167,08:29:00,08:29:10,stop_point:SP_5592,Dominique Clos,8
+2292167,08:31:00,08:31:10,stop_point:SP_5596,Bertier,9
+2292167,08:32:00,08:32:10,stop_point:SP_3456,Bisson,10
+2292167,08:34:00,08:34:10,stop_point:SP_3643,Flambère,11
+2292167,08:35:00,08:35:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292167,08:37:00,08:37:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292167,08:38:00,08:38:10,stop_point:SP_214,Arènes Romaines,14
+2292167,08:39:00,08:39:10,stop_point:SP_1198,Arènes Romaines,15
+2292168,08:45:00,08:45:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292168,08:46:00,08:46:10,stop_point:SP_4925,Sévérac,2
+2292168,08:48:00,08:48:10,stop_point:SP_4922,Saint Granier,3
+2292168,08:50:00,08:50:10,stop_point:SP_5589,Ellis,4
+2292168,08:51:00,08:51:10,stop_point:SP_5591,André Turcat,5
+2292168,08:51:00,08:51:10,stop_point:SP_5585,Camille Claudel,6
+2292168,08:53:00,08:53:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292168,08:54:00,08:54:10,stop_point:SP_5592,Dominique Clos,8
+2292168,08:56:00,08:56:10,stop_point:SP_5596,Bertier,9
+2292168,08:57:00,08:57:10,stop_point:SP_3456,Bisson,10
+2292168,08:59:00,08:59:10,stop_point:SP_3643,Flambère,11
+2292168,09:00:00,09:00:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292168,09:02:00,09:02:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292168,09:03:00,09:03:10,stop_point:SP_214,Arènes Romaines,14
+2292168,09:04:00,09:04:10,stop_point:SP_1198,Arènes Romaines,15
+2292169,09:30:00,09:30:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292169,09:31:00,09:31:10,stop_point:SP_4925,Sévérac,2
+2292169,09:32:00,09:32:10,stop_point:SP_4922,Saint Granier,3
+2292169,09:34:00,09:34:10,stop_point:SP_5589,Ellis,4
+2292169,09:35:00,09:35:10,stop_point:SP_5591,André Turcat,5
+2292169,09:36:00,09:36:10,stop_point:SP_5585,Camille Claudel,6
+2292169,09:37:00,09:37:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292169,09:39:00,09:39:10,stop_point:SP_5592,Dominique Clos,8
+2292169,09:40:00,09:40:10,stop_point:SP_5596,Bertier,9
+2292169,09:42:00,09:42:10,stop_point:SP_3456,Bisson,10
+2292169,09:43:00,09:43:10,stop_point:SP_3643,Flambère,11
+2292169,09:44:00,09:44:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292169,09:46:00,09:46:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292169,09:47:00,09:47:10,stop_point:SP_214,Arènes Romaines,14
+2292169,09:48:00,09:48:10,stop_point:SP_1198,Arènes Romaines,15
+2292170,10:15:00,10:15:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292170,10:16:00,10:16:10,stop_point:SP_4925,Sévérac,2
+2292170,10:17:00,10:17:10,stop_point:SP_4922,Saint Granier,3
+2292170,10:19:00,10:19:10,stop_point:SP_5589,Ellis,4
+2292170,10:20:00,10:20:10,stop_point:SP_5591,André Turcat,5
+2292170,10:21:00,10:21:10,stop_point:SP_5585,Camille Claudel,6
+2292170,10:22:00,10:22:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292170,10:24:00,10:24:10,stop_point:SP_5592,Dominique Clos,8
+2292170,10:25:00,10:25:10,stop_point:SP_5596,Bertier,9
+2292170,10:27:00,10:27:10,stop_point:SP_3456,Bisson,10
+2292170,10:28:00,10:28:10,stop_point:SP_3643,Flambère,11
+2292170,10:29:00,10:29:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292170,10:31:00,10:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292170,10:32:00,10:32:10,stop_point:SP_214,Arènes Romaines,14
+2292170,10:33:00,10:33:10,stop_point:SP_1198,Arènes Romaines,15
+2292171,11:00:00,11:00:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292171,11:01:00,11:01:10,stop_point:SP_4925,Sévérac,2
+2292171,11:02:00,11:02:10,stop_point:SP_4922,Saint Granier,3
+2292171,11:04:00,11:04:10,stop_point:SP_5589,Ellis,4
+2292171,11:05:00,11:05:10,stop_point:SP_5591,André Turcat,5
+2292171,11:06:00,11:06:10,stop_point:SP_5585,Camille Claudel,6
+2292171,11:07:00,11:07:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292171,11:09:00,11:09:10,stop_point:SP_5592,Dominique Clos,8
+2292171,11:10:00,11:10:10,stop_point:SP_5596,Bertier,9
+2292171,11:12:00,11:12:10,stop_point:SP_3456,Bisson,10
+2292171,11:13:00,11:13:10,stop_point:SP_3643,Flambère,11
+2292171,11:14:00,11:14:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292171,11:16:00,11:16:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292171,11:17:00,11:17:10,stop_point:SP_214,Arènes Romaines,14
+2292171,11:18:00,11:18:10,stop_point:SP_1198,Arènes Romaines,15
+2292172,11:45:00,11:45:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292172,11:46:00,11:46:10,stop_point:SP_4925,Sévérac,2
+2292172,11:48:00,11:48:10,stop_point:SP_4922,Saint Granier,3
+2292172,11:50:00,11:50:10,stop_point:SP_5589,Ellis,4
+2292172,11:51:00,11:51:10,stop_point:SP_5591,André Turcat,5
+2292172,11:51:00,11:51:10,stop_point:SP_5585,Camille Claudel,6
+2292172,11:53:00,11:53:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292172,11:54:00,11:54:10,stop_point:SP_5592,Dominique Clos,8
+2292172,11:56:00,11:56:10,stop_point:SP_5596,Bertier,9
+2292172,11:57:00,11:57:10,stop_point:SP_3456,Bisson,10
+2292172,11:59:00,11:59:10,stop_point:SP_3643,Flambère,11
+2292172,12:00:00,12:00:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292172,12:02:00,12:02:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292172,12:03:00,12:03:10,stop_point:SP_214,Arènes Romaines,14
+2292172,12:04:00,12:04:10,stop_point:SP_1198,Arènes Romaines,15
+2292173,12:30:00,12:30:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292173,12:31:00,12:31:10,stop_point:SP_4925,Sévérac,2
+2292173,12:32:00,12:32:10,stop_point:SP_4922,Saint Granier,3
+2292173,12:34:00,12:34:10,stop_point:SP_5589,Ellis,4
+2292173,12:35:00,12:35:10,stop_point:SP_5591,André Turcat,5
+2292173,12:36:00,12:36:10,stop_point:SP_5585,Camille Claudel,6
+2292173,12:37:00,12:37:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292173,12:39:00,12:39:10,stop_point:SP_5592,Dominique Clos,8
+2292173,12:40:00,12:40:10,stop_point:SP_5596,Bertier,9
+2292173,12:42:00,12:42:10,stop_point:SP_3456,Bisson,10
+2292173,12:43:00,12:43:10,stop_point:SP_3643,Flambère,11
+2292173,12:44:00,12:44:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292173,12:46:00,12:46:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292173,12:47:00,12:47:10,stop_point:SP_214,Arènes Romaines,14
+2292173,12:48:00,12:48:10,stop_point:SP_1198,Arènes Romaines,15
+2292174,13:15:00,13:15:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292174,13:16:00,13:16:10,stop_point:SP_4925,Sévérac,2
+2292174,13:17:00,13:17:10,stop_point:SP_4922,Saint Granier,3
+2292174,13:19:00,13:19:10,stop_point:SP_5589,Ellis,4
+2292174,13:20:00,13:20:10,stop_point:SP_5591,André Turcat,5
+2292174,13:21:00,13:21:10,stop_point:SP_5585,Camille Claudel,6
+2292174,13:22:00,13:22:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292174,13:24:00,13:24:10,stop_point:SP_5592,Dominique Clos,8
+2292174,13:25:00,13:25:10,stop_point:SP_5596,Bertier,9
+2292174,13:27:00,13:27:10,stop_point:SP_3456,Bisson,10
+2292174,13:28:00,13:28:10,stop_point:SP_3643,Flambère,11
+2292174,13:29:00,13:29:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292174,13:31:00,13:31:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292174,13:32:00,13:32:10,stop_point:SP_214,Arènes Romaines,14
+2292174,13:33:00,13:33:10,stop_point:SP_1198,Arènes Romaines,15
+2292175,14:00:00,14:00:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292175,14:01:00,14:01:10,stop_point:SP_4925,Sévérac,2
+2292175,14:02:00,14:02:10,stop_point:SP_4922,Saint Granier,3
+2292175,14:04:00,14:04:10,stop_point:SP_5589,Ellis,4
+2292175,14:05:00,14:05:10,stop_point:SP_5591,André Turcat,5
+2292175,14:06:00,14:06:10,stop_point:SP_5585,Camille Claudel,6
+2292175,14:07:00,14:07:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292175,14:09:00,14:09:10,stop_point:SP_5592,Dominique Clos,8
+2292175,14:10:00,14:10:10,stop_point:SP_5596,Bertier,9
+2292175,14:12:00,14:12:10,stop_point:SP_3456,Bisson,10
+2292175,14:13:00,14:13:10,stop_point:SP_3643,Flambère,11
+2292175,14:14:00,14:14:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292175,14:16:00,14:16:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292175,14:17:00,14:17:10,stop_point:SP_214,Arènes Romaines,14
+2292175,14:18:00,14:18:10,stop_point:SP_1198,Arènes Romaines,15
+2292176,14:45:00,14:45:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292176,14:46:00,14:46:10,stop_point:SP_4925,Sévérac,2
+2292176,14:47:00,14:47:10,stop_point:SP_4922,Saint Granier,3
+2292176,14:49:00,14:49:10,stop_point:SP_5589,Ellis,4
+2292176,14:50:00,14:50:10,stop_point:SP_5591,André Turcat,5
+2292176,14:51:00,14:51:10,stop_point:SP_5585,Camille Claudel,6
+2292176,14:52:00,14:52:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292176,14:54:00,14:54:10,stop_point:SP_5592,Dominique Clos,8
+2292176,14:55:00,14:55:10,stop_point:SP_5596,Bertier,9
+2292176,14:57:00,14:57:10,stop_point:SP_3456,Bisson,10
+2292176,14:58:00,14:58:10,stop_point:SP_3643,Flambère,11
+2292176,14:59:00,14:59:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292176,15:01:00,15:01:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292176,15:02:00,15:02:10,stop_point:SP_214,Arènes Romaines,14
+2292176,15:03:00,15:03:10,stop_point:SP_1198,Arènes Romaines,15
+2292177,15:30:00,15:30:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292177,15:31:00,15:31:10,stop_point:SP_4925,Sévérac,2
+2292177,15:32:00,15:32:10,stop_point:SP_4922,Saint Granier,3
+2292177,15:34:00,15:34:10,stop_point:SP_5589,Ellis,4
+2292177,15:35:00,15:35:10,stop_point:SP_5591,André Turcat,5
+2292177,15:36:00,15:36:10,stop_point:SP_5585,Camille Claudel,6
+2292177,15:37:00,15:37:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292177,15:39:00,15:39:10,stop_point:SP_5592,Dominique Clos,8
+2292177,15:40:00,15:40:10,stop_point:SP_5596,Bertier,9
+2292177,15:42:00,15:42:10,stop_point:SP_3456,Bisson,10
+2292177,15:43:00,15:43:10,stop_point:SP_3643,Flambère,11
+2292177,15:44:00,15:44:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292177,15:46:00,15:46:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292177,15:47:00,15:47:10,stop_point:SP_214,Arènes Romaines,14
+2292177,15:48:00,15:48:10,stop_point:SP_1198,Arènes Romaines,15
+2292178,16:15:00,16:15:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292178,16:16:00,16:16:10,stop_point:SP_4925,Sévérac,2
+2292178,16:18:00,16:18:10,stop_point:SP_4922,Saint Granier,3
+2292178,16:20:00,16:20:10,stop_point:SP_5589,Ellis,4
+2292178,16:21:00,16:21:10,stop_point:SP_5591,André Turcat,5
+2292178,16:21:00,16:21:10,stop_point:SP_5585,Camille Claudel,6
+2292178,16:23:00,16:23:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292178,16:24:00,16:24:10,stop_point:SP_5592,Dominique Clos,8
+2292178,16:26:00,16:26:10,stop_point:SP_5596,Bertier,9
+2292178,16:27:00,16:27:10,stop_point:SP_3456,Bisson,10
+2292178,16:29:00,16:29:10,stop_point:SP_3643,Flambère,11
+2292178,16:30:00,16:30:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292178,16:32:00,16:32:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292178,16:33:00,16:33:10,stop_point:SP_214,Arènes Romaines,14
+2292178,16:34:00,16:34:10,stop_point:SP_1198,Arènes Romaines,15
+2292179,16:40:00,16:40:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292179,16:41:00,16:41:10,stop_point:SP_4925,Sévérac,2
+2292179,16:43:00,16:43:10,stop_point:SP_4922,Saint Granier,3
+2292179,16:45:00,16:45:10,stop_point:SP_5589,Ellis,4
+2292179,16:46:00,16:46:10,stop_point:SP_5591,André Turcat,5
+2292179,16:46:00,16:46:10,stop_point:SP_5585,Camille Claudel,6
+2292179,16:48:00,16:48:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292179,16:49:00,16:49:10,stop_point:SP_5592,Dominique Clos,8
+2292179,16:51:00,16:51:10,stop_point:SP_5596,Bertier,9
+2292179,16:52:00,16:52:10,stop_point:SP_3456,Bisson,10
+2292179,16:54:00,16:54:10,stop_point:SP_3643,Flambère,11
+2292179,16:55:00,16:55:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292179,16:57:00,16:57:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292179,16:58:00,16:58:10,stop_point:SP_214,Arènes Romaines,14
+2292179,16:59:00,16:59:10,stop_point:SP_1198,Arènes Romaines,15
+2292180,17:04:00,17:04:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292180,17:05:00,17:05:10,stop_point:SP_4925,Sévérac,2
+2292180,17:07:00,17:07:10,stop_point:SP_4922,Saint Granier,3
+2292180,17:09:00,17:09:10,stop_point:SP_5589,Ellis,4
+2292180,17:10:00,17:10:10,stop_point:SP_5591,André Turcat,5
+2292180,17:11:00,17:11:10,stop_point:SP_5585,Camille Claudel,6
+2292180,17:12:00,17:12:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292180,17:14:00,17:14:10,stop_point:SP_5592,Dominique Clos,8
+2292180,17:16:00,17:16:10,stop_point:SP_5596,Bertier,9
+2292180,17:17:00,17:17:10,stop_point:SP_3456,Bisson,10
+2292180,17:19:00,17:19:10,stop_point:SP_3643,Flambère,11
+2292180,17:21:00,17:21:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292180,17:23:00,17:23:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292180,17:24:00,17:24:10,stop_point:SP_214,Arènes Romaines,14
+2292180,17:25:00,17:25:10,stop_point:SP_1198,Arènes Romaines,15
+2292181,17:29:00,17:29:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292181,17:30:00,17:30:10,stop_point:SP_4925,Sévérac,2
+2292181,17:32:00,17:32:10,stop_point:SP_4922,Saint Granier,3
+2292181,17:34:00,17:34:10,stop_point:SP_5589,Ellis,4
+2292181,17:35:00,17:35:10,stop_point:SP_5591,André Turcat,5
+2292181,17:36:00,17:36:10,stop_point:SP_5585,Camille Claudel,6
+2292181,17:37:00,17:37:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292181,17:39:00,17:39:10,stop_point:SP_5592,Dominique Clos,8
+2292181,17:41:00,17:41:10,stop_point:SP_5596,Bertier,9
+2292181,17:42:00,17:42:10,stop_point:SP_3456,Bisson,10
+2292181,17:44:00,17:44:10,stop_point:SP_3643,Flambère,11
+2292181,17:46:00,17:46:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292181,17:48:00,17:48:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292181,17:49:00,17:49:10,stop_point:SP_214,Arènes Romaines,14
+2292181,17:50:00,17:50:10,stop_point:SP_1198,Arènes Romaines,15
+2292182,17:54:00,17:54:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292182,17:55:00,17:55:10,stop_point:SP_4925,Sévérac,2
+2292182,17:57:00,17:57:10,stop_point:SP_4922,Saint Granier,3
+2292182,17:59:00,17:59:10,stop_point:SP_5589,Ellis,4
+2292182,18:00:00,18:00:10,stop_point:SP_5591,André Turcat,5
+2292182,18:01:00,18:01:10,stop_point:SP_5585,Camille Claudel,6
+2292182,18:02:00,18:02:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292182,18:04:00,18:04:10,stop_point:SP_5592,Dominique Clos,8
+2292182,18:06:00,18:06:10,stop_point:SP_5596,Bertier,9
+2292182,18:07:00,18:07:10,stop_point:SP_3456,Bisson,10
+2292182,18:09:00,18:09:10,stop_point:SP_3643,Flambère,11
+2292182,18:11:00,18:11:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292182,18:13:00,18:13:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292182,18:14:00,18:14:10,stop_point:SP_214,Arènes Romaines,14
+2292182,18:15:00,18:15:10,stop_point:SP_1198,Arènes Romaines,15
+2292183,18:20:00,18:20:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292183,18:21:00,18:21:10,stop_point:SP_4925,Sévérac,2
+2292183,18:23:00,18:23:10,stop_point:SP_4922,Saint Granier,3
+2292183,18:25:00,18:25:10,stop_point:SP_5589,Ellis,4
+2292183,18:26:00,18:26:10,stop_point:SP_5591,André Turcat,5
+2292183,18:26:00,18:26:10,stop_point:SP_5585,Camille Claudel,6
+2292183,18:28:00,18:28:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292183,18:29:00,18:29:10,stop_point:SP_5592,Dominique Clos,8
+2292183,18:31:00,18:31:10,stop_point:SP_5596,Bertier,9
+2292183,18:32:00,18:32:10,stop_point:SP_3456,Bisson,10
+2292183,18:34:00,18:34:10,stop_point:SP_3643,Flambère,11
+2292183,18:35:00,18:35:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292183,18:37:00,18:37:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292183,18:38:00,18:38:10,stop_point:SP_214,Arènes Romaines,14
+2292183,18:39:00,18:39:10,stop_point:SP_1198,Arènes Romaines,15
+2292184,18:50:00,18:50:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292184,18:51:00,18:51:10,stop_point:SP_4925,Sévérac,2
+2292184,18:52:00,18:52:10,stop_point:SP_4922,Saint Granier,3
+2292184,18:54:00,18:54:10,stop_point:SP_5589,Ellis,4
+2292184,18:55:00,18:55:10,stop_point:SP_5591,André Turcat,5
+2292184,18:56:00,18:56:10,stop_point:SP_5585,Camille Claudel,6
+2292184,18:57:00,18:57:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292184,18:59:00,18:59:10,stop_point:SP_5592,Dominique Clos,8
+2292184,19:00:00,19:00:10,stop_point:SP_5596,Bertier,9
+2292184,19:02:00,19:02:10,stop_point:SP_3456,Bisson,10
+2292184,19:03:00,19:03:10,stop_point:SP_3643,Flambère,11
+2292184,19:04:00,19:04:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292184,19:06:00,19:06:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292184,19:07:00,19:07:10,stop_point:SP_214,Arènes Romaines,14
+2292184,19:08:00,19:08:10,stop_point:SP_1198,Arènes Romaines,15
+2292185,19:35:00,19:35:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292185,19:36:00,19:36:10,stop_point:SP_4925,Sévérac,2
+2292185,19:37:00,19:37:10,stop_point:SP_4922,Saint Granier,3
+2292185,19:39:00,19:39:10,stop_point:SP_5589,Ellis,4
+2292185,19:40:00,19:40:10,stop_point:SP_5591,André Turcat,5
+2292185,19:41:00,19:41:10,stop_point:SP_5585,Camille Claudel,6
+2292185,19:42:00,19:42:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292185,19:44:00,19:44:10,stop_point:SP_5592,Dominique Clos,8
+2292185,19:45:00,19:45:10,stop_point:SP_5596,Bertier,9
+2292185,19:47:00,19:47:10,stop_point:SP_3456,Bisson,10
+2292185,19:48:00,19:48:10,stop_point:SP_3643,Flambère,11
+2292185,19:49:00,19:49:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292185,19:51:00,19:51:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292185,19:52:00,19:52:10,stop_point:SP_214,Arènes Romaines,14
+2292185,19:53:00,19:53:10,stop_point:SP_1198,Arènes Romaines,15
+2292186,20:25:00,20:25:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,1
+2292186,20:26:00,20:26:10,stop_point:SP_4925,Sévérac,2
+2292186,20:27:00,20:27:10,stop_point:SP_4922,Saint Granier,3
+2292186,20:29:00,20:29:10,stop_point:SP_5589,Ellis,4
+2292186,20:30:00,20:30:10,stop_point:SP_5591,André Turcat,5
+2292186,20:31:00,20:31:10,stop_point:SP_5585,Camille Claudel,6
+2292186,20:32:00,20:32:10,stop_point:SP_5586,Gare de St-Martin du Touch,7
+2292186,20:34:00,20:34:10,stop_point:SP_5592,Dominique Clos,8
+2292186,20:35:00,20:35:10,stop_point:SP_5596,Bertier,9
+2292186,20:37:00,20:37:10,stop_point:SP_3456,Bisson,10
+2292186,20:38:00,20:38:10,stop_point:SP_3643,Flambère,11
+2292186,20:39:00,20:39:10,stop_point:SP_1182,Ctre Cial Purpan Sud,12
+2292186,20:41:00,20:41:10,stop_point:SP_1820,Ctre Cial Purpan Est,13
+2292186,20:42:00,20:42:10,stop_point:SP_214,Arènes Romaines,14
+2292186,20:43:00,20:43:10,stop_point:SP_1198,Arènes Romaines,15
+2292187,06:30:00,06:30:10,stop_point:SP_1198,Arènes Romaines,1
+2292187,06:32:00,06:32:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292187,06:33:00,06:33:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292187,06:34:00,06:34:10,stop_point:SP_3544,Flambère,4
+2292187,06:36:00,06:36:10,stop_point:SP_511,Bisson,5
+2292187,06:37:00,06:37:10,stop_point:SP_5590,Bertier,6
+2292187,06:39:00,06:39:10,stop_point:SP_5597,Dominique Clos,7
+2292187,06:40:00,06:40:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292187,06:42:00,06:42:10,stop_point:SP_5595,Camille Claudel,9
+2292187,06:42:00,06:42:10,stop_point:SP_5594,André Turcat,10
+2292187,06:44:00,06:44:10,stop_point:SP_5593,Ellis,11
+2292187,06:45:00,06:45:10,stop_point:SP_4924,Saint Granier,12
+2292187,06:46:00,06:46:10,stop_point:SP_4921,Sévérac,13
+2292187,06:48:00,06:48:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292188,07:00:00,07:00:10,stop_point:SP_1198,Arènes Romaines,1
+2292188,07:02:00,07:02:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292188,07:03:00,07:03:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292188,07:04:00,07:04:10,stop_point:SP_3544,Flambère,4
+2292188,07:06:00,07:06:10,stop_point:SP_511,Bisson,5
+2292188,07:07:00,07:07:10,stop_point:SP_5590,Bertier,6
+2292188,07:09:00,07:09:10,stop_point:SP_5597,Dominique Clos,7
+2292188,07:10:00,07:10:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292188,07:12:00,07:12:10,stop_point:SP_5595,Camille Claudel,9
+2292188,07:12:00,07:12:10,stop_point:SP_5594,André Turcat,10
+2292188,07:14:00,07:14:10,stop_point:SP_5593,Ellis,11
+2292188,07:15:00,07:15:10,stop_point:SP_4924,Saint Granier,12
+2292188,07:16:00,07:16:10,stop_point:SP_4921,Sévérac,13
+2292188,07:18:00,07:18:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292189,07:25:00,07:25:10,stop_point:SP_1198,Arènes Romaines,1
+2292189,07:27:00,07:27:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292189,07:28:00,07:28:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292189,07:29:00,07:29:10,stop_point:SP_3544,Flambère,4
+2292189,07:31:00,07:31:10,stop_point:SP_511,Bisson,5
+2292189,07:32:00,07:32:10,stop_point:SP_5590,Bertier,6
+2292189,07:34:00,07:34:10,stop_point:SP_5597,Dominique Clos,7
+2292189,07:35:00,07:35:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292189,07:37:00,07:37:10,stop_point:SP_5595,Camille Claudel,9
+2292189,07:37:00,07:37:10,stop_point:SP_5594,André Turcat,10
+2292189,07:39:00,07:39:10,stop_point:SP_5593,Ellis,11
+2292189,07:40:00,07:40:10,stop_point:SP_4924,Saint Granier,12
+2292189,07:41:00,07:41:10,stop_point:SP_4921,Sévérac,13
+2292189,07:43:00,07:43:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292190,07:50:00,07:50:10,stop_point:SP_1198,Arènes Romaines,1
+2292190,07:52:00,07:52:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292190,07:53:00,07:53:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292190,07:54:00,07:54:10,stop_point:SP_3544,Flambère,4
+2292190,07:56:00,07:56:10,stop_point:SP_511,Bisson,5
+2292190,07:57:00,07:57:10,stop_point:SP_5590,Bertier,6
+2292190,07:59:00,07:59:10,stop_point:SP_5597,Dominique Clos,7
+2292190,08:00:00,08:00:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292190,08:02:00,08:02:10,stop_point:SP_5595,Camille Claudel,9
+2292190,08:02:00,08:02:10,stop_point:SP_5594,André Turcat,10
+2292190,08:04:00,08:04:10,stop_point:SP_5593,Ellis,11
+2292190,08:05:00,08:05:10,stop_point:SP_4924,Saint Granier,12
+2292190,08:06:00,08:06:10,stop_point:SP_4921,Sévérac,13
+2292190,08:08:00,08:08:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292191,08:15:00,08:15:10,stop_point:SP_1198,Arènes Romaines,1
+2292191,08:17:00,08:17:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292191,08:18:00,08:18:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292191,08:19:00,08:19:10,stop_point:SP_3544,Flambère,4
+2292191,08:21:00,08:21:10,stop_point:SP_511,Bisson,5
+2292191,08:23:00,08:23:10,stop_point:SP_5590,Bertier,6
+2292191,08:24:00,08:24:10,stop_point:SP_5597,Dominique Clos,7
+2292191,08:26:00,08:26:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292191,08:27:00,08:27:10,stop_point:SP_5595,Camille Claudel,9
+2292191,08:28:00,08:28:10,stop_point:SP_5594,André Turcat,10
+2292191,08:29:00,08:29:10,stop_point:SP_5593,Ellis,11
+2292191,08:31:00,08:31:10,stop_point:SP_4924,Saint Granier,12
+2292191,08:32:00,08:32:10,stop_point:SP_4921,Sévérac,13
+2292191,08:34:00,08:34:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292192,08:40:00,08:40:10,stop_point:SP_1198,Arènes Romaines,1
+2292192,08:42:00,08:42:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292192,08:43:00,08:43:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292192,08:44:00,08:44:10,stop_point:SP_3544,Flambère,4
+2292192,08:46:00,08:46:10,stop_point:SP_511,Bisson,5
+2292192,08:48:00,08:48:10,stop_point:SP_5590,Bertier,6
+2292192,08:49:00,08:49:10,stop_point:SP_5597,Dominique Clos,7
+2292192,08:51:00,08:51:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292192,08:52:00,08:52:10,stop_point:SP_5595,Camille Claudel,9
+2292192,08:53:00,08:53:10,stop_point:SP_5594,André Turcat,10
+2292192,08:54:00,08:54:10,stop_point:SP_5593,Ellis,11
+2292192,08:56:00,08:56:10,stop_point:SP_4924,Saint Granier,12
+2292192,08:57:00,08:57:10,stop_point:SP_4921,Sévérac,13
+2292192,08:59:00,08:59:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292193,09:05:00,09:05:10,stop_point:SP_1198,Arènes Romaines,1
+2292193,09:07:00,09:07:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292193,09:08:00,09:08:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292193,09:09:00,09:09:10,stop_point:SP_3544,Flambère,4
+2292193,09:11:00,09:11:10,stop_point:SP_511,Bisson,5
+2292193,09:13:00,09:13:10,stop_point:SP_5590,Bertier,6
+2292193,09:14:00,09:14:10,stop_point:SP_5597,Dominique Clos,7
+2292193,09:16:00,09:16:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292193,09:17:00,09:17:10,stop_point:SP_5595,Camille Claudel,9
+2292193,09:18:00,09:18:10,stop_point:SP_5594,André Turcat,10
+2292193,09:19:00,09:19:10,stop_point:SP_5593,Ellis,11
+2292193,09:21:00,09:21:10,stop_point:SP_4924,Saint Granier,12
+2292193,09:22:00,09:22:10,stop_point:SP_4921,Sévérac,13
+2292193,09:24:00,09:24:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292194,09:50:00,09:50:10,stop_point:SP_1198,Arènes Romaines,1
+2292194,09:52:00,09:52:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292194,09:53:00,09:53:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292194,09:53:00,09:53:10,stop_point:SP_3544,Flambère,4
+2292194,09:56:00,09:56:10,stop_point:SP_511,Bisson,5
+2292194,09:57:00,09:57:10,stop_point:SP_5590,Bertier,6
+2292194,09:58:00,09:58:10,stop_point:SP_5597,Dominique Clos,7
+2292194,10:00:00,10:00:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292194,10:01:00,10:01:10,stop_point:SP_5595,Camille Claudel,9
+2292194,10:02:00,10:02:10,stop_point:SP_5594,André Turcat,10
+2292194,10:03:00,10:03:10,stop_point:SP_5593,Ellis,11
+2292194,10:04:00,10:04:10,stop_point:SP_4924,Saint Granier,12
+2292194,10:06:00,10:06:10,stop_point:SP_4921,Sévérac,13
+2292194,10:07:00,10:07:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292195,10:35:00,10:35:10,stop_point:SP_1198,Arènes Romaines,1
+2292195,10:37:00,10:37:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292195,10:38:00,10:38:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292195,10:38:00,10:38:10,stop_point:SP_3544,Flambère,4
+2292195,10:41:00,10:41:10,stop_point:SP_511,Bisson,5
+2292195,10:42:00,10:42:10,stop_point:SP_5590,Bertier,6
+2292195,10:43:00,10:43:10,stop_point:SP_5597,Dominique Clos,7
+2292195,10:45:00,10:45:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292195,10:46:00,10:46:10,stop_point:SP_5595,Camille Claudel,9
+2292195,10:47:00,10:47:10,stop_point:SP_5594,André Turcat,10
+2292195,10:48:00,10:48:10,stop_point:SP_5593,Ellis,11
+2292195,10:49:00,10:49:10,stop_point:SP_4924,Saint Granier,12
+2292195,10:51:00,10:51:10,stop_point:SP_4921,Sévérac,13
+2292195,10:52:00,10:52:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292196,11:20:00,11:20:10,stop_point:SP_1198,Arènes Romaines,1
+2292196,11:22:00,11:22:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292196,11:23:00,11:23:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292196,11:23:00,11:23:10,stop_point:SP_3544,Flambère,4
+2292196,11:26:00,11:26:10,stop_point:SP_511,Bisson,5
+2292196,11:27:00,11:27:10,stop_point:SP_5590,Bertier,6
+2292196,11:28:00,11:28:10,stop_point:SP_5597,Dominique Clos,7
+2292196,11:30:00,11:30:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292196,11:31:00,11:31:10,stop_point:SP_5595,Camille Claudel,9
+2292196,11:32:00,11:32:10,stop_point:SP_5594,André Turcat,10
+2292196,11:33:00,11:33:10,stop_point:SP_5593,Ellis,11
+2292196,11:34:00,11:34:10,stop_point:SP_4924,Saint Granier,12
+2292196,11:36:00,11:36:10,stop_point:SP_4921,Sévérac,13
+2292196,11:37:00,11:37:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292197,12:05:00,12:05:10,stop_point:SP_1198,Arènes Romaines,1
+2292197,12:07:00,12:07:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292197,12:08:00,12:08:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292197,12:09:00,12:09:10,stop_point:SP_3544,Flambère,4
+2292197,12:11:00,12:11:10,stop_point:SP_511,Bisson,5
+2292197,12:13:00,12:13:10,stop_point:SP_5590,Bertier,6
+2292197,12:14:00,12:14:10,stop_point:SP_5597,Dominique Clos,7
+2292197,12:16:00,12:16:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292197,12:17:00,12:17:10,stop_point:SP_5595,Camille Claudel,9
+2292197,12:18:00,12:18:10,stop_point:SP_5594,André Turcat,10
+2292197,12:19:00,12:19:10,stop_point:SP_5593,Ellis,11
+2292197,12:21:00,12:21:10,stop_point:SP_4924,Saint Granier,12
+2292197,12:22:00,12:22:10,stop_point:SP_4921,Sévérac,13
+2292197,12:24:00,12:24:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292198,12:50:00,12:50:10,stop_point:SP_1198,Arènes Romaines,1
+2292198,12:52:00,12:52:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292198,12:53:00,12:53:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292198,12:54:00,12:54:10,stop_point:SP_3544,Flambère,4
+2292198,12:56:00,12:56:10,stop_point:SP_511,Bisson,5
+2292198,12:58:00,12:58:10,stop_point:SP_5590,Bertier,6
+2292198,12:59:00,12:59:10,stop_point:SP_5597,Dominique Clos,7
+2292198,13:01:00,13:01:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292198,13:02:00,13:02:10,stop_point:SP_5595,Camille Claudel,9
+2292198,13:03:00,13:03:10,stop_point:SP_5594,André Turcat,10
+2292198,13:04:00,13:04:10,stop_point:SP_5593,Ellis,11
+2292198,13:06:00,13:06:10,stop_point:SP_4924,Saint Granier,12
+2292198,13:07:00,13:07:10,stop_point:SP_4921,Sévérac,13
+2292198,13:09:00,13:09:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292199,13:35:00,13:35:10,stop_point:SP_1198,Arènes Romaines,1
+2292199,13:37:00,13:37:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292199,13:38:00,13:38:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292199,13:39:00,13:39:10,stop_point:SP_3544,Flambère,4
+2292199,13:41:00,13:41:10,stop_point:SP_511,Bisson,5
+2292199,13:43:00,13:43:10,stop_point:SP_5590,Bertier,6
+2292199,13:44:00,13:44:10,stop_point:SP_5597,Dominique Clos,7
+2292199,13:46:00,13:46:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292199,13:47:00,13:47:10,stop_point:SP_5595,Camille Claudel,9
+2292199,13:48:00,13:48:10,stop_point:SP_5594,André Turcat,10
+2292199,13:49:00,13:49:10,stop_point:SP_5593,Ellis,11
+2292199,13:51:00,13:51:10,stop_point:SP_4924,Saint Granier,12
+2292199,13:52:00,13:52:10,stop_point:SP_4921,Sévérac,13
+2292199,13:54:00,13:54:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292200,14:20:00,14:20:10,stop_point:SP_1198,Arènes Romaines,1
+2292200,14:22:00,14:22:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292200,14:23:00,14:23:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292200,14:24:00,14:24:10,stop_point:SP_3544,Flambère,4
+2292200,14:26:00,14:26:10,stop_point:SP_511,Bisson,5
+2292200,14:28:00,14:28:10,stop_point:SP_5590,Bertier,6
+2292200,14:29:00,14:29:10,stop_point:SP_5597,Dominique Clos,7
+2292200,14:31:00,14:31:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292200,14:32:00,14:32:10,stop_point:SP_5595,Camille Claudel,9
+2292200,14:33:00,14:33:10,stop_point:SP_5594,André Turcat,10
+2292200,14:34:00,14:34:10,stop_point:SP_5593,Ellis,11
+2292200,14:36:00,14:36:10,stop_point:SP_4924,Saint Granier,12
+2292200,14:37:00,14:37:10,stop_point:SP_4921,Sévérac,13
+2292200,14:39:00,14:39:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292201,15:05:00,15:05:10,stop_point:SP_1198,Arènes Romaines,1
+2292201,15:07:00,15:07:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292201,15:08:00,15:08:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292201,15:09:00,15:09:10,stop_point:SP_3544,Flambère,4
+2292201,15:11:00,15:11:10,stop_point:SP_511,Bisson,5
+2292201,15:13:00,15:13:10,stop_point:SP_5590,Bertier,6
+2292201,15:14:00,15:14:10,stop_point:SP_5597,Dominique Clos,7
+2292201,15:16:00,15:16:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292201,15:17:00,15:17:10,stop_point:SP_5595,Camille Claudel,9
+2292201,15:18:00,15:18:10,stop_point:SP_5594,André Turcat,10
+2292201,15:19:00,15:19:10,stop_point:SP_5593,Ellis,11
+2292201,15:21:00,15:21:10,stop_point:SP_4924,Saint Granier,12
+2292201,15:22:00,15:22:10,stop_point:SP_4921,Sévérac,13
+2292201,15:24:00,15:24:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292202,15:50:00,15:50:10,stop_point:SP_1198,Arènes Romaines,1
+2292202,15:52:00,15:52:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292202,15:53:00,15:53:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292202,15:54:00,15:54:10,stop_point:SP_3544,Flambère,4
+2292202,15:56:00,15:56:10,stop_point:SP_511,Bisson,5
+2292202,15:58:00,15:58:10,stop_point:SP_5590,Bertier,6
+2292202,15:59:00,15:59:10,stop_point:SP_5597,Dominique Clos,7
+2292202,16:01:00,16:01:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292202,16:02:00,16:02:10,stop_point:SP_5595,Camille Claudel,9
+2292202,16:03:00,16:03:10,stop_point:SP_5594,André Turcat,10
+2292202,16:04:00,16:04:10,stop_point:SP_5593,Ellis,11
+2292202,16:06:00,16:06:10,stop_point:SP_4924,Saint Granier,12
+2292202,16:07:00,16:07:10,stop_point:SP_4921,Sévérac,13
+2292202,16:09:00,16:09:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292203,16:15:00,16:15:10,stop_point:SP_1198,Arènes Romaines,1
+2292203,16:17:00,16:17:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292203,16:18:00,16:18:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292203,16:19:00,16:19:10,stop_point:SP_3544,Flambère,4
+2292203,16:21:00,16:21:10,stop_point:SP_511,Bisson,5
+2292203,16:23:00,16:23:10,stop_point:SP_5590,Bertier,6
+2292203,16:24:00,16:24:10,stop_point:SP_5597,Dominique Clos,7
+2292203,16:26:00,16:26:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292203,16:27:00,16:27:10,stop_point:SP_5595,Camille Claudel,9
+2292203,16:28:00,16:28:10,stop_point:SP_5594,André Turcat,10
+2292203,16:29:00,16:29:10,stop_point:SP_5593,Ellis,11
+2292203,16:31:00,16:31:10,stop_point:SP_4924,Saint Granier,12
+2292203,16:32:00,16:32:10,stop_point:SP_4921,Sévérac,13
+2292203,16:34:00,16:34:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292204,16:35:00,16:35:10,stop_point:SP_1198,Arènes Romaines,1
+2292204,16:37:00,16:37:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292204,16:38:00,16:38:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292204,16:39:00,16:39:10,stop_point:SP_3544,Flambère,4
+2292204,16:41:00,16:41:10,stop_point:SP_511,Bisson,5
+2292204,16:43:00,16:43:10,stop_point:SP_5590,Bertier,6
+2292204,16:44:00,16:44:10,stop_point:SP_5597,Dominique Clos,7
+2292204,16:46:00,16:46:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292204,16:47:00,16:47:10,stop_point:SP_5595,Camille Claudel,9
+2292204,16:48:00,16:48:10,stop_point:SP_5594,André Turcat,10
+2292204,16:49:00,16:49:10,stop_point:SP_5593,Ellis,11
+2292204,16:51:00,16:51:10,stop_point:SP_4924,Saint Granier,12
+2292204,16:52:00,16:52:10,stop_point:SP_4921,Sévérac,13
+2292204,16:54:00,16:54:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292205,17:00:00,17:00:10,stop_point:SP_1198,Arènes Romaines,1
+2292205,17:02:00,17:02:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292205,17:03:00,17:03:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292205,17:04:00,17:04:10,stop_point:SP_3544,Flambère,4
+2292205,17:07:00,17:07:10,stop_point:SP_511,Bisson,5
+2292205,17:08:00,17:08:10,stop_point:SP_5590,Bertier,6
+2292205,17:10:00,17:10:10,stop_point:SP_5597,Dominique Clos,7
+2292205,17:12:00,17:12:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292205,17:13:00,17:13:10,stop_point:SP_5595,Camille Claudel,9
+2292205,17:14:00,17:14:10,stop_point:SP_5594,André Turcat,10
+2292205,17:15:00,17:15:10,stop_point:SP_5593,Ellis,11
+2292205,17:17:00,17:17:10,stop_point:SP_4924,Saint Granier,12
+2292205,17:18:00,17:18:10,stop_point:SP_4921,Sévérac,13
+2292205,17:20:00,17:20:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292206,17:25:00,17:25:10,stop_point:SP_1198,Arènes Romaines,1
+2292206,17:27:00,17:27:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292206,17:28:00,17:28:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292206,17:29:00,17:29:10,stop_point:SP_3544,Flambère,4
+2292206,17:32:00,17:32:10,stop_point:SP_511,Bisson,5
+2292206,17:33:00,17:33:10,stop_point:SP_5590,Bertier,6
+2292206,17:35:00,17:35:10,stop_point:SP_5597,Dominique Clos,7
+2292206,17:37:00,17:37:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292206,17:38:00,17:38:10,stop_point:SP_5595,Camille Claudel,9
+2292206,17:39:00,17:39:10,stop_point:SP_5594,André Turcat,10
+2292206,17:40:00,17:40:10,stop_point:SP_5593,Ellis,11
+2292206,17:42:00,17:42:10,stop_point:SP_4924,Saint Granier,12
+2292206,17:43:00,17:43:10,stop_point:SP_4921,Sévérac,13
+2292206,17:45:00,17:45:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292207,17:50:00,17:50:10,stop_point:SP_1198,Arènes Romaines,1
+2292207,17:52:00,17:52:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292207,17:53:00,17:53:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292207,17:54:00,17:54:10,stop_point:SP_3544,Flambère,4
+2292207,17:57:00,17:57:10,stop_point:SP_511,Bisson,5
+2292207,17:58:00,17:58:10,stop_point:SP_5590,Bertier,6
+2292207,18:00:00,18:00:10,stop_point:SP_5597,Dominique Clos,7
+2292207,18:02:00,18:02:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292207,18:03:00,18:03:10,stop_point:SP_5595,Camille Claudel,9
+2292207,18:04:00,18:04:10,stop_point:SP_5594,André Turcat,10
+2292207,18:05:00,18:05:10,stop_point:SP_5593,Ellis,11
+2292207,18:07:00,18:07:10,stop_point:SP_4924,Saint Granier,12
+2292207,18:08:00,18:08:10,stop_point:SP_4921,Sévérac,13
+2292207,18:10:00,18:10:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292208,18:15:00,18:15:10,stop_point:SP_1198,Arènes Romaines,1
+2292208,18:17:00,18:17:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292208,18:18:00,18:18:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292208,18:19:00,18:19:10,stop_point:SP_3544,Flambère,4
+2292208,18:21:00,18:21:10,stop_point:SP_511,Bisson,5
+2292208,18:23:00,18:23:10,stop_point:SP_5590,Bertier,6
+2292208,18:24:00,18:24:10,stop_point:SP_5597,Dominique Clos,7
+2292208,18:26:00,18:26:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292208,18:27:00,18:27:10,stop_point:SP_5595,Camille Claudel,9
+2292208,18:28:00,18:28:10,stop_point:SP_5594,André Turcat,10
+2292208,18:29:00,18:29:10,stop_point:SP_5593,Ellis,11
+2292208,18:31:00,18:31:10,stop_point:SP_4924,Saint Granier,12
+2292208,18:32:00,18:32:10,stop_point:SP_4921,Sévérac,13
+2292208,18:34:00,18:34:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292209,18:40:00,18:40:10,stop_point:SP_1198,Arènes Romaines,1
+2292209,18:42:00,18:42:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292209,18:43:00,18:43:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292209,18:44:00,18:44:10,stop_point:SP_3544,Flambère,4
+2292209,18:46:00,18:46:10,stop_point:SP_511,Bisson,5
+2292209,18:48:00,18:48:10,stop_point:SP_5590,Bertier,6
+2292209,18:49:00,18:49:10,stop_point:SP_5597,Dominique Clos,7
+2292209,18:51:00,18:51:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292209,18:52:00,18:52:10,stop_point:SP_5595,Camille Claudel,9
+2292209,18:53:00,18:53:10,stop_point:SP_5594,André Turcat,10
+2292209,18:54:00,18:54:10,stop_point:SP_5593,Ellis,11
+2292209,18:56:00,18:56:10,stop_point:SP_4924,Saint Granier,12
+2292209,18:57:00,18:57:10,stop_point:SP_4921,Sévérac,13
+2292209,18:59:00,18:59:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292210,19:10:00,19:10:10,stop_point:SP_1198,Arènes Romaines,1
+2292210,19:12:00,19:12:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292210,19:13:00,19:13:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292210,19:14:00,19:14:10,stop_point:SP_3544,Flambère,4
+2292210,19:16:00,19:16:10,stop_point:SP_511,Bisson,5
+2292210,19:17:00,19:17:10,stop_point:SP_5590,Bertier,6
+2292210,19:19:00,19:19:10,stop_point:SP_5597,Dominique Clos,7
+2292210,19:20:00,19:20:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292210,19:22:00,19:22:10,stop_point:SP_5595,Camille Claudel,9
+2292210,19:22:00,19:22:10,stop_point:SP_5594,André Turcat,10
+2292210,19:24:00,19:24:10,stop_point:SP_5593,Ellis,11
+2292210,19:25:00,19:25:10,stop_point:SP_4924,Saint Granier,12
+2292210,19:26:00,19:26:10,stop_point:SP_4921,Sévérac,13
+2292210,19:28:00,19:28:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292211,19:55:00,19:55:10,stop_point:SP_1198,Arènes Romaines,1
+2292211,19:57:00,19:57:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292211,19:58:00,19:58:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292211,19:59:00,19:59:10,stop_point:SP_3544,Flambère,4
+2292211,20:01:00,20:01:10,stop_point:SP_511,Bisson,5
+2292211,20:02:00,20:02:10,stop_point:SP_5590,Bertier,6
+2292211,20:04:00,20:04:10,stop_point:SP_5597,Dominique Clos,7
+2292211,20:05:00,20:05:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292211,20:07:00,20:07:10,stop_point:SP_5595,Camille Claudel,9
+2292211,20:07:00,20:07:10,stop_point:SP_5594,André Turcat,10
+2292211,20:09:00,20:09:10,stop_point:SP_5593,Ellis,11
+2292211,20:10:00,20:10:10,stop_point:SP_4924,Saint Granier,12
+2292211,20:11:00,20:11:10,stop_point:SP_4921,Sévérac,13
+2292211,20:13:00,20:13:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14
+2292212,20:45:00,20:45:10,stop_point:SP_1198,Arènes Romaines,1
+2292212,20:47:00,20:47:10,stop_point:SP_690,Ctre Cial Purpan Est,2
+2292212,20:48:00,20:48:10,stop_point:SP_2604,Ctre Cial Purpan Sud,3
+2292212,20:48:00,20:48:10,stop_point:SP_3544,Flambère,4
+2292212,20:51:00,20:51:10,stop_point:SP_511,Bisson,5
+2292212,20:52:00,20:52:10,stop_point:SP_5590,Bertier,6
+2292212,20:53:00,20:53:10,stop_point:SP_5597,Dominique Clos,7
+2292212,20:55:00,20:55:10,stop_point:SP_5584,Gare de St-Martin du Touch,8
+2292212,20:56:00,20:56:10,stop_point:SP_5595,Camille Claudel,9
+2292212,20:57:00,20:57:10,stop_point:SP_5594,André Turcat,10
+2292212,20:58:00,20:58:10,stop_point:SP_5593,Ellis,11
+2292212,20:59:00,20:59:10,stop_point:SP_4924,Saint Granier,12
+2292212,21:01:00,21:01:10,stop_point:SP_4921,Sévérac,13
+2292212,21:02:00,21:02:10,stop_point:SP_4894,Colomiers Ramassiers Gare SNCF,14

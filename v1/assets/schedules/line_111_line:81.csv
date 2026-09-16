@@ -1,0 +1,353 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2297324,07:00:00,07:00:10,stop_point:SP_1450,Ramonville,1
+2297324,07:03:00,07:03:10,stop_point:SP_1443,Parc du Canal,2
+2297324,07:04:00,07:04:10,stop_point:SP_1038,Joliot Curie,3
+2297324,07:05:00,07:05:10,stop_point:SP_2437,Hermès,4
+2297324,07:05:00,07:05:10,stop_point:SP_2215,Ateliers 31,5
+2297324,07:06:00,07:06:10,stop_point:SP_2813,Parc du Canal,6
+2297324,07:07:00,07:07:10,stop_point:SP_1843,CNES,7
+2297324,07:09:00,07:09:10,stop_point:SP_1450,Ramonville,8
+2297325,07:15:00,07:15:10,stop_point:SP_1450,Ramonville,1
+2297325,07:18:00,07:18:10,stop_point:SP_1443,Parc du Canal,2
+2297325,07:19:00,07:19:10,stop_point:SP_1038,Joliot Curie,3
+2297325,07:20:00,07:20:10,stop_point:SP_2437,Hermès,4
+2297325,07:20:00,07:20:10,stop_point:SP_2215,Ateliers 31,5
+2297325,07:21:00,07:21:10,stop_point:SP_2813,Parc du Canal,6
+2297325,07:22:00,07:22:10,stop_point:SP_1843,CNES,7
+2297325,07:24:00,07:24:10,stop_point:SP_1450,Ramonville,8
+2297326,07:30:00,07:30:10,stop_point:SP_1450,Ramonville,1
+2297326,07:33:00,07:33:10,stop_point:SP_1443,Parc du Canal,2
+2297326,07:34:00,07:34:10,stop_point:SP_1038,Joliot Curie,3
+2297326,07:35:00,07:35:10,stop_point:SP_2437,Hermès,4
+2297326,07:35:00,07:35:10,stop_point:SP_2215,Ateliers 31,5
+2297326,07:36:00,07:36:10,stop_point:SP_2813,Parc du Canal,6
+2297326,07:37:00,07:37:10,stop_point:SP_1843,CNES,7
+2297326,07:39:00,07:39:10,stop_point:SP_1450,Ramonville,8
+2297327,07:45:00,07:45:10,stop_point:SP_1450,Ramonville,1
+2297327,07:49:00,07:49:10,stop_point:SP_1443,Parc du Canal,2
+2297327,07:50:00,07:50:10,stop_point:SP_1038,Joliot Curie,3
+2297327,07:51:00,07:51:10,stop_point:SP_2437,Hermès,4
+2297327,07:51:00,07:51:10,stop_point:SP_2215,Ateliers 31,5
+2297327,07:52:00,07:52:10,stop_point:SP_2813,Parc du Canal,6
+2297327,07:53:00,07:53:10,stop_point:SP_1843,CNES,7
+2297327,07:55:00,07:55:10,stop_point:SP_1450,Ramonville,8
+2297328,08:00:00,08:00:10,stop_point:SP_1450,Ramonville,1
+2297328,08:05:00,08:05:10,stop_point:SP_1443,Parc du Canal,2
+2297328,08:06:00,08:06:10,stop_point:SP_1038,Joliot Curie,3
+2297328,08:07:00,08:07:10,stop_point:SP_2437,Hermès,4
+2297328,08:08:00,08:08:10,stop_point:SP_2215,Ateliers 31,5
+2297328,08:09:00,08:09:10,stop_point:SP_2813,Parc du Canal,6
+2297328,08:10:00,08:10:10,stop_point:SP_1843,CNES,7
+2297328,08:12:00,08:12:10,stop_point:SP_1450,Ramonville,8
+2297329,08:10:00,08:10:10,stop_point:SP_1450,Ramonville,1
+2297329,08:15:00,08:15:10,stop_point:SP_1443,Parc du Canal,2
+2297329,08:16:00,08:16:10,stop_point:SP_1038,Joliot Curie,3
+2297329,08:17:00,08:17:10,stop_point:SP_2437,Hermès,4
+2297329,08:18:00,08:18:10,stop_point:SP_2215,Ateliers 31,5
+2297329,08:19:00,08:19:10,stop_point:SP_2813,Parc du Canal,6
+2297329,08:20:00,08:20:10,stop_point:SP_1843,CNES,7
+2297329,08:22:00,08:22:10,stop_point:SP_1450,Ramonville,8
+2297330,08:20:00,08:20:10,stop_point:SP_1450,Ramonville,1
+2297330,08:26:00,08:26:10,stop_point:SP_1443,Parc du Canal,2
+2297330,08:27:00,08:27:10,stop_point:SP_1038,Joliot Curie,3
+2297330,08:28:00,08:28:10,stop_point:SP_2437,Hermès,4
+2297330,08:29:00,08:29:10,stop_point:SP_2215,Ateliers 31,5
+2297330,08:30:00,08:30:10,stop_point:SP_2813,Parc du Canal,6
+2297330,08:32:00,08:32:10,stop_point:SP_1843,CNES,7
+2297330,08:34:00,08:34:10,stop_point:SP_1450,Ramonville,8
+2297331,08:30:00,08:30:10,stop_point:SP_1450,Ramonville,1
+2297331,08:36:00,08:36:10,stop_point:SP_1443,Parc du Canal,2
+2297331,08:37:00,08:37:10,stop_point:SP_1038,Joliot Curie,3
+2297331,08:38:00,08:38:10,stop_point:SP_2437,Hermès,4
+2297331,08:39:00,08:39:10,stop_point:SP_2215,Ateliers 31,5
+2297331,08:40:00,08:40:10,stop_point:SP_2813,Parc du Canal,6
+2297331,08:42:00,08:42:10,stop_point:SP_1843,CNES,7
+2297331,08:44:00,08:44:10,stop_point:SP_1450,Ramonville,8
+2297332,08:40:00,08:40:10,stop_point:SP_1450,Ramonville,1
+2297332,08:46:00,08:46:10,stop_point:SP_1443,Parc du Canal,2
+2297332,08:47:00,08:47:10,stop_point:SP_1038,Joliot Curie,3
+2297332,08:48:00,08:48:10,stop_point:SP_2437,Hermès,4
+2297332,08:49:00,08:49:10,stop_point:SP_2215,Ateliers 31,5
+2297332,08:50:00,08:50:10,stop_point:SP_2813,Parc du Canal,6
+2297332,08:52:00,08:52:10,stop_point:SP_1843,CNES,7
+2297332,08:54:00,08:54:10,stop_point:SP_1450,Ramonville,8
+2297333,08:50:00,08:50:10,stop_point:SP_1450,Ramonville,1
+2297333,08:56:00,08:56:10,stop_point:SP_1443,Parc du Canal,2
+2297333,08:57:00,08:57:10,stop_point:SP_1038,Joliot Curie,3
+2297333,08:58:00,08:58:10,stop_point:SP_2437,Hermès,4
+2297333,08:59:00,08:59:10,stop_point:SP_2215,Ateliers 31,5
+2297333,09:00:00,09:00:10,stop_point:SP_2813,Parc du Canal,6
+2297333,09:02:00,09:02:10,stop_point:SP_1843,CNES,7
+2297333,09:04:00,09:04:10,stop_point:SP_1450,Ramonville,8
+2297334,09:00:00,09:00:10,stop_point:SP_1450,Ramonville,1
+2297334,09:06:00,09:06:10,stop_point:SP_1443,Parc du Canal,2
+2297334,09:07:00,09:07:10,stop_point:SP_1038,Joliot Curie,3
+2297334,09:08:00,09:08:10,stop_point:SP_2437,Hermès,4
+2297334,09:09:00,09:09:10,stop_point:SP_2215,Ateliers 31,5
+2297334,09:10:00,09:10:10,stop_point:SP_2813,Parc du Canal,6
+2297334,09:12:00,09:12:10,stop_point:SP_1843,CNES,7
+2297334,09:14:00,09:14:10,stop_point:SP_1450,Ramonville,8
+2297335,09:10:00,09:10:10,stop_point:SP_1450,Ramonville,1
+2297335,09:16:00,09:16:10,stop_point:SP_1443,Parc du Canal,2
+2297335,09:17:00,09:17:10,stop_point:SP_1038,Joliot Curie,3
+2297335,09:18:00,09:18:10,stop_point:SP_2437,Hermès,4
+2297335,09:19:00,09:19:10,stop_point:SP_2215,Ateliers 31,5
+2297335,09:20:00,09:20:10,stop_point:SP_2813,Parc du Canal,6
+2297335,09:22:00,09:22:10,stop_point:SP_1843,CNES,7
+2297335,09:24:00,09:24:10,stop_point:SP_1450,Ramonville,8
+2297336,09:30:00,09:30:10,stop_point:SP_1450,Ramonville,1
+2297336,09:34:00,09:34:10,stop_point:SP_1443,Parc du Canal,2
+2297336,09:35:00,09:35:10,stop_point:SP_1038,Joliot Curie,3
+2297336,09:36:00,09:36:10,stop_point:SP_2437,Hermès,4
+2297336,09:36:00,09:36:10,stop_point:SP_2215,Ateliers 31,5
+2297336,09:37:00,09:37:10,stop_point:SP_2813,Parc du Canal,6
+2297336,09:38:00,09:38:10,stop_point:SP_1843,CNES,7
+2297336,09:40:00,09:40:10,stop_point:SP_1450,Ramonville,8
+2297337,10:00:00,10:00:10,stop_point:SP_1450,Ramonville,1
+2297337,10:04:00,10:04:10,stop_point:SP_1443,Parc du Canal,2
+2297337,10:05:00,10:05:10,stop_point:SP_1038,Joliot Curie,3
+2297337,10:06:00,10:06:10,stop_point:SP_2437,Hermès,4
+2297337,10:06:00,10:06:10,stop_point:SP_2215,Ateliers 31,5
+2297337,10:07:00,10:07:10,stop_point:SP_2813,Parc du Canal,6
+2297337,10:08:00,10:08:10,stop_point:SP_1843,CNES,7
+2297337,10:10:00,10:10:10,stop_point:SP_1450,Ramonville,8
+2297338,10:30:00,10:30:10,stop_point:SP_1450,Ramonville,1
+2297338,10:34:00,10:34:10,stop_point:SP_1443,Parc du Canal,2
+2297338,10:35:00,10:35:10,stop_point:SP_1038,Joliot Curie,3
+2297338,10:36:00,10:36:10,stop_point:SP_2437,Hermès,4
+2297338,10:36:00,10:36:10,stop_point:SP_2215,Ateliers 31,5
+2297338,10:37:00,10:37:10,stop_point:SP_2813,Parc du Canal,6
+2297338,10:38:00,10:38:10,stop_point:SP_1843,CNES,7
+2297338,10:40:00,10:40:10,stop_point:SP_1450,Ramonville,8
+2297339,11:00:00,11:00:10,stop_point:SP_1450,Ramonville,1
+2297339,11:04:00,11:04:10,stop_point:SP_1443,Parc du Canal,2
+2297339,11:05:00,11:05:10,stop_point:SP_1038,Joliot Curie,3
+2297339,11:06:00,11:06:10,stop_point:SP_2437,Hermès,4
+2297339,11:06:00,11:06:10,stop_point:SP_2215,Ateliers 31,5
+2297339,11:07:00,11:07:10,stop_point:SP_2813,Parc du Canal,6
+2297339,11:08:00,11:08:10,stop_point:SP_1843,CNES,7
+2297339,11:10:00,11:10:10,stop_point:SP_1450,Ramonville,8
+2297340,11:30:00,11:30:10,stop_point:SP_1450,Ramonville,1
+2297340,11:34:00,11:34:10,stop_point:SP_1443,Parc du Canal,2
+2297340,11:35:00,11:35:10,stop_point:SP_1038,Joliot Curie,3
+2297340,11:36:00,11:36:10,stop_point:SP_2437,Hermès,4
+2297340,11:36:00,11:36:10,stop_point:SP_2215,Ateliers 31,5
+2297340,11:37:00,11:37:10,stop_point:SP_2813,Parc du Canal,6
+2297340,11:38:00,11:38:10,stop_point:SP_1843,CNES,7
+2297340,11:40:00,11:40:10,stop_point:SP_1450,Ramonville,8
+2297341,12:00:00,12:00:10,stop_point:SP_1450,Ramonville,1
+2297341,12:05:00,12:05:10,stop_point:SP_1443,Parc du Canal,2
+2297341,12:06:00,12:06:10,stop_point:SP_1038,Joliot Curie,3
+2297341,12:07:00,12:07:10,stop_point:SP_2437,Hermès,4
+2297341,12:08:00,12:08:10,stop_point:SP_2215,Ateliers 31,5
+2297341,12:09:00,12:09:10,stop_point:SP_2813,Parc du Canal,6
+2297341,12:10:00,12:10:10,stop_point:SP_1843,CNES,7
+2297341,12:12:00,12:12:10,stop_point:SP_1450,Ramonville,8
+2297342,12:30:00,12:30:10,stop_point:SP_1450,Ramonville,1
+2297342,12:35:00,12:35:10,stop_point:SP_1443,Parc du Canal,2
+2297342,12:36:00,12:36:10,stop_point:SP_1038,Joliot Curie,3
+2297342,12:37:00,12:37:10,stop_point:SP_2437,Hermès,4
+2297342,12:38:00,12:38:10,stop_point:SP_2215,Ateliers 31,5
+2297342,12:39:00,12:39:10,stop_point:SP_2813,Parc du Canal,6
+2297342,12:40:00,12:40:10,stop_point:SP_1843,CNES,7
+2297342,12:42:00,12:42:10,stop_point:SP_1450,Ramonville,8
+2297343,13:00:00,13:00:10,stop_point:SP_1450,Ramonville,1
+2297343,13:04:00,13:04:10,stop_point:SP_1443,Parc du Canal,2
+2297343,13:05:00,13:05:10,stop_point:SP_1038,Joliot Curie,3
+2297343,13:06:00,13:06:10,stop_point:SP_2437,Hermès,4
+2297343,13:06:00,13:06:10,stop_point:SP_2215,Ateliers 31,5
+2297343,13:07:00,13:07:10,stop_point:SP_2813,Parc du Canal,6
+2297343,13:08:00,13:08:10,stop_point:SP_1843,CNES,7
+2297343,13:10:00,13:10:10,stop_point:SP_1450,Ramonville,8
+2297344,13:30:00,13:30:10,stop_point:SP_1450,Ramonville,1
+2297344,13:34:00,13:34:10,stop_point:SP_1443,Parc du Canal,2
+2297344,13:35:00,13:35:10,stop_point:SP_1038,Joliot Curie,3
+2297344,13:36:00,13:36:10,stop_point:SP_2437,Hermès,4
+2297344,13:36:00,13:36:10,stop_point:SP_2215,Ateliers 31,5
+2297344,13:37:00,13:37:10,stop_point:SP_2813,Parc du Canal,6
+2297344,13:38:00,13:38:10,stop_point:SP_1843,CNES,7
+2297344,13:40:00,13:40:10,stop_point:SP_1450,Ramonville,8
+2297345,14:00:00,14:00:10,stop_point:SP_1450,Ramonville,1
+2297345,14:04:00,14:04:10,stop_point:SP_1443,Parc du Canal,2
+2297345,14:05:00,14:05:10,stop_point:SP_1038,Joliot Curie,3
+2297345,14:06:00,14:06:10,stop_point:SP_2437,Hermès,4
+2297345,14:06:00,14:06:10,stop_point:SP_2215,Ateliers 31,5
+2297345,14:07:00,14:07:10,stop_point:SP_2813,Parc du Canal,6
+2297345,14:08:00,14:08:10,stop_point:SP_1843,CNES,7
+2297345,14:10:00,14:10:10,stop_point:SP_1450,Ramonville,8
+2297346,14:30:00,14:30:10,stop_point:SP_1450,Ramonville,1
+2297346,14:34:00,14:34:10,stop_point:SP_1443,Parc du Canal,2
+2297346,14:35:00,14:35:10,stop_point:SP_1038,Joliot Curie,3
+2297346,14:36:00,14:36:10,stop_point:SP_2437,Hermès,4
+2297346,14:36:00,14:36:10,stop_point:SP_2215,Ateliers 31,5
+2297346,14:37:00,14:37:10,stop_point:SP_2813,Parc du Canal,6
+2297346,14:38:00,14:38:10,stop_point:SP_1843,CNES,7
+2297346,14:40:00,14:40:10,stop_point:SP_1450,Ramonville,8
+2297347,15:00:00,15:00:10,stop_point:SP_1450,Ramonville,1
+2297347,15:04:00,15:04:10,stop_point:SP_1443,Parc du Canal,2
+2297347,15:05:00,15:05:10,stop_point:SP_1038,Joliot Curie,3
+2297347,15:06:00,15:06:10,stop_point:SP_2437,Hermès,4
+2297347,15:06:00,15:06:10,stop_point:SP_2215,Ateliers 31,5
+2297347,15:07:00,15:07:10,stop_point:SP_2813,Parc du Canal,6
+2297347,15:08:00,15:08:10,stop_point:SP_1843,CNES,7
+2297347,15:10:00,15:10:10,stop_point:SP_1450,Ramonville,8
+2297348,15:30:00,15:30:10,stop_point:SP_1450,Ramonville,1
+2297348,15:34:00,15:34:10,stop_point:SP_1443,Parc du Canal,2
+2297348,15:35:00,15:35:10,stop_point:SP_1038,Joliot Curie,3
+2297348,15:36:00,15:36:10,stop_point:SP_2437,Hermès,4
+2297348,15:36:00,15:36:10,stop_point:SP_2215,Ateliers 31,5
+2297348,15:37:00,15:37:10,stop_point:SP_2813,Parc du Canal,6
+2297348,15:38:00,15:38:10,stop_point:SP_1843,CNES,7
+2297348,15:40:00,15:40:10,stop_point:SP_1450,Ramonville,8
+2297349,16:00:00,16:00:10,stop_point:SP_1450,Ramonville,1
+2297349,16:05:00,16:05:10,stop_point:SP_1443,Parc du Canal,2
+2297349,16:06:00,16:06:10,stop_point:SP_1038,Joliot Curie,3
+2297349,16:07:00,16:07:10,stop_point:SP_2437,Hermès,4
+2297349,16:08:00,16:08:10,stop_point:SP_2215,Ateliers 31,5
+2297349,16:09:00,16:09:10,stop_point:SP_2813,Parc du Canal,6
+2297349,16:10:00,16:10:10,stop_point:SP_1843,CNES,7
+2297349,16:12:00,16:12:10,stop_point:SP_1450,Ramonville,8
+2297350,16:10:00,16:10:10,stop_point:SP_1450,Ramonville,1
+2297350,16:16:00,16:16:10,stop_point:SP_1443,Parc du Canal,2
+2297350,16:17:00,16:17:10,stop_point:SP_1038,Joliot Curie,3
+2297350,16:18:00,16:18:10,stop_point:SP_2437,Hermès,4
+2297350,16:19:00,16:19:10,stop_point:SP_2215,Ateliers 31,5
+2297350,16:20:00,16:20:10,stop_point:SP_2813,Parc du Canal,6
+2297350,16:22:00,16:22:10,stop_point:SP_1843,CNES,7
+2297350,16:24:00,16:24:10,stop_point:SP_1450,Ramonville,8
+2297351,16:20:00,16:20:10,stop_point:SP_1450,Ramonville,1
+2297351,16:26:00,16:26:10,stop_point:SP_1443,Parc du Canal,2
+2297351,16:27:00,16:27:10,stop_point:SP_1038,Joliot Curie,3
+2297351,16:28:00,16:28:10,stop_point:SP_2437,Hermès,4
+2297351,16:29:00,16:29:10,stop_point:SP_2215,Ateliers 31,5
+2297351,16:30:00,16:30:10,stop_point:SP_2813,Parc du Canal,6
+2297351,16:32:00,16:32:10,stop_point:SP_1843,CNES,7
+2297351,16:34:00,16:34:10,stop_point:SP_1450,Ramonville,8
+2297352,16:30:00,16:30:10,stop_point:SP_1450,Ramonville,1
+2297352,16:36:00,16:36:10,stop_point:SP_1443,Parc du Canal,2
+2297352,16:37:00,16:37:10,stop_point:SP_1038,Joliot Curie,3
+2297352,16:38:00,16:38:10,stop_point:SP_2437,Hermès,4
+2297352,16:39:00,16:39:10,stop_point:SP_2215,Ateliers 31,5
+2297352,16:41:00,16:41:10,stop_point:SP_2813,Parc du Canal,6
+2297352,16:43:00,16:43:10,stop_point:SP_1843,CNES,7
+2297352,16:47:00,16:47:10,stop_point:SP_1450,Ramonville,8
+2297353,16:40:00,16:40:10,stop_point:SP_1450,Ramonville,1
+2297353,16:46:00,16:46:10,stop_point:SP_1443,Parc du Canal,2
+2297353,16:47:00,16:47:10,stop_point:SP_1038,Joliot Curie,3
+2297353,16:48:00,16:48:10,stop_point:SP_2437,Hermès,4
+2297353,16:49:00,16:49:10,stop_point:SP_2215,Ateliers 31,5
+2297353,16:51:00,16:51:10,stop_point:SP_2813,Parc du Canal,6
+2297353,16:53:00,16:53:10,stop_point:SP_1843,CNES,7
+2297353,16:57:00,16:57:10,stop_point:SP_1450,Ramonville,8
+2297354,16:50:00,16:50:10,stop_point:SP_1450,Ramonville,1
+2297354,16:56:00,16:56:10,stop_point:SP_1443,Parc du Canal,2
+2297354,16:57:00,16:57:10,stop_point:SP_1038,Joliot Curie,3
+2297354,16:58:00,16:58:10,stop_point:SP_2437,Hermès,4
+2297354,16:59:00,16:59:10,stop_point:SP_2215,Ateliers 31,5
+2297354,17:01:00,17:01:10,stop_point:SP_2813,Parc du Canal,6
+2297354,17:03:00,17:03:10,stop_point:SP_1843,CNES,7
+2297354,17:07:00,17:07:10,stop_point:SP_1450,Ramonville,8
+2297355,17:00:00,17:00:10,stop_point:SP_1450,Ramonville,1
+2297355,17:06:00,17:06:10,stop_point:SP_1443,Parc du Canal,2
+2297355,17:07:00,17:07:10,stop_point:SP_1038,Joliot Curie,3
+2297355,17:08:00,17:08:10,stop_point:SP_2437,Hermès,4
+2297355,17:09:00,17:09:10,stop_point:SP_2215,Ateliers 31,5
+2297355,17:11:00,17:11:10,stop_point:SP_2813,Parc du Canal,6
+2297355,17:13:00,17:13:10,stop_point:SP_1843,CNES,7
+2297355,17:17:00,17:17:10,stop_point:SP_1450,Ramonville,8
+2297356,17:10:00,17:10:10,stop_point:SP_1450,Ramonville,1
+2297356,17:16:00,17:16:10,stop_point:SP_1443,Parc du Canal,2
+2297356,17:17:00,17:17:10,stop_point:SP_1038,Joliot Curie,3
+2297356,17:18:00,17:18:10,stop_point:SP_2437,Hermès,4
+2297356,17:19:00,17:19:10,stop_point:SP_2215,Ateliers 31,5
+2297356,17:21:00,17:21:10,stop_point:SP_2813,Parc du Canal,6
+2297356,17:23:00,17:23:10,stop_point:SP_1843,CNES,7
+2297356,17:27:00,17:27:10,stop_point:SP_1450,Ramonville,8
+2297357,17:20:00,17:20:10,stop_point:SP_1450,Ramonville,1
+2297357,17:26:00,17:26:10,stop_point:SP_1443,Parc du Canal,2
+2297357,17:27:00,17:27:10,stop_point:SP_1038,Joliot Curie,3
+2297357,17:28:00,17:28:10,stop_point:SP_2437,Hermès,4
+2297357,17:29:00,17:29:10,stop_point:SP_2215,Ateliers 31,5
+2297357,17:31:00,17:31:10,stop_point:SP_2813,Parc du Canal,6
+2297357,17:33:00,17:33:10,stop_point:SP_1843,CNES,7
+2297357,17:37:00,17:37:10,stop_point:SP_1450,Ramonville,8
+2297358,17:30:00,17:30:10,stop_point:SP_1450,Ramonville,1
+2297358,17:36:00,17:36:10,stop_point:SP_1443,Parc du Canal,2
+2297358,17:37:00,17:37:10,stop_point:SP_1038,Joliot Curie,3
+2297358,17:38:00,17:38:10,stop_point:SP_2437,Hermès,4
+2297358,17:39:00,17:39:10,stop_point:SP_2215,Ateliers 31,5
+2297358,17:41:00,17:41:10,stop_point:SP_2813,Parc du Canal,6
+2297358,17:43:00,17:43:10,stop_point:SP_1843,CNES,7
+2297358,17:47:00,17:47:10,stop_point:SP_1450,Ramonville,8
+2297359,17:40:00,17:40:10,stop_point:SP_1450,Ramonville,1
+2297359,17:46:00,17:46:10,stop_point:SP_1443,Parc du Canal,2
+2297359,17:47:00,17:47:10,stop_point:SP_1038,Joliot Curie,3
+2297359,17:48:00,17:48:10,stop_point:SP_2437,Hermès,4
+2297359,17:49:00,17:49:10,stop_point:SP_2215,Ateliers 31,5
+2297359,17:51:00,17:51:10,stop_point:SP_2813,Parc du Canal,6
+2297359,17:53:00,17:53:10,stop_point:SP_1843,CNES,7
+2297359,17:57:00,17:57:10,stop_point:SP_1450,Ramonville,8
+2297360,17:50:00,17:50:10,stop_point:SP_1450,Ramonville,1
+2297360,17:56:00,17:56:10,stop_point:SP_1443,Parc du Canal,2
+2297360,17:57:00,17:57:10,stop_point:SP_1038,Joliot Curie,3
+2297360,17:58:00,17:58:10,stop_point:SP_2437,Hermès,4
+2297360,17:59:00,17:59:10,stop_point:SP_2215,Ateliers 31,5
+2297360,18:01:00,18:01:10,stop_point:SP_2813,Parc du Canal,6
+2297360,18:03:00,18:03:10,stop_point:SP_1843,CNES,7
+2297360,18:07:00,18:07:10,stop_point:SP_1450,Ramonville,8
+2297361,18:00:00,18:00:10,stop_point:SP_1450,Ramonville,1
+2297361,18:06:00,18:06:10,stop_point:SP_1443,Parc du Canal,2
+2297361,18:07:00,18:07:10,stop_point:SP_1038,Joliot Curie,3
+2297361,18:08:00,18:08:10,stop_point:SP_2437,Hermès,4
+2297361,18:09:00,18:09:10,stop_point:SP_2215,Ateliers 31,5
+2297361,18:11:00,18:11:10,stop_point:SP_2813,Parc du Canal,6
+2297361,18:13:00,18:13:10,stop_point:SP_1843,CNES,7
+2297361,18:17:00,18:17:10,stop_point:SP_1450,Ramonville,8
+2297362,18:10:00,18:10:10,stop_point:SP_1450,Ramonville,1
+2297362,18:16:00,18:16:10,stop_point:SP_1443,Parc du Canal,2
+2297362,18:17:00,18:17:10,stop_point:SP_1038,Joliot Curie,3
+2297362,18:18:00,18:18:10,stop_point:SP_2437,Hermès,4
+2297362,18:19:00,18:19:10,stop_point:SP_2215,Ateliers 31,5
+2297362,18:21:00,18:21:10,stop_point:SP_2813,Parc du Canal,6
+2297362,18:23:00,18:23:10,stop_point:SP_1843,CNES,7
+2297362,18:27:00,18:27:10,stop_point:SP_1450,Ramonville,8
+2297363,18:20:00,18:20:10,stop_point:SP_1450,Ramonville,1
+2297363,18:26:00,18:26:10,stop_point:SP_1443,Parc du Canal,2
+2297363,18:27:00,18:27:10,stop_point:SP_1038,Joliot Curie,3
+2297363,18:28:00,18:28:10,stop_point:SP_2437,Hermès,4
+2297363,18:29:00,18:29:10,stop_point:SP_2215,Ateliers 31,5
+2297363,18:31:00,18:31:10,stop_point:SP_2813,Parc du Canal,6
+2297363,18:33:00,18:33:10,stop_point:SP_1843,CNES,7
+2297363,18:37:00,18:37:10,stop_point:SP_1450,Ramonville,8
+2297364,18:30:00,18:30:10,stop_point:SP_1450,Ramonville,1
+2297364,18:36:00,18:36:10,stop_point:SP_1443,Parc du Canal,2
+2297364,18:37:00,18:37:10,stop_point:SP_1038,Joliot Curie,3
+2297364,18:38:00,18:38:10,stop_point:SP_2437,Hermès,4
+2297364,18:39:00,18:39:10,stop_point:SP_2215,Ateliers 31,5
+2297364,18:40:00,18:40:10,stop_point:SP_2813,Parc du Canal,6
+2297364,18:41:00,18:41:10,stop_point:SP_1843,CNES,7
+2297364,18:43:00,18:43:10,stop_point:SP_1450,Ramonville,8
+2297365,19:00:00,19:00:10,stop_point:SP_1450,Ramonville,1
+2297365,19:05:00,19:05:10,stop_point:SP_1443,Parc du Canal,2
+2297365,19:06:00,19:06:10,stop_point:SP_1038,Joliot Curie,3
+2297365,19:07:00,19:07:10,stop_point:SP_2437,Hermès,4
+2297365,19:08:00,19:08:10,stop_point:SP_2215,Ateliers 31,5
+2297365,19:09:00,19:09:10,stop_point:SP_2813,Parc du Canal,6
+2297365,19:10:00,19:10:10,stop_point:SP_1843,CNES,7
+2297365,19:12:00,19:12:10,stop_point:SP_1450,Ramonville,8
+2297366,19:30:00,19:30:10,stop_point:SP_1450,Ramonville,1
+2297366,19:35:00,19:35:10,stop_point:SP_1443,Parc du Canal,2
+2297366,19:36:00,19:36:10,stop_point:SP_1038,Joliot Curie,3
+2297366,19:37:00,19:37:10,stop_point:SP_2437,Hermès,4
+2297366,19:38:00,19:38:10,stop_point:SP_2215,Ateliers 31,5
+2297366,19:39:00,19:39:10,stop_point:SP_2813,Parc du Canal,6
+2297366,19:40:00,19:40:10,stop_point:SP_1843,CNES,7
+2297366,19:42:00,19:42:10,stop_point:SP_1450,Ramonville,8
+2297367,20:00:00,20:00:10,stop_point:SP_1450,Ramonville,1
+2297367,20:05:00,20:05:10,stop_point:SP_1443,Parc du Canal,2
+2297367,20:06:00,20:06:10,stop_point:SP_1038,Joliot Curie,3
+2297367,20:07:00,20:07:10,stop_point:SP_2437,Hermès,4
+2297367,20:08:00,20:08:10,stop_point:SP_2215,Ateliers 31,5
+2297367,20:09:00,20:09:10,stop_point:SP_2813,Parc du Canal,6
+2297367,20:10:00,20:10:10,stop_point:SP_1843,CNES,7
+2297367,20:12:00,20:12:10,stop_point:SP_1450,Ramonville,8

@@ -1,0 +1,485 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2375627,08:00:00,08:00:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375627,08:00:00,08:00:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375627,08:01:00,08:01:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375627,08:04:00,08:04:10,stop_point:SP_3460,Montels,4
+2375627,08:04:00,08:04:10,stop_point:SP_2936,Pyrénées,5
+2375627,08:05:00,08:05:10,stop_point:SP_261,Fonsegrives Centre,6
+2375627,08:06:00,08:06:10,stop_point:SP_3483,Côteaux,7
+2375627,08:06:00,08:06:10,stop_point:SP_3481,Lauragais,8
+2375627,08:07:00,08:07:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375627,08:11:00,08:11:10,stop_point:SP_2444,La Lie,10
+2375627,08:13:00,08:13:10,stop_point:SP_5015,Collège Flourens,11
+2375627,08:14:00,08:14:10,stop_point:SP_5013,Mairie Flourens,12
+2375627,08:14:00,08:14:10,stop_point:SP_2524,Lac,13
+2375627,08:15:00,08:15:10,stop_point:SP_2867,Coupette,14
+2375627,08:16:00,08:16:10,stop_point:SP_2073,Lasserre,15
+2375627,08:16:00,08:16:10,stop_point:SP_2804,En Batut,16
+2375627,08:17:00,08:17:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375627,08:18:00,08:18:10,stop_point:SP_428,Montauriol,18
+2375627,08:21:00,08:21:10,stop_point:SP_1018,ZI Drémil,19
+2375627,08:24:00,08:24:10,stop_point:SP_3050,Eglise Drémil,20
+2375627,08:25:00,08:25:10,stop_point:SP_1904,Montségur,21
+2375627,08:26:00,08:26:10,stop_point:SP_3222,Drémil Stade,22
+2375628,09:02:00,09:02:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375628,09:02:00,09:02:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375628,09:03:00,09:03:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375628,09:06:00,09:06:10,stop_point:SP_3460,Montels,4
+2375628,09:06:00,09:06:10,stop_point:SP_2936,Pyrénées,5
+2375628,09:07:00,09:07:10,stop_point:SP_261,Fonsegrives Centre,6
+2375628,09:08:00,09:08:10,stop_point:SP_3483,Côteaux,7
+2375628,09:08:00,09:08:10,stop_point:SP_3481,Lauragais,8
+2375628,09:09:00,09:09:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375628,09:13:00,09:13:10,stop_point:SP_2444,La Lie,10
+2375628,09:15:00,09:15:10,stop_point:SP_5015,Collège Flourens,11
+2375628,09:16:00,09:16:10,stop_point:SP_5013,Mairie Flourens,12
+2375628,09:16:00,09:16:10,stop_point:SP_2524,Lac,13
+2375628,09:17:00,09:17:10,stop_point:SP_2867,Coupette,14
+2375628,09:17:00,09:17:10,stop_point:SP_2073,Lasserre,15
+2375628,09:18:00,09:18:10,stop_point:SP_2804,En Batut,16
+2375628,09:18:00,09:18:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375628,09:19:00,09:19:10,stop_point:SP_428,Montauriol,18
+2375628,09:21:00,09:21:10,stop_point:SP_1018,ZI Drémil,19
+2375628,09:24:00,09:24:10,stop_point:SP_3050,Eglise Drémil,20
+2375628,09:25:00,09:25:10,stop_point:SP_1904,Montségur,21
+2375628,09:26:00,09:26:10,stop_point:SP_3222,Drémil Stade,22
+2375629,10:00:00,10:00:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375629,10:00:00,10:00:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375629,10:01:00,10:01:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375629,10:04:00,10:04:10,stop_point:SP_3460,Montels,4
+2375629,10:04:00,10:04:10,stop_point:SP_2936,Pyrénées,5
+2375629,10:05:00,10:05:10,stop_point:SP_261,Fonsegrives Centre,6
+2375629,10:06:00,10:06:10,stop_point:SP_3483,Côteaux,7
+2375629,10:06:00,10:06:10,stop_point:SP_3481,Lauragais,8
+2375629,10:07:00,10:07:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375629,10:11:00,10:11:10,stop_point:SP_2444,La Lie,10
+2375629,10:13:00,10:13:10,stop_point:SP_5015,Collège Flourens,11
+2375629,10:14:00,10:14:10,stop_point:SP_5013,Mairie Flourens,12
+2375629,10:14:00,10:14:10,stop_point:SP_2524,Lac,13
+2375629,10:15:00,10:15:10,stop_point:SP_2867,Coupette,14
+2375629,10:15:00,10:15:10,stop_point:SP_2073,Lasserre,15
+2375629,10:16:00,10:16:10,stop_point:SP_2804,En Batut,16
+2375629,10:16:00,10:16:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375629,10:17:00,10:17:10,stop_point:SP_428,Montauriol,18
+2375629,10:19:00,10:19:10,stop_point:SP_1018,ZI Drémil,19
+2375629,10:22:00,10:22:10,stop_point:SP_3050,Eglise Drémil,20
+2375629,10:23:00,10:23:10,stop_point:SP_1904,Montségur,21
+2375629,10:24:00,10:24:10,stop_point:SP_3222,Drémil Stade,22
+2375630,11:00:00,11:00:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375630,11:00:00,11:00:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375630,11:01:00,11:01:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375630,11:04:00,11:04:10,stop_point:SP_3460,Montels,4
+2375630,11:04:00,11:04:10,stop_point:SP_2936,Pyrénées,5
+2375630,11:05:00,11:05:10,stop_point:SP_261,Fonsegrives Centre,6
+2375630,11:06:00,11:06:10,stop_point:SP_3483,Côteaux,7
+2375630,11:06:00,11:06:10,stop_point:SP_3481,Lauragais,8
+2375630,11:07:00,11:07:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375630,11:11:00,11:11:10,stop_point:SP_2444,La Lie,10
+2375630,11:13:00,11:13:10,stop_point:SP_5015,Collège Flourens,11
+2375630,11:14:00,11:14:10,stop_point:SP_5013,Mairie Flourens,12
+2375630,11:14:00,11:14:10,stop_point:SP_2524,Lac,13
+2375630,11:15:00,11:15:10,stop_point:SP_2867,Coupette,14
+2375630,11:15:00,11:15:10,stop_point:SP_2073,Lasserre,15
+2375630,11:16:00,11:16:10,stop_point:SP_2804,En Batut,16
+2375630,11:16:00,11:16:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375630,11:17:00,11:17:10,stop_point:SP_428,Montauriol,18
+2375630,11:19:00,11:19:10,stop_point:SP_1018,ZI Drémil,19
+2375630,11:22:00,11:22:10,stop_point:SP_3050,Eglise Drémil,20
+2375630,11:23:00,11:23:10,stop_point:SP_1904,Montségur,21
+2375630,11:24:00,11:24:10,stop_point:SP_3222,Drémil Stade,22
+2375631,12:00:00,12:00:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375631,12:00:00,12:00:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375631,12:01:00,12:01:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375631,12:04:00,12:04:10,stop_point:SP_3460,Montels,4
+2375631,12:04:00,12:04:10,stop_point:SP_2936,Pyrénées,5
+2375631,12:05:00,12:05:10,stop_point:SP_261,Fonsegrives Centre,6
+2375631,12:06:00,12:06:10,stop_point:SP_3483,Côteaux,7
+2375631,12:06:00,12:06:10,stop_point:SP_3481,Lauragais,8
+2375631,12:07:00,12:07:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375631,12:11:00,12:11:10,stop_point:SP_2444,La Lie,10
+2375631,12:13:00,12:13:10,stop_point:SP_5015,Collège Flourens,11
+2375631,12:14:00,12:14:10,stop_point:SP_5013,Mairie Flourens,12
+2375631,12:14:00,12:14:10,stop_point:SP_2524,Lac,13
+2375631,12:15:00,12:15:10,stop_point:SP_2867,Coupette,14
+2375631,12:15:00,12:15:10,stop_point:SP_2073,Lasserre,15
+2375631,12:16:00,12:16:10,stop_point:SP_2804,En Batut,16
+2375631,12:16:00,12:16:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375631,12:17:00,12:17:10,stop_point:SP_428,Montauriol,18
+2375631,12:19:00,12:19:10,stop_point:SP_1018,ZI Drémil,19
+2375631,12:22:00,12:22:10,stop_point:SP_3050,Eglise Drémil,20
+2375631,12:23:00,12:23:10,stop_point:SP_1904,Montségur,21
+2375631,12:24:00,12:24:10,stop_point:SP_3222,Drémil Stade,22
+2375632,14:50:00,14:50:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375632,14:50:00,14:50:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375632,14:51:00,14:51:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375632,14:54:00,14:54:10,stop_point:SP_3460,Montels,4
+2375632,14:54:00,14:54:10,stop_point:SP_2936,Pyrénées,5
+2375632,14:55:00,14:55:10,stop_point:SP_261,Fonsegrives Centre,6
+2375632,14:56:00,14:56:10,stop_point:SP_3483,Côteaux,7
+2375632,14:56:00,14:56:10,stop_point:SP_3481,Lauragais,8
+2375632,14:57:00,14:57:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375632,15:01:00,15:01:10,stop_point:SP_2444,La Lie,10
+2375632,15:03:00,15:03:10,stop_point:SP_5015,Collège Flourens,11
+2375632,15:04:00,15:04:10,stop_point:SP_5013,Mairie Flourens,12
+2375632,15:04:00,15:04:10,stop_point:SP_2524,Lac,13
+2375632,15:05:00,15:05:10,stop_point:SP_2867,Coupette,14
+2375632,15:05:00,15:05:10,stop_point:SP_2073,Lasserre,15
+2375632,15:06:00,15:06:10,stop_point:SP_2804,En Batut,16
+2375632,15:06:00,15:06:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375632,15:07:00,15:07:10,stop_point:SP_428,Montauriol,18
+2375632,15:09:00,15:09:10,stop_point:SP_1018,ZI Drémil,19
+2375632,15:12:00,15:12:10,stop_point:SP_3050,Eglise Drémil,20
+2375632,15:13:00,15:13:10,stop_point:SP_1904,Montségur,21
+2375632,15:14:00,15:14:10,stop_point:SP_3222,Drémil Stade,22
+2375633,15:50:00,15:50:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375633,15:50:00,15:50:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375633,15:51:00,15:51:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375633,15:54:00,15:54:10,stop_point:SP_3460,Montels,4
+2375633,15:54:00,15:54:10,stop_point:SP_2936,Pyrénées,5
+2375633,15:55:00,15:55:10,stop_point:SP_261,Fonsegrives Centre,6
+2375633,15:56:00,15:56:10,stop_point:SP_3483,Côteaux,7
+2375633,15:56:00,15:56:10,stop_point:SP_3481,Lauragais,8
+2375633,15:57:00,15:57:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375633,16:01:00,16:01:10,stop_point:SP_2444,La Lie,10
+2375633,16:03:00,16:03:10,stop_point:SP_5015,Collège Flourens,11
+2375633,16:04:00,16:04:10,stop_point:SP_5013,Mairie Flourens,12
+2375633,16:04:00,16:04:10,stop_point:SP_2524,Lac,13
+2375633,16:05:00,16:05:10,stop_point:SP_2867,Coupette,14
+2375633,16:05:00,16:05:10,stop_point:SP_2073,Lasserre,15
+2375633,16:06:00,16:06:10,stop_point:SP_2804,En Batut,16
+2375633,16:06:00,16:06:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375633,16:07:00,16:07:10,stop_point:SP_428,Montauriol,18
+2375633,16:09:00,16:09:10,stop_point:SP_1018,ZI Drémil,19
+2375633,16:12:00,16:12:10,stop_point:SP_3050,Eglise Drémil,20
+2375633,16:13:00,16:13:10,stop_point:SP_1904,Montségur,21
+2375633,16:14:00,16:14:10,stop_point:SP_3222,Drémil Stade,22
+2375634,16:48:00,16:48:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375634,16:49:00,16:49:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375634,16:50:00,16:50:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375634,16:54:00,16:54:10,stop_point:SP_3460,Montels,4
+2375634,16:55:00,16:55:10,stop_point:SP_2936,Pyrénées,5
+2375634,16:56:00,16:56:10,stop_point:SP_261,Fonsegrives Centre,6
+2375634,16:57:00,16:57:10,stop_point:SP_3483,Côteaux,7
+2375634,16:57:00,16:57:10,stop_point:SP_3481,Lauragais,8
+2375634,16:58:00,16:58:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375634,17:02:00,17:02:10,stop_point:SP_2444,La Lie,10
+2375634,17:04:00,17:04:10,stop_point:SP_5015,Collège Flourens,11
+2375634,17:05:00,17:05:10,stop_point:SP_5013,Mairie Flourens,12
+2375634,17:05:00,17:05:10,stop_point:SP_2524,Lac,13
+2375634,17:06:00,17:06:10,stop_point:SP_2867,Coupette,14
+2375634,17:07:00,17:07:10,stop_point:SP_2073,Lasserre,15
+2375634,17:07:00,17:07:10,stop_point:SP_2804,En Batut,16
+2375634,17:08:00,17:08:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375634,17:09:00,17:09:10,stop_point:SP_428,Montauriol,18
+2375634,17:12:00,17:12:10,stop_point:SP_1018,ZI Drémil,19
+2375634,17:15:00,17:15:10,stop_point:SP_3050,Eglise Drémil,20
+2375634,17:16:00,17:16:10,stop_point:SP_1904,Montségur,21
+2375634,17:17:00,17:17:10,stop_point:SP_3222,Drémil Stade,22
+2375635,17:50:00,17:50:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375635,17:51:00,17:51:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375635,17:52:00,17:52:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375635,17:56:00,17:56:10,stop_point:SP_3460,Montels,4
+2375635,17:57:00,17:57:10,stop_point:SP_2936,Pyrénées,5
+2375635,17:58:00,17:58:10,stop_point:SP_261,Fonsegrives Centre,6
+2375635,17:59:00,17:59:10,stop_point:SP_3483,Côteaux,7
+2375635,17:59:00,17:59:10,stop_point:SP_3481,Lauragais,8
+2375635,18:00:00,18:00:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375635,18:04:00,18:04:10,stop_point:SP_2444,La Lie,10
+2375635,18:06:00,18:06:10,stop_point:SP_5015,Collège Flourens,11
+2375635,18:07:00,18:07:10,stop_point:SP_5013,Mairie Flourens,12
+2375635,18:07:00,18:07:10,stop_point:SP_2524,Lac,13
+2375635,18:08:00,18:08:10,stop_point:SP_2867,Coupette,14
+2375635,18:09:00,18:09:10,stop_point:SP_2073,Lasserre,15
+2375635,18:09:00,18:09:10,stop_point:SP_2804,En Batut,16
+2375635,18:10:00,18:10:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375635,18:11:00,18:11:10,stop_point:SP_428,Montauriol,18
+2375635,18:14:00,18:14:10,stop_point:SP_1018,ZI Drémil,19
+2375635,18:17:00,18:17:10,stop_point:SP_3050,Eglise Drémil,20
+2375635,18:18:00,18:18:10,stop_point:SP_1904,Montségur,21
+2375635,18:19:00,18:19:10,stop_point:SP_3222,Drémil Stade,22
+2375636,19:00:00,19:00:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375636,19:00:00,19:00:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375636,19:01:00,19:01:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375636,19:04:00,19:04:10,stop_point:SP_3460,Montels,4
+2375636,19:05:00,19:05:10,stop_point:SP_2936,Pyrénées,5
+2375636,19:06:00,19:06:10,stop_point:SP_261,Fonsegrives Centre,6
+2375636,19:07:00,19:07:10,stop_point:SP_3483,Côteaux,7
+2375636,19:07:00,19:07:10,stop_point:SP_3481,Lauragais,8
+2375636,19:08:00,19:08:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375636,19:12:00,19:12:10,stop_point:SP_2444,La Lie,10
+2375636,19:14:00,19:14:10,stop_point:SP_5015,Collège Flourens,11
+2375636,19:15:00,19:15:10,stop_point:SP_5013,Mairie Flourens,12
+2375636,19:15:00,19:15:10,stop_point:SP_2524,Lac,13
+2375636,19:16:00,19:16:10,stop_point:SP_2867,Coupette,14
+2375636,19:17:00,19:17:10,stop_point:SP_2073,Lasserre,15
+2375636,19:17:00,19:17:10,stop_point:SP_2804,En Batut,16
+2375636,19:18:00,19:18:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375636,19:18:00,19:18:10,stop_point:SP_428,Montauriol,18
+2375636,19:21:00,19:21:10,stop_point:SP_1018,ZI Drémil,19
+2375636,19:24:00,19:24:10,stop_point:SP_3050,Eglise Drémil,20
+2375636,19:25:00,19:25:10,stop_point:SP_1904,Montségur,21
+2375636,19:26:00,19:26:10,stop_point:SP_3222,Drémil Stade,22
+2375637,19:55:00,19:55:10,stop_point:SP_4776,Fonsegrives Entiore,1
+2375637,19:55:00,19:55:10,stop_point:SP_1679,Fonsegrives Entiore,2
+2375637,19:56:00,19:56:10,stop_point:SP_1836,Clinique La Croix du Sud,3
+2375637,19:59:00,19:59:10,stop_point:SP_3460,Montels,4
+2375637,19:59:00,19:59:10,stop_point:SP_2936,Pyrénées,5
+2375637,20:00:00,20:00:10,stop_point:SP_261,Fonsegrives Centre,6
+2375637,20:01:00,20:01:10,stop_point:SP_3483,Côteaux,7
+2375637,20:01:00,20:01:10,stop_point:SP_3481,Lauragais,8
+2375637,20:02:00,20:02:10,stop_point:SP_408,Fonsegrives Ginestière,9
+2375637,20:06:00,20:06:10,stop_point:SP_2444,La Lie,10
+2375637,20:08:00,20:08:10,stop_point:SP_5015,Collège Flourens,11
+2375637,20:09:00,20:09:10,stop_point:SP_5013,Mairie Flourens,12
+2375637,20:09:00,20:09:10,stop_point:SP_2524,Lac,13
+2375637,20:10:00,20:10:10,stop_point:SP_2867,Coupette,14
+2375637,20:10:00,20:10:10,stop_point:SP_2073,Lasserre,15
+2375637,20:11:00,20:11:10,stop_point:SP_2804,En Batut,16
+2375637,20:11:00,20:11:10,stop_point:SP_3043,Ctre Cial Flourens,17
+2375637,20:12:00,20:12:10,stop_point:SP_428,Montauriol,18
+2375637,20:14:00,20:14:10,stop_point:SP_1018,ZI Drémil,19
+2375637,20:17:00,20:17:10,stop_point:SP_3050,Eglise Drémil,20
+2375637,20:18:00,20:18:10,stop_point:SP_1904,Montségur,21
+2375637,20:19:00,20:19:10,stop_point:SP_3222,Drémil Stade,22
+2375638,07:25:00,07:25:10,stop_point:SP_2200,Drémil Stade,1
+2375638,07:25:00,07:25:10,stop_point:SP_2222,Montségur,2
+2375638,07:26:00,07:26:10,stop_point:SP_1049,Eglise Drémil,3
+2375638,07:28:00,07:28:10,stop_point:SP_1927,ZI Drémil,4
+2375638,07:31:00,07:31:10,stop_point:SP_428,Montauriol,5
+2375638,07:32:00,07:32:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375638,07:33:00,07:33:10,stop_point:SP_3752,En Batut,7
+2375638,07:33:00,07:33:10,stop_point:SP_458,Lasserre,8
+2375638,07:34:00,07:34:10,stop_point:SP_3396,Coupette,9
+2375638,07:35:00,07:35:10,stop_point:SP_3172,Lac,10
+2375638,07:36:00,07:36:10,stop_point:SP_5012,Mairie Flourens,11
+2375638,07:37:00,07:37:10,stop_point:SP_5014,Collège Flourens,12
+2375638,07:39:00,07:39:10,stop_point:SP_459,La Lie,13
+2375638,07:43:00,07:43:10,stop_point:SP_5707,Marie Curie,14
+2375638,07:44:00,07:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375638,07:45:00,07:45:10,stop_point:SP_1281,Lauragais,16
+2375638,07:46:00,07:46:10,stop_point:SP_220,Côteaux,17
+2375638,07:47:00,07:47:10,stop_point:SP_425,Fonsegrives Centre,18
+2375638,07:48:00,07:48:10,stop_point:SP_2610,Pyrénées,19
+2375638,07:49:00,07:49:10,stop_point:SP_2605,Montels,20
+2375638,07:52:00,07:52:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375638,07:53:00,07:53:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375639,08:28:00,08:28:10,stop_point:SP_2200,Drémil Stade,1
+2375639,08:28:00,08:28:10,stop_point:SP_2222,Montségur,2
+2375639,08:29:00,08:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375639,08:31:00,08:31:10,stop_point:SP_1927,ZI Drémil,4
+2375639,08:34:00,08:34:10,stop_point:SP_428,Montauriol,5
+2375639,08:35:00,08:35:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375639,08:36:00,08:36:10,stop_point:SP_3752,En Batut,7
+2375639,08:36:00,08:36:10,stop_point:SP_458,Lasserre,8
+2375639,08:37:00,08:37:10,stop_point:SP_3396,Coupette,9
+2375639,08:38:00,08:38:10,stop_point:SP_3172,Lac,10
+2375639,08:39:00,08:39:10,stop_point:SP_5012,Mairie Flourens,11
+2375639,08:40:00,08:40:10,stop_point:SP_5014,Collège Flourens,12
+2375639,08:42:00,08:42:10,stop_point:SP_459,La Lie,13
+2375639,08:46:00,08:46:10,stop_point:SP_5707,Marie Curie,14
+2375639,08:47:00,08:47:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375639,08:48:00,08:48:10,stop_point:SP_1281,Lauragais,16
+2375639,08:49:00,08:49:10,stop_point:SP_220,Côteaux,17
+2375639,08:50:00,08:50:10,stop_point:SP_425,Fonsegrives Centre,18
+2375639,08:51:00,08:51:10,stop_point:SP_2610,Pyrénées,19
+2375639,08:52:00,08:52:10,stop_point:SP_2605,Montels,20
+2375639,08:55:00,08:55:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375639,08:56:00,08:56:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375640,09:28:00,09:28:10,stop_point:SP_2200,Drémil Stade,1
+2375640,09:28:00,09:28:10,stop_point:SP_2222,Montségur,2
+2375640,09:29:00,09:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375640,09:31:00,09:31:10,stop_point:SP_1927,ZI Drémil,4
+2375640,09:33:00,09:33:10,stop_point:SP_428,Montauriol,5
+2375640,09:34:00,09:34:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375640,09:35:00,09:35:10,stop_point:SP_3752,En Batut,7
+2375640,09:35:00,09:35:10,stop_point:SP_458,Lasserre,8
+2375640,09:36:00,09:36:10,stop_point:SP_3396,Coupette,9
+2375640,09:37:00,09:37:10,stop_point:SP_3172,Lac,10
+2375640,09:37:00,09:37:10,stop_point:SP_5012,Mairie Flourens,11
+2375640,09:38:00,09:38:10,stop_point:SP_5014,Collège Flourens,12
+2375640,09:40:00,09:40:10,stop_point:SP_459,La Lie,13
+2375640,09:43:00,09:43:10,stop_point:SP_5707,Marie Curie,14
+2375640,09:44:00,09:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375640,09:45:00,09:45:10,stop_point:SP_1281,Lauragais,16
+2375640,09:45:00,09:45:10,stop_point:SP_220,Côteaux,17
+2375640,09:46:00,09:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375640,09:46:00,09:46:10,stop_point:SP_2610,Pyrénées,19
+2375640,09:47:00,09:47:10,stop_point:SP_2605,Montels,20
+2375640,09:49:00,09:49:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375640,09:50:00,09:50:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375641,10:28:00,10:28:10,stop_point:SP_2200,Drémil Stade,1
+2375641,10:28:00,10:28:10,stop_point:SP_2222,Montségur,2
+2375641,10:29:00,10:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375641,10:31:00,10:31:10,stop_point:SP_1927,ZI Drémil,4
+2375641,10:33:00,10:33:10,stop_point:SP_428,Montauriol,5
+2375641,10:34:00,10:34:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375641,10:35:00,10:35:10,stop_point:SP_3752,En Batut,7
+2375641,10:35:00,10:35:10,stop_point:SP_458,Lasserre,8
+2375641,10:36:00,10:36:10,stop_point:SP_3396,Coupette,9
+2375641,10:37:00,10:37:10,stop_point:SP_3172,Lac,10
+2375641,10:37:00,10:37:10,stop_point:SP_5012,Mairie Flourens,11
+2375641,10:38:00,10:38:10,stop_point:SP_5014,Collège Flourens,12
+2375641,10:40:00,10:40:10,stop_point:SP_459,La Lie,13
+2375641,10:43:00,10:43:10,stop_point:SP_5707,Marie Curie,14
+2375641,10:44:00,10:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375641,10:45:00,10:45:10,stop_point:SP_1281,Lauragais,16
+2375641,10:45:00,10:45:10,stop_point:SP_220,Côteaux,17
+2375641,10:46:00,10:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375641,10:46:00,10:46:10,stop_point:SP_2610,Pyrénées,19
+2375641,10:47:00,10:47:10,stop_point:SP_2605,Montels,20
+2375641,10:49:00,10:49:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375641,10:50:00,10:50:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375642,11:28:00,11:28:10,stop_point:SP_2200,Drémil Stade,1
+2375642,11:28:00,11:28:10,stop_point:SP_2222,Montségur,2
+2375642,11:29:00,11:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375642,11:31:00,11:31:10,stop_point:SP_1927,ZI Drémil,4
+2375642,11:33:00,11:33:10,stop_point:SP_428,Montauriol,5
+2375642,11:34:00,11:34:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375642,11:35:00,11:35:10,stop_point:SP_3752,En Batut,7
+2375642,11:35:00,11:35:10,stop_point:SP_458,Lasserre,8
+2375642,11:36:00,11:36:10,stop_point:SP_3396,Coupette,9
+2375642,11:37:00,11:37:10,stop_point:SP_3172,Lac,10
+2375642,11:37:00,11:37:10,stop_point:SP_5012,Mairie Flourens,11
+2375642,11:38:00,11:38:10,stop_point:SP_5014,Collège Flourens,12
+2375642,11:40:00,11:40:10,stop_point:SP_459,La Lie,13
+2375642,11:43:00,11:43:10,stop_point:SP_5707,Marie Curie,14
+2375642,11:44:00,11:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375642,11:45:00,11:45:10,stop_point:SP_1281,Lauragais,16
+2375642,11:45:00,11:45:10,stop_point:SP_220,Côteaux,17
+2375642,11:46:00,11:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375642,11:46:00,11:46:10,stop_point:SP_2610,Pyrénées,19
+2375642,11:47:00,11:47:10,stop_point:SP_2605,Montels,20
+2375642,11:49:00,11:49:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375642,11:50:00,11:50:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375643,12:28:00,12:28:10,stop_point:SP_2200,Drémil Stade,1
+2375643,12:28:00,12:28:10,stop_point:SP_2222,Montségur,2
+2375643,12:29:00,12:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375643,12:31:00,12:31:10,stop_point:SP_1927,ZI Drémil,4
+2375643,12:33:00,12:33:10,stop_point:SP_428,Montauriol,5
+2375643,12:34:00,12:34:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375643,12:35:00,12:35:10,stop_point:SP_3752,En Batut,7
+2375643,12:35:00,12:35:10,stop_point:SP_458,Lasserre,8
+2375643,12:36:00,12:36:10,stop_point:SP_3396,Coupette,9
+2375643,12:37:00,12:37:10,stop_point:SP_3172,Lac,10
+2375643,12:37:00,12:37:10,stop_point:SP_5012,Mairie Flourens,11
+2375643,12:38:00,12:38:10,stop_point:SP_5014,Collège Flourens,12
+2375643,12:40:00,12:40:10,stop_point:SP_459,La Lie,13
+2375643,12:43:00,12:43:10,stop_point:SP_5707,Marie Curie,14
+2375643,12:44:00,12:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375643,12:45:00,12:45:10,stop_point:SP_1281,Lauragais,16
+2375643,12:45:00,12:45:10,stop_point:SP_220,Côteaux,17
+2375643,12:46:00,12:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375643,12:46:00,12:46:10,stop_point:SP_2610,Pyrénées,19
+2375643,12:47:00,12:47:10,stop_point:SP_2605,Montels,20
+2375643,12:49:00,12:49:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375643,12:50:00,12:50:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375644,15:18:00,15:18:10,stop_point:SP_2200,Drémil Stade,1
+2375644,15:18:00,15:18:10,stop_point:SP_2222,Montségur,2
+2375644,15:19:00,15:19:10,stop_point:SP_1049,Eglise Drémil,3
+2375644,15:21:00,15:21:10,stop_point:SP_1927,ZI Drémil,4
+2375644,15:23:00,15:23:10,stop_point:SP_428,Montauriol,5
+2375644,15:24:00,15:24:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375644,15:25:00,15:25:10,stop_point:SP_3752,En Batut,7
+2375644,15:25:00,15:25:10,stop_point:SP_458,Lasserre,8
+2375644,15:26:00,15:26:10,stop_point:SP_3396,Coupette,9
+2375644,15:27:00,15:27:10,stop_point:SP_3172,Lac,10
+2375644,15:27:00,15:27:10,stop_point:SP_5012,Mairie Flourens,11
+2375644,15:28:00,15:28:10,stop_point:SP_5014,Collège Flourens,12
+2375644,15:30:00,15:30:10,stop_point:SP_459,La Lie,13
+2375644,15:33:00,15:33:10,stop_point:SP_5707,Marie Curie,14
+2375644,15:34:00,15:34:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375644,15:35:00,15:35:10,stop_point:SP_1281,Lauragais,16
+2375644,15:35:00,15:35:10,stop_point:SP_220,Côteaux,17
+2375644,15:36:00,15:36:10,stop_point:SP_425,Fonsegrives Centre,18
+2375644,15:36:00,15:36:10,stop_point:SP_2610,Pyrénées,19
+2375644,15:37:00,15:37:10,stop_point:SP_2605,Montels,20
+2375644,15:39:00,15:39:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375644,15:40:00,15:40:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375645,16:18:00,16:18:10,stop_point:SP_2200,Drémil Stade,1
+2375645,16:18:00,16:18:10,stop_point:SP_2222,Montségur,2
+2375645,16:19:00,16:19:10,stop_point:SP_1049,Eglise Drémil,3
+2375645,16:21:00,16:21:10,stop_point:SP_1927,ZI Drémil,4
+2375645,16:24:00,16:24:10,stop_point:SP_428,Montauriol,5
+2375645,16:25:00,16:25:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375645,16:26:00,16:26:10,stop_point:SP_3752,En Batut,7
+2375645,16:26:00,16:26:10,stop_point:SP_458,Lasserre,8
+2375645,16:27:00,16:27:10,stop_point:SP_3396,Coupette,9
+2375645,16:28:00,16:28:10,stop_point:SP_3172,Lac,10
+2375645,16:29:00,16:29:10,stop_point:SP_5012,Mairie Flourens,11
+2375645,16:30:00,16:30:10,stop_point:SP_5014,Collège Flourens,12
+2375645,16:31:00,16:31:10,stop_point:SP_459,La Lie,13
+2375645,16:35:00,16:35:10,stop_point:SP_5707,Marie Curie,14
+2375645,16:36:00,16:36:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375645,16:37:00,16:37:10,stop_point:SP_1281,Lauragais,16
+2375645,16:38:00,16:38:10,stop_point:SP_220,Côteaux,17
+2375645,16:39:00,16:39:10,stop_point:SP_425,Fonsegrives Centre,18
+2375645,16:40:00,16:40:10,stop_point:SP_2610,Pyrénées,19
+2375645,16:41:00,16:41:10,stop_point:SP_2605,Montels,20
+2375645,16:43:00,16:43:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375645,16:44:00,16:44:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375646,17:18:00,17:18:10,stop_point:SP_2200,Drémil Stade,1
+2375646,17:18:00,17:18:10,stop_point:SP_2222,Montségur,2
+2375646,17:19:00,17:19:10,stop_point:SP_1049,Eglise Drémil,3
+2375646,17:21:00,17:21:10,stop_point:SP_1927,ZI Drémil,4
+2375646,17:24:00,17:24:10,stop_point:SP_428,Montauriol,5
+2375646,17:25:00,17:25:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375646,17:26:00,17:26:10,stop_point:SP_3752,En Batut,7
+2375646,17:26:00,17:26:10,stop_point:SP_458,Lasserre,8
+2375646,17:27:00,17:27:10,stop_point:SP_3396,Coupette,9
+2375646,17:28:00,17:28:10,stop_point:SP_3172,Lac,10
+2375646,17:29:00,17:29:10,stop_point:SP_5012,Mairie Flourens,11
+2375646,17:30:00,17:30:10,stop_point:SP_5014,Collège Flourens,12
+2375646,17:31:00,17:31:10,stop_point:SP_459,La Lie,13
+2375646,17:35:00,17:35:10,stop_point:SP_5707,Marie Curie,14
+2375646,17:36:00,17:36:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375646,17:37:00,17:37:10,stop_point:SP_1281,Lauragais,16
+2375646,17:38:00,17:38:10,stop_point:SP_220,Côteaux,17
+2375646,17:39:00,17:39:10,stop_point:SP_425,Fonsegrives Centre,18
+2375646,17:40:00,17:40:10,stop_point:SP_2610,Pyrénées,19
+2375646,17:41:00,17:41:10,stop_point:SP_2605,Montels,20
+2375646,17:43:00,17:43:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375646,17:44:00,17:44:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375647,18:25:00,18:25:10,stop_point:SP_2200,Drémil Stade,1
+2375647,18:25:00,18:25:10,stop_point:SP_2222,Montségur,2
+2375647,18:26:00,18:26:10,stop_point:SP_1049,Eglise Drémil,3
+2375647,18:28:00,18:28:10,stop_point:SP_1927,ZI Drémil,4
+2375647,18:31:00,18:31:10,stop_point:SP_428,Montauriol,5
+2375647,18:32:00,18:32:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375647,18:33:00,18:33:10,stop_point:SP_3752,En Batut,7
+2375647,18:33:00,18:33:10,stop_point:SP_458,Lasserre,8
+2375647,18:34:00,18:34:10,stop_point:SP_3396,Coupette,9
+2375647,18:35:00,18:35:10,stop_point:SP_3172,Lac,10
+2375647,18:36:00,18:36:10,stop_point:SP_5012,Mairie Flourens,11
+2375647,18:37:00,18:37:10,stop_point:SP_5014,Collège Flourens,12
+2375647,18:38:00,18:38:10,stop_point:SP_459,La Lie,13
+2375647,18:42:00,18:42:10,stop_point:SP_5707,Marie Curie,14
+2375647,18:43:00,18:43:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375647,18:44:00,18:44:10,stop_point:SP_1281,Lauragais,16
+2375647,18:45:00,18:45:10,stop_point:SP_220,Côteaux,17
+2375647,18:46:00,18:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375647,18:47:00,18:47:10,stop_point:SP_2610,Pyrénées,19
+2375647,18:48:00,18:48:10,stop_point:SP_2605,Montels,20
+2375647,18:50:00,18:50:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375647,18:51:00,18:51:10,stop_point:SP_4776,Fonsegrives Entiore,22
+2375648,19:28:00,19:28:10,stop_point:SP_2200,Drémil Stade,1
+2375648,19:28:00,19:28:10,stop_point:SP_2222,Montségur,2
+2375648,19:29:00,19:29:10,stop_point:SP_1049,Eglise Drémil,3
+2375648,19:31:00,19:31:10,stop_point:SP_1927,ZI Drémil,4
+2375648,19:33:00,19:33:10,stop_point:SP_428,Montauriol,5
+2375648,19:34:00,19:34:10,stop_point:SP_5666,Ctre Cial Flourens,6
+2375648,19:35:00,19:35:10,stop_point:SP_3752,En Batut,7
+2375648,19:35:00,19:35:10,stop_point:SP_458,Lasserre,8
+2375648,19:36:00,19:36:10,stop_point:SP_3396,Coupette,9
+2375648,19:37:00,19:37:10,stop_point:SP_3172,Lac,10
+2375648,19:37:00,19:37:10,stop_point:SP_5012,Mairie Flourens,11
+2375648,19:38:00,19:38:10,stop_point:SP_5014,Collège Flourens,12
+2375648,19:40:00,19:40:10,stop_point:SP_459,La Lie,13
+2375648,19:43:00,19:43:10,stop_point:SP_5707,Marie Curie,14
+2375648,19:44:00,19:44:10,stop_point:SP_288,Fonsegrives Ginestière,15
+2375648,19:45:00,19:45:10,stop_point:SP_1281,Lauragais,16
+2375648,19:45:00,19:45:10,stop_point:SP_220,Côteaux,17
+2375648,19:46:00,19:46:10,stop_point:SP_425,Fonsegrives Centre,18
+2375648,19:46:00,19:46:10,stop_point:SP_2610,Pyrénées,19
+2375648,19:47:00,19:47:10,stop_point:SP_2605,Montels,20
+2375648,19:49:00,19:49:10,stop_point:SP_3552,Clinique La Croix du Sud,21
+2375648,19:50:00,19:50:10,stop_point:SP_4776,Fonsegrives Entiore,22

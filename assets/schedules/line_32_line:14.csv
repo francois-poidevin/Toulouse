@@ -1,0 +1,2370 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2299120,07:40:00,07:40:10,stop_point:SP_5100,Lycée Nelson Mandela,1
+2299120,07:42:00,07:42:10,stop_point:SP_5110,Escalette,2
+2299120,07:44:00,07:44:10,stop_point:SP_5117,Giratoire Dunant,3
+2299120,07:48:00,07:48:10,stop_point:SP_788,La Chauge,4
+2299120,07:50:00,07:50:10,stop_point:SP_4878,Mairie de Brax,5
+2299120,07:50:00,07:50:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,6
+2299120,07:51:00,07:51:10,stop_point:SP_5094,Taillades,7
+2299120,07:52:00,07:52:10,stop_point:SP_5099,Brax Maudinat,8
+2299120,07:53:00,07:53:10,stop_point:SP_5587,Saquet,9
+2299120,07:55:00,07:55:10,stop_point:SP_5545,Av. des Pyrénées,10
+2299120,07:56:00,07:56:10,stop_point:SP_5536,La Commanderie,11
+2299120,08:00:00,08:00:10,stop_point:SP_5540,Léguevin Collège,12
+2299121,06:25:00,06:25:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299121,06:26:00,06:26:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299121,06:27:00,06:27:10,stop_point:SP_4359,Lucie Aubrac,3
+2299121,06:28:00,06:28:10,stop_point:SP_4388,Georges Brassens,4
+2299121,06:28:00,06:28:10,stop_point:SP_4363,Capoul,5
+2299121,06:29:00,06:29:10,stop_point:SP_4361,Luchonnais,6
+2299121,06:30:00,06:30:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299121,06:31:00,06:31:10,stop_point:SP_4396,Armurier,8
+2299121,06:32:00,06:32:10,stop_point:SP_4340,Mont Blanc,9
+2299121,06:33:00,06:33:10,stop_point:SP_4325,Oisans,10
+2299121,06:34:00,06:34:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299121,06:35:00,06:35:10,stop_point:SP_5237,Mairie Colomiers,12
+2299121,06:36:00,06:36:10,stop_point:SP_937,Hall Comminges,13
+2299121,06:37:00,06:37:10,stop_point:SP_156,Salle Gascogne,14
+2299121,06:38:00,06:38:10,stop_point:SP_2595,Val D'Aran,15
+2299121,06:39:00,06:39:10,stop_point:SP_4288,Bel Air,16
+2299121,06:40:00,06:40:10,stop_point:SP_4295,Collège Léon Blum,17
+2299121,06:41:00,06:41:10,stop_point:SP_4297,Aquitaine,18
+2299121,06:42:00,06:42:10,stop_point:SP_2377,Piquemil,19
+2299121,06:44:00,06:44:10,stop_point:SP_443,Lycée International,20
+2299121,06:48:00,06:48:10,stop_point:SP_1937,Tuilerie,21
+2299121,06:48:00,06:48:10,stop_point:SP_5109,Basilique,22
+2299121,06:49:00,06:49:10,stop_point:SP_5112,Balardou,23
+2299121,06:51:00,06:51:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299121,06:53:00,06:53:10,stop_point:SP_5110,Escalette,25
+2299121,06:55:00,06:55:10,stop_point:SP_5117,Giratoire Dunant,26
+2299121,06:58:00,06:58:10,stop_point:SP_788,La Chauge,27
+2299121,07:00:00,07:00:10,stop_point:SP_4878,Mairie de Brax,28
+2299121,07:00:00,07:00:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299121,07:01:00,07:01:10,stop_point:SP_5094,Taillades,30
+2299121,07:02:00,07:02:10,stop_point:SP_5099,Brax Maudinat,31
+2299121,07:03:00,07:03:10,stop_point:SP_5587,Saquet,32
+2299121,07:05:00,07:05:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299121,07:06:00,07:06:10,stop_point:SP_5536,La Commanderie,34
+2299121,07:10:00,07:10:10,stop_point:SP_5540,Léguevin Collège,35
+2299122,07:15:00,07:15:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299122,07:16:00,07:16:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299122,07:17:00,07:17:10,stop_point:SP_4359,Lucie Aubrac,3
+2299122,07:18:00,07:18:10,stop_point:SP_4388,Georges Brassens,4
+2299122,07:19:00,07:19:10,stop_point:SP_4363,Capoul,5
+2299122,07:20:00,07:20:10,stop_point:SP_4361,Luchonnais,6
+2299122,07:21:00,07:21:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299122,07:22:00,07:22:10,stop_point:SP_4396,Armurier,8
+2299122,07:23:00,07:23:10,stop_point:SP_4340,Mont Blanc,9
+2299122,07:24:00,07:24:10,stop_point:SP_4325,Oisans,10
+2299122,07:25:00,07:25:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299122,07:26:00,07:26:10,stop_point:SP_5237,Mairie Colomiers,12
+2299122,07:28:00,07:28:10,stop_point:SP_937,Hall Comminges,13
+2299122,07:29:00,07:29:10,stop_point:SP_156,Salle Gascogne,14
+2299122,07:30:00,07:30:10,stop_point:SP_2595,Val D'Aran,15
+2299122,07:31:00,07:31:10,stop_point:SP_4288,Bel Air,16
+2299122,07:32:00,07:32:10,stop_point:SP_4295,Collège Léon Blum,17
+2299122,07:33:00,07:33:10,stop_point:SP_4297,Aquitaine,18
+2299122,07:34:00,07:34:10,stop_point:SP_2377,Piquemil,19
+2299122,07:37:00,07:37:10,stop_point:SP_443,Lycée International,20
+2299122,07:42:00,07:42:10,stop_point:SP_1937,Tuilerie,21
+2299122,07:43:00,07:43:10,stop_point:SP_5109,Basilique,22
+2299122,07:45:00,07:45:10,stop_point:SP_5112,Balardou,23
+2299122,07:47:00,07:47:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299122,07:49:00,07:49:10,stop_point:SP_5110,Escalette,25
+2299122,07:51:00,07:51:10,stop_point:SP_5117,Giratoire Dunant,26
+2299122,07:55:00,07:55:10,stop_point:SP_788,La Chauge,27
+2299122,07:57:00,07:57:10,stop_point:SP_4878,Mairie de Brax,28
+2299122,07:57:00,07:57:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299122,07:58:00,07:58:10,stop_point:SP_5094,Taillades,30
+2299122,07:59:00,07:59:10,stop_point:SP_5099,Brax Maudinat,31
+2299122,08:00:00,08:00:10,stop_point:SP_5587,Saquet,32
+2299122,08:02:00,08:02:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299122,08:03:00,08:03:10,stop_point:SP_5536,La Commanderie,34
+2299122,08:07:00,08:07:10,stop_point:SP_5540,Léguevin Collège,35
+2299123,07:50:00,07:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299123,07:51:00,07:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299123,07:52:00,07:52:10,stop_point:SP_4359,Lucie Aubrac,3
+2299123,07:53:00,07:53:10,stop_point:SP_4388,Georges Brassens,4
+2299123,07:54:00,07:54:10,stop_point:SP_4363,Capoul,5
+2299123,07:55:00,07:55:10,stop_point:SP_4361,Luchonnais,6
+2299123,07:56:00,07:56:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299123,07:57:00,07:57:10,stop_point:SP_4396,Armurier,8
+2299123,07:58:00,07:58:10,stop_point:SP_4340,Mont Blanc,9
+2299123,07:59:00,07:59:10,stop_point:SP_4325,Oisans,10
+2299123,08:00:00,08:00:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299123,08:02:00,08:02:10,stop_point:SP_5237,Mairie Colomiers,12
+2299123,08:03:00,08:03:10,stop_point:SP_937,Hall Comminges,13
+2299123,08:05:00,08:05:10,stop_point:SP_156,Salle Gascogne,14
+2299123,08:05:00,08:05:10,stop_point:SP_2595,Val D'Aran,15
+2299123,08:07:00,08:07:10,stop_point:SP_4288,Bel Air,16
+2299123,08:09:00,08:09:10,stop_point:SP_4295,Collège Léon Blum,17
+2299123,08:09:00,08:09:10,stop_point:SP_4297,Aquitaine,18
+2299123,08:11:00,08:11:10,stop_point:SP_2377,Piquemil,19
+2299123,08:14:00,08:14:10,stop_point:SP_443,Lycée International,20
+2299123,08:19:00,08:19:10,stop_point:SP_1937,Tuilerie,21
+2299123,08:20:00,08:20:10,stop_point:SP_5109,Basilique,22
+2299123,08:22:00,08:22:10,stop_point:SP_5112,Balardou,23
+2299123,08:24:00,08:24:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299123,08:26:00,08:26:10,stop_point:SP_5110,Escalette,25
+2299123,08:28:00,08:28:10,stop_point:SP_5117,Giratoire Dunant,26
+2299123,08:32:00,08:32:10,stop_point:SP_788,La Chauge,27
+2299123,08:34:00,08:34:10,stop_point:SP_4878,Mairie de Brax,28
+2299123,08:34:00,08:34:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299123,08:35:00,08:35:10,stop_point:SP_5094,Taillades,30
+2299123,08:36:00,08:36:10,stop_point:SP_5099,Brax Maudinat,31
+2299123,08:37:00,08:37:10,stop_point:SP_5587,Saquet,32
+2299123,08:39:00,08:39:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299123,08:41:00,08:41:10,stop_point:SP_5536,La Commanderie,34
+2299123,08:45:00,08:45:10,stop_point:SP_5540,Léguevin Collège,35
+2299124,08:30:00,08:30:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299124,08:31:00,08:31:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299124,08:32:00,08:32:10,stop_point:SP_4359,Lucie Aubrac,3
+2299124,08:33:00,08:33:10,stop_point:SP_4388,Georges Brassens,4
+2299124,08:34:00,08:34:10,stop_point:SP_4363,Capoul,5
+2299124,08:35:00,08:35:10,stop_point:SP_4361,Luchonnais,6
+2299124,08:36:00,08:36:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299124,08:37:00,08:37:10,stop_point:SP_4396,Armurier,8
+2299124,08:38:00,08:38:10,stop_point:SP_4340,Mont Blanc,9
+2299124,08:39:00,08:39:10,stop_point:SP_4325,Oisans,10
+2299124,08:40:00,08:40:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299124,08:41:00,08:41:10,stop_point:SP_5237,Mairie Colomiers,12
+2299124,08:43:00,08:43:10,stop_point:SP_937,Hall Comminges,13
+2299124,08:44:00,08:44:10,stop_point:SP_156,Salle Gascogne,14
+2299124,08:45:00,08:45:10,stop_point:SP_2595,Val D'Aran,15
+2299124,08:46:00,08:46:10,stop_point:SP_4288,Bel Air,16
+2299124,08:47:00,08:47:10,stop_point:SP_4295,Collège Léon Blum,17
+2299124,08:48:00,08:48:10,stop_point:SP_4297,Aquitaine,18
+2299124,08:49:00,08:49:10,stop_point:SP_2377,Piquemil,19
+2299124,08:52:00,08:52:10,stop_point:SP_443,Lycée International,20
+2299124,08:56:00,08:56:10,stop_point:SP_1937,Tuilerie,21
+2299124,08:56:00,08:56:10,stop_point:SP_5109,Basilique,22
+2299124,08:57:00,08:57:10,stop_point:SP_5112,Balardou,23
+2299124,08:59:00,08:59:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299124,09:01:00,09:01:10,stop_point:SP_5110,Escalette,25
+2299124,09:03:00,09:03:10,stop_point:SP_5117,Giratoire Dunant,26
+2299124,09:06:00,09:06:10,stop_point:SP_788,La Chauge,27
+2299124,09:08:00,09:08:10,stop_point:SP_4878,Mairie de Brax,28
+2299124,09:08:00,09:08:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299124,09:09:00,09:09:10,stop_point:SP_5094,Taillades,30
+2299124,09:10:00,09:10:10,stop_point:SP_5099,Brax Maudinat,31
+2299124,09:11:00,09:11:10,stop_point:SP_5587,Saquet,32
+2299124,09:13:00,09:13:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299124,09:15:00,09:15:10,stop_point:SP_5536,La Commanderie,34
+2299124,09:19:00,09:19:10,stop_point:SP_5540,Léguevin Collège,35
+2299125,09:35:00,09:35:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299125,09:36:00,09:36:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299125,09:37:00,09:37:10,stop_point:SP_4359,Lucie Aubrac,3
+2299125,09:38:00,09:38:10,stop_point:SP_4388,Georges Brassens,4
+2299125,09:38:00,09:38:10,stop_point:SP_4363,Capoul,5
+2299125,09:39:00,09:39:10,stop_point:SP_4361,Luchonnais,6
+2299125,09:40:00,09:40:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299125,09:41:00,09:41:10,stop_point:SP_4396,Armurier,8
+2299125,09:42:00,09:42:10,stop_point:SP_4340,Mont Blanc,9
+2299125,09:43:00,09:43:10,stop_point:SP_4325,Oisans,10
+2299125,09:44:00,09:44:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299125,09:45:00,09:45:10,stop_point:SP_5237,Mairie Colomiers,12
+2299125,09:46:00,09:46:10,stop_point:SP_937,Hall Comminges,13
+2299125,09:47:00,09:47:10,stop_point:SP_156,Salle Gascogne,14
+2299125,09:48:00,09:48:10,stop_point:SP_2595,Val D'Aran,15
+2299125,09:49:00,09:49:10,stop_point:SP_4288,Bel Air,16
+2299125,09:50:00,09:50:10,stop_point:SP_4295,Collège Léon Blum,17
+2299125,09:51:00,09:51:10,stop_point:SP_4297,Aquitaine,18
+2299125,09:52:00,09:52:10,stop_point:SP_2377,Piquemil,19
+2299125,09:54:00,09:54:10,stop_point:SP_443,Lycée International,20
+2299125,09:58:00,09:58:10,stop_point:SP_1937,Tuilerie,21
+2299125,09:58:00,09:58:10,stop_point:SP_5109,Basilique,22
+2299125,09:59:00,09:59:10,stop_point:SP_5112,Balardou,23
+2299125,10:01:00,10:01:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299125,10:03:00,10:03:10,stop_point:SP_5110,Escalette,25
+2299125,10:05:00,10:05:10,stop_point:SP_5117,Giratoire Dunant,26
+2299125,10:08:00,10:08:10,stop_point:SP_788,La Chauge,27
+2299125,10:10:00,10:10:10,stop_point:SP_4878,Mairie de Brax,28
+2299125,10:10:00,10:10:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299125,10:11:00,10:11:10,stop_point:SP_5094,Taillades,30
+2299125,10:12:00,10:12:10,stop_point:SP_5099,Brax Maudinat,31
+2299125,10:13:00,10:13:10,stop_point:SP_5587,Saquet,32
+2299125,10:15:00,10:15:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299125,10:16:00,10:16:10,stop_point:SP_5536,La Commanderie,34
+2299125,10:20:00,10:20:10,stop_point:SP_5540,Léguevin Collège,35
+2299126,10:40:00,10:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299126,10:41:00,10:41:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299126,10:42:00,10:42:10,stop_point:SP_4359,Lucie Aubrac,3
+2299126,10:43:00,10:43:10,stop_point:SP_4388,Georges Brassens,4
+2299126,10:43:00,10:43:10,stop_point:SP_4363,Capoul,5
+2299126,10:44:00,10:44:10,stop_point:SP_4361,Luchonnais,6
+2299126,10:45:00,10:45:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299126,10:46:00,10:46:10,stop_point:SP_4396,Armurier,8
+2299126,10:47:00,10:47:10,stop_point:SP_4340,Mont Blanc,9
+2299126,10:48:00,10:48:10,stop_point:SP_4325,Oisans,10
+2299126,10:49:00,10:49:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299126,10:50:00,10:50:10,stop_point:SP_5237,Mairie Colomiers,12
+2299126,10:51:00,10:51:10,stop_point:SP_937,Hall Comminges,13
+2299126,10:52:00,10:52:10,stop_point:SP_156,Salle Gascogne,14
+2299126,10:53:00,10:53:10,stop_point:SP_2595,Val D'Aran,15
+2299126,10:54:00,10:54:10,stop_point:SP_4288,Bel Air,16
+2299126,10:55:00,10:55:10,stop_point:SP_4295,Collège Léon Blum,17
+2299126,10:56:00,10:56:10,stop_point:SP_4297,Aquitaine,18
+2299126,10:57:00,10:57:10,stop_point:SP_2377,Piquemil,19
+2299126,10:59:00,10:59:10,stop_point:SP_443,Lycée International,20
+2299126,11:03:00,11:03:10,stop_point:SP_1937,Tuilerie,21
+2299126,11:03:00,11:03:10,stop_point:SP_5109,Basilique,22
+2299126,11:04:00,11:04:10,stop_point:SP_5112,Balardou,23
+2299126,11:06:00,11:06:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299126,11:08:00,11:08:10,stop_point:SP_5110,Escalette,25
+2299126,11:10:00,11:10:10,stop_point:SP_5117,Giratoire Dunant,26
+2299126,11:13:00,11:13:10,stop_point:SP_788,La Chauge,27
+2299126,11:15:00,11:15:10,stop_point:SP_4878,Mairie de Brax,28
+2299126,11:15:00,11:15:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299126,11:16:00,11:16:10,stop_point:SP_5094,Taillades,30
+2299126,11:17:00,11:17:10,stop_point:SP_5099,Brax Maudinat,31
+2299126,11:18:00,11:18:10,stop_point:SP_5587,Saquet,32
+2299126,11:20:00,11:20:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299126,11:21:00,11:21:10,stop_point:SP_5536,La Commanderie,34
+2299126,11:24:00,11:24:10,stop_point:SP_5540,Léguevin Collège,35
+2299127,11:35:00,11:35:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299127,11:36:00,11:36:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299127,11:37:00,11:37:10,stop_point:SP_4359,Lucie Aubrac,3
+2299127,11:38:00,11:38:10,stop_point:SP_4388,Georges Brassens,4
+2299127,11:38:00,11:38:10,stop_point:SP_4363,Capoul,5
+2299127,11:39:00,11:39:10,stop_point:SP_4361,Luchonnais,6
+2299127,11:40:00,11:40:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299127,11:41:00,11:41:10,stop_point:SP_4396,Armurier,8
+2299127,11:42:00,11:42:10,stop_point:SP_4340,Mont Blanc,9
+2299127,11:43:00,11:43:10,stop_point:SP_4325,Oisans,10
+2299127,11:44:00,11:44:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299127,11:45:00,11:45:10,stop_point:SP_5237,Mairie Colomiers,12
+2299127,11:46:00,11:46:10,stop_point:SP_937,Hall Comminges,13
+2299127,11:47:00,11:47:10,stop_point:SP_156,Salle Gascogne,14
+2299127,11:48:00,11:48:10,stop_point:SP_2595,Val D'Aran,15
+2299127,11:49:00,11:49:10,stop_point:SP_4288,Bel Air,16
+2299127,11:50:00,11:50:10,stop_point:SP_4295,Collège Léon Blum,17
+2299127,11:51:00,11:51:10,stop_point:SP_4297,Aquitaine,18
+2299127,11:52:00,11:52:10,stop_point:SP_2377,Piquemil,19
+2299127,11:54:00,11:54:10,stop_point:SP_443,Lycée International,20
+2299127,11:58:00,11:58:10,stop_point:SP_1937,Tuilerie,21
+2299127,11:58:00,11:58:10,stop_point:SP_5109,Basilique,22
+2299127,11:59:00,11:59:10,stop_point:SP_5112,Balardou,23
+2299127,12:01:00,12:01:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299127,12:03:00,12:03:10,stop_point:SP_5110,Escalette,25
+2299127,12:05:00,12:05:10,stop_point:SP_5117,Giratoire Dunant,26
+2299127,12:08:00,12:08:10,stop_point:SP_788,La Chauge,27
+2299127,12:10:00,12:10:10,stop_point:SP_4878,Mairie de Brax,28
+2299127,12:10:00,12:10:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299127,12:11:00,12:11:10,stop_point:SP_5094,Taillades,30
+2299127,12:12:00,12:12:10,stop_point:SP_5099,Brax Maudinat,31
+2299127,12:13:00,12:13:10,stop_point:SP_5587,Saquet,32
+2299127,12:15:00,12:15:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299127,12:16:00,12:16:10,stop_point:SP_5536,La Commanderie,34
+2299127,12:19:00,12:19:10,stop_point:SP_5540,Léguevin Collège,35
+2299128,12:10:00,12:10:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299128,12:11:00,12:11:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299128,12:12:00,12:12:10,stop_point:SP_4359,Lucie Aubrac,3
+2299128,12:13:00,12:13:10,stop_point:SP_4388,Georges Brassens,4
+2299128,12:13:00,12:13:10,stop_point:SP_4363,Capoul,5
+2299128,12:14:00,12:14:10,stop_point:SP_4361,Luchonnais,6
+2299128,12:15:00,12:15:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299128,12:16:00,12:16:10,stop_point:SP_4396,Armurier,8
+2299128,12:17:00,12:17:10,stop_point:SP_4340,Mont Blanc,9
+2299128,12:18:00,12:18:10,stop_point:SP_4325,Oisans,10
+2299128,12:19:00,12:19:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299128,12:20:00,12:20:10,stop_point:SP_5237,Mairie Colomiers,12
+2299128,12:21:00,12:21:10,stop_point:SP_937,Hall Comminges,13
+2299128,12:22:00,12:22:10,stop_point:SP_156,Salle Gascogne,14
+2299128,12:23:00,12:23:10,stop_point:SP_2595,Val D'Aran,15
+2299128,12:24:00,12:24:10,stop_point:SP_4288,Bel Air,16
+2299128,12:25:00,12:25:10,stop_point:SP_4295,Collège Léon Blum,17
+2299128,12:26:00,12:26:10,stop_point:SP_4297,Aquitaine,18
+2299128,12:27:00,12:27:10,stop_point:SP_2377,Piquemil,19
+2299128,12:29:00,12:29:10,stop_point:SP_443,Lycée International,20
+2299128,12:33:00,12:33:10,stop_point:SP_1937,Tuilerie,21
+2299128,12:34:00,12:34:10,stop_point:SP_5109,Basilique,22
+2299128,12:35:00,12:35:10,stop_point:SP_5112,Balardou,23
+2299128,12:37:00,12:37:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299128,12:39:00,12:39:10,stop_point:SP_5110,Escalette,25
+2299128,12:41:00,12:41:10,stop_point:SP_5117,Giratoire Dunant,26
+2299128,12:44:00,12:44:10,stop_point:SP_788,La Chauge,27
+2299128,12:46:00,12:46:10,stop_point:SP_4878,Mairie de Brax,28
+2299128,12:46:00,12:46:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299128,12:47:00,12:47:10,stop_point:SP_5094,Taillades,30
+2299128,12:48:00,12:48:10,stop_point:SP_5099,Brax Maudinat,31
+2299128,12:49:00,12:49:10,stop_point:SP_5587,Saquet,32
+2299128,12:51:00,12:51:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299128,12:52:00,12:52:10,stop_point:SP_5536,La Commanderie,34
+2299128,12:55:00,12:55:10,stop_point:SP_5540,Léguevin Collège,35
+2299129,12:45:00,12:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299129,12:46:00,12:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299129,12:47:00,12:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299129,12:48:00,12:48:10,stop_point:SP_4388,Georges Brassens,4
+2299129,12:48:00,12:48:10,stop_point:SP_4363,Capoul,5
+2299129,12:49:00,12:49:10,stop_point:SP_4361,Luchonnais,6
+2299129,12:50:00,12:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299129,12:51:00,12:51:10,stop_point:SP_4396,Armurier,8
+2299129,12:52:00,12:52:10,stop_point:SP_4340,Mont Blanc,9
+2299129,12:53:00,12:53:10,stop_point:SP_4325,Oisans,10
+2299129,12:54:00,12:54:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299129,12:55:00,12:55:10,stop_point:SP_5237,Mairie Colomiers,12
+2299129,12:56:00,12:56:10,stop_point:SP_937,Hall Comminges,13
+2299129,12:57:00,12:57:10,stop_point:SP_156,Salle Gascogne,14
+2299129,12:58:00,12:58:10,stop_point:SP_2595,Val D'Aran,15
+2299129,12:59:00,12:59:10,stop_point:SP_4288,Bel Air,16
+2299129,13:00:00,13:00:10,stop_point:SP_4295,Collège Léon Blum,17
+2299129,13:01:00,13:01:10,stop_point:SP_4297,Aquitaine,18
+2299129,13:02:00,13:02:10,stop_point:SP_2377,Piquemil,19
+2299129,13:04:00,13:04:10,stop_point:SP_443,Lycée International,20
+2299129,13:08:00,13:08:10,stop_point:SP_1937,Tuilerie,21
+2299129,13:09:00,13:09:10,stop_point:SP_5109,Basilique,22
+2299129,13:10:00,13:10:10,stop_point:SP_5112,Balardou,23
+2299129,13:12:00,13:12:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299129,13:14:00,13:14:10,stop_point:SP_5110,Escalette,25
+2299129,13:16:00,13:16:10,stop_point:SP_5117,Giratoire Dunant,26
+2299129,13:19:00,13:19:10,stop_point:SP_788,La Chauge,27
+2299129,13:21:00,13:21:10,stop_point:SP_4878,Mairie de Brax,28
+2299129,13:21:00,13:21:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299129,13:22:00,13:22:10,stop_point:SP_5094,Taillades,30
+2299129,13:23:00,13:23:10,stop_point:SP_5099,Brax Maudinat,31
+2299129,13:24:00,13:24:10,stop_point:SP_5587,Saquet,32
+2299129,13:26:00,13:26:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299129,13:27:00,13:27:10,stop_point:SP_5536,La Commanderie,34
+2299129,13:30:00,13:30:10,stop_point:SP_5540,Léguevin Collège,35
+2299130,13:40:00,13:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299130,13:41:00,13:41:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299130,13:42:00,13:42:10,stop_point:SP_4359,Lucie Aubrac,3
+2299130,13:43:00,13:43:10,stop_point:SP_4388,Georges Brassens,4
+2299130,13:43:00,13:43:10,stop_point:SP_4363,Capoul,5
+2299130,13:44:00,13:44:10,stop_point:SP_4361,Luchonnais,6
+2299130,13:45:00,13:45:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299130,13:46:00,13:46:10,stop_point:SP_4396,Armurier,8
+2299130,13:47:00,13:47:10,stop_point:SP_4340,Mont Blanc,9
+2299130,13:48:00,13:48:10,stop_point:SP_4325,Oisans,10
+2299130,13:49:00,13:49:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299130,13:50:00,13:50:10,stop_point:SP_5237,Mairie Colomiers,12
+2299130,13:51:00,13:51:10,stop_point:SP_937,Hall Comminges,13
+2299130,13:52:00,13:52:10,stop_point:SP_156,Salle Gascogne,14
+2299130,13:53:00,13:53:10,stop_point:SP_2595,Val D'Aran,15
+2299130,13:54:00,13:54:10,stop_point:SP_4288,Bel Air,16
+2299130,13:55:00,13:55:10,stop_point:SP_4295,Collège Léon Blum,17
+2299130,13:56:00,13:56:10,stop_point:SP_4297,Aquitaine,18
+2299130,13:57:00,13:57:10,stop_point:SP_2377,Piquemil,19
+2299130,13:59:00,13:59:10,stop_point:SP_443,Lycée International,20
+2299130,14:03:00,14:03:10,stop_point:SP_1937,Tuilerie,21
+2299130,14:04:00,14:04:10,stop_point:SP_5109,Basilique,22
+2299130,14:05:00,14:05:10,stop_point:SP_5112,Balardou,23
+2299130,14:07:00,14:07:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299130,14:09:00,14:09:10,stop_point:SP_5110,Escalette,25
+2299130,14:11:00,14:11:10,stop_point:SP_5117,Giratoire Dunant,26
+2299130,14:14:00,14:14:10,stop_point:SP_788,La Chauge,27
+2299130,14:16:00,14:16:10,stop_point:SP_4878,Mairie de Brax,28
+2299130,14:16:00,14:16:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299130,14:17:00,14:17:10,stop_point:SP_5094,Taillades,30
+2299130,14:18:00,14:18:10,stop_point:SP_5099,Brax Maudinat,31
+2299130,14:19:00,14:19:10,stop_point:SP_5587,Saquet,32
+2299130,14:21:00,14:21:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299130,14:22:00,14:22:10,stop_point:SP_5536,La Commanderie,34
+2299130,14:25:00,14:25:10,stop_point:SP_5540,Léguevin Collège,35
+2299131,14:40:00,14:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299131,14:41:00,14:41:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299131,14:42:00,14:42:10,stop_point:SP_4359,Lucie Aubrac,3
+2299131,14:43:00,14:43:10,stop_point:SP_4388,Georges Brassens,4
+2299131,14:43:00,14:43:10,stop_point:SP_4363,Capoul,5
+2299131,14:44:00,14:44:10,stop_point:SP_4361,Luchonnais,6
+2299131,14:45:00,14:45:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299131,14:46:00,14:46:10,stop_point:SP_4396,Armurier,8
+2299131,14:47:00,14:47:10,stop_point:SP_4340,Mont Blanc,9
+2299131,14:48:00,14:48:10,stop_point:SP_4325,Oisans,10
+2299131,14:49:00,14:49:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299131,14:50:00,14:50:10,stop_point:SP_5237,Mairie Colomiers,12
+2299131,14:51:00,14:51:10,stop_point:SP_937,Hall Comminges,13
+2299131,14:52:00,14:52:10,stop_point:SP_156,Salle Gascogne,14
+2299131,14:53:00,14:53:10,stop_point:SP_2595,Val D'Aran,15
+2299131,14:54:00,14:54:10,stop_point:SP_4288,Bel Air,16
+2299131,14:55:00,14:55:10,stop_point:SP_4295,Collège Léon Blum,17
+2299131,14:56:00,14:56:10,stop_point:SP_4297,Aquitaine,18
+2299131,14:57:00,14:57:10,stop_point:SP_2377,Piquemil,19
+2299131,14:59:00,14:59:10,stop_point:SP_443,Lycée International,20
+2299131,15:03:00,15:03:10,stop_point:SP_1937,Tuilerie,21
+2299131,15:04:00,15:04:10,stop_point:SP_5109,Basilique,22
+2299131,15:05:00,15:05:10,stop_point:SP_5112,Balardou,23
+2299131,15:07:00,15:07:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299131,15:09:00,15:09:10,stop_point:SP_5110,Escalette,25
+2299131,15:11:00,15:11:10,stop_point:SP_5117,Giratoire Dunant,26
+2299131,15:14:00,15:14:10,stop_point:SP_788,La Chauge,27
+2299131,15:16:00,15:16:10,stop_point:SP_4878,Mairie de Brax,28
+2299131,15:16:00,15:16:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299131,15:17:00,15:17:10,stop_point:SP_5094,Taillades,30
+2299131,15:18:00,15:18:10,stop_point:SP_5099,Brax Maudinat,31
+2299131,15:19:00,15:19:10,stop_point:SP_5587,Saquet,32
+2299131,15:21:00,15:21:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299131,15:22:00,15:22:10,stop_point:SP_5536,La Commanderie,34
+2299131,15:25:00,15:25:10,stop_point:SP_5540,Léguevin Collège,35
+2299132,15:40:00,15:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299132,15:41:00,15:41:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299132,15:42:00,15:42:10,stop_point:SP_4359,Lucie Aubrac,3
+2299132,15:43:00,15:43:10,stop_point:SP_4388,Georges Brassens,4
+2299132,15:43:00,15:43:10,stop_point:SP_4363,Capoul,5
+2299132,15:44:00,15:44:10,stop_point:SP_4361,Luchonnais,6
+2299132,15:45:00,15:45:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299132,15:46:00,15:46:10,stop_point:SP_4396,Armurier,8
+2299132,15:47:00,15:47:10,stop_point:SP_4340,Mont Blanc,9
+2299132,15:48:00,15:48:10,stop_point:SP_4325,Oisans,10
+2299132,15:49:00,15:49:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299132,15:50:00,15:50:10,stop_point:SP_5237,Mairie Colomiers,12
+2299132,15:51:00,15:51:10,stop_point:SP_937,Hall Comminges,13
+2299132,15:53:00,15:53:10,stop_point:SP_156,Salle Gascogne,14
+2299132,15:53:00,15:53:10,stop_point:SP_2595,Val D'Aran,15
+2299132,15:55:00,15:55:10,stop_point:SP_4288,Bel Air,16
+2299132,15:56:00,15:56:10,stop_point:SP_4295,Collège Léon Blum,17
+2299132,15:56:00,15:56:10,stop_point:SP_4297,Aquitaine,18
+2299132,15:57:00,15:57:10,stop_point:SP_2377,Piquemil,19
+2299132,16:00:00,16:00:10,stop_point:SP_443,Lycée International,20
+2299132,16:04:00,16:04:10,stop_point:SP_1937,Tuilerie,21
+2299132,16:05:00,16:05:10,stop_point:SP_5109,Basilique,22
+2299132,16:06:00,16:06:10,stop_point:SP_5112,Balardou,23
+2299132,16:08:00,16:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299132,16:10:00,16:10:10,stop_point:SP_5110,Escalette,25
+2299132,16:12:00,16:12:10,stop_point:SP_5117,Giratoire Dunant,26
+2299132,16:16:00,16:16:10,stop_point:SP_788,La Chauge,27
+2299132,16:18:00,16:18:10,stop_point:SP_4878,Mairie de Brax,28
+2299132,16:18:00,16:18:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299132,16:19:00,16:19:10,stop_point:SP_5094,Taillades,30
+2299132,16:20:00,16:20:10,stop_point:SP_5099,Brax Maudinat,31
+2299132,16:21:00,16:21:10,stop_point:SP_5587,Saquet,32
+2299132,16:23:00,16:23:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299132,16:24:00,16:24:10,stop_point:SP_5536,La Commanderie,34
+2299132,16:27:00,16:27:10,stop_point:SP_5540,Léguevin Collège,35
+2299133,16:00:00,16:00:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299133,16:01:00,16:01:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299133,16:02:00,16:02:10,stop_point:SP_4359,Lucie Aubrac,3
+2299133,16:03:00,16:03:10,stop_point:SP_4388,Georges Brassens,4
+2299133,16:03:00,16:03:10,stop_point:SP_4363,Capoul,5
+2299133,16:04:00,16:04:10,stop_point:SP_4361,Luchonnais,6
+2299133,16:05:00,16:05:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299133,16:06:00,16:06:10,stop_point:SP_4396,Armurier,8
+2299133,16:07:00,16:07:10,stop_point:SP_4340,Mont Blanc,9
+2299133,16:08:00,16:08:10,stop_point:SP_4325,Oisans,10
+2299133,16:09:00,16:09:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299133,16:10:00,16:10:10,stop_point:SP_5237,Mairie Colomiers,12
+2299133,16:11:00,16:11:10,stop_point:SP_937,Hall Comminges,13
+2299133,16:13:00,16:13:10,stop_point:SP_156,Salle Gascogne,14
+2299133,16:13:00,16:13:10,stop_point:SP_2595,Val D'Aran,15
+2299133,16:15:00,16:15:10,stop_point:SP_4288,Bel Air,16
+2299133,16:16:00,16:16:10,stop_point:SP_4295,Collège Léon Blum,17
+2299133,16:16:00,16:16:10,stop_point:SP_4297,Aquitaine,18
+2299133,16:17:00,16:17:10,stop_point:SP_2377,Piquemil,19
+2299133,16:20:00,16:20:10,stop_point:SP_443,Lycée International,20
+2299133,16:24:00,16:24:10,stop_point:SP_1937,Tuilerie,21
+2299133,16:25:00,16:25:10,stop_point:SP_5109,Basilique,22
+2299133,16:26:00,16:26:10,stop_point:SP_5112,Balardou,23
+2299133,16:28:00,16:28:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299133,16:30:00,16:30:10,stop_point:SP_5110,Escalette,25
+2299133,16:32:00,16:32:10,stop_point:SP_5117,Giratoire Dunant,26
+2299133,16:36:00,16:36:10,stop_point:SP_788,La Chauge,27
+2299133,16:38:00,16:38:10,stop_point:SP_4878,Mairie de Brax,28
+2299133,16:38:00,16:38:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299133,16:39:00,16:39:10,stop_point:SP_5094,Taillades,30
+2299133,16:40:00,16:40:10,stop_point:SP_5099,Brax Maudinat,31
+2299133,16:41:00,16:41:10,stop_point:SP_5587,Saquet,32
+2299133,16:43:00,16:43:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299133,16:45:00,16:45:10,stop_point:SP_5536,La Commanderie,34
+2299133,16:49:00,16:49:10,stop_point:SP_5540,Léguevin Collège,35
+2299134,16:40:00,16:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299134,16:41:00,16:41:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299134,16:42:00,16:42:10,stop_point:SP_4359,Lucie Aubrac,3
+2299134,16:43:00,16:43:10,stop_point:SP_4388,Georges Brassens,4
+2299134,16:43:00,16:43:10,stop_point:SP_4363,Capoul,5
+2299134,16:44:00,16:44:10,stop_point:SP_4361,Luchonnais,6
+2299134,16:45:00,16:45:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299134,16:46:00,16:46:10,stop_point:SP_4396,Armurier,8
+2299134,16:47:00,16:47:10,stop_point:SP_4340,Mont Blanc,9
+2299134,16:48:00,16:48:10,stop_point:SP_4325,Oisans,10
+2299134,16:49:00,16:49:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299134,16:50:00,16:50:10,stop_point:SP_5237,Mairie Colomiers,12
+2299134,16:51:00,16:51:10,stop_point:SP_937,Hall Comminges,13
+2299134,16:53:00,16:53:10,stop_point:SP_156,Salle Gascogne,14
+2299134,16:53:00,16:53:10,stop_point:SP_2595,Val D'Aran,15
+2299134,16:55:00,16:55:10,stop_point:SP_4288,Bel Air,16
+2299134,16:56:00,16:56:10,stop_point:SP_4295,Collège Léon Blum,17
+2299134,16:56:00,16:56:10,stop_point:SP_4297,Aquitaine,18
+2299134,16:57:00,16:57:10,stop_point:SP_2377,Piquemil,19
+2299134,17:00:00,17:00:10,stop_point:SP_443,Lycée International,20
+2299134,17:04:00,17:04:10,stop_point:SP_1937,Tuilerie,21
+2299134,17:05:00,17:05:10,stop_point:SP_5109,Basilique,22
+2299134,17:06:00,17:06:10,stop_point:SP_5112,Balardou,23
+2299134,17:08:00,17:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299134,17:11:00,17:11:10,stop_point:SP_5110,Escalette,25
+2299134,17:13:00,17:13:10,stop_point:SP_5117,Giratoire Dunant,26
+2299134,17:17:00,17:17:10,stop_point:SP_788,La Chauge,27
+2299134,17:19:00,17:19:10,stop_point:SP_4878,Mairie de Brax,28
+2299134,17:20:00,17:20:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299134,17:21:00,17:21:10,stop_point:SP_5094,Taillades,30
+2299134,17:22:00,17:22:10,stop_point:SP_5099,Brax Maudinat,31
+2299134,17:23:00,17:23:10,stop_point:SP_5587,Saquet,32
+2299134,17:25:00,17:25:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299134,17:27:00,17:27:10,stop_point:SP_5536,La Commanderie,34
+2299134,17:31:00,17:31:10,stop_point:SP_5540,Léguevin Collège,35
+2299135,17:15:00,17:15:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299135,17:16:00,17:16:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299135,17:17:00,17:17:10,stop_point:SP_4359,Lucie Aubrac,3
+2299135,17:18:00,17:18:10,stop_point:SP_4388,Georges Brassens,4
+2299135,17:18:00,17:18:10,stop_point:SP_4363,Capoul,5
+2299135,17:19:00,17:19:10,stop_point:SP_4361,Luchonnais,6
+2299135,17:20:00,17:20:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299135,17:21:00,17:21:10,stop_point:SP_4396,Armurier,8
+2299135,17:22:00,17:22:10,stop_point:SP_4340,Mont Blanc,9
+2299135,17:23:00,17:23:10,stop_point:SP_4325,Oisans,10
+2299135,17:24:00,17:24:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299135,17:25:00,17:25:10,stop_point:SP_5237,Mairie Colomiers,12
+2299135,17:26:00,17:26:10,stop_point:SP_937,Hall Comminges,13
+2299135,17:28:00,17:28:10,stop_point:SP_156,Salle Gascogne,14
+2299135,17:28:00,17:28:10,stop_point:SP_2595,Val D'Aran,15
+2299135,17:30:00,17:30:10,stop_point:SP_4288,Bel Air,16
+2299135,17:31:00,17:31:10,stop_point:SP_4295,Collège Léon Blum,17
+2299135,17:31:00,17:31:10,stop_point:SP_4297,Aquitaine,18
+2299135,17:32:00,17:32:10,stop_point:SP_2377,Piquemil,19
+2299135,17:35:00,17:35:10,stop_point:SP_443,Lycée International,20
+2299135,17:39:00,17:39:10,stop_point:SP_1937,Tuilerie,21
+2299135,17:40:00,17:40:10,stop_point:SP_5109,Basilique,22
+2299135,17:41:00,17:41:10,stop_point:SP_5112,Balardou,23
+2299135,17:43:00,17:43:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299135,17:46:00,17:46:10,stop_point:SP_5110,Escalette,25
+2299135,17:48:00,17:48:10,stop_point:SP_5117,Giratoire Dunant,26
+2299135,17:52:00,17:52:10,stop_point:SP_788,La Chauge,27
+2299135,17:54:00,17:54:10,stop_point:SP_4878,Mairie de Brax,28
+2299135,17:55:00,17:55:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299135,17:56:00,17:56:10,stop_point:SP_5094,Taillades,30
+2299135,17:57:00,17:57:10,stop_point:SP_5099,Brax Maudinat,31
+2299135,17:58:00,17:58:10,stop_point:SP_5587,Saquet,32
+2299135,18:00:00,18:00:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299135,18:02:00,18:02:10,stop_point:SP_5536,La Commanderie,34
+2299135,18:06:00,18:06:10,stop_point:SP_5540,Léguevin Collège,35
+2299136,17:45:00,17:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299136,17:46:00,17:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299136,17:47:00,17:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299136,17:48:00,17:48:10,stop_point:SP_4388,Georges Brassens,4
+2299136,17:48:00,17:48:10,stop_point:SP_4363,Capoul,5
+2299136,17:49:00,17:49:10,stop_point:SP_4361,Luchonnais,6
+2299136,17:50:00,17:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299136,17:51:00,17:51:10,stop_point:SP_4396,Armurier,8
+2299136,17:52:00,17:52:10,stop_point:SP_4340,Mont Blanc,9
+2299136,17:53:00,17:53:10,stop_point:SP_4325,Oisans,10
+2299136,17:55:00,17:55:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299136,17:56:00,17:56:10,stop_point:SP_5237,Mairie Colomiers,12
+2299136,17:57:00,17:57:10,stop_point:SP_937,Hall Comminges,13
+2299136,17:59:00,17:59:10,stop_point:SP_156,Salle Gascogne,14
+2299136,17:59:00,17:59:10,stop_point:SP_2595,Val D'Aran,15
+2299136,18:01:00,18:01:10,stop_point:SP_4288,Bel Air,16
+2299136,18:02:00,18:02:10,stop_point:SP_4295,Collège Léon Blum,17
+2299136,18:02:00,18:02:10,stop_point:SP_4297,Aquitaine,18
+2299136,18:03:00,18:03:10,stop_point:SP_2377,Piquemil,19
+2299136,18:06:00,18:06:10,stop_point:SP_443,Lycée International,20
+2299136,18:10:00,18:10:10,stop_point:SP_1937,Tuilerie,21
+2299136,18:11:00,18:11:10,stop_point:SP_5109,Basilique,22
+2299136,18:12:00,18:12:10,stop_point:SP_5112,Balardou,23
+2299136,18:14:00,18:14:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299136,18:17:00,18:17:10,stop_point:SP_5110,Escalette,25
+2299136,18:19:00,18:19:10,stop_point:SP_5117,Giratoire Dunant,26
+2299136,18:23:00,18:23:10,stop_point:SP_788,La Chauge,27
+2299136,18:25:00,18:25:10,stop_point:SP_4878,Mairie de Brax,28
+2299136,18:26:00,18:26:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299136,18:27:00,18:27:10,stop_point:SP_5094,Taillades,30
+2299136,18:28:00,18:28:10,stop_point:SP_5099,Brax Maudinat,31
+2299136,18:29:00,18:29:10,stop_point:SP_5587,Saquet,32
+2299136,18:31:00,18:31:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299136,18:33:00,18:33:10,stop_point:SP_5536,La Commanderie,34
+2299136,18:37:00,18:37:10,stop_point:SP_5540,Léguevin Collège,35
+2299137,18:15:00,18:15:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299137,18:16:00,18:16:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299137,18:17:00,18:17:10,stop_point:SP_4359,Lucie Aubrac,3
+2299137,18:18:00,18:18:10,stop_point:SP_4388,Georges Brassens,4
+2299137,18:18:00,18:18:10,stop_point:SP_4363,Capoul,5
+2299137,18:19:00,18:19:10,stop_point:SP_4361,Luchonnais,6
+2299137,18:20:00,18:20:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299137,18:21:00,18:21:10,stop_point:SP_4396,Armurier,8
+2299137,18:22:00,18:22:10,stop_point:SP_4340,Mont Blanc,9
+2299137,18:23:00,18:23:10,stop_point:SP_4325,Oisans,10
+2299137,18:24:00,18:24:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299137,18:25:00,18:25:10,stop_point:SP_5237,Mairie Colomiers,12
+2299137,18:26:00,18:26:10,stop_point:SP_937,Hall Comminges,13
+2299137,18:28:00,18:28:10,stop_point:SP_156,Salle Gascogne,14
+2299137,18:28:00,18:28:10,stop_point:SP_2595,Val D'Aran,15
+2299137,18:30:00,18:30:10,stop_point:SP_4288,Bel Air,16
+2299137,18:31:00,18:31:10,stop_point:SP_4295,Collège Léon Blum,17
+2299137,18:31:00,18:31:10,stop_point:SP_4297,Aquitaine,18
+2299137,18:32:00,18:32:10,stop_point:SP_2377,Piquemil,19
+2299137,18:35:00,18:35:10,stop_point:SP_443,Lycée International,20
+2299137,18:39:00,18:39:10,stop_point:SP_1937,Tuilerie,21
+2299137,18:40:00,18:40:10,stop_point:SP_5109,Basilique,22
+2299137,18:41:00,18:41:10,stop_point:SP_5112,Balardou,23
+2299137,18:43:00,18:43:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299137,18:45:00,18:45:10,stop_point:SP_5110,Escalette,25
+2299137,18:48:00,18:48:10,stop_point:SP_5117,Giratoire Dunant,26
+2299137,18:51:00,18:51:10,stop_point:SP_788,La Chauge,27
+2299137,18:53:00,18:53:10,stop_point:SP_4878,Mairie de Brax,28
+2299137,18:54:00,18:54:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299137,18:55:00,18:55:10,stop_point:SP_5094,Taillades,30
+2299137,18:56:00,18:56:10,stop_point:SP_5099,Brax Maudinat,31
+2299137,18:57:00,18:57:10,stop_point:SP_5587,Saquet,32
+2299137,18:59:00,18:59:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299137,19:00:00,19:00:10,stop_point:SP_5536,La Commanderie,34
+2299137,19:04:00,19:04:10,stop_point:SP_5540,Léguevin Collège,35
+2299138,18:50:00,18:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299138,18:51:00,18:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299138,18:52:00,18:52:10,stop_point:SP_4359,Lucie Aubrac,3
+2299138,18:53:00,18:53:10,stop_point:SP_4388,Georges Brassens,4
+2299138,18:53:00,18:53:10,stop_point:SP_4363,Capoul,5
+2299138,18:54:00,18:54:10,stop_point:SP_4361,Luchonnais,6
+2299138,18:55:00,18:55:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299138,18:56:00,18:56:10,stop_point:SP_4396,Armurier,8
+2299138,18:57:00,18:57:10,stop_point:SP_4340,Mont Blanc,9
+2299138,18:58:00,18:58:10,stop_point:SP_4325,Oisans,10
+2299138,18:59:00,18:59:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299138,19:00:00,19:00:10,stop_point:SP_5237,Mairie Colomiers,12
+2299138,19:01:00,19:01:10,stop_point:SP_937,Hall Comminges,13
+2299138,19:02:00,19:02:10,stop_point:SP_156,Salle Gascogne,14
+2299138,19:03:00,19:03:10,stop_point:SP_2595,Val D'Aran,15
+2299138,19:04:00,19:04:10,stop_point:SP_4288,Bel Air,16
+2299138,19:05:00,19:05:10,stop_point:SP_4295,Collège Léon Blum,17
+2299138,19:06:00,19:06:10,stop_point:SP_4297,Aquitaine,18
+2299138,19:07:00,19:07:10,stop_point:SP_2377,Piquemil,19
+2299138,19:09:00,19:09:10,stop_point:SP_443,Lycée International,20
+2299138,19:13:00,19:13:10,stop_point:SP_1937,Tuilerie,21
+2299138,19:13:00,19:13:10,stop_point:SP_5109,Basilique,22
+2299138,19:14:00,19:14:10,stop_point:SP_5112,Balardou,23
+2299138,19:16:00,19:16:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299138,19:18:00,19:18:10,stop_point:SP_5110,Escalette,25
+2299138,19:20:00,19:20:10,stop_point:SP_5117,Giratoire Dunant,26
+2299138,19:23:00,19:23:10,stop_point:SP_788,La Chauge,27
+2299138,19:25:00,19:25:10,stop_point:SP_4878,Mairie de Brax,28
+2299138,19:25:00,19:25:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299138,19:26:00,19:26:10,stop_point:SP_5094,Taillades,30
+2299138,19:27:00,19:27:10,stop_point:SP_5099,Brax Maudinat,31
+2299138,19:28:00,19:28:10,stop_point:SP_5587,Saquet,32
+2299138,19:30:00,19:30:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299138,19:31:00,19:31:10,stop_point:SP_5536,La Commanderie,34
+2299138,19:35:00,19:35:10,stop_point:SP_5540,Léguevin Collège,35
+2299139,19:25:00,19:25:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299139,19:26:00,19:26:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299139,19:27:00,19:27:10,stop_point:SP_4359,Lucie Aubrac,3
+2299139,19:28:00,19:28:10,stop_point:SP_4388,Georges Brassens,4
+2299139,19:28:00,19:28:10,stop_point:SP_4363,Capoul,5
+2299139,19:29:00,19:29:10,stop_point:SP_4361,Luchonnais,6
+2299139,19:30:00,19:30:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299139,19:31:00,19:31:10,stop_point:SP_4396,Armurier,8
+2299139,19:32:00,19:32:10,stop_point:SP_4340,Mont Blanc,9
+2299139,19:33:00,19:33:10,stop_point:SP_4325,Oisans,10
+2299139,19:34:00,19:34:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299139,19:35:00,19:35:10,stop_point:SP_5237,Mairie Colomiers,12
+2299139,19:36:00,19:36:10,stop_point:SP_937,Hall Comminges,13
+2299139,19:37:00,19:37:10,stop_point:SP_156,Salle Gascogne,14
+2299139,19:38:00,19:38:10,stop_point:SP_2595,Val D'Aran,15
+2299139,19:39:00,19:39:10,stop_point:SP_4288,Bel Air,16
+2299139,19:40:00,19:40:10,stop_point:SP_4295,Collège Léon Blum,17
+2299139,19:41:00,19:41:10,stop_point:SP_4297,Aquitaine,18
+2299139,19:42:00,19:42:10,stop_point:SP_2377,Piquemil,19
+2299139,19:44:00,19:44:10,stop_point:SP_443,Lycée International,20
+2299139,19:48:00,19:48:10,stop_point:SP_1937,Tuilerie,21
+2299139,19:48:00,19:48:10,stop_point:SP_5109,Basilique,22
+2299139,19:49:00,19:49:10,stop_point:SP_5112,Balardou,23
+2299139,19:51:00,19:51:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299139,19:53:00,19:53:10,stop_point:SP_5110,Escalette,25
+2299139,19:55:00,19:55:10,stop_point:SP_5117,Giratoire Dunant,26
+2299139,19:58:00,19:58:10,stop_point:SP_788,La Chauge,27
+2299139,20:00:00,20:00:10,stop_point:SP_4878,Mairie de Brax,28
+2299139,20:00:00,20:00:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299139,20:01:00,20:01:10,stop_point:SP_5094,Taillades,30
+2299139,20:02:00,20:02:10,stop_point:SP_5099,Brax Maudinat,31
+2299139,20:03:00,20:03:10,stop_point:SP_5587,Saquet,32
+2299139,20:05:00,20:05:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299139,20:06:00,20:06:10,stop_point:SP_5536,La Commanderie,34
+2299139,20:10:00,20:10:10,stop_point:SP_5540,Léguevin Collège,35
+2299140,19:50:00,19:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299140,19:51:00,19:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299140,19:51:00,19:51:10,stop_point:SP_4359,Lucie Aubrac,3
+2299140,19:52:00,19:52:10,stop_point:SP_4388,Georges Brassens,4
+2299140,19:53:00,19:53:10,stop_point:SP_4363,Capoul,5
+2299140,19:53:00,19:53:10,stop_point:SP_4361,Luchonnais,6
+2299140,19:54:00,19:54:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299140,19:55:00,19:55:10,stop_point:SP_4396,Armurier,8
+2299140,19:56:00,19:56:10,stop_point:SP_4340,Mont Blanc,9
+2299140,19:57:00,19:57:10,stop_point:SP_4325,Oisans,10
+2299140,19:58:00,19:58:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299140,19:59:00,19:59:10,stop_point:SP_5237,Mairie Colomiers,12
+2299140,20:00:00,20:00:10,stop_point:SP_937,Hall Comminges,13
+2299140,20:01:00,20:01:10,stop_point:SP_156,Salle Gascogne,14
+2299140,20:01:00,20:01:10,stop_point:SP_2595,Val D'Aran,15
+2299140,20:03:00,20:03:10,stop_point:SP_4288,Bel Air,16
+2299140,20:04:00,20:04:10,stop_point:SP_4295,Collège Léon Blum,17
+2299140,20:04:00,20:04:10,stop_point:SP_4297,Aquitaine,18
+2299140,20:05:00,20:05:10,stop_point:SP_2377,Piquemil,19
+2299140,20:07:00,20:07:10,stop_point:SP_443,Lycée International,20
+2299140,20:11:00,20:11:10,stop_point:SP_1937,Tuilerie,21
+2299140,20:11:00,20:11:10,stop_point:SP_5109,Basilique,22
+2299140,20:12:00,20:12:10,stop_point:SP_5112,Balardou,23
+2299140,20:14:00,20:14:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299140,20:16:00,20:16:10,stop_point:SP_5110,Escalette,25
+2299140,20:18:00,20:18:10,stop_point:SP_5117,Giratoire Dunant,26
+2299140,20:21:00,20:21:10,stop_point:SP_788,La Chauge,27
+2299140,20:23:00,20:23:10,stop_point:SP_4878,Mairie de Brax,28
+2299140,20:23:00,20:23:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299140,20:24:00,20:24:10,stop_point:SP_5094,Taillades,30
+2299140,20:25:00,20:25:10,stop_point:SP_5099,Brax Maudinat,31
+2299140,20:26:00,20:26:10,stop_point:SP_5587,Saquet,32
+2299140,20:28:00,20:28:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299140,20:29:00,20:29:10,stop_point:SP_5536,La Commanderie,34
+2299140,20:33:00,20:33:10,stop_point:SP_5540,Léguevin Collège,35
+2299141,06:20:00,06:20:10,stop_point:SP_5540,Léguevin Collège,1
+2299141,06:24:00,06:24:10,stop_point:SP_5544,La Commanderie,2
+2299141,06:26:00,06:26:10,stop_point:SP_5543,Place de la Liberté,3
+2299141,06:28:00,06:28:10,stop_point:SP_5588,Saquet,4
+2299141,06:29:00,06:29:10,stop_point:SP_5098,Brax Maudinat,5
+2299141,06:30:00,06:30:10,stop_point:SP_5095,Taillades,6
+2299141,06:31:00,06:31:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299141,06:31:00,06:31:10,stop_point:SP_4869,Mairie de Brax,8
+2299141,06:33:00,06:33:10,stop_point:SP_1899,La Chauge,9
+2299141,06:36:00,06:36:10,stop_point:SP_5119,Giratoire Dunant,10
+2299141,06:38:00,06:38:10,stop_point:SP_5118,Escalette,11
+2299141,06:40:00,06:40:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299141,06:41:00,06:41:10,stop_point:SP_5113,Balardou,13
+2299141,06:43:00,06:43:10,stop_point:SP_5111,Basilique,14
+2299141,06:44:00,06:44:10,stop_point:SP_1050,Tuilerie,15
+2299141,06:47:00,06:47:10,stop_point:SP_316,Lycée International,16
+2299141,06:50:00,06:50:10,stop_point:SP_759,Piquemil,17
+2299141,06:51:00,06:51:10,stop_point:SP_4321,Aquitaine,18
+2299141,06:51:00,06:51:10,stop_point:SP_4314,Collège Léon Blum,19
+2299141,06:52:00,06:52:10,stop_point:SP_4309,Bel Air,20
+2299141,06:54:00,06:54:10,stop_point:SP_3536,Val D'Aran,21
+2299141,06:54:00,06:54:10,stop_point:SP_2836,Salle Gascogne,22
+2299141,06:56:00,06:56:10,stop_point:SP_950,Hall Comminges,23
+2299141,06:57:00,06:57:10,stop_point:SP_5238,Mairie Colomiers,24
+2299141,06:58:00,06:58:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299141,06:59:00,06:59:10,stop_point:SP_4352,Oisans,26
+2299141,07:00:00,07:00:10,stop_point:SP_4343,Mont Blanc,27
+2299141,07:01:00,07:01:10,stop_point:SP_4393,Armurier,28
+2299141,07:02:00,07:02:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299141,07:03:00,07:03:10,stop_point:SP_4355,Luchonnais,30
+2299141,07:04:00,07:04:10,stop_point:SP_4397,Capoul,31
+2299141,07:05:00,07:05:10,stop_point:SP_4345,Georges Brassens,32
+2299141,07:06:00,07:06:10,stop_point:SP_4398,Lucie Aubrac,33
+2299141,07:07:00,07:07:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299141,07:08:00,07:08:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299142,06:55:00,06:55:10,stop_point:SP_5540,Léguevin Collège,1
+2299142,06:59:00,06:59:10,stop_point:SP_5544,La Commanderie,2
+2299142,07:01:00,07:01:10,stop_point:SP_5543,Place de la Liberté,3
+2299142,07:03:00,07:03:10,stop_point:SP_5588,Saquet,4
+2299142,07:04:00,07:04:10,stop_point:SP_5098,Brax Maudinat,5
+2299142,07:05:00,07:05:10,stop_point:SP_5095,Taillades,6
+2299142,07:06:00,07:06:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299142,07:06:00,07:06:10,stop_point:SP_4869,Mairie de Brax,8
+2299142,07:08:00,07:08:10,stop_point:SP_1899,La Chauge,9
+2299142,07:12:00,07:12:10,stop_point:SP_5119,Giratoire Dunant,10
+2299142,07:13:00,07:13:10,stop_point:SP_5118,Escalette,11
+2299142,07:16:00,07:16:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299142,07:17:00,07:17:10,stop_point:SP_5113,Balardou,13
+2299142,07:19:00,07:19:10,stop_point:SP_5111,Basilique,14
+2299142,07:20:00,07:20:10,stop_point:SP_1050,Tuilerie,15
+2299142,07:23:00,07:23:10,stop_point:SP_316,Lycée International,16
+2299142,07:26:00,07:26:10,stop_point:SP_759,Piquemil,17
+2299142,07:27:00,07:27:10,stop_point:SP_4321,Aquitaine,18
+2299142,07:28:00,07:28:10,stop_point:SP_4314,Collège Léon Blum,19
+2299142,07:29:00,07:29:10,stop_point:SP_4309,Bel Air,20
+2299142,07:30:00,07:30:10,stop_point:SP_3536,Val D'Aran,21
+2299142,07:31:00,07:31:10,stop_point:SP_2836,Salle Gascogne,22
+2299142,07:33:00,07:33:10,stop_point:SP_950,Hall Comminges,23
+2299142,07:34:00,07:34:10,stop_point:SP_5238,Mairie Colomiers,24
+2299142,07:35:00,07:35:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299142,07:36:00,07:36:10,stop_point:SP_4352,Oisans,26
+2299142,07:37:00,07:37:10,stop_point:SP_4343,Mont Blanc,27
+2299142,07:38:00,07:38:10,stop_point:SP_4393,Armurier,28
+2299142,07:39:00,07:39:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299142,07:40:00,07:40:10,stop_point:SP_4355,Luchonnais,30
+2299142,07:41:00,07:41:10,stop_point:SP_4397,Capoul,31
+2299142,07:42:00,07:42:10,stop_point:SP_4345,Georges Brassens,32
+2299142,07:43:00,07:43:10,stop_point:SP_4398,Lucie Aubrac,33
+2299142,07:44:00,07:44:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299142,07:45:00,07:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299143,07:15:00,07:15:10,stop_point:SP_5540,Léguevin Collège,1
+2299143,07:19:00,07:19:10,stop_point:SP_5544,La Commanderie,2
+2299143,07:21:00,07:21:10,stop_point:SP_5543,Place de la Liberté,3
+2299143,07:23:00,07:23:10,stop_point:SP_5588,Saquet,4
+2299143,07:24:00,07:24:10,stop_point:SP_5098,Brax Maudinat,5
+2299143,07:25:00,07:25:10,stop_point:SP_5095,Taillades,6
+2299143,07:26:00,07:26:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299143,07:27:00,07:27:10,stop_point:SP_4869,Mairie de Brax,8
+2299143,07:29:00,07:29:10,stop_point:SP_1899,La Chauge,9
+2299143,07:33:00,07:33:10,stop_point:SP_5119,Giratoire Dunant,10
+2299143,07:35:00,07:35:10,stop_point:SP_5118,Escalette,11
+2299143,07:38:00,07:38:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299144,07:20:00,07:20:10,stop_point:SP_5540,Léguevin Collège,1
+2299144,07:24:00,07:24:10,stop_point:SP_5544,La Commanderie,2
+2299144,07:26:00,07:26:10,stop_point:SP_5543,Place de la Liberté,3
+2299144,07:28:00,07:28:10,stop_point:SP_5588,Saquet,4
+2299144,07:29:00,07:29:10,stop_point:SP_5098,Brax Maudinat,5
+2299144,07:30:00,07:30:10,stop_point:SP_5095,Taillades,6
+2299144,07:31:00,07:31:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299144,07:32:00,07:32:10,stop_point:SP_4869,Mairie de Brax,8
+2299144,07:34:00,07:34:10,stop_point:SP_1899,La Chauge,9
+2299144,07:38:00,07:38:10,stop_point:SP_5119,Giratoire Dunant,10
+2299144,07:40:00,07:40:10,stop_point:SP_5118,Escalette,11
+2299144,07:43:00,07:43:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299144,07:45:00,07:45:10,stop_point:SP_5113,Balardou,13
+2299144,07:48:00,07:48:10,stop_point:SP_5111,Basilique,14
+2299144,07:49:00,07:49:10,stop_point:SP_1050,Tuilerie,15
+2299144,07:55:00,07:55:10,stop_point:SP_316,Lycée International,16
+2299144,07:59:00,07:59:10,stop_point:SP_759,Piquemil,17
+2299144,08:01:00,08:01:10,stop_point:SP_4321,Aquitaine,18
+2299144,08:01:00,08:01:10,stop_point:SP_4314,Collège Léon Blum,19
+2299144,08:02:00,08:02:10,stop_point:SP_4309,Bel Air,20
+2299144,08:05:00,08:05:10,stop_point:SP_3536,Val D'Aran,21
+2299144,08:05:00,08:05:10,stop_point:SP_2836,Salle Gascogne,22
+2299144,08:08:00,08:08:10,stop_point:SP_950,Hall Comminges,23
+2299144,08:09:00,08:09:10,stop_point:SP_5238,Mairie Colomiers,24
+2299144,08:11:00,08:11:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299144,08:12:00,08:12:10,stop_point:SP_4352,Oisans,26
+2299144,08:13:00,08:13:10,stop_point:SP_4343,Mont Blanc,27
+2299144,08:14:00,08:14:10,stop_point:SP_4393,Armurier,28
+2299144,08:15:00,08:15:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299144,08:16:00,08:16:10,stop_point:SP_4355,Luchonnais,30
+2299144,08:17:00,08:17:10,stop_point:SP_4397,Capoul,31
+2299144,08:18:00,08:18:10,stop_point:SP_4345,Georges Brassens,32
+2299144,08:19:00,08:19:10,stop_point:SP_4398,Lucie Aubrac,33
+2299144,08:20:00,08:20:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299144,08:21:00,08:21:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299145,08:05:00,08:05:10,stop_point:SP_5540,Léguevin Collège,1
+2299145,08:09:00,08:09:10,stop_point:SP_5544,La Commanderie,2
+2299145,08:11:00,08:11:10,stop_point:SP_5543,Place de la Liberté,3
+2299145,08:13:00,08:13:10,stop_point:SP_5588,Saquet,4
+2299145,08:15:00,08:15:10,stop_point:SP_5098,Brax Maudinat,5
+2299145,08:16:00,08:16:10,stop_point:SP_5095,Taillades,6
+2299145,08:17:00,08:17:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299145,08:17:00,08:17:10,stop_point:SP_4869,Mairie de Brax,8
+2299145,08:19:00,08:19:10,stop_point:SP_1899,La Chauge,9
+2299145,08:23:00,08:23:10,stop_point:SP_5119,Giratoire Dunant,10
+2299145,08:24:00,08:24:10,stop_point:SP_5118,Escalette,11
+2299145,08:27:00,08:27:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299145,08:29:00,08:29:10,stop_point:SP_5113,Balardou,13
+2299145,08:32:00,08:32:10,stop_point:SP_5111,Basilique,14
+2299145,08:33:00,08:33:10,stop_point:SP_1050,Tuilerie,15
+2299145,08:39:00,08:39:10,stop_point:SP_316,Lycée International,16
+2299145,08:43:00,08:43:10,stop_point:SP_759,Piquemil,17
+2299145,08:44:00,08:44:10,stop_point:SP_4321,Aquitaine,18
+2299145,08:45:00,08:45:10,stop_point:SP_4314,Collège Léon Blum,19
+2299145,08:46:00,08:46:10,stop_point:SP_4309,Bel Air,20
+2299145,08:48:00,08:48:10,stop_point:SP_3536,Val D'Aran,21
+2299145,08:49:00,08:49:10,stop_point:SP_2836,Salle Gascogne,22
+2299145,08:51:00,08:51:10,stop_point:SP_950,Hall Comminges,23
+2299145,08:52:00,08:52:10,stop_point:SP_5238,Mairie Colomiers,24
+2299145,08:54:00,08:54:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299145,08:55:00,08:55:10,stop_point:SP_4352,Oisans,26
+2299145,08:56:00,08:56:10,stop_point:SP_4343,Mont Blanc,27
+2299145,08:57:00,08:57:10,stop_point:SP_4393,Armurier,28
+2299145,08:58:00,08:58:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299145,08:59:00,08:59:10,stop_point:SP_4355,Luchonnais,30
+2299145,09:00:00,09:00:10,stop_point:SP_4397,Capoul,31
+2299145,09:01:00,09:01:10,stop_point:SP_4345,Georges Brassens,32
+2299145,09:02:00,09:02:10,stop_point:SP_4398,Lucie Aubrac,33
+2299145,09:03:00,09:03:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299145,09:04:00,09:04:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299146,08:30:00,08:30:10,stop_point:SP_5540,Léguevin Collège,1
+2299146,08:34:00,08:34:10,stop_point:SP_5544,La Commanderie,2
+2299146,08:36:00,08:36:10,stop_point:SP_5543,Place de la Liberté,3
+2299146,08:38:00,08:38:10,stop_point:SP_5588,Saquet,4
+2299146,08:40:00,08:40:10,stop_point:SP_5098,Brax Maudinat,5
+2299146,08:41:00,08:41:10,stop_point:SP_5095,Taillades,6
+2299146,08:42:00,08:42:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299146,08:42:00,08:42:10,stop_point:SP_4869,Mairie de Brax,8
+2299146,08:44:00,08:44:10,stop_point:SP_1899,La Chauge,9
+2299146,08:48:00,08:48:10,stop_point:SP_5119,Giratoire Dunant,10
+2299146,08:49:00,08:49:10,stop_point:SP_5118,Escalette,11
+2299146,08:52:00,08:52:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299146,08:54:00,08:54:10,stop_point:SP_5113,Balardou,13
+2299146,08:55:00,08:55:10,stop_point:SP_5111,Basilique,14
+2299146,08:57:00,08:57:10,stop_point:SP_1050,Tuilerie,15
+2299146,09:01:00,09:01:10,stop_point:SP_316,Lycée International,16
+2299146,09:04:00,09:04:10,stop_point:SP_759,Piquemil,17
+2299146,09:05:00,09:05:10,stop_point:SP_4321,Aquitaine,18
+2299146,09:06:00,09:06:10,stop_point:SP_4314,Collège Léon Blum,19
+2299146,09:07:00,09:07:10,stop_point:SP_4309,Bel Air,20
+2299146,09:08:00,09:08:10,stop_point:SP_3536,Val D'Aran,21
+2299146,09:09:00,09:09:10,stop_point:SP_2836,Salle Gascogne,22
+2299146,09:11:00,09:11:10,stop_point:SP_950,Hall Comminges,23
+2299146,09:12:00,09:12:10,stop_point:SP_5238,Mairie Colomiers,24
+2299146,09:13:00,09:13:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299146,09:14:00,09:14:10,stop_point:SP_4352,Oisans,26
+2299146,09:15:00,09:15:10,stop_point:SP_4343,Mont Blanc,27
+2299146,09:16:00,09:16:10,stop_point:SP_4393,Armurier,28
+2299146,09:17:00,09:17:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299146,09:18:00,09:18:10,stop_point:SP_4355,Luchonnais,30
+2299146,09:19:00,09:19:10,stop_point:SP_4397,Capoul,31
+2299146,09:20:00,09:20:10,stop_point:SP_4345,Georges Brassens,32
+2299146,09:21:00,09:21:10,stop_point:SP_4398,Lucie Aubrac,33
+2299146,09:22:00,09:22:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299146,09:23:00,09:23:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299147,09:30:00,09:30:10,stop_point:SP_5540,Léguevin Collège,1
+2299147,09:34:00,09:34:10,stop_point:SP_5544,La Commanderie,2
+2299147,09:36:00,09:36:10,stop_point:SP_5543,Place de la Liberté,3
+2299147,09:38:00,09:38:10,stop_point:SP_5588,Saquet,4
+2299147,09:39:00,09:39:10,stop_point:SP_5098,Brax Maudinat,5
+2299147,09:40:00,09:40:10,stop_point:SP_5095,Taillades,6
+2299147,09:41:00,09:41:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299147,09:41:00,09:41:10,stop_point:SP_4869,Mairie de Brax,8
+2299147,09:43:00,09:43:10,stop_point:SP_1899,La Chauge,9
+2299147,09:46:00,09:46:10,stop_point:SP_5119,Giratoire Dunant,10
+2299147,09:48:00,09:48:10,stop_point:SP_5118,Escalette,11
+2299147,09:50:00,09:50:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299147,09:52:00,09:52:10,stop_point:SP_5113,Balardou,13
+2299147,09:53:00,09:53:10,stop_point:SP_5111,Basilique,14
+2299147,09:55:00,09:55:10,stop_point:SP_1050,Tuilerie,15
+2299147,09:59:00,09:59:10,stop_point:SP_316,Lycée International,16
+2299147,10:02:00,10:02:10,stop_point:SP_759,Piquemil,17
+2299147,10:03:00,10:03:10,stop_point:SP_4321,Aquitaine,18
+2299147,10:04:00,10:04:10,stop_point:SP_4314,Collège Léon Blum,19
+2299147,10:05:00,10:05:10,stop_point:SP_4309,Bel Air,20
+2299147,10:06:00,10:06:10,stop_point:SP_3536,Val D'Aran,21
+2299147,10:07:00,10:07:10,stop_point:SP_2836,Salle Gascogne,22
+2299147,10:09:00,10:09:10,stop_point:SP_950,Hall Comminges,23
+2299147,10:10:00,10:10:10,stop_point:SP_5238,Mairie Colomiers,24
+2299147,10:11:00,10:11:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299147,10:12:00,10:12:10,stop_point:SP_4352,Oisans,26
+2299147,10:13:00,10:13:10,stop_point:SP_4343,Mont Blanc,27
+2299147,10:14:00,10:14:10,stop_point:SP_4393,Armurier,28
+2299147,10:15:00,10:15:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299147,10:16:00,10:16:10,stop_point:SP_4355,Luchonnais,30
+2299147,10:17:00,10:17:10,stop_point:SP_4397,Capoul,31
+2299147,10:17:00,10:17:10,stop_point:SP_4345,Georges Brassens,32
+2299147,10:18:00,10:18:10,stop_point:SP_4398,Lucie Aubrac,33
+2299147,10:19:00,10:19:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299147,10:20:00,10:20:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299148,10:30:00,10:30:10,stop_point:SP_5540,Léguevin Collège,1
+2299148,10:34:00,10:34:10,stop_point:SP_5544,La Commanderie,2
+2299148,10:36:00,10:36:10,stop_point:SP_5543,Place de la Liberté,3
+2299148,10:38:00,10:38:10,stop_point:SP_5588,Saquet,4
+2299148,10:39:00,10:39:10,stop_point:SP_5098,Brax Maudinat,5
+2299148,10:40:00,10:40:10,stop_point:SP_5095,Taillades,6
+2299148,10:41:00,10:41:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299148,10:41:00,10:41:10,stop_point:SP_4869,Mairie de Brax,8
+2299148,10:43:00,10:43:10,stop_point:SP_1899,La Chauge,9
+2299148,10:46:00,10:46:10,stop_point:SP_5119,Giratoire Dunant,10
+2299148,10:48:00,10:48:10,stop_point:SP_5118,Escalette,11
+2299148,10:50:00,10:50:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299148,10:51:00,10:51:10,stop_point:SP_5113,Balardou,13
+2299148,10:53:00,10:53:10,stop_point:SP_5111,Basilique,14
+2299148,10:54:00,10:54:10,stop_point:SP_1050,Tuilerie,15
+2299148,10:57:00,10:57:10,stop_point:SP_316,Lycée International,16
+2299148,11:00:00,11:00:10,stop_point:SP_759,Piquemil,17
+2299148,11:01:00,11:01:10,stop_point:SP_4321,Aquitaine,18
+2299148,11:02:00,11:02:10,stop_point:SP_4314,Collège Léon Blum,19
+2299148,11:03:00,11:03:10,stop_point:SP_4309,Bel Air,20
+2299148,11:04:00,11:04:10,stop_point:SP_3536,Val D'Aran,21
+2299148,11:05:00,11:05:10,stop_point:SP_2836,Salle Gascogne,22
+2299148,11:07:00,11:07:10,stop_point:SP_950,Hall Comminges,23
+2299148,11:08:00,11:08:10,stop_point:SP_5238,Mairie Colomiers,24
+2299148,11:09:00,11:09:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299148,11:10:00,11:10:10,stop_point:SP_4352,Oisans,26
+2299148,11:11:00,11:11:10,stop_point:SP_4343,Mont Blanc,27
+2299148,11:12:00,11:12:10,stop_point:SP_4393,Armurier,28
+2299148,11:13:00,11:13:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299148,11:14:00,11:14:10,stop_point:SP_4355,Luchonnais,30
+2299148,11:15:00,11:15:10,stop_point:SP_4397,Capoul,31
+2299148,11:15:00,11:15:10,stop_point:SP_4345,Georges Brassens,32
+2299148,11:16:00,11:16:10,stop_point:SP_4398,Lucie Aubrac,33
+2299148,11:17:00,11:17:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299148,11:18:00,11:18:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299149,11:50:00,11:50:10,stop_point:SP_5540,Léguevin Collège,1
+2299149,11:54:00,11:54:10,stop_point:SP_5544,La Commanderie,2
+2299149,11:56:00,11:56:10,stop_point:SP_5543,Place de la Liberté,3
+2299149,11:58:00,11:58:10,stop_point:SP_5588,Saquet,4
+2299149,11:59:00,11:59:10,stop_point:SP_5098,Brax Maudinat,5
+2299149,12:00:00,12:00:10,stop_point:SP_5095,Taillades,6
+2299149,12:01:00,12:01:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299149,12:01:00,12:01:10,stop_point:SP_4869,Mairie de Brax,8
+2299149,12:03:00,12:03:10,stop_point:SP_1899,La Chauge,9
+2299149,12:06:00,12:06:10,stop_point:SP_5119,Giratoire Dunant,10
+2299149,12:08:00,12:08:10,stop_point:SP_5118,Escalette,11
+2299149,12:10:00,12:10:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299149,12:11:00,12:11:10,stop_point:SP_5113,Balardou,13
+2299149,12:13:00,12:13:10,stop_point:SP_5111,Basilique,14
+2299149,12:14:00,12:14:10,stop_point:SP_1050,Tuilerie,15
+2299149,12:17:00,12:17:10,stop_point:SP_316,Lycée International,16
+2299149,12:20:00,12:20:10,stop_point:SP_759,Piquemil,17
+2299149,12:21:00,12:21:10,stop_point:SP_4321,Aquitaine,18
+2299149,12:22:00,12:22:10,stop_point:SP_4314,Collège Léon Blum,19
+2299149,12:23:00,12:23:10,stop_point:SP_4309,Bel Air,20
+2299149,12:24:00,12:24:10,stop_point:SP_3536,Val D'Aran,21
+2299149,12:25:00,12:25:10,stop_point:SP_2836,Salle Gascogne,22
+2299149,12:27:00,12:27:10,stop_point:SP_950,Hall Comminges,23
+2299149,12:28:00,12:28:10,stop_point:SP_5238,Mairie Colomiers,24
+2299149,12:29:00,12:29:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299149,12:30:00,12:30:10,stop_point:SP_4352,Oisans,26
+2299149,12:31:00,12:31:10,stop_point:SP_4343,Mont Blanc,27
+2299149,12:32:00,12:32:10,stop_point:SP_4393,Armurier,28
+2299149,12:33:00,12:33:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299149,12:34:00,12:34:10,stop_point:SP_4355,Luchonnais,30
+2299149,12:35:00,12:35:10,stop_point:SP_4397,Capoul,31
+2299149,12:36:00,12:36:10,stop_point:SP_4345,Georges Brassens,32
+2299149,12:37:00,12:37:10,stop_point:SP_4398,Lucie Aubrac,33
+2299149,12:39:00,12:39:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299149,12:40:00,12:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299150,12:20:00,12:20:10,stop_point:SP_5540,Léguevin Collège,1
+2299150,12:24:00,12:24:10,stop_point:SP_5544,La Commanderie,2
+2299150,12:26:00,12:26:10,stop_point:SP_5543,Place de la Liberté,3
+2299150,12:28:00,12:28:10,stop_point:SP_5588,Saquet,4
+2299150,12:29:00,12:29:10,stop_point:SP_5098,Brax Maudinat,5
+2299150,12:30:00,12:30:10,stop_point:SP_5095,Taillades,6
+2299150,12:31:00,12:31:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299150,12:31:00,12:31:10,stop_point:SP_4869,Mairie de Brax,8
+2299150,12:33:00,12:33:10,stop_point:SP_1899,La Chauge,9
+2299150,12:36:00,12:36:10,stop_point:SP_5119,Giratoire Dunant,10
+2299150,12:38:00,12:38:10,stop_point:SP_5118,Escalette,11
+2299150,12:40:00,12:40:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299150,12:41:00,12:41:10,stop_point:SP_5113,Balardou,13
+2299150,12:43:00,12:43:10,stop_point:SP_5111,Basilique,14
+2299150,12:44:00,12:44:10,stop_point:SP_1050,Tuilerie,15
+2299150,12:47:00,12:47:10,stop_point:SP_316,Lycée International,16
+2299150,12:50:00,12:50:10,stop_point:SP_759,Piquemil,17
+2299150,12:51:00,12:51:10,stop_point:SP_4321,Aquitaine,18
+2299150,12:52:00,12:52:10,stop_point:SP_4314,Collège Léon Blum,19
+2299150,12:53:00,12:53:10,stop_point:SP_4309,Bel Air,20
+2299150,12:54:00,12:54:10,stop_point:SP_3536,Val D'Aran,21
+2299150,12:55:00,12:55:10,stop_point:SP_2836,Salle Gascogne,22
+2299150,12:57:00,12:57:10,stop_point:SP_950,Hall Comminges,23
+2299150,12:58:00,12:58:10,stop_point:SP_5238,Mairie Colomiers,24
+2299150,12:59:00,12:59:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299150,13:00:00,13:00:10,stop_point:SP_4352,Oisans,26
+2299150,13:01:00,13:01:10,stop_point:SP_4343,Mont Blanc,27
+2299150,13:02:00,13:02:10,stop_point:SP_4393,Armurier,28
+2299150,13:03:00,13:03:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299150,13:04:00,13:04:10,stop_point:SP_4355,Luchonnais,30
+2299150,13:05:00,13:05:10,stop_point:SP_4397,Capoul,31
+2299150,13:05:00,13:05:10,stop_point:SP_4345,Georges Brassens,32
+2299150,13:06:00,13:06:10,stop_point:SP_4398,Lucie Aubrac,33
+2299150,13:07:00,13:07:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299150,13:08:00,13:08:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299151,12:45:00,12:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299151,12:49:00,12:49:10,stop_point:SP_5544,La Commanderie,2
+2299151,12:51:00,12:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299151,12:53:00,12:53:10,stop_point:SP_5588,Saquet,4
+2299151,12:54:00,12:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299151,12:55:00,12:55:10,stop_point:SP_5095,Taillades,6
+2299151,12:56:00,12:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299151,12:56:00,12:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299151,12:58:00,12:58:10,stop_point:SP_1899,La Chauge,9
+2299151,13:01:00,13:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299151,13:03:00,13:03:10,stop_point:SP_5118,Escalette,11
+2299151,13:05:00,13:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299151,13:06:00,13:06:10,stop_point:SP_5113,Balardou,13
+2299151,13:08:00,13:08:10,stop_point:SP_5111,Basilique,14
+2299151,13:09:00,13:09:10,stop_point:SP_1050,Tuilerie,15
+2299151,13:12:00,13:12:10,stop_point:SP_316,Lycée International,16
+2299151,13:15:00,13:15:10,stop_point:SP_759,Piquemil,17
+2299151,13:16:00,13:16:10,stop_point:SP_4321,Aquitaine,18
+2299151,13:17:00,13:17:10,stop_point:SP_4314,Collège Léon Blum,19
+2299151,13:18:00,13:18:10,stop_point:SP_4309,Bel Air,20
+2299151,13:19:00,13:19:10,stop_point:SP_3536,Val D'Aran,21
+2299151,13:20:00,13:20:10,stop_point:SP_2836,Salle Gascogne,22
+2299151,13:22:00,13:22:10,stop_point:SP_950,Hall Comminges,23
+2299151,13:23:00,13:23:10,stop_point:SP_5238,Mairie Colomiers,24
+2299151,13:24:00,13:24:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299151,13:25:00,13:25:10,stop_point:SP_4352,Oisans,26
+2299151,13:26:00,13:26:10,stop_point:SP_4343,Mont Blanc,27
+2299151,13:27:00,13:27:10,stop_point:SP_4393,Armurier,28
+2299151,13:28:00,13:28:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299151,13:29:00,13:29:10,stop_point:SP_4355,Luchonnais,30
+2299151,13:30:00,13:30:10,stop_point:SP_4397,Capoul,31
+2299151,13:30:00,13:30:10,stop_point:SP_4345,Georges Brassens,32
+2299151,13:31:00,13:31:10,stop_point:SP_4398,Lucie Aubrac,33
+2299151,13:32:00,13:32:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299151,13:33:00,13:33:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299152,13:35:00,13:35:10,stop_point:SP_5540,Léguevin Collège,1
+2299152,13:39:00,13:39:10,stop_point:SP_5544,La Commanderie,2
+2299152,13:41:00,13:41:10,stop_point:SP_5543,Place de la Liberté,3
+2299152,13:43:00,13:43:10,stop_point:SP_5588,Saquet,4
+2299152,13:44:00,13:44:10,stop_point:SP_5098,Brax Maudinat,5
+2299152,13:45:00,13:45:10,stop_point:SP_5095,Taillades,6
+2299152,13:46:00,13:46:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299152,13:46:00,13:46:10,stop_point:SP_4869,Mairie de Brax,8
+2299152,13:48:00,13:48:10,stop_point:SP_1899,La Chauge,9
+2299152,13:51:00,13:51:10,stop_point:SP_5119,Giratoire Dunant,10
+2299152,13:53:00,13:53:10,stop_point:SP_5118,Escalette,11
+2299152,13:55:00,13:55:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299152,13:56:00,13:56:10,stop_point:SP_5113,Balardou,13
+2299152,13:58:00,13:58:10,stop_point:SP_5111,Basilique,14
+2299152,13:59:00,13:59:10,stop_point:SP_1050,Tuilerie,15
+2299152,14:02:00,14:02:10,stop_point:SP_316,Lycée International,16
+2299152,14:05:00,14:05:10,stop_point:SP_759,Piquemil,17
+2299152,14:06:00,14:06:10,stop_point:SP_4321,Aquitaine,18
+2299152,14:07:00,14:07:10,stop_point:SP_4314,Collège Léon Blum,19
+2299152,14:08:00,14:08:10,stop_point:SP_4309,Bel Air,20
+2299152,14:09:00,14:09:10,stop_point:SP_3536,Val D'Aran,21
+2299152,14:10:00,14:10:10,stop_point:SP_2836,Salle Gascogne,22
+2299152,14:12:00,14:12:10,stop_point:SP_950,Hall Comminges,23
+2299152,14:13:00,14:13:10,stop_point:SP_5238,Mairie Colomiers,24
+2299152,14:14:00,14:14:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299152,14:15:00,14:15:10,stop_point:SP_4352,Oisans,26
+2299152,14:16:00,14:16:10,stop_point:SP_4343,Mont Blanc,27
+2299152,14:17:00,14:17:10,stop_point:SP_4393,Armurier,28
+2299152,14:18:00,14:18:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299152,14:19:00,14:19:10,stop_point:SP_4355,Luchonnais,30
+2299152,14:20:00,14:20:10,stop_point:SP_4397,Capoul,31
+2299152,14:20:00,14:20:10,stop_point:SP_4345,Georges Brassens,32
+2299152,14:21:00,14:21:10,stop_point:SP_4398,Lucie Aubrac,33
+2299152,14:22:00,14:22:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299152,14:23:00,14:23:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299153,14:45:00,14:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299153,14:49:00,14:49:10,stop_point:SP_5544,La Commanderie,2
+2299153,14:51:00,14:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299153,14:53:00,14:53:10,stop_point:SP_5588,Saquet,4
+2299153,14:54:00,14:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299153,14:55:00,14:55:10,stop_point:SP_5095,Taillades,6
+2299153,14:56:00,14:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299153,14:56:00,14:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299153,14:58:00,14:58:10,stop_point:SP_1899,La Chauge,9
+2299153,15:01:00,15:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299153,15:03:00,15:03:10,stop_point:SP_5118,Escalette,11
+2299153,15:05:00,15:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299153,15:06:00,15:06:10,stop_point:SP_5113,Balardou,13
+2299153,15:08:00,15:08:10,stop_point:SP_5111,Basilique,14
+2299153,15:09:00,15:09:10,stop_point:SP_1050,Tuilerie,15
+2299153,15:12:00,15:12:10,stop_point:SP_316,Lycée International,16
+2299153,15:15:00,15:15:10,stop_point:SP_759,Piquemil,17
+2299153,15:16:00,15:16:10,stop_point:SP_4321,Aquitaine,18
+2299153,15:17:00,15:17:10,stop_point:SP_4314,Collège Léon Blum,19
+2299153,15:18:00,15:18:10,stop_point:SP_4309,Bel Air,20
+2299153,15:19:00,15:19:10,stop_point:SP_3536,Val D'Aran,21
+2299153,15:20:00,15:20:10,stop_point:SP_2836,Salle Gascogne,22
+2299153,15:22:00,15:22:10,stop_point:SP_950,Hall Comminges,23
+2299153,15:23:00,15:23:10,stop_point:SP_5238,Mairie Colomiers,24
+2299153,15:24:00,15:24:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299153,15:25:00,15:25:10,stop_point:SP_4352,Oisans,26
+2299153,15:26:00,15:26:10,stop_point:SP_4343,Mont Blanc,27
+2299153,15:27:00,15:27:10,stop_point:SP_4393,Armurier,28
+2299153,15:28:00,15:28:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299153,15:29:00,15:29:10,stop_point:SP_4355,Luchonnais,30
+2299153,15:30:00,15:30:10,stop_point:SP_4397,Capoul,31
+2299153,15:30:00,15:30:10,stop_point:SP_4345,Georges Brassens,32
+2299153,15:31:00,15:31:10,stop_point:SP_4398,Lucie Aubrac,33
+2299153,15:32:00,15:32:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299153,15:33:00,15:33:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299154,15:45:00,15:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299154,15:49:00,15:49:10,stop_point:SP_5544,La Commanderie,2
+2299154,15:51:00,15:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299154,15:53:00,15:53:10,stop_point:SP_5588,Saquet,4
+2299154,15:54:00,15:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299154,15:55:00,15:55:10,stop_point:SP_5095,Taillades,6
+2299154,15:56:00,15:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299154,15:56:00,15:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299154,15:58:00,15:58:10,stop_point:SP_1899,La Chauge,9
+2299154,16:01:00,16:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299154,16:03:00,16:03:10,stop_point:SP_5118,Escalette,11
+2299154,16:05:00,16:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299154,16:07:00,16:07:10,stop_point:SP_5113,Balardou,13
+2299154,16:08:00,16:08:10,stop_point:SP_5111,Basilique,14
+2299154,16:10:00,16:10:10,stop_point:SP_1050,Tuilerie,15
+2299154,16:14:00,16:14:10,stop_point:SP_316,Lycée International,16
+2299154,16:17:00,16:17:10,stop_point:SP_759,Piquemil,17
+2299154,16:18:00,16:18:10,stop_point:SP_4321,Aquitaine,18
+2299154,16:19:00,16:19:10,stop_point:SP_4314,Collège Léon Blum,19
+2299154,16:20:00,16:20:10,stop_point:SP_4309,Bel Air,20
+2299154,16:21:00,16:21:10,stop_point:SP_3536,Val D'Aran,21
+2299154,16:22:00,16:22:10,stop_point:SP_2836,Salle Gascogne,22
+2299154,16:24:00,16:24:10,stop_point:SP_950,Hall Comminges,23
+2299154,16:25:00,16:25:10,stop_point:SP_5238,Mairie Colomiers,24
+2299154,16:26:00,16:26:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299154,16:27:00,16:27:10,stop_point:SP_4352,Oisans,26
+2299154,16:28:00,16:28:10,stop_point:SP_4343,Mont Blanc,27
+2299154,16:29:00,16:29:10,stop_point:SP_4393,Armurier,28
+2299154,16:30:00,16:30:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299154,16:31:00,16:31:10,stop_point:SP_4355,Luchonnais,30
+2299154,16:32:00,16:32:10,stop_point:SP_4397,Capoul,31
+2299154,16:32:00,16:32:10,stop_point:SP_4345,Georges Brassens,32
+2299154,16:33:00,16:33:10,stop_point:SP_4398,Lucie Aubrac,33
+2299154,16:34:00,16:34:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299154,16:35:00,16:35:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299155,16:15:00,16:15:10,stop_point:SP_5540,Léguevin Collège,1
+2299155,16:19:00,16:19:10,stop_point:SP_5544,La Commanderie,2
+2299155,16:21:00,16:21:10,stop_point:SP_5543,Place de la Liberté,3
+2299155,16:23:00,16:23:10,stop_point:SP_5588,Saquet,4
+2299155,16:25:00,16:25:10,stop_point:SP_5098,Brax Maudinat,5
+2299155,16:26:00,16:26:10,stop_point:SP_5095,Taillades,6
+2299155,16:27:00,16:27:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299155,16:27:00,16:27:10,stop_point:SP_4869,Mairie de Brax,8
+2299155,16:29:00,16:29:10,stop_point:SP_1899,La Chauge,9
+2299155,16:32:00,16:32:10,stop_point:SP_5119,Giratoire Dunant,10
+2299155,16:34:00,16:34:10,stop_point:SP_5118,Escalette,11
+2299155,16:36:00,16:36:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299155,16:38:00,16:38:10,stop_point:SP_5113,Balardou,13
+2299155,16:40:00,16:40:10,stop_point:SP_5111,Basilique,14
+2299155,16:41:00,16:41:10,stop_point:SP_1050,Tuilerie,15
+2299155,16:46:00,16:46:10,stop_point:SP_316,Lycée International,16
+2299155,16:49:00,16:49:10,stop_point:SP_759,Piquemil,17
+2299155,16:50:00,16:50:10,stop_point:SP_4321,Aquitaine,18
+2299155,16:51:00,16:51:10,stop_point:SP_4314,Collège Léon Blum,19
+2299155,16:52:00,16:52:10,stop_point:SP_4309,Bel Air,20
+2299155,16:53:00,16:53:10,stop_point:SP_3536,Val D'Aran,21
+2299155,16:54:00,16:54:10,stop_point:SP_2836,Salle Gascogne,22
+2299155,16:56:00,16:56:10,stop_point:SP_950,Hall Comminges,23
+2299155,16:57:00,16:57:10,stop_point:SP_5238,Mairie Colomiers,24
+2299155,16:58:00,16:58:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299155,16:59:00,16:59:10,stop_point:SP_4352,Oisans,26
+2299155,17:00:00,17:00:10,stop_point:SP_4343,Mont Blanc,27
+2299155,17:01:00,17:01:10,stop_point:SP_4393,Armurier,28
+2299155,17:02:00,17:02:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299155,17:03:00,17:03:10,stop_point:SP_4355,Luchonnais,30
+2299155,17:05:00,17:05:10,stop_point:SP_4397,Capoul,31
+2299155,17:06:00,17:06:10,stop_point:SP_4345,Georges Brassens,32
+2299155,17:07:00,17:07:10,stop_point:SP_4398,Lucie Aubrac,33
+2299155,17:08:00,17:08:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299155,17:10:00,17:10:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299156,16:40:00,16:40:10,stop_point:SP_5540,Léguevin Collège,1
+2299156,16:44:00,16:44:10,stop_point:SP_5544,La Commanderie,2
+2299156,16:46:00,16:46:10,stop_point:SP_5543,Place de la Liberté,3
+2299156,16:48:00,16:48:10,stop_point:SP_5588,Saquet,4
+2299156,16:50:00,16:50:10,stop_point:SP_5098,Brax Maudinat,5
+2299156,16:51:00,16:51:10,stop_point:SP_5095,Taillades,6
+2299156,16:52:00,16:52:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299156,16:52:00,16:52:10,stop_point:SP_4869,Mairie de Brax,8
+2299156,16:54:00,16:54:10,stop_point:SP_1899,La Chauge,9
+2299156,16:57:00,16:57:10,stop_point:SP_5119,Giratoire Dunant,10
+2299156,16:59:00,16:59:10,stop_point:SP_5118,Escalette,11
+2299156,17:01:00,17:01:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299156,17:03:00,17:03:10,stop_point:SP_5113,Balardou,13
+2299156,17:05:00,17:05:10,stop_point:SP_5111,Basilique,14
+2299156,17:06:00,17:06:10,stop_point:SP_1050,Tuilerie,15
+2299156,17:11:00,17:11:10,stop_point:SP_316,Lycée International,16
+2299156,17:14:00,17:14:10,stop_point:SP_759,Piquemil,17
+2299156,17:15:00,17:15:10,stop_point:SP_4321,Aquitaine,18
+2299156,17:16:00,17:16:10,stop_point:SP_4314,Collège Léon Blum,19
+2299156,17:17:00,17:17:10,stop_point:SP_4309,Bel Air,20
+2299156,17:18:00,17:18:10,stop_point:SP_3536,Val D'Aran,21
+2299156,17:19:00,17:19:10,stop_point:SP_2836,Salle Gascogne,22
+2299156,17:21:00,17:21:10,stop_point:SP_950,Hall Comminges,23
+2299156,17:22:00,17:22:10,stop_point:SP_5238,Mairie Colomiers,24
+2299156,17:23:00,17:23:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299156,17:24:00,17:24:10,stop_point:SP_4352,Oisans,26
+2299156,17:25:00,17:25:10,stop_point:SP_4343,Mont Blanc,27
+2299156,17:26:00,17:26:10,stop_point:SP_4393,Armurier,28
+2299156,17:27:00,17:27:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299156,17:28:00,17:28:10,stop_point:SP_4355,Luchonnais,30
+2299156,17:30:00,17:30:10,stop_point:SP_4397,Capoul,31
+2299156,17:31:00,17:31:10,stop_point:SP_4345,Georges Brassens,32
+2299156,17:32:00,17:32:10,stop_point:SP_4398,Lucie Aubrac,33
+2299156,17:33:00,17:33:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299156,17:35:00,17:35:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299157,17:15:00,17:15:10,stop_point:SP_5540,Léguevin Collège,1
+2299157,17:19:00,17:19:10,stop_point:SP_5544,La Commanderie,2
+2299157,17:21:00,17:21:10,stop_point:SP_5543,Place de la Liberté,3
+2299157,17:23:00,17:23:10,stop_point:SP_5588,Saquet,4
+2299157,17:25:00,17:25:10,stop_point:SP_5098,Brax Maudinat,5
+2299157,17:26:00,17:26:10,stop_point:SP_5095,Taillades,6
+2299157,17:27:00,17:27:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299157,17:27:00,17:27:10,stop_point:SP_4869,Mairie de Brax,8
+2299157,17:29:00,17:29:10,stop_point:SP_1899,La Chauge,9
+2299157,17:32:00,17:32:10,stop_point:SP_5119,Giratoire Dunant,10
+2299157,17:34:00,17:34:10,stop_point:SP_5118,Escalette,11
+2299157,17:36:00,17:36:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299157,17:38:00,17:38:10,stop_point:SP_5113,Balardou,13
+2299157,17:40:00,17:40:10,stop_point:SP_5111,Basilique,14
+2299157,17:41:00,17:41:10,stop_point:SP_1050,Tuilerie,15
+2299157,17:46:00,17:46:10,stop_point:SP_316,Lycée International,16
+2299157,17:49:00,17:49:10,stop_point:SP_759,Piquemil,17
+2299157,17:51:00,17:51:10,stop_point:SP_4321,Aquitaine,18
+2299157,17:51:00,17:51:10,stop_point:SP_4314,Collège Léon Blum,19
+2299157,17:53:00,17:53:10,stop_point:SP_4309,Bel Air,20
+2299157,17:54:00,17:54:10,stop_point:SP_3536,Val D'Aran,21
+2299157,17:55:00,17:55:10,stop_point:SP_2836,Salle Gascogne,22
+2299157,17:57:00,17:57:10,stop_point:SP_950,Hall Comminges,23
+2299157,17:58:00,17:58:10,stop_point:SP_5238,Mairie Colomiers,24
+2299157,18:00:00,18:00:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299157,18:01:00,18:01:10,stop_point:SP_4352,Oisans,26
+2299157,18:02:00,18:02:10,stop_point:SP_4343,Mont Blanc,27
+2299157,18:03:00,18:03:10,stop_point:SP_4393,Armurier,28
+2299157,18:04:00,18:04:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299157,18:05:00,18:05:10,stop_point:SP_4355,Luchonnais,30
+2299157,18:07:00,18:07:10,stop_point:SP_4397,Capoul,31
+2299157,18:08:00,18:08:10,stop_point:SP_4345,Georges Brassens,32
+2299157,18:09:00,18:09:10,stop_point:SP_4398,Lucie Aubrac,33
+2299157,18:10:00,18:10:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299157,18:12:00,18:12:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299158,17:50:00,17:50:10,stop_point:SP_5540,Léguevin Collège,1
+2299158,17:54:00,17:54:10,stop_point:SP_5544,La Commanderie,2
+2299158,17:56:00,17:56:10,stop_point:SP_5543,Place de la Liberté,3
+2299158,17:58:00,17:58:10,stop_point:SP_5588,Saquet,4
+2299158,18:00:00,18:00:10,stop_point:SP_5098,Brax Maudinat,5
+2299158,18:01:00,18:01:10,stop_point:SP_5095,Taillades,6
+2299158,18:02:00,18:02:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299158,18:02:00,18:02:10,stop_point:SP_4869,Mairie de Brax,8
+2299158,18:04:00,18:04:10,stop_point:SP_1899,La Chauge,9
+2299158,18:07:00,18:07:10,stop_point:SP_5119,Giratoire Dunant,10
+2299158,18:09:00,18:09:10,stop_point:SP_5118,Escalette,11
+2299158,18:11:00,18:11:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299158,18:13:00,18:13:10,stop_point:SP_5113,Balardou,13
+2299158,18:15:00,18:15:10,stop_point:SP_5111,Basilique,14
+2299158,18:16:00,18:16:10,stop_point:SP_1050,Tuilerie,15
+2299158,18:21:00,18:21:10,stop_point:SP_316,Lycée International,16
+2299158,18:24:00,18:24:10,stop_point:SP_759,Piquemil,17
+2299158,18:26:00,18:26:10,stop_point:SP_4321,Aquitaine,18
+2299158,18:26:00,18:26:10,stop_point:SP_4314,Collège Léon Blum,19
+2299158,18:28:00,18:28:10,stop_point:SP_4309,Bel Air,20
+2299158,18:29:00,18:29:10,stop_point:SP_3536,Val D'Aran,21
+2299158,18:30:00,18:30:10,stop_point:SP_2836,Salle Gascogne,22
+2299158,18:32:00,18:32:10,stop_point:SP_950,Hall Comminges,23
+2299158,18:33:00,18:33:10,stop_point:SP_5238,Mairie Colomiers,24
+2299158,18:35:00,18:35:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299158,18:36:00,18:36:10,stop_point:SP_4352,Oisans,26
+2299158,18:37:00,18:37:10,stop_point:SP_4343,Mont Blanc,27
+2299158,18:38:00,18:38:10,stop_point:SP_4393,Armurier,28
+2299158,18:39:00,18:39:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299158,18:40:00,18:40:10,stop_point:SP_4355,Luchonnais,30
+2299158,18:41:00,18:41:10,stop_point:SP_4397,Capoul,31
+2299158,18:42:00,18:42:10,stop_point:SP_4345,Georges Brassens,32
+2299158,18:43:00,18:43:10,stop_point:SP_4398,Lucie Aubrac,33
+2299158,18:44:00,18:44:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299158,18:45:00,18:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299159,18:25:00,18:25:10,stop_point:SP_5540,Léguevin Collège,1
+2299159,18:29:00,18:29:10,stop_point:SP_5544,La Commanderie,2
+2299159,18:31:00,18:31:10,stop_point:SP_5543,Place de la Liberté,3
+2299159,18:33:00,18:33:10,stop_point:SP_5588,Saquet,4
+2299159,18:35:00,18:35:10,stop_point:SP_5098,Brax Maudinat,5
+2299159,18:36:00,18:36:10,stop_point:SP_5095,Taillades,6
+2299159,18:37:00,18:37:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299159,18:37:00,18:37:10,stop_point:SP_4869,Mairie de Brax,8
+2299159,18:39:00,18:39:10,stop_point:SP_1899,La Chauge,9
+2299159,18:42:00,18:42:10,stop_point:SP_5119,Giratoire Dunant,10
+2299159,18:44:00,18:44:10,stop_point:SP_5118,Escalette,11
+2299159,18:46:00,18:46:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299159,18:47:00,18:47:10,stop_point:SP_5113,Balardou,13
+2299159,18:49:00,18:49:10,stop_point:SP_5111,Basilique,14
+2299159,18:50:00,18:50:10,stop_point:SP_1050,Tuilerie,15
+2299159,18:53:00,18:53:10,stop_point:SP_316,Lycée International,16
+2299159,18:56:00,18:56:10,stop_point:SP_759,Piquemil,17
+2299159,18:57:00,18:57:10,stop_point:SP_4321,Aquitaine,18
+2299159,18:57:00,18:57:10,stop_point:SP_4314,Collège Léon Blum,19
+2299159,18:58:00,18:58:10,stop_point:SP_4309,Bel Air,20
+2299159,19:00:00,19:00:10,stop_point:SP_3536,Val D'Aran,21
+2299159,19:00:00,19:00:10,stop_point:SP_2836,Salle Gascogne,22
+2299159,19:02:00,19:02:10,stop_point:SP_950,Hall Comminges,23
+2299159,19:03:00,19:03:10,stop_point:SP_5238,Mairie Colomiers,24
+2299159,19:04:00,19:04:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299159,19:05:00,19:05:10,stop_point:SP_4352,Oisans,26
+2299159,19:06:00,19:06:10,stop_point:SP_4343,Mont Blanc,27
+2299159,19:07:00,19:07:10,stop_point:SP_4393,Armurier,28
+2299159,19:08:00,19:08:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299159,19:09:00,19:09:10,stop_point:SP_4355,Luchonnais,30
+2299159,19:10:00,19:10:10,stop_point:SP_4397,Capoul,31
+2299159,19:11:00,19:11:10,stop_point:SP_4345,Georges Brassens,32
+2299159,19:12:00,19:12:10,stop_point:SP_4398,Lucie Aubrac,33
+2299159,19:13:00,19:13:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299159,19:14:00,19:14:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299160,18:55:00,18:55:10,stop_point:SP_5540,Léguevin Collège,1
+2299160,18:59:00,18:59:10,stop_point:SP_5544,La Commanderie,2
+2299160,19:00:00,19:00:10,stop_point:SP_5543,Place de la Liberté,3
+2299160,19:02:00,19:02:10,stop_point:SP_5588,Saquet,4
+2299160,19:03:00,19:03:10,stop_point:SP_5098,Brax Maudinat,5
+2299160,19:04:00,19:04:10,stop_point:SP_5095,Taillades,6
+2299160,19:05:00,19:05:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299160,19:05:00,19:05:10,stop_point:SP_4869,Mairie de Brax,8
+2299160,19:07:00,19:07:10,stop_point:SP_1899,La Chauge,9
+2299160,19:10:00,19:10:10,stop_point:SP_5119,Giratoire Dunant,10
+2299160,19:12:00,19:12:10,stop_point:SP_5118,Escalette,11
+2299160,19:14:00,19:14:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299160,19:15:00,19:15:10,stop_point:SP_5113,Balardou,13
+2299160,19:17:00,19:17:10,stop_point:SP_5111,Basilique,14
+2299160,19:18:00,19:18:10,stop_point:SP_1050,Tuilerie,15
+2299160,19:21:00,19:21:10,stop_point:SP_316,Lycée International,16
+2299160,19:23:00,19:23:10,stop_point:SP_759,Piquemil,17
+2299160,19:25:00,19:25:10,stop_point:SP_4321,Aquitaine,18
+2299160,19:25:00,19:25:10,stop_point:SP_4314,Collège Léon Blum,19
+2299160,19:26:00,19:26:10,stop_point:SP_4309,Bel Air,20
+2299160,19:27:00,19:27:10,stop_point:SP_3536,Val D'Aran,21
+2299160,19:27:00,19:27:10,stop_point:SP_2836,Salle Gascogne,22
+2299160,19:29:00,19:29:10,stop_point:SP_950,Hall Comminges,23
+2299160,19:30:00,19:30:10,stop_point:SP_5238,Mairie Colomiers,24
+2299160,19:31:00,19:31:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299160,19:32:00,19:32:10,stop_point:SP_4352,Oisans,26
+2299160,19:33:00,19:33:10,stop_point:SP_4343,Mont Blanc,27
+2299160,19:33:00,19:33:10,stop_point:SP_4393,Armurier,28
+2299160,19:34:00,19:34:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299160,19:35:00,19:35:10,stop_point:SP_4355,Luchonnais,30
+2299160,19:36:00,19:36:10,stop_point:SP_4397,Capoul,31
+2299160,19:37:00,19:37:10,stop_point:SP_4345,Georges Brassens,32
+2299160,19:38:00,19:38:10,stop_point:SP_4398,Lucie Aubrac,33
+2299160,19:39:00,19:39:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299160,19:40:00,19:40:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299161,19:35:00,19:35:10,stop_point:SP_5540,Léguevin Collège,1
+2299161,19:39:00,19:39:10,stop_point:SP_5544,La Commanderie,2
+2299161,19:40:00,19:40:10,stop_point:SP_5543,Place de la Liberté,3
+2299161,19:42:00,19:42:10,stop_point:SP_5588,Saquet,4
+2299161,19:43:00,19:43:10,stop_point:SP_5098,Brax Maudinat,5
+2299161,19:44:00,19:44:10,stop_point:SP_5095,Taillades,6
+2299161,19:45:00,19:45:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299161,19:45:00,19:45:10,stop_point:SP_4869,Mairie de Brax,8
+2299161,19:47:00,19:47:10,stop_point:SP_1899,La Chauge,9
+2299161,19:50:00,19:50:10,stop_point:SP_5119,Giratoire Dunant,10
+2299161,19:52:00,19:52:10,stop_point:SP_5118,Escalette,11
+2299161,19:54:00,19:54:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299161,19:55:00,19:55:10,stop_point:SP_5113,Balardou,13
+2299161,19:57:00,19:57:10,stop_point:SP_5111,Basilique,14
+2299161,19:58:00,19:58:10,stop_point:SP_1050,Tuilerie,15
+2299161,20:01:00,20:01:10,stop_point:SP_316,Lycée International,16
+2299161,20:03:00,20:03:10,stop_point:SP_759,Piquemil,17
+2299161,20:05:00,20:05:10,stop_point:SP_4321,Aquitaine,18
+2299161,20:05:00,20:05:10,stop_point:SP_4314,Collège Léon Blum,19
+2299161,20:06:00,20:06:10,stop_point:SP_4309,Bel Air,20
+2299161,20:07:00,20:07:10,stop_point:SP_3536,Val D'Aran,21
+2299161,20:07:00,20:07:10,stop_point:SP_2836,Salle Gascogne,22
+2299161,20:09:00,20:09:10,stop_point:SP_950,Hall Comminges,23
+2299161,20:10:00,20:10:10,stop_point:SP_5238,Mairie Colomiers,24
+2299161,20:11:00,20:11:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299161,20:12:00,20:12:10,stop_point:SP_4352,Oisans,26
+2299161,20:13:00,20:13:10,stop_point:SP_4343,Mont Blanc,27
+2299161,20:13:00,20:13:10,stop_point:SP_4393,Armurier,28
+2299161,20:14:00,20:14:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299161,20:15:00,20:15:10,stop_point:SP_4355,Luchonnais,30
+2299161,20:16:00,20:16:10,stop_point:SP_4397,Capoul,31
+2299161,20:16:00,20:16:10,stop_point:SP_4345,Georges Brassens,32
+2299161,20:17:00,20:17:10,stop_point:SP_4398,Lucie Aubrac,33
+2299161,20:18:00,20:18:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299161,20:19:00,20:19:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299200,07:45:00,07:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299200,07:46:00,07:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299200,07:47:00,07:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299200,07:49:00,07:49:10,stop_point:SP_4388,Georges Brassens,4
+2299200,07:49:00,07:49:10,stop_point:SP_4363,Capoul,5
+2299200,07:51:00,07:51:10,stop_point:SP_4361,Luchonnais,6
+2299200,07:52:00,07:52:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299200,07:53:00,07:53:10,stop_point:SP_4396,Armurier,8
+2299200,07:54:00,07:54:10,stop_point:SP_4340,Mont Blanc,9
+2299200,07:55:00,07:55:10,stop_point:SP_4325,Oisans,10
+2299200,07:57:00,07:57:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299200,07:58:00,07:58:10,stop_point:SP_5237,Mairie Colomiers,12
+2299200,07:59:00,07:59:10,stop_point:SP_937,Hall Comminges,13
+2299200,08:00:00,08:00:10,stop_point:SP_156,Salle Gascogne,14
+2299200,08:01:00,08:01:10,stop_point:SP_2595,Val D'Aran,15
+2299200,08:02:00,08:02:10,stop_point:SP_4288,Bel Air,16
+2299200,08:03:00,08:03:10,stop_point:SP_4295,Collège Léon Blum,17
+2299200,08:04:00,08:04:10,stop_point:SP_4297,Aquitaine,18
+2299200,08:05:00,08:05:10,stop_point:SP_2377,Piquemil,19
+2299200,08:07:00,08:07:10,stop_point:SP_443,Lycée International,20
+2299200,08:10:00,08:10:10,stop_point:SP_1937,Tuilerie,21
+2299200,08:11:00,08:11:10,stop_point:SP_5109,Basilique,22
+2299200,08:12:00,08:12:10,stop_point:SP_5112,Balardou,23
+2299200,08:13:00,08:13:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299200,08:16:00,08:16:10,stop_point:SP_5110,Escalette,25
+2299200,08:18:00,08:18:10,stop_point:SP_5117,Giratoire Dunant,26
+2299200,08:22:00,08:22:10,stop_point:SP_788,La Chauge,27
+2299200,08:24:00,08:24:10,stop_point:SP_4878,Mairie de Brax,28
+2299200,08:25:00,08:25:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299200,08:26:00,08:26:10,stop_point:SP_5094,Taillades,30
+2299200,08:27:00,08:27:10,stop_point:SP_5099,Brax Maudinat,31
+2299200,08:28:00,08:28:10,stop_point:SP_5587,Saquet,32
+2299200,08:30:00,08:30:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299200,08:31:00,08:31:10,stop_point:SP_5536,La Commanderie,34
+2299200,08:35:00,08:35:10,stop_point:SP_5540,Léguevin Collège,35
+2299201,08:45:00,08:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299201,08:46:00,08:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299201,08:47:00,08:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299201,08:48:00,08:48:10,stop_point:SP_4388,Georges Brassens,4
+2299201,08:48:00,08:48:10,stop_point:SP_4363,Capoul,5
+2299201,08:49:00,08:49:10,stop_point:SP_4361,Luchonnais,6
+2299201,08:50:00,08:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299201,08:51:00,08:51:10,stop_point:SP_4396,Armurier,8
+2299201,08:52:00,08:52:10,stop_point:SP_4340,Mont Blanc,9
+2299201,08:53:00,08:53:10,stop_point:SP_4325,Oisans,10
+2299201,08:55:00,08:55:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299201,08:56:00,08:56:10,stop_point:SP_5237,Mairie Colomiers,12
+2299201,08:57:00,08:57:10,stop_point:SP_937,Hall Comminges,13
+2299201,08:58:00,08:58:10,stop_point:SP_156,Salle Gascogne,14
+2299201,08:58:00,08:58:10,stop_point:SP_2595,Val D'Aran,15
+2299201,08:59:00,08:59:10,stop_point:SP_4288,Bel Air,16
+2299201,09:00:00,09:00:10,stop_point:SP_4295,Collège Léon Blum,17
+2299201,09:00:00,09:00:10,stop_point:SP_4297,Aquitaine,18
+2299201,09:01:00,09:01:10,stop_point:SP_2377,Piquemil,19
+2299201,09:03:00,09:03:10,stop_point:SP_443,Lycée International,20
+2299201,09:06:00,09:06:10,stop_point:SP_1937,Tuilerie,21
+2299201,09:07:00,09:07:10,stop_point:SP_5109,Basilique,22
+2299201,09:08:00,09:08:10,stop_point:SP_5112,Balardou,23
+2299201,09:09:00,09:09:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299201,09:11:00,09:11:10,stop_point:SP_5110,Escalette,25
+2299201,09:13:00,09:13:10,stop_point:SP_5117,Giratoire Dunant,26
+2299201,09:17:00,09:17:10,stop_point:SP_788,La Chauge,27
+2299201,09:19:00,09:19:10,stop_point:SP_4878,Mairie de Brax,28
+2299201,09:19:00,09:19:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299201,09:20:00,09:20:10,stop_point:SP_5094,Taillades,30
+2299201,09:21:00,09:21:10,stop_point:SP_5099,Brax Maudinat,31
+2299201,09:22:00,09:22:10,stop_point:SP_5587,Saquet,32
+2299201,09:24:00,09:24:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299201,09:25:00,09:25:10,stop_point:SP_5536,La Commanderie,34
+2299201,09:29:00,09:29:10,stop_point:SP_5540,Léguevin Collège,35
+2299202,09:50:00,09:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299202,09:51:00,09:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299202,09:52:00,09:52:10,stop_point:SP_4359,Lucie Aubrac,3
+2299202,09:53:00,09:53:10,stop_point:SP_4388,Georges Brassens,4
+2299202,09:53:00,09:53:10,stop_point:SP_4363,Capoul,5
+2299202,09:54:00,09:54:10,stop_point:SP_4361,Luchonnais,6
+2299202,09:55:00,09:55:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299202,09:56:00,09:56:10,stop_point:SP_4396,Armurier,8
+2299202,09:57:00,09:57:10,stop_point:SP_4340,Mont Blanc,9
+2299202,09:58:00,09:58:10,stop_point:SP_4325,Oisans,10
+2299202,10:00:00,10:00:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299202,10:01:00,10:01:10,stop_point:SP_5237,Mairie Colomiers,12
+2299202,10:02:00,10:02:10,stop_point:SP_937,Hall Comminges,13
+2299202,10:03:00,10:03:10,stop_point:SP_156,Salle Gascogne,14
+2299202,10:03:00,10:03:10,stop_point:SP_2595,Val D'Aran,15
+2299202,10:04:00,10:04:10,stop_point:SP_4288,Bel Air,16
+2299202,10:05:00,10:05:10,stop_point:SP_4295,Collège Léon Blum,17
+2299202,10:05:00,10:05:10,stop_point:SP_4297,Aquitaine,18
+2299202,10:06:00,10:06:10,stop_point:SP_2377,Piquemil,19
+2299202,10:08:00,10:08:10,stop_point:SP_443,Lycée International,20
+2299202,10:11:00,10:11:10,stop_point:SP_1937,Tuilerie,21
+2299202,10:12:00,10:12:10,stop_point:SP_5109,Basilique,22
+2299202,10:13:00,10:13:10,stop_point:SP_5112,Balardou,23
+2299202,10:14:00,10:14:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299202,10:16:00,10:16:10,stop_point:SP_5110,Escalette,25
+2299202,10:18:00,10:18:10,stop_point:SP_5117,Giratoire Dunant,26
+2299202,10:22:00,10:22:10,stop_point:SP_788,La Chauge,27
+2299202,10:24:00,10:24:10,stop_point:SP_4878,Mairie de Brax,28
+2299202,10:24:00,10:24:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299202,10:25:00,10:25:10,stop_point:SP_5094,Taillades,30
+2299202,10:26:00,10:26:10,stop_point:SP_5099,Brax Maudinat,31
+2299202,10:27:00,10:27:10,stop_point:SP_5587,Saquet,32
+2299202,10:29:00,10:29:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299202,10:30:00,10:30:10,stop_point:SP_5536,La Commanderie,34
+2299202,10:34:00,10:34:10,stop_point:SP_5540,Léguevin Collège,35
+2299203,10:45:00,10:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299203,10:46:00,10:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299203,10:47:00,10:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299203,10:48:00,10:48:10,stop_point:SP_4388,Georges Brassens,4
+2299203,10:48:00,10:48:10,stop_point:SP_4363,Capoul,5
+2299203,10:49:00,10:49:10,stop_point:SP_4361,Luchonnais,6
+2299203,10:50:00,10:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299203,10:51:00,10:51:10,stop_point:SP_4396,Armurier,8
+2299203,10:52:00,10:52:10,stop_point:SP_4340,Mont Blanc,9
+2299203,10:53:00,10:53:10,stop_point:SP_4325,Oisans,10
+2299203,10:54:00,10:54:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299203,10:55:00,10:55:10,stop_point:SP_5237,Mairie Colomiers,12
+2299203,10:56:00,10:56:10,stop_point:SP_937,Hall Comminges,13
+2299203,10:57:00,10:57:10,stop_point:SP_156,Salle Gascogne,14
+2299203,10:57:00,10:57:10,stop_point:SP_2595,Val D'Aran,15
+2299203,10:58:00,10:58:10,stop_point:SP_4288,Bel Air,16
+2299203,10:59:00,10:59:10,stop_point:SP_4295,Collège Léon Blum,17
+2299203,10:59:00,10:59:10,stop_point:SP_4297,Aquitaine,18
+2299203,11:00:00,11:00:10,stop_point:SP_2377,Piquemil,19
+2299203,11:02:00,11:02:10,stop_point:SP_443,Lycée International,20
+2299203,11:05:00,11:05:10,stop_point:SP_1937,Tuilerie,21
+2299203,11:06:00,11:06:10,stop_point:SP_5109,Basilique,22
+2299203,11:07:00,11:07:10,stop_point:SP_5112,Balardou,23
+2299203,11:08:00,11:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299203,11:10:00,11:10:10,stop_point:SP_5110,Escalette,25
+2299203,11:12:00,11:12:10,stop_point:SP_5117,Giratoire Dunant,26
+2299203,11:16:00,11:16:10,stop_point:SP_788,La Chauge,27
+2299203,11:18:00,11:18:10,stop_point:SP_4878,Mairie de Brax,28
+2299203,11:18:00,11:18:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299203,11:19:00,11:19:10,stop_point:SP_5094,Taillades,30
+2299203,11:20:00,11:20:10,stop_point:SP_5099,Brax Maudinat,31
+2299203,11:21:00,11:21:10,stop_point:SP_5587,Saquet,32
+2299203,11:23:00,11:23:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299203,11:24:00,11:24:10,stop_point:SP_5536,La Commanderie,34
+2299203,11:28:00,11:28:10,stop_point:SP_5540,Léguevin Collège,35
+2299204,11:50:00,11:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299204,11:51:00,11:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299204,11:52:00,11:52:10,stop_point:SP_4359,Lucie Aubrac,3
+2299204,11:53:00,11:53:10,stop_point:SP_4388,Georges Brassens,4
+2299204,11:53:00,11:53:10,stop_point:SP_4363,Capoul,5
+2299204,11:54:00,11:54:10,stop_point:SP_4361,Luchonnais,6
+2299204,11:55:00,11:55:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299204,11:56:00,11:56:10,stop_point:SP_4396,Armurier,8
+2299204,11:57:00,11:57:10,stop_point:SP_4340,Mont Blanc,9
+2299204,11:58:00,11:58:10,stop_point:SP_4325,Oisans,10
+2299204,11:59:00,11:59:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299204,12:00:00,12:00:10,stop_point:SP_5237,Mairie Colomiers,12
+2299204,12:01:00,12:01:10,stop_point:SP_937,Hall Comminges,13
+2299204,12:02:00,12:02:10,stop_point:SP_156,Salle Gascogne,14
+2299204,12:02:00,12:02:10,stop_point:SP_2595,Val D'Aran,15
+2299204,12:03:00,12:03:10,stop_point:SP_4288,Bel Air,16
+2299204,12:04:00,12:04:10,stop_point:SP_4295,Collège Léon Blum,17
+2299204,12:04:00,12:04:10,stop_point:SP_4297,Aquitaine,18
+2299204,12:05:00,12:05:10,stop_point:SP_2377,Piquemil,19
+2299204,12:07:00,12:07:10,stop_point:SP_443,Lycée International,20
+2299204,12:10:00,12:10:10,stop_point:SP_1937,Tuilerie,21
+2299204,12:11:00,12:11:10,stop_point:SP_5109,Basilique,22
+2299204,12:12:00,12:12:10,stop_point:SP_5112,Balardou,23
+2299204,12:13:00,12:13:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299204,12:15:00,12:15:10,stop_point:SP_5110,Escalette,25
+2299204,12:17:00,12:17:10,stop_point:SP_5117,Giratoire Dunant,26
+2299204,12:21:00,12:21:10,stop_point:SP_788,La Chauge,27
+2299204,12:23:00,12:23:10,stop_point:SP_4878,Mairie de Brax,28
+2299204,12:23:00,12:23:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299204,12:24:00,12:24:10,stop_point:SP_5094,Taillades,30
+2299204,12:25:00,12:25:10,stop_point:SP_5099,Brax Maudinat,31
+2299204,12:26:00,12:26:10,stop_point:SP_5587,Saquet,32
+2299204,12:28:00,12:28:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299204,12:29:00,12:29:10,stop_point:SP_5536,La Commanderie,34
+2299204,12:33:00,12:33:10,stop_point:SP_5540,Léguevin Collège,35
+2299205,12:45:00,12:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299205,12:46:00,12:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299205,12:47:00,12:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299205,12:48:00,12:48:10,stop_point:SP_4388,Georges Brassens,4
+2299205,12:48:00,12:48:10,stop_point:SP_4363,Capoul,5
+2299205,12:49:00,12:49:10,stop_point:SP_4361,Luchonnais,6
+2299205,12:50:00,12:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299205,12:51:00,12:51:10,stop_point:SP_4396,Armurier,8
+2299205,12:52:00,12:52:10,stop_point:SP_4340,Mont Blanc,9
+2299205,12:53:00,12:53:10,stop_point:SP_4325,Oisans,10
+2299205,12:54:00,12:54:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299205,12:55:00,12:55:10,stop_point:SP_5237,Mairie Colomiers,12
+2299205,12:56:00,12:56:10,stop_point:SP_937,Hall Comminges,13
+2299205,12:57:00,12:57:10,stop_point:SP_156,Salle Gascogne,14
+2299205,12:57:00,12:57:10,stop_point:SP_2595,Val D'Aran,15
+2299205,12:58:00,12:58:10,stop_point:SP_4288,Bel Air,16
+2299205,12:59:00,12:59:10,stop_point:SP_4295,Collège Léon Blum,17
+2299205,12:59:00,12:59:10,stop_point:SP_4297,Aquitaine,18
+2299205,13:00:00,13:00:10,stop_point:SP_2377,Piquemil,19
+2299205,13:02:00,13:02:10,stop_point:SP_443,Lycée International,20
+2299205,13:05:00,13:05:10,stop_point:SP_1937,Tuilerie,21
+2299205,13:06:00,13:06:10,stop_point:SP_5109,Basilique,22
+2299205,13:07:00,13:07:10,stop_point:SP_5112,Balardou,23
+2299205,13:08:00,13:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299205,13:10:00,13:10:10,stop_point:SP_5110,Escalette,25
+2299205,13:12:00,13:12:10,stop_point:SP_5117,Giratoire Dunant,26
+2299205,13:16:00,13:16:10,stop_point:SP_788,La Chauge,27
+2299205,13:18:00,13:18:10,stop_point:SP_4878,Mairie de Brax,28
+2299205,13:18:00,13:18:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299205,13:19:00,13:19:10,stop_point:SP_5094,Taillades,30
+2299205,13:20:00,13:20:10,stop_point:SP_5099,Brax Maudinat,31
+2299205,13:21:00,13:21:10,stop_point:SP_5587,Saquet,32
+2299205,13:23:00,13:23:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299205,13:24:00,13:24:10,stop_point:SP_5536,La Commanderie,34
+2299205,13:28:00,13:28:10,stop_point:SP_5540,Léguevin Collège,35
+2299206,13:50:00,13:50:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299206,13:51:00,13:51:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299206,13:52:00,13:52:10,stop_point:SP_4359,Lucie Aubrac,3
+2299206,13:53:00,13:53:10,stop_point:SP_4388,Georges Brassens,4
+2299206,13:53:00,13:53:10,stop_point:SP_4363,Capoul,5
+2299206,13:54:00,13:54:10,stop_point:SP_4361,Luchonnais,6
+2299206,13:55:00,13:55:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299206,13:56:00,13:56:10,stop_point:SP_4396,Armurier,8
+2299206,13:57:00,13:57:10,stop_point:SP_4340,Mont Blanc,9
+2299206,13:58:00,13:58:10,stop_point:SP_4325,Oisans,10
+2299206,13:59:00,13:59:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299206,14:00:00,14:00:10,stop_point:SP_5237,Mairie Colomiers,12
+2299206,14:01:00,14:01:10,stop_point:SP_937,Hall Comminges,13
+2299206,14:02:00,14:02:10,stop_point:SP_156,Salle Gascogne,14
+2299206,14:02:00,14:02:10,stop_point:SP_2595,Val D'Aran,15
+2299206,14:03:00,14:03:10,stop_point:SP_4288,Bel Air,16
+2299206,14:04:00,14:04:10,stop_point:SP_4295,Collège Léon Blum,17
+2299206,14:04:00,14:04:10,stop_point:SP_4297,Aquitaine,18
+2299206,14:05:00,14:05:10,stop_point:SP_2377,Piquemil,19
+2299206,14:07:00,14:07:10,stop_point:SP_443,Lycée International,20
+2299206,14:10:00,14:10:10,stop_point:SP_1937,Tuilerie,21
+2299206,14:11:00,14:11:10,stop_point:SP_5109,Basilique,22
+2299206,14:12:00,14:12:10,stop_point:SP_5112,Balardou,23
+2299206,14:13:00,14:13:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299206,14:15:00,14:15:10,stop_point:SP_5110,Escalette,25
+2299206,14:17:00,14:17:10,stop_point:SP_5117,Giratoire Dunant,26
+2299206,14:21:00,14:21:10,stop_point:SP_788,La Chauge,27
+2299206,14:23:00,14:23:10,stop_point:SP_4878,Mairie de Brax,28
+2299206,14:23:00,14:23:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299206,14:24:00,14:24:10,stop_point:SP_5094,Taillades,30
+2299206,14:25:00,14:25:10,stop_point:SP_5099,Brax Maudinat,31
+2299206,14:26:00,14:26:10,stop_point:SP_5587,Saquet,32
+2299206,14:28:00,14:28:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299206,14:29:00,14:29:10,stop_point:SP_5536,La Commanderie,34
+2299206,14:33:00,14:33:10,stop_point:SP_5540,Léguevin Collège,35
+2299207,14:45:00,14:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299207,14:46:00,14:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299207,14:47:00,14:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299207,14:48:00,14:48:10,stop_point:SP_4388,Georges Brassens,4
+2299207,14:48:00,14:48:10,stop_point:SP_4363,Capoul,5
+2299207,14:49:00,14:49:10,stop_point:SP_4361,Luchonnais,6
+2299207,14:50:00,14:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299207,14:51:00,14:51:10,stop_point:SP_4396,Armurier,8
+2299207,14:52:00,14:52:10,stop_point:SP_4340,Mont Blanc,9
+2299207,14:53:00,14:53:10,stop_point:SP_4325,Oisans,10
+2299207,14:54:00,14:54:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299207,14:55:00,14:55:10,stop_point:SP_5237,Mairie Colomiers,12
+2299207,14:56:00,14:56:10,stop_point:SP_937,Hall Comminges,13
+2299207,14:57:00,14:57:10,stop_point:SP_156,Salle Gascogne,14
+2299207,14:57:00,14:57:10,stop_point:SP_2595,Val D'Aran,15
+2299207,14:58:00,14:58:10,stop_point:SP_4288,Bel Air,16
+2299207,14:59:00,14:59:10,stop_point:SP_4295,Collège Léon Blum,17
+2299207,14:59:00,14:59:10,stop_point:SP_4297,Aquitaine,18
+2299207,15:00:00,15:00:10,stop_point:SP_2377,Piquemil,19
+2299207,15:02:00,15:02:10,stop_point:SP_443,Lycée International,20
+2299207,15:05:00,15:05:10,stop_point:SP_1937,Tuilerie,21
+2299207,15:06:00,15:06:10,stop_point:SP_5109,Basilique,22
+2299207,15:07:00,15:07:10,stop_point:SP_5112,Balardou,23
+2299207,15:08:00,15:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299207,15:10:00,15:10:10,stop_point:SP_5110,Escalette,25
+2299207,15:12:00,15:12:10,stop_point:SP_5117,Giratoire Dunant,26
+2299207,15:16:00,15:16:10,stop_point:SP_788,La Chauge,27
+2299207,15:18:00,15:18:10,stop_point:SP_4878,Mairie de Brax,28
+2299207,15:18:00,15:18:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299207,15:19:00,15:19:10,stop_point:SP_5094,Taillades,30
+2299207,15:20:00,15:20:10,stop_point:SP_5099,Brax Maudinat,31
+2299207,15:21:00,15:21:10,stop_point:SP_5587,Saquet,32
+2299207,15:23:00,15:23:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299207,15:24:00,15:24:10,stop_point:SP_5536,La Commanderie,34
+2299207,15:28:00,15:28:10,stop_point:SP_5540,Léguevin Collège,35
+2299208,15:45:00,15:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299208,15:46:00,15:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299208,15:47:00,15:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299208,15:48:00,15:48:10,stop_point:SP_4388,Georges Brassens,4
+2299208,15:48:00,15:48:10,stop_point:SP_4363,Capoul,5
+2299208,15:49:00,15:49:10,stop_point:SP_4361,Luchonnais,6
+2299208,15:50:00,15:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299208,15:51:00,15:51:10,stop_point:SP_4396,Armurier,8
+2299208,15:52:00,15:52:10,stop_point:SP_4340,Mont Blanc,9
+2299208,15:53:00,15:53:10,stop_point:SP_4325,Oisans,10
+2299208,15:54:00,15:54:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299208,15:55:00,15:55:10,stop_point:SP_5237,Mairie Colomiers,12
+2299208,15:56:00,15:56:10,stop_point:SP_937,Hall Comminges,13
+2299208,15:57:00,15:57:10,stop_point:SP_156,Salle Gascogne,14
+2299208,15:57:00,15:57:10,stop_point:SP_2595,Val D'Aran,15
+2299208,15:58:00,15:58:10,stop_point:SP_4288,Bel Air,16
+2299208,15:59:00,15:59:10,stop_point:SP_4295,Collège Léon Blum,17
+2299208,15:59:00,15:59:10,stop_point:SP_4297,Aquitaine,18
+2299208,16:00:00,16:00:10,stop_point:SP_2377,Piquemil,19
+2299208,16:02:00,16:02:10,stop_point:SP_443,Lycée International,20
+2299208,16:05:00,16:05:10,stop_point:SP_1937,Tuilerie,21
+2299208,16:06:00,16:06:10,stop_point:SP_5109,Basilique,22
+2299208,16:07:00,16:07:10,stop_point:SP_5112,Balardou,23
+2299208,16:08:00,16:08:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299208,16:10:00,16:10:10,stop_point:SP_5110,Escalette,25
+2299208,16:13:00,16:13:10,stop_point:SP_5117,Giratoire Dunant,26
+2299208,16:16:00,16:16:10,stop_point:SP_788,La Chauge,27
+2299208,16:18:00,16:18:10,stop_point:SP_4878,Mairie de Brax,28
+2299208,16:19:00,16:19:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299208,16:20:00,16:20:10,stop_point:SP_5094,Taillades,30
+2299208,16:21:00,16:21:10,stop_point:SP_5099,Brax Maudinat,31
+2299208,16:22:00,16:22:10,stop_point:SP_5587,Saquet,32
+2299208,16:24:00,16:24:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299208,16:26:00,16:26:10,stop_point:SP_5536,La Commanderie,34
+2299208,16:30:00,16:30:10,stop_point:SP_5540,Léguevin Collège,35
+2299209,16:45:00,16:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299209,16:46:00,16:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299209,16:47:00,16:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299209,16:48:00,16:48:10,stop_point:SP_4388,Georges Brassens,4
+2299209,16:48:00,16:48:10,stop_point:SP_4363,Capoul,5
+2299209,16:49:00,16:49:10,stop_point:SP_4361,Luchonnais,6
+2299209,16:50:00,16:50:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299209,16:51:00,16:51:10,stop_point:SP_4396,Armurier,8
+2299209,16:52:00,16:52:10,stop_point:SP_4340,Mont Blanc,9
+2299209,16:53:00,16:53:10,stop_point:SP_4325,Oisans,10
+2299209,16:55:00,16:55:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299209,16:56:00,16:56:10,stop_point:SP_5237,Mairie Colomiers,12
+2299209,16:57:00,16:57:10,stop_point:SP_937,Hall Comminges,13
+2299209,16:58:00,16:58:10,stop_point:SP_156,Salle Gascogne,14
+2299209,16:59:00,16:59:10,stop_point:SP_2595,Val D'Aran,15
+2299209,17:00:00,17:00:10,stop_point:SP_4288,Bel Air,16
+2299209,17:01:00,17:01:10,stop_point:SP_4295,Collège Léon Blum,17
+2299209,17:02:00,17:02:10,stop_point:SP_4297,Aquitaine,18
+2299209,17:03:00,17:03:10,stop_point:SP_2377,Piquemil,19
+2299209,17:05:00,17:05:10,stop_point:SP_443,Lycée International,20
+2299209,17:08:00,17:08:10,stop_point:SP_1937,Tuilerie,21
+2299209,17:09:00,17:09:10,stop_point:SP_5109,Basilique,22
+2299209,17:10:00,17:10:10,stop_point:SP_5112,Balardou,23
+2299209,17:11:00,17:11:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299209,17:14:00,17:14:10,stop_point:SP_5110,Escalette,25
+2299209,17:16:00,17:16:10,stop_point:SP_5117,Giratoire Dunant,26
+2299209,17:20:00,17:20:10,stop_point:SP_788,La Chauge,27
+2299209,17:22:00,17:22:10,stop_point:SP_4878,Mairie de Brax,28
+2299209,17:23:00,17:23:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299209,17:24:00,17:24:10,stop_point:SP_5094,Taillades,30
+2299209,17:25:00,17:25:10,stop_point:SP_5099,Brax Maudinat,31
+2299209,17:26:00,17:26:10,stop_point:SP_5587,Saquet,32
+2299209,17:28:00,17:28:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299209,17:30:00,17:30:10,stop_point:SP_5536,La Commanderie,34
+2299209,17:34:00,17:34:10,stop_point:SP_5540,Léguevin Collège,35
+2299210,17:45:00,17:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299210,17:46:00,17:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299210,17:47:00,17:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299210,17:49:00,17:49:10,stop_point:SP_4388,Georges Brassens,4
+2299210,17:49:00,17:49:10,stop_point:SP_4363,Capoul,5
+2299210,17:51:00,17:51:10,stop_point:SP_4361,Luchonnais,6
+2299210,17:52:00,17:52:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299210,17:53:00,17:53:10,stop_point:SP_4396,Armurier,8
+2299210,17:54:00,17:54:10,stop_point:SP_4340,Mont Blanc,9
+2299210,17:55:00,17:55:10,stop_point:SP_4325,Oisans,10
+2299210,17:57:00,17:57:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299210,17:58:00,17:58:10,stop_point:SP_5237,Mairie Colomiers,12
+2299210,17:59:00,17:59:10,stop_point:SP_937,Hall Comminges,13
+2299210,18:00:00,18:00:10,stop_point:SP_156,Salle Gascogne,14
+2299210,18:01:00,18:01:10,stop_point:SP_2595,Val D'Aran,15
+2299210,18:02:00,18:02:10,stop_point:SP_4288,Bel Air,16
+2299210,18:03:00,18:03:10,stop_point:SP_4295,Collège Léon Blum,17
+2299210,18:04:00,18:04:10,stop_point:SP_4297,Aquitaine,18
+2299210,18:05:00,18:05:10,stop_point:SP_2377,Piquemil,19
+2299210,18:07:00,18:07:10,stop_point:SP_443,Lycée International,20
+2299210,18:10:00,18:10:10,stop_point:SP_1937,Tuilerie,21
+2299210,18:11:00,18:11:10,stop_point:SP_5109,Basilique,22
+2299210,18:12:00,18:12:10,stop_point:SP_5112,Balardou,23
+2299210,18:13:00,18:13:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299210,18:16:00,18:16:10,stop_point:SP_5110,Escalette,25
+2299210,18:18:00,18:18:10,stop_point:SP_5117,Giratoire Dunant,26
+2299210,18:22:00,18:22:10,stop_point:SP_788,La Chauge,27
+2299210,18:24:00,18:24:10,stop_point:SP_4878,Mairie de Brax,28
+2299210,18:25:00,18:25:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299210,18:26:00,18:26:10,stop_point:SP_5094,Taillades,30
+2299210,18:27:00,18:27:10,stop_point:SP_5099,Brax Maudinat,31
+2299210,18:28:00,18:28:10,stop_point:SP_5587,Saquet,32
+2299210,18:30:00,18:30:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299210,18:31:00,18:31:10,stop_point:SP_5536,La Commanderie,34
+2299210,18:35:00,18:35:10,stop_point:SP_5540,Léguevin Collège,35
+2299211,18:45:00,18:45:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299211,18:46:00,18:46:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299211,18:47:00,18:47:10,stop_point:SP_4359,Lucie Aubrac,3
+2299211,18:48:00,18:48:10,stop_point:SP_4388,Georges Brassens,4
+2299211,18:49:00,18:49:10,stop_point:SP_4363,Capoul,5
+2299211,18:50:00,18:50:10,stop_point:SP_4361,Luchonnais,6
+2299211,18:51:00,18:51:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299211,18:52:00,18:52:10,stop_point:SP_4396,Armurier,8
+2299211,18:53:00,18:53:10,stop_point:SP_4340,Mont Blanc,9
+2299211,18:54:00,18:54:10,stop_point:SP_4325,Oisans,10
+2299211,18:56:00,18:56:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299211,18:57:00,18:57:10,stop_point:SP_5237,Mairie Colomiers,12
+2299211,18:58:00,18:58:10,stop_point:SP_937,Hall Comminges,13
+2299211,18:59:00,18:59:10,stop_point:SP_156,Salle Gascogne,14
+2299211,18:59:00,18:59:10,stop_point:SP_2595,Val D'Aran,15
+2299211,19:00:00,19:00:10,stop_point:SP_4288,Bel Air,16
+2299211,19:01:00,19:01:10,stop_point:SP_4295,Collège Léon Blum,17
+2299211,19:01:00,19:01:10,stop_point:SP_4297,Aquitaine,18
+2299211,19:02:00,19:02:10,stop_point:SP_2377,Piquemil,19
+2299211,19:04:00,19:04:10,stop_point:SP_443,Lycée International,20
+2299211,19:07:00,19:07:10,stop_point:SP_1937,Tuilerie,21
+2299211,19:08:00,19:08:10,stop_point:SP_5109,Basilique,22
+2299211,19:09:00,19:09:10,stop_point:SP_5112,Balardou,23
+2299211,19:10:00,19:10:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299211,19:12:00,19:12:10,stop_point:SP_5110,Escalette,25
+2299211,19:14:00,19:14:10,stop_point:SP_5117,Giratoire Dunant,26
+2299211,19:18:00,19:18:10,stop_point:SP_788,La Chauge,27
+2299211,19:20:00,19:20:10,stop_point:SP_4878,Mairie de Brax,28
+2299211,19:20:00,19:20:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299211,19:21:00,19:21:10,stop_point:SP_5094,Taillades,30
+2299211,19:22:00,19:22:10,stop_point:SP_5099,Brax Maudinat,31
+2299211,19:23:00,19:23:10,stop_point:SP_5587,Saquet,32
+2299211,19:25:00,19:25:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299211,19:26:00,19:26:10,stop_point:SP_5536,La Commanderie,34
+2299211,19:30:00,19:30:10,stop_point:SP_5540,Léguevin Collège,35
+2299212,20:00:00,20:00:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,1
+2299212,20:01:00,20:01:10,stop_point:SP_2418,Esplanade des Ramassiers,2
+2299212,20:02:00,20:02:10,stop_point:SP_4359,Lucie Aubrac,3
+2299212,20:03:00,20:03:10,stop_point:SP_4388,Georges Brassens,4
+2299212,20:03:00,20:03:10,stop_point:SP_4363,Capoul,5
+2299212,20:04:00,20:04:10,stop_point:SP_4361,Luchonnais,6
+2299212,20:05:00,20:05:10,stop_point:SP_4374,Clinique Des Pyrénées,7
+2299212,20:06:00,20:06:10,stop_point:SP_4396,Armurier,8
+2299212,20:07:00,20:07:10,stop_point:SP_4340,Mont Blanc,9
+2299212,20:08:00,20:08:10,stop_point:SP_4325,Oisans,10
+2299212,20:09:00,20:09:10,stop_point:SP_5250,Colomiers Gare SNCF,11
+2299212,20:10:00,20:10:10,stop_point:SP_5237,Mairie Colomiers,12
+2299212,20:11:00,20:11:10,stop_point:SP_937,Hall Comminges,13
+2299212,20:12:00,20:12:10,stop_point:SP_156,Salle Gascogne,14
+2299212,20:12:00,20:12:10,stop_point:SP_2595,Val D'Aran,15
+2299212,20:13:00,20:13:10,stop_point:SP_4288,Bel Air,16
+2299212,20:14:00,20:14:10,stop_point:SP_4295,Collège Léon Blum,17
+2299212,20:14:00,20:14:10,stop_point:SP_4297,Aquitaine,18
+2299212,20:15:00,20:15:10,stop_point:SP_2377,Piquemil,19
+2299212,20:17:00,20:17:10,stop_point:SP_443,Lycée International,20
+2299212,20:20:00,20:20:10,stop_point:SP_1937,Tuilerie,21
+2299212,20:21:00,20:21:10,stop_point:SP_5109,Basilique,22
+2299212,20:22:00,20:22:10,stop_point:SP_5112,Balardou,23
+2299212,20:23:00,20:23:10,stop_point:SP_5100,Lycée Nelson Mandela,24
+2299212,20:25:00,20:25:10,stop_point:SP_5110,Escalette,25
+2299212,20:27:00,20:27:10,stop_point:SP_5117,Giratoire Dunant,26
+2299212,20:31:00,20:31:10,stop_point:SP_788,La Chauge,27
+2299212,20:33:00,20:33:10,stop_point:SP_4878,Mairie de Brax,28
+2299212,20:33:00,20:33:10,stop_point:SP_4868,Brax-Léguevin Gare SNCF,29
+2299212,20:34:00,20:34:10,stop_point:SP_5094,Taillades,30
+2299212,20:35:00,20:35:10,stop_point:SP_5099,Brax Maudinat,31
+2299212,20:36:00,20:36:10,stop_point:SP_5587,Saquet,32
+2299212,20:38:00,20:38:10,stop_point:SP_5545,Av. des Pyrénées,33
+2299212,20:39:00,20:39:10,stop_point:SP_5536,La Commanderie,34
+2299212,20:43:00,20:43:10,stop_point:SP_5540,Léguevin Collège,35
+2299213,06:45:00,06:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299213,06:49:00,06:49:10,stop_point:SP_5544,La Commanderie,2
+2299213,06:50:00,06:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299213,06:52:00,06:52:10,stop_point:SP_5588,Saquet,4
+2299213,06:53:00,06:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299213,06:54:00,06:54:10,stop_point:SP_5095,Taillades,6
+2299213,06:55:00,06:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299213,06:55:00,06:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299213,06:57:00,06:57:10,stop_point:SP_1899,La Chauge,9
+2299213,07:01:00,07:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299213,07:02:00,07:02:10,stop_point:SP_5118,Escalette,11
+2299213,07:05:00,07:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299213,07:06:00,07:06:10,stop_point:SP_5113,Balardou,13
+2299213,07:08:00,07:08:10,stop_point:SP_5111,Basilique,14
+2299213,07:09:00,07:09:10,stop_point:SP_1050,Tuilerie,15
+2299213,07:12:00,07:12:10,stop_point:SP_316,Lycée International,16
+2299213,07:14:00,07:14:10,stop_point:SP_759,Piquemil,17
+2299213,07:15:00,07:15:10,stop_point:SP_4321,Aquitaine,18
+2299213,07:15:00,07:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299213,07:16:00,07:16:10,stop_point:SP_4309,Bel Air,20
+2299213,07:17:00,07:17:10,stop_point:SP_3536,Val D'Aran,21
+2299213,07:17:00,07:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299213,07:18:00,07:18:10,stop_point:SP_950,Hall Comminges,23
+2299213,07:19:00,07:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299213,07:20:00,07:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299213,07:21:00,07:21:10,stop_point:SP_4352,Oisans,26
+2299213,07:22:00,07:22:10,stop_point:SP_4343,Mont Blanc,27
+2299213,07:23:00,07:23:10,stop_point:SP_4393,Armurier,28
+2299213,07:24:00,07:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299213,07:25:00,07:25:10,stop_point:SP_4355,Luchonnais,30
+2299213,07:26:00,07:26:10,stop_point:SP_4397,Capoul,31
+2299213,07:27:00,07:27:10,stop_point:SP_4345,Georges Brassens,32
+2299213,07:28:00,07:28:10,stop_point:SP_4398,Lucie Aubrac,33
+2299213,07:30:00,07:30:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299213,07:31:00,07:31:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299214,07:40:00,07:40:10,stop_point:SP_5540,Léguevin Collège,1
+2299214,07:44:00,07:44:10,stop_point:SP_5544,La Commanderie,2
+2299214,07:46:00,07:46:10,stop_point:SP_5543,Place de la Liberté,3
+2299214,07:48:00,07:48:10,stop_point:SP_5588,Saquet,4
+2299214,07:49:00,07:49:10,stop_point:SP_5098,Brax Maudinat,5
+2299214,07:50:00,07:50:10,stop_point:SP_5095,Taillades,6
+2299214,07:51:00,07:51:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299214,07:51:00,07:51:10,stop_point:SP_4869,Mairie de Brax,8
+2299214,07:54:00,07:54:10,stop_point:SP_1899,La Chauge,9
+2299214,07:57:00,07:57:10,stop_point:SP_5119,Giratoire Dunant,10
+2299214,07:59:00,07:59:10,stop_point:SP_5118,Escalette,11
+2299214,08:02:00,08:02:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299214,08:04:00,08:04:10,stop_point:SP_5113,Balardou,13
+2299214,08:06:00,08:06:10,stop_point:SP_5111,Basilique,14
+2299214,08:07:00,08:07:10,stop_point:SP_1050,Tuilerie,15
+2299214,08:12:00,08:12:10,stop_point:SP_316,Lycée International,16
+2299214,08:15:00,08:15:10,stop_point:SP_759,Piquemil,17
+2299214,08:16:00,08:16:10,stop_point:SP_4321,Aquitaine,18
+2299214,08:16:00,08:16:10,stop_point:SP_4314,Collège Léon Blum,19
+2299214,08:17:00,08:17:10,stop_point:SP_4309,Bel Air,20
+2299214,08:19:00,08:19:10,stop_point:SP_3536,Val D'Aran,21
+2299214,08:19:00,08:19:10,stop_point:SP_2836,Salle Gascogne,22
+2299214,08:21:00,08:21:10,stop_point:SP_950,Hall Comminges,23
+2299214,08:22:00,08:22:10,stop_point:SP_5238,Mairie Colomiers,24
+2299214,08:23:00,08:23:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299214,08:25:00,08:25:10,stop_point:SP_4352,Oisans,26
+2299214,08:27:00,08:27:10,stop_point:SP_4343,Mont Blanc,27
+2299214,08:28:00,08:28:10,stop_point:SP_4393,Armurier,28
+2299214,08:29:00,08:29:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299214,08:30:00,08:30:10,stop_point:SP_4355,Luchonnais,30
+2299214,08:31:00,08:31:10,stop_point:SP_4397,Capoul,31
+2299214,08:32:00,08:32:10,stop_point:SP_4345,Georges Brassens,32
+2299214,08:33:00,08:33:10,stop_point:SP_4398,Lucie Aubrac,33
+2299214,08:35:00,08:35:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299214,08:36:00,08:36:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299215,08:45:00,08:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299215,08:49:00,08:49:10,stop_point:SP_5544,La Commanderie,2
+2299215,08:51:00,08:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299215,08:53:00,08:53:10,stop_point:SP_5588,Saquet,4
+2299215,08:54:00,08:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299215,08:55:00,08:55:10,stop_point:SP_5095,Taillades,6
+2299215,08:56:00,08:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299215,08:56:00,08:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299215,08:59:00,08:59:10,stop_point:SP_1899,La Chauge,9
+2299215,09:02:00,09:02:10,stop_point:SP_5119,Giratoire Dunant,10
+2299215,09:04:00,09:04:10,stop_point:SP_5118,Escalette,11
+2299215,09:07:00,09:07:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299215,09:08:00,09:08:10,stop_point:SP_5113,Balardou,13
+2299215,09:10:00,09:10:10,stop_point:SP_5111,Basilique,14
+2299215,09:11:00,09:11:10,stop_point:SP_1050,Tuilerie,15
+2299215,09:14:00,09:14:10,stop_point:SP_316,Lycée International,16
+2299215,09:16:00,09:16:10,stop_point:SP_759,Piquemil,17
+2299215,09:17:00,09:17:10,stop_point:SP_4321,Aquitaine,18
+2299215,09:17:00,09:17:10,stop_point:SP_4314,Collège Léon Blum,19
+2299215,09:18:00,09:18:10,stop_point:SP_4309,Bel Air,20
+2299215,09:19:00,09:19:10,stop_point:SP_3536,Val D'Aran,21
+2299215,09:19:00,09:19:10,stop_point:SP_2836,Salle Gascogne,22
+2299215,09:20:00,09:20:10,stop_point:SP_950,Hall Comminges,23
+2299215,09:21:00,09:21:10,stop_point:SP_5238,Mairie Colomiers,24
+2299215,09:22:00,09:22:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299215,09:23:00,09:23:10,stop_point:SP_4352,Oisans,26
+2299215,09:24:00,09:24:10,stop_point:SP_4343,Mont Blanc,27
+2299215,09:25:00,09:25:10,stop_point:SP_4393,Armurier,28
+2299215,09:26:00,09:26:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299215,09:27:00,09:27:10,stop_point:SP_4355,Luchonnais,30
+2299215,09:28:00,09:28:10,stop_point:SP_4397,Capoul,31
+2299215,09:28:00,09:28:10,stop_point:SP_4345,Georges Brassens,32
+2299215,09:29:00,09:29:10,stop_point:SP_4398,Lucie Aubrac,33
+2299215,09:30:00,09:30:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299215,09:31:00,09:31:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299216,09:45:00,09:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299216,09:49:00,09:49:10,stop_point:SP_5544,La Commanderie,2
+2299216,09:50:00,09:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299216,09:52:00,09:52:10,stop_point:SP_5588,Saquet,4
+2299216,09:53:00,09:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299216,09:54:00,09:54:10,stop_point:SP_5095,Taillades,6
+2299216,09:55:00,09:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299216,09:55:00,09:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299216,09:57:00,09:57:10,stop_point:SP_1899,La Chauge,9
+2299216,10:01:00,10:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299216,10:02:00,10:02:10,stop_point:SP_5118,Escalette,11
+2299216,10:05:00,10:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299216,10:06:00,10:06:10,stop_point:SP_5113,Balardou,13
+2299216,10:08:00,10:08:10,stop_point:SP_5111,Basilique,14
+2299216,10:09:00,10:09:10,stop_point:SP_1050,Tuilerie,15
+2299216,10:12:00,10:12:10,stop_point:SP_316,Lycée International,16
+2299216,10:14:00,10:14:10,stop_point:SP_759,Piquemil,17
+2299216,10:15:00,10:15:10,stop_point:SP_4321,Aquitaine,18
+2299216,10:15:00,10:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299216,10:16:00,10:16:10,stop_point:SP_4309,Bel Air,20
+2299216,10:17:00,10:17:10,stop_point:SP_3536,Val D'Aran,21
+2299216,10:17:00,10:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299216,10:18:00,10:18:10,stop_point:SP_950,Hall Comminges,23
+2299216,10:19:00,10:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299216,10:20:00,10:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299216,10:21:00,10:21:10,stop_point:SP_4352,Oisans,26
+2299216,10:22:00,10:22:10,stop_point:SP_4343,Mont Blanc,27
+2299216,10:23:00,10:23:10,stop_point:SP_4393,Armurier,28
+2299216,10:24:00,10:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299216,10:25:00,10:25:10,stop_point:SP_4355,Luchonnais,30
+2299216,10:26:00,10:26:10,stop_point:SP_4397,Capoul,31
+2299216,10:26:00,10:26:10,stop_point:SP_4345,Georges Brassens,32
+2299216,10:27:00,10:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299216,10:28:00,10:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299216,10:29:00,10:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299217,10:45:00,10:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299217,10:49:00,10:49:10,stop_point:SP_5544,La Commanderie,2
+2299217,10:50:00,10:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299217,10:52:00,10:52:10,stop_point:SP_5588,Saquet,4
+2299217,10:53:00,10:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299217,10:54:00,10:54:10,stop_point:SP_5095,Taillades,6
+2299217,10:55:00,10:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299217,10:55:00,10:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299217,10:57:00,10:57:10,stop_point:SP_1899,La Chauge,9
+2299217,11:01:00,11:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299217,11:02:00,11:02:10,stop_point:SP_5118,Escalette,11
+2299217,11:05:00,11:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299217,11:06:00,11:06:10,stop_point:SP_5113,Balardou,13
+2299217,11:08:00,11:08:10,stop_point:SP_5111,Basilique,14
+2299217,11:09:00,11:09:10,stop_point:SP_1050,Tuilerie,15
+2299217,11:12:00,11:12:10,stop_point:SP_316,Lycée International,16
+2299217,11:14:00,11:14:10,stop_point:SP_759,Piquemil,17
+2299217,11:15:00,11:15:10,stop_point:SP_4321,Aquitaine,18
+2299217,11:15:00,11:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299217,11:16:00,11:16:10,stop_point:SP_4309,Bel Air,20
+2299217,11:17:00,11:17:10,stop_point:SP_3536,Val D'Aran,21
+2299217,11:17:00,11:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299217,11:18:00,11:18:10,stop_point:SP_950,Hall Comminges,23
+2299217,11:19:00,11:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299217,11:20:00,11:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299217,11:21:00,11:21:10,stop_point:SP_4352,Oisans,26
+2299217,11:22:00,11:22:10,stop_point:SP_4343,Mont Blanc,27
+2299217,11:23:00,11:23:10,stop_point:SP_4393,Armurier,28
+2299217,11:24:00,11:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299217,11:25:00,11:25:10,stop_point:SP_4355,Luchonnais,30
+2299217,11:26:00,11:26:10,stop_point:SP_4397,Capoul,31
+2299217,11:26:00,11:26:10,stop_point:SP_4345,Georges Brassens,32
+2299217,11:27:00,11:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299217,11:28:00,11:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299217,11:29:00,11:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299218,11:40:00,11:40:10,stop_point:SP_5540,Léguevin Collège,1
+2299218,11:44:00,11:44:10,stop_point:SP_5544,La Commanderie,2
+2299218,11:45:00,11:45:10,stop_point:SP_5543,Place de la Liberté,3
+2299218,11:47:00,11:47:10,stop_point:SP_5588,Saquet,4
+2299218,11:48:00,11:48:10,stop_point:SP_5098,Brax Maudinat,5
+2299218,11:49:00,11:49:10,stop_point:SP_5095,Taillades,6
+2299218,11:50:00,11:50:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299218,11:50:00,11:50:10,stop_point:SP_4869,Mairie de Brax,8
+2299218,11:52:00,11:52:10,stop_point:SP_1899,La Chauge,9
+2299218,11:56:00,11:56:10,stop_point:SP_5119,Giratoire Dunant,10
+2299218,11:57:00,11:57:10,stop_point:SP_5118,Escalette,11
+2299218,12:00:00,12:00:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299218,12:01:00,12:01:10,stop_point:SP_5113,Balardou,13
+2299218,12:03:00,12:03:10,stop_point:SP_5111,Basilique,14
+2299218,12:04:00,12:04:10,stop_point:SP_1050,Tuilerie,15
+2299218,12:07:00,12:07:10,stop_point:SP_316,Lycée International,16
+2299218,12:09:00,12:09:10,stop_point:SP_759,Piquemil,17
+2299218,12:10:00,12:10:10,stop_point:SP_4321,Aquitaine,18
+2299218,12:10:00,12:10:10,stop_point:SP_4314,Collège Léon Blum,19
+2299218,12:11:00,12:11:10,stop_point:SP_4309,Bel Air,20
+2299218,12:12:00,12:12:10,stop_point:SP_3536,Val D'Aran,21
+2299218,12:12:00,12:12:10,stop_point:SP_2836,Salle Gascogne,22
+2299218,12:13:00,12:13:10,stop_point:SP_950,Hall Comminges,23
+2299218,12:14:00,12:14:10,stop_point:SP_5238,Mairie Colomiers,24
+2299218,12:15:00,12:15:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299218,12:16:00,12:16:10,stop_point:SP_4352,Oisans,26
+2299218,12:17:00,12:17:10,stop_point:SP_4343,Mont Blanc,27
+2299218,12:18:00,12:18:10,stop_point:SP_4393,Armurier,28
+2299218,12:19:00,12:19:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299218,12:20:00,12:20:10,stop_point:SP_4355,Luchonnais,30
+2299218,12:21:00,12:21:10,stop_point:SP_4397,Capoul,31
+2299218,12:21:00,12:21:10,stop_point:SP_4345,Georges Brassens,32
+2299218,12:22:00,12:22:10,stop_point:SP_4398,Lucie Aubrac,33
+2299218,12:23:00,12:23:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299218,12:24:00,12:24:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299219,12:45:00,12:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299219,12:49:00,12:49:10,stop_point:SP_5544,La Commanderie,2
+2299219,12:50:00,12:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299219,12:52:00,12:52:10,stop_point:SP_5588,Saquet,4
+2299219,12:53:00,12:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299219,12:54:00,12:54:10,stop_point:SP_5095,Taillades,6
+2299219,12:55:00,12:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299219,12:55:00,12:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299219,12:57:00,12:57:10,stop_point:SP_1899,La Chauge,9
+2299219,13:01:00,13:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299219,13:02:00,13:02:10,stop_point:SP_5118,Escalette,11
+2299219,13:05:00,13:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299219,13:06:00,13:06:10,stop_point:SP_5113,Balardou,13
+2299219,13:08:00,13:08:10,stop_point:SP_5111,Basilique,14
+2299219,13:09:00,13:09:10,stop_point:SP_1050,Tuilerie,15
+2299219,13:12:00,13:12:10,stop_point:SP_316,Lycée International,16
+2299219,13:14:00,13:14:10,stop_point:SP_759,Piquemil,17
+2299219,13:15:00,13:15:10,stop_point:SP_4321,Aquitaine,18
+2299219,13:15:00,13:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299219,13:16:00,13:16:10,stop_point:SP_4309,Bel Air,20
+2299219,13:17:00,13:17:10,stop_point:SP_3536,Val D'Aran,21
+2299219,13:17:00,13:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299219,13:18:00,13:18:10,stop_point:SP_950,Hall Comminges,23
+2299219,13:19:00,13:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299219,13:20:00,13:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299219,13:21:00,13:21:10,stop_point:SP_4352,Oisans,26
+2299219,13:22:00,13:22:10,stop_point:SP_4343,Mont Blanc,27
+2299219,13:23:00,13:23:10,stop_point:SP_4393,Armurier,28
+2299219,13:24:00,13:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299219,13:25:00,13:25:10,stop_point:SP_4355,Luchonnais,30
+2299219,13:26:00,13:26:10,stop_point:SP_4397,Capoul,31
+2299219,13:26:00,13:26:10,stop_point:SP_4345,Georges Brassens,32
+2299219,13:27:00,13:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299219,13:28:00,13:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299219,13:29:00,13:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299220,13:45:00,13:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299220,13:49:00,13:49:10,stop_point:SP_5544,La Commanderie,2
+2299220,13:50:00,13:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299220,13:52:00,13:52:10,stop_point:SP_5588,Saquet,4
+2299220,13:53:00,13:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299220,13:54:00,13:54:10,stop_point:SP_5095,Taillades,6
+2299220,13:55:00,13:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299220,13:55:00,13:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299220,13:57:00,13:57:10,stop_point:SP_1899,La Chauge,9
+2299220,14:01:00,14:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299220,14:02:00,14:02:10,stop_point:SP_5118,Escalette,11
+2299220,14:05:00,14:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299220,14:06:00,14:06:10,stop_point:SP_5113,Balardou,13
+2299220,14:08:00,14:08:10,stop_point:SP_5111,Basilique,14
+2299220,14:09:00,14:09:10,stop_point:SP_1050,Tuilerie,15
+2299220,14:12:00,14:12:10,stop_point:SP_316,Lycée International,16
+2299220,14:14:00,14:14:10,stop_point:SP_759,Piquemil,17
+2299220,14:15:00,14:15:10,stop_point:SP_4321,Aquitaine,18
+2299220,14:15:00,14:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299220,14:16:00,14:16:10,stop_point:SP_4309,Bel Air,20
+2299220,14:17:00,14:17:10,stop_point:SP_3536,Val D'Aran,21
+2299220,14:17:00,14:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299220,14:18:00,14:18:10,stop_point:SP_950,Hall Comminges,23
+2299220,14:19:00,14:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299220,14:20:00,14:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299220,14:21:00,14:21:10,stop_point:SP_4352,Oisans,26
+2299220,14:22:00,14:22:10,stop_point:SP_4343,Mont Blanc,27
+2299220,14:23:00,14:23:10,stop_point:SP_4393,Armurier,28
+2299220,14:24:00,14:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299220,14:25:00,14:25:10,stop_point:SP_4355,Luchonnais,30
+2299220,14:26:00,14:26:10,stop_point:SP_4397,Capoul,31
+2299220,14:26:00,14:26:10,stop_point:SP_4345,Georges Brassens,32
+2299220,14:27:00,14:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299220,14:28:00,14:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299220,14:29:00,14:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299221,14:45:00,14:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299221,14:49:00,14:49:10,stop_point:SP_5544,La Commanderie,2
+2299221,14:50:00,14:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299221,14:52:00,14:52:10,stop_point:SP_5588,Saquet,4
+2299221,14:53:00,14:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299221,14:54:00,14:54:10,stop_point:SP_5095,Taillades,6
+2299221,14:55:00,14:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299221,14:55:00,14:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299221,14:57:00,14:57:10,stop_point:SP_1899,La Chauge,9
+2299221,15:01:00,15:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299221,15:02:00,15:02:10,stop_point:SP_5118,Escalette,11
+2299221,15:05:00,15:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299221,15:06:00,15:06:10,stop_point:SP_5113,Balardou,13
+2299221,15:08:00,15:08:10,stop_point:SP_5111,Basilique,14
+2299221,15:09:00,15:09:10,stop_point:SP_1050,Tuilerie,15
+2299221,15:12:00,15:12:10,stop_point:SP_316,Lycée International,16
+2299221,15:14:00,15:14:10,stop_point:SP_759,Piquemil,17
+2299221,15:15:00,15:15:10,stop_point:SP_4321,Aquitaine,18
+2299221,15:15:00,15:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299221,15:16:00,15:16:10,stop_point:SP_4309,Bel Air,20
+2299221,15:17:00,15:17:10,stop_point:SP_3536,Val D'Aran,21
+2299221,15:17:00,15:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299221,15:18:00,15:18:10,stop_point:SP_950,Hall Comminges,23
+2299221,15:19:00,15:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299221,15:20:00,15:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299221,15:21:00,15:21:10,stop_point:SP_4352,Oisans,26
+2299221,15:22:00,15:22:10,stop_point:SP_4343,Mont Blanc,27
+2299221,15:23:00,15:23:10,stop_point:SP_4393,Armurier,28
+2299221,15:24:00,15:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299221,15:25:00,15:25:10,stop_point:SP_4355,Luchonnais,30
+2299221,15:26:00,15:26:10,stop_point:SP_4397,Capoul,31
+2299221,15:26:00,15:26:10,stop_point:SP_4345,Georges Brassens,32
+2299221,15:27:00,15:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299221,15:28:00,15:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299221,15:29:00,15:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299222,15:40:00,15:40:10,stop_point:SP_5540,Léguevin Collège,1
+2299222,15:44:00,15:44:10,stop_point:SP_5544,La Commanderie,2
+2299222,15:45:00,15:45:10,stop_point:SP_5543,Place de la Liberté,3
+2299222,15:47:00,15:47:10,stop_point:SP_5588,Saquet,4
+2299222,15:48:00,15:48:10,stop_point:SP_5098,Brax Maudinat,5
+2299222,15:49:00,15:49:10,stop_point:SP_5095,Taillades,6
+2299222,15:50:00,15:50:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299222,15:50:00,15:50:10,stop_point:SP_4869,Mairie de Brax,8
+2299222,15:52:00,15:52:10,stop_point:SP_1899,La Chauge,9
+2299222,15:56:00,15:56:10,stop_point:SP_5119,Giratoire Dunant,10
+2299222,15:57:00,15:57:10,stop_point:SP_5118,Escalette,11
+2299222,16:00:00,16:00:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299222,16:01:00,16:01:10,stop_point:SP_5113,Balardou,13
+2299222,16:03:00,16:03:10,stop_point:SP_5111,Basilique,14
+2299222,16:04:00,16:04:10,stop_point:SP_1050,Tuilerie,15
+2299222,16:07:00,16:07:10,stop_point:SP_316,Lycée International,16
+2299222,16:09:00,16:09:10,stop_point:SP_759,Piquemil,17
+2299222,16:10:00,16:10:10,stop_point:SP_4321,Aquitaine,18
+2299222,16:10:00,16:10:10,stop_point:SP_4314,Collège Léon Blum,19
+2299222,16:11:00,16:11:10,stop_point:SP_4309,Bel Air,20
+2299222,16:12:00,16:12:10,stop_point:SP_3536,Val D'Aran,21
+2299222,16:12:00,16:12:10,stop_point:SP_2836,Salle Gascogne,22
+2299222,16:13:00,16:13:10,stop_point:SP_950,Hall Comminges,23
+2299222,16:14:00,16:14:10,stop_point:SP_5238,Mairie Colomiers,24
+2299222,16:15:00,16:15:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299222,16:16:00,16:16:10,stop_point:SP_4352,Oisans,26
+2299222,16:17:00,16:17:10,stop_point:SP_4343,Mont Blanc,27
+2299222,16:18:00,16:18:10,stop_point:SP_4393,Armurier,28
+2299222,16:19:00,16:19:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299222,16:20:00,16:20:10,stop_point:SP_4355,Luchonnais,30
+2299222,16:21:00,16:21:10,stop_point:SP_4397,Capoul,31
+2299222,16:21:00,16:21:10,stop_point:SP_4345,Georges Brassens,32
+2299222,16:22:00,16:22:10,stop_point:SP_4398,Lucie Aubrac,33
+2299222,16:23:00,16:23:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299222,16:24:00,16:24:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299223,16:45:00,16:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299223,16:49:00,16:49:10,stop_point:SP_5544,La Commanderie,2
+2299223,16:51:00,16:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299223,16:53:00,16:53:10,stop_point:SP_5588,Saquet,4
+2299223,16:54:00,16:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299223,16:55:00,16:55:10,stop_point:SP_5095,Taillades,6
+2299223,16:56:00,16:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299223,16:56:00,16:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299223,16:59:00,16:59:10,stop_point:SP_1899,La Chauge,9
+2299223,17:02:00,17:02:10,stop_point:SP_5119,Giratoire Dunant,10
+2299223,17:04:00,17:04:10,stop_point:SP_5118,Escalette,11
+2299223,17:07:00,17:07:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299223,17:08:00,17:08:10,stop_point:SP_5113,Balardou,13
+2299223,17:10:00,17:10:10,stop_point:SP_5111,Basilique,14
+2299223,17:11:00,17:11:10,stop_point:SP_1050,Tuilerie,15
+2299223,17:14:00,17:14:10,stop_point:SP_316,Lycée International,16
+2299223,17:16:00,17:16:10,stop_point:SP_759,Piquemil,17
+2299223,17:17:00,17:17:10,stop_point:SP_4321,Aquitaine,18
+2299223,17:17:00,17:17:10,stop_point:SP_4314,Collège Léon Blum,19
+2299223,17:18:00,17:18:10,stop_point:SP_4309,Bel Air,20
+2299223,17:19:00,17:19:10,stop_point:SP_3536,Val D'Aran,21
+2299223,17:19:00,17:19:10,stop_point:SP_2836,Salle Gascogne,22
+2299223,17:20:00,17:20:10,stop_point:SP_950,Hall Comminges,23
+2299223,17:21:00,17:21:10,stop_point:SP_5238,Mairie Colomiers,24
+2299223,17:22:00,17:22:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299223,17:23:00,17:23:10,stop_point:SP_4352,Oisans,26
+2299223,17:24:00,17:24:10,stop_point:SP_4343,Mont Blanc,27
+2299223,17:25:00,17:25:10,stop_point:SP_4393,Armurier,28
+2299223,17:26:00,17:26:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299223,17:27:00,17:27:10,stop_point:SP_4355,Luchonnais,30
+2299223,17:28:00,17:28:10,stop_point:SP_4397,Capoul,31
+2299223,17:29:00,17:29:10,stop_point:SP_4345,Georges Brassens,32
+2299223,17:30:00,17:30:10,stop_point:SP_4398,Lucie Aubrac,33
+2299223,17:32:00,17:32:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299223,17:33:00,17:33:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299224,17:45:00,17:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299224,17:49:00,17:49:10,stop_point:SP_5544,La Commanderie,2
+2299224,17:51:00,17:51:10,stop_point:SP_5543,Place de la Liberté,3
+2299224,17:53:00,17:53:10,stop_point:SP_5588,Saquet,4
+2299224,17:54:00,17:54:10,stop_point:SP_5098,Brax Maudinat,5
+2299224,17:55:00,17:55:10,stop_point:SP_5095,Taillades,6
+2299224,17:56:00,17:56:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299224,17:56:00,17:56:10,stop_point:SP_4869,Mairie de Brax,8
+2299224,17:59:00,17:59:10,stop_point:SP_1899,La Chauge,9
+2299224,18:02:00,18:02:10,stop_point:SP_5119,Giratoire Dunant,10
+2299224,18:04:00,18:04:10,stop_point:SP_5118,Escalette,11
+2299224,18:07:00,18:07:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299224,18:08:00,18:08:10,stop_point:SP_5113,Balardou,13
+2299224,18:10:00,18:10:10,stop_point:SP_5111,Basilique,14
+2299224,18:11:00,18:11:10,stop_point:SP_1050,Tuilerie,15
+2299224,18:14:00,18:14:10,stop_point:SP_316,Lycée International,16
+2299224,18:16:00,18:16:10,stop_point:SP_759,Piquemil,17
+2299224,18:17:00,18:17:10,stop_point:SP_4321,Aquitaine,18
+2299224,18:17:00,18:17:10,stop_point:SP_4314,Collège Léon Blum,19
+2299224,18:18:00,18:18:10,stop_point:SP_4309,Bel Air,20
+2299224,18:19:00,18:19:10,stop_point:SP_3536,Val D'Aran,21
+2299224,18:19:00,18:19:10,stop_point:SP_2836,Salle Gascogne,22
+2299224,18:20:00,18:20:10,stop_point:SP_950,Hall Comminges,23
+2299224,18:21:00,18:21:10,stop_point:SP_5238,Mairie Colomiers,24
+2299224,18:22:00,18:22:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299224,18:23:00,18:23:10,stop_point:SP_4352,Oisans,26
+2299224,18:24:00,18:24:10,stop_point:SP_4343,Mont Blanc,27
+2299224,18:25:00,18:25:10,stop_point:SP_4393,Armurier,28
+2299224,18:26:00,18:26:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299224,18:27:00,18:27:10,stop_point:SP_4355,Luchonnais,30
+2299224,18:28:00,18:28:10,stop_point:SP_4397,Capoul,31
+2299224,18:29:00,18:29:10,stop_point:SP_4345,Georges Brassens,32
+2299224,18:30:00,18:30:10,stop_point:SP_4398,Lucie Aubrac,33
+2299224,18:32:00,18:32:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299224,18:33:00,18:33:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299225,18:45:00,18:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299225,18:49:00,18:49:10,stop_point:SP_5544,La Commanderie,2
+2299225,18:50:00,18:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299225,18:52:00,18:52:10,stop_point:SP_5588,Saquet,4
+2299225,18:53:00,18:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299225,18:54:00,18:54:10,stop_point:SP_5095,Taillades,6
+2299225,18:55:00,18:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299225,18:55:00,18:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299225,18:57:00,18:57:10,stop_point:SP_1899,La Chauge,9
+2299225,19:01:00,19:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299225,19:02:00,19:02:10,stop_point:SP_5118,Escalette,11
+2299225,19:05:00,19:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299225,19:06:00,19:06:10,stop_point:SP_5113,Balardou,13
+2299225,19:08:00,19:08:10,stop_point:SP_5111,Basilique,14
+2299225,19:09:00,19:09:10,stop_point:SP_1050,Tuilerie,15
+2299225,19:12:00,19:12:10,stop_point:SP_316,Lycée International,16
+2299225,19:14:00,19:14:10,stop_point:SP_759,Piquemil,17
+2299225,19:15:00,19:15:10,stop_point:SP_4321,Aquitaine,18
+2299225,19:15:00,19:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299225,19:16:00,19:16:10,stop_point:SP_4309,Bel Air,20
+2299225,19:17:00,19:17:10,stop_point:SP_3536,Val D'Aran,21
+2299225,19:17:00,19:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299225,19:18:00,19:18:10,stop_point:SP_950,Hall Comminges,23
+2299225,19:19:00,19:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299225,19:20:00,19:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299225,19:21:00,19:21:10,stop_point:SP_4352,Oisans,26
+2299225,19:22:00,19:22:10,stop_point:SP_4343,Mont Blanc,27
+2299225,19:23:00,19:23:10,stop_point:SP_4393,Armurier,28
+2299225,19:24:00,19:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299225,19:25:00,19:25:10,stop_point:SP_4355,Luchonnais,30
+2299225,19:26:00,19:26:10,stop_point:SP_4397,Capoul,31
+2299225,19:26:00,19:26:10,stop_point:SP_4345,Georges Brassens,32
+2299225,19:27:00,19:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299225,19:28:00,19:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299225,19:29:00,19:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35
+2299226,19:45:00,19:45:10,stop_point:SP_5540,Léguevin Collège,1
+2299226,19:49:00,19:49:10,stop_point:SP_5544,La Commanderie,2
+2299226,19:50:00,19:50:10,stop_point:SP_5543,Place de la Liberté,3
+2299226,19:52:00,19:52:10,stop_point:SP_5588,Saquet,4
+2299226,19:53:00,19:53:10,stop_point:SP_5098,Brax Maudinat,5
+2299226,19:54:00,19:54:10,stop_point:SP_5095,Taillades,6
+2299226,19:55:00,19:55:10,stop_point:SP_4910,Brax-Léguevin Gare SNCF,7
+2299226,19:55:00,19:55:10,stop_point:SP_4869,Mairie de Brax,8
+2299226,19:57:00,19:57:10,stop_point:SP_1899,La Chauge,9
+2299226,20:01:00,20:01:10,stop_point:SP_5119,Giratoire Dunant,10
+2299226,20:02:00,20:02:10,stop_point:SP_5118,Escalette,11
+2299226,20:05:00,20:05:10,stop_point:SP_5101,Lycée Nelson Mandela,12
+2299226,20:06:00,20:06:10,stop_point:SP_5113,Balardou,13
+2299226,20:08:00,20:08:10,stop_point:SP_5111,Basilique,14
+2299226,20:09:00,20:09:10,stop_point:SP_1050,Tuilerie,15
+2299226,20:12:00,20:12:10,stop_point:SP_316,Lycée International,16
+2299226,20:14:00,20:14:10,stop_point:SP_759,Piquemil,17
+2299226,20:15:00,20:15:10,stop_point:SP_4321,Aquitaine,18
+2299226,20:15:00,20:15:10,stop_point:SP_4314,Collège Léon Blum,19
+2299226,20:16:00,20:16:10,stop_point:SP_4309,Bel Air,20
+2299226,20:17:00,20:17:10,stop_point:SP_3536,Val D'Aran,21
+2299226,20:17:00,20:17:10,stop_point:SP_2836,Salle Gascogne,22
+2299226,20:18:00,20:18:10,stop_point:SP_950,Hall Comminges,23
+2299226,20:19:00,20:19:10,stop_point:SP_5238,Mairie Colomiers,24
+2299226,20:20:00,20:20:10,stop_point:SP_4408,Colomiers Gare SNCF,25
+2299226,20:21:00,20:21:10,stop_point:SP_4352,Oisans,26
+2299226,20:22:00,20:22:10,stop_point:SP_4343,Mont Blanc,27
+2299226,20:23:00,20:23:10,stop_point:SP_4393,Armurier,28
+2299226,20:24:00,20:24:10,stop_point:SP_4401,Clinique Des Pyrénées,29
+2299226,20:25:00,20:25:10,stop_point:SP_4355,Luchonnais,30
+2299226,20:26:00,20:26:10,stop_point:SP_4397,Capoul,31
+2299226,20:26:00,20:26:10,stop_point:SP_4345,Georges Brassens,32
+2299226,20:27:00,20:27:10,stop_point:SP_4398,Lucie Aubrac,33
+2299226,20:28:00,20:28:10,stop_point:SP_1749,Esplanade des Ramassiers,34
+2299226,20:29:00,20:29:10,stop_point:SP_4409,Colomiers Ramassiers Gare SNCF,35

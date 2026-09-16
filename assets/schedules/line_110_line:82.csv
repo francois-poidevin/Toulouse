@@ -1,0 +1,1501 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2295763,05:55:00,05:55:10,stop_point:SP_5167,Barrière de Paris,1
+2295763,05:56:00,05:56:10,stop_point:SP_2498,Brieux,2
+2295763,05:57:00,05:57:10,stop_point:SP_2326,Chaussas,3
+2295763,05:58:00,05:58:10,stop_point:SP_1700,Adonis,4
+2295763,05:59:00,05:59:10,stop_point:SP_3201,Pont de Ginestous,5
+2295763,06:01:00,06:01:10,stop_point:SP_3444,Laurencin,6
+2295763,06:02:00,06:02:10,stop_point:SP_5203,Croizat,7
+2295763,06:02:00,06:02:10,stop_point:SP_792,Eberhardt,8
+2295763,06:03:00,06:03:10,stop_point:SP_5204,ZAC Garonne,9
+2295763,06:03:00,06:03:10,stop_point:SP_1238,ZI La Glacière,10
+2295763,06:04:00,06:04:10,stop_point:SP_3949,Pôle,11
+2295763,06:07:00,06:07:10,stop_point:SP_4478,Picarel,12
+2295763,06:09:00,06:09:10,stop_point:SP_4475,Pont de Rupé,13
+2295763,06:10:00,06:10:10,stop_point:SP_4480,Ginestous Chênes,14
+2295764,06:20:00,06:20:10,stop_point:SP_5167,Barrière de Paris,1
+2295764,06:21:00,06:21:10,stop_point:SP_2498,Brieux,2
+2295764,06:22:00,06:22:10,stop_point:SP_2326,Chaussas,3
+2295764,06:23:00,06:23:10,stop_point:SP_1700,Adonis,4
+2295764,06:24:00,06:24:10,stop_point:SP_3201,Pont de Ginestous,5
+2295764,06:26:00,06:26:10,stop_point:SP_3444,Laurencin,6
+2295764,06:27:00,06:27:10,stop_point:SP_5203,Croizat,7
+2295764,06:27:00,06:27:10,stop_point:SP_792,Eberhardt,8
+2295764,06:28:00,06:28:10,stop_point:SP_5204,ZAC Garonne,9
+2295764,06:28:00,06:28:10,stop_point:SP_1238,ZI La Glacière,10
+2295764,06:29:00,06:29:10,stop_point:SP_3949,Pôle,11
+2295764,06:32:00,06:32:10,stop_point:SP_4478,Picarel,12
+2295764,06:34:00,06:34:10,stop_point:SP_4475,Pont de Rupé,13
+2295764,06:35:00,06:35:10,stop_point:SP_4480,Ginestous Chênes,14
+2295765,06:45:00,06:45:10,stop_point:SP_5167,Barrière de Paris,1
+2295765,06:46:00,06:46:10,stop_point:SP_2498,Brieux,2
+2295765,06:47:00,06:47:10,stop_point:SP_2326,Chaussas,3
+2295765,06:49:00,06:49:10,stop_point:SP_1700,Adonis,4
+2295765,06:50:00,06:50:10,stop_point:SP_3201,Pont de Ginestous,5
+2295765,06:52:00,06:52:10,stop_point:SP_3444,Laurencin,6
+2295765,06:53:00,06:53:10,stop_point:SP_5203,Croizat,7
+2295765,06:53:00,06:53:10,stop_point:SP_792,Eberhardt,8
+2295765,06:54:00,06:54:10,stop_point:SP_5204,ZAC Garonne,9
+2295765,06:54:00,06:54:10,stop_point:SP_1238,ZI La Glacière,10
+2295765,06:55:00,06:55:10,stop_point:SP_3949,Pôle,11
+2295765,06:58:00,06:58:10,stop_point:SP_4478,Picarel,12
+2295765,07:00:00,07:00:10,stop_point:SP_4475,Pont de Rupé,13
+2295765,07:01:00,07:01:10,stop_point:SP_4480,Ginestous Chênes,14
+2295766,07:10:00,07:10:10,stop_point:SP_5167,Barrière de Paris,1
+2295766,07:11:00,07:11:10,stop_point:SP_2498,Brieux,2
+2295766,07:12:00,07:12:10,stop_point:SP_2326,Chaussas,3
+2295766,07:14:00,07:14:10,stop_point:SP_1700,Adonis,4
+2295766,07:15:00,07:15:10,stop_point:SP_3201,Pont de Ginestous,5
+2295766,07:17:00,07:17:10,stop_point:SP_3444,Laurencin,6
+2295766,07:18:00,07:18:10,stop_point:SP_5203,Croizat,7
+2295766,07:19:00,07:19:10,stop_point:SP_792,Eberhardt,8
+2295766,07:19:00,07:19:10,stop_point:SP_5204,ZAC Garonne,9
+2295766,07:20:00,07:20:10,stop_point:SP_1238,ZI La Glacière,10
+2295766,07:21:00,07:21:10,stop_point:SP_3949,Pôle,11
+2295766,07:24:00,07:24:10,stop_point:SP_4478,Picarel,12
+2295766,07:27:00,07:27:10,stop_point:SP_4475,Pont de Rupé,13
+2295766,07:28:00,07:28:10,stop_point:SP_4480,Ginestous Chênes,14
+2295767,07:35:00,07:35:10,stop_point:SP_5167,Barrière de Paris,1
+2295767,07:36:00,07:36:10,stop_point:SP_2498,Brieux,2
+2295767,07:37:00,07:37:10,stop_point:SP_2326,Chaussas,3
+2295767,07:39:00,07:39:10,stop_point:SP_1700,Adonis,4
+2295767,07:40:00,07:40:10,stop_point:SP_3201,Pont de Ginestous,5
+2295767,07:42:00,07:42:10,stop_point:SP_3444,Laurencin,6
+2295767,07:43:00,07:43:10,stop_point:SP_5203,Croizat,7
+2295767,07:44:00,07:44:10,stop_point:SP_792,Eberhardt,8
+2295767,07:44:00,07:44:10,stop_point:SP_5204,ZAC Garonne,9
+2295767,07:45:00,07:45:10,stop_point:SP_1238,ZI La Glacière,10
+2295767,07:46:00,07:46:10,stop_point:SP_3949,Pôle,11
+2295767,07:49:00,07:49:10,stop_point:SP_4478,Picarel,12
+2295767,07:52:00,07:52:10,stop_point:SP_4475,Pont de Rupé,13
+2295767,07:53:00,07:53:10,stop_point:SP_4480,Ginestous Chênes,14
+2295768,08:00:00,08:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295768,08:01:00,08:01:10,stop_point:SP_2498,Brieux,2
+2295768,08:02:00,08:02:10,stop_point:SP_2326,Chaussas,3
+2295768,08:04:00,08:04:10,stop_point:SP_1700,Adonis,4
+2295768,08:05:00,08:05:10,stop_point:SP_3201,Pont de Ginestous,5
+2295768,08:07:00,08:07:10,stop_point:SP_3444,Laurencin,6
+2295768,08:08:00,08:08:10,stop_point:SP_5203,Croizat,7
+2295768,08:09:00,08:09:10,stop_point:SP_792,Eberhardt,8
+2295768,08:09:00,08:09:10,stop_point:SP_5204,ZAC Garonne,9
+2295768,08:10:00,08:10:10,stop_point:SP_1238,ZI La Glacière,10
+2295768,08:11:00,08:11:10,stop_point:SP_3949,Pôle,11
+2295768,08:14:00,08:14:10,stop_point:SP_4478,Picarel,12
+2295768,08:17:00,08:17:10,stop_point:SP_4475,Pont de Rupé,13
+2295768,08:18:00,08:18:10,stop_point:SP_4480,Ginestous Chênes,14
+2295769,08:25:00,08:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295769,08:26:00,08:26:10,stop_point:SP_2498,Brieux,2
+2295769,08:27:00,08:27:10,stop_point:SP_2326,Chaussas,3
+2295769,08:29:00,08:29:10,stop_point:SP_1700,Adonis,4
+2295769,08:30:00,08:30:10,stop_point:SP_3201,Pont de Ginestous,5
+2295769,08:32:00,08:32:10,stop_point:SP_3444,Laurencin,6
+2295769,08:33:00,08:33:10,stop_point:SP_5203,Croizat,7
+2295769,08:34:00,08:34:10,stop_point:SP_792,Eberhardt,8
+2295769,08:34:00,08:34:10,stop_point:SP_5204,ZAC Garonne,9
+2295769,08:35:00,08:35:10,stop_point:SP_1238,ZI La Glacière,10
+2295769,08:36:00,08:36:10,stop_point:SP_3949,Pôle,11
+2295769,08:39:00,08:39:10,stop_point:SP_4478,Picarel,12
+2295769,08:42:00,08:42:10,stop_point:SP_4475,Pont de Rupé,13
+2295769,08:43:00,08:43:10,stop_point:SP_4480,Ginestous Chênes,14
+2295770,08:50:00,08:50:10,stop_point:SP_5167,Barrière de Paris,1
+2295770,08:51:00,08:51:10,stop_point:SP_2498,Brieux,2
+2295770,08:52:00,08:52:10,stop_point:SP_2326,Chaussas,3
+2295770,08:54:00,08:54:10,stop_point:SP_1700,Adonis,4
+2295770,08:55:00,08:55:10,stop_point:SP_3201,Pont de Ginestous,5
+2295770,08:57:00,08:57:10,stop_point:SP_3444,Laurencin,6
+2295770,08:58:00,08:58:10,stop_point:SP_5203,Croizat,7
+2295770,08:59:00,08:59:10,stop_point:SP_792,Eberhardt,8
+2295770,08:59:00,08:59:10,stop_point:SP_5204,ZAC Garonne,9
+2295770,09:00:00,09:00:10,stop_point:SP_1238,ZI La Glacière,10
+2295770,09:01:00,09:01:10,stop_point:SP_3949,Pôle,11
+2295770,09:04:00,09:04:10,stop_point:SP_4478,Picarel,12
+2295770,09:07:00,09:07:10,stop_point:SP_4475,Pont de Rupé,13
+2295770,09:08:00,09:08:10,stop_point:SP_4480,Ginestous Chênes,14
+2295771,09:15:00,09:15:10,stop_point:SP_5167,Barrière de Paris,1
+2295771,09:16:00,09:16:10,stop_point:SP_2498,Brieux,2
+2295771,09:17:00,09:17:10,stop_point:SP_2326,Chaussas,3
+2295771,09:19:00,09:19:10,stop_point:SP_1700,Adonis,4
+2295771,09:20:00,09:20:10,stop_point:SP_3201,Pont de Ginestous,5
+2295771,09:22:00,09:22:10,stop_point:SP_3444,Laurencin,6
+2295771,09:23:00,09:23:10,stop_point:SP_5203,Croizat,7
+2295771,09:24:00,09:24:10,stop_point:SP_792,Eberhardt,8
+2295771,09:24:00,09:24:10,stop_point:SP_5204,ZAC Garonne,9
+2295771,09:25:00,09:25:10,stop_point:SP_1238,ZI La Glacière,10
+2295771,09:26:00,09:26:10,stop_point:SP_3949,Pôle,11
+2295771,09:29:00,09:29:10,stop_point:SP_4478,Picarel,12
+2295771,09:32:00,09:32:10,stop_point:SP_4475,Pont de Rupé,13
+2295771,09:33:00,09:33:10,stop_point:SP_4480,Ginestous Chênes,14
+2295772,10:00:00,10:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295772,10:01:00,10:01:10,stop_point:SP_2498,Brieux,2
+2295772,10:02:00,10:02:10,stop_point:SP_2326,Chaussas,3
+2295772,10:03:00,10:03:10,stop_point:SP_1700,Adonis,4
+2295772,10:04:00,10:04:10,stop_point:SP_3201,Pont de Ginestous,5
+2295772,10:06:00,10:06:10,stop_point:SP_3444,Laurencin,6
+2295772,10:07:00,10:07:10,stop_point:SP_5203,Croizat,7
+2295772,10:07:00,10:07:10,stop_point:SP_792,Eberhardt,8
+2295772,10:08:00,10:08:10,stop_point:SP_5204,ZAC Garonne,9
+2295772,10:08:00,10:08:10,stop_point:SP_1238,ZI La Glacière,10
+2295772,10:09:00,10:09:10,stop_point:SP_3949,Pôle,11
+2295772,10:12:00,10:12:10,stop_point:SP_4478,Picarel,12
+2295772,10:14:00,10:14:10,stop_point:SP_4475,Pont de Rupé,13
+2295772,10:15:00,10:15:10,stop_point:SP_4480,Ginestous Chênes,14
+2295773,10:40:00,10:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295773,10:41:00,10:41:10,stop_point:SP_2498,Brieux,2
+2295773,10:42:00,10:42:10,stop_point:SP_2326,Chaussas,3
+2295773,10:43:00,10:43:10,stop_point:SP_1700,Adonis,4
+2295773,10:44:00,10:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295773,10:46:00,10:46:10,stop_point:SP_3444,Laurencin,6
+2295773,10:47:00,10:47:10,stop_point:SP_5203,Croizat,7
+2295773,10:47:00,10:47:10,stop_point:SP_792,Eberhardt,8
+2295773,10:48:00,10:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295773,10:48:00,10:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295773,10:49:00,10:49:10,stop_point:SP_3949,Pôle,11
+2295773,10:52:00,10:52:10,stop_point:SP_4478,Picarel,12
+2295773,10:54:00,10:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295773,10:55:00,10:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295774,11:20:00,11:20:10,stop_point:SP_5167,Barrière de Paris,1
+2295774,11:21:00,11:21:10,stop_point:SP_2498,Brieux,2
+2295774,11:22:00,11:22:10,stop_point:SP_2326,Chaussas,3
+2295774,11:23:00,11:23:10,stop_point:SP_1700,Adonis,4
+2295774,11:24:00,11:24:10,stop_point:SP_3201,Pont de Ginestous,5
+2295774,11:26:00,11:26:10,stop_point:SP_3444,Laurencin,6
+2295774,11:27:00,11:27:10,stop_point:SP_5203,Croizat,7
+2295774,11:27:00,11:27:10,stop_point:SP_792,Eberhardt,8
+2295774,11:28:00,11:28:10,stop_point:SP_5204,ZAC Garonne,9
+2295774,11:28:00,11:28:10,stop_point:SP_1238,ZI La Glacière,10
+2295774,11:29:00,11:29:10,stop_point:SP_3949,Pôle,11
+2295774,11:32:00,11:32:10,stop_point:SP_4478,Picarel,12
+2295774,11:34:00,11:34:10,stop_point:SP_4475,Pont de Rupé,13
+2295774,11:35:00,11:35:10,stop_point:SP_4480,Ginestous Chênes,14
+2295775,12:00:00,12:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295775,12:01:00,12:01:10,stop_point:SP_2498,Brieux,2
+2295775,12:02:00,12:02:10,stop_point:SP_2326,Chaussas,3
+2295775,12:03:00,12:03:10,stop_point:SP_1700,Adonis,4
+2295775,12:04:00,12:04:10,stop_point:SP_3201,Pont de Ginestous,5
+2295775,12:06:00,12:06:10,stop_point:SP_3444,Laurencin,6
+2295775,12:07:00,12:07:10,stop_point:SP_5203,Croizat,7
+2295775,12:07:00,12:07:10,stop_point:SP_792,Eberhardt,8
+2295775,12:08:00,12:08:10,stop_point:SP_5204,ZAC Garonne,9
+2295775,12:08:00,12:08:10,stop_point:SP_1238,ZI La Glacière,10
+2295775,12:09:00,12:09:10,stop_point:SP_3949,Pôle,11
+2295775,12:12:00,12:12:10,stop_point:SP_4478,Picarel,12
+2295775,12:14:00,12:14:10,stop_point:SP_4475,Pont de Rupé,13
+2295775,12:15:00,12:15:10,stop_point:SP_4480,Ginestous Chênes,14
+2295776,12:40:00,12:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295776,12:41:00,12:41:10,stop_point:SP_2498,Brieux,2
+2295776,12:42:00,12:42:10,stop_point:SP_2326,Chaussas,3
+2295776,12:43:00,12:43:10,stop_point:SP_1700,Adonis,4
+2295776,12:44:00,12:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295776,12:46:00,12:46:10,stop_point:SP_3444,Laurencin,6
+2295776,12:47:00,12:47:10,stop_point:SP_5203,Croizat,7
+2295776,12:47:00,12:47:10,stop_point:SP_792,Eberhardt,8
+2295776,12:48:00,12:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295776,12:48:00,12:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295776,12:49:00,12:49:10,stop_point:SP_3949,Pôle,11
+2295776,12:52:00,12:52:10,stop_point:SP_4478,Picarel,12
+2295776,12:54:00,12:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295776,12:55:00,12:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295777,13:15:00,13:15:10,stop_point:SP_5167,Barrière de Paris,1
+2295777,13:16:00,13:16:10,stop_point:SP_2498,Brieux,2
+2295777,13:17:00,13:17:10,stop_point:SP_2326,Chaussas,3
+2295777,13:18:00,13:18:10,stop_point:SP_1700,Adonis,4
+2295777,13:19:00,13:19:10,stop_point:SP_3201,Pont de Ginestous,5
+2295777,13:21:00,13:21:10,stop_point:SP_3444,Laurencin,6
+2295777,13:22:00,13:22:10,stop_point:SP_5203,Croizat,7
+2295777,13:22:00,13:22:10,stop_point:SP_792,Eberhardt,8
+2295777,13:23:00,13:23:10,stop_point:SP_5204,ZAC Garonne,9
+2295777,13:23:00,13:23:10,stop_point:SP_1238,ZI La Glacière,10
+2295777,13:24:00,13:24:10,stop_point:SP_3949,Pôle,11
+2295777,13:27:00,13:27:10,stop_point:SP_4478,Picarel,12
+2295777,13:29:00,13:29:10,stop_point:SP_4475,Pont de Rupé,13
+2295777,13:30:00,13:30:10,stop_point:SP_4480,Ginestous Chênes,14
+2295778,13:55:00,13:55:10,stop_point:SP_5167,Barrière de Paris,1
+2295778,13:56:00,13:56:10,stop_point:SP_2498,Brieux,2
+2295778,13:57:00,13:57:10,stop_point:SP_2326,Chaussas,3
+2295778,13:58:00,13:58:10,stop_point:SP_1700,Adonis,4
+2295778,13:59:00,13:59:10,stop_point:SP_3201,Pont de Ginestous,5
+2295778,14:01:00,14:01:10,stop_point:SP_3444,Laurencin,6
+2295778,14:02:00,14:02:10,stop_point:SP_5203,Croizat,7
+2295778,14:02:00,14:02:10,stop_point:SP_792,Eberhardt,8
+2295778,14:03:00,14:03:10,stop_point:SP_5204,ZAC Garonne,9
+2295778,14:03:00,14:03:10,stop_point:SP_1238,ZI La Glacière,10
+2295778,14:04:00,14:04:10,stop_point:SP_3949,Pôle,11
+2295778,14:07:00,14:07:10,stop_point:SP_4478,Picarel,12
+2295778,14:09:00,14:09:10,stop_point:SP_4475,Pont de Rupé,13
+2295778,14:10:00,14:10:10,stop_point:SP_4480,Ginestous Chênes,14
+2295779,14:35:00,14:35:10,stop_point:SP_5167,Barrière de Paris,1
+2295779,14:36:00,14:36:10,stop_point:SP_2498,Brieux,2
+2295779,14:37:00,14:37:10,stop_point:SP_2326,Chaussas,3
+2295779,14:38:00,14:38:10,stop_point:SP_1700,Adonis,4
+2295779,14:39:00,14:39:10,stop_point:SP_3201,Pont de Ginestous,5
+2295779,14:41:00,14:41:10,stop_point:SP_3444,Laurencin,6
+2295779,14:42:00,14:42:10,stop_point:SP_5203,Croizat,7
+2295779,14:42:00,14:42:10,stop_point:SP_792,Eberhardt,8
+2295779,14:43:00,14:43:10,stop_point:SP_5204,ZAC Garonne,9
+2295779,14:43:00,14:43:10,stop_point:SP_1238,ZI La Glacière,10
+2295779,14:44:00,14:44:10,stop_point:SP_3949,Pôle,11
+2295779,14:47:00,14:47:10,stop_point:SP_4478,Picarel,12
+2295779,14:49:00,14:49:10,stop_point:SP_4475,Pont de Rupé,13
+2295779,14:50:00,14:50:10,stop_point:SP_4480,Ginestous Chênes,14
+2295780,15:15:00,15:15:10,stop_point:SP_5167,Barrière de Paris,1
+2295780,15:16:00,15:16:10,stop_point:SP_2498,Brieux,2
+2295780,15:17:00,15:17:10,stop_point:SP_2326,Chaussas,3
+2295780,15:18:00,15:18:10,stop_point:SP_1700,Adonis,4
+2295780,15:19:00,15:19:10,stop_point:SP_3201,Pont de Ginestous,5
+2295780,15:21:00,15:21:10,stop_point:SP_3444,Laurencin,6
+2295780,15:22:00,15:22:10,stop_point:SP_5203,Croizat,7
+2295780,15:22:00,15:22:10,stop_point:SP_792,Eberhardt,8
+2295780,15:23:00,15:23:10,stop_point:SP_5204,ZAC Garonne,9
+2295780,15:23:00,15:23:10,stop_point:SP_1238,ZI La Glacière,10
+2295780,15:24:00,15:24:10,stop_point:SP_3949,Pôle,11
+2295780,15:27:00,15:27:10,stop_point:SP_4478,Picarel,12
+2295780,15:29:00,15:29:10,stop_point:SP_4475,Pont de Rupé,13
+2295780,15:30:00,15:30:10,stop_point:SP_4480,Ginestous Chênes,14
+2295781,15:55:00,15:55:10,stop_point:SP_5167,Barrière de Paris,1
+2295781,15:56:00,15:56:10,stop_point:SP_2498,Brieux,2
+2295781,15:57:00,15:57:10,stop_point:SP_2326,Chaussas,3
+2295781,15:58:00,15:58:10,stop_point:SP_1700,Adonis,4
+2295781,15:59:00,15:59:10,stop_point:SP_3201,Pont de Ginestous,5
+2295781,16:01:00,16:01:10,stop_point:SP_3444,Laurencin,6
+2295781,16:02:00,16:02:10,stop_point:SP_5203,Croizat,7
+2295781,16:02:00,16:02:10,stop_point:SP_792,Eberhardt,8
+2295781,16:03:00,16:03:10,stop_point:SP_5204,ZAC Garonne,9
+2295781,16:03:00,16:03:10,stop_point:SP_1238,ZI La Glacière,10
+2295781,16:04:00,16:04:10,stop_point:SP_3949,Pôle,11
+2295781,16:07:00,16:07:10,stop_point:SP_4478,Picarel,12
+2295781,16:09:00,16:09:10,stop_point:SP_4475,Pont de Rupé,13
+2295781,16:10:00,16:10:10,stop_point:SP_4480,Ginestous Chênes,14
+2295782,16:25:00,16:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295782,16:26:00,16:26:10,stop_point:SP_2498,Brieux,2
+2295782,16:27:00,16:27:10,stop_point:SP_2326,Chaussas,3
+2295782,16:29:00,16:29:10,stop_point:SP_1700,Adonis,4
+2295782,16:30:00,16:30:10,stop_point:SP_3201,Pont de Ginestous,5
+2295782,16:32:00,16:32:10,stop_point:SP_3444,Laurencin,6
+2295782,16:33:00,16:33:10,stop_point:SP_5203,Croizat,7
+2295782,16:34:00,16:34:10,stop_point:SP_792,Eberhardt,8
+2295782,16:34:00,16:34:10,stop_point:SP_5204,ZAC Garonne,9
+2295782,16:35:00,16:35:10,stop_point:SP_1238,ZI La Glacière,10
+2295782,16:36:00,16:36:10,stop_point:SP_3949,Pôle,11
+2295782,16:39:00,16:39:10,stop_point:SP_4478,Picarel,12
+2295782,16:42:00,16:42:10,stop_point:SP_4475,Pont de Rupé,13
+2295782,16:43:00,16:43:10,stop_point:SP_4480,Ginestous Chênes,14
+2295783,16:45:00,16:45:10,stop_point:SP_5167,Barrière de Paris,1
+2295783,16:46:00,16:46:10,stop_point:SP_2498,Brieux,2
+2295783,16:47:00,16:47:10,stop_point:SP_2326,Chaussas,3
+2295783,16:49:00,16:49:10,stop_point:SP_1700,Adonis,4
+2295783,16:50:00,16:50:10,stop_point:SP_3201,Pont de Ginestous,5
+2295783,16:52:00,16:52:10,stop_point:SP_3444,Laurencin,6
+2295783,16:53:00,16:53:10,stop_point:SP_5203,Croizat,7
+2295783,16:54:00,16:54:10,stop_point:SP_792,Eberhardt,8
+2295783,16:54:00,16:54:10,stop_point:SP_5204,ZAC Garonne,9
+2295783,16:55:00,16:55:10,stop_point:SP_1238,ZI La Glacière,10
+2295783,16:56:00,16:56:10,stop_point:SP_3949,Pôle,11
+2295783,16:59:00,16:59:10,stop_point:SP_4478,Picarel,12
+2295783,17:02:00,17:02:10,stop_point:SP_4475,Pont de Rupé,13
+2295783,17:03:00,17:03:10,stop_point:SP_4480,Ginestous Chênes,14
+2295784,17:10:00,17:10:10,stop_point:SP_5167,Barrière de Paris,1
+2295784,17:11:00,17:11:10,stop_point:SP_2498,Brieux,2
+2295784,17:12:00,17:12:10,stop_point:SP_2326,Chaussas,3
+2295784,17:14:00,17:14:10,stop_point:SP_1700,Adonis,4
+2295784,17:15:00,17:15:10,stop_point:SP_3201,Pont de Ginestous,5
+2295784,17:17:00,17:17:10,stop_point:SP_3444,Laurencin,6
+2295784,17:18:00,17:18:10,stop_point:SP_5203,Croizat,7
+2295784,17:19:00,17:19:10,stop_point:SP_792,Eberhardt,8
+2295784,17:19:00,17:19:10,stop_point:SP_5204,ZAC Garonne,9
+2295784,17:20:00,17:20:10,stop_point:SP_1238,ZI La Glacière,10
+2295784,17:21:00,17:21:10,stop_point:SP_3949,Pôle,11
+2295784,17:24:00,17:24:10,stop_point:SP_4478,Picarel,12
+2295784,17:27:00,17:27:10,stop_point:SP_4475,Pont de Rupé,13
+2295784,17:28:00,17:28:10,stop_point:SP_4480,Ginestous Chênes,14
+2295785,17:35:00,17:35:10,stop_point:SP_5167,Barrière de Paris,1
+2295785,17:36:00,17:36:10,stop_point:SP_2498,Brieux,2
+2295785,17:37:00,17:37:10,stop_point:SP_2326,Chaussas,3
+2295785,17:39:00,17:39:10,stop_point:SP_1700,Adonis,4
+2295785,17:40:00,17:40:10,stop_point:SP_3201,Pont de Ginestous,5
+2295785,17:42:00,17:42:10,stop_point:SP_3444,Laurencin,6
+2295785,17:43:00,17:43:10,stop_point:SP_5203,Croizat,7
+2295785,17:44:00,17:44:10,stop_point:SP_792,Eberhardt,8
+2295785,17:44:00,17:44:10,stop_point:SP_5204,ZAC Garonne,9
+2295785,17:45:00,17:45:10,stop_point:SP_1238,ZI La Glacière,10
+2295785,17:46:00,17:46:10,stop_point:SP_3949,Pôle,11
+2295785,17:49:00,17:49:10,stop_point:SP_4478,Picarel,12
+2295785,17:52:00,17:52:10,stop_point:SP_4475,Pont de Rupé,13
+2295785,17:53:00,17:53:10,stop_point:SP_4480,Ginestous Chênes,14
+2295786,18:00:00,18:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295786,18:01:00,18:01:10,stop_point:SP_2498,Brieux,2
+2295786,18:02:00,18:02:10,stop_point:SP_2326,Chaussas,3
+2295786,18:04:00,18:04:10,stop_point:SP_1700,Adonis,4
+2295786,18:05:00,18:05:10,stop_point:SP_3201,Pont de Ginestous,5
+2295786,18:07:00,18:07:10,stop_point:SP_3444,Laurencin,6
+2295786,18:08:00,18:08:10,stop_point:SP_5203,Croizat,7
+2295786,18:09:00,18:09:10,stop_point:SP_792,Eberhardt,8
+2295786,18:09:00,18:09:10,stop_point:SP_5204,ZAC Garonne,9
+2295786,18:10:00,18:10:10,stop_point:SP_1238,ZI La Glacière,10
+2295786,18:11:00,18:11:10,stop_point:SP_3949,Pôle,11
+2295786,18:14:00,18:14:10,stop_point:SP_4478,Picarel,12
+2295786,18:17:00,18:17:10,stop_point:SP_4475,Pont de Rupé,13
+2295786,18:18:00,18:18:10,stop_point:SP_4480,Ginestous Chênes,14
+2295787,18:25:00,18:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295787,18:26:00,18:26:10,stop_point:SP_2498,Brieux,2
+2295787,18:27:00,18:27:10,stop_point:SP_2326,Chaussas,3
+2295787,18:29:00,18:29:10,stop_point:SP_1700,Adonis,4
+2295787,18:30:00,18:30:10,stop_point:SP_3201,Pont de Ginestous,5
+2295787,18:32:00,18:32:10,stop_point:SP_3444,Laurencin,6
+2295787,18:33:00,18:33:10,stop_point:SP_5203,Croizat,7
+2295787,18:34:00,18:34:10,stop_point:SP_792,Eberhardt,8
+2295787,18:34:00,18:34:10,stop_point:SP_5204,ZAC Garonne,9
+2295787,18:35:00,18:35:10,stop_point:SP_1238,ZI La Glacière,10
+2295787,18:36:00,18:36:10,stop_point:SP_3949,Pôle,11
+2295787,18:39:00,18:39:10,stop_point:SP_4478,Picarel,12
+2295787,18:42:00,18:42:10,stop_point:SP_4475,Pont de Rupé,13
+2295787,18:43:00,18:43:10,stop_point:SP_4480,Ginestous Chênes,14
+2295788,18:50:00,18:50:10,stop_point:SP_5167,Barrière de Paris,1
+2295788,18:51:00,18:51:10,stop_point:SP_2498,Brieux,2
+2295788,18:52:00,18:52:10,stop_point:SP_2326,Chaussas,3
+2295788,18:54:00,18:54:10,stop_point:SP_1700,Adonis,4
+2295788,18:55:00,18:55:10,stop_point:SP_3201,Pont de Ginestous,5
+2295788,18:57:00,18:57:10,stop_point:SP_3444,Laurencin,6
+2295788,18:58:00,18:58:10,stop_point:SP_5203,Croizat,7
+2295788,18:58:00,18:58:10,stop_point:SP_792,Eberhardt,8
+2295788,18:59:00,18:59:10,stop_point:SP_5204,ZAC Garonne,9
+2295788,18:59:00,18:59:10,stop_point:SP_1238,ZI La Glacière,10
+2295788,19:00:00,19:00:10,stop_point:SP_3949,Pôle,11
+2295788,19:03:00,19:03:10,stop_point:SP_4478,Picarel,12
+2295788,19:05:00,19:05:10,stop_point:SP_4475,Pont de Rupé,13
+2295788,19:06:00,19:06:10,stop_point:SP_4480,Ginestous Chênes,14
+2295789,19:30:00,19:30:10,stop_point:SP_5167,Barrière de Paris,1
+2295789,19:31:00,19:31:10,stop_point:SP_2498,Brieux,2
+2295789,19:32:00,19:32:10,stop_point:SP_2326,Chaussas,3
+2295789,19:33:00,19:33:10,stop_point:SP_1700,Adonis,4
+2295789,19:34:00,19:34:10,stop_point:SP_3201,Pont de Ginestous,5
+2295789,19:36:00,19:36:10,stop_point:SP_3444,Laurencin,6
+2295789,19:37:00,19:37:10,stop_point:SP_5203,Croizat,7
+2295789,19:37:00,19:37:10,stop_point:SP_792,Eberhardt,8
+2295789,19:38:00,19:38:10,stop_point:SP_5204,ZAC Garonne,9
+2295789,19:38:00,19:38:10,stop_point:SP_1238,ZI La Glacière,10
+2295789,19:39:00,19:39:10,stop_point:SP_3949,Pôle,11
+2295789,19:42:00,19:42:10,stop_point:SP_4478,Picarel,12
+2295789,19:44:00,19:44:10,stop_point:SP_4475,Pont de Rupé,13
+2295789,19:45:00,19:45:10,stop_point:SP_4480,Ginestous Chênes,14
+2295790,20:05:00,20:05:10,stop_point:SP_5167,Barrière de Paris,1
+2295790,20:06:00,20:06:10,stop_point:SP_2498,Brieux,2
+2295790,20:07:00,20:07:10,stop_point:SP_2326,Chaussas,3
+2295790,20:08:00,20:08:10,stop_point:SP_1700,Adonis,4
+2295790,20:09:00,20:09:10,stop_point:SP_3201,Pont de Ginestous,5
+2295790,20:11:00,20:11:10,stop_point:SP_3444,Laurencin,6
+2295790,20:12:00,20:12:10,stop_point:SP_5203,Croizat,7
+2295790,20:12:00,20:12:10,stop_point:SP_792,Eberhardt,8
+2295790,20:13:00,20:13:10,stop_point:SP_5204,ZAC Garonne,9
+2295790,20:13:00,20:13:10,stop_point:SP_1238,ZI La Glacière,10
+2295790,20:14:00,20:14:10,stop_point:SP_3949,Pôle,11
+2295790,20:17:00,20:17:10,stop_point:SP_4478,Picarel,12
+2295790,20:19:00,20:19:10,stop_point:SP_4475,Pont de Rupé,13
+2295790,20:20:00,20:20:10,stop_point:SP_4480,Ginestous Chênes,14
+2295791,20:40:00,20:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295791,20:41:00,20:41:10,stop_point:SP_2498,Brieux,2
+2295791,20:42:00,20:42:10,stop_point:SP_2326,Chaussas,3
+2295791,20:43:00,20:43:10,stop_point:SP_1700,Adonis,4
+2295791,20:44:00,20:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295791,20:46:00,20:46:10,stop_point:SP_3444,Laurencin,6
+2295791,20:47:00,20:47:10,stop_point:SP_5203,Croizat,7
+2295791,20:47:00,20:47:10,stop_point:SP_792,Eberhardt,8
+2295791,20:48:00,20:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295791,20:48:00,20:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295791,20:49:00,20:49:10,stop_point:SP_3949,Pôle,11
+2295791,20:52:00,20:52:10,stop_point:SP_4478,Picarel,12
+2295791,20:54:00,20:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295791,20:55:00,20:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295792,06:15:00,06:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295792,06:16:00,06:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295792,06:18:00,06:18:10,stop_point:SP_4477,Picarel,3
+2295792,06:21:00,06:21:10,stop_point:SP_4479,Pôle,4
+2295792,06:22:00,06:22:10,stop_point:SP_3331,ZI La Glacière,5
+2295792,06:23:00,06:23:10,stop_point:SP_5190,ZAC Garonne,6
+2295792,06:24:00,06:24:10,stop_point:SP_2313,Eberhardt,7
+2295792,06:25:00,06:25:10,stop_point:SP_5201,Croizat,8
+2295792,06:26:00,06:26:10,stop_point:SP_1375,Laurencin,9
+2295792,06:28:00,06:28:10,stop_point:SP_1306,Pont de Ginestous,10
+2295792,06:30:00,06:30:10,stop_point:SP_956,Adonis,11
+2295792,06:31:00,06:31:10,stop_point:SP_3362,Fonquerne,12
+2295792,06:32:00,06:32:10,stop_point:SP_1409,Rateau,13
+2295792,06:33:00,06:33:10,stop_point:SP_124,Silvio Trentin,14
+2295792,06:35:00,06:35:10,stop_point:SP_3068,Barrière de Paris,15
+2295792,06:36:00,06:36:10,stop_point:SP_5167,Barrière de Paris,16
+2295793,06:40:00,06:40:10,stop_point:SP_4480,Ginestous Chênes,1
+2295793,06:41:00,06:41:10,stop_point:SP_4476,Pont de Rupé,2
+2295793,06:43:00,06:43:10,stop_point:SP_4477,Picarel,3
+2295793,06:46:00,06:46:10,stop_point:SP_4479,Pôle,4
+2295793,06:47:00,06:47:10,stop_point:SP_3331,ZI La Glacière,5
+2295793,06:48:00,06:48:10,stop_point:SP_5190,ZAC Garonne,6
+2295793,06:49:00,06:49:10,stop_point:SP_2313,Eberhardt,7
+2295793,06:50:00,06:50:10,stop_point:SP_5201,Croizat,8
+2295793,06:51:00,06:51:10,stop_point:SP_1375,Laurencin,9
+2295793,06:53:00,06:53:10,stop_point:SP_1306,Pont de Ginestous,10
+2295793,06:55:00,06:55:10,stop_point:SP_956,Adonis,11
+2295793,06:56:00,06:56:10,stop_point:SP_3362,Fonquerne,12
+2295793,06:57:00,06:57:10,stop_point:SP_1409,Rateau,13
+2295793,06:58:00,06:58:10,stop_point:SP_124,Silvio Trentin,14
+2295793,07:00:00,07:00:10,stop_point:SP_3068,Barrière de Paris,15
+2295793,07:01:00,07:01:10,stop_point:SP_5167,Barrière de Paris,16
+2295794,07:05:00,07:05:10,stop_point:SP_4480,Ginestous Chênes,1
+2295794,07:06:00,07:06:10,stop_point:SP_4476,Pont de Rupé,2
+2295794,07:09:00,07:09:10,stop_point:SP_4477,Picarel,3
+2295794,07:12:00,07:12:10,stop_point:SP_4479,Pôle,4
+2295794,07:14:00,07:14:10,stop_point:SP_3331,ZI La Glacière,5
+2295794,07:16:00,07:16:10,stop_point:SP_5190,ZAC Garonne,6
+2295794,07:16:00,07:16:10,stop_point:SP_2313,Eberhardt,7
+2295794,07:18:00,07:18:10,stop_point:SP_5201,Croizat,8
+2295794,07:20:00,07:20:10,stop_point:SP_1375,Laurencin,9
+2295794,07:24:00,07:24:10,stop_point:SP_1306,Pont de Ginestous,10
+2295794,07:26:00,07:26:10,stop_point:SP_956,Adonis,11
+2295794,07:28:00,07:28:10,stop_point:SP_3362,Fonquerne,12
+2295794,07:30:00,07:30:10,stop_point:SP_1409,Rateau,13
+2295794,07:31:00,07:31:10,stop_point:SP_124,Silvio Trentin,14
+2295794,07:34:00,07:34:10,stop_point:SP_3068,Barrière de Paris,15
+2295794,07:35:00,07:35:10,stop_point:SP_5167,Barrière de Paris,16
+2295795,07:30:00,07:30:10,stop_point:SP_4480,Ginestous Chênes,1
+2295795,07:31:00,07:31:10,stop_point:SP_4476,Pont de Rupé,2
+2295795,07:34:00,07:34:10,stop_point:SP_4477,Picarel,3
+2295795,07:37:00,07:37:10,stop_point:SP_4479,Pôle,4
+2295795,07:39:00,07:39:10,stop_point:SP_3331,ZI La Glacière,5
+2295795,07:41:00,07:41:10,stop_point:SP_5190,ZAC Garonne,6
+2295795,07:41:00,07:41:10,stop_point:SP_2313,Eberhardt,7
+2295795,07:43:00,07:43:10,stop_point:SP_5201,Croizat,8
+2295795,07:45:00,07:45:10,stop_point:SP_1375,Laurencin,9
+2295795,07:49:00,07:49:10,stop_point:SP_1306,Pont de Ginestous,10
+2295795,07:51:00,07:51:10,stop_point:SP_956,Adonis,11
+2295795,07:53:00,07:53:10,stop_point:SP_3362,Fonquerne,12
+2295795,07:55:00,07:55:10,stop_point:SP_1409,Rateau,13
+2295795,07:56:00,07:56:10,stop_point:SP_124,Silvio Trentin,14
+2295795,07:59:00,07:59:10,stop_point:SP_3068,Barrière de Paris,15
+2295795,08:00:00,08:00:10,stop_point:SP_5167,Barrière de Paris,16
+2295796,07:55:00,07:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295796,07:56:00,07:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295796,07:59:00,07:59:10,stop_point:SP_4477,Picarel,3
+2295796,08:02:00,08:02:10,stop_point:SP_4479,Pôle,4
+2295796,08:04:00,08:04:10,stop_point:SP_3331,ZI La Glacière,5
+2295796,08:06:00,08:06:10,stop_point:SP_5190,ZAC Garonne,6
+2295796,08:06:00,08:06:10,stop_point:SP_2313,Eberhardt,7
+2295796,08:08:00,08:08:10,stop_point:SP_5201,Croizat,8
+2295796,08:10:00,08:10:10,stop_point:SP_1375,Laurencin,9
+2295796,08:14:00,08:14:10,stop_point:SP_1306,Pont de Ginestous,10
+2295796,08:16:00,08:16:10,stop_point:SP_956,Adonis,11
+2295796,08:18:00,08:18:10,stop_point:SP_3362,Fonquerne,12
+2295796,08:20:00,08:20:10,stop_point:SP_1409,Rateau,13
+2295796,08:21:00,08:21:10,stop_point:SP_124,Silvio Trentin,14
+2295796,08:24:00,08:24:10,stop_point:SP_3068,Barrière de Paris,15
+2295796,08:25:00,08:25:10,stop_point:SP_5167,Barrière de Paris,16
+2295797,08:20:00,08:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295797,08:21:00,08:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295797,08:24:00,08:24:10,stop_point:SP_4477,Picarel,3
+2295797,08:27:00,08:27:10,stop_point:SP_4479,Pôle,4
+2295797,08:29:00,08:29:10,stop_point:SP_3331,ZI La Glacière,5
+2295797,08:31:00,08:31:10,stop_point:SP_5190,ZAC Garonne,6
+2295797,08:31:00,08:31:10,stop_point:SP_2313,Eberhardt,7
+2295797,08:33:00,08:33:10,stop_point:SP_5201,Croizat,8
+2295797,08:35:00,08:35:10,stop_point:SP_1375,Laurencin,9
+2295797,08:39:00,08:39:10,stop_point:SP_1306,Pont de Ginestous,10
+2295797,08:41:00,08:41:10,stop_point:SP_956,Adonis,11
+2295797,08:43:00,08:43:10,stop_point:SP_3362,Fonquerne,12
+2295797,08:45:00,08:45:10,stop_point:SP_1409,Rateau,13
+2295797,08:46:00,08:46:10,stop_point:SP_124,Silvio Trentin,14
+2295797,08:49:00,08:49:10,stop_point:SP_3068,Barrière de Paris,15
+2295797,08:50:00,08:50:10,stop_point:SP_5167,Barrière de Paris,16
+2295798,08:45:00,08:45:10,stop_point:SP_4480,Ginestous Chênes,1
+2295798,08:46:00,08:46:10,stop_point:SP_4476,Pont de Rupé,2
+2295798,08:49:00,08:49:10,stop_point:SP_4477,Picarel,3
+2295798,08:52:00,08:52:10,stop_point:SP_4479,Pôle,4
+2295798,08:54:00,08:54:10,stop_point:SP_3331,ZI La Glacière,5
+2295798,08:56:00,08:56:10,stop_point:SP_5190,ZAC Garonne,6
+2295798,08:56:00,08:56:10,stop_point:SP_2313,Eberhardt,7
+2295798,08:58:00,08:58:10,stop_point:SP_5201,Croizat,8
+2295798,09:00:00,09:00:10,stop_point:SP_1375,Laurencin,9
+2295798,09:04:00,09:04:10,stop_point:SP_1306,Pont de Ginestous,10
+2295798,09:06:00,09:06:10,stop_point:SP_956,Adonis,11
+2295798,09:08:00,09:08:10,stop_point:SP_3362,Fonquerne,12
+2295798,09:10:00,09:10:10,stop_point:SP_1409,Rateau,13
+2295798,09:11:00,09:11:10,stop_point:SP_124,Silvio Trentin,14
+2295798,09:14:00,09:14:10,stop_point:SP_3068,Barrière de Paris,15
+2295798,09:15:00,09:15:10,stop_point:SP_5167,Barrière de Paris,16
+2295799,09:10:00,09:10:10,stop_point:SP_4480,Ginestous Chênes,1
+2295799,09:11:00,09:11:10,stop_point:SP_4476,Pont de Rupé,2
+2295799,09:14:00,09:14:10,stop_point:SP_4477,Picarel,3
+2295799,09:17:00,09:17:10,stop_point:SP_4479,Pôle,4
+2295799,09:19:00,09:19:10,stop_point:SP_3331,ZI La Glacière,5
+2295799,09:21:00,09:21:10,stop_point:SP_5190,ZAC Garonne,6
+2295799,09:21:00,09:21:10,stop_point:SP_2313,Eberhardt,7
+2295799,09:23:00,09:23:10,stop_point:SP_5201,Croizat,8
+2295799,09:25:00,09:25:10,stop_point:SP_1375,Laurencin,9
+2295799,09:29:00,09:29:10,stop_point:SP_1306,Pont de Ginestous,10
+2295799,09:31:00,09:31:10,stop_point:SP_956,Adonis,11
+2295799,09:33:00,09:33:10,stop_point:SP_3362,Fonquerne,12
+2295799,09:35:00,09:35:10,stop_point:SP_1409,Rateau,13
+2295799,09:36:00,09:36:10,stop_point:SP_124,Silvio Trentin,14
+2295799,09:39:00,09:39:10,stop_point:SP_3068,Barrière de Paris,15
+2295799,09:40:00,09:40:10,stop_point:SP_5167,Barrière de Paris,16
+2295800,09:35:00,09:35:10,stop_point:SP_4480,Ginestous Chênes,1
+2295800,09:36:00,09:36:10,stop_point:SP_4476,Pont de Rupé,2
+2295800,09:38:00,09:38:10,stop_point:SP_4477,Picarel,3
+2295800,09:41:00,09:41:10,stop_point:SP_4479,Pôle,4
+2295800,09:42:00,09:42:10,stop_point:SP_3331,ZI La Glacière,5
+2295800,09:43:00,09:43:10,stop_point:SP_5190,ZAC Garonne,6
+2295800,09:43:00,09:43:10,stop_point:SP_2313,Eberhardt,7
+2295800,09:44:00,09:44:10,stop_point:SP_5201,Croizat,8
+2295800,09:45:00,09:45:10,stop_point:SP_1375,Laurencin,9
+2295800,09:47:00,09:47:10,stop_point:SP_1306,Pont de Ginestous,10
+2295800,09:48:00,09:48:10,stop_point:SP_956,Adonis,11
+2295800,09:49:00,09:49:10,stop_point:SP_3362,Fonquerne,12
+2295800,09:50:00,09:50:10,stop_point:SP_1409,Rateau,13
+2295800,09:51:00,09:51:10,stop_point:SP_124,Silvio Trentin,14
+2295800,09:52:00,09:52:10,stop_point:SP_3068,Barrière de Paris,15
+2295800,09:53:00,09:53:10,stop_point:SP_5167,Barrière de Paris,16
+2295801,10:15:00,10:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295801,10:16:00,10:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295801,10:18:00,10:18:10,stop_point:SP_4477,Picarel,3
+2295801,10:20:00,10:20:10,stop_point:SP_4479,Pôle,4
+2295801,10:21:00,10:21:10,stop_point:SP_3331,ZI La Glacière,5
+2295801,10:22:00,10:22:10,stop_point:SP_5190,ZAC Garonne,6
+2295801,10:22:00,10:22:10,stop_point:SP_2313,Eberhardt,7
+2295801,10:23:00,10:23:10,stop_point:SP_5201,Croizat,8
+2295801,10:24:00,10:24:10,stop_point:SP_1375,Laurencin,9
+2295801,10:26:00,10:26:10,stop_point:SP_1306,Pont de Ginestous,10
+2295801,10:27:00,10:27:10,stop_point:SP_956,Adonis,11
+2295801,10:29:00,10:29:10,stop_point:SP_3362,Fonquerne,12
+2295801,10:30:00,10:30:10,stop_point:SP_1409,Rateau,13
+2295801,10:31:00,10:31:10,stop_point:SP_124,Silvio Trentin,14
+2295801,10:32:00,10:32:10,stop_point:SP_3068,Barrière de Paris,15
+2295801,10:33:00,10:33:10,stop_point:SP_5167,Barrière de Paris,16
+2295802,10:55:00,10:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295802,10:56:00,10:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295802,10:58:00,10:58:10,stop_point:SP_4477,Picarel,3
+2295802,11:00:00,11:00:10,stop_point:SP_4479,Pôle,4
+2295802,11:01:00,11:01:10,stop_point:SP_3331,ZI La Glacière,5
+2295802,11:02:00,11:02:10,stop_point:SP_5190,ZAC Garonne,6
+2295802,11:02:00,11:02:10,stop_point:SP_2313,Eberhardt,7
+2295802,11:03:00,11:03:10,stop_point:SP_5201,Croizat,8
+2295802,11:04:00,11:04:10,stop_point:SP_1375,Laurencin,9
+2295802,11:06:00,11:06:10,stop_point:SP_1306,Pont de Ginestous,10
+2295802,11:07:00,11:07:10,stop_point:SP_956,Adonis,11
+2295802,11:09:00,11:09:10,stop_point:SP_3362,Fonquerne,12
+2295802,11:10:00,11:10:10,stop_point:SP_1409,Rateau,13
+2295802,11:11:00,11:11:10,stop_point:SP_124,Silvio Trentin,14
+2295802,11:12:00,11:12:10,stop_point:SP_3068,Barrière de Paris,15
+2295802,11:13:00,11:13:10,stop_point:SP_5167,Barrière de Paris,16
+2295803,11:35:00,11:35:10,stop_point:SP_4480,Ginestous Chênes,1
+2295803,11:36:00,11:36:10,stop_point:SP_4476,Pont de Rupé,2
+2295803,11:38:00,11:38:10,stop_point:SP_4477,Picarel,3
+2295803,11:40:00,11:40:10,stop_point:SP_4479,Pôle,4
+2295803,11:41:00,11:41:10,stop_point:SP_3331,ZI La Glacière,5
+2295803,11:42:00,11:42:10,stop_point:SP_5190,ZAC Garonne,6
+2295803,11:42:00,11:42:10,stop_point:SP_2313,Eberhardt,7
+2295803,11:43:00,11:43:10,stop_point:SP_5201,Croizat,8
+2295803,11:44:00,11:44:10,stop_point:SP_1375,Laurencin,9
+2295803,11:46:00,11:46:10,stop_point:SP_1306,Pont de Ginestous,10
+2295803,11:47:00,11:47:10,stop_point:SP_956,Adonis,11
+2295803,11:49:00,11:49:10,stop_point:SP_3362,Fonquerne,12
+2295803,11:50:00,11:50:10,stop_point:SP_1409,Rateau,13
+2295803,11:51:00,11:51:10,stop_point:SP_124,Silvio Trentin,14
+2295803,11:52:00,11:52:10,stop_point:SP_3068,Barrière de Paris,15
+2295803,11:53:00,11:53:10,stop_point:SP_5167,Barrière de Paris,16
+2295804,12:15:00,12:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295804,12:16:00,12:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295804,12:18:00,12:18:10,stop_point:SP_4477,Picarel,3
+2295804,12:20:00,12:20:10,stop_point:SP_4479,Pôle,4
+2295804,12:21:00,12:21:10,stop_point:SP_3331,ZI La Glacière,5
+2295804,12:22:00,12:22:10,stop_point:SP_5190,ZAC Garonne,6
+2295804,12:22:00,12:22:10,stop_point:SP_2313,Eberhardt,7
+2295804,12:23:00,12:23:10,stop_point:SP_5201,Croizat,8
+2295804,12:24:00,12:24:10,stop_point:SP_1375,Laurencin,9
+2295804,12:26:00,12:26:10,stop_point:SP_1306,Pont de Ginestous,10
+2295804,12:27:00,12:27:10,stop_point:SP_956,Adonis,11
+2295804,12:29:00,12:29:10,stop_point:SP_3362,Fonquerne,12
+2295804,12:30:00,12:30:10,stop_point:SP_1409,Rateau,13
+2295804,12:31:00,12:31:10,stop_point:SP_124,Silvio Trentin,14
+2295804,12:32:00,12:32:10,stop_point:SP_3068,Barrière de Paris,15
+2295804,12:33:00,12:33:10,stop_point:SP_5167,Barrière de Paris,16
+2295805,12:55:00,12:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295805,12:56:00,12:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295805,12:58:00,12:58:10,stop_point:SP_4477,Picarel,3
+2295805,13:00:00,13:00:10,stop_point:SP_4479,Pôle,4
+2295805,13:01:00,13:01:10,stop_point:SP_3331,ZI La Glacière,5
+2295805,13:02:00,13:02:10,stop_point:SP_5190,ZAC Garonne,6
+2295805,13:02:00,13:02:10,stop_point:SP_2313,Eberhardt,7
+2295805,13:03:00,13:03:10,stop_point:SP_5201,Croizat,8
+2295805,13:04:00,13:04:10,stop_point:SP_1375,Laurencin,9
+2295805,13:06:00,13:06:10,stop_point:SP_1306,Pont de Ginestous,10
+2295805,13:07:00,13:07:10,stop_point:SP_956,Adonis,11
+2295805,13:09:00,13:09:10,stop_point:SP_3362,Fonquerne,12
+2295805,13:10:00,13:10:10,stop_point:SP_1409,Rateau,13
+2295805,13:11:00,13:11:10,stop_point:SP_124,Silvio Trentin,14
+2295805,13:12:00,13:12:10,stop_point:SP_3068,Barrière de Paris,15
+2295805,13:13:00,13:13:10,stop_point:SP_5167,Barrière de Paris,16
+2295806,13:30:00,13:30:10,stop_point:SP_4480,Ginestous Chênes,1
+2295806,13:31:00,13:31:10,stop_point:SP_4476,Pont de Rupé,2
+2295806,13:33:00,13:33:10,stop_point:SP_4477,Picarel,3
+2295806,13:35:00,13:35:10,stop_point:SP_4479,Pôle,4
+2295806,13:36:00,13:36:10,stop_point:SP_3331,ZI La Glacière,5
+2295806,13:37:00,13:37:10,stop_point:SP_5190,ZAC Garonne,6
+2295806,13:37:00,13:37:10,stop_point:SP_2313,Eberhardt,7
+2295806,13:38:00,13:38:10,stop_point:SP_5201,Croizat,8
+2295806,13:39:00,13:39:10,stop_point:SP_1375,Laurencin,9
+2295806,13:41:00,13:41:10,stop_point:SP_1306,Pont de Ginestous,10
+2295806,13:42:00,13:42:10,stop_point:SP_956,Adonis,11
+2295806,13:44:00,13:44:10,stop_point:SP_3362,Fonquerne,12
+2295806,13:45:00,13:45:10,stop_point:SP_1409,Rateau,13
+2295806,13:46:00,13:46:10,stop_point:SP_124,Silvio Trentin,14
+2295806,13:47:00,13:47:10,stop_point:SP_3068,Barrière de Paris,15
+2295806,13:48:00,13:48:10,stop_point:SP_5167,Barrière de Paris,16
+2295807,14:10:00,14:10:10,stop_point:SP_4480,Ginestous Chênes,1
+2295807,14:11:00,14:11:10,stop_point:SP_4476,Pont de Rupé,2
+2295807,14:13:00,14:13:10,stop_point:SP_4477,Picarel,3
+2295807,14:15:00,14:15:10,stop_point:SP_4479,Pôle,4
+2295807,14:16:00,14:16:10,stop_point:SP_3331,ZI La Glacière,5
+2295807,14:17:00,14:17:10,stop_point:SP_5190,ZAC Garonne,6
+2295807,14:17:00,14:17:10,stop_point:SP_2313,Eberhardt,7
+2295807,14:18:00,14:18:10,stop_point:SP_5201,Croizat,8
+2295807,14:19:00,14:19:10,stop_point:SP_1375,Laurencin,9
+2295807,14:21:00,14:21:10,stop_point:SP_1306,Pont de Ginestous,10
+2295807,14:22:00,14:22:10,stop_point:SP_956,Adonis,11
+2295807,14:24:00,14:24:10,stop_point:SP_3362,Fonquerne,12
+2295807,14:25:00,14:25:10,stop_point:SP_1409,Rateau,13
+2295807,14:26:00,14:26:10,stop_point:SP_124,Silvio Trentin,14
+2295807,14:27:00,14:27:10,stop_point:SP_3068,Barrière de Paris,15
+2295807,14:28:00,14:28:10,stop_point:SP_5167,Barrière de Paris,16
+2295808,14:50:00,14:50:10,stop_point:SP_4480,Ginestous Chênes,1
+2295808,14:51:00,14:51:10,stop_point:SP_4476,Pont de Rupé,2
+2295808,14:53:00,14:53:10,stop_point:SP_4477,Picarel,3
+2295808,14:55:00,14:55:10,stop_point:SP_4479,Pôle,4
+2295808,14:56:00,14:56:10,stop_point:SP_3331,ZI La Glacière,5
+2295808,14:57:00,14:57:10,stop_point:SP_5190,ZAC Garonne,6
+2295808,14:57:00,14:57:10,stop_point:SP_2313,Eberhardt,7
+2295808,14:58:00,14:58:10,stop_point:SP_5201,Croizat,8
+2295808,14:59:00,14:59:10,stop_point:SP_1375,Laurencin,9
+2295808,15:01:00,15:01:10,stop_point:SP_1306,Pont de Ginestous,10
+2295808,15:02:00,15:02:10,stop_point:SP_956,Adonis,11
+2295808,15:04:00,15:04:10,stop_point:SP_3362,Fonquerne,12
+2295808,15:05:00,15:05:10,stop_point:SP_1409,Rateau,13
+2295808,15:06:00,15:06:10,stop_point:SP_124,Silvio Trentin,14
+2295808,15:07:00,15:07:10,stop_point:SP_3068,Barrière de Paris,15
+2295808,15:08:00,15:08:10,stop_point:SP_5167,Barrière de Paris,16
+2295809,15:30:00,15:30:10,stop_point:SP_4480,Ginestous Chênes,1
+2295809,15:31:00,15:31:10,stop_point:SP_4476,Pont de Rupé,2
+2295809,15:33:00,15:33:10,stop_point:SP_4477,Picarel,3
+2295809,15:35:00,15:35:10,stop_point:SP_4479,Pôle,4
+2295809,15:36:00,15:36:10,stop_point:SP_3331,ZI La Glacière,5
+2295809,15:37:00,15:37:10,stop_point:SP_5190,ZAC Garonne,6
+2295809,15:37:00,15:37:10,stop_point:SP_2313,Eberhardt,7
+2295809,15:38:00,15:38:10,stop_point:SP_5201,Croizat,8
+2295809,15:39:00,15:39:10,stop_point:SP_1375,Laurencin,9
+2295809,15:41:00,15:41:10,stop_point:SP_1306,Pont de Ginestous,10
+2295809,15:42:00,15:42:10,stop_point:SP_956,Adonis,11
+2295809,15:44:00,15:44:10,stop_point:SP_3362,Fonquerne,12
+2295809,15:45:00,15:45:10,stop_point:SP_1409,Rateau,13
+2295809,15:46:00,15:46:10,stop_point:SP_124,Silvio Trentin,14
+2295809,15:47:00,15:47:10,stop_point:SP_3068,Barrière de Paris,15
+2295809,15:48:00,15:48:10,stop_point:SP_5167,Barrière de Paris,16
+2295810,16:10:00,16:10:10,stop_point:SP_4480,Ginestous Chênes,1
+2295810,16:11:00,16:11:10,stop_point:SP_4476,Pont de Rupé,2
+2295810,16:13:00,16:13:10,stop_point:SP_4477,Picarel,3
+2295810,16:15:00,16:15:10,stop_point:SP_4479,Pôle,4
+2295810,16:16:00,16:16:10,stop_point:SP_3331,ZI La Glacière,5
+2295810,16:17:00,16:17:10,stop_point:SP_5190,ZAC Garonne,6
+2295810,16:17:00,16:17:10,stop_point:SP_2313,Eberhardt,7
+2295810,16:18:00,16:18:10,stop_point:SP_5201,Croizat,8
+2295810,16:19:00,16:19:10,stop_point:SP_1375,Laurencin,9
+2295810,16:21:00,16:21:10,stop_point:SP_1306,Pont de Ginestous,10
+2295810,16:22:00,16:22:10,stop_point:SP_956,Adonis,11
+2295810,16:24:00,16:24:10,stop_point:SP_3362,Fonquerne,12
+2295810,16:25:00,16:25:10,stop_point:SP_1409,Rateau,13
+2295810,16:26:00,16:26:10,stop_point:SP_124,Silvio Trentin,14
+2295810,16:27:00,16:27:10,stop_point:SP_3068,Barrière de Paris,15
+2295810,16:28:00,16:28:10,stop_point:SP_5167,Barrière de Paris,16
+2295811,16:43:00,16:43:10,stop_point:SP_4480,Ginestous Chênes,1
+2295811,16:44:00,16:44:10,stop_point:SP_4476,Pont de Rupé,2
+2295811,16:46:00,16:46:10,stop_point:SP_4477,Picarel,3
+2295811,16:49:00,16:49:10,stop_point:SP_4479,Pôle,4
+2295811,16:50:00,16:50:10,stop_point:SP_3331,ZI La Glacière,5
+2295811,16:51:00,16:51:10,stop_point:SP_5190,ZAC Garonne,6
+2295811,16:52:00,16:52:10,stop_point:SP_2313,Eberhardt,7
+2295811,16:53:00,16:53:10,stop_point:SP_5201,Croizat,8
+2295811,16:54:00,16:54:10,stop_point:SP_1375,Laurencin,9
+2295811,16:56:00,16:56:10,stop_point:SP_1306,Pont de Ginestous,10
+2295811,16:58:00,16:58:10,stop_point:SP_956,Adonis,11
+2295811,17:00:00,17:00:10,stop_point:SP_3362,Fonquerne,12
+2295811,17:02:00,17:02:10,stop_point:SP_1409,Rateau,13
+2295811,17:03:00,17:03:10,stop_point:SP_124,Silvio Trentin,14
+2295811,17:06:00,17:06:10,stop_point:SP_3068,Barrière de Paris,15
+2295811,17:07:00,17:07:10,stop_point:SP_5167,Barrière de Paris,16
+2295812,17:05:00,17:05:10,stop_point:SP_4480,Ginestous Chênes,1
+2295812,17:06:00,17:06:10,stop_point:SP_4476,Pont de Rupé,2
+2295812,17:08:00,17:08:10,stop_point:SP_4477,Picarel,3
+2295812,17:11:00,17:11:10,stop_point:SP_4479,Pôle,4
+2295812,17:12:00,17:12:10,stop_point:SP_3331,ZI La Glacière,5
+2295812,17:13:00,17:13:10,stop_point:SP_5190,ZAC Garonne,6
+2295812,17:14:00,17:14:10,stop_point:SP_2313,Eberhardt,7
+2295812,17:15:00,17:15:10,stop_point:SP_5201,Croizat,8
+2295812,17:16:00,17:16:10,stop_point:SP_1375,Laurencin,9
+2295812,17:18:00,17:18:10,stop_point:SP_1306,Pont de Ginestous,10
+2295812,17:20:00,17:20:10,stop_point:SP_956,Adonis,11
+2295812,17:22:00,17:22:10,stop_point:SP_3362,Fonquerne,12
+2295812,17:24:00,17:24:10,stop_point:SP_1409,Rateau,13
+2295812,17:25:00,17:25:10,stop_point:SP_124,Silvio Trentin,14
+2295812,17:28:00,17:28:10,stop_point:SP_3068,Barrière de Paris,15
+2295812,17:29:00,17:29:10,stop_point:SP_5167,Barrière de Paris,16
+2295813,17:30:00,17:30:10,stop_point:SP_4480,Ginestous Chênes,1
+2295813,17:31:00,17:31:10,stop_point:SP_4476,Pont de Rupé,2
+2295813,17:33:00,17:33:10,stop_point:SP_4477,Picarel,3
+2295813,17:36:00,17:36:10,stop_point:SP_4479,Pôle,4
+2295813,17:37:00,17:37:10,stop_point:SP_3331,ZI La Glacière,5
+2295813,17:38:00,17:38:10,stop_point:SP_5190,ZAC Garonne,6
+2295813,17:39:00,17:39:10,stop_point:SP_2313,Eberhardt,7
+2295813,17:40:00,17:40:10,stop_point:SP_5201,Croizat,8
+2295813,17:41:00,17:41:10,stop_point:SP_1375,Laurencin,9
+2295813,17:43:00,17:43:10,stop_point:SP_1306,Pont de Ginestous,10
+2295813,17:45:00,17:45:10,stop_point:SP_956,Adonis,11
+2295813,17:47:00,17:47:10,stop_point:SP_3362,Fonquerne,12
+2295813,17:49:00,17:49:10,stop_point:SP_1409,Rateau,13
+2295813,17:50:00,17:50:10,stop_point:SP_124,Silvio Trentin,14
+2295813,17:53:00,17:53:10,stop_point:SP_3068,Barrière de Paris,15
+2295813,17:54:00,17:54:10,stop_point:SP_5167,Barrière de Paris,16
+2295814,17:55:00,17:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295814,17:56:00,17:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295814,17:58:00,17:58:10,stop_point:SP_4477,Picarel,3
+2295814,18:01:00,18:01:10,stop_point:SP_4479,Pôle,4
+2295814,18:02:00,18:02:10,stop_point:SP_3331,ZI La Glacière,5
+2295814,18:03:00,18:03:10,stop_point:SP_5190,ZAC Garonne,6
+2295814,18:04:00,18:04:10,stop_point:SP_2313,Eberhardt,7
+2295814,18:05:00,18:05:10,stop_point:SP_5201,Croizat,8
+2295814,18:06:00,18:06:10,stop_point:SP_1375,Laurencin,9
+2295814,18:08:00,18:08:10,stop_point:SP_1306,Pont de Ginestous,10
+2295814,18:10:00,18:10:10,stop_point:SP_956,Adonis,11
+2295814,18:12:00,18:12:10,stop_point:SP_3362,Fonquerne,12
+2295814,18:14:00,18:14:10,stop_point:SP_1409,Rateau,13
+2295814,18:15:00,18:15:10,stop_point:SP_124,Silvio Trentin,14
+2295814,18:18:00,18:18:10,stop_point:SP_3068,Barrière de Paris,15
+2295814,18:19:00,18:19:10,stop_point:SP_5167,Barrière de Paris,16
+2295815,18:20:00,18:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295815,18:21:00,18:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295815,18:23:00,18:23:10,stop_point:SP_4477,Picarel,3
+2295815,18:26:00,18:26:10,stop_point:SP_4479,Pôle,4
+2295815,18:27:00,18:27:10,stop_point:SP_3331,ZI La Glacière,5
+2295815,18:28:00,18:28:10,stop_point:SP_5190,ZAC Garonne,6
+2295815,18:29:00,18:29:10,stop_point:SP_2313,Eberhardt,7
+2295815,18:30:00,18:30:10,stop_point:SP_5201,Croizat,8
+2295815,18:31:00,18:31:10,stop_point:SP_1375,Laurencin,9
+2295815,18:33:00,18:33:10,stop_point:SP_1306,Pont de Ginestous,10
+2295815,18:35:00,18:35:10,stop_point:SP_956,Adonis,11
+2295815,18:36:00,18:36:10,stop_point:SP_3362,Fonquerne,12
+2295815,18:37:00,18:37:10,stop_point:SP_1409,Rateau,13
+2295815,18:38:00,18:38:10,stop_point:SP_124,Silvio Trentin,14
+2295815,18:40:00,18:40:10,stop_point:SP_3068,Barrière de Paris,15
+2295815,18:41:00,18:41:10,stop_point:SP_5167,Barrière de Paris,16
+2295816,18:45:00,18:45:10,stop_point:SP_4480,Ginestous Chênes,1
+2295816,18:46:00,18:46:10,stop_point:SP_4476,Pont de Rupé,2
+2295816,18:48:00,18:48:10,stop_point:SP_4477,Picarel,3
+2295816,18:50:00,18:50:10,stop_point:SP_4479,Pôle,4
+2295816,18:51:00,18:51:10,stop_point:SP_3331,ZI La Glacière,5
+2295816,18:52:00,18:52:10,stop_point:SP_5190,ZAC Garonne,6
+2295816,18:52:00,18:52:10,stop_point:SP_2313,Eberhardt,7
+2295816,18:53:00,18:53:10,stop_point:SP_5201,Croizat,8
+2295816,18:54:00,18:54:10,stop_point:SP_1375,Laurencin,9
+2295816,18:56:00,18:56:10,stop_point:SP_1306,Pont de Ginestous,10
+2295816,18:57:00,18:57:10,stop_point:SP_956,Adonis,11
+2295816,18:59:00,18:59:10,stop_point:SP_3362,Fonquerne,12
+2295816,19:00:00,19:00:10,stop_point:SP_1409,Rateau,13
+2295816,19:01:00,19:01:10,stop_point:SP_124,Silvio Trentin,14
+2295816,19:02:00,19:02:10,stop_point:SP_3068,Barrière de Paris,15
+2295816,19:03:00,19:03:10,stop_point:SP_5167,Barrière de Paris,16
+2295817,19:10:00,19:10:10,stop_point:SP_4480,Ginestous Chênes,1
+2295817,19:11:00,19:11:10,stop_point:SP_4476,Pont de Rupé,2
+2295817,19:13:00,19:13:10,stop_point:SP_4477,Picarel,3
+2295817,19:15:00,19:15:10,stop_point:SP_4479,Pôle,4
+2295817,19:16:00,19:16:10,stop_point:SP_3331,ZI La Glacière,5
+2295817,19:17:00,19:17:10,stop_point:SP_5190,ZAC Garonne,6
+2295817,19:17:00,19:17:10,stop_point:SP_2313,Eberhardt,7
+2295817,19:18:00,19:18:10,stop_point:SP_5201,Croizat,8
+2295817,19:19:00,19:19:10,stop_point:SP_1375,Laurencin,9
+2295817,19:21:00,19:21:10,stop_point:SP_1306,Pont de Ginestous,10
+2295817,19:22:00,19:22:10,stop_point:SP_956,Adonis,11
+2295817,19:24:00,19:24:10,stop_point:SP_3362,Fonquerne,12
+2295817,19:25:00,19:25:10,stop_point:SP_1409,Rateau,13
+2295817,19:26:00,19:26:10,stop_point:SP_124,Silvio Trentin,14
+2295817,19:27:00,19:27:10,stop_point:SP_3068,Barrière de Paris,15
+2295817,19:28:00,19:28:10,stop_point:SP_5167,Barrière de Paris,16
+2295818,19:45:00,19:45:10,stop_point:SP_4480,Ginestous Chênes,1
+2295818,19:46:00,19:46:10,stop_point:SP_4476,Pont de Rupé,2
+2295818,19:48:00,19:48:10,stop_point:SP_4477,Picarel,3
+2295818,19:50:00,19:50:10,stop_point:SP_4479,Pôle,4
+2295818,19:51:00,19:51:10,stop_point:SP_3331,ZI La Glacière,5
+2295818,19:52:00,19:52:10,stop_point:SP_5190,ZAC Garonne,6
+2295818,19:52:00,19:52:10,stop_point:SP_2313,Eberhardt,7
+2295818,19:53:00,19:53:10,stop_point:SP_5201,Croizat,8
+2295818,19:54:00,19:54:10,stop_point:SP_1375,Laurencin,9
+2295818,19:56:00,19:56:10,stop_point:SP_1306,Pont de Ginestous,10
+2295818,19:57:00,19:57:10,stop_point:SP_956,Adonis,11
+2295818,19:59:00,19:59:10,stop_point:SP_3362,Fonquerne,12
+2295818,20:00:00,20:00:10,stop_point:SP_1409,Rateau,13
+2295818,20:01:00,20:01:10,stop_point:SP_124,Silvio Trentin,14
+2295818,20:02:00,20:02:10,stop_point:SP_3068,Barrière de Paris,15
+2295818,20:03:00,20:03:10,stop_point:SP_5167,Barrière de Paris,16
+2295819,20:20:00,20:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295819,20:21:00,20:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295819,20:23:00,20:23:10,stop_point:SP_4477,Picarel,3
+2295819,20:25:00,20:25:10,stop_point:SP_4479,Pôle,4
+2295819,20:26:00,20:26:10,stop_point:SP_3331,ZI La Glacière,5
+2295819,20:27:00,20:27:10,stop_point:SP_5190,ZAC Garonne,6
+2295819,20:27:00,20:27:10,stop_point:SP_2313,Eberhardt,7
+2295819,20:28:00,20:28:10,stop_point:SP_5201,Croizat,8
+2295819,20:29:00,20:29:10,stop_point:SP_1375,Laurencin,9
+2295819,20:31:00,20:31:10,stop_point:SP_1306,Pont de Ginestous,10
+2295819,20:32:00,20:32:10,stop_point:SP_956,Adonis,11
+2295819,20:34:00,20:34:10,stop_point:SP_3362,Fonquerne,12
+2295819,20:35:00,20:35:10,stop_point:SP_1409,Rateau,13
+2295819,20:36:00,20:36:10,stop_point:SP_124,Silvio Trentin,14
+2295819,20:37:00,20:37:10,stop_point:SP_3068,Barrière de Paris,15
+2295819,20:38:00,20:38:10,stop_point:SP_5167,Barrière de Paris,16
+2295820,20:55:00,20:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295820,20:56:00,20:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295820,20:58:00,20:58:10,stop_point:SP_4477,Picarel,3
+2295820,21:00:00,21:00:10,stop_point:SP_4479,Pôle,4
+2295820,21:01:00,21:01:10,stop_point:SP_3331,ZI La Glacière,5
+2295820,21:02:00,21:02:10,stop_point:SP_5190,ZAC Garonne,6
+2295820,21:02:00,21:02:10,stop_point:SP_2313,Eberhardt,7
+2295820,21:03:00,21:03:10,stop_point:SP_5201,Croizat,8
+2295820,21:04:00,21:04:10,stop_point:SP_1375,Laurencin,9
+2295820,21:06:00,21:06:10,stop_point:SP_1306,Pont de Ginestous,10
+2295820,21:07:00,21:07:10,stop_point:SP_956,Adonis,11
+2295820,21:09:00,21:09:10,stop_point:SP_3362,Fonquerne,12
+2295820,21:10:00,21:10:10,stop_point:SP_1409,Rateau,13
+2295820,21:11:00,21:11:10,stop_point:SP_124,Silvio Trentin,14
+2295820,21:12:00,21:12:10,stop_point:SP_3068,Barrière de Paris,15
+2295820,21:13:00,21:13:10,stop_point:SP_5167,Barrière de Paris,16
+2295821,05:55:00,05:55:10,stop_point:SP_5167,Barrière de Paris,1
+2295821,05:56:00,05:56:10,stop_point:SP_2498,Brieux,2
+2295821,05:57:00,05:57:10,stop_point:SP_2326,Chaussas,3
+2295821,05:58:00,05:58:10,stop_point:SP_1700,Adonis,4
+2295821,05:59:00,05:59:10,stop_point:SP_3201,Pont de Ginestous,5
+2295821,06:01:00,06:01:10,stop_point:SP_3444,Laurencin,6
+2295821,06:02:00,06:02:10,stop_point:SP_5203,Croizat,7
+2295821,06:02:00,06:02:10,stop_point:SP_792,Eberhardt,8
+2295821,06:03:00,06:03:10,stop_point:SP_5204,ZAC Garonne,9
+2295821,06:03:00,06:03:10,stop_point:SP_1238,ZI La Glacière,10
+2295821,06:04:00,06:04:10,stop_point:SP_3949,Pôle,11
+2295821,06:07:00,06:07:10,stop_point:SP_4478,Picarel,12
+2295821,06:09:00,06:09:10,stop_point:SP_4475,Pont de Rupé,13
+2295821,06:10:00,06:10:10,stop_point:SP_4480,Ginestous Chênes,14
+2295822,06:40:00,06:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295822,06:41:00,06:41:10,stop_point:SP_2498,Brieux,2
+2295822,06:42:00,06:42:10,stop_point:SP_2326,Chaussas,3
+2295822,06:43:00,06:43:10,stop_point:SP_1700,Adonis,4
+2295822,06:44:00,06:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295822,06:46:00,06:46:10,stop_point:SP_3444,Laurencin,6
+2295822,06:47:00,06:47:10,stop_point:SP_5203,Croizat,7
+2295822,06:47:00,06:47:10,stop_point:SP_792,Eberhardt,8
+2295822,06:48:00,06:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295822,06:48:00,06:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295822,06:49:00,06:49:10,stop_point:SP_3949,Pôle,11
+2295822,06:52:00,06:52:10,stop_point:SP_4478,Picarel,12
+2295822,06:54:00,06:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295822,06:55:00,06:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295823,07:20:00,07:20:10,stop_point:SP_5167,Barrière de Paris,1
+2295823,07:21:00,07:21:10,stop_point:SP_2498,Brieux,2
+2295823,07:22:00,07:22:10,stop_point:SP_2326,Chaussas,3
+2295823,07:23:00,07:23:10,stop_point:SP_1700,Adonis,4
+2295823,07:24:00,07:24:10,stop_point:SP_3201,Pont de Ginestous,5
+2295823,07:26:00,07:26:10,stop_point:SP_3444,Laurencin,6
+2295823,07:27:00,07:27:10,stop_point:SP_5203,Croizat,7
+2295823,07:27:00,07:27:10,stop_point:SP_792,Eberhardt,8
+2295823,07:28:00,07:28:10,stop_point:SP_5204,ZAC Garonne,9
+2295823,07:28:00,07:28:10,stop_point:SP_1238,ZI La Glacière,10
+2295823,07:29:00,07:29:10,stop_point:SP_3949,Pôle,11
+2295823,07:32:00,07:32:10,stop_point:SP_4478,Picarel,12
+2295823,07:34:00,07:34:10,stop_point:SP_4475,Pont de Rupé,13
+2295823,07:35:00,07:35:10,stop_point:SP_4480,Ginestous Chênes,14
+2295824,08:05:00,08:05:10,stop_point:SP_5167,Barrière de Paris,1
+2295824,08:06:00,08:06:10,stop_point:SP_2498,Brieux,2
+2295824,08:07:00,08:07:10,stop_point:SP_2326,Chaussas,3
+2295824,08:08:00,08:08:10,stop_point:SP_1700,Adonis,4
+2295824,08:09:00,08:09:10,stop_point:SP_3201,Pont de Ginestous,5
+2295824,08:11:00,08:11:10,stop_point:SP_3444,Laurencin,6
+2295824,08:12:00,08:12:10,stop_point:SP_5203,Croizat,7
+2295824,08:12:00,08:12:10,stop_point:SP_792,Eberhardt,8
+2295824,08:13:00,08:13:10,stop_point:SP_5204,ZAC Garonne,9
+2295824,08:13:00,08:13:10,stop_point:SP_1238,ZI La Glacière,10
+2295824,08:14:00,08:14:10,stop_point:SP_3949,Pôle,11
+2295824,08:17:00,08:17:10,stop_point:SP_4478,Picarel,12
+2295824,08:19:00,08:19:10,stop_point:SP_4475,Pont de Rupé,13
+2295824,08:20:00,08:20:10,stop_point:SP_4480,Ginestous Chênes,14
+2295825,08:55:00,08:55:10,stop_point:SP_5167,Barrière de Paris,1
+2295825,08:56:00,08:56:10,stop_point:SP_2498,Brieux,2
+2295825,08:57:00,08:57:10,stop_point:SP_2326,Chaussas,3
+2295825,08:59:00,08:59:10,stop_point:SP_1700,Adonis,4
+2295825,09:00:00,09:00:10,stop_point:SP_3201,Pont de Ginestous,5
+2295825,09:02:00,09:02:10,stop_point:SP_3444,Laurencin,6
+2295825,09:03:00,09:03:10,stop_point:SP_5203,Croizat,7
+2295825,09:03:00,09:03:10,stop_point:SP_792,Eberhardt,8
+2295825,09:04:00,09:04:10,stop_point:SP_5204,ZAC Garonne,9
+2295825,09:04:00,09:04:10,stop_point:SP_1238,ZI La Glacière,10
+2295825,09:05:00,09:05:10,stop_point:SP_3949,Pôle,11
+2295825,09:08:00,09:08:10,stop_point:SP_4478,Picarel,12
+2295825,09:10:00,09:10:10,stop_point:SP_4475,Pont de Rupé,13
+2295825,09:11:00,09:11:10,stop_point:SP_4480,Ginestous Chênes,14
+2295826,09:40:00,09:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295826,09:41:00,09:41:10,stop_point:SP_2498,Brieux,2
+2295826,09:42:00,09:42:10,stop_point:SP_2326,Chaussas,3
+2295826,09:44:00,09:44:10,stop_point:SP_1700,Adonis,4
+2295826,09:45:00,09:45:10,stop_point:SP_3201,Pont de Ginestous,5
+2295826,09:47:00,09:47:10,stop_point:SP_3444,Laurencin,6
+2295826,09:48:00,09:48:10,stop_point:SP_5203,Croizat,7
+2295826,09:48:00,09:48:10,stop_point:SP_792,Eberhardt,8
+2295826,09:49:00,09:49:10,stop_point:SP_5204,ZAC Garonne,9
+2295826,09:49:00,09:49:10,stop_point:SP_1238,ZI La Glacière,10
+2295826,09:50:00,09:50:10,stop_point:SP_3949,Pôle,11
+2295826,09:53:00,09:53:10,stop_point:SP_4478,Picarel,12
+2295826,09:55:00,09:55:10,stop_point:SP_4475,Pont de Rupé,13
+2295826,09:56:00,09:56:10,stop_point:SP_4480,Ginestous Chênes,14
+2295827,10:25:00,10:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295827,10:26:00,10:26:10,stop_point:SP_2498,Brieux,2
+2295827,10:27:00,10:27:10,stop_point:SP_2326,Chaussas,3
+2295827,10:28:00,10:28:10,stop_point:SP_1700,Adonis,4
+2295827,10:29:00,10:29:10,stop_point:SP_3201,Pont de Ginestous,5
+2295827,10:31:00,10:31:10,stop_point:SP_3444,Laurencin,6
+2295827,10:32:00,10:32:10,stop_point:SP_5203,Croizat,7
+2295827,10:32:00,10:32:10,stop_point:SP_792,Eberhardt,8
+2295827,10:33:00,10:33:10,stop_point:SP_5204,ZAC Garonne,9
+2295827,10:33:00,10:33:10,stop_point:SP_1238,ZI La Glacière,10
+2295827,10:34:00,10:34:10,stop_point:SP_3949,Pôle,11
+2295827,10:37:00,10:37:10,stop_point:SP_4478,Picarel,12
+2295827,10:39:00,10:39:10,stop_point:SP_4475,Pont de Rupé,13
+2295827,10:40:00,10:40:10,stop_point:SP_4480,Ginestous Chênes,14
+2295828,11:05:00,11:05:10,stop_point:SP_5167,Barrière de Paris,1
+2295828,11:06:00,11:06:10,stop_point:SP_2498,Brieux,2
+2295828,11:07:00,11:07:10,stop_point:SP_2326,Chaussas,3
+2295828,11:08:00,11:08:10,stop_point:SP_1700,Adonis,4
+2295828,11:09:00,11:09:10,stop_point:SP_3201,Pont de Ginestous,5
+2295828,11:11:00,11:11:10,stop_point:SP_3444,Laurencin,6
+2295828,11:12:00,11:12:10,stop_point:SP_5203,Croizat,7
+2295828,11:12:00,11:12:10,stop_point:SP_792,Eberhardt,8
+2295828,11:13:00,11:13:10,stop_point:SP_5204,ZAC Garonne,9
+2295828,11:13:00,11:13:10,stop_point:SP_1238,ZI La Glacière,10
+2295828,11:14:00,11:14:10,stop_point:SP_3949,Pôle,11
+2295828,11:17:00,11:17:10,stop_point:SP_4478,Picarel,12
+2295828,11:19:00,11:19:10,stop_point:SP_4475,Pont de Rupé,13
+2295828,11:20:00,11:20:10,stop_point:SP_4480,Ginestous Chênes,14
+2295829,11:45:00,11:45:10,stop_point:SP_5167,Barrière de Paris,1
+2295829,11:46:00,11:46:10,stop_point:SP_2498,Brieux,2
+2295829,11:47:00,11:47:10,stop_point:SP_2326,Chaussas,3
+2295829,11:48:00,11:48:10,stop_point:SP_1700,Adonis,4
+2295829,11:49:00,11:49:10,stop_point:SP_3201,Pont de Ginestous,5
+2295829,11:51:00,11:51:10,stop_point:SP_3444,Laurencin,6
+2295829,11:52:00,11:52:10,stop_point:SP_5203,Croizat,7
+2295829,11:52:00,11:52:10,stop_point:SP_792,Eberhardt,8
+2295829,11:53:00,11:53:10,stop_point:SP_5204,ZAC Garonne,9
+2295829,11:53:00,11:53:10,stop_point:SP_1238,ZI La Glacière,10
+2295829,11:54:00,11:54:10,stop_point:SP_3949,Pôle,11
+2295829,11:57:00,11:57:10,stop_point:SP_4478,Picarel,12
+2295829,11:59:00,11:59:10,stop_point:SP_4475,Pont de Rupé,13
+2295829,12:00:00,12:00:10,stop_point:SP_4480,Ginestous Chênes,14
+2295830,12:25:00,12:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295830,12:26:00,12:26:10,stop_point:SP_2498,Brieux,2
+2295830,12:27:00,12:27:10,stop_point:SP_2326,Chaussas,3
+2295830,12:28:00,12:28:10,stop_point:SP_1700,Adonis,4
+2295830,12:29:00,12:29:10,stop_point:SP_3201,Pont de Ginestous,5
+2295830,12:31:00,12:31:10,stop_point:SP_3444,Laurencin,6
+2295830,12:32:00,12:32:10,stop_point:SP_5203,Croizat,7
+2295830,12:32:00,12:32:10,stop_point:SP_792,Eberhardt,8
+2295830,12:33:00,12:33:10,stop_point:SP_5204,ZAC Garonne,9
+2295830,12:33:00,12:33:10,stop_point:SP_1238,ZI La Glacière,10
+2295830,12:34:00,12:34:10,stop_point:SP_3949,Pôle,11
+2295830,12:37:00,12:37:10,stop_point:SP_4478,Picarel,12
+2295830,12:39:00,12:39:10,stop_point:SP_4475,Pont de Rupé,13
+2295830,12:40:00,12:40:10,stop_point:SP_4480,Ginestous Chênes,14
+2295831,13:05:00,13:05:10,stop_point:SP_5167,Barrière de Paris,1
+2295831,13:06:00,13:06:10,stop_point:SP_2498,Brieux,2
+2295831,13:07:00,13:07:10,stop_point:SP_2326,Chaussas,3
+2295831,13:08:00,13:08:10,stop_point:SP_1700,Adonis,4
+2295831,13:09:00,13:09:10,stop_point:SP_3201,Pont de Ginestous,5
+2295831,13:11:00,13:11:10,stop_point:SP_3444,Laurencin,6
+2295831,13:12:00,13:12:10,stop_point:SP_5203,Croizat,7
+2295831,13:12:00,13:12:10,stop_point:SP_792,Eberhardt,8
+2295831,13:13:00,13:13:10,stop_point:SP_5204,ZAC Garonne,9
+2295831,13:13:00,13:13:10,stop_point:SP_1238,ZI La Glacière,10
+2295831,13:14:00,13:14:10,stop_point:SP_3949,Pôle,11
+2295831,13:17:00,13:17:10,stop_point:SP_4478,Picarel,12
+2295831,13:19:00,13:19:10,stop_point:SP_4475,Pont de Rupé,13
+2295831,13:20:00,13:20:10,stop_point:SP_4480,Ginestous Chênes,14
+2295832,13:40:00,13:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295832,13:41:00,13:41:10,stop_point:SP_2498,Brieux,2
+2295832,13:42:00,13:42:10,stop_point:SP_2326,Chaussas,3
+2295832,13:43:00,13:43:10,stop_point:SP_1700,Adonis,4
+2295832,13:44:00,13:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295832,13:46:00,13:46:10,stop_point:SP_3444,Laurencin,6
+2295832,13:47:00,13:47:10,stop_point:SP_5203,Croizat,7
+2295832,13:47:00,13:47:10,stop_point:SP_792,Eberhardt,8
+2295832,13:48:00,13:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295832,13:48:00,13:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295832,13:49:00,13:49:10,stop_point:SP_3949,Pôle,11
+2295832,13:52:00,13:52:10,stop_point:SP_4478,Picarel,12
+2295832,13:54:00,13:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295832,13:55:00,13:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295833,14:20:00,14:20:10,stop_point:SP_5167,Barrière de Paris,1
+2295833,14:21:00,14:21:10,stop_point:SP_2498,Brieux,2
+2295833,14:22:00,14:22:10,stop_point:SP_2326,Chaussas,3
+2295833,14:23:00,14:23:10,stop_point:SP_1700,Adonis,4
+2295833,14:24:00,14:24:10,stop_point:SP_3201,Pont de Ginestous,5
+2295833,14:26:00,14:26:10,stop_point:SP_3444,Laurencin,6
+2295833,14:27:00,14:27:10,stop_point:SP_5203,Croizat,7
+2295833,14:27:00,14:27:10,stop_point:SP_792,Eberhardt,8
+2295833,14:28:00,14:28:10,stop_point:SP_5204,ZAC Garonne,9
+2295833,14:28:00,14:28:10,stop_point:SP_1238,ZI La Glacière,10
+2295833,14:29:00,14:29:10,stop_point:SP_3949,Pôle,11
+2295833,14:32:00,14:32:10,stop_point:SP_4478,Picarel,12
+2295833,14:34:00,14:34:10,stop_point:SP_4475,Pont de Rupé,13
+2295833,14:35:00,14:35:10,stop_point:SP_4480,Ginestous Chênes,14
+2295834,15:00:00,15:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295834,15:01:00,15:01:10,stop_point:SP_2498,Brieux,2
+2295834,15:02:00,15:02:10,stop_point:SP_2326,Chaussas,3
+2295834,15:03:00,15:03:10,stop_point:SP_1700,Adonis,4
+2295834,15:04:00,15:04:10,stop_point:SP_3201,Pont de Ginestous,5
+2295834,15:06:00,15:06:10,stop_point:SP_3444,Laurencin,6
+2295834,15:07:00,15:07:10,stop_point:SP_5203,Croizat,7
+2295834,15:07:00,15:07:10,stop_point:SP_792,Eberhardt,8
+2295834,15:08:00,15:08:10,stop_point:SP_5204,ZAC Garonne,9
+2295834,15:08:00,15:08:10,stop_point:SP_1238,ZI La Glacière,10
+2295834,15:09:00,15:09:10,stop_point:SP_3949,Pôle,11
+2295834,15:12:00,15:12:10,stop_point:SP_4478,Picarel,12
+2295834,15:14:00,15:14:10,stop_point:SP_4475,Pont de Rupé,13
+2295834,15:15:00,15:15:10,stop_point:SP_4480,Ginestous Chênes,14
+2295835,15:40:00,15:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295835,15:41:00,15:41:10,stop_point:SP_2498,Brieux,2
+2295835,15:42:00,15:42:10,stop_point:SP_2326,Chaussas,3
+2295835,15:43:00,15:43:10,stop_point:SP_1700,Adonis,4
+2295835,15:44:00,15:44:10,stop_point:SP_3201,Pont de Ginestous,5
+2295835,15:46:00,15:46:10,stop_point:SP_3444,Laurencin,6
+2295835,15:47:00,15:47:10,stop_point:SP_5203,Croizat,7
+2295835,15:47:00,15:47:10,stop_point:SP_792,Eberhardt,8
+2295835,15:48:00,15:48:10,stop_point:SP_5204,ZAC Garonne,9
+2295835,15:48:00,15:48:10,stop_point:SP_1238,ZI La Glacière,10
+2295835,15:49:00,15:49:10,stop_point:SP_3949,Pôle,11
+2295835,15:52:00,15:52:10,stop_point:SP_4478,Picarel,12
+2295835,15:54:00,15:54:10,stop_point:SP_4475,Pont de Rupé,13
+2295835,15:55:00,15:55:10,stop_point:SP_4480,Ginestous Chênes,14
+2295836,16:20:00,16:20:10,stop_point:SP_5167,Barrière de Paris,1
+2295836,16:21:00,16:21:10,stop_point:SP_2498,Brieux,2
+2295836,16:22:00,16:22:10,stop_point:SP_2326,Chaussas,3
+2295836,16:23:00,16:23:10,stop_point:SP_1700,Adonis,4
+2295836,16:24:00,16:24:10,stop_point:SP_3201,Pont de Ginestous,5
+2295836,16:26:00,16:26:10,stop_point:SP_3444,Laurencin,6
+2295836,16:27:00,16:27:10,stop_point:SP_5203,Croizat,7
+2295836,16:27:00,16:27:10,stop_point:SP_792,Eberhardt,8
+2295836,16:28:00,16:28:10,stop_point:SP_5204,ZAC Garonne,9
+2295836,16:28:00,16:28:10,stop_point:SP_1238,ZI La Glacière,10
+2295836,16:29:00,16:29:10,stop_point:SP_3949,Pôle,11
+2295836,16:32:00,16:32:10,stop_point:SP_4478,Picarel,12
+2295836,16:34:00,16:34:10,stop_point:SP_4475,Pont de Rupé,13
+2295836,16:35:00,16:35:10,stop_point:SP_4480,Ginestous Chênes,14
+2295837,17:00:00,17:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295837,17:01:00,17:01:10,stop_point:SP_2498,Brieux,2
+2295837,17:02:00,17:02:10,stop_point:SP_2326,Chaussas,3
+2295837,17:04:00,17:04:10,stop_point:SP_1700,Adonis,4
+2295837,17:05:00,17:05:10,stop_point:SP_3201,Pont de Ginestous,5
+2295837,17:07:00,17:07:10,stop_point:SP_3444,Laurencin,6
+2295837,17:08:00,17:08:10,stop_point:SP_5203,Croizat,7
+2295837,17:09:00,17:09:10,stop_point:SP_792,Eberhardt,8
+2295837,17:09:00,17:09:10,stop_point:SP_5204,ZAC Garonne,9
+2295837,17:10:00,17:10:10,stop_point:SP_1238,ZI La Glacière,10
+2295837,17:11:00,17:11:10,stop_point:SP_3949,Pôle,11
+2295837,17:14:00,17:14:10,stop_point:SP_4478,Picarel,12
+2295837,17:17:00,17:17:10,stop_point:SP_4475,Pont de Rupé,13
+2295837,17:18:00,17:18:10,stop_point:SP_4480,Ginestous Chênes,14
+2295838,17:50:00,17:50:10,stop_point:SP_5167,Barrière de Paris,1
+2295838,17:51:00,17:51:10,stop_point:SP_2498,Brieux,2
+2295838,17:52:00,17:52:10,stop_point:SP_2326,Chaussas,3
+2295838,17:54:00,17:54:10,stop_point:SP_1700,Adonis,4
+2295838,17:55:00,17:55:10,stop_point:SP_3201,Pont de Ginestous,5
+2295838,17:57:00,17:57:10,stop_point:SP_3444,Laurencin,6
+2295838,17:58:00,17:58:10,stop_point:SP_5203,Croizat,7
+2295838,17:59:00,17:59:10,stop_point:SP_792,Eberhardt,8
+2295838,17:59:00,17:59:10,stop_point:SP_5204,ZAC Garonne,9
+2295838,18:00:00,18:00:10,stop_point:SP_1238,ZI La Glacière,10
+2295838,18:01:00,18:01:10,stop_point:SP_3949,Pôle,11
+2295838,18:04:00,18:04:10,stop_point:SP_4478,Picarel,12
+2295838,18:07:00,18:07:10,stop_point:SP_4475,Pont de Rupé,13
+2295838,18:08:00,18:08:10,stop_point:SP_4480,Ginestous Chênes,14
+2295839,18:40:00,18:40:10,stop_point:SP_5167,Barrière de Paris,1
+2295839,18:41:00,18:41:10,stop_point:SP_2498,Brieux,2
+2295839,18:42:00,18:42:10,stop_point:SP_2326,Chaussas,3
+2295839,18:44:00,18:44:10,stop_point:SP_1700,Adonis,4
+2295839,18:45:00,18:45:10,stop_point:SP_3201,Pont de Ginestous,5
+2295839,18:47:00,18:47:10,stop_point:SP_3444,Laurencin,6
+2295839,18:48:00,18:48:10,stop_point:SP_5203,Croizat,7
+2295839,18:49:00,18:49:10,stop_point:SP_792,Eberhardt,8
+2295839,18:49:00,18:49:10,stop_point:SP_5204,ZAC Garonne,9
+2295839,18:50:00,18:50:10,stop_point:SP_1238,ZI La Glacière,10
+2295839,18:51:00,18:51:10,stop_point:SP_3949,Pôle,11
+2295839,18:54:00,18:54:10,stop_point:SP_4478,Picarel,12
+2295839,18:57:00,18:57:10,stop_point:SP_4475,Pont de Rupé,13
+2295839,18:58:00,18:58:10,stop_point:SP_4480,Ginestous Chênes,14
+2295840,19:25:00,19:25:10,stop_point:SP_5167,Barrière de Paris,1
+2295840,19:26:00,19:26:10,stop_point:SP_2498,Brieux,2
+2295840,19:27:00,19:27:10,stop_point:SP_2326,Chaussas,3
+2295840,19:28:00,19:28:10,stop_point:SP_1700,Adonis,4
+2295840,19:29:00,19:29:10,stop_point:SP_3201,Pont de Ginestous,5
+2295840,19:31:00,19:31:10,stop_point:SP_3444,Laurencin,6
+2295840,19:32:00,19:32:10,stop_point:SP_5203,Croizat,7
+2295840,19:32:00,19:32:10,stop_point:SP_792,Eberhardt,8
+2295840,19:33:00,19:33:10,stop_point:SP_5204,ZAC Garonne,9
+2295840,19:33:00,19:33:10,stop_point:SP_1238,ZI La Glacière,10
+2295840,19:34:00,19:34:10,stop_point:SP_3949,Pôle,11
+2295840,19:37:00,19:37:10,stop_point:SP_4478,Picarel,12
+2295840,19:39:00,19:39:10,stop_point:SP_4475,Pont de Rupé,13
+2295840,19:40:00,19:40:10,stop_point:SP_4480,Ginestous Chênes,14
+2295841,20:00:00,20:00:10,stop_point:SP_5167,Barrière de Paris,1
+2295841,20:01:00,20:01:10,stop_point:SP_2498,Brieux,2
+2295841,20:02:00,20:02:10,stop_point:SP_2326,Chaussas,3
+2295841,20:03:00,20:03:10,stop_point:SP_1700,Adonis,4
+2295841,20:04:00,20:04:10,stop_point:SP_3201,Pont de Ginestous,5
+2295841,20:06:00,20:06:10,stop_point:SP_3444,Laurencin,6
+2295841,20:07:00,20:07:10,stop_point:SP_5203,Croizat,7
+2295841,20:07:00,20:07:10,stop_point:SP_792,Eberhardt,8
+2295841,20:08:00,20:08:10,stop_point:SP_5204,ZAC Garonne,9
+2295841,20:08:00,20:08:10,stop_point:SP_1238,ZI La Glacière,10
+2295841,20:09:00,20:09:10,stop_point:SP_3949,Pôle,11
+2295841,20:12:00,20:12:10,stop_point:SP_4478,Picarel,12
+2295841,20:14:00,20:14:10,stop_point:SP_4475,Pont de Rupé,13
+2295841,20:15:00,20:15:10,stop_point:SP_4480,Ginestous Chênes,14
+2295842,06:15:00,06:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295842,06:16:00,06:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295842,06:17:00,06:17:10,stop_point:SP_4477,Picarel,3
+2295842,06:19:00,06:19:10,stop_point:SP_4479,Pôle,4
+2295842,06:20:00,06:20:10,stop_point:SP_3331,ZI La Glacière,5
+2295842,06:21:00,06:21:10,stop_point:SP_5190,ZAC Garonne,6
+2295842,06:21:00,06:21:10,stop_point:SP_2313,Eberhardt,7
+2295842,06:22:00,06:22:10,stop_point:SP_5201,Croizat,8
+2295842,06:23:00,06:23:10,stop_point:SP_1375,Laurencin,9
+2295842,06:25:00,06:25:10,stop_point:SP_1306,Pont de Ginestous,10
+2295842,06:26:00,06:26:10,stop_point:SP_956,Adonis,11
+2295842,06:27:00,06:27:10,stop_point:SP_3362,Fonquerne,12
+2295842,06:28:00,06:28:10,stop_point:SP_1409,Rateau,13
+2295842,06:29:00,06:29:10,stop_point:SP_124,Silvio Trentin,14
+2295842,06:30:00,06:30:10,stop_point:SP_3068,Barrière de Paris,15
+2295842,06:31:00,06:31:10,stop_point:SP_5167,Barrière de Paris,16
+2295843,06:58:00,06:58:10,stop_point:SP_4480,Ginestous Chênes,1
+2295843,06:59:00,06:59:10,stop_point:SP_4476,Pont de Rupé,2
+2295843,07:00:00,07:00:10,stop_point:SP_4477,Picarel,3
+2295843,07:02:00,07:02:10,stop_point:SP_4479,Pôle,4
+2295843,07:03:00,07:03:10,stop_point:SP_3331,ZI La Glacière,5
+2295843,07:04:00,07:04:10,stop_point:SP_5190,ZAC Garonne,6
+2295843,07:04:00,07:04:10,stop_point:SP_2313,Eberhardt,7
+2295843,07:05:00,07:05:10,stop_point:SP_5201,Croizat,8
+2295843,07:06:00,07:06:10,stop_point:SP_1375,Laurencin,9
+2295843,07:08:00,07:08:10,stop_point:SP_1306,Pont de Ginestous,10
+2295843,07:09:00,07:09:10,stop_point:SP_956,Adonis,11
+2295843,07:10:00,07:10:10,stop_point:SP_3362,Fonquerne,12
+2295843,07:11:00,07:11:10,stop_point:SP_1409,Rateau,13
+2295843,07:12:00,07:12:10,stop_point:SP_124,Silvio Trentin,14
+2295843,07:13:00,07:13:10,stop_point:SP_3068,Barrière de Paris,15
+2295843,07:14:00,07:14:10,stop_point:SP_5167,Barrière de Paris,16
+2295844,07:38:00,07:38:10,stop_point:SP_4480,Ginestous Chênes,1
+2295844,07:39:00,07:39:10,stop_point:SP_4476,Pont de Rupé,2
+2295844,07:40:00,07:40:10,stop_point:SP_4477,Picarel,3
+2295844,07:42:00,07:42:10,stop_point:SP_4479,Pôle,4
+2295844,07:43:00,07:43:10,stop_point:SP_3331,ZI La Glacière,5
+2295844,07:44:00,07:44:10,stop_point:SP_5190,ZAC Garonne,6
+2295844,07:44:00,07:44:10,stop_point:SP_2313,Eberhardt,7
+2295844,07:45:00,07:45:10,stop_point:SP_5201,Croizat,8
+2295844,07:46:00,07:46:10,stop_point:SP_1375,Laurencin,9
+2295844,07:48:00,07:48:10,stop_point:SP_1306,Pont de Ginestous,10
+2295844,07:49:00,07:49:10,stop_point:SP_956,Adonis,11
+2295844,07:50:00,07:50:10,stop_point:SP_3362,Fonquerne,12
+2295844,07:51:00,07:51:10,stop_point:SP_1409,Rateau,13
+2295844,07:52:00,07:52:10,stop_point:SP_124,Silvio Trentin,14
+2295844,07:53:00,07:53:10,stop_point:SP_3068,Barrière de Paris,15
+2295844,07:54:00,07:54:10,stop_point:SP_5167,Barrière de Paris,16
+2295845,08:26:00,08:26:10,stop_point:SP_4480,Ginestous Chênes,1
+2295845,08:27:00,08:27:10,stop_point:SP_4476,Pont de Rupé,2
+2295845,08:29:00,08:29:10,stop_point:SP_4477,Picarel,3
+2295845,08:31:00,08:31:10,stop_point:SP_4479,Pôle,4
+2295845,08:32:00,08:32:10,stop_point:SP_3331,ZI La Glacière,5
+2295845,08:33:00,08:33:10,stop_point:SP_5190,ZAC Garonne,6
+2295845,08:33:00,08:33:10,stop_point:SP_2313,Eberhardt,7
+2295845,08:34:00,08:34:10,stop_point:SP_5201,Croizat,8
+2295845,08:35:00,08:35:10,stop_point:SP_1375,Laurencin,9
+2295845,08:37:00,08:37:10,stop_point:SP_1306,Pont de Ginestous,10
+2295845,08:38:00,08:38:10,stop_point:SP_956,Adonis,11
+2295845,08:40:00,08:40:10,stop_point:SP_3362,Fonquerne,12
+2295845,08:41:00,08:41:10,stop_point:SP_1409,Rateau,13
+2295845,08:42:00,08:42:10,stop_point:SP_124,Silvio Trentin,14
+2295845,08:43:00,08:43:10,stop_point:SP_3068,Barrière de Paris,15
+2295845,08:44:00,08:44:10,stop_point:SP_5167,Barrière de Paris,16
+2295846,09:15:00,09:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295846,09:16:00,09:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295846,09:18:00,09:18:10,stop_point:SP_4477,Picarel,3
+2295846,09:20:00,09:20:10,stop_point:SP_4479,Pôle,4
+2295846,09:21:00,09:21:10,stop_point:SP_3331,ZI La Glacière,5
+2295846,09:22:00,09:22:10,stop_point:SP_5190,ZAC Garonne,6
+2295846,09:22:00,09:22:10,stop_point:SP_2313,Eberhardt,7
+2295846,09:23:00,09:23:10,stop_point:SP_5201,Croizat,8
+2295846,09:24:00,09:24:10,stop_point:SP_1375,Laurencin,9
+2295846,09:26:00,09:26:10,stop_point:SP_1306,Pont de Ginestous,10
+2295846,09:27:00,09:27:10,stop_point:SP_956,Adonis,11
+2295846,09:29:00,09:29:10,stop_point:SP_3362,Fonquerne,12
+2295846,09:30:00,09:30:10,stop_point:SP_1409,Rateau,13
+2295846,09:31:00,09:31:10,stop_point:SP_124,Silvio Trentin,14
+2295846,09:32:00,09:32:10,stop_point:SP_3068,Barrière de Paris,15
+2295846,09:33:00,09:33:10,stop_point:SP_5167,Barrière de Paris,16
+2295847,10:00:00,10:00:10,stop_point:SP_4480,Ginestous Chênes,1
+2295847,10:01:00,10:01:10,stop_point:SP_4476,Pont de Rupé,2
+2295847,10:03:00,10:03:10,stop_point:SP_4477,Picarel,3
+2295847,10:05:00,10:05:10,stop_point:SP_4479,Pôle,4
+2295847,10:06:00,10:06:10,stop_point:SP_3331,ZI La Glacière,5
+2295847,10:07:00,10:07:10,stop_point:SP_5190,ZAC Garonne,6
+2295847,10:07:00,10:07:10,stop_point:SP_2313,Eberhardt,7
+2295847,10:08:00,10:08:10,stop_point:SP_5201,Croizat,8
+2295847,10:09:00,10:09:10,stop_point:SP_1375,Laurencin,9
+2295847,10:11:00,10:11:10,stop_point:SP_1306,Pont de Ginestous,10
+2295847,10:12:00,10:12:10,stop_point:SP_956,Adonis,11
+2295847,10:14:00,10:14:10,stop_point:SP_3362,Fonquerne,12
+2295847,10:15:00,10:15:10,stop_point:SP_1409,Rateau,13
+2295847,10:16:00,10:16:10,stop_point:SP_124,Silvio Trentin,14
+2295847,10:17:00,10:17:10,stop_point:SP_3068,Barrière de Paris,15
+2295847,10:18:00,10:18:10,stop_point:SP_5167,Barrière de Paris,16
+2295848,10:40:00,10:40:10,stop_point:SP_4480,Ginestous Chênes,1
+2295848,10:41:00,10:41:10,stop_point:SP_4476,Pont de Rupé,2
+2295848,10:43:00,10:43:10,stop_point:SP_4477,Picarel,3
+2295848,10:45:00,10:45:10,stop_point:SP_4479,Pôle,4
+2295848,10:46:00,10:46:10,stop_point:SP_3331,ZI La Glacière,5
+2295848,10:47:00,10:47:10,stop_point:SP_5190,ZAC Garonne,6
+2295848,10:47:00,10:47:10,stop_point:SP_2313,Eberhardt,7
+2295848,10:48:00,10:48:10,stop_point:SP_5201,Croizat,8
+2295848,10:49:00,10:49:10,stop_point:SP_1375,Laurencin,9
+2295848,10:51:00,10:51:10,stop_point:SP_1306,Pont de Ginestous,10
+2295848,10:52:00,10:52:10,stop_point:SP_956,Adonis,11
+2295848,10:54:00,10:54:10,stop_point:SP_3362,Fonquerne,12
+2295848,10:55:00,10:55:10,stop_point:SP_1409,Rateau,13
+2295848,10:56:00,10:56:10,stop_point:SP_124,Silvio Trentin,14
+2295848,10:57:00,10:57:10,stop_point:SP_3068,Barrière de Paris,15
+2295848,10:58:00,10:58:10,stop_point:SP_5167,Barrière de Paris,16
+2295849,11:20:00,11:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295849,11:21:00,11:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295849,11:23:00,11:23:10,stop_point:SP_4477,Picarel,3
+2295849,11:25:00,11:25:10,stop_point:SP_4479,Pôle,4
+2295849,11:26:00,11:26:10,stop_point:SP_3331,ZI La Glacière,5
+2295849,11:27:00,11:27:10,stop_point:SP_5190,ZAC Garonne,6
+2295849,11:27:00,11:27:10,stop_point:SP_2313,Eberhardt,7
+2295849,11:28:00,11:28:10,stop_point:SP_5201,Croizat,8
+2295849,11:29:00,11:29:10,stop_point:SP_1375,Laurencin,9
+2295849,11:31:00,11:31:10,stop_point:SP_1306,Pont de Ginestous,10
+2295849,11:32:00,11:32:10,stop_point:SP_956,Adonis,11
+2295849,11:34:00,11:34:10,stop_point:SP_3362,Fonquerne,12
+2295849,11:35:00,11:35:10,stop_point:SP_1409,Rateau,13
+2295849,11:36:00,11:36:10,stop_point:SP_124,Silvio Trentin,14
+2295849,11:37:00,11:37:10,stop_point:SP_3068,Barrière de Paris,15
+2295849,11:38:00,11:38:10,stop_point:SP_5167,Barrière de Paris,16
+2295850,12:00:00,12:00:10,stop_point:SP_4480,Ginestous Chênes,1
+2295850,12:01:00,12:01:10,stop_point:SP_4476,Pont de Rupé,2
+2295850,12:03:00,12:03:10,stop_point:SP_4477,Picarel,3
+2295850,12:05:00,12:05:10,stop_point:SP_4479,Pôle,4
+2295850,12:06:00,12:06:10,stop_point:SP_3331,ZI La Glacière,5
+2295850,12:07:00,12:07:10,stop_point:SP_5190,ZAC Garonne,6
+2295850,12:07:00,12:07:10,stop_point:SP_2313,Eberhardt,7
+2295850,12:08:00,12:08:10,stop_point:SP_5201,Croizat,8
+2295850,12:09:00,12:09:10,stop_point:SP_1375,Laurencin,9
+2295850,12:11:00,12:11:10,stop_point:SP_1306,Pont de Ginestous,10
+2295850,12:12:00,12:12:10,stop_point:SP_956,Adonis,11
+2295850,12:14:00,12:14:10,stop_point:SP_3362,Fonquerne,12
+2295850,12:15:00,12:15:10,stop_point:SP_1409,Rateau,13
+2295850,12:16:00,12:16:10,stop_point:SP_124,Silvio Trentin,14
+2295850,12:17:00,12:17:10,stop_point:SP_3068,Barrière de Paris,15
+2295850,12:18:00,12:18:10,stop_point:SP_5167,Barrière de Paris,16
+2295851,12:40:00,12:40:10,stop_point:SP_4480,Ginestous Chênes,1
+2295851,12:41:00,12:41:10,stop_point:SP_4476,Pont de Rupé,2
+2295851,12:43:00,12:43:10,stop_point:SP_4477,Picarel,3
+2295851,12:45:00,12:45:10,stop_point:SP_4479,Pôle,4
+2295851,12:46:00,12:46:10,stop_point:SP_3331,ZI La Glacière,5
+2295851,12:47:00,12:47:10,stop_point:SP_5190,ZAC Garonne,6
+2295851,12:47:00,12:47:10,stop_point:SP_2313,Eberhardt,7
+2295851,12:48:00,12:48:10,stop_point:SP_5201,Croizat,8
+2295851,12:49:00,12:49:10,stop_point:SP_1375,Laurencin,9
+2295851,12:51:00,12:51:10,stop_point:SP_1306,Pont de Ginestous,10
+2295851,12:52:00,12:52:10,stop_point:SP_956,Adonis,11
+2295851,12:54:00,12:54:10,stop_point:SP_3362,Fonquerne,12
+2295851,12:55:00,12:55:10,stop_point:SP_1409,Rateau,13
+2295851,12:56:00,12:56:10,stop_point:SP_124,Silvio Trentin,14
+2295851,12:57:00,12:57:10,stop_point:SP_3068,Barrière de Paris,15
+2295851,12:58:00,12:58:10,stop_point:SP_5167,Barrière de Paris,16
+2295852,13:20:00,13:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295852,13:21:00,13:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295852,13:23:00,13:23:10,stop_point:SP_4477,Picarel,3
+2295852,13:25:00,13:25:10,stop_point:SP_4479,Pôle,4
+2295852,13:26:00,13:26:10,stop_point:SP_3331,ZI La Glacière,5
+2295852,13:27:00,13:27:10,stop_point:SP_5190,ZAC Garonne,6
+2295852,13:27:00,13:27:10,stop_point:SP_2313,Eberhardt,7
+2295852,13:28:00,13:28:10,stop_point:SP_5201,Croizat,8
+2295852,13:29:00,13:29:10,stop_point:SP_1375,Laurencin,9
+2295852,13:31:00,13:31:10,stop_point:SP_1306,Pont de Ginestous,10
+2295852,13:32:00,13:32:10,stop_point:SP_956,Adonis,11
+2295852,13:34:00,13:34:10,stop_point:SP_3362,Fonquerne,12
+2295852,13:35:00,13:35:10,stop_point:SP_1409,Rateau,13
+2295852,13:36:00,13:36:10,stop_point:SP_124,Silvio Trentin,14
+2295852,13:37:00,13:37:10,stop_point:SP_3068,Barrière de Paris,15
+2295852,13:38:00,13:38:10,stop_point:SP_5167,Barrière de Paris,16
+2295853,13:55:00,13:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295853,13:56:00,13:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295853,13:58:00,13:58:10,stop_point:SP_4477,Picarel,3
+2295853,14:00:00,14:00:10,stop_point:SP_4479,Pôle,4
+2295853,14:01:00,14:01:10,stop_point:SP_3331,ZI La Glacière,5
+2295853,14:02:00,14:02:10,stop_point:SP_5190,ZAC Garonne,6
+2295853,14:02:00,14:02:10,stop_point:SP_2313,Eberhardt,7
+2295853,14:03:00,14:03:10,stop_point:SP_5201,Croizat,8
+2295853,14:04:00,14:04:10,stop_point:SP_1375,Laurencin,9
+2295853,14:06:00,14:06:10,stop_point:SP_1306,Pont de Ginestous,10
+2295853,14:07:00,14:07:10,stop_point:SP_956,Adonis,11
+2295853,14:09:00,14:09:10,stop_point:SP_3362,Fonquerne,12
+2295853,14:10:00,14:10:10,stop_point:SP_1409,Rateau,13
+2295853,14:11:00,14:11:10,stop_point:SP_124,Silvio Trentin,14
+2295853,14:12:00,14:12:10,stop_point:SP_3068,Barrière de Paris,15
+2295853,14:13:00,14:13:10,stop_point:SP_5167,Barrière de Paris,16
+2295854,14:35:00,14:35:10,stop_point:SP_4480,Ginestous Chênes,1
+2295854,14:36:00,14:36:10,stop_point:SP_4476,Pont de Rupé,2
+2295854,14:38:00,14:38:10,stop_point:SP_4477,Picarel,3
+2295854,14:40:00,14:40:10,stop_point:SP_4479,Pôle,4
+2295854,14:41:00,14:41:10,stop_point:SP_3331,ZI La Glacière,5
+2295854,14:42:00,14:42:10,stop_point:SP_5190,ZAC Garonne,6
+2295854,14:42:00,14:42:10,stop_point:SP_2313,Eberhardt,7
+2295854,14:43:00,14:43:10,stop_point:SP_5201,Croizat,8
+2295854,14:44:00,14:44:10,stop_point:SP_1375,Laurencin,9
+2295854,14:46:00,14:46:10,stop_point:SP_1306,Pont de Ginestous,10
+2295854,14:47:00,14:47:10,stop_point:SP_956,Adonis,11
+2295854,14:49:00,14:49:10,stop_point:SP_3362,Fonquerne,12
+2295854,14:50:00,14:50:10,stop_point:SP_1409,Rateau,13
+2295854,14:51:00,14:51:10,stop_point:SP_124,Silvio Trentin,14
+2295854,14:52:00,14:52:10,stop_point:SP_3068,Barrière de Paris,15
+2295854,14:53:00,14:53:10,stop_point:SP_5167,Barrière de Paris,16
+2295855,15:15:00,15:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295855,15:16:00,15:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295855,15:18:00,15:18:10,stop_point:SP_4477,Picarel,3
+2295855,15:20:00,15:20:10,stop_point:SP_4479,Pôle,4
+2295855,15:21:00,15:21:10,stop_point:SP_3331,ZI La Glacière,5
+2295855,15:22:00,15:22:10,stop_point:SP_5190,ZAC Garonne,6
+2295855,15:22:00,15:22:10,stop_point:SP_2313,Eberhardt,7
+2295855,15:23:00,15:23:10,stop_point:SP_5201,Croizat,8
+2295855,15:24:00,15:24:10,stop_point:SP_1375,Laurencin,9
+2295855,15:26:00,15:26:10,stop_point:SP_1306,Pont de Ginestous,10
+2295855,15:27:00,15:27:10,stop_point:SP_956,Adonis,11
+2295855,15:29:00,15:29:10,stop_point:SP_3362,Fonquerne,12
+2295855,15:30:00,15:30:10,stop_point:SP_1409,Rateau,13
+2295855,15:31:00,15:31:10,stop_point:SP_124,Silvio Trentin,14
+2295855,15:32:00,15:32:10,stop_point:SP_3068,Barrière de Paris,15
+2295855,15:33:00,15:33:10,stop_point:SP_5167,Barrière de Paris,16
+2295856,15:55:00,15:55:10,stop_point:SP_4480,Ginestous Chênes,1
+2295856,15:56:00,15:56:10,stop_point:SP_4476,Pont de Rupé,2
+2295856,15:58:00,15:58:10,stop_point:SP_4477,Picarel,3
+2295856,16:00:00,16:00:10,stop_point:SP_4479,Pôle,4
+2295856,16:01:00,16:01:10,stop_point:SP_3331,ZI La Glacière,5
+2295856,16:02:00,16:02:10,stop_point:SP_5190,ZAC Garonne,6
+2295856,16:02:00,16:02:10,stop_point:SP_2313,Eberhardt,7
+2295856,16:03:00,16:03:10,stop_point:SP_5201,Croizat,8
+2295856,16:04:00,16:04:10,stop_point:SP_1375,Laurencin,9
+2295856,16:06:00,16:06:10,stop_point:SP_1306,Pont de Ginestous,10
+2295856,16:07:00,16:07:10,stop_point:SP_956,Adonis,11
+2295856,16:09:00,16:09:10,stop_point:SP_3362,Fonquerne,12
+2295856,16:10:00,16:10:10,stop_point:SP_1409,Rateau,13
+2295856,16:11:00,16:11:10,stop_point:SP_124,Silvio Trentin,14
+2295856,16:12:00,16:12:10,stop_point:SP_3068,Barrière de Paris,15
+2295856,16:13:00,16:13:10,stop_point:SP_5167,Barrière de Paris,16
+2295857,16:35:00,16:35:10,stop_point:SP_4480,Ginestous Chênes,1
+2295857,16:36:00,16:36:10,stop_point:SP_4476,Pont de Rupé,2
+2295857,16:38:00,16:38:10,stop_point:SP_4477,Picarel,3
+2295857,16:40:00,16:40:10,stop_point:SP_4479,Pôle,4
+2295857,16:41:00,16:41:10,stop_point:SP_3331,ZI La Glacière,5
+2295857,16:42:00,16:42:10,stop_point:SP_5190,ZAC Garonne,6
+2295857,16:42:00,16:42:10,stop_point:SP_2313,Eberhardt,7
+2295857,16:43:00,16:43:10,stop_point:SP_5201,Croizat,8
+2295857,16:44:00,16:44:10,stop_point:SP_1375,Laurencin,9
+2295857,16:46:00,16:46:10,stop_point:SP_1306,Pont de Ginestous,10
+2295857,16:47:00,16:47:10,stop_point:SP_956,Adonis,11
+2295857,16:49:00,16:49:10,stop_point:SP_3362,Fonquerne,12
+2295857,16:50:00,16:50:10,stop_point:SP_1409,Rateau,13
+2295857,16:51:00,16:51:10,stop_point:SP_124,Silvio Trentin,14
+2295857,16:52:00,16:52:10,stop_point:SP_3068,Barrière de Paris,15
+2295857,16:53:00,16:53:10,stop_point:SP_5167,Barrière de Paris,16
+2295858,17:20:00,17:20:10,stop_point:SP_4480,Ginestous Chênes,1
+2295858,17:21:00,17:21:10,stop_point:SP_4476,Pont de Rupé,2
+2295858,17:23:00,17:23:10,stop_point:SP_4477,Picarel,3
+2295858,17:25:00,17:25:10,stop_point:SP_4479,Pôle,4
+2295858,17:26:00,17:26:10,stop_point:SP_3331,ZI La Glacière,5
+2295858,17:27:00,17:27:10,stop_point:SP_5190,ZAC Garonne,6
+2295858,17:27:00,17:27:10,stop_point:SP_2313,Eberhardt,7
+2295858,17:28:00,17:28:10,stop_point:SP_5201,Croizat,8
+2295858,17:29:00,17:29:10,stop_point:SP_1375,Laurencin,9
+2295858,17:31:00,17:31:10,stop_point:SP_1306,Pont de Ginestous,10
+2295858,17:32:00,17:32:10,stop_point:SP_956,Adonis,11
+2295858,17:34:00,17:34:10,stop_point:SP_3362,Fonquerne,12
+2295858,17:35:00,17:35:10,stop_point:SP_1409,Rateau,13
+2295858,17:36:00,17:36:10,stop_point:SP_124,Silvio Trentin,14
+2295858,17:37:00,17:37:10,stop_point:SP_3068,Barrière de Paris,15
+2295858,17:38:00,17:38:10,stop_point:SP_5167,Barrière de Paris,16
+2295859,18:10:00,18:10:10,stop_point:SP_4480,Ginestous Chênes,1
+2295859,18:11:00,18:11:10,stop_point:SP_4476,Pont de Rupé,2
+2295859,18:13:00,18:13:10,stop_point:SP_4477,Picarel,3
+2295859,18:15:00,18:15:10,stop_point:SP_4479,Pôle,4
+2295859,18:16:00,18:16:10,stop_point:SP_3331,ZI La Glacière,5
+2295859,18:17:00,18:17:10,stop_point:SP_5190,ZAC Garonne,6
+2295859,18:17:00,18:17:10,stop_point:SP_2313,Eberhardt,7
+2295859,18:18:00,18:18:10,stop_point:SP_5201,Croizat,8
+2295859,18:19:00,18:19:10,stop_point:SP_1375,Laurencin,9
+2295859,18:21:00,18:21:10,stop_point:SP_1306,Pont de Ginestous,10
+2295859,18:22:00,18:22:10,stop_point:SP_956,Adonis,11
+2295859,18:24:00,18:24:10,stop_point:SP_3362,Fonquerne,12
+2295859,18:25:00,18:25:10,stop_point:SP_1409,Rateau,13
+2295859,18:26:00,18:26:10,stop_point:SP_124,Silvio Trentin,14
+2295859,18:27:00,18:27:10,stop_point:SP_3068,Barrière de Paris,15
+2295859,18:28:00,18:28:10,stop_point:SP_5167,Barrière de Paris,16
+2295860,19:00:00,19:00:10,stop_point:SP_4480,Ginestous Chênes,1
+2295860,19:01:00,19:01:10,stop_point:SP_4476,Pont de Rupé,2
+2295860,19:03:00,19:03:10,stop_point:SP_4477,Picarel,3
+2295860,19:05:00,19:05:10,stop_point:SP_4479,Pôle,4
+2295860,19:06:00,19:06:10,stop_point:SP_3331,ZI La Glacière,5
+2295860,19:07:00,19:07:10,stop_point:SP_5190,ZAC Garonne,6
+2295860,19:07:00,19:07:10,stop_point:SP_2313,Eberhardt,7
+2295860,19:08:00,19:08:10,stop_point:SP_5201,Croizat,8
+2295860,19:09:00,19:09:10,stop_point:SP_1375,Laurencin,9
+2295860,19:11:00,19:11:10,stop_point:SP_1306,Pont de Ginestous,10
+2295860,19:12:00,19:12:10,stop_point:SP_956,Adonis,11
+2295860,19:14:00,19:14:10,stop_point:SP_3362,Fonquerne,12
+2295860,19:15:00,19:15:10,stop_point:SP_1409,Rateau,13
+2295860,19:16:00,19:16:10,stop_point:SP_124,Silvio Trentin,14
+2295860,19:17:00,19:17:10,stop_point:SP_3068,Barrière de Paris,15
+2295860,19:18:00,19:18:10,stop_point:SP_5167,Barrière de Paris,16
+2295861,19:40:00,19:40:10,stop_point:SP_4480,Ginestous Chênes,1
+2295861,19:41:00,19:41:10,stop_point:SP_4476,Pont de Rupé,2
+2295861,19:42:00,19:42:10,stop_point:SP_4477,Picarel,3
+2295861,19:44:00,19:44:10,stop_point:SP_4479,Pôle,4
+2295861,19:45:00,19:45:10,stop_point:SP_3331,ZI La Glacière,5
+2295861,19:46:00,19:46:10,stop_point:SP_5190,ZAC Garonne,6
+2295861,19:46:00,19:46:10,stop_point:SP_2313,Eberhardt,7
+2295861,19:47:00,19:47:10,stop_point:SP_5201,Croizat,8
+2295861,19:48:00,19:48:10,stop_point:SP_1375,Laurencin,9
+2295861,19:50:00,19:50:10,stop_point:SP_1306,Pont de Ginestous,10
+2295861,19:51:00,19:51:10,stop_point:SP_956,Adonis,11
+2295861,19:52:00,19:52:10,stop_point:SP_3362,Fonquerne,12
+2295861,19:53:00,19:53:10,stop_point:SP_1409,Rateau,13
+2295861,19:54:00,19:54:10,stop_point:SP_124,Silvio Trentin,14
+2295861,19:55:00,19:55:10,stop_point:SP_3068,Barrière de Paris,15
+2295861,19:56:00,19:56:10,stop_point:SP_5167,Barrière de Paris,16
+2295862,20:15:00,20:15:10,stop_point:SP_4480,Ginestous Chênes,1
+2295862,20:16:00,20:16:10,stop_point:SP_4476,Pont de Rupé,2
+2295862,20:17:00,20:17:10,stop_point:SP_4477,Picarel,3
+2295862,20:19:00,20:19:10,stop_point:SP_4479,Pôle,4
+2295862,20:20:00,20:20:10,stop_point:SP_3331,ZI La Glacière,5
+2295862,20:21:00,20:21:10,stop_point:SP_5190,ZAC Garonne,6
+2295862,20:21:00,20:21:10,stop_point:SP_2313,Eberhardt,7
+2295862,20:22:00,20:22:10,stop_point:SP_5201,Croizat,8
+2295862,20:23:00,20:23:10,stop_point:SP_1375,Laurencin,9
+2295862,20:25:00,20:25:10,stop_point:SP_1306,Pont de Ginestous,10
+2295862,20:26:00,20:26:10,stop_point:SP_956,Adonis,11
+2295862,20:27:00,20:27:10,stop_point:SP_3362,Fonquerne,12
+2295862,20:28:00,20:28:10,stop_point:SP_1409,Rateau,13
+2295862,20:29:00,20:29:10,stop_point:SP_124,Silvio Trentin,14
+2295862,20:30:00,20:30:10,stop_point:SP_3068,Barrière de Paris,15
+2295862,20:31:00,20:31:10,stop_point:SP_5167,Barrière de Paris,16

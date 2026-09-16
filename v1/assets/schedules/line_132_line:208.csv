@@ -1,0 +1,239 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2294069,06:30:00,06:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294069,06:32:00,06:32:10,stop_point:SP_5193,Egalité,2
+2294069,06:33:00,06:33:10,stop_point:SP_5198,Chantelle,3
+2294069,06:35:00,06:35:10,stop_point:SP_5203,Croizat,4
+2294069,06:36:00,06:36:10,stop_point:SP_792,Eberhardt,5
+2294069,06:37:00,06:37:10,stop_point:SP_5204,ZAC Garonne,6
+2294069,06:38:00,06:38:10,stop_point:SP_1238,ZI La Glacière,7
+2294069,06:39:00,06:39:10,stop_point:SP_3949,Pôle,8
+2294070,07:00:00,07:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294070,07:02:00,07:02:10,stop_point:SP_5193,Egalité,2
+2294070,07:03:00,07:03:10,stop_point:SP_5198,Chantelle,3
+2294070,07:05:00,07:05:10,stop_point:SP_5203,Croizat,4
+2294070,07:06:00,07:06:10,stop_point:SP_792,Eberhardt,5
+2294070,07:07:00,07:07:10,stop_point:SP_5204,ZAC Garonne,6
+2294070,07:08:00,07:08:10,stop_point:SP_1238,ZI La Glacière,7
+2294070,07:09:00,07:09:10,stop_point:SP_3949,Pôle,8
+2294071,07:30:00,07:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294071,07:32:00,07:32:10,stop_point:SP_5193,Egalité,2
+2294071,07:33:00,07:33:10,stop_point:SP_5198,Chantelle,3
+2294071,07:35:00,07:35:10,stop_point:SP_5203,Croizat,4
+2294071,07:36:00,07:36:10,stop_point:SP_792,Eberhardt,5
+2294071,07:37:00,07:37:10,stop_point:SP_5204,ZAC Garonne,6
+2294071,07:38:00,07:38:10,stop_point:SP_1238,ZI La Glacière,7
+2294071,07:39:00,07:39:10,stop_point:SP_3949,Pôle,8
+2294072,08:00:00,08:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294072,08:02:00,08:02:10,stop_point:SP_5193,Egalité,2
+2294072,08:03:00,08:03:10,stop_point:SP_5198,Chantelle,3
+2294072,08:05:00,08:05:10,stop_point:SP_5203,Croizat,4
+2294072,08:06:00,08:06:10,stop_point:SP_792,Eberhardt,5
+2294072,08:07:00,08:07:10,stop_point:SP_5204,ZAC Garonne,6
+2294072,08:08:00,08:08:10,stop_point:SP_1238,ZI La Glacière,7
+2294072,08:09:00,08:09:10,stop_point:SP_3949,Pôle,8
+2294073,08:30:00,08:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294073,08:32:00,08:32:10,stop_point:SP_5193,Egalité,2
+2294073,08:33:00,08:33:10,stop_point:SP_5198,Chantelle,3
+2294073,08:35:00,08:35:10,stop_point:SP_5203,Croizat,4
+2294073,08:36:00,08:36:10,stop_point:SP_792,Eberhardt,5
+2294073,08:37:00,08:37:10,stop_point:SP_5204,ZAC Garonne,6
+2294073,08:38:00,08:38:10,stop_point:SP_1238,ZI La Glacière,7
+2294073,08:39:00,08:39:10,stop_point:SP_3949,Pôle,8
+2294074,09:00:00,09:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294074,09:02:00,09:02:10,stop_point:SP_5193,Egalité,2
+2294074,09:03:00,09:03:10,stop_point:SP_5198,Chantelle,3
+2294074,09:05:00,09:05:10,stop_point:SP_5203,Croizat,4
+2294074,09:06:00,09:06:10,stop_point:SP_792,Eberhardt,5
+2294074,09:07:00,09:07:10,stop_point:SP_5204,ZAC Garonne,6
+2294074,09:08:00,09:08:10,stop_point:SP_1238,ZI La Glacière,7
+2294074,09:09:00,09:09:10,stop_point:SP_3949,Pôle,8
+2294075,09:30:00,09:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294075,09:32:00,09:32:10,stop_point:SP_5193,Egalité,2
+2294075,09:32:00,09:32:10,stop_point:SP_5198,Chantelle,3
+2294075,09:35:00,09:35:10,stop_point:SP_5203,Croizat,4
+2294075,09:36:00,09:36:10,stop_point:SP_792,Eberhardt,5
+2294075,09:36:00,09:36:10,stop_point:SP_5204,ZAC Garonne,6
+2294075,09:37:00,09:37:10,stop_point:SP_1238,ZI La Glacière,7
+2294075,09:38:00,09:38:10,stop_point:SP_3949,Pôle,8
+2294076,16:30:00,16:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294076,16:32:00,16:32:10,stop_point:SP_5193,Egalité,2
+2294076,16:32:00,16:32:10,stop_point:SP_5198,Chantelle,3
+2294076,16:35:00,16:35:10,stop_point:SP_5203,Croizat,4
+2294076,16:36:00,16:36:10,stop_point:SP_792,Eberhardt,5
+2294076,16:36:00,16:36:10,stop_point:SP_5204,ZAC Garonne,6
+2294076,16:37:00,16:37:10,stop_point:SP_1238,ZI La Glacière,7
+2294076,16:38:00,16:38:10,stop_point:SP_3949,Pôle,8
+2294077,17:00:00,17:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294077,17:02:00,17:02:10,stop_point:SP_5193,Egalité,2
+2294077,17:03:00,17:03:10,stop_point:SP_5198,Chantelle,3
+2294077,17:05:00,17:05:10,stop_point:SP_5203,Croizat,4
+2294077,17:06:00,17:06:10,stop_point:SP_792,Eberhardt,5
+2294077,17:07:00,17:07:10,stop_point:SP_5204,ZAC Garonne,6
+2294077,17:08:00,17:08:10,stop_point:SP_1238,ZI La Glacière,7
+2294077,17:09:00,17:09:10,stop_point:SP_3949,Pôle,8
+2294078,17:30:00,17:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294078,17:32:00,17:32:10,stop_point:SP_5193,Egalité,2
+2294078,17:33:00,17:33:10,stop_point:SP_5198,Chantelle,3
+2294078,17:35:00,17:35:10,stop_point:SP_5203,Croizat,4
+2294078,17:36:00,17:36:10,stop_point:SP_792,Eberhardt,5
+2294078,17:37:00,17:37:10,stop_point:SP_5204,ZAC Garonne,6
+2294078,17:38:00,17:38:10,stop_point:SP_1238,ZI La Glacière,7
+2294078,17:39:00,17:39:10,stop_point:SP_3949,Pôle,8
+2294079,18:00:00,18:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294079,18:02:00,18:02:10,stop_point:SP_5193,Egalité,2
+2294079,18:03:00,18:03:10,stop_point:SP_5198,Chantelle,3
+2294079,18:05:00,18:05:10,stop_point:SP_5203,Croizat,4
+2294079,18:06:00,18:06:10,stop_point:SP_792,Eberhardt,5
+2294079,18:07:00,18:07:10,stop_point:SP_5204,ZAC Garonne,6
+2294079,18:08:00,18:08:10,stop_point:SP_1238,ZI La Glacière,7
+2294079,18:09:00,18:09:10,stop_point:SP_3949,Pôle,8
+2294080,18:30:00,18:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294080,18:32:00,18:32:10,stop_point:SP_5193,Egalité,2
+2294080,18:33:00,18:33:10,stop_point:SP_5198,Chantelle,3
+2294080,18:35:00,18:35:10,stop_point:SP_5203,Croizat,4
+2294080,18:36:00,18:36:10,stop_point:SP_792,Eberhardt,5
+2294080,18:37:00,18:37:10,stop_point:SP_5204,ZAC Garonne,6
+2294080,18:38:00,18:38:10,stop_point:SP_1238,ZI La Glacière,7
+2294080,18:39:00,18:39:10,stop_point:SP_3949,Pôle,8
+2294081,19:00:00,19:00:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294081,19:02:00,19:02:10,stop_point:SP_5193,Egalité,2
+2294081,19:02:00,19:02:10,stop_point:SP_5198,Chantelle,3
+2294081,19:05:00,19:05:10,stop_point:SP_5203,Croizat,4
+2294081,19:06:00,19:06:10,stop_point:SP_792,Eberhardt,5
+2294081,19:06:00,19:06:10,stop_point:SP_5204,ZAC Garonne,6
+2294081,19:07:00,19:07:10,stop_point:SP_1238,ZI La Glacière,7
+2294081,19:08:00,19:08:10,stop_point:SP_3949,Pôle,8
+2294082,19:30:00,19:30:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,1
+2294082,19:32:00,19:32:10,stop_point:SP_5193,Egalité,2
+2294082,19:32:00,19:32:10,stop_point:SP_5198,Chantelle,3
+2294082,19:35:00,19:35:10,stop_point:SP_5203,Croizat,4
+2294082,19:36:00,19:36:10,stop_point:SP_792,Eberhardt,5
+2294082,19:36:00,19:36:10,stop_point:SP_5204,ZAC Garonne,6
+2294082,19:37:00,19:37:10,stop_point:SP_1238,ZI La Glacière,7
+2294082,19:38:00,19:38:10,stop_point:SP_3949,Pôle,8
+2294083,06:39:00,06:39:10,stop_point:SP_3949,Pôle,1
+2294083,06:40:00,06:40:10,stop_point:SP_4479,Pôle,2
+2294083,06:41:00,06:41:10,stop_point:SP_3331,ZI La Glacière,3
+2294083,06:42:00,06:42:10,stop_point:SP_5190,ZAC Garonne,4
+2294083,06:43:00,06:43:10,stop_point:SP_2313,Eberhardt,5
+2294083,06:43:00,06:43:10,stop_point:SP_5201,Croizat,6
+2294083,06:45:00,06:45:10,stop_point:SP_5185,Chantelle,7
+2294083,06:46:00,06:46:10,stop_point:SP_5183,Egalité,8
+2294083,06:48:00,06:48:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294084,07:09:00,07:09:10,stop_point:SP_3949,Pôle,1
+2294084,07:10:00,07:10:10,stop_point:SP_4479,Pôle,2
+2294084,07:11:00,07:11:10,stop_point:SP_3331,ZI La Glacière,3
+2294084,07:12:00,07:12:10,stop_point:SP_5190,ZAC Garonne,4
+2294084,07:13:00,07:13:10,stop_point:SP_2313,Eberhardt,5
+2294084,07:13:00,07:13:10,stop_point:SP_5201,Croizat,6
+2294084,07:15:00,07:15:10,stop_point:SP_5185,Chantelle,7
+2294084,07:16:00,07:16:10,stop_point:SP_5183,Egalité,8
+2294084,07:18:00,07:18:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294085,07:39:00,07:39:10,stop_point:SP_3949,Pôle,1
+2294085,07:40:00,07:40:10,stop_point:SP_4479,Pôle,2
+2294085,07:41:00,07:41:10,stop_point:SP_3331,ZI La Glacière,3
+2294085,07:42:00,07:42:10,stop_point:SP_5190,ZAC Garonne,4
+2294085,07:43:00,07:43:10,stop_point:SP_2313,Eberhardt,5
+2294085,07:43:00,07:43:10,stop_point:SP_5201,Croizat,6
+2294085,07:45:00,07:45:10,stop_point:SP_5185,Chantelle,7
+2294085,07:46:00,07:46:10,stop_point:SP_5183,Egalité,8
+2294085,07:48:00,07:48:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294086,08:09:00,08:09:10,stop_point:SP_3949,Pôle,1
+2294086,08:11:00,08:11:10,stop_point:SP_4479,Pôle,2
+2294086,08:12:00,08:12:10,stop_point:SP_3331,ZI La Glacière,3
+2294086,08:13:00,08:13:10,stop_point:SP_5190,ZAC Garonne,4
+2294086,08:13:00,08:13:10,stop_point:SP_2313,Eberhardt,5
+2294086,08:14:00,08:14:10,stop_point:SP_5201,Croizat,6
+2294086,08:16:00,08:16:10,stop_point:SP_5185,Chantelle,7
+2294086,08:17:00,08:17:10,stop_point:SP_5183,Egalité,8
+2294086,08:19:00,08:19:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294087,08:39:00,08:39:10,stop_point:SP_3949,Pôle,1
+2294087,08:40:00,08:40:10,stop_point:SP_4479,Pôle,2
+2294087,08:41:00,08:41:10,stop_point:SP_3331,ZI La Glacière,3
+2294087,08:42:00,08:42:10,stop_point:SP_5190,ZAC Garonne,4
+2294087,08:43:00,08:43:10,stop_point:SP_2313,Eberhardt,5
+2294087,08:43:00,08:43:10,stop_point:SP_5201,Croizat,6
+2294087,08:45:00,08:45:10,stop_point:SP_5185,Chantelle,7
+2294087,08:46:00,08:46:10,stop_point:SP_5183,Egalité,8
+2294087,08:48:00,08:48:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294088,09:09:00,09:09:10,stop_point:SP_3949,Pôle,1
+2294088,09:10:00,09:10:10,stop_point:SP_4479,Pôle,2
+2294088,09:11:00,09:11:10,stop_point:SP_3331,ZI La Glacière,3
+2294088,09:12:00,09:12:10,stop_point:SP_5190,ZAC Garonne,4
+2294088,09:13:00,09:13:10,stop_point:SP_2313,Eberhardt,5
+2294088,09:13:00,09:13:10,stop_point:SP_5201,Croizat,6
+2294088,09:15:00,09:15:10,stop_point:SP_5185,Chantelle,7
+2294088,09:16:00,09:16:10,stop_point:SP_5183,Egalité,8
+2294088,09:18:00,09:18:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294089,09:38:00,09:38:10,stop_point:SP_3949,Pôle,1
+2294089,09:39:00,09:39:10,stop_point:SP_4479,Pôle,2
+2294089,09:40:00,09:40:10,stop_point:SP_3331,ZI La Glacière,3
+2294089,09:41:00,09:41:10,stop_point:SP_5190,ZAC Garonne,4
+2294089,09:42:00,09:42:10,stop_point:SP_2313,Eberhardt,5
+2294089,09:42:00,09:42:10,stop_point:SP_5201,Croizat,6
+2294089,09:44:00,09:44:10,stop_point:SP_5185,Chantelle,7
+2294089,09:45:00,09:45:10,stop_point:SP_5183,Egalité,8
+2294089,09:47:00,09:47:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294090,16:38:00,16:38:10,stop_point:SP_3949,Pôle,1
+2294090,16:39:00,16:39:10,stop_point:SP_4479,Pôle,2
+2294090,16:40:00,16:40:10,stop_point:SP_3331,ZI La Glacière,3
+2294090,16:41:00,16:41:10,stop_point:SP_5190,ZAC Garonne,4
+2294090,16:42:00,16:42:10,stop_point:SP_2313,Eberhardt,5
+2294090,16:42:00,16:42:10,stop_point:SP_5201,Croizat,6
+2294090,16:44:00,16:44:10,stop_point:SP_5185,Chantelle,7
+2294090,16:45:00,16:45:10,stop_point:SP_5183,Egalité,8
+2294090,16:47:00,16:47:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294091,17:09:00,17:09:10,stop_point:SP_3949,Pôle,1
+2294091,17:10:00,17:10:10,stop_point:SP_4479,Pôle,2
+2294091,17:11:00,17:11:10,stop_point:SP_3331,ZI La Glacière,3
+2294091,17:12:00,17:12:10,stop_point:SP_5190,ZAC Garonne,4
+2294091,17:13:00,17:13:10,stop_point:SP_2313,Eberhardt,5
+2294091,17:13:00,17:13:10,stop_point:SP_5201,Croizat,6
+2294091,17:15:00,17:15:10,stop_point:SP_5185,Chantelle,7
+2294091,17:16:00,17:16:10,stop_point:SP_5183,Egalité,8
+2294091,17:18:00,17:18:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294092,17:39:00,17:39:10,stop_point:SP_3949,Pôle,1
+2294092,17:40:00,17:40:10,stop_point:SP_4479,Pôle,2
+2294092,17:41:00,17:41:10,stop_point:SP_3331,ZI La Glacière,3
+2294092,17:42:00,17:42:10,stop_point:SP_5190,ZAC Garonne,4
+2294092,17:43:00,17:43:10,stop_point:SP_2313,Eberhardt,5
+2294092,17:43:00,17:43:10,stop_point:SP_5201,Croizat,6
+2294092,17:45:00,17:45:10,stop_point:SP_5185,Chantelle,7
+2294092,17:46:00,17:46:10,stop_point:SP_5183,Egalité,8
+2294092,17:48:00,17:48:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294093,18:09:00,18:09:10,stop_point:SP_3949,Pôle,1
+2294093,18:10:00,18:10:10,stop_point:SP_4479,Pôle,2
+2294093,18:11:00,18:11:10,stop_point:SP_3331,ZI La Glacière,3
+2294093,18:12:00,18:12:10,stop_point:SP_5190,ZAC Garonne,4
+2294093,18:13:00,18:13:10,stop_point:SP_2313,Eberhardt,5
+2294093,18:13:00,18:13:10,stop_point:SP_5201,Croizat,6
+2294093,18:15:00,18:15:10,stop_point:SP_5185,Chantelle,7
+2294093,18:16:00,18:16:10,stop_point:SP_5183,Egalité,8
+2294093,18:18:00,18:18:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294094,18:39:00,18:39:10,stop_point:SP_3949,Pôle,1
+2294094,18:40:00,18:40:10,stop_point:SP_4479,Pôle,2
+2294094,18:41:00,18:41:10,stop_point:SP_3331,ZI La Glacière,3
+2294094,18:42:00,18:42:10,stop_point:SP_5190,ZAC Garonne,4
+2294094,18:43:00,18:43:10,stop_point:SP_2313,Eberhardt,5
+2294094,18:43:00,18:43:10,stop_point:SP_5201,Croizat,6
+2294094,18:45:00,18:45:10,stop_point:SP_5185,Chantelle,7
+2294094,18:46:00,18:46:10,stop_point:SP_5183,Egalité,8
+2294094,18:48:00,18:48:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294095,19:08:00,19:08:10,stop_point:SP_3949,Pôle,1
+2294095,19:09:00,19:09:10,stop_point:SP_4479,Pôle,2
+2294095,19:10:00,19:10:10,stop_point:SP_3331,ZI La Glacière,3
+2294095,19:11:00,19:11:10,stop_point:SP_5190,ZAC Garonne,4
+2294095,19:11:00,19:11:10,stop_point:SP_2313,Eberhardt,5
+2294095,19:12:00,19:12:10,stop_point:SP_5201,Croizat,6
+2294095,19:13:00,19:13:10,stop_point:SP_5185,Chantelle,7
+2294095,19:14:00,19:14:10,stop_point:SP_5183,Egalité,8
+2294095,19:16:00,19:16:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9
+2294096,19:38:00,19:38:10,stop_point:SP_3949,Pôle,1
+2294096,19:39:00,19:39:10,stop_point:SP_4479,Pôle,2
+2294096,19:40:00,19:40:10,stop_point:SP_3331,ZI La Glacière,3
+2294096,19:41:00,19:41:10,stop_point:SP_5190,ZAC Garonne,4
+2294096,19:41:00,19:41:10,stop_point:SP_2313,Eberhardt,5
+2294096,19:42:00,19:42:10,stop_point:SP_5201,Croizat,6
+2294096,19:43:00,19:43:10,stop_point:SP_5185,Chantelle,7
+2294096,19:44:00,19:44:10,stop_point:SP_5183,Egalité,8
+2294096,19:46:00,19:46:10,stop_point:SP_5181,Sept Deniers - Salvador Dali,9

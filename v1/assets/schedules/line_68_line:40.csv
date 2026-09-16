@@ -1,0 +1,1740 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2374956,06:20:00,06:20:10,stop_point:SP_3878,Balma-Gramont,1
+2374956,06:24:00,06:24:10,stop_point:SP_1045,ZI Montredon,2
+2374956,06:26:00,06:26:10,stop_point:SP_3464,D59,3
+2374956,06:27:00,06:27:10,stop_point:SP_2219,Ratalens,4
+2374956,06:28:00,06:28:10,stop_point:SP_1253,Sausse,5
+2374956,06:29:00,06:29:10,stop_point:SP_3246,Pasteur,6
+2374956,06:30:00,06:30:10,stop_point:SP_5700,Bessayre,7
+2374956,06:31:00,06:31:10,stop_point:SP_2153,Imbertis,8
+2374956,06:32:00,06:32:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374956,06:33:00,06:33:10,stop_point:SP_3372,Blanqui,10
+2374956,06:34:00,06:34:10,stop_point:SP_1052,F. Mitterrand,11
+2374956,06:35:00,06:35:10,stop_point:SP_427,Charlary,12
+2374956,06:36:00,06:36:10,stop_point:SP_3221,La Bisto,13
+2374956,06:36:00,06:36:10,stop_point:SP_873,Viste,14
+2374956,06:37:00,06:37:10,stop_point:SP_3824,Moulin,15
+2374956,06:38:00,06:38:10,stop_point:SP_926,Platanes,16
+2374956,06:39:00,06:39:10,stop_point:SP_2357,Château,17
+2374956,06:40:00,06:40:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374956,06:41:00,06:41:10,stop_point:SP_3568,Rouergue,19
+2374956,06:43:00,06:43:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374956,06:44:00,06:44:10,stop_point:SP_3967,Pissebaque,21
+2374956,06:45:00,06:45:10,stop_point:SP_3253,Cammas,22
+2374956,06:46:00,06:46:10,stop_point:SP_1090,Rebel,23
+2374956,06:47:00,06:47:10,stop_point:SP_811,Route d'Albi,24
+2374956,06:47:00,06:47:10,stop_point:SP_1895,Truffaut,25
+2374956,06:48:00,06:48:10,stop_point:SP_3471,Stade,26
+2374956,06:49:00,06:49:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374957,06:50:00,06:50:10,stop_point:SP_3878,Balma-Gramont,1
+2374957,06:54:00,06:54:10,stop_point:SP_1045,ZI Montredon,2
+2374957,06:57:00,06:57:10,stop_point:SP_3464,D59,3
+2374957,06:58:00,06:58:10,stop_point:SP_2219,Ratalens,4
+2374957,06:59:00,06:59:10,stop_point:SP_1253,Sausse,5
+2374957,07:00:00,07:00:10,stop_point:SP_3246,Pasteur,6
+2374957,07:01:00,07:01:10,stop_point:SP_5700,Bessayre,7
+2374957,07:02:00,07:02:10,stop_point:SP_2153,Imbertis,8
+2374957,07:03:00,07:03:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374957,07:04:00,07:04:10,stop_point:SP_3372,Blanqui,10
+2374957,07:05:00,07:05:10,stop_point:SP_1052,F. Mitterrand,11
+2374957,07:06:00,07:06:10,stop_point:SP_427,Charlary,12
+2374957,07:07:00,07:07:10,stop_point:SP_3221,La Bisto,13
+2374957,07:07:00,07:07:10,stop_point:SP_873,Viste,14
+2374957,07:08:00,07:08:10,stop_point:SP_3824,Moulin,15
+2374957,07:09:00,07:09:10,stop_point:SP_926,Platanes,16
+2374957,07:10:00,07:10:10,stop_point:SP_2357,Château,17
+2374957,07:11:00,07:11:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374957,07:12:00,07:12:10,stop_point:SP_3568,Rouergue,19
+2374957,07:14:00,07:14:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374957,07:15:00,07:15:10,stop_point:SP_3967,Pissebaque,21
+2374957,07:16:00,07:16:10,stop_point:SP_3253,Cammas,22
+2374957,07:17:00,07:17:10,stop_point:SP_1090,Rebel,23
+2374957,07:18:00,07:18:10,stop_point:SP_811,Route d'Albi,24
+2374957,07:18:00,07:18:10,stop_point:SP_1895,Truffaut,25
+2374957,07:19:00,07:19:10,stop_point:SP_3471,Stade,26
+2374957,07:20:00,07:20:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374958,08:30:00,08:30:10,stop_point:SP_3878,Balma-Gramont,1
+2374958,08:35:00,08:35:10,stop_point:SP_1045,ZI Montredon,2
+2374958,08:38:00,08:38:10,stop_point:SP_3464,D59,3
+2374958,08:39:00,08:39:10,stop_point:SP_2219,Ratalens,4
+2374958,08:40:00,08:40:10,stop_point:SP_1253,Sausse,5
+2374958,08:41:00,08:41:10,stop_point:SP_3246,Pasteur,6
+2374958,08:43:00,08:43:10,stop_point:SP_5700,Bessayre,7
+2374958,08:44:00,08:44:10,stop_point:SP_2153,Imbertis,8
+2374958,08:45:00,08:45:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374958,08:46:00,08:46:10,stop_point:SP_3372,Blanqui,10
+2374958,08:47:00,08:47:10,stop_point:SP_1052,F. Mitterrand,11
+2374958,08:48:00,08:48:10,stop_point:SP_427,Charlary,12
+2374958,08:49:00,08:49:10,stop_point:SP_3221,La Bisto,13
+2374958,08:49:00,08:49:10,stop_point:SP_873,Viste,14
+2374958,08:50:00,08:50:10,stop_point:SP_3824,Moulin,15
+2374958,08:51:00,08:51:10,stop_point:SP_926,Platanes,16
+2374958,08:52:00,08:52:10,stop_point:SP_2357,Château,17
+2374958,08:53:00,08:53:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374958,08:54:00,08:54:10,stop_point:SP_3568,Rouergue,19
+2374958,08:56:00,08:56:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374958,08:57:00,08:57:10,stop_point:SP_3967,Pissebaque,21
+2374958,08:58:00,08:58:10,stop_point:SP_3253,Cammas,22
+2374958,08:59:00,08:59:10,stop_point:SP_1090,Rebel,23
+2374958,09:00:00,09:00:10,stop_point:SP_811,Route d'Albi,24
+2374958,09:00:00,09:00:10,stop_point:SP_1895,Truffaut,25
+2374958,09:01:00,09:01:10,stop_point:SP_3471,Stade,26
+2374958,09:02:00,09:02:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374959,09:00:00,09:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374959,09:04:00,09:04:10,stop_point:SP_1045,ZI Montredon,2
+2374959,09:07:00,09:07:10,stop_point:SP_3464,D59,3
+2374959,09:08:00,09:08:10,stop_point:SP_2219,Ratalens,4
+2374959,09:09:00,09:09:10,stop_point:SP_1253,Sausse,5
+2374959,09:10:00,09:10:10,stop_point:SP_3246,Pasteur,6
+2374959,09:12:00,09:12:10,stop_point:SP_5700,Bessayre,7
+2374959,09:13:00,09:13:10,stop_point:SP_2153,Imbertis,8
+2374959,09:14:00,09:14:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374959,09:15:00,09:15:10,stop_point:SP_3372,Blanqui,10
+2374959,09:16:00,09:16:10,stop_point:SP_1052,F. Mitterrand,11
+2374959,09:17:00,09:17:10,stop_point:SP_427,Charlary,12
+2374959,09:18:00,09:18:10,stop_point:SP_3221,La Bisto,13
+2374959,09:18:00,09:18:10,stop_point:SP_873,Viste,14
+2374959,09:19:00,09:19:10,stop_point:SP_3824,Moulin,15
+2374959,09:20:00,09:20:10,stop_point:SP_926,Platanes,16
+2374959,09:21:00,09:21:10,stop_point:SP_2357,Château,17
+2374959,09:22:00,09:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374959,09:23:00,09:23:10,stop_point:SP_3568,Rouergue,19
+2374959,09:25:00,09:25:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374959,09:26:00,09:26:10,stop_point:SP_3967,Pissebaque,21
+2374959,09:27:00,09:27:10,stop_point:SP_3253,Cammas,22
+2374959,09:28:00,09:28:10,stop_point:SP_1090,Rebel,23
+2374959,09:29:00,09:29:10,stop_point:SP_811,Route d'Albi,24
+2374959,09:29:00,09:29:10,stop_point:SP_1895,Truffaut,25
+2374959,09:30:00,09:30:10,stop_point:SP_3471,Stade,26
+2374959,09:31:00,09:31:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374960,10:00:00,10:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374960,10:04:00,10:04:10,stop_point:SP_1045,ZI Montredon,2
+2374960,10:07:00,10:07:10,stop_point:SP_3464,D59,3
+2374960,10:08:00,10:08:10,stop_point:SP_2219,Ratalens,4
+2374960,10:09:00,10:09:10,stop_point:SP_1253,Sausse,5
+2374960,10:10:00,10:10:10,stop_point:SP_3246,Pasteur,6
+2374960,10:11:00,10:11:10,stop_point:SP_5700,Bessayre,7
+2374960,10:12:00,10:12:10,stop_point:SP_2153,Imbertis,8
+2374960,10:13:00,10:13:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374960,10:14:00,10:14:10,stop_point:SP_3372,Blanqui,10
+2374960,10:15:00,10:15:10,stop_point:SP_1052,F. Mitterrand,11
+2374960,10:16:00,10:16:10,stop_point:SP_427,Charlary,12
+2374960,10:17:00,10:17:10,stop_point:SP_3221,La Bisto,13
+2374960,10:17:00,10:17:10,stop_point:SP_873,Viste,14
+2374960,10:18:00,10:18:10,stop_point:SP_3824,Moulin,15
+2374960,10:19:00,10:19:10,stop_point:SP_926,Platanes,16
+2374960,10:20:00,10:20:10,stop_point:SP_2357,Château,17
+2374960,10:21:00,10:21:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374960,10:22:00,10:22:10,stop_point:SP_3568,Rouergue,19
+2374960,10:23:00,10:23:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374960,10:25:00,10:25:10,stop_point:SP_3967,Pissebaque,21
+2374960,10:26:00,10:26:10,stop_point:SP_3253,Cammas,22
+2374960,10:26:00,10:26:10,stop_point:SP_1090,Rebel,23
+2374960,10:27:00,10:27:10,stop_point:SP_811,Route d'Albi,24
+2374960,10:27:00,10:27:10,stop_point:SP_1895,Truffaut,25
+2374960,10:28:00,10:28:10,stop_point:SP_3471,Stade,26
+2374960,10:29:00,10:29:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374961,10:55:00,10:55:10,stop_point:SP_3878,Balma-Gramont,1
+2374961,10:59:00,10:59:10,stop_point:SP_1045,ZI Montredon,2
+2374961,11:02:00,11:02:10,stop_point:SP_3464,D59,3
+2374961,11:03:00,11:03:10,stop_point:SP_2219,Ratalens,4
+2374961,11:04:00,11:04:10,stop_point:SP_1253,Sausse,5
+2374961,11:05:00,11:05:10,stop_point:SP_3246,Pasteur,6
+2374961,11:06:00,11:06:10,stop_point:SP_5700,Bessayre,7
+2374961,11:07:00,11:07:10,stop_point:SP_2153,Imbertis,8
+2374961,11:08:00,11:08:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374961,11:09:00,11:09:10,stop_point:SP_3372,Blanqui,10
+2374961,11:10:00,11:10:10,stop_point:SP_1052,F. Mitterrand,11
+2374961,11:11:00,11:11:10,stop_point:SP_427,Charlary,12
+2374961,11:12:00,11:12:10,stop_point:SP_3221,La Bisto,13
+2374961,11:12:00,11:12:10,stop_point:SP_873,Viste,14
+2374961,11:13:00,11:13:10,stop_point:SP_3824,Moulin,15
+2374961,11:14:00,11:14:10,stop_point:SP_926,Platanes,16
+2374961,11:15:00,11:15:10,stop_point:SP_2357,Château,17
+2374961,11:16:00,11:16:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374961,11:17:00,11:17:10,stop_point:SP_3568,Rouergue,19
+2374961,11:18:00,11:18:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374961,11:20:00,11:20:10,stop_point:SP_3967,Pissebaque,21
+2374961,11:21:00,11:21:10,stop_point:SP_3253,Cammas,22
+2374961,11:21:00,11:21:10,stop_point:SP_1090,Rebel,23
+2374961,11:22:00,11:22:10,stop_point:SP_811,Route d'Albi,24
+2374961,11:22:00,11:22:10,stop_point:SP_1895,Truffaut,25
+2374961,11:23:00,11:23:10,stop_point:SP_3471,Stade,26
+2374961,11:24:00,11:24:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374962,13:00:00,13:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374962,13:04:00,13:04:10,stop_point:SP_1045,ZI Montredon,2
+2374962,13:07:00,13:07:10,stop_point:SP_3464,D59,3
+2374962,13:08:00,13:08:10,stop_point:SP_2219,Ratalens,4
+2374962,13:09:00,13:09:10,stop_point:SP_1253,Sausse,5
+2374962,13:10:00,13:10:10,stop_point:SP_3246,Pasteur,6
+2374962,13:11:00,13:11:10,stop_point:SP_5700,Bessayre,7
+2374962,13:12:00,13:12:10,stop_point:SP_2153,Imbertis,8
+2374962,13:13:00,13:13:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374962,13:14:00,13:14:10,stop_point:SP_3372,Blanqui,10
+2374962,13:15:00,13:15:10,stop_point:SP_1052,F. Mitterrand,11
+2374962,13:16:00,13:16:10,stop_point:SP_427,Charlary,12
+2374962,13:17:00,13:17:10,stop_point:SP_3221,La Bisto,13
+2374962,13:18:00,13:18:10,stop_point:SP_873,Viste,14
+2374962,13:18:00,13:18:10,stop_point:SP_3824,Moulin,15
+2374962,13:20:00,13:20:10,stop_point:SP_926,Platanes,16
+2374962,13:21:00,13:21:10,stop_point:SP_2357,Château,17
+2374962,13:22:00,13:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374962,13:23:00,13:23:10,stop_point:SP_3568,Rouergue,19
+2374962,13:24:00,13:24:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374962,13:26:00,13:26:10,stop_point:SP_3967,Pissebaque,21
+2374962,13:27:00,13:27:10,stop_point:SP_3253,Cammas,22
+2374962,13:27:00,13:27:10,stop_point:SP_1090,Rebel,23
+2374962,13:28:00,13:28:10,stop_point:SP_811,Route d'Albi,24
+2374962,13:28:00,13:28:10,stop_point:SP_1895,Truffaut,25
+2374962,13:29:00,13:29:10,stop_point:SP_3471,Stade,26
+2374962,13:30:00,13:30:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374963,14:00:00,14:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374963,14:04:00,14:04:10,stop_point:SP_1045,ZI Montredon,2
+2374963,14:07:00,14:07:10,stop_point:SP_3464,D59,3
+2374963,14:08:00,14:08:10,stop_point:SP_2219,Ratalens,4
+2374963,14:09:00,14:09:10,stop_point:SP_1253,Sausse,5
+2374963,14:10:00,14:10:10,stop_point:SP_3246,Pasteur,6
+2374963,14:11:00,14:11:10,stop_point:SP_5700,Bessayre,7
+2374963,14:12:00,14:12:10,stop_point:SP_2153,Imbertis,8
+2374963,14:13:00,14:13:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374963,14:14:00,14:14:10,stop_point:SP_3372,Blanqui,10
+2374963,14:15:00,14:15:10,stop_point:SP_1052,F. Mitterrand,11
+2374963,14:16:00,14:16:10,stop_point:SP_427,Charlary,12
+2374963,14:17:00,14:17:10,stop_point:SP_3221,La Bisto,13
+2374963,14:18:00,14:18:10,stop_point:SP_873,Viste,14
+2374963,14:18:00,14:18:10,stop_point:SP_3824,Moulin,15
+2374963,14:20:00,14:20:10,stop_point:SP_926,Platanes,16
+2374963,14:21:00,14:21:10,stop_point:SP_2357,Château,17
+2374963,14:22:00,14:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374963,14:23:00,14:23:10,stop_point:SP_3568,Rouergue,19
+2374963,14:24:00,14:24:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374963,14:26:00,14:26:10,stop_point:SP_3967,Pissebaque,21
+2374963,14:27:00,14:27:10,stop_point:SP_3253,Cammas,22
+2374963,14:27:00,14:27:10,stop_point:SP_1090,Rebel,23
+2374963,14:28:00,14:28:10,stop_point:SP_811,Route d'Albi,24
+2374963,14:28:00,14:28:10,stop_point:SP_1895,Truffaut,25
+2374963,14:29:00,14:29:10,stop_point:SP_3471,Stade,26
+2374963,14:30:00,14:30:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374964,15:00:00,15:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374964,15:04:00,15:04:10,stop_point:SP_1045,ZI Montredon,2
+2374964,15:07:00,15:07:10,stop_point:SP_3464,D59,3
+2374964,15:08:00,15:08:10,stop_point:SP_2219,Ratalens,4
+2374964,15:09:00,15:09:10,stop_point:SP_1253,Sausse,5
+2374964,15:10:00,15:10:10,stop_point:SP_3246,Pasteur,6
+2374964,15:11:00,15:11:10,stop_point:SP_5700,Bessayre,7
+2374964,15:12:00,15:12:10,stop_point:SP_2153,Imbertis,8
+2374964,15:13:00,15:13:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374964,15:14:00,15:14:10,stop_point:SP_3372,Blanqui,10
+2374964,15:15:00,15:15:10,stop_point:SP_1052,F. Mitterrand,11
+2374964,15:16:00,15:16:10,stop_point:SP_427,Charlary,12
+2374964,15:17:00,15:17:10,stop_point:SP_3221,La Bisto,13
+2374964,15:18:00,15:18:10,stop_point:SP_873,Viste,14
+2374964,15:18:00,15:18:10,stop_point:SP_3824,Moulin,15
+2374964,15:20:00,15:20:10,stop_point:SP_926,Platanes,16
+2374964,15:21:00,15:21:10,stop_point:SP_2357,Château,17
+2374964,15:22:00,15:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374964,15:23:00,15:23:10,stop_point:SP_3568,Rouergue,19
+2374964,15:24:00,15:24:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374964,15:26:00,15:26:10,stop_point:SP_3967,Pissebaque,21
+2374964,15:27:00,15:27:10,stop_point:SP_3253,Cammas,22
+2374964,15:27:00,15:27:10,stop_point:SP_1090,Rebel,23
+2374964,15:28:00,15:28:10,stop_point:SP_811,Route d'Albi,24
+2374964,15:28:00,15:28:10,stop_point:SP_1895,Truffaut,25
+2374964,15:29:00,15:29:10,stop_point:SP_3471,Stade,26
+2374964,15:30:00,15:30:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374965,17:20:00,17:20:10,stop_point:SP_3878,Balma-Gramont,1
+2374965,17:26:00,17:26:10,stop_point:SP_1045,ZI Montredon,2
+2374965,17:31:00,17:31:10,stop_point:SP_3464,D59,3
+2374965,17:32:00,17:32:10,stop_point:SP_2219,Ratalens,4
+2374965,17:33:00,17:33:10,stop_point:SP_1253,Sausse,5
+2374965,17:34:00,17:34:10,stop_point:SP_3246,Pasteur,6
+2374965,17:36:00,17:36:10,stop_point:SP_5700,Bessayre,7
+2374965,17:37:00,17:37:10,stop_point:SP_2153,Imbertis,8
+2374965,17:38:00,17:38:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374965,17:39:00,17:39:10,stop_point:SP_3372,Blanqui,10
+2374965,17:40:00,17:40:10,stop_point:SP_1052,F. Mitterrand,11
+2374965,17:42:00,17:42:10,stop_point:SP_427,Charlary,12
+2374965,17:43:00,17:43:10,stop_point:SP_3221,La Bisto,13
+2374965,17:44:00,17:44:10,stop_point:SP_873,Viste,14
+2374965,17:44:00,17:44:10,stop_point:SP_3824,Moulin,15
+2374965,17:46:00,17:46:10,stop_point:SP_926,Platanes,16
+2374965,17:47:00,17:47:10,stop_point:SP_2357,Château,17
+2374965,17:48:00,17:48:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374965,17:50:00,17:50:10,stop_point:SP_3568,Rouergue,19
+2374965,17:51:00,17:51:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374965,17:53:00,17:53:10,stop_point:SP_3967,Pissebaque,21
+2374965,17:54:00,17:54:10,stop_point:SP_3253,Cammas,22
+2374965,17:55:00,17:55:10,stop_point:SP_1090,Rebel,23
+2374965,17:56:00,17:56:10,stop_point:SP_811,Route d'Albi,24
+2374965,17:56:00,17:56:10,stop_point:SP_1895,Truffaut,25
+2374965,17:57:00,17:57:10,stop_point:SP_3471,Stade,26
+2374965,17:58:00,17:58:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374966,18:25:00,18:25:10,stop_point:SP_3878,Balma-Gramont,1
+2374966,18:31:00,18:31:10,stop_point:SP_1045,ZI Montredon,2
+2374966,18:36:00,18:36:10,stop_point:SP_3464,D59,3
+2374966,18:37:00,18:37:10,stop_point:SP_2219,Ratalens,4
+2374966,18:38:00,18:38:10,stop_point:SP_1253,Sausse,5
+2374966,18:39:00,18:39:10,stop_point:SP_3246,Pasteur,6
+2374966,18:41:00,18:41:10,stop_point:SP_5700,Bessayre,7
+2374966,18:42:00,18:42:10,stop_point:SP_2153,Imbertis,8
+2374966,18:43:00,18:43:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374966,18:44:00,18:44:10,stop_point:SP_3372,Blanqui,10
+2374966,18:45:00,18:45:10,stop_point:SP_1052,F. Mitterrand,11
+2374966,18:46:00,18:46:10,stop_point:SP_427,Charlary,12
+2374966,18:47:00,18:47:10,stop_point:SP_3221,La Bisto,13
+2374966,18:48:00,18:48:10,stop_point:SP_873,Viste,14
+2374966,18:48:00,18:48:10,stop_point:SP_3824,Moulin,15
+2374966,18:50:00,18:50:10,stop_point:SP_926,Platanes,16
+2374966,18:51:00,18:51:10,stop_point:SP_2357,Château,17
+2374966,18:52:00,18:52:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374966,18:53:00,18:53:10,stop_point:SP_3568,Rouergue,19
+2374966,18:55:00,18:55:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374966,18:56:00,18:56:10,stop_point:SP_3967,Pissebaque,21
+2374966,18:57:00,18:57:10,stop_point:SP_3253,Cammas,22
+2374966,18:58:00,18:58:10,stop_point:SP_1090,Rebel,23
+2374966,18:59:00,18:59:10,stop_point:SP_811,Route d'Albi,24
+2374966,18:59:00,18:59:10,stop_point:SP_1895,Truffaut,25
+2374966,19:00:00,19:00:10,stop_point:SP_3471,Stade,26
+2374966,19:01:00,19:01:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374967,19:40:00,19:40:10,stop_point:SP_3878,Balma-Gramont,1
+2374967,19:44:00,19:44:10,stop_point:SP_1045,ZI Montredon,2
+2374967,19:46:00,19:46:10,stop_point:SP_3464,D59,3
+2374967,19:47:00,19:47:10,stop_point:SP_2219,Ratalens,4
+2374967,19:48:00,19:48:10,stop_point:SP_1253,Sausse,5
+2374967,19:49:00,19:49:10,stop_point:SP_3246,Pasteur,6
+2374967,19:50:00,19:50:10,stop_point:SP_5700,Bessayre,7
+2374967,19:51:00,19:51:10,stop_point:SP_2153,Imbertis,8
+2374967,19:52:00,19:52:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374967,19:53:00,19:53:10,stop_point:SP_3372,Blanqui,10
+2374967,19:54:00,19:54:10,stop_point:SP_1052,F. Mitterrand,11
+2374967,19:55:00,19:55:10,stop_point:SP_427,Charlary,12
+2374967,19:56:00,19:56:10,stop_point:SP_3221,La Bisto,13
+2374967,19:57:00,19:57:10,stop_point:SP_873,Viste,14
+2374967,19:57:00,19:57:10,stop_point:SP_3824,Moulin,15
+2374967,19:59:00,19:59:10,stop_point:SP_926,Platanes,16
+2374967,20:00:00,20:00:10,stop_point:SP_2357,Château,17
+2374967,20:01:00,20:01:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374967,20:02:00,20:02:10,stop_point:SP_3568,Rouergue,19
+2374967,20:03:00,20:03:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374967,20:05:00,20:05:10,stop_point:SP_3967,Pissebaque,21
+2374967,20:06:00,20:06:10,stop_point:SP_3253,Cammas,22
+2374967,20:06:00,20:06:10,stop_point:SP_1090,Rebel,23
+2374967,20:07:00,20:07:10,stop_point:SP_811,Route d'Albi,24
+2374967,20:07:00,20:07:10,stop_point:SP_1895,Truffaut,25
+2374967,20:08:00,20:08:10,stop_point:SP_3471,Stade,26
+2374967,20:09:00,20:09:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374968,17:50:00,17:50:10,stop_point:SP_3878,Balma-Gramont,1
+2374968,17:56:00,17:56:10,stop_point:SP_1045,ZI Montredon,2
+2374968,18:01:00,18:01:10,stop_point:SP_3464,D59,3
+2374968,18:02:00,18:02:10,stop_point:SP_2219,Ratalens,4
+2374968,18:03:00,18:03:10,stop_point:SP_1253,Sausse,5
+2374968,18:04:00,18:04:10,stop_point:SP_3246,Pasteur,6
+2374968,18:06:00,18:06:10,stop_point:SP_5700,Bessayre,7
+2374968,18:07:00,18:07:10,stop_point:SP_2153,Imbertis,8
+2374968,18:08:00,18:08:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374968,18:09:00,18:09:10,stop_point:SP_3372,Blanqui,10
+2374968,18:10:00,18:10:10,stop_point:SP_1052,F. Mitterrand,11
+2374968,18:12:00,18:12:10,stop_point:SP_427,Charlary,12
+2374968,18:13:00,18:13:10,stop_point:SP_3221,La Bisto,13
+2374968,18:14:00,18:14:10,stop_point:SP_873,Viste,14
+2374968,18:14:00,18:14:10,stop_point:SP_3824,Moulin,15
+2374968,18:16:00,18:16:10,stop_point:SP_926,Platanes,16
+2374968,18:17:00,18:17:10,stop_point:SP_2357,Château,17
+2374968,18:18:00,18:18:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374968,18:20:00,18:20:10,stop_point:SP_3568,Rouergue,19
+2374968,18:21:00,18:21:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374968,18:23:00,18:23:10,stop_point:SP_3967,Pissebaque,21
+2374968,18:24:00,18:24:10,stop_point:SP_3253,Cammas,22
+2374968,18:25:00,18:25:10,stop_point:SP_1090,Rebel,23
+2374968,18:26:00,18:26:10,stop_point:SP_811,Route d'Albi,24
+2374968,18:26:00,18:26:10,stop_point:SP_1895,Truffaut,25
+2374968,18:27:00,18:27:10,stop_point:SP_3471,Stade,26
+2374968,18:28:00,18:28:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374969,07:30:00,07:30:10,stop_point:SP_3878,Balma-Gramont,1
+2374969,07:34:00,07:34:10,stop_point:SP_1045,ZI Montredon,2
+2374969,07:37:00,07:37:10,stop_point:SP_3464,D59,3
+2374969,07:38:00,07:38:10,stop_point:SP_2219,Ratalens,4
+2374969,07:39:00,07:39:10,stop_point:SP_1253,Sausse,5
+2374969,07:40:00,07:40:10,stop_point:SP_3246,Pasteur,6
+2374969,07:42:00,07:42:10,stop_point:SP_5700,Bessayre,7
+2374969,07:43:00,07:43:10,stop_point:SP_2153,Imbertis,8
+2374969,07:44:00,07:44:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374969,07:45:00,07:45:10,stop_point:SP_3372,Blanqui,10
+2374969,07:46:00,07:46:10,stop_point:SP_1052,F. Mitterrand,11
+2374969,07:47:00,07:47:10,stop_point:SP_427,Charlary,12
+2374969,07:48:00,07:48:10,stop_point:SP_3221,La Bisto,13
+2374969,07:48:00,07:48:10,stop_point:SP_873,Viste,14
+2374969,07:49:00,07:49:10,stop_point:SP_3824,Moulin,15
+2374969,07:50:00,07:50:10,stop_point:SP_926,Platanes,16
+2374969,07:51:00,07:51:10,stop_point:SP_2357,Château,17
+2374969,07:52:00,07:52:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374969,07:53:00,07:53:10,stop_point:SP_3568,Rouergue,19
+2374969,07:55:00,07:55:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374969,07:56:00,07:56:10,stop_point:SP_3967,Pissebaque,21
+2374969,07:57:00,07:57:10,stop_point:SP_3253,Cammas,22
+2374969,07:58:00,07:58:10,stop_point:SP_1090,Rebel,23
+2374969,07:59:00,07:59:10,stop_point:SP_811,Route d'Albi,24
+2374969,07:59:00,07:59:10,stop_point:SP_1895,Truffaut,25
+2374969,08:00:00,08:00:10,stop_point:SP_3471,Stade,26
+2374969,08:01:00,08:01:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374970,08:00:00,08:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374970,08:04:00,08:04:10,stop_point:SP_1045,ZI Montredon,2
+2374970,08:07:00,08:07:10,stop_point:SP_3464,D59,3
+2374970,08:08:00,08:08:10,stop_point:SP_2219,Ratalens,4
+2374970,08:09:00,08:09:10,stop_point:SP_1253,Sausse,5
+2374970,08:10:00,08:10:10,stop_point:SP_3246,Pasteur,6
+2374970,08:12:00,08:12:10,stop_point:SP_5700,Bessayre,7
+2374970,08:13:00,08:13:10,stop_point:SP_2153,Imbertis,8
+2374970,08:14:00,08:14:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374970,08:15:00,08:15:10,stop_point:SP_3372,Blanqui,10
+2374970,08:16:00,08:16:10,stop_point:SP_1052,F. Mitterrand,11
+2374970,08:17:00,08:17:10,stop_point:SP_427,Charlary,12
+2374970,08:18:00,08:18:10,stop_point:SP_3221,La Bisto,13
+2374970,08:18:00,08:18:10,stop_point:SP_873,Viste,14
+2374970,08:19:00,08:19:10,stop_point:SP_3824,Moulin,15
+2374970,08:20:00,08:20:10,stop_point:SP_926,Platanes,16
+2374970,08:21:00,08:21:10,stop_point:SP_2357,Château,17
+2374970,08:22:00,08:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374970,08:23:00,08:23:10,stop_point:SP_3568,Rouergue,19
+2374970,08:25:00,08:25:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374970,08:26:00,08:26:10,stop_point:SP_3967,Pissebaque,21
+2374970,08:27:00,08:27:10,stop_point:SP_3253,Cammas,22
+2374970,08:28:00,08:28:10,stop_point:SP_1090,Rebel,23
+2374970,08:29:00,08:29:10,stop_point:SP_811,Route d'Albi,24
+2374970,08:29:00,08:29:10,stop_point:SP_1895,Truffaut,25
+2374970,08:30:00,08:30:10,stop_point:SP_3471,Stade,26
+2374970,08:31:00,08:31:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374971,16:20:00,16:20:10,stop_point:SP_3878,Balma-Gramont,1
+2374971,16:25:00,16:25:10,stop_point:SP_1045,ZI Montredon,2
+2374971,16:28:00,16:28:10,stop_point:SP_3464,D59,3
+2374971,16:29:00,16:29:10,stop_point:SP_2219,Ratalens,4
+2374971,16:30:00,16:30:10,stop_point:SP_1253,Sausse,5
+2374971,16:31:00,16:31:10,stop_point:SP_3246,Pasteur,6
+2374971,16:32:00,16:32:10,stop_point:SP_5700,Bessayre,7
+2374971,16:33:00,16:33:10,stop_point:SP_2153,Imbertis,8
+2374971,16:34:00,16:34:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374971,16:35:00,16:35:10,stop_point:SP_3372,Blanqui,10
+2374971,16:36:00,16:36:10,stop_point:SP_1052,F. Mitterrand,11
+2374971,16:38:00,16:38:10,stop_point:SP_427,Charlary,12
+2374971,16:39:00,16:39:10,stop_point:SP_3221,La Bisto,13
+2374971,16:40:00,16:40:10,stop_point:SP_873,Viste,14
+2374971,16:40:00,16:40:10,stop_point:SP_3824,Moulin,15
+2374971,16:42:00,16:42:10,stop_point:SP_926,Platanes,16
+2374971,16:43:00,16:43:10,stop_point:SP_2357,Château,17
+2374971,16:44:00,16:44:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374971,16:46:00,16:46:10,stop_point:SP_3568,Rouergue,19
+2374971,16:47:00,16:47:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374971,16:49:00,16:49:10,stop_point:SP_3967,Pissebaque,21
+2374971,16:50:00,16:50:10,stop_point:SP_3253,Cammas,22
+2374971,16:51:00,16:51:10,stop_point:SP_1090,Rebel,23
+2374971,16:52:00,16:52:10,stop_point:SP_811,Route d'Albi,24
+2374971,16:52:00,16:52:10,stop_point:SP_1895,Truffaut,25
+2374971,16:53:00,16:53:10,stop_point:SP_3471,Stade,26
+2374971,16:54:00,16:54:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374972,12:00:00,12:00:10,stop_point:SP_3878,Balma-Gramont,1
+2374972,12:04:00,12:04:10,stop_point:SP_1045,ZI Montredon,2
+2374972,12:07:00,12:07:10,stop_point:SP_3464,D59,3
+2374972,12:08:00,12:08:10,stop_point:SP_2219,Ratalens,4
+2374972,12:09:00,12:09:10,stop_point:SP_1253,Sausse,5
+2374972,12:10:00,12:10:10,stop_point:SP_3246,Pasteur,6
+2374972,12:11:00,12:11:10,stop_point:SP_5700,Bessayre,7
+2374972,12:12:00,12:12:10,stop_point:SP_2153,Imbertis,8
+2374972,12:13:00,12:13:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374972,12:14:00,12:14:10,stop_point:SP_3372,Blanqui,10
+2374972,12:15:00,12:15:10,stop_point:SP_1052,F. Mitterrand,11
+2374972,12:16:00,12:16:10,stop_point:SP_427,Charlary,12
+2374972,12:17:00,12:17:10,stop_point:SP_3221,La Bisto,13
+2374972,12:18:00,12:18:10,stop_point:SP_873,Viste,14
+2374972,12:18:00,12:18:10,stop_point:SP_3824,Moulin,15
+2374972,12:20:00,12:20:10,stop_point:SP_926,Platanes,16
+2374972,12:21:00,12:21:10,stop_point:SP_2357,Château,17
+2374972,12:22:00,12:22:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374972,12:23:00,12:23:10,stop_point:SP_3568,Rouergue,19
+2374972,12:24:00,12:24:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374972,12:26:00,12:26:10,stop_point:SP_3967,Pissebaque,21
+2374972,12:27:00,12:27:10,stop_point:SP_3253,Cammas,22
+2374972,12:27:00,12:27:10,stop_point:SP_1090,Rebel,23
+2374972,12:28:00,12:28:10,stop_point:SP_811,Route d'Albi,24
+2374972,12:28:00,12:28:10,stop_point:SP_1895,Truffaut,25
+2374972,12:29:00,12:29:10,stop_point:SP_3471,Stade,26
+2374972,12:30:00,12:30:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374973,16:45:00,16:45:10,stop_point:SP_3878,Balma-Gramont,1
+2374973,16:50:00,16:50:10,stop_point:SP_1045,ZI Montredon,2
+2374973,16:54:00,16:54:10,stop_point:SP_3464,D59,3
+2374973,16:55:00,16:55:10,stop_point:SP_2219,Ratalens,4
+2374973,16:56:00,16:56:10,stop_point:SP_1253,Sausse,5
+2374973,16:57:00,16:57:10,stop_point:SP_3246,Pasteur,6
+2374973,16:59:00,16:59:10,stop_point:SP_5700,Bessayre,7
+2374973,17:00:00,17:00:10,stop_point:SP_2153,Imbertis,8
+2374973,17:01:00,17:01:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374973,17:02:00,17:02:10,stop_point:SP_3372,Blanqui,10
+2374973,17:03:00,17:03:10,stop_point:SP_1052,F. Mitterrand,11
+2374973,17:05:00,17:05:10,stop_point:SP_427,Charlary,12
+2374973,17:06:00,17:06:10,stop_point:SP_3221,La Bisto,13
+2374973,17:07:00,17:07:10,stop_point:SP_873,Viste,14
+2374973,17:07:00,17:07:10,stop_point:SP_3824,Moulin,15
+2374973,17:09:00,17:09:10,stop_point:SP_926,Platanes,16
+2374973,17:10:00,17:10:10,stop_point:SP_2357,Château,17
+2374973,17:11:00,17:11:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374973,17:13:00,17:13:10,stop_point:SP_3568,Rouergue,19
+2374973,17:14:00,17:14:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374973,17:16:00,17:16:10,stop_point:SP_3967,Pissebaque,21
+2374973,17:17:00,17:17:10,stop_point:SP_3253,Cammas,22
+2374973,17:18:00,17:18:10,stop_point:SP_1090,Rebel,23
+2374973,17:19:00,17:19:10,stop_point:SP_811,Route d'Albi,24
+2374973,17:20:00,17:20:10,stop_point:SP_1895,Truffaut,25
+2374973,17:21:00,17:21:10,stop_point:SP_3471,Stade,26
+2374973,17:22:00,17:22:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374974,15:50:00,15:50:10,stop_point:SP_3878,Balma-Gramont,1
+2374974,15:54:00,15:54:10,stop_point:SP_1045,ZI Montredon,2
+2374974,15:57:00,15:57:10,stop_point:SP_3464,D59,3
+2374974,15:58:00,15:58:10,stop_point:SP_2219,Ratalens,4
+2374974,15:59:00,15:59:10,stop_point:SP_1253,Sausse,5
+2374974,16:00:00,16:00:10,stop_point:SP_3246,Pasteur,6
+2374974,16:01:00,16:01:10,stop_point:SP_5700,Bessayre,7
+2374974,16:02:00,16:02:10,stop_point:SP_2153,Imbertis,8
+2374974,16:03:00,16:03:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374974,16:04:00,16:04:10,stop_point:SP_3372,Blanqui,10
+2374974,16:05:00,16:05:10,stop_point:SP_1052,F. Mitterrand,11
+2374974,16:07:00,16:07:10,stop_point:SP_427,Charlary,12
+2374974,16:08:00,16:08:10,stop_point:SP_3221,La Bisto,13
+2374974,16:09:00,16:09:10,stop_point:SP_873,Viste,14
+2374974,16:09:00,16:09:10,stop_point:SP_3824,Moulin,15
+2374974,16:11:00,16:11:10,stop_point:SP_926,Platanes,16
+2374974,16:12:00,16:12:10,stop_point:SP_2357,Château,17
+2374974,16:13:00,16:13:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374974,16:15:00,16:15:10,stop_point:SP_3568,Rouergue,19
+2374974,16:16:00,16:16:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374974,16:18:00,16:18:10,stop_point:SP_3967,Pissebaque,21
+2374974,16:19:00,16:19:10,stop_point:SP_3253,Cammas,22
+2374974,16:20:00,16:20:10,stop_point:SP_1090,Rebel,23
+2374974,16:21:00,16:21:10,stop_point:SP_811,Route d'Albi,24
+2374974,16:22:00,16:22:10,stop_point:SP_1895,Truffaut,25
+2374974,16:23:00,16:23:10,stop_point:SP_3471,Stade,26
+2374974,16:24:00,16:24:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374975,18:50:00,18:50:10,stop_point:SP_3878,Balma-Gramont,1
+2374975,18:55:00,18:55:10,stop_point:SP_1045,ZI Montredon,2
+2374975,18:58:00,18:58:10,stop_point:SP_3464,D59,3
+2374975,18:59:00,18:59:10,stop_point:SP_2219,Ratalens,4
+2374975,19:00:00,19:00:10,stop_point:SP_1253,Sausse,5
+2374975,19:01:00,19:01:10,stop_point:SP_3246,Pasteur,6
+2374975,19:02:00,19:02:10,stop_point:SP_5700,Bessayre,7
+2374975,19:03:00,19:03:10,stop_point:SP_2153,Imbertis,8
+2374975,19:04:00,19:04:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374975,19:05:00,19:05:10,stop_point:SP_3372,Blanqui,10
+2374975,19:06:00,19:06:10,stop_point:SP_1052,F. Mitterrand,11
+2374975,19:07:00,19:07:10,stop_point:SP_427,Charlary,12
+2374975,19:08:00,19:08:10,stop_point:SP_3221,La Bisto,13
+2374975,19:09:00,19:09:10,stop_point:SP_873,Viste,14
+2374975,19:09:00,19:09:10,stop_point:SP_3824,Moulin,15
+2374975,19:11:00,19:11:10,stop_point:SP_926,Platanes,16
+2374975,19:12:00,19:12:10,stop_point:SP_2357,Château,17
+2374975,19:13:00,19:13:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374975,19:14:00,19:14:10,stop_point:SP_3568,Rouergue,19
+2374975,19:15:00,19:15:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374975,19:17:00,19:17:10,stop_point:SP_3967,Pissebaque,21
+2374975,19:18:00,19:18:10,stop_point:SP_3253,Cammas,22
+2374975,19:18:00,19:18:10,stop_point:SP_1090,Rebel,23
+2374975,19:19:00,19:19:10,stop_point:SP_811,Route d'Albi,24
+2374975,19:19:00,19:19:10,stop_point:SP_1895,Truffaut,25
+2374975,19:20:00,19:20:10,stop_point:SP_3471,Stade,26
+2374975,19:21:00,19:21:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374976,20:30:00,20:30:10,stop_point:SP_3878,Balma-Gramont,1
+2374976,20:34:00,20:34:10,stop_point:SP_1045,ZI Montredon,2
+2374976,20:36:00,20:36:10,stop_point:SP_3464,D59,3
+2374976,20:37:00,20:37:10,stop_point:SP_2219,Ratalens,4
+2374976,20:38:00,20:38:10,stop_point:SP_1253,Sausse,5
+2374976,20:39:00,20:39:10,stop_point:SP_3246,Pasteur,6
+2374976,20:40:00,20:40:10,stop_point:SP_5700,Bessayre,7
+2374976,20:41:00,20:41:10,stop_point:SP_2153,Imbertis,8
+2374976,20:42:00,20:42:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374976,20:43:00,20:43:10,stop_point:SP_3372,Blanqui,10
+2374976,20:44:00,20:44:10,stop_point:SP_1052,F. Mitterrand,11
+2374976,20:45:00,20:45:10,stop_point:SP_427,Charlary,12
+2374976,20:46:00,20:46:10,stop_point:SP_3221,La Bisto,13
+2374976,20:46:00,20:46:10,stop_point:SP_873,Viste,14
+2374976,20:47:00,20:47:10,stop_point:SP_3824,Moulin,15
+2374976,20:48:00,20:48:10,stop_point:SP_926,Platanes,16
+2374976,20:49:00,20:49:10,stop_point:SP_2357,Château,17
+2374976,20:50:00,20:50:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374976,20:51:00,20:51:10,stop_point:SP_3568,Rouergue,19
+2374976,20:52:00,20:52:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374976,20:53:00,20:53:10,stop_point:SP_3967,Pissebaque,21
+2374976,20:54:00,20:54:10,stop_point:SP_3253,Cammas,22
+2374976,20:55:00,20:55:10,stop_point:SP_1090,Rebel,23
+2374976,20:55:00,20:55:10,stop_point:SP_811,Route d'Albi,24
+2374976,20:56:00,20:56:10,stop_point:SP_1895,Truffaut,25
+2374976,20:57:00,20:57:10,stop_point:SP_3471,Stade,26
+2374976,20:57:00,20:57:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374977,07:10:00,07:10:10,stop_point:SP_3878,Balma-Gramont,1
+2374977,07:14:00,07:14:10,stop_point:SP_1045,ZI Montredon,2
+2374977,07:17:00,07:17:10,stop_point:SP_3464,D59,3
+2374977,07:18:00,07:18:10,stop_point:SP_2219,Ratalens,4
+2374977,07:19:00,07:19:10,stop_point:SP_1253,Sausse,5
+2374977,07:20:00,07:20:10,stop_point:SP_3246,Pasteur,6
+2374977,07:21:00,07:21:10,stop_point:SP_5700,Bessayre,7
+2374977,07:22:00,07:22:10,stop_point:SP_2153,Imbertis,8
+2374977,07:23:00,07:23:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2374977,07:24:00,07:24:10,stop_point:SP_3372,Blanqui,10
+2374977,07:25:00,07:25:10,stop_point:SP_1052,F. Mitterrand,11
+2374977,07:26:00,07:26:10,stop_point:SP_427,Charlary,12
+2374977,07:27:00,07:27:10,stop_point:SP_3221,La Bisto,13
+2374977,07:27:00,07:27:10,stop_point:SP_873,Viste,14
+2374977,07:28:00,07:28:10,stop_point:SP_3824,Moulin,15
+2374977,07:29:00,07:29:10,stop_point:SP_926,Platanes,16
+2374977,07:30:00,07:30:10,stop_point:SP_2357,Château,17
+2374977,07:31:00,07:31:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2374977,07:32:00,07:32:10,stop_point:SP_3568,Rouergue,19
+2374977,07:34:00,07:34:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2374977,07:35:00,07:35:10,stop_point:SP_3967,Pissebaque,21
+2374977,07:36:00,07:36:10,stop_point:SP_3253,Cammas,22
+2374977,07:37:00,07:37:10,stop_point:SP_1090,Rebel,23
+2374977,07:38:00,07:38:10,stop_point:SP_811,Route d'Albi,24
+2374977,07:38:00,07:38:10,stop_point:SP_1895,Truffaut,25
+2374977,07:39:00,07:39:10,stop_point:SP_3471,Stade,26
+2374977,07:40:00,07:40:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2374978,08:10:00,08:10:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374978,08:11:00,08:11:10,stop_point:SP_294,Rouergue,2
+2374978,08:12:00,08:12:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374978,08:13:00,08:13:10,stop_point:SP_1264,Château,4
+2374978,08:14:00,08:14:10,stop_point:SP_1512,Platanes,5
+2374978,08:15:00,08:15:10,stop_point:SP_3492,Moulin,6
+2374978,08:16:00,08:16:10,stop_point:SP_1996,Viste,7
+2374978,08:17:00,08:17:10,stop_point:SP_1647,Clos du Loup,8
+2374978,08:18:00,08:18:10,stop_point:SP_2,Charlary,9
+2374978,08:20:00,08:20:10,stop_point:SP_2738,F. Mitterrand,10
+2374978,08:21:00,08:21:10,stop_point:SP_3889,Blanqui,11
+2374978,08:22:00,08:22:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374978,08:23:00,08:23:10,stop_point:SP_2257,Imbertis,13
+2374978,08:23:00,08:23:10,stop_point:SP_5701,Bessayre,14
+2374978,08:25:00,08:25:10,stop_point:SP_979,Pasteur,15
+2374978,08:26:00,08:26:10,stop_point:SP_3121,Sausse,16
+2374978,08:27:00,08:27:10,stop_point:SP_2535,Ratalens,17
+2374978,08:29:00,08:29:10,stop_point:SP_291,D59,18
+2374978,08:36:00,08:36:10,stop_point:SP_2484,ZI Montredon,19
+2374978,08:40:00,08:40:10,stop_point:SP_3878,Balma-Gramont,20
+2374979,08:40:00,08:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374979,08:41:00,08:41:10,stop_point:SP_294,Rouergue,2
+2374979,08:42:00,08:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374979,08:43:00,08:43:10,stop_point:SP_1264,Château,4
+2374979,08:44:00,08:44:10,stop_point:SP_1512,Platanes,5
+2374979,08:45:00,08:45:10,stop_point:SP_3492,Moulin,6
+2374979,08:46:00,08:46:10,stop_point:SP_1996,Viste,7
+2374979,08:47:00,08:47:10,stop_point:SP_1647,Clos du Loup,8
+2374979,08:48:00,08:48:10,stop_point:SP_2,Charlary,9
+2374979,08:50:00,08:50:10,stop_point:SP_2738,F. Mitterrand,10
+2374979,08:51:00,08:51:10,stop_point:SP_3889,Blanqui,11
+2374979,08:52:00,08:52:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374979,08:53:00,08:53:10,stop_point:SP_2257,Imbertis,13
+2374979,08:53:00,08:53:10,stop_point:SP_5701,Bessayre,14
+2374979,08:55:00,08:55:10,stop_point:SP_979,Pasteur,15
+2374979,08:56:00,08:56:10,stop_point:SP_3121,Sausse,16
+2374979,08:57:00,08:57:10,stop_point:SP_2535,Ratalens,17
+2374979,08:59:00,08:59:10,stop_point:SP_291,D59,18
+2374979,09:04:00,09:04:10,stop_point:SP_2484,ZI Montredon,19
+2374979,09:08:00,09:08:10,stop_point:SP_3878,Balma-Gramont,20
+2374980,09:10:00,09:10:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374980,09:11:00,09:11:10,stop_point:SP_294,Rouergue,2
+2374980,09:12:00,09:12:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374980,09:13:00,09:13:10,stop_point:SP_1264,Château,4
+2374980,09:14:00,09:14:10,stop_point:SP_1512,Platanes,5
+2374980,09:15:00,09:15:10,stop_point:SP_3492,Moulin,6
+2374980,09:16:00,09:16:10,stop_point:SP_1996,Viste,7
+2374980,09:17:00,09:17:10,stop_point:SP_1647,Clos du Loup,8
+2374980,09:18:00,09:18:10,stop_point:SP_2,Charlary,9
+2374980,09:20:00,09:20:10,stop_point:SP_2738,F. Mitterrand,10
+2374980,09:21:00,09:21:10,stop_point:SP_3889,Blanqui,11
+2374980,09:22:00,09:22:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374980,09:23:00,09:23:10,stop_point:SP_2257,Imbertis,13
+2374980,09:23:00,09:23:10,stop_point:SP_5701,Bessayre,14
+2374980,09:25:00,09:25:10,stop_point:SP_979,Pasteur,15
+2374980,09:26:00,09:26:10,stop_point:SP_3121,Sausse,16
+2374980,09:27:00,09:27:10,stop_point:SP_2535,Ratalens,17
+2374980,09:28:00,09:28:10,stop_point:SP_291,D59,18
+2374980,09:31:00,09:31:10,stop_point:SP_2484,ZI Montredon,19
+2374980,09:35:00,09:35:10,stop_point:SP_3878,Balma-Gramont,20
+2374981,09:41:00,09:41:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374981,09:42:00,09:42:10,stop_point:SP_294,Rouergue,2
+2374981,09:43:00,09:43:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374981,09:44:00,09:44:10,stop_point:SP_1264,Château,4
+2374981,09:45:00,09:45:10,stop_point:SP_1512,Platanes,5
+2374981,09:46:00,09:46:10,stop_point:SP_3492,Moulin,6
+2374981,09:47:00,09:47:10,stop_point:SP_1996,Viste,7
+2374981,09:48:00,09:48:10,stop_point:SP_1647,Clos du Loup,8
+2374981,09:49:00,09:49:10,stop_point:SP_2,Charlary,9
+2374981,09:50:00,09:50:10,stop_point:SP_2738,F. Mitterrand,10
+2374981,09:51:00,09:51:10,stop_point:SP_3889,Blanqui,11
+2374981,09:52:00,09:52:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374981,09:53:00,09:53:10,stop_point:SP_2257,Imbertis,13
+2374981,09:53:00,09:53:10,stop_point:SP_5701,Bessayre,14
+2374981,09:55:00,09:55:10,stop_point:SP_979,Pasteur,15
+2374981,09:56:00,09:56:10,stop_point:SP_3121,Sausse,16
+2374981,09:57:00,09:57:10,stop_point:SP_2535,Ratalens,17
+2374981,09:58:00,09:58:10,stop_point:SP_291,D59,18
+2374981,10:01:00,10:01:10,stop_point:SP_2484,ZI Montredon,19
+2374981,10:05:00,10:05:10,stop_point:SP_3878,Balma-Gramont,20
+2374982,10:40:00,10:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374982,10:41:00,10:41:10,stop_point:SP_294,Rouergue,2
+2374982,10:42:00,10:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374982,10:43:00,10:43:10,stop_point:SP_1264,Château,4
+2374982,10:44:00,10:44:10,stop_point:SP_1512,Platanes,5
+2374982,10:45:00,10:45:10,stop_point:SP_3492,Moulin,6
+2374982,10:46:00,10:46:10,stop_point:SP_1996,Viste,7
+2374982,10:47:00,10:47:10,stop_point:SP_1647,Clos du Loup,8
+2374982,10:48:00,10:48:10,stop_point:SP_2,Charlary,9
+2374982,10:49:00,10:49:10,stop_point:SP_2738,F. Mitterrand,10
+2374982,10:50:00,10:50:10,stop_point:SP_3889,Blanqui,11
+2374982,10:51:00,10:51:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374982,10:52:00,10:52:10,stop_point:SP_2257,Imbertis,13
+2374982,10:52:00,10:52:10,stop_point:SP_5701,Bessayre,14
+2374982,10:54:00,10:54:10,stop_point:SP_979,Pasteur,15
+2374982,10:55:00,10:55:10,stop_point:SP_3121,Sausse,16
+2374982,10:56:00,10:56:10,stop_point:SP_2535,Ratalens,17
+2374982,10:57:00,10:57:10,stop_point:SP_291,D59,18
+2374982,11:00:00,11:00:10,stop_point:SP_2484,ZI Montredon,19
+2374982,11:04:00,11:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374983,11:40:00,11:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374983,11:41:00,11:41:10,stop_point:SP_294,Rouergue,2
+2374983,11:42:00,11:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374983,11:43:00,11:43:10,stop_point:SP_1264,Château,4
+2374983,11:44:00,11:44:10,stop_point:SP_1512,Platanes,5
+2374983,11:45:00,11:45:10,stop_point:SP_3492,Moulin,6
+2374983,11:46:00,11:46:10,stop_point:SP_1996,Viste,7
+2374983,11:47:00,11:47:10,stop_point:SP_1647,Clos du Loup,8
+2374983,11:48:00,11:48:10,stop_point:SP_2,Charlary,9
+2374983,11:49:00,11:49:10,stop_point:SP_2738,F. Mitterrand,10
+2374983,11:50:00,11:50:10,stop_point:SP_3889,Blanqui,11
+2374983,11:51:00,11:51:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374983,11:52:00,11:52:10,stop_point:SP_2257,Imbertis,13
+2374983,11:52:00,11:52:10,stop_point:SP_5701,Bessayre,14
+2374983,11:54:00,11:54:10,stop_point:SP_979,Pasteur,15
+2374983,11:55:00,11:55:10,stop_point:SP_3121,Sausse,16
+2374983,11:56:00,11:56:10,stop_point:SP_2535,Ratalens,17
+2374983,11:57:00,11:57:10,stop_point:SP_291,D59,18
+2374983,12:00:00,12:00:10,stop_point:SP_2484,ZI Montredon,19
+2374983,12:04:00,12:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374984,13:40:00,13:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374984,13:41:00,13:41:10,stop_point:SP_294,Rouergue,2
+2374984,13:42:00,13:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374984,13:43:00,13:43:10,stop_point:SP_1264,Château,4
+2374984,13:44:00,13:44:10,stop_point:SP_1512,Platanes,5
+2374984,13:45:00,13:45:10,stop_point:SP_3492,Moulin,6
+2374984,13:46:00,13:46:10,stop_point:SP_1996,Viste,7
+2374984,13:47:00,13:47:10,stop_point:SP_1647,Clos du Loup,8
+2374984,13:48:00,13:48:10,stop_point:SP_2,Charlary,9
+2374984,13:49:00,13:49:10,stop_point:SP_2738,F. Mitterrand,10
+2374984,13:50:00,13:50:10,stop_point:SP_3889,Blanqui,11
+2374984,13:51:00,13:51:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374984,13:52:00,13:52:10,stop_point:SP_2257,Imbertis,13
+2374984,13:52:00,13:52:10,stop_point:SP_5701,Bessayre,14
+2374984,13:54:00,13:54:10,stop_point:SP_979,Pasteur,15
+2374984,13:55:00,13:55:10,stop_point:SP_3121,Sausse,16
+2374984,13:56:00,13:56:10,stop_point:SP_2535,Ratalens,17
+2374984,13:57:00,13:57:10,stop_point:SP_291,D59,18
+2374984,14:00:00,14:00:10,stop_point:SP_2484,ZI Montredon,19
+2374984,14:04:00,14:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374985,14:40:00,14:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374985,14:41:00,14:41:10,stop_point:SP_294,Rouergue,2
+2374985,14:42:00,14:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374985,14:43:00,14:43:10,stop_point:SP_1264,Château,4
+2374985,14:44:00,14:44:10,stop_point:SP_1512,Platanes,5
+2374985,14:45:00,14:45:10,stop_point:SP_3492,Moulin,6
+2374985,14:46:00,14:46:10,stop_point:SP_1996,Viste,7
+2374985,14:47:00,14:47:10,stop_point:SP_1647,Clos du Loup,8
+2374985,14:48:00,14:48:10,stop_point:SP_2,Charlary,9
+2374985,14:49:00,14:49:10,stop_point:SP_2738,F. Mitterrand,10
+2374985,14:50:00,14:50:10,stop_point:SP_3889,Blanqui,11
+2374985,14:51:00,14:51:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374985,14:52:00,14:52:10,stop_point:SP_2257,Imbertis,13
+2374985,14:52:00,14:52:10,stop_point:SP_5701,Bessayre,14
+2374985,14:54:00,14:54:10,stop_point:SP_979,Pasteur,15
+2374985,14:55:00,14:55:10,stop_point:SP_3121,Sausse,16
+2374985,14:56:00,14:56:10,stop_point:SP_2535,Ratalens,17
+2374985,14:57:00,14:57:10,stop_point:SP_291,D59,18
+2374985,15:00:00,15:00:10,stop_point:SP_2484,ZI Montredon,19
+2374985,15:04:00,15:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374986,15:43:00,15:43:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374986,15:44:00,15:44:10,stop_point:SP_294,Rouergue,2
+2374986,15:45:00,15:45:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374986,15:46:00,15:46:10,stop_point:SP_1264,Château,4
+2374986,15:47:00,15:47:10,stop_point:SP_1512,Platanes,5
+2374986,15:48:00,15:48:10,stop_point:SP_3492,Moulin,6
+2374986,15:49:00,15:49:10,stop_point:SP_1996,Viste,7
+2374986,15:50:00,15:50:10,stop_point:SP_1647,Clos du Loup,8
+2374986,15:51:00,15:51:10,stop_point:SP_2,Charlary,9
+2374986,15:52:00,15:52:10,stop_point:SP_2738,F. Mitterrand,10
+2374986,15:53:00,15:53:10,stop_point:SP_3889,Blanqui,11
+2374986,15:54:00,15:54:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374986,15:55:00,15:55:10,stop_point:SP_2257,Imbertis,13
+2374986,15:55:00,15:55:10,stop_point:SP_5701,Bessayre,14
+2374986,15:57:00,15:57:10,stop_point:SP_979,Pasteur,15
+2374986,15:58:00,15:58:10,stop_point:SP_3121,Sausse,16
+2374986,15:59:00,15:59:10,stop_point:SP_2535,Ratalens,17
+2374986,16:00:00,16:00:10,stop_point:SP_291,D59,18
+2374986,16:03:00,16:03:10,stop_point:SP_2484,ZI Montredon,19
+2374986,16:08:00,16:08:10,stop_point:SP_3878,Balma-Gramont,20
+2374987,17:08:00,17:08:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374987,17:09:00,17:09:10,stop_point:SP_294,Rouergue,2
+2374987,17:10:00,17:10:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374987,17:11:00,17:11:10,stop_point:SP_1264,Château,4
+2374987,17:12:00,17:12:10,stop_point:SP_1512,Platanes,5
+2374987,17:13:00,17:13:10,stop_point:SP_3492,Moulin,6
+2374987,17:14:00,17:14:10,stop_point:SP_1996,Viste,7
+2374987,17:15:00,17:15:10,stop_point:SP_1647,Clos du Loup,8
+2374987,17:16:00,17:16:10,stop_point:SP_2,Charlary,9
+2374987,17:17:00,17:17:10,stop_point:SP_2738,F. Mitterrand,10
+2374987,17:18:00,17:18:10,stop_point:SP_3889,Blanqui,11
+2374987,17:19:00,17:19:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374987,17:20:00,17:20:10,stop_point:SP_2257,Imbertis,13
+2374987,17:20:00,17:20:10,stop_point:SP_5701,Bessayre,14
+2374987,17:23:00,17:23:10,stop_point:SP_979,Pasteur,15
+2374987,17:24:00,17:24:10,stop_point:SP_3121,Sausse,16
+2374987,17:25:00,17:25:10,stop_point:SP_2535,Ratalens,17
+2374987,17:26:00,17:26:10,stop_point:SP_291,D59,18
+2374987,17:29:00,17:29:10,stop_point:SP_2484,ZI Montredon,19
+2374987,17:34:00,17:34:10,stop_point:SP_3878,Balma-Gramont,20
+2374988,16:38:00,16:38:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374988,16:39:00,16:39:10,stop_point:SP_294,Rouergue,2
+2374988,16:40:00,16:40:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374988,16:41:00,16:41:10,stop_point:SP_1264,Château,4
+2374988,16:42:00,16:42:10,stop_point:SP_1512,Platanes,5
+2374988,16:43:00,16:43:10,stop_point:SP_3492,Moulin,6
+2374988,16:44:00,16:44:10,stop_point:SP_1996,Viste,7
+2374988,16:45:00,16:45:10,stop_point:SP_1647,Clos du Loup,8
+2374988,16:46:00,16:46:10,stop_point:SP_2,Charlary,9
+2374988,16:47:00,16:47:10,stop_point:SP_2738,F. Mitterrand,10
+2374988,16:48:00,16:48:10,stop_point:SP_3889,Blanqui,11
+2374988,16:49:00,16:49:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374988,16:50:00,16:50:10,stop_point:SP_2257,Imbertis,13
+2374988,16:50:00,16:50:10,stop_point:SP_5701,Bessayre,14
+2374988,16:53:00,16:53:10,stop_point:SP_979,Pasteur,15
+2374988,16:54:00,16:54:10,stop_point:SP_3121,Sausse,16
+2374988,16:55:00,16:55:10,stop_point:SP_2535,Ratalens,17
+2374988,16:56:00,16:56:10,stop_point:SP_291,D59,18
+2374988,16:59:00,16:59:10,stop_point:SP_2484,ZI Montredon,19
+2374988,17:04:00,17:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374989,19:10:00,19:10:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374989,19:11:00,19:11:10,stop_point:SP_294,Rouergue,2
+2374989,19:12:00,19:12:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374989,19:13:00,19:13:10,stop_point:SP_1264,Château,4
+2374989,19:14:00,19:14:10,stop_point:SP_1512,Platanes,5
+2374989,19:15:00,19:15:10,stop_point:SP_3492,Moulin,6
+2374989,19:15:00,19:15:10,stop_point:SP_1996,Viste,7
+2374989,19:16:00,19:16:10,stop_point:SP_1647,Clos du Loup,8
+2374989,19:17:00,19:17:10,stop_point:SP_2,Charlary,9
+2374989,19:18:00,19:18:10,stop_point:SP_2738,F. Mitterrand,10
+2374989,19:19:00,19:19:10,stop_point:SP_3889,Blanqui,11
+2374989,19:20:00,19:20:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374989,19:21:00,19:21:10,stop_point:SP_2257,Imbertis,13
+2374989,19:21:00,19:21:10,stop_point:SP_5701,Bessayre,14
+2374989,19:23:00,19:23:10,stop_point:SP_979,Pasteur,15
+2374989,19:24:00,19:24:10,stop_point:SP_3121,Sausse,16
+2374989,19:25:00,19:25:10,stop_point:SP_2535,Ratalens,17
+2374989,19:26:00,19:26:10,stop_point:SP_291,D59,18
+2374989,19:29:00,19:29:10,stop_point:SP_2484,ZI Montredon,19
+2374989,19:32:00,19:32:10,stop_point:SP_3878,Balma-Gramont,20
+2374990,18:38:00,18:38:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374990,18:39:00,18:39:10,stop_point:SP_294,Rouergue,2
+2374990,18:40:00,18:40:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374990,18:41:00,18:41:10,stop_point:SP_1264,Château,4
+2374990,18:42:00,18:42:10,stop_point:SP_1512,Platanes,5
+2374990,18:43:00,18:43:10,stop_point:SP_3492,Moulin,6
+2374990,18:43:00,18:43:10,stop_point:SP_1996,Viste,7
+2374990,18:44:00,18:44:10,stop_point:SP_1647,Clos du Loup,8
+2374990,18:45:00,18:45:10,stop_point:SP_2,Charlary,9
+2374990,18:46:00,18:46:10,stop_point:SP_2738,F. Mitterrand,10
+2374990,18:47:00,18:47:10,stop_point:SP_3889,Blanqui,11
+2374990,18:48:00,18:48:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374990,18:49:00,18:49:10,stop_point:SP_2257,Imbertis,13
+2374990,18:49:00,18:49:10,stop_point:SP_5701,Bessayre,14
+2374990,18:51:00,18:51:10,stop_point:SP_979,Pasteur,15
+2374990,18:52:00,18:52:10,stop_point:SP_3121,Sausse,16
+2374990,18:53:00,18:53:10,stop_point:SP_2535,Ratalens,17
+2374990,18:54:00,18:54:10,stop_point:SP_291,D59,18
+2374990,18:57:00,18:57:10,stop_point:SP_2484,ZI Montredon,19
+2374990,19:00:00,19:00:10,stop_point:SP_3878,Balma-Gramont,20
+2374991,06:00:00,06:00:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374991,06:01:00,06:01:10,stop_point:SP_294,Rouergue,2
+2374991,06:02:00,06:02:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374991,06:03:00,06:03:10,stop_point:SP_1264,Château,4
+2374991,06:04:00,06:04:10,stop_point:SP_1512,Platanes,5
+2374991,06:05:00,06:05:10,stop_point:SP_3492,Moulin,6
+2374991,06:05:00,06:05:10,stop_point:SP_1996,Viste,7
+2374991,06:06:00,06:06:10,stop_point:SP_1647,Clos du Loup,8
+2374991,06:07:00,06:07:10,stop_point:SP_2,Charlary,9
+2374991,06:08:00,06:08:10,stop_point:SP_2738,F. Mitterrand,10
+2374991,06:09:00,06:09:10,stop_point:SP_3889,Blanqui,11
+2374991,06:10:00,06:10:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374991,06:11:00,06:11:10,stop_point:SP_2257,Imbertis,13
+2374991,06:11:00,06:11:10,stop_point:SP_5701,Bessayre,14
+2374991,06:13:00,06:13:10,stop_point:SP_979,Pasteur,15
+2374991,06:14:00,06:14:10,stop_point:SP_3121,Sausse,16
+2374991,06:15:00,06:15:10,stop_point:SP_2535,Ratalens,17
+2374991,06:16:00,06:16:10,stop_point:SP_291,D59,18
+2374991,06:18:00,06:18:10,stop_point:SP_2484,ZI Montredon,19
+2374991,06:21:00,06:21:10,stop_point:SP_3878,Balma-Gramont,20
+2374992,07:00:00,07:00:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374992,07:01:00,07:01:10,stop_point:SP_294,Rouergue,2
+2374992,07:03:00,07:03:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374992,07:04:00,07:04:10,stop_point:SP_1264,Château,4
+2374992,07:05:00,07:05:10,stop_point:SP_1512,Platanes,5
+2374992,07:06:00,07:06:10,stop_point:SP_3492,Moulin,6
+2374992,07:07:00,07:07:10,stop_point:SP_1996,Viste,7
+2374992,07:08:00,07:08:10,stop_point:SP_1647,Clos du Loup,8
+2374992,07:09:00,07:09:10,stop_point:SP_2,Charlary,9
+2374992,07:11:00,07:11:10,stop_point:SP_2738,F. Mitterrand,10
+2374992,07:12:00,07:12:10,stop_point:SP_3889,Blanqui,11
+2374992,07:13:00,07:13:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374992,07:14:00,07:14:10,stop_point:SP_2257,Imbertis,13
+2374992,07:14:00,07:14:10,stop_point:SP_5701,Bessayre,14
+2374992,07:17:00,07:17:10,stop_point:SP_979,Pasteur,15
+2374992,07:18:00,07:18:10,stop_point:SP_3121,Sausse,16
+2374992,07:19:00,07:19:10,stop_point:SP_2535,Ratalens,17
+2374992,07:21:00,07:21:10,stop_point:SP_291,D59,18
+2374992,07:27:00,07:27:10,stop_point:SP_2484,ZI Montredon,19
+2374992,07:31:00,07:31:10,stop_point:SP_3878,Balma-Gramont,20
+2374993,07:30:00,07:30:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374993,07:31:00,07:31:10,stop_point:SP_294,Rouergue,2
+2374993,07:33:00,07:33:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374993,07:34:00,07:34:10,stop_point:SP_1264,Château,4
+2374993,07:35:00,07:35:10,stop_point:SP_1512,Platanes,5
+2374993,07:37:00,07:37:10,stop_point:SP_3492,Moulin,6
+2374993,07:37:00,07:37:10,stop_point:SP_1996,Viste,7
+2374993,07:39:00,07:39:10,stop_point:SP_1647,Clos du Loup,8
+2374993,07:40:00,07:40:10,stop_point:SP_2,Charlary,9
+2374993,07:42:00,07:42:10,stop_point:SP_2738,F. Mitterrand,10
+2374993,07:43:00,07:43:10,stop_point:SP_3889,Blanqui,11
+2374993,07:44:00,07:44:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374993,07:45:00,07:45:10,stop_point:SP_2257,Imbertis,13
+2374993,07:45:00,07:45:10,stop_point:SP_5701,Bessayre,14
+2374993,07:47:00,07:47:10,stop_point:SP_979,Pasteur,15
+2374993,07:48:00,07:48:10,stop_point:SP_3121,Sausse,16
+2374993,07:49:00,07:49:10,stop_point:SP_2535,Ratalens,17
+2374993,07:51:00,07:51:10,stop_point:SP_291,D59,18
+2374993,07:58:00,07:58:10,stop_point:SP_2484,ZI Montredon,19
+2374993,08:02:00,08:02:10,stop_point:SP_3878,Balma-Gramont,20
+2374994,17:38:00,17:38:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374994,17:39:00,17:39:10,stop_point:SP_294,Rouergue,2
+2374994,17:40:00,17:40:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374994,17:41:00,17:41:10,stop_point:SP_1264,Château,4
+2374994,17:42:00,17:42:10,stop_point:SP_1512,Platanes,5
+2374994,17:43:00,17:43:10,stop_point:SP_3492,Moulin,6
+2374994,17:44:00,17:44:10,stop_point:SP_1996,Viste,7
+2374994,17:45:00,17:45:10,stop_point:SP_1647,Clos du Loup,8
+2374994,17:46:00,17:46:10,stop_point:SP_2,Charlary,9
+2374994,17:47:00,17:47:10,stop_point:SP_2738,F. Mitterrand,10
+2374994,17:48:00,17:48:10,stop_point:SP_3889,Blanqui,11
+2374994,17:49:00,17:49:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374994,17:50:00,17:50:10,stop_point:SP_2257,Imbertis,13
+2374994,17:50:00,17:50:10,stop_point:SP_5701,Bessayre,14
+2374994,17:53:00,17:53:10,stop_point:SP_979,Pasteur,15
+2374994,17:54:00,17:54:10,stop_point:SP_3121,Sausse,16
+2374994,17:55:00,17:55:10,stop_point:SP_2535,Ratalens,17
+2374994,17:56:00,17:56:10,stop_point:SP_291,D59,18
+2374994,17:59:00,17:59:10,stop_point:SP_2484,ZI Montredon,19
+2374994,18:04:00,18:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374995,19:31:00,19:31:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374995,19:32:00,19:32:10,stop_point:SP_294,Rouergue,2
+2374995,19:33:00,19:33:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374995,19:34:00,19:34:10,stop_point:SP_1264,Château,4
+2374995,19:35:00,19:35:10,stop_point:SP_1512,Platanes,5
+2374995,19:36:00,19:36:10,stop_point:SP_3492,Moulin,6
+2374995,19:36:00,19:36:10,stop_point:SP_1996,Viste,7
+2374995,19:37:00,19:37:10,stop_point:SP_1647,Clos du Loup,8
+2374995,19:38:00,19:38:10,stop_point:SP_2,Charlary,9
+2374995,19:39:00,19:39:10,stop_point:SP_2738,F. Mitterrand,10
+2374995,19:40:00,19:40:10,stop_point:SP_3889,Blanqui,11
+2374995,19:41:00,19:41:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374995,19:42:00,19:42:10,stop_point:SP_2257,Imbertis,13
+2374995,19:42:00,19:42:10,stop_point:SP_5701,Bessayre,14
+2374995,19:44:00,19:44:10,stop_point:SP_979,Pasteur,15
+2374995,19:45:00,19:45:10,stop_point:SP_3121,Sausse,16
+2374995,19:46:00,19:46:10,stop_point:SP_2535,Ratalens,17
+2374995,19:47:00,19:47:10,stop_point:SP_291,D59,18
+2374995,19:49:00,19:49:10,stop_point:SP_2484,ZI Montredon,19
+2374995,19:52:00,19:52:10,stop_point:SP_3878,Balma-Gramont,20
+2374996,12:40:00,12:40:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374996,12:41:00,12:41:10,stop_point:SP_294,Rouergue,2
+2374996,12:42:00,12:42:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374996,12:43:00,12:43:10,stop_point:SP_1264,Château,4
+2374996,12:44:00,12:44:10,stop_point:SP_1512,Platanes,5
+2374996,12:45:00,12:45:10,stop_point:SP_3492,Moulin,6
+2374996,12:46:00,12:46:10,stop_point:SP_1996,Viste,7
+2374996,12:47:00,12:47:10,stop_point:SP_1647,Clos du Loup,8
+2374996,12:48:00,12:48:10,stop_point:SP_2,Charlary,9
+2374996,12:49:00,12:49:10,stop_point:SP_2738,F. Mitterrand,10
+2374996,12:50:00,12:50:10,stop_point:SP_3889,Blanqui,11
+2374996,12:51:00,12:51:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374996,12:52:00,12:52:10,stop_point:SP_2257,Imbertis,13
+2374996,12:52:00,12:52:10,stop_point:SP_5701,Bessayre,14
+2374996,12:54:00,12:54:10,stop_point:SP_979,Pasteur,15
+2374996,12:55:00,12:55:10,stop_point:SP_3121,Sausse,16
+2374996,12:56:00,12:56:10,stop_point:SP_2535,Ratalens,17
+2374996,12:57:00,12:57:10,stop_point:SP_291,D59,18
+2374996,13:00:00,13:00:10,stop_point:SP_2484,ZI Montredon,19
+2374996,13:04:00,13:04:10,stop_point:SP_3878,Balma-Gramont,20
+2374997,18:08:00,18:08:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374997,18:09:00,18:09:10,stop_point:SP_294,Rouergue,2
+2374997,18:10:00,18:10:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374997,18:11:00,18:11:10,stop_point:SP_1264,Château,4
+2374997,18:12:00,18:12:10,stop_point:SP_1512,Platanes,5
+2374997,18:13:00,18:13:10,stop_point:SP_3492,Moulin,6
+2374997,18:14:00,18:14:10,stop_point:SP_1996,Viste,7
+2374997,18:15:00,18:15:10,stop_point:SP_1647,Clos du Loup,8
+2374997,18:16:00,18:16:10,stop_point:SP_2,Charlary,9
+2374997,18:17:00,18:17:10,stop_point:SP_2738,F. Mitterrand,10
+2374997,18:18:00,18:18:10,stop_point:SP_3889,Blanqui,11
+2374997,18:19:00,18:19:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374997,18:20:00,18:20:10,stop_point:SP_2257,Imbertis,13
+2374997,18:20:00,18:20:10,stop_point:SP_5701,Bessayre,14
+2374997,18:23:00,18:23:10,stop_point:SP_979,Pasteur,15
+2374997,18:24:00,18:24:10,stop_point:SP_3121,Sausse,16
+2374997,18:25:00,18:25:10,stop_point:SP_2535,Ratalens,17
+2374997,18:26:00,18:26:10,stop_point:SP_291,D59,18
+2374997,18:29:00,18:29:10,stop_point:SP_2484,ZI Montredon,19
+2374997,18:33:00,18:33:10,stop_point:SP_3878,Balma-Gramont,20
+2374998,20:20:00,20:20:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374998,20:21:00,20:21:10,stop_point:SP_294,Rouergue,2
+2374998,20:22:00,20:22:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374998,20:23:00,20:23:10,stop_point:SP_1264,Château,4
+2374998,20:24:00,20:24:10,stop_point:SP_1512,Platanes,5
+2374998,20:25:00,20:25:10,stop_point:SP_3492,Moulin,6
+2374998,20:25:00,20:25:10,stop_point:SP_1996,Viste,7
+2374998,20:26:00,20:26:10,stop_point:SP_1647,Clos du Loup,8
+2374998,20:27:00,20:27:10,stop_point:SP_2,Charlary,9
+2374998,20:28:00,20:28:10,stop_point:SP_2738,F. Mitterrand,10
+2374998,20:29:00,20:29:10,stop_point:SP_3889,Blanqui,11
+2374998,20:30:00,20:30:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374998,20:31:00,20:31:10,stop_point:SP_2257,Imbertis,13
+2374998,20:31:00,20:31:10,stop_point:SP_5701,Bessayre,14
+2374998,20:33:00,20:33:10,stop_point:SP_979,Pasteur,15
+2374998,20:34:00,20:34:10,stop_point:SP_3121,Sausse,16
+2374998,20:35:00,20:35:10,stop_point:SP_2535,Ratalens,17
+2374998,20:36:00,20:36:10,stop_point:SP_291,D59,18
+2374998,20:38:00,20:38:10,stop_point:SP_2484,ZI Montredon,19
+2374998,20:41:00,20:41:10,stop_point:SP_3878,Balma-Gramont,20
+2374999,06:30:00,06:30:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2374999,06:31:00,06:31:10,stop_point:SP_294,Rouergue,2
+2374999,06:32:00,06:32:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2374999,06:33:00,06:33:10,stop_point:SP_1264,Château,4
+2374999,06:34:00,06:34:10,stop_point:SP_1512,Platanes,5
+2374999,06:35:00,06:35:10,stop_point:SP_3492,Moulin,6
+2374999,06:36:00,06:36:10,stop_point:SP_1996,Viste,7
+2374999,06:37:00,06:37:10,stop_point:SP_1647,Clos du Loup,8
+2374999,06:38:00,06:38:10,stop_point:SP_2,Charlary,9
+2374999,06:39:00,06:39:10,stop_point:SP_2738,F. Mitterrand,10
+2374999,06:40:00,06:40:10,stop_point:SP_3889,Blanqui,11
+2374999,06:41:00,06:41:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2374999,06:42:00,06:42:10,stop_point:SP_2257,Imbertis,13
+2374999,06:42:00,06:42:10,stop_point:SP_5701,Bessayre,14
+2374999,06:44:00,06:44:10,stop_point:SP_979,Pasteur,15
+2374999,06:45:00,06:45:10,stop_point:SP_3121,Sausse,16
+2374999,06:46:00,06:46:10,stop_point:SP_2535,Ratalens,17
+2374999,06:47:00,06:47:10,stop_point:SP_291,D59,18
+2374999,06:49:00,06:49:10,stop_point:SP_2484,ZI Montredon,19
+2374999,06:52:00,06:52:10,stop_point:SP_3878,Balma-Gramont,20
+2375000,07:50:00,07:50:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2375000,07:51:00,07:51:10,stop_point:SP_294,Rouergue,2
+2375000,07:52:00,07:52:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2375000,07:53:00,07:53:10,stop_point:SP_1264,Château,4
+2375000,07:54:00,07:54:10,stop_point:SP_1512,Platanes,5
+2375000,07:56:00,07:56:10,stop_point:SP_3492,Moulin,6
+2375000,07:56:00,07:56:10,stop_point:SP_1996,Viste,7
+2375000,07:58:00,07:58:10,stop_point:SP_1647,Clos du Loup,8
+2375000,07:59:00,07:59:10,stop_point:SP_2,Charlary,9
+2375000,08:01:00,08:01:10,stop_point:SP_2738,F. Mitterrand,10
+2375000,08:02:00,08:02:10,stop_point:SP_3889,Blanqui,11
+2375000,08:03:00,08:03:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2375000,08:04:00,08:04:10,stop_point:SP_2257,Imbertis,13
+2375000,08:04:00,08:04:10,stop_point:SP_5701,Bessayre,14
+2375000,08:06:00,08:06:10,stop_point:SP_979,Pasteur,15
+2375000,08:07:00,08:07:10,stop_point:SP_3121,Sausse,16
+2375000,08:08:00,08:08:10,stop_point:SP_2535,Ratalens,17
+2375000,08:10:00,08:10:10,stop_point:SP_291,D59,18
+2375000,08:17:00,08:17:10,stop_point:SP_2484,ZI Montredon,19
+2375000,08:21:00,08:21:10,stop_point:SP_3878,Balma-Gramont,20
+2376857,12:20:00,12:20:10,stop_point:SP_3878,Balma-Gramont,1
+2376857,12:24:00,12:24:10,stop_point:SP_1045,ZI Montredon,2
+2376857,12:27:00,12:27:10,stop_point:SP_3464,D59,3
+2376857,12:28:00,12:28:10,stop_point:SP_2219,Ratalens,4
+2376857,12:29:00,12:29:10,stop_point:SP_1253,Sausse,5
+2376857,12:30:00,12:30:10,stop_point:SP_3246,Pasteur,6
+2376857,12:31:00,12:31:10,stop_point:SP_5700,Bessayre,7
+2376857,12:32:00,12:32:10,stop_point:SP_2153,Imbertis,8
+2376857,12:33:00,12:33:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2376857,12:34:00,12:34:10,stop_point:SP_3372,Blanqui,10
+2376857,12:35:00,12:35:10,stop_point:SP_1052,F. Mitterrand,11
+2376857,12:36:00,12:36:10,stop_point:SP_427,Charlary,12
+2376857,12:37:00,12:37:10,stop_point:SP_3221,La Bisto,13
+2376857,12:38:00,12:38:10,stop_point:SP_873,Viste,14
+2376857,12:38:00,12:38:10,stop_point:SP_3824,Moulin,15
+2376857,12:40:00,12:40:10,stop_point:SP_926,Platanes,16
+2376857,12:41:00,12:41:10,stop_point:SP_2357,Château,17
+2376857,12:42:00,12:42:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2376857,12:43:00,12:43:10,stop_point:SP_3568,Rouergue,19
+2376857,12:44:00,12:44:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2376857,12:46:00,12:46:10,stop_point:SP_3967,Pissebaque,21
+2376857,12:47:00,12:47:10,stop_point:SP_3253,Cammas,22
+2376857,12:47:00,12:47:10,stop_point:SP_1090,Rebel,23
+2376857,12:48:00,12:48:10,stop_point:SP_811,Route d'Albi,24
+2376857,12:48:00,12:48:10,stop_point:SP_1895,Truffaut,25
+2376857,12:49:00,12:49:10,stop_point:SP_3471,Stade,26
+2376857,12:50:00,12:50:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2376858,13:30:00,13:30:10,stop_point:SP_3878,Balma-Gramont,1
+2376858,13:34:00,13:34:10,stop_point:SP_1045,ZI Montredon,2
+2376858,13:37:00,13:37:10,stop_point:SP_3464,D59,3
+2376858,13:38:00,13:38:10,stop_point:SP_2219,Ratalens,4
+2376858,13:39:00,13:39:10,stop_point:SP_1253,Sausse,5
+2376858,13:40:00,13:40:10,stop_point:SP_3246,Pasteur,6
+2376858,13:41:00,13:41:10,stop_point:SP_5700,Bessayre,7
+2376858,13:42:00,13:42:10,stop_point:SP_2153,Imbertis,8
+2376858,13:43:00,13:43:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2376858,13:44:00,13:44:10,stop_point:SP_3372,Blanqui,10
+2376858,13:45:00,13:45:10,stop_point:SP_1052,F. Mitterrand,11
+2376858,13:46:00,13:46:10,stop_point:SP_427,Charlary,12
+2376858,13:47:00,13:47:10,stop_point:SP_3221,La Bisto,13
+2376858,13:48:00,13:48:10,stop_point:SP_873,Viste,14
+2376858,13:48:00,13:48:10,stop_point:SP_3824,Moulin,15
+2376858,13:50:00,13:50:10,stop_point:SP_926,Platanes,16
+2376858,13:51:00,13:51:10,stop_point:SP_2357,Château,17
+2376858,13:52:00,13:52:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2376858,13:53:00,13:53:10,stop_point:SP_3568,Rouergue,19
+2376858,13:54:00,13:54:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2376858,13:56:00,13:56:10,stop_point:SP_3967,Pissebaque,21
+2376858,13:57:00,13:57:10,stop_point:SP_3253,Cammas,22
+2376858,13:57:00,13:57:10,stop_point:SP_1090,Rebel,23
+2376858,13:58:00,13:58:10,stop_point:SP_811,Route d'Albi,24
+2376858,13:58:00,13:58:10,stop_point:SP_1895,Truffaut,25
+2376858,13:59:00,13:59:10,stop_point:SP_3471,Stade,26
+2376858,14:00:00,14:00:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2376859,13:00:00,13:00:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2376859,13:01:00,13:01:10,stop_point:SP_294,Rouergue,2
+2376859,13:02:00,13:02:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2376859,13:03:00,13:03:10,stop_point:SP_1264,Château,4
+2376859,13:04:00,13:04:10,stop_point:SP_1512,Platanes,5
+2376859,13:05:00,13:05:10,stop_point:SP_3492,Moulin,6
+2376859,13:06:00,13:06:10,stop_point:SP_1996,Viste,7
+2376859,13:07:00,13:07:10,stop_point:SP_1647,Clos du Loup,8
+2376859,13:08:00,13:08:10,stop_point:SP_2,Charlary,9
+2376859,13:09:00,13:09:10,stop_point:SP_2738,F. Mitterrand,10
+2376859,13:10:00,13:10:10,stop_point:SP_3889,Blanqui,11
+2376859,13:11:00,13:11:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2376859,13:12:00,13:12:10,stop_point:SP_2257,Imbertis,13
+2376859,13:12:00,13:12:10,stop_point:SP_5701,Bessayre,14
+2376859,13:14:00,13:14:10,stop_point:SP_979,Pasteur,15
+2376859,13:15:00,13:15:10,stop_point:SP_3121,Sausse,16
+2376859,13:16:00,13:16:10,stop_point:SP_2535,Ratalens,17
+2376859,13:17:00,13:17:10,stop_point:SP_291,D59,18
+2376859,13:20:00,13:20:10,stop_point:SP_2484,ZI Montredon,19
+2376859,13:24:00,13:24:10,stop_point:SP_3878,Balma-Gramont,20
+2384820,07:15:00,07:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384820,07:19:00,07:19:10,stop_point:SP_1045,ZI Montredon,2
+2384820,07:21:00,07:21:10,stop_point:SP_3464,D59,3
+2384820,07:22:00,07:22:10,stop_point:SP_2219,Ratalens,4
+2384820,07:23:00,07:23:10,stop_point:SP_1253,Sausse,5
+2384820,07:24:00,07:24:10,stop_point:SP_3246,Pasteur,6
+2384820,07:25:00,07:25:10,stop_point:SP_5700,Bessayre,7
+2384820,07:26:00,07:26:10,stop_point:SP_2153,Imbertis,8
+2384820,07:26:00,07:26:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384820,07:27:00,07:27:10,stop_point:SP_3372,Blanqui,10
+2384820,07:28:00,07:28:10,stop_point:SP_1052,F. Mitterrand,11
+2384820,07:29:00,07:29:10,stop_point:SP_427,Charlary,12
+2384820,07:30:00,07:30:10,stop_point:SP_3221,La Bisto,13
+2384820,07:30:00,07:30:10,stop_point:SP_873,Viste,14
+2384820,07:31:00,07:31:10,stop_point:SP_3824,Moulin,15
+2384820,07:32:00,07:32:10,stop_point:SP_926,Platanes,16
+2384820,07:33:00,07:33:10,stop_point:SP_2357,Château,17
+2384820,07:34:00,07:34:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384820,07:35:00,07:35:10,stop_point:SP_3568,Rouergue,19
+2384820,07:36:00,07:36:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384820,07:38:00,07:38:10,stop_point:SP_3967,Pissebaque,21
+2384820,07:39:00,07:39:10,stop_point:SP_3253,Cammas,22
+2384820,07:39:00,07:39:10,stop_point:SP_1090,Rebel,23
+2384820,07:40:00,07:40:10,stop_point:SP_811,Route d'Albi,24
+2384820,07:40:00,07:40:10,stop_point:SP_1895,Truffaut,25
+2384820,07:41:00,07:41:10,stop_point:SP_3471,Stade,26
+2384820,07:42:00,07:42:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384821,08:15:00,08:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384821,08:19:00,08:19:10,stop_point:SP_1045,ZI Montredon,2
+2384821,08:21:00,08:21:10,stop_point:SP_3464,D59,3
+2384821,08:22:00,08:22:10,stop_point:SP_2219,Ratalens,4
+2384821,08:23:00,08:23:10,stop_point:SP_1253,Sausse,5
+2384821,08:24:00,08:24:10,stop_point:SP_3246,Pasteur,6
+2384821,08:25:00,08:25:10,stop_point:SP_5700,Bessayre,7
+2384821,08:26:00,08:26:10,stop_point:SP_2153,Imbertis,8
+2384821,08:26:00,08:26:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384821,08:27:00,08:27:10,stop_point:SP_3372,Blanqui,10
+2384821,08:28:00,08:28:10,stop_point:SP_1052,F. Mitterrand,11
+2384821,08:29:00,08:29:10,stop_point:SP_427,Charlary,12
+2384821,08:30:00,08:30:10,stop_point:SP_3221,La Bisto,13
+2384821,08:30:00,08:30:10,stop_point:SP_873,Viste,14
+2384821,08:31:00,08:31:10,stop_point:SP_3824,Moulin,15
+2384821,08:32:00,08:32:10,stop_point:SP_926,Platanes,16
+2384821,08:33:00,08:33:10,stop_point:SP_2357,Château,17
+2384821,08:34:00,08:34:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384821,08:35:00,08:35:10,stop_point:SP_3568,Rouergue,19
+2384821,08:36:00,08:36:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384821,08:38:00,08:38:10,stop_point:SP_3967,Pissebaque,21
+2384821,08:39:00,08:39:10,stop_point:SP_3253,Cammas,22
+2384821,08:39:00,08:39:10,stop_point:SP_1090,Rebel,23
+2384821,08:40:00,08:40:10,stop_point:SP_811,Route d'Albi,24
+2384821,08:40:00,08:40:10,stop_point:SP_1895,Truffaut,25
+2384821,08:41:00,08:41:10,stop_point:SP_3471,Stade,26
+2384821,08:42:00,08:42:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384822,09:15:00,09:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384822,09:19:00,09:19:10,stop_point:SP_1045,ZI Montredon,2
+2384822,09:21:00,09:21:10,stop_point:SP_3464,D59,3
+2384822,09:22:00,09:22:10,stop_point:SP_2219,Ratalens,4
+2384822,09:23:00,09:23:10,stop_point:SP_1253,Sausse,5
+2384822,09:24:00,09:24:10,stop_point:SP_3246,Pasteur,6
+2384822,09:25:00,09:25:10,stop_point:SP_5700,Bessayre,7
+2384822,09:26:00,09:26:10,stop_point:SP_2153,Imbertis,8
+2384822,09:27:00,09:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384822,09:28:00,09:28:10,stop_point:SP_3372,Blanqui,10
+2384822,09:29:00,09:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384822,09:30:00,09:30:10,stop_point:SP_427,Charlary,12
+2384822,09:31:00,09:31:10,stop_point:SP_3221,La Bisto,13
+2384822,09:32:00,09:32:10,stop_point:SP_873,Viste,14
+2384822,09:32:00,09:32:10,stop_point:SP_3824,Moulin,15
+2384822,09:34:00,09:34:10,stop_point:SP_926,Platanes,16
+2384822,09:35:00,09:35:10,stop_point:SP_2357,Château,17
+2384822,09:36:00,09:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384822,09:37:00,09:37:10,stop_point:SP_3568,Rouergue,19
+2384822,09:38:00,09:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384822,09:40:00,09:40:10,stop_point:SP_3967,Pissebaque,21
+2384822,09:41:00,09:41:10,stop_point:SP_3253,Cammas,22
+2384822,09:41:00,09:41:10,stop_point:SP_1090,Rebel,23
+2384822,09:42:00,09:42:10,stop_point:SP_811,Route d'Albi,24
+2384822,09:42:00,09:42:10,stop_point:SP_1895,Truffaut,25
+2384822,09:43:00,09:43:10,stop_point:SP_3471,Stade,26
+2384822,09:44:00,09:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384823,10:15:00,10:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384823,10:19:00,10:19:10,stop_point:SP_1045,ZI Montredon,2
+2384823,10:21:00,10:21:10,stop_point:SP_3464,D59,3
+2384823,10:22:00,10:22:10,stop_point:SP_2219,Ratalens,4
+2384823,10:23:00,10:23:10,stop_point:SP_1253,Sausse,5
+2384823,10:24:00,10:24:10,stop_point:SP_3246,Pasteur,6
+2384823,10:25:00,10:25:10,stop_point:SP_5700,Bessayre,7
+2384823,10:26:00,10:26:10,stop_point:SP_2153,Imbertis,8
+2384823,10:27:00,10:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384823,10:28:00,10:28:10,stop_point:SP_3372,Blanqui,10
+2384823,10:29:00,10:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384823,10:30:00,10:30:10,stop_point:SP_427,Charlary,12
+2384823,10:31:00,10:31:10,stop_point:SP_3221,La Bisto,13
+2384823,10:32:00,10:32:10,stop_point:SP_873,Viste,14
+2384823,10:32:00,10:32:10,stop_point:SP_3824,Moulin,15
+2384823,10:34:00,10:34:10,stop_point:SP_926,Platanes,16
+2384823,10:35:00,10:35:10,stop_point:SP_2357,Château,17
+2384823,10:36:00,10:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384823,10:37:00,10:37:10,stop_point:SP_3568,Rouergue,19
+2384823,10:38:00,10:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384823,10:40:00,10:40:10,stop_point:SP_3967,Pissebaque,21
+2384823,10:41:00,10:41:10,stop_point:SP_3253,Cammas,22
+2384823,10:41:00,10:41:10,stop_point:SP_1090,Rebel,23
+2384823,10:42:00,10:42:10,stop_point:SP_811,Route d'Albi,24
+2384823,10:42:00,10:42:10,stop_point:SP_1895,Truffaut,25
+2384823,10:43:00,10:43:10,stop_point:SP_3471,Stade,26
+2384823,10:44:00,10:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384824,11:15:00,11:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384824,11:19:00,11:19:10,stop_point:SP_1045,ZI Montredon,2
+2384824,11:21:00,11:21:10,stop_point:SP_3464,D59,3
+2384824,11:22:00,11:22:10,stop_point:SP_2219,Ratalens,4
+2384824,11:23:00,11:23:10,stop_point:SP_1253,Sausse,5
+2384824,11:24:00,11:24:10,stop_point:SP_3246,Pasteur,6
+2384824,11:25:00,11:25:10,stop_point:SP_5700,Bessayre,7
+2384824,11:26:00,11:26:10,stop_point:SP_2153,Imbertis,8
+2384824,11:27:00,11:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384824,11:28:00,11:28:10,stop_point:SP_3372,Blanqui,10
+2384824,11:29:00,11:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384824,11:30:00,11:30:10,stop_point:SP_427,Charlary,12
+2384824,11:31:00,11:31:10,stop_point:SP_3221,La Bisto,13
+2384824,11:32:00,11:32:10,stop_point:SP_873,Viste,14
+2384824,11:32:00,11:32:10,stop_point:SP_3824,Moulin,15
+2384824,11:34:00,11:34:10,stop_point:SP_926,Platanes,16
+2384824,11:35:00,11:35:10,stop_point:SP_2357,Château,17
+2384824,11:36:00,11:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384824,11:37:00,11:37:10,stop_point:SP_3568,Rouergue,19
+2384824,11:38:00,11:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384824,11:40:00,11:40:10,stop_point:SP_3967,Pissebaque,21
+2384824,11:41:00,11:41:10,stop_point:SP_3253,Cammas,22
+2384824,11:41:00,11:41:10,stop_point:SP_1090,Rebel,23
+2384824,11:42:00,11:42:10,stop_point:SP_811,Route d'Albi,24
+2384824,11:42:00,11:42:10,stop_point:SP_1895,Truffaut,25
+2384824,11:43:00,11:43:10,stop_point:SP_3471,Stade,26
+2384824,11:44:00,11:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384825,12:15:00,12:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384825,12:19:00,12:19:10,stop_point:SP_1045,ZI Montredon,2
+2384825,12:21:00,12:21:10,stop_point:SP_3464,D59,3
+2384825,12:22:00,12:22:10,stop_point:SP_2219,Ratalens,4
+2384825,12:23:00,12:23:10,stop_point:SP_1253,Sausse,5
+2384825,12:24:00,12:24:10,stop_point:SP_3246,Pasteur,6
+2384825,12:25:00,12:25:10,stop_point:SP_5700,Bessayre,7
+2384825,12:26:00,12:26:10,stop_point:SP_2153,Imbertis,8
+2384825,12:27:00,12:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384825,12:28:00,12:28:10,stop_point:SP_3372,Blanqui,10
+2384825,12:29:00,12:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384825,12:30:00,12:30:10,stop_point:SP_427,Charlary,12
+2384825,12:31:00,12:31:10,stop_point:SP_3221,La Bisto,13
+2384825,12:32:00,12:32:10,stop_point:SP_873,Viste,14
+2384825,12:32:00,12:32:10,stop_point:SP_3824,Moulin,15
+2384825,12:34:00,12:34:10,stop_point:SP_926,Platanes,16
+2384825,12:35:00,12:35:10,stop_point:SP_2357,Château,17
+2384825,12:36:00,12:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384825,12:37:00,12:37:10,stop_point:SP_3568,Rouergue,19
+2384825,12:38:00,12:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384825,12:40:00,12:40:10,stop_point:SP_3967,Pissebaque,21
+2384825,12:41:00,12:41:10,stop_point:SP_3253,Cammas,22
+2384825,12:41:00,12:41:10,stop_point:SP_1090,Rebel,23
+2384825,12:42:00,12:42:10,stop_point:SP_811,Route d'Albi,24
+2384825,12:42:00,12:42:10,stop_point:SP_1895,Truffaut,25
+2384825,12:43:00,12:43:10,stop_point:SP_3471,Stade,26
+2384825,12:44:00,12:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384826,13:15:00,13:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384826,13:19:00,13:19:10,stop_point:SP_1045,ZI Montredon,2
+2384826,13:21:00,13:21:10,stop_point:SP_3464,D59,3
+2384826,13:22:00,13:22:10,stop_point:SP_2219,Ratalens,4
+2384826,13:23:00,13:23:10,stop_point:SP_1253,Sausse,5
+2384826,13:24:00,13:24:10,stop_point:SP_3246,Pasteur,6
+2384826,13:25:00,13:25:10,stop_point:SP_5700,Bessayre,7
+2384826,13:26:00,13:26:10,stop_point:SP_2153,Imbertis,8
+2384826,13:27:00,13:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384826,13:28:00,13:28:10,stop_point:SP_3372,Blanqui,10
+2384826,13:29:00,13:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384826,13:30:00,13:30:10,stop_point:SP_427,Charlary,12
+2384826,13:31:00,13:31:10,stop_point:SP_3221,La Bisto,13
+2384826,13:32:00,13:32:10,stop_point:SP_873,Viste,14
+2384826,13:32:00,13:32:10,stop_point:SP_3824,Moulin,15
+2384826,13:34:00,13:34:10,stop_point:SP_926,Platanes,16
+2384826,13:35:00,13:35:10,stop_point:SP_2357,Château,17
+2384826,13:36:00,13:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384826,13:37:00,13:37:10,stop_point:SP_3568,Rouergue,19
+2384826,13:38:00,13:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384826,13:40:00,13:40:10,stop_point:SP_3967,Pissebaque,21
+2384826,13:41:00,13:41:10,stop_point:SP_3253,Cammas,22
+2384826,13:41:00,13:41:10,stop_point:SP_1090,Rebel,23
+2384826,13:42:00,13:42:10,stop_point:SP_811,Route d'Albi,24
+2384826,13:42:00,13:42:10,stop_point:SP_1895,Truffaut,25
+2384826,13:43:00,13:43:10,stop_point:SP_3471,Stade,26
+2384826,13:44:00,13:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384827,14:15:00,14:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384827,14:19:00,14:19:10,stop_point:SP_1045,ZI Montredon,2
+2384827,14:21:00,14:21:10,stop_point:SP_3464,D59,3
+2384827,14:22:00,14:22:10,stop_point:SP_2219,Ratalens,4
+2384827,14:23:00,14:23:10,stop_point:SP_1253,Sausse,5
+2384827,14:24:00,14:24:10,stop_point:SP_3246,Pasteur,6
+2384827,14:25:00,14:25:10,stop_point:SP_5700,Bessayre,7
+2384827,14:26:00,14:26:10,stop_point:SP_2153,Imbertis,8
+2384827,14:27:00,14:27:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384827,14:28:00,14:28:10,stop_point:SP_3372,Blanqui,10
+2384827,14:29:00,14:29:10,stop_point:SP_1052,F. Mitterrand,11
+2384827,14:30:00,14:30:10,stop_point:SP_427,Charlary,12
+2384827,14:31:00,14:31:10,stop_point:SP_3221,La Bisto,13
+2384827,14:32:00,14:32:10,stop_point:SP_873,Viste,14
+2384827,14:32:00,14:32:10,stop_point:SP_3824,Moulin,15
+2384827,14:34:00,14:34:10,stop_point:SP_926,Platanes,16
+2384827,14:35:00,14:35:10,stop_point:SP_2357,Château,17
+2384827,14:36:00,14:36:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384827,14:37:00,14:37:10,stop_point:SP_3568,Rouergue,19
+2384827,14:38:00,14:38:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384827,14:40:00,14:40:10,stop_point:SP_3967,Pissebaque,21
+2384827,14:41:00,14:41:10,stop_point:SP_3253,Cammas,22
+2384827,14:41:00,14:41:10,stop_point:SP_1090,Rebel,23
+2384827,14:42:00,14:42:10,stop_point:SP_811,Route d'Albi,24
+2384827,14:42:00,14:42:10,stop_point:SP_1895,Truffaut,25
+2384827,14:43:00,14:43:10,stop_point:SP_3471,Stade,26
+2384827,14:44:00,14:44:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384828,15:15:00,15:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384828,15:19:00,15:19:10,stop_point:SP_1045,ZI Montredon,2
+2384828,15:22:00,15:22:10,stop_point:SP_3464,D59,3
+2384828,15:23:00,15:23:10,stop_point:SP_2219,Ratalens,4
+2384828,15:24:00,15:24:10,stop_point:SP_1253,Sausse,5
+2384828,15:25:00,15:25:10,stop_point:SP_3246,Pasteur,6
+2384828,15:26:00,15:26:10,stop_point:SP_5700,Bessayre,7
+2384828,15:27:00,15:27:10,stop_point:SP_2153,Imbertis,8
+2384828,15:28:00,15:28:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384828,15:29:00,15:29:10,stop_point:SP_3372,Blanqui,10
+2384828,15:30:00,15:30:10,stop_point:SP_1052,F. Mitterrand,11
+2384828,15:31:00,15:31:10,stop_point:SP_427,Charlary,12
+2384828,15:32:00,15:32:10,stop_point:SP_3221,La Bisto,13
+2384828,15:33:00,15:33:10,stop_point:SP_873,Viste,14
+2384828,15:33:00,15:33:10,stop_point:SP_3824,Moulin,15
+2384828,15:35:00,15:35:10,stop_point:SP_926,Platanes,16
+2384828,15:36:00,15:36:10,stop_point:SP_2357,Château,17
+2384828,15:37:00,15:37:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384828,15:38:00,15:38:10,stop_point:SP_3568,Rouergue,19
+2384828,15:39:00,15:39:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384828,15:41:00,15:41:10,stop_point:SP_3967,Pissebaque,21
+2384828,15:42:00,15:42:10,stop_point:SP_3253,Cammas,22
+2384828,15:42:00,15:42:10,stop_point:SP_1090,Rebel,23
+2384828,15:43:00,15:43:10,stop_point:SP_811,Route d'Albi,24
+2384828,15:43:00,15:43:10,stop_point:SP_1895,Truffaut,25
+2384828,15:44:00,15:44:10,stop_point:SP_3471,Stade,26
+2384828,15:45:00,15:45:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384829,16:15:00,16:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384829,16:19:00,16:19:10,stop_point:SP_1045,ZI Montredon,2
+2384829,16:22:00,16:22:10,stop_point:SP_3464,D59,3
+2384829,16:23:00,16:23:10,stop_point:SP_2219,Ratalens,4
+2384829,16:24:00,16:24:10,stop_point:SP_1253,Sausse,5
+2384829,16:25:00,16:25:10,stop_point:SP_3246,Pasteur,6
+2384829,16:26:00,16:26:10,stop_point:SP_5700,Bessayre,7
+2384829,16:27:00,16:27:10,stop_point:SP_2153,Imbertis,8
+2384829,16:28:00,16:28:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384829,16:29:00,16:29:10,stop_point:SP_3372,Blanqui,10
+2384829,16:30:00,16:30:10,stop_point:SP_1052,F. Mitterrand,11
+2384829,16:31:00,16:31:10,stop_point:SP_427,Charlary,12
+2384829,16:32:00,16:32:10,stop_point:SP_3221,La Bisto,13
+2384829,16:33:00,16:33:10,stop_point:SP_873,Viste,14
+2384829,16:33:00,16:33:10,stop_point:SP_3824,Moulin,15
+2384829,16:35:00,16:35:10,stop_point:SP_926,Platanes,16
+2384829,16:36:00,16:36:10,stop_point:SP_2357,Château,17
+2384829,16:37:00,16:37:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384829,16:38:00,16:38:10,stop_point:SP_3568,Rouergue,19
+2384829,16:39:00,16:39:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384829,16:41:00,16:41:10,stop_point:SP_3967,Pissebaque,21
+2384829,16:42:00,16:42:10,stop_point:SP_3253,Cammas,22
+2384829,16:42:00,16:42:10,stop_point:SP_1090,Rebel,23
+2384829,16:43:00,16:43:10,stop_point:SP_811,Route d'Albi,24
+2384829,16:43:00,16:43:10,stop_point:SP_1895,Truffaut,25
+2384829,16:44:00,16:44:10,stop_point:SP_3471,Stade,26
+2384829,16:45:00,16:45:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384830,17:15:00,17:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384830,17:19:00,17:19:10,stop_point:SP_1045,ZI Montredon,2
+2384830,17:22:00,17:22:10,stop_point:SP_3464,D59,3
+2384830,17:23:00,17:23:10,stop_point:SP_2219,Ratalens,4
+2384830,17:24:00,17:24:10,stop_point:SP_1253,Sausse,5
+2384830,17:25:00,17:25:10,stop_point:SP_3246,Pasteur,6
+2384830,17:26:00,17:26:10,stop_point:SP_5700,Bessayre,7
+2384830,17:27:00,17:27:10,stop_point:SP_2153,Imbertis,8
+2384830,17:28:00,17:28:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384830,17:29:00,17:29:10,stop_point:SP_3372,Blanqui,10
+2384830,17:30:00,17:30:10,stop_point:SP_1052,F. Mitterrand,11
+2384830,17:31:00,17:31:10,stop_point:SP_427,Charlary,12
+2384830,17:32:00,17:32:10,stop_point:SP_3221,La Bisto,13
+2384830,17:33:00,17:33:10,stop_point:SP_873,Viste,14
+2384830,17:33:00,17:33:10,stop_point:SP_3824,Moulin,15
+2384830,17:35:00,17:35:10,stop_point:SP_926,Platanes,16
+2384830,17:36:00,17:36:10,stop_point:SP_2357,Château,17
+2384830,17:37:00,17:37:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384830,17:38:00,17:38:10,stop_point:SP_3568,Rouergue,19
+2384830,17:40:00,17:40:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384830,17:41:00,17:41:10,stop_point:SP_3967,Pissebaque,21
+2384830,17:42:00,17:42:10,stop_point:SP_3253,Cammas,22
+2384830,17:43:00,17:43:10,stop_point:SP_1090,Rebel,23
+2384830,17:44:00,17:44:10,stop_point:SP_811,Route d'Albi,24
+2384830,17:44:00,17:44:10,stop_point:SP_1895,Truffaut,25
+2384830,17:45:00,17:45:10,stop_point:SP_3471,Stade,26
+2384830,17:46:00,17:46:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384831,18:15:00,18:15:10,stop_point:SP_3878,Balma-Gramont,1
+2384831,18:19:00,18:19:10,stop_point:SP_1045,ZI Montredon,2
+2384831,18:22:00,18:22:10,stop_point:SP_3464,D59,3
+2384831,18:23:00,18:23:10,stop_point:SP_2219,Ratalens,4
+2384831,18:24:00,18:24:10,stop_point:SP_1253,Sausse,5
+2384831,18:25:00,18:25:10,stop_point:SP_3246,Pasteur,6
+2384831,18:26:00,18:26:10,stop_point:SP_5700,Bessayre,7
+2384831,18:27:00,18:27:10,stop_point:SP_2153,Imbertis,8
+2384831,18:28:00,18:28:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384831,18:29:00,18:29:10,stop_point:SP_3372,Blanqui,10
+2384831,18:30:00,18:30:10,stop_point:SP_1052,F. Mitterrand,11
+2384831,18:31:00,18:31:10,stop_point:SP_427,Charlary,12
+2384831,18:32:00,18:32:10,stop_point:SP_3221,La Bisto,13
+2384831,18:33:00,18:33:10,stop_point:SP_873,Viste,14
+2384831,18:33:00,18:33:10,stop_point:SP_3824,Moulin,15
+2384831,18:35:00,18:35:10,stop_point:SP_926,Platanes,16
+2384831,18:36:00,18:36:10,stop_point:SP_2357,Château,17
+2384831,18:37:00,18:37:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384831,18:38:00,18:38:10,stop_point:SP_3568,Rouergue,19
+2384831,18:40:00,18:40:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384831,18:41:00,18:41:10,stop_point:SP_3967,Pissebaque,21
+2384831,18:42:00,18:42:10,stop_point:SP_3253,Cammas,22
+2384831,18:43:00,18:43:10,stop_point:SP_1090,Rebel,23
+2384831,18:44:00,18:44:10,stop_point:SP_811,Route d'Albi,24
+2384831,18:44:00,18:44:10,stop_point:SP_1895,Truffaut,25
+2384831,18:45:00,18:45:10,stop_point:SP_3471,Stade,26
+2384831,18:46:00,18:46:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384832,19:30:00,19:30:10,stop_point:SP_3878,Balma-Gramont,1
+2384832,19:34:00,19:34:10,stop_point:SP_1045,ZI Montredon,2
+2384832,19:36:00,19:36:10,stop_point:SP_3464,D59,3
+2384832,19:37:00,19:37:10,stop_point:SP_2219,Ratalens,4
+2384832,19:38:00,19:38:10,stop_point:SP_1253,Sausse,5
+2384832,19:39:00,19:39:10,stop_point:SP_3246,Pasteur,6
+2384832,19:40:00,19:40:10,stop_point:SP_5700,Bessayre,7
+2384832,19:41:00,19:41:10,stop_point:SP_2153,Imbertis,8
+2384832,19:42:00,19:42:10,stop_point:SP_86,Ch. de Bordeneuve,9
+2384832,19:43:00,19:43:10,stop_point:SP_3372,Blanqui,10
+2384832,19:44:00,19:44:10,stop_point:SP_1052,F. Mitterrand,11
+2384832,19:45:00,19:45:10,stop_point:SP_427,Charlary,12
+2384832,19:46:00,19:46:10,stop_point:SP_3221,La Bisto,13
+2384832,19:47:00,19:47:10,stop_point:SP_873,Viste,14
+2384832,19:47:00,19:47:10,stop_point:SP_3824,Moulin,15
+2384832,19:49:00,19:49:10,stop_point:SP_926,Platanes,16
+2384832,19:50:00,19:50:10,stop_point:SP_2357,Château,17
+2384832,19:51:00,19:51:10,stop_point:SP_739,Rouffiac-Tolosan,18
+2384832,19:52:00,19:52:10,stop_point:SP_3568,Rouergue,19
+2384832,19:53:00,19:53:10,stop_point:SP_1380,Castelmaurou Mairie,20
+2384832,19:55:00,19:55:10,stop_point:SP_3967,Pissebaque,21
+2384832,19:56:00,19:56:10,stop_point:SP_3253,Cammas,22
+2384832,19:56:00,19:56:10,stop_point:SP_1090,Rebel,23
+2384832,19:57:00,19:57:10,stop_point:SP_811,Route d'Albi,24
+2384832,19:57:00,19:57:10,stop_point:SP_1895,Truffaut,25
+2384832,19:58:00,19:58:10,stop_point:SP_3471,Stade,26
+2384832,19:59:00,19:59:10,stop_point:SP_2240,Castelmaurou Mairie,27
+2384833,06:45:00,06:45:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384833,06:46:00,06:46:10,stop_point:SP_294,Rouergue,2
+2384833,06:48:00,06:48:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384833,06:49:00,06:49:10,stop_point:SP_1264,Château,4
+2384833,06:49:00,06:49:10,stop_point:SP_1512,Platanes,5
+2384833,06:50:00,06:50:10,stop_point:SP_3492,Moulin,6
+2384833,06:51:00,06:51:10,stop_point:SP_1996,Viste,7
+2384833,06:51:00,06:51:10,stop_point:SP_1647,Clos du Loup,8
+2384833,06:52:00,06:52:10,stop_point:SP_2,Charlary,9
+2384833,06:53:00,06:53:10,stop_point:SP_2738,F. Mitterrand,10
+2384833,06:54:00,06:54:10,stop_point:SP_3889,Blanqui,11
+2384833,06:54:00,06:54:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384833,06:55:00,06:55:10,stop_point:SP_2257,Imbertis,13
+2384833,06:55:00,06:55:10,stop_point:SP_5701,Bessayre,14
+2384833,06:57:00,06:57:10,stop_point:SP_979,Pasteur,15
+2384833,06:58:00,06:58:10,stop_point:SP_3121,Sausse,16
+2384833,06:59:00,06:59:10,stop_point:SP_2535,Ratalens,17
+2384833,07:00:00,07:00:10,stop_point:SP_291,D59,18
+2384833,07:02:00,07:02:10,stop_point:SP_2484,ZI Montredon,19
+2384833,07:05:00,07:05:10,stop_point:SP_3878,Balma-Gramont,20
+2384834,07:51:00,07:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384834,07:52:00,07:52:10,stop_point:SP_294,Rouergue,2
+2384834,07:54:00,07:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384834,07:55:00,07:55:10,stop_point:SP_1264,Château,4
+2384834,07:55:00,07:55:10,stop_point:SP_1512,Platanes,5
+2384834,07:56:00,07:56:10,stop_point:SP_3492,Moulin,6
+2384834,07:57:00,07:57:10,stop_point:SP_1996,Viste,7
+2384834,07:57:00,07:57:10,stop_point:SP_1647,Clos du Loup,8
+2384834,07:58:00,07:58:10,stop_point:SP_2,Charlary,9
+2384834,07:59:00,07:59:10,stop_point:SP_2738,F. Mitterrand,10
+2384834,08:00:00,08:00:10,stop_point:SP_3889,Blanqui,11
+2384834,08:01:00,08:01:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384834,08:02:00,08:02:10,stop_point:SP_2257,Imbertis,13
+2384834,08:02:00,08:02:10,stop_point:SP_5701,Bessayre,14
+2384834,08:04:00,08:04:10,stop_point:SP_979,Pasteur,15
+2384834,08:05:00,08:05:10,stop_point:SP_3121,Sausse,16
+2384834,08:06:00,08:06:10,stop_point:SP_2535,Ratalens,17
+2384834,08:07:00,08:07:10,stop_point:SP_291,D59,18
+2384834,08:09:00,08:09:10,stop_point:SP_2484,ZI Montredon,19
+2384834,08:12:00,08:12:10,stop_point:SP_3878,Balma-Gramont,20
+2384835,08:51:00,08:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384835,08:52:00,08:52:10,stop_point:SP_294,Rouergue,2
+2384835,08:54:00,08:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384835,08:55:00,08:55:10,stop_point:SP_1264,Château,4
+2384835,08:55:00,08:55:10,stop_point:SP_1512,Platanes,5
+2384835,08:56:00,08:56:10,stop_point:SP_3492,Moulin,6
+2384835,08:57:00,08:57:10,stop_point:SP_1996,Viste,7
+2384835,08:57:00,08:57:10,stop_point:SP_1647,Clos du Loup,8
+2384835,08:58:00,08:58:10,stop_point:SP_2,Charlary,9
+2384835,08:59:00,08:59:10,stop_point:SP_2738,F. Mitterrand,10
+2384835,09:00:00,09:00:10,stop_point:SP_3889,Blanqui,11
+2384835,09:01:00,09:01:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384835,09:02:00,09:02:10,stop_point:SP_2257,Imbertis,13
+2384835,09:02:00,09:02:10,stop_point:SP_5701,Bessayre,14
+2384835,09:04:00,09:04:10,stop_point:SP_979,Pasteur,15
+2384835,09:05:00,09:05:10,stop_point:SP_3121,Sausse,16
+2384835,09:06:00,09:06:10,stop_point:SP_2535,Ratalens,17
+2384835,09:07:00,09:07:10,stop_point:SP_291,D59,18
+2384835,09:09:00,09:09:10,stop_point:SP_2484,ZI Montredon,19
+2384835,09:12:00,09:12:10,stop_point:SP_3878,Balma-Gramont,20
+2384836,09:51:00,09:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384836,09:52:00,09:52:10,stop_point:SP_294,Rouergue,2
+2384836,09:54:00,09:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384836,09:55:00,09:55:10,stop_point:SP_1264,Château,4
+2384836,09:56:00,09:56:10,stop_point:SP_1512,Platanes,5
+2384836,09:57:00,09:57:10,stop_point:SP_3492,Moulin,6
+2384836,09:57:00,09:57:10,stop_point:SP_1996,Viste,7
+2384836,09:58:00,09:58:10,stop_point:SP_1647,Clos du Loup,8
+2384836,09:59:00,09:59:10,stop_point:SP_2,Charlary,9
+2384836,10:00:00,10:00:10,stop_point:SP_2738,F. Mitterrand,10
+2384836,10:01:00,10:01:10,stop_point:SP_3889,Blanqui,11
+2384836,10:02:00,10:02:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384836,10:03:00,10:03:10,stop_point:SP_2257,Imbertis,13
+2384836,10:03:00,10:03:10,stop_point:SP_5701,Bessayre,14
+2384836,10:05:00,10:05:10,stop_point:SP_979,Pasteur,15
+2384836,10:06:00,10:06:10,stop_point:SP_3121,Sausse,16
+2384836,10:07:00,10:07:10,stop_point:SP_2535,Ratalens,17
+2384836,10:08:00,10:08:10,stop_point:SP_291,D59,18
+2384836,10:11:00,10:11:10,stop_point:SP_2484,ZI Montredon,19
+2384836,10:14:00,10:14:10,stop_point:SP_3878,Balma-Gramont,20
+2384837,10:51:00,10:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384837,10:52:00,10:52:10,stop_point:SP_294,Rouergue,2
+2384837,10:54:00,10:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384837,10:55:00,10:55:10,stop_point:SP_1264,Château,4
+2384837,10:56:00,10:56:10,stop_point:SP_1512,Platanes,5
+2384837,10:57:00,10:57:10,stop_point:SP_3492,Moulin,6
+2384837,10:57:00,10:57:10,stop_point:SP_1996,Viste,7
+2384837,10:58:00,10:58:10,stop_point:SP_1647,Clos du Loup,8
+2384837,10:59:00,10:59:10,stop_point:SP_2,Charlary,9
+2384837,11:00:00,11:00:10,stop_point:SP_2738,F. Mitterrand,10
+2384837,11:01:00,11:01:10,stop_point:SP_3889,Blanqui,11
+2384837,11:02:00,11:02:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384837,11:03:00,11:03:10,stop_point:SP_2257,Imbertis,13
+2384837,11:03:00,11:03:10,stop_point:SP_5701,Bessayre,14
+2384837,11:05:00,11:05:10,stop_point:SP_979,Pasteur,15
+2384837,11:06:00,11:06:10,stop_point:SP_3121,Sausse,16
+2384837,11:07:00,11:07:10,stop_point:SP_2535,Ratalens,17
+2384837,11:08:00,11:08:10,stop_point:SP_291,D59,18
+2384837,11:11:00,11:11:10,stop_point:SP_2484,ZI Montredon,19
+2384837,11:14:00,11:14:10,stop_point:SP_3878,Balma-Gramont,20
+2384838,11:51:00,11:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384838,11:52:00,11:52:10,stop_point:SP_294,Rouergue,2
+2384838,11:54:00,11:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384838,11:55:00,11:55:10,stop_point:SP_1264,Château,4
+2384838,11:56:00,11:56:10,stop_point:SP_1512,Platanes,5
+2384838,11:57:00,11:57:10,stop_point:SP_3492,Moulin,6
+2384838,11:57:00,11:57:10,stop_point:SP_1996,Viste,7
+2384838,11:58:00,11:58:10,stop_point:SP_1647,Clos du Loup,8
+2384838,11:59:00,11:59:10,stop_point:SP_2,Charlary,9
+2384838,12:00:00,12:00:10,stop_point:SP_2738,F. Mitterrand,10
+2384838,12:01:00,12:01:10,stop_point:SP_3889,Blanqui,11
+2384838,12:02:00,12:02:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384838,12:03:00,12:03:10,stop_point:SP_2257,Imbertis,13
+2384838,12:03:00,12:03:10,stop_point:SP_5701,Bessayre,14
+2384838,12:05:00,12:05:10,stop_point:SP_979,Pasteur,15
+2384838,12:06:00,12:06:10,stop_point:SP_3121,Sausse,16
+2384838,12:07:00,12:07:10,stop_point:SP_2535,Ratalens,17
+2384838,12:08:00,12:08:10,stop_point:SP_291,D59,18
+2384838,12:11:00,12:11:10,stop_point:SP_2484,ZI Montredon,19
+2384838,12:14:00,12:14:10,stop_point:SP_3878,Balma-Gramont,20
+2384839,12:51:00,12:51:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384839,12:52:00,12:52:10,stop_point:SP_294,Rouergue,2
+2384839,12:54:00,12:54:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384839,12:55:00,12:55:10,stop_point:SP_1264,Château,4
+2384839,12:56:00,12:56:10,stop_point:SP_1512,Platanes,5
+2384839,12:57:00,12:57:10,stop_point:SP_3492,Moulin,6
+2384839,12:57:00,12:57:10,stop_point:SP_1996,Viste,7
+2384839,12:58:00,12:58:10,stop_point:SP_1647,Clos du Loup,8
+2384839,12:59:00,12:59:10,stop_point:SP_2,Charlary,9
+2384839,13:00:00,13:00:10,stop_point:SP_2738,F. Mitterrand,10
+2384839,13:01:00,13:01:10,stop_point:SP_3889,Blanqui,11
+2384839,13:02:00,13:02:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384839,13:03:00,13:03:10,stop_point:SP_2257,Imbertis,13
+2384839,13:03:00,13:03:10,stop_point:SP_5701,Bessayre,14
+2384839,13:05:00,13:05:10,stop_point:SP_979,Pasteur,15
+2384839,13:06:00,13:06:10,stop_point:SP_3121,Sausse,16
+2384839,13:07:00,13:07:10,stop_point:SP_2535,Ratalens,17
+2384839,13:08:00,13:08:10,stop_point:SP_291,D59,18
+2384839,13:11:00,13:11:10,stop_point:SP_2484,ZI Montredon,19
+2384839,13:14:00,13:14:10,stop_point:SP_3878,Balma-Gramont,20
+2384840,13:53:00,13:53:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384840,13:54:00,13:54:10,stop_point:SP_294,Rouergue,2
+2384840,13:56:00,13:56:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384840,13:57:00,13:57:10,stop_point:SP_1264,Château,4
+2384840,13:58:00,13:58:10,stop_point:SP_1512,Platanes,5
+2384840,13:59:00,13:59:10,stop_point:SP_3492,Moulin,6
+2384840,13:59:00,13:59:10,stop_point:SP_1996,Viste,7
+2384840,14:00:00,14:00:10,stop_point:SP_1647,Clos du Loup,8
+2384840,14:01:00,14:01:10,stop_point:SP_2,Charlary,9
+2384840,14:02:00,14:02:10,stop_point:SP_2738,F. Mitterrand,10
+2384840,14:03:00,14:03:10,stop_point:SP_3889,Blanqui,11
+2384840,14:04:00,14:04:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384840,14:05:00,14:05:10,stop_point:SP_2257,Imbertis,13
+2384840,14:05:00,14:05:10,stop_point:SP_5701,Bessayre,14
+2384840,14:07:00,14:07:10,stop_point:SP_979,Pasteur,15
+2384840,14:08:00,14:08:10,stop_point:SP_3121,Sausse,16
+2384840,14:09:00,14:09:10,stop_point:SP_2535,Ratalens,17
+2384840,14:10:00,14:10:10,stop_point:SP_291,D59,18
+2384840,14:13:00,14:13:10,stop_point:SP_2484,ZI Montredon,19
+2384840,14:16:00,14:16:10,stop_point:SP_3878,Balma-Gramont,20
+2384841,14:55:00,14:55:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384841,14:56:00,14:56:10,stop_point:SP_294,Rouergue,2
+2384841,14:58:00,14:58:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384841,14:59:00,14:59:10,stop_point:SP_1264,Château,4
+2384841,15:00:00,15:00:10,stop_point:SP_1512,Platanes,5
+2384841,15:01:00,15:01:10,stop_point:SP_3492,Moulin,6
+2384841,15:01:00,15:01:10,stop_point:SP_1996,Viste,7
+2384841,15:02:00,15:02:10,stop_point:SP_1647,Clos du Loup,8
+2384841,15:03:00,15:03:10,stop_point:SP_2,Charlary,9
+2384841,15:04:00,15:04:10,stop_point:SP_2738,F. Mitterrand,10
+2384841,15:05:00,15:05:10,stop_point:SP_3889,Blanqui,11
+2384841,15:06:00,15:06:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384841,15:07:00,15:07:10,stop_point:SP_2257,Imbertis,13
+2384841,15:07:00,15:07:10,stop_point:SP_5701,Bessayre,14
+2384841,15:09:00,15:09:10,stop_point:SP_979,Pasteur,15
+2384841,15:10:00,15:10:10,stop_point:SP_3121,Sausse,16
+2384841,15:11:00,15:11:10,stop_point:SP_2535,Ratalens,17
+2384841,15:12:00,15:12:10,stop_point:SP_291,D59,18
+2384841,15:15:00,15:15:10,stop_point:SP_2484,ZI Montredon,19
+2384841,15:18:00,15:18:10,stop_point:SP_3878,Balma-Gramont,20
+2384842,15:55:00,15:55:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384842,15:56:00,15:56:10,stop_point:SP_294,Rouergue,2
+2384842,15:58:00,15:58:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384842,15:59:00,15:59:10,stop_point:SP_1264,Château,4
+2384842,16:00:00,16:00:10,stop_point:SP_1512,Platanes,5
+2384842,16:01:00,16:01:10,stop_point:SP_3492,Moulin,6
+2384842,16:01:00,16:01:10,stop_point:SP_1996,Viste,7
+2384842,16:02:00,16:02:10,stop_point:SP_1647,Clos du Loup,8
+2384842,16:03:00,16:03:10,stop_point:SP_2,Charlary,9
+2384842,16:04:00,16:04:10,stop_point:SP_2738,F. Mitterrand,10
+2384842,16:05:00,16:05:10,stop_point:SP_3889,Blanqui,11
+2384842,16:06:00,16:06:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384842,16:07:00,16:07:10,stop_point:SP_2257,Imbertis,13
+2384842,16:07:00,16:07:10,stop_point:SP_5701,Bessayre,14
+2384842,16:09:00,16:09:10,stop_point:SP_979,Pasteur,15
+2384842,16:10:00,16:10:10,stop_point:SP_3121,Sausse,16
+2384842,16:11:00,16:11:10,stop_point:SP_2535,Ratalens,17
+2384842,16:12:00,16:12:10,stop_point:SP_291,D59,18
+2384842,16:15:00,16:15:10,stop_point:SP_2484,ZI Montredon,19
+2384842,16:18:00,16:18:10,stop_point:SP_3878,Balma-Gramont,20
+2384843,16:55:00,16:55:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384843,16:56:00,16:56:10,stop_point:SP_294,Rouergue,2
+2384843,16:58:00,16:58:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384843,16:59:00,16:59:10,stop_point:SP_1264,Château,4
+2384843,17:00:00,17:00:10,stop_point:SP_1512,Platanes,5
+2384843,17:01:00,17:01:10,stop_point:SP_3492,Moulin,6
+2384843,17:01:00,17:01:10,stop_point:SP_1996,Viste,7
+2384843,17:02:00,17:02:10,stop_point:SP_1647,Clos du Loup,8
+2384843,17:03:00,17:03:10,stop_point:SP_2,Charlary,9
+2384843,17:04:00,17:04:10,stop_point:SP_2738,F. Mitterrand,10
+2384843,17:05:00,17:05:10,stop_point:SP_3889,Blanqui,11
+2384843,17:06:00,17:06:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384843,17:07:00,17:07:10,stop_point:SP_2257,Imbertis,13
+2384843,17:07:00,17:07:10,stop_point:SP_5701,Bessayre,14
+2384843,17:09:00,17:09:10,stop_point:SP_979,Pasteur,15
+2384843,17:10:00,17:10:10,stop_point:SP_3121,Sausse,16
+2384843,17:11:00,17:11:10,stop_point:SP_2535,Ratalens,17
+2384843,17:12:00,17:12:10,stop_point:SP_291,D59,18
+2384843,17:15:00,17:15:10,stop_point:SP_2484,ZI Montredon,19
+2384843,17:18:00,17:18:10,stop_point:SP_3878,Balma-Gramont,20
+2384844,17:55:00,17:55:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384844,17:56:00,17:56:10,stop_point:SP_294,Rouergue,2
+2384844,17:58:00,17:58:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384844,17:59:00,17:59:10,stop_point:SP_1264,Château,4
+2384844,18:00:00,18:00:10,stop_point:SP_1512,Platanes,5
+2384844,18:01:00,18:01:10,stop_point:SP_3492,Moulin,6
+2384844,18:01:00,18:01:10,stop_point:SP_1996,Viste,7
+2384844,18:02:00,18:02:10,stop_point:SP_1647,Clos du Loup,8
+2384844,18:03:00,18:03:10,stop_point:SP_2,Charlary,9
+2384844,18:04:00,18:04:10,stop_point:SP_2738,F. Mitterrand,10
+2384844,18:05:00,18:05:10,stop_point:SP_3889,Blanqui,11
+2384844,18:06:00,18:06:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384844,18:07:00,18:07:10,stop_point:SP_2257,Imbertis,13
+2384844,18:07:00,18:07:10,stop_point:SP_5701,Bessayre,14
+2384844,18:09:00,18:09:10,stop_point:SP_979,Pasteur,15
+2384844,18:10:00,18:10:10,stop_point:SP_3121,Sausse,16
+2384844,18:11:00,18:11:10,stop_point:SP_2535,Ratalens,17
+2384844,18:12:00,18:12:10,stop_point:SP_291,D59,18
+2384844,18:15:00,18:15:10,stop_point:SP_2484,ZI Montredon,19
+2384844,18:18:00,18:18:10,stop_point:SP_3878,Balma-Gramont,20
+2384845,18:55:00,18:55:10,stop_point:SP_2240,Castelmaurou Mairie,1
+2384845,18:56:00,18:56:10,stop_point:SP_294,Rouergue,2
+2384845,18:58:00,18:58:10,stop_point:SP_3048,Rouffiac-Tolosan,3
+2384845,18:59:00,18:59:10,stop_point:SP_1264,Château,4
+2384845,19:00:00,19:00:10,stop_point:SP_1512,Platanes,5
+2384845,19:01:00,19:01:10,stop_point:SP_3492,Moulin,6
+2384845,19:01:00,19:01:10,stop_point:SP_1996,Viste,7
+2384845,19:02:00,19:02:10,stop_point:SP_1647,Clos du Loup,8
+2384845,19:03:00,19:03:10,stop_point:SP_2,Charlary,9
+2384845,19:04:00,19:04:10,stop_point:SP_2738,F. Mitterrand,10
+2384845,19:05:00,19:05:10,stop_point:SP_3889,Blanqui,11
+2384845,19:06:00,19:06:10,stop_point:SP_671,Ch. de Bordeneuve,12
+2384845,19:07:00,19:07:10,stop_point:SP_2257,Imbertis,13
+2384845,19:07:00,19:07:10,stop_point:SP_5701,Bessayre,14
+2384845,19:09:00,19:09:10,stop_point:SP_979,Pasteur,15
+2384845,19:10:00,19:10:10,stop_point:SP_3121,Sausse,16
+2384845,19:11:00,19:11:10,stop_point:SP_2535,Ratalens,17
+2384845,19:12:00,19:12:10,stop_point:SP_291,D59,18
+2384845,19:15:00,19:15:10,stop_point:SP_2484,ZI Montredon,19
+2384845,19:18:00,19:18:10,stop_point:SP_3878,Balma-Gramont,20

@@ -1,0 +1,248 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2374686,07:06:00,07:06:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374686,07:10:00,07:10:10,stop_point:SP_4367,Genevoix,2
+2374686,07:17:00,07:17:10,stop_point:SP_5622,Aussau,3
+2374686,07:20:00,07:20:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374686,07:29:00,07:29:10,stop_point:SP_5695,Bourdet,5
+2374686,07:31:00,07:31:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374686,07:33:00,07:33:10,stop_point:SP_4617,René Zago,7
+2374686,07:34:00,07:34:10,stop_point:SP_4615,Collège St Lys,8
+2374686,07:36:00,07:36:10,stop_point:SP_4433,Eglise St Lys,9
+2374686,07:38:00,07:38:10,stop_point:SP_2695,Maison de Retraite,10
+2374686,07:38:00,07:38:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374686,07:41:00,07:41:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374686,07:42:00,07:42:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374687,07:30:00,07:30:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374687,07:34:00,07:34:10,stop_point:SP_4367,Genevoix,2
+2374687,07:41:00,07:41:10,stop_point:SP_5622,Aussau,3
+2374687,07:44:00,07:44:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374687,07:53:00,07:53:10,stop_point:SP_5695,Bourdet,5
+2374687,07:55:00,07:55:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374687,07:57:00,07:57:10,stop_point:SP_4617,René Zago,7
+2374687,07:58:00,07:58:10,stop_point:SP_4615,Collège St Lys,8
+2374687,08:00:00,08:00:10,stop_point:SP_4433,Eglise St Lys,9
+2374687,08:02:00,08:02:10,stop_point:SP_2695,Maison de Retraite,10
+2374687,08:02:00,08:02:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374687,08:05:00,08:05:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374687,08:06:00,08:06:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374688,08:35:00,08:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374688,08:39:00,08:39:10,stop_point:SP_4367,Genevoix,2
+2374688,08:46:00,08:46:10,stop_point:SP_5622,Aussau,3
+2374688,08:49:00,08:49:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374688,08:58:00,08:58:10,stop_point:SP_5695,Bourdet,5
+2374688,09:00:00,09:00:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374688,09:02:00,09:02:10,stop_point:SP_4617,René Zago,7
+2374688,09:03:00,09:03:10,stop_point:SP_4615,Collège St Lys,8
+2374688,09:05:00,09:05:10,stop_point:SP_4433,Eglise St Lys,9
+2374688,09:07:00,09:07:10,stop_point:SP_2695,Maison de Retraite,10
+2374688,09:08:00,09:08:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374688,09:11:00,09:11:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374688,09:12:00,09:12:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374689,12:15:00,12:15:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374689,12:19:00,12:19:10,stop_point:SP_4367,Genevoix,2
+2374689,12:26:00,12:26:10,stop_point:SP_5622,Aussau,3
+2374689,12:30:00,12:30:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374689,12:40:00,12:40:10,stop_point:SP_5695,Bourdet,5
+2374689,12:42:00,12:42:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374689,12:44:00,12:44:10,stop_point:SP_4617,René Zago,7
+2374689,12:45:00,12:45:10,stop_point:SP_4615,Collège St Lys,8
+2374689,12:47:00,12:47:10,stop_point:SP_4433,Eglise St Lys,9
+2374689,12:49:00,12:49:10,stop_point:SP_2695,Maison de Retraite,10
+2374689,12:50:00,12:50:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374689,12:53:00,12:53:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374689,12:54:00,12:54:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374690,13:15:00,13:15:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374690,13:19:00,13:19:10,stop_point:SP_4367,Genevoix,2
+2374690,13:26:00,13:26:10,stop_point:SP_5622,Aussau,3
+2374690,13:30:00,13:30:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374690,13:40:00,13:40:10,stop_point:SP_5695,Bourdet,5
+2374690,13:42:00,13:42:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374690,13:44:00,13:44:10,stop_point:SP_4617,René Zago,7
+2374690,13:45:00,13:45:10,stop_point:SP_4615,Collège St Lys,8
+2374690,13:47:00,13:47:10,stop_point:SP_4433,Eglise St Lys,9
+2374690,13:49:00,13:49:10,stop_point:SP_2695,Maison de Retraite,10
+2374690,13:50:00,13:50:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374690,13:53:00,13:53:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374690,13:54:00,13:54:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374691,17:05:00,17:05:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374691,17:09:00,17:09:10,stop_point:SP_4367,Genevoix,2
+2374691,17:16:00,17:16:10,stop_point:SP_5622,Aussau,3
+2374691,17:20:00,17:20:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374691,17:30:00,17:30:10,stop_point:SP_5695,Bourdet,5
+2374691,17:32:00,17:32:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374691,17:34:00,17:34:10,stop_point:SP_4617,René Zago,7
+2374691,17:35:00,17:35:10,stop_point:SP_4615,Collège St Lys,8
+2374691,17:37:00,17:37:10,stop_point:SP_4433,Eglise St Lys,9
+2374691,17:39:00,17:39:10,stop_point:SP_2695,Maison de Retraite,10
+2374691,17:40:00,17:40:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374691,17:43:00,17:43:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374691,17:44:00,17:44:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374692,17:43:00,17:43:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374692,17:47:00,17:47:10,stop_point:SP_4367,Genevoix,2
+2374692,17:54:00,17:54:10,stop_point:SP_5622,Aussau,3
+2374692,17:58:00,17:58:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374692,18:08:00,18:08:10,stop_point:SP_5695,Bourdet,5
+2374692,18:10:00,18:10:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374692,18:12:00,18:12:10,stop_point:SP_4617,René Zago,7
+2374692,18:13:00,18:13:10,stop_point:SP_4615,Collège St Lys,8
+2374692,18:15:00,18:15:10,stop_point:SP_4433,Eglise St Lys,9
+2374692,18:17:00,18:17:10,stop_point:SP_2695,Maison de Retraite,10
+2374692,18:18:00,18:18:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374692,18:21:00,18:21:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374692,18:22:00,18:22:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374693,18:40:00,18:40:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374693,18:44:00,18:44:10,stop_point:SP_4367,Genevoix,2
+2374693,18:51:00,18:51:10,stop_point:SP_5622,Aussau,3
+2374693,18:55:00,18:55:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374693,19:05:00,19:05:10,stop_point:SP_5695,Bourdet,5
+2374693,19:07:00,19:07:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374693,19:09:00,19:09:10,stop_point:SP_4617,René Zago,7
+2374693,19:10:00,19:10:10,stop_point:SP_4615,Collège St Lys,8
+2374693,19:12:00,19:12:10,stop_point:SP_4433,Eglise St Lys,9
+2374693,19:14:00,19:14:10,stop_point:SP_2695,Maison de Retraite,10
+2374693,19:15:00,19:15:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374693,19:18:00,19:18:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374693,19:19:00,19:19:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374694,19:35:00,19:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374694,19:39:00,19:39:10,stop_point:SP_4367,Genevoix,2
+2374694,19:46:00,19:46:10,stop_point:SP_5622,Aussau,3
+2374694,19:50:00,19:50:10,stop_point:SP_5691,Lamasquère Mairie,4
+2374694,20:00:00,20:00:10,stop_point:SP_5695,Bourdet,5
+2374694,20:02:00,20:02:10,stop_point:SP_5689,St Lys ZA Du Boutet,6
+2374694,20:04:00,20:04:10,stop_point:SP_4617,René Zago,7
+2374694,20:06:00,20:06:10,stop_point:SP_4615,Collège St Lys,8
+2374694,20:08:00,20:08:10,stop_point:SP_4433,Eglise St Lys,9
+2374694,20:09:00,20:09:10,stop_point:SP_2695,Maison de Retraite,10
+2374694,20:10:00,20:10:10,stop_point:SP_3677,Moulin de la Jalousie,11
+2374694,20:12:00,20:12:10,stop_point:SP_5567,Fonsorbes Lycée,12
+2374694,20:13:00,20:13:10,stop_point:SP_5690,Fonsorbes Lycée,13
+2374695,06:13:00,06:13:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374695,06:13:00,06:13:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374695,06:16:00,06:16:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374695,06:17:00,06:17:10,stop_point:SP_126,Maison de Retraite,4
+2374695,06:19:00,06:19:10,stop_point:SP_4435,Eglise St Lys,5
+2374695,06:21:00,06:21:10,stop_point:SP_4628,Collège St Lys,6
+2374695,06:22:00,06:22:10,stop_point:SP_4612,René Zago,7
+2374695,06:24:00,06:24:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374695,06:26:00,06:26:10,stop_point:SP_5696,Bourdet,9
+2374695,06:37:00,06:37:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374695,06:41:00,06:41:10,stop_point:SP_5623,Aussau,11
+2374695,06:49:00,06:49:10,stop_point:SP_4416,Genevoix,12
+2374695,06:52:00,06:52:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374696,06:46:00,06:46:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374696,06:46:00,06:46:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374696,06:49:00,06:49:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374696,06:50:00,06:50:10,stop_point:SP_126,Maison de Retraite,4
+2374696,06:52:00,06:52:10,stop_point:SP_4435,Eglise St Lys,5
+2374696,06:54:00,06:54:10,stop_point:SP_4628,Collège St Lys,6
+2374696,06:55:00,06:55:10,stop_point:SP_4612,René Zago,7
+2374696,06:57:00,06:57:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374696,06:59:00,06:59:10,stop_point:SP_5696,Bourdet,9
+2374696,07:10:00,07:10:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374696,07:14:00,07:14:10,stop_point:SP_5623,Aussau,11
+2374696,07:22:00,07:22:10,stop_point:SP_4416,Genevoix,12
+2374696,07:25:00,07:25:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374697,07:47:00,07:47:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374697,07:47:00,07:47:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374697,07:50:00,07:50:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374697,07:51:00,07:51:10,stop_point:SP_126,Maison de Retraite,4
+2374697,07:53:00,07:53:10,stop_point:SP_4435,Eglise St Lys,5
+2374697,07:55:00,07:55:10,stop_point:SP_4628,Collège St Lys,6
+2374697,07:56:00,07:56:10,stop_point:SP_4612,René Zago,7
+2374697,07:58:00,07:58:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374697,08:00:00,08:00:10,stop_point:SP_5696,Bourdet,9
+2374697,08:11:00,08:11:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374697,08:15:00,08:15:10,stop_point:SP_5623,Aussau,11
+2374697,08:23:00,08:23:10,stop_point:SP_4416,Genevoix,12
+2374697,08:26:00,08:26:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374698,08:12:00,08:12:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374698,08:12:00,08:12:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374698,08:15:00,08:15:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374698,08:16:00,08:16:10,stop_point:SP_126,Maison de Retraite,4
+2374698,08:18:00,08:18:10,stop_point:SP_4435,Eglise St Lys,5
+2374698,08:20:00,08:20:10,stop_point:SP_4628,Collège St Lys,6
+2374698,08:21:00,08:21:10,stop_point:SP_4612,René Zago,7
+2374698,08:23:00,08:23:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374698,08:25:00,08:25:10,stop_point:SP_5696,Bourdet,9
+2374698,08:36:00,08:36:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374698,08:40:00,08:40:10,stop_point:SP_5623,Aussau,11
+2374698,08:48:00,08:48:10,stop_point:SP_4416,Genevoix,12
+2374698,08:51:00,08:51:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374699,12:28:00,12:28:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374699,12:28:00,12:28:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374699,12:31:00,12:31:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374699,12:32:00,12:32:10,stop_point:SP_126,Maison de Retraite,4
+2374699,12:34:00,12:34:10,stop_point:SP_4435,Eglise St Lys,5
+2374699,12:36:00,12:36:10,stop_point:SP_4628,Collège St Lys,6
+2374699,12:37:00,12:37:10,stop_point:SP_4612,René Zago,7
+2374699,12:39:00,12:39:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374699,12:41:00,12:41:10,stop_point:SP_5696,Bourdet,9
+2374699,12:52:00,12:52:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374699,12:56:00,12:56:10,stop_point:SP_5623,Aussau,11
+2374699,13:04:00,13:04:10,stop_point:SP_4416,Genevoix,12
+2374699,13:07:00,13:07:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374700,13:10:00,13:10:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374700,13:10:00,13:10:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374700,13:13:00,13:13:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374700,13:14:00,13:14:10,stop_point:SP_126,Maison de Retraite,4
+2374700,13:16:00,13:16:10,stop_point:SP_4435,Eglise St Lys,5
+2374700,13:18:00,13:18:10,stop_point:SP_4628,Collège St Lys,6
+2374700,13:19:00,13:19:10,stop_point:SP_4612,René Zago,7
+2374700,13:21:00,13:21:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374700,13:23:00,13:23:10,stop_point:SP_5696,Bourdet,9
+2374700,13:34:00,13:34:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374700,13:38:00,13:38:10,stop_point:SP_5623,Aussau,11
+2374700,13:46:00,13:46:10,stop_point:SP_4416,Genevoix,12
+2374700,13:49:00,13:49:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374701,17:00:00,17:00:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374701,17:00:00,17:00:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374701,17:03:00,17:03:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374701,17:04:00,17:04:10,stop_point:SP_126,Maison de Retraite,4
+2374701,17:06:00,17:06:10,stop_point:SP_4435,Eglise St Lys,5
+2374701,17:08:00,17:08:10,stop_point:SP_4628,Collège St Lys,6
+2374701,17:09:00,17:09:10,stop_point:SP_4612,René Zago,7
+2374701,17:11:00,17:11:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374701,17:13:00,17:13:10,stop_point:SP_5696,Bourdet,9
+2374701,17:24:00,17:24:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374701,17:28:00,17:28:10,stop_point:SP_5623,Aussau,11
+2374701,17:35:00,17:35:10,stop_point:SP_4416,Genevoix,12
+2374701,17:38:00,17:38:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374702,17:57:00,17:57:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374702,17:57:00,17:57:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374702,18:00:00,18:00:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374702,18:01:00,18:01:10,stop_point:SP_126,Maison de Retraite,4
+2374702,18:03:00,18:03:10,stop_point:SP_4435,Eglise St Lys,5
+2374702,18:05:00,18:05:10,stop_point:SP_4628,Collège St Lys,6
+2374702,18:06:00,18:06:10,stop_point:SP_4612,René Zago,7
+2374702,18:08:00,18:08:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374702,18:10:00,18:10:10,stop_point:SP_5696,Bourdet,9
+2374702,18:21:00,18:21:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374702,18:25:00,18:25:10,stop_point:SP_5623,Aussau,11
+2374702,18:32:00,18:32:10,stop_point:SP_4416,Genevoix,12
+2374702,18:35:00,18:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374703,18:28:00,18:28:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374703,18:28:00,18:28:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374703,18:31:00,18:31:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374703,18:32:00,18:32:10,stop_point:SP_126,Maison de Retraite,4
+2374703,18:34:00,18:34:10,stop_point:SP_4435,Eglise St Lys,5
+2374703,18:36:00,18:36:10,stop_point:SP_4628,Collège St Lys,6
+2374703,18:37:00,18:37:10,stop_point:SP_4612,René Zago,7
+2374703,18:39:00,18:39:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374703,18:41:00,18:41:10,stop_point:SP_5696,Bourdet,9
+2374703,18:52:00,18:52:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374703,18:56:00,18:56:10,stop_point:SP_5623,Aussau,11
+2374703,19:03:00,19:03:10,stop_point:SP_4416,Genevoix,12
+2374703,19:06:00,19:06:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13
+2374704,19:25:00,19:25:10,stop_point:SP_5690,Fonsorbes Lycée,1
+2374704,19:25:00,19:25:10,stop_point:SP_5552,Fonsorbes Lycée,2
+2374704,19:28:00,19:28:10,stop_point:SP_3612,Moulin de la Jalousie,3
+2374704,19:29:00,19:29:10,stop_point:SP_126,Maison de Retraite,4
+2374704,19:31:00,19:31:10,stop_point:SP_4435,Eglise St Lys,5
+2374704,19:33:00,19:33:10,stop_point:SP_4628,Collège St Lys,6
+2374704,19:34:00,19:34:10,stop_point:SP_4612,René Zago,7
+2374704,19:36:00,19:36:10,stop_point:SP_4621,St Lys ZA Du Boutet,8
+2374704,19:38:00,19:38:10,stop_point:SP_5696,Bourdet,9
+2374704,19:49:00,19:49:10,stop_point:SP_5294,Lamasquère Mairie,10
+2374704,19:53:00,19:53:10,stop_point:SP_5623,Aussau,11
+2374704,20:00:00,20:00:10,stop_point:SP_4416,Genevoix,12
+2374704,20:03:00,20:03:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,13

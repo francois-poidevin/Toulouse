@@ -1,0 +1,217 @@
+* {
+  box-sizing: border-box;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-family: "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  background: #0f1115;
+  color: #eaeaea;
+}
+
+.app-header {
+  padding: 0.75rem 1.25rem;
+  background: #141824;
+  border-bottom: 1px solid #262b3a;
+}
+
+.app-header h1 {
+  margin: 0;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: 0.02em;
+}
+
+.badge {
+  display: inline-block;
+  margin-left: 0.5rem;
+  padding: 0.1rem 0.5rem;
+  font-size: 0.65rem;
+  font-weight: 700;
+  letter-spacing: 0.05em;
+  background: #d1263d;
+  color: #fff;
+  border-radius: 999px;
+  vertical-align: middle;
+}
+
+.subtitle {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  color: #9aa1b4;
+}
+
+.modal-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(15, 17, 21, 0.85);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+}
+
+.modal-content {
+  background: #141824;
+  border: 1px solid #2f3547;
+  padding: 1.75rem;
+  border-radius: 8px;
+  width: 90%;
+  max-width: 420px;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.6);
+}
+
+.modal-content h3 {
+  margin: 0 0 0.5rem 0;
+  color: #eaeaea;
+  font-size: 1.2rem;
+}
+
+.modal-content p {
+  color: #9aa1b4;
+  font-size: 0.85rem;
+  margin-bottom: 1.25rem;
+  line-height: 1.4;
+}
+
+.modal-content input[type="text"] {
+  width: 100%;
+  padding: 0.6rem 0.75rem;
+  background: #0f1115;
+  border: 1px solid #2f3547;
+  color: #eaeaea;
+  border-radius: 4px;
+  font-size: 0.9rem;
+  margin-bottom: 1.25rem;
+}
+
+.modal-content input[type="text"]:focus,
+.api-bar input:focus {
+  outline: none;
+  border-color: #3ba7ff;
+}
+
+.modal-actions {
+  display: flex;
+  gap: 0.75rem;
+}
+
+.modal-content button {
+  background: #3ba7ff;
+  color: #fff;
+  border: none;
+  padding: 0.6rem 1rem;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  width: 100%;
+  font-size: 0.9rem;
+}
+
+.modal-content button:hover {
+  background: #2892eb;
+}
+
+.modal-content button.secondary {
+  background: transparent;
+  border: 1px solid #2f3547;
+  color: #9aa1b4;
+}
+
+.modal-content button.secondary:hover {
+  background: #1a1f2e;
+  color: #eaeaea;
+}
+
+.api-bar {
+  position: absolute;
+  top: 62px;
+  left: 0;
+  right: 0;
+  height: 38px;
+  background: #141824;
+  border-bottom: 1px solid #262b3a;
+  display: flex;
+  align-items: center;
+  padding: 0 1.25rem;
+  font-size: 0.82rem;
+  color: #9aa1b4;
+  z-index: 500;
+  gap: 0.75rem;
+}
+
+.api-bar input {
+  background: #0f1115;
+  border: 1px solid #2f3547;
+  color: #eaeaea;
+  padding: 0.3rem 0.6rem;
+  border-radius: 3px;
+  font-size: 0.8rem;
+  flex: 1;
+  max-width: 450px;
+}
+
+#map {
+  position: absolute;
+  top: 100px;
+  bottom: 34px;
+  left: 0;
+  right: 0;
+  background: #1a1d27;
+}
+
+.app-footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 34px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 1rem;
+  font-size: 0.72rem;
+  color: #7d8496;
+  background: #141824;
+  border-top: 1px solid #262b3a;
+}
+
+.app-footer a {
+  color: #9aa1b4;
+}
+
+#network-status {
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+/* pixel-art bus icon: keep hard edges when scaled */
+.bus-icon-img {
+  image-rendering: pixelated;
+  image-rendering: crisp-edges;
+  filter: drop-shadow(0 2px 3px rgba(0, 0, 0, 0.5));
+}
+
+/* Leaflet popup/tooltip themed to match the dark UI */
+.leaflet-popup-content-wrapper,
+.leaflet-tooltip {
+  background: #1a1d27;
+  color: #eaeaea;
+  border: 1px solid #2f3547;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.4);
+}
+
+.leaflet-popup-tip {
+  background: #1a1d27;
+}
+
+.leaflet-tooltip {
+  font-size: 0.75rem;
+  padding: 3px 7px;
+}

@@ -1,0 +1,2736 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2386051,08:25:00,08:25:10,stop_point:SP_2490,La Vache,1
+2386051,08:27:00,08:27:10,stop_point:SP_2028,Pader,2
+2386051,08:28:00,08:28:10,stop_point:SP_1294,Le Grand Marché,3
+2386051,08:29:00,08:29:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386051,08:30:00,08:30:10,stop_point:SP_2429,Glacière,5
+2386051,08:33:00,08:33:10,stop_point:SP_1698,Cadène,6
+2386051,08:34:00,08:34:10,stop_point:SP_908,Rupé,7
+2386051,08:34:00,08:34:10,stop_point:SP_2946,Salvador Allende,8
+2386051,08:35:00,08:35:10,stop_point:SP_3459,Marie Curie,9
+2386051,08:36:00,08:36:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386051,08:37:00,08:37:10,stop_point:SP_3118,Auguste Gratian,11
+2386051,08:38:00,08:38:10,stop_point:SP_2878,Plaine,12
+2386051,08:39:00,08:39:10,stop_point:SP_2349,St-Gobain,13
+2386051,08:40:00,08:40:10,stop_point:SP_1515,Mazurié,14
+2386051,08:41:00,08:41:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386051,08:43:00,08:43:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386051,08:44:00,08:44:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,17
+2386052,16:15:00,16:15:10,stop_point:SP_2490,La Vache,1
+2386052,16:17:00,16:17:10,stop_point:SP_2028,Pader,2
+2386052,16:18:00,16:18:10,stop_point:SP_1294,Le Grand Marché,3
+2386052,16:19:00,16:19:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386052,16:20:00,16:20:10,stop_point:SP_2429,Glacière,5
+2386052,16:23:00,16:23:10,stop_point:SP_1698,Cadène,6
+2386052,16:24:00,16:24:10,stop_point:SP_908,Rupé,7
+2386052,16:25:00,16:25:10,stop_point:SP_2946,Salvador Allende,8
+2386052,16:26:00,16:26:10,stop_point:SP_3459,Marie Curie,9
+2386052,16:27:00,16:27:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386052,16:28:00,16:28:10,stop_point:SP_3118,Auguste Gratian,11
+2386052,16:29:00,16:29:10,stop_point:SP_2878,Plaine,12
+2386052,16:30:00,16:30:10,stop_point:SP_2349,St-Gobain,13
+2386052,16:31:00,16:31:10,stop_point:SP_1515,Mazurié,14
+2386052,16:33:00,16:33:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386052,16:34:00,16:34:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386052,16:36:00,16:36:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,17
+2386053,08:57:00,08:57:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2386053,08:58:00,08:58:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,2
+2386053,08:59:00,08:59:10,stop_point:SP_2973,Mazurié,3
+2386053,09:01:00,09:01:10,stop_point:SP_3724,St-Gobain,4
+2386053,09:01:00,09:01:10,stop_point:SP_1071,Plaine,5
+2386053,09:02:00,09:02:10,stop_point:SP_2707,Auguste Gratian,6
+2386053,09:03:00,09:03:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,7
+2386053,09:04:00,09:04:10,stop_point:SP_3560,Marie Curie,8
+2386053,09:05:00,09:05:10,stop_point:SP_2642,Salvador Allende,9
+2386053,09:05:00,09:05:10,stop_point:SP_3440,Rupé,10
+2386053,09:06:00,09:06:10,stop_point:SP_409,Cadène,11
+2386053,09:09:00,09:09:10,stop_point:SP_3442,Etats-Unis Fondeyre,12
+2386053,09:11:00,09:11:10,stop_point:SP_1494,Le Grand Marché,13
+2386053,09:13:00,09:13:10,stop_point:SP_97,Pader,14
+2386053,09:14:00,09:14:10,stop_point:SP_2490,La Vache,15
+2386054,06:40:00,06:40:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2386054,06:41:00,06:41:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,2
+2386054,06:42:00,06:42:10,stop_point:SP_2973,Mazurié,3
+2386054,06:44:00,06:44:10,stop_point:SP_3724,St-Gobain,4
+2386054,06:44:00,06:44:10,stop_point:SP_1071,Plaine,5
+2386054,06:45:00,06:45:10,stop_point:SP_2707,Auguste Gratian,6
+2386054,06:46:00,06:46:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,7
+2386054,06:46:00,06:46:10,stop_point:SP_3560,Marie Curie,8
+2386054,06:47:00,06:47:10,stop_point:SP_2642,Salvador Allende,9
+2386054,06:48:00,06:48:10,stop_point:SP_3440,Rupé,10
+2386054,06:49:00,06:49:10,stop_point:SP_409,Cadène,11
+2386054,06:51:00,06:51:10,stop_point:SP_3442,Etats-Unis Fondeyre,12
+2386054,06:52:00,06:52:10,stop_point:SP_1494,Le Grand Marché,13
+2386054,06:54:00,06:54:10,stop_point:SP_97,Pader,14
+2386054,06:55:00,06:55:10,stop_point:SP_2490,La Vache,15
+2386055,16:45:00,16:45:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,1
+2386055,16:47:00,16:47:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,2
+2386055,16:48:00,16:48:10,stop_point:SP_2973,Mazurié,3
+2386055,16:50:00,16:50:10,stop_point:SP_3724,St-Gobain,4
+2386055,16:51:00,16:51:10,stop_point:SP_1071,Plaine,5
+2386055,16:52:00,16:52:10,stop_point:SP_2707,Auguste Gratian,6
+2386055,16:53:00,16:53:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,7
+2386055,16:54:00,16:54:10,stop_point:SP_3560,Marie Curie,8
+2386055,16:55:00,16:55:10,stop_point:SP_2642,Salvador Allende,9
+2386055,16:55:00,16:55:10,stop_point:SP_3440,Rupé,10
+2386055,16:57:00,16:57:10,stop_point:SP_409,Cadène,11
+2386055,17:00:00,17:00:10,stop_point:SP_3442,Etats-Unis Fondeyre,12
+2386055,17:02:00,17:02:10,stop_point:SP_1494,Le Grand Marché,13
+2386055,17:04:00,17:04:10,stop_point:SP_97,Pader,14
+2386055,17:05:00,17:05:10,stop_point:SP_2490,La Vache,15
+2386056,06:10:00,06:10:10,stop_point:SP_2490,La Vache,1
+2386056,06:11:00,06:11:10,stop_point:SP_2028,Pader,2
+2386056,06:12:00,06:12:10,stop_point:SP_1294,Le Grand Marché,3
+2386056,06:13:00,06:13:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386056,06:14:00,06:14:10,stop_point:SP_2429,Glacière,5
+2386056,06:16:00,06:16:10,stop_point:SP_1698,Cadène,6
+2386056,06:16:00,06:16:10,stop_point:SP_908,Rupé,7
+2386056,06:17:00,06:17:10,stop_point:SP_2946,Salvador Allende,8
+2386056,06:18:00,06:18:10,stop_point:SP_3459,Marie Curie,9
+2386056,06:18:00,06:18:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386056,06:19:00,06:19:10,stop_point:SP_3118,Auguste Gratian,11
+2386056,06:20:00,06:20:10,stop_point:SP_2878,Plaine,12
+2386056,06:21:00,06:21:10,stop_point:SP_2349,St-Gobain,13
+2386056,06:23:00,06:23:10,stop_point:SP_1515,Mazurié,14
+2386056,06:24:00,06:24:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386056,06:26:00,06:26:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386056,06:32:00,06:32:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386056,06:33:00,06:33:10,stop_point:SP_5219,Lacs,18
+2386056,06:38:00,06:38:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386056,06:39:00,06:39:10,stop_point:SP_5213,Trinchet,20
+2386056,06:40:00,06:40:10,stop_point:SP_3664,La Plaine Tucol,21
+2386056,06:40:00,06:40:10,stop_point:SP_5218,Jacques Brel,22
+2386056,06:41:00,06:41:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386057,06:45:00,06:45:10,stop_point:SP_2490,La Vache,1
+2386057,06:47:00,06:47:10,stop_point:SP_2028,Pader,2
+2386057,06:48:00,06:48:10,stop_point:SP_1294,Le Grand Marché,3
+2386057,06:49:00,06:49:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386057,06:50:00,06:50:10,stop_point:SP_2429,Glacière,5
+2386057,06:52:00,06:52:10,stop_point:SP_1698,Cadène,6
+2386057,06:53:00,06:53:10,stop_point:SP_908,Rupé,7
+2386057,06:54:00,06:54:10,stop_point:SP_2946,Salvador Allende,8
+2386057,06:54:00,06:54:10,stop_point:SP_3459,Marie Curie,9
+2386057,06:55:00,06:55:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386057,06:56:00,06:56:10,stop_point:SP_3118,Auguste Gratian,11
+2386057,06:57:00,06:57:10,stop_point:SP_2878,Plaine,12
+2386057,06:58:00,06:58:10,stop_point:SP_2349,St-Gobain,13
+2386057,07:00:00,07:00:10,stop_point:SP_1515,Mazurié,14
+2386057,07:01:00,07:01:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386057,07:03:00,07:03:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386057,07:09:00,07:09:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386057,07:10:00,07:10:10,stop_point:SP_5219,Lacs,18
+2386057,07:16:00,07:16:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386057,07:17:00,07:17:10,stop_point:SP_5213,Trinchet,20
+2386057,07:19:00,07:19:10,stop_point:SP_3664,La Plaine Tucol,21
+2386057,07:19:00,07:19:10,stop_point:SP_5218,Jacques Brel,22
+2386057,07:20:00,07:20:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386058,18:50:00,18:50:10,stop_point:SP_2490,La Vache,1
+2386058,18:52:00,18:52:10,stop_point:SP_2028,Pader,2
+2386058,18:53:00,18:53:10,stop_point:SP_1294,Le Grand Marché,3
+2386058,18:54:00,18:54:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386058,18:55:00,18:55:10,stop_point:SP_2429,Glacière,5
+2386058,18:57:00,18:57:10,stop_point:SP_1698,Cadène,6
+2386058,18:58:00,18:58:10,stop_point:SP_908,Rupé,7
+2386058,18:59:00,18:59:10,stop_point:SP_2946,Salvador Allende,8
+2386058,18:59:00,18:59:10,stop_point:SP_3459,Marie Curie,9
+2386058,19:00:00,19:00:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386058,19:01:00,19:01:10,stop_point:SP_3118,Auguste Gratian,11
+2386058,19:02:00,19:02:10,stop_point:SP_2878,Plaine,12
+2386058,19:03:00,19:03:10,stop_point:SP_2349,St-Gobain,13
+2386058,19:05:00,19:05:10,stop_point:SP_1515,Mazurié,14
+2386058,19:06:00,19:06:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386058,19:08:00,19:08:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386058,19:15:00,19:15:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386058,19:16:00,19:16:10,stop_point:SP_5219,Lacs,18
+2386058,19:22:00,19:22:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386058,19:23:00,19:23:10,stop_point:SP_5213,Trinchet,20
+2386058,19:24:00,19:24:10,stop_point:SP_3664,La Plaine Tucol,21
+2386058,19:24:00,19:24:10,stop_point:SP_5218,Jacques Brel,22
+2386058,19:25:00,19:25:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386059,09:25:00,09:25:10,stop_point:SP_2490,La Vache,1
+2386059,09:27:00,09:27:10,stop_point:SP_2028,Pader,2
+2386059,09:28:00,09:28:10,stop_point:SP_1294,Le Grand Marché,3
+2386059,09:29:00,09:29:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386059,09:30:00,09:30:10,stop_point:SP_2429,Glacière,5
+2386059,09:32:00,09:32:10,stop_point:SP_1698,Cadène,6
+2386059,09:33:00,09:33:10,stop_point:SP_908,Rupé,7
+2386059,09:34:00,09:34:10,stop_point:SP_2946,Salvador Allende,8
+2386059,09:34:00,09:34:10,stop_point:SP_3459,Marie Curie,9
+2386059,09:35:00,09:35:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386059,09:36:00,09:36:10,stop_point:SP_3118,Auguste Gratian,11
+2386059,09:38:00,09:38:10,stop_point:SP_2878,Plaine,12
+2386059,09:39:00,09:39:10,stop_point:SP_2349,St-Gobain,13
+2386059,09:40:00,09:40:10,stop_point:SP_1515,Mazurié,14
+2386059,09:42:00,09:42:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386059,09:44:00,09:44:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386059,09:50:00,09:50:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386059,09:51:00,09:51:10,stop_point:SP_5219,Lacs,18
+2386059,09:56:00,09:56:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386059,09:57:00,09:57:10,stop_point:SP_5213,Trinchet,20
+2386059,09:58:00,09:58:10,stop_point:SP_3664,La Plaine Tucol,21
+2386059,09:58:00,09:58:10,stop_point:SP_5218,Jacques Brel,22
+2386059,09:59:00,09:59:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386060,07:00:00,07:00:10,stop_point:SP_2490,La Vache,1
+2386060,07:02:00,07:02:10,stop_point:SP_2028,Pader,2
+2386060,07:03:00,07:03:10,stop_point:SP_1294,Le Grand Marché,3
+2386060,07:04:00,07:04:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386060,07:05:00,07:05:10,stop_point:SP_2429,Glacière,5
+2386060,07:07:00,07:07:10,stop_point:SP_1698,Cadène,6
+2386060,07:08:00,07:08:10,stop_point:SP_908,Rupé,7
+2386060,07:09:00,07:09:10,stop_point:SP_2946,Salvador Allende,8
+2386060,07:09:00,07:09:10,stop_point:SP_3459,Marie Curie,9
+2386060,07:10:00,07:10:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386060,07:11:00,07:11:10,stop_point:SP_3118,Auguste Gratian,11
+2386060,07:12:00,07:12:10,stop_point:SP_2878,Plaine,12
+2386060,07:13:00,07:13:10,stop_point:SP_2349,St-Gobain,13
+2386060,07:15:00,07:15:10,stop_point:SP_1515,Mazurié,14
+2386060,07:16:00,07:16:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386060,07:18:00,07:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386060,07:24:00,07:24:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386060,07:25:00,07:25:10,stop_point:SP_5219,Lacs,18
+2386060,07:31:00,07:31:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386060,07:32:00,07:32:10,stop_point:SP_5213,Trinchet,20
+2386060,07:34:00,07:34:10,stop_point:SP_3664,La Plaine Tucol,21
+2386060,07:34:00,07:34:10,stop_point:SP_5218,Jacques Brel,22
+2386060,07:35:00,07:35:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386061,07:15:00,07:15:10,stop_point:SP_2490,La Vache,1
+2386061,07:17:00,07:17:10,stop_point:SP_2028,Pader,2
+2386061,07:18:00,07:18:10,stop_point:SP_1294,Le Grand Marché,3
+2386061,07:19:00,07:19:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386061,07:20:00,07:20:10,stop_point:SP_2429,Glacière,5
+2386061,07:23:00,07:23:10,stop_point:SP_1698,Cadène,6
+2386061,07:24:00,07:24:10,stop_point:SP_908,Rupé,7
+2386061,07:24:00,07:24:10,stop_point:SP_2946,Salvador Allende,8
+2386061,07:25:00,07:25:10,stop_point:SP_3459,Marie Curie,9
+2386061,07:26:00,07:26:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386061,07:27:00,07:27:10,stop_point:SP_3118,Auguste Gratian,11
+2386061,07:29:00,07:29:10,stop_point:SP_2878,Plaine,12
+2386061,07:30:00,07:30:10,stop_point:SP_2349,St-Gobain,13
+2386061,07:31:00,07:31:10,stop_point:SP_1515,Mazurié,14
+2386061,07:33:00,07:33:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386061,07:35:00,07:35:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386061,07:41:00,07:41:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386061,07:42:00,07:42:10,stop_point:SP_5219,Lacs,18
+2386061,07:48:00,07:48:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386061,07:49:00,07:49:10,stop_point:SP_5213,Trinchet,20
+2386061,07:51:00,07:51:10,stop_point:SP_3664,La Plaine Tucol,21
+2386061,07:51:00,07:51:10,stop_point:SP_5218,Jacques Brel,22
+2386061,07:52:00,07:52:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386062,07:35:00,07:35:10,stop_point:SP_2490,La Vache,1
+2386062,07:37:00,07:37:10,stop_point:SP_2028,Pader,2
+2386062,07:38:00,07:38:10,stop_point:SP_1294,Le Grand Marché,3
+2386062,07:39:00,07:39:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386062,07:40:00,07:40:10,stop_point:SP_2429,Glacière,5
+2386062,07:43:00,07:43:10,stop_point:SP_1698,Cadène,6
+2386062,07:44:00,07:44:10,stop_point:SP_908,Rupé,7
+2386062,07:44:00,07:44:10,stop_point:SP_2946,Salvador Allende,8
+2386062,07:45:00,07:45:10,stop_point:SP_3459,Marie Curie,9
+2386062,07:46:00,07:46:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386062,07:47:00,07:47:10,stop_point:SP_3118,Auguste Gratian,11
+2386062,07:49:00,07:49:10,stop_point:SP_2878,Plaine,12
+2386062,07:50:00,07:50:10,stop_point:SP_2349,St-Gobain,13
+2386062,07:51:00,07:51:10,stop_point:SP_1515,Mazurié,14
+2386062,07:53:00,07:53:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386062,07:55:00,07:55:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386062,08:01:00,08:01:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386062,08:03:00,08:03:10,stop_point:SP_5219,Lacs,18
+2386062,08:09:00,08:09:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386062,08:10:00,08:10:10,stop_point:SP_5213,Trinchet,20
+2386062,08:11:00,08:11:10,stop_point:SP_3664,La Plaine Tucol,21
+2386062,08:12:00,08:12:10,stop_point:SP_5218,Jacques Brel,22
+2386062,08:13:00,08:13:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386063,07:55:00,07:55:10,stop_point:SP_2490,La Vache,1
+2386063,07:57:00,07:57:10,stop_point:SP_2028,Pader,2
+2386063,07:58:00,07:58:10,stop_point:SP_1294,Le Grand Marché,3
+2386063,07:59:00,07:59:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386063,08:00:00,08:00:10,stop_point:SP_2429,Glacière,5
+2386063,08:03:00,08:03:10,stop_point:SP_1698,Cadène,6
+2386063,08:04:00,08:04:10,stop_point:SP_908,Rupé,7
+2386063,08:04:00,08:04:10,stop_point:SP_2946,Salvador Allende,8
+2386063,08:05:00,08:05:10,stop_point:SP_3459,Marie Curie,9
+2386063,08:06:00,08:06:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386063,08:07:00,08:07:10,stop_point:SP_3118,Auguste Gratian,11
+2386063,08:08:00,08:08:10,stop_point:SP_2878,Plaine,12
+2386063,08:09:00,08:09:10,stop_point:SP_2349,St-Gobain,13
+2386063,08:11:00,08:11:10,stop_point:SP_1515,Mazurié,14
+2386063,08:12:00,08:12:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386063,08:14:00,08:14:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386063,08:20:00,08:20:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386063,08:21:00,08:21:10,stop_point:SP_5219,Lacs,18
+2386063,08:27:00,08:27:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386063,08:28:00,08:28:10,stop_point:SP_5213,Trinchet,20
+2386063,08:29:00,08:29:10,stop_point:SP_3664,La Plaine Tucol,21
+2386063,08:29:00,08:29:10,stop_point:SP_5218,Jacques Brel,22
+2386063,08:30:00,08:30:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386064,10:15:00,10:15:10,stop_point:SP_2490,La Vache,1
+2386064,10:17:00,10:17:10,stop_point:SP_2028,Pader,2
+2386064,10:18:00,10:18:10,stop_point:SP_1294,Le Grand Marché,3
+2386064,10:19:00,10:19:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386064,10:20:00,10:20:10,stop_point:SP_2429,Glacière,5
+2386064,10:22:00,10:22:10,stop_point:SP_1698,Cadène,6
+2386064,10:23:00,10:23:10,stop_point:SP_908,Rupé,7
+2386064,10:24:00,10:24:10,stop_point:SP_2946,Salvador Allende,8
+2386064,10:24:00,10:24:10,stop_point:SP_3459,Marie Curie,9
+2386064,10:25:00,10:25:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386064,10:26:00,10:26:10,stop_point:SP_3118,Auguste Gratian,11
+2386064,10:28:00,10:28:10,stop_point:SP_2878,Plaine,12
+2386064,10:29:00,10:29:10,stop_point:SP_2349,St-Gobain,13
+2386064,10:30:00,10:30:10,stop_point:SP_1515,Mazurié,14
+2386064,10:32:00,10:32:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386064,10:34:00,10:34:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386064,10:40:00,10:40:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386064,10:41:00,10:41:10,stop_point:SP_5219,Lacs,18
+2386064,10:46:00,10:46:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386064,10:47:00,10:47:10,stop_point:SP_5213,Trinchet,20
+2386064,10:48:00,10:48:10,stop_point:SP_3664,La Plaine Tucol,21
+2386064,10:48:00,10:48:10,stop_point:SP_5218,Jacques Brel,22
+2386064,10:49:00,10:49:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386065,08:15:00,08:15:10,stop_point:SP_2490,La Vache,1
+2386065,08:17:00,08:17:10,stop_point:SP_2028,Pader,2
+2386065,08:18:00,08:18:10,stop_point:SP_1294,Le Grand Marché,3
+2386065,08:19:00,08:19:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386065,08:20:00,08:20:10,stop_point:SP_2429,Glacière,5
+2386065,08:23:00,08:23:10,stop_point:SP_1698,Cadène,6
+2386065,08:24:00,08:24:10,stop_point:SP_908,Rupé,7
+2386065,08:24:00,08:24:10,stop_point:SP_2946,Salvador Allende,8
+2386065,08:25:00,08:25:10,stop_point:SP_3459,Marie Curie,9
+2386065,08:26:00,08:26:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386065,08:27:00,08:27:10,stop_point:SP_3118,Auguste Gratian,11
+2386065,08:28:00,08:28:10,stop_point:SP_2878,Plaine,12
+2386065,08:29:00,08:29:10,stop_point:SP_2349,St-Gobain,13
+2386065,08:31:00,08:31:10,stop_point:SP_1515,Mazurié,14
+2386065,08:32:00,08:32:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386065,08:34:00,08:34:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386065,08:40:00,08:40:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386065,08:41:00,08:41:10,stop_point:SP_5219,Lacs,18
+2386065,08:47:00,08:47:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386065,08:48:00,08:48:10,stop_point:SP_5213,Trinchet,20
+2386065,08:49:00,08:49:10,stop_point:SP_3664,La Plaine Tucol,21
+2386065,08:49:00,08:49:10,stop_point:SP_5218,Jacques Brel,22
+2386065,08:50:00,08:50:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386066,08:35:00,08:35:10,stop_point:SP_2490,La Vache,1
+2386066,08:37:00,08:37:10,stop_point:SP_2028,Pader,2
+2386066,08:38:00,08:38:10,stop_point:SP_1294,Le Grand Marché,3
+2386066,08:39:00,08:39:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386066,08:40:00,08:40:10,stop_point:SP_2429,Glacière,5
+2386066,08:43:00,08:43:10,stop_point:SP_1698,Cadène,6
+2386066,08:44:00,08:44:10,stop_point:SP_908,Rupé,7
+2386066,08:44:00,08:44:10,stop_point:SP_2946,Salvador Allende,8
+2386066,08:45:00,08:45:10,stop_point:SP_3459,Marie Curie,9
+2386066,08:46:00,08:46:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386066,08:47:00,08:47:10,stop_point:SP_3118,Auguste Gratian,11
+2386066,08:48:00,08:48:10,stop_point:SP_2878,Plaine,12
+2386066,08:49:00,08:49:10,stop_point:SP_2349,St-Gobain,13
+2386066,08:51:00,08:51:10,stop_point:SP_1515,Mazurié,14
+2386066,08:52:00,08:52:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386066,08:54:00,08:54:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386066,09:00:00,09:00:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386066,09:01:00,09:01:10,stop_point:SP_5219,Lacs,18
+2386066,09:07:00,09:07:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386066,09:08:00,09:08:10,stop_point:SP_5213,Trinchet,20
+2386066,09:09:00,09:09:10,stop_point:SP_3664,La Plaine Tucol,21
+2386066,09:09:00,09:09:10,stop_point:SP_5218,Jacques Brel,22
+2386066,09:10:00,09:10:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386067,09:00:00,09:00:10,stop_point:SP_2490,La Vache,1
+2386067,09:02:00,09:02:10,stop_point:SP_2028,Pader,2
+2386067,09:03:00,09:03:10,stop_point:SP_1294,Le Grand Marché,3
+2386067,09:04:00,09:04:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386067,09:05:00,09:05:10,stop_point:SP_2429,Glacière,5
+2386067,09:07:00,09:07:10,stop_point:SP_1698,Cadène,6
+2386067,09:08:00,09:08:10,stop_point:SP_908,Rupé,7
+2386067,09:09:00,09:09:10,stop_point:SP_2946,Salvador Allende,8
+2386067,09:09:00,09:09:10,stop_point:SP_3459,Marie Curie,9
+2386067,09:10:00,09:10:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386067,09:11:00,09:11:10,stop_point:SP_3118,Auguste Gratian,11
+2386067,09:12:00,09:12:10,stop_point:SP_2878,Plaine,12
+2386067,09:13:00,09:13:10,stop_point:SP_2349,St-Gobain,13
+2386067,09:15:00,09:15:10,stop_point:SP_1515,Mazurié,14
+2386067,09:16:00,09:16:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386067,09:18:00,09:18:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386067,09:24:00,09:24:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386067,09:25:00,09:25:10,stop_point:SP_5219,Lacs,18
+2386067,09:31:00,09:31:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386067,09:32:00,09:32:10,stop_point:SP_5213,Trinchet,20
+2386067,09:33:00,09:33:10,stop_point:SP_3664,La Plaine Tucol,21
+2386067,09:33:00,09:33:10,stop_point:SP_5218,Jacques Brel,22
+2386067,09:34:00,09:34:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386068,11:05:00,11:05:10,stop_point:SP_2490,La Vache,1
+2386068,11:07:00,11:07:10,stop_point:SP_2028,Pader,2
+2386068,11:08:00,11:08:10,stop_point:SP_1294,Le Grand Marché,3
+2386068,11:09:00,11:09:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386068,11:10:00,11:10:10,stop_point:SP_2429,Glacière,5
+2386068,11:12:00,11:12:10,stop_point:SP_1698,Cadène,6
+2386068,11:13:00,11:13:10,stop_point:SP_908,Rupé,7
+2386068,11:14:00,11:14:10,stop_point:SP_2946,Salvador Allende,8
+2386068,11:14:00,11:14:10,stop_point:SP_3459,Marie Curie,9
+2386068,11:15:00,11:15:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386068,11:16:00,11:16:10,stop_point:SP_3118,Auguste Gratian,11
+2386068,11:18:00,11:18:10,stop_point:SP_2878,Plaine,12
+2386068,11:19:00,11:19:10,stop_point:SP_2349,St-Gobain,13
+2386068,11:20:00,11:20:10,stop_point:SP_1515,Mazurié,14
+2386068,11:22:00,11:22:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386068,11:24:00,11:24:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386068,11:30:00,11:30:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386068,11:31:00,11:31:10,stop_point:SP_5219,Lacs,18
+2386068,11:36:00,11:36:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386068,11:37:00,11:37:10,stop_point:SP_5213,Trinchet,20
+2386068,11:38:00,11:38:10,stop_point:SP_3664,La Plaine Tucol,21
+2386068,11:38:00,11:38:10,stop_point:SP_5218,Jacques Brel,22
+2386068,11:39:00,11:39:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386069,11:55:00,11:55:10,stop_point:SP_2490,La Vache,1
+2386069,11:57:00,11:57:10,stop_point:SP_2028,Pader,2
+2386069,11:58:00,11:58:10,stop_point:SP_1294,Le Grand Marché,3
+2386069,11:59:00,11:59:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386069,12:00:00,12:00:10,stop_point:SP_2429,Glacière,5
+2386069,12:02:00,12:02:10,stop_point:SP_1698,Cadène,6
+2386069,12:03:00,12:03:10,stop_point:SP_908,Rupé,7
+2386069,12:04:00,12:04:10,stop_point:SP_2946,Salvador Allende,8
+2386069,12:04:00,12:04:10,stop_point:SP_3459,Marie Curie,9
+2386069,12:05:00,12:05:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386069,12:06:00,12:06:10,stop_point:SP_3118,Auguste Gratian,11
+2386069,12:08:00,12:08:10,stop_point:SP_2878,Plaine,12
+2386069,12:09:00,12:09:10,stop_point:SP_2349,St-Gobain,13
+2386069,12:10:00,12:10:10,stop_point:SP_1515,Mazurié,14
+2386069,12:12:00,12:12:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386069,12:14:00,12:14:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386069,12:20:00,12:20:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386069,12:21:00,12:21:10,stop_point:SP_5219,Lacs,18
+2386069,12:26:00,12:26:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386069,12:27:00,12:27:10,stop_point:SP_5213,Trinchet,20
+2386069,12:28:00,12:28:10,stop_point:SP_3664,La Plaine Tucol,21
+2386069,12:28:00,12:28:10,stop_point:SP_5218,Jacques Brel,22
+2386069,12:29:00,12:29:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386070,12:45:00,12:45:10,stop_point:SP_2490,La Vache,1
+2386070,12:47:00,12:47:10,stop_point:SP_2028,Pader,2
+2386070,12:48:00,12:48:10,stop_point:SP_1294,Le Grand Marché,3
+2386070,12:49:00,12:49:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386070,12:50:00,12:50:10,stop_point:SP_2429,Glacière,5
+2386070,12:53:00,12:53:10,stop_point:SP_1698,Cadène,6
+2386070,12:54:00,12:54:10,stop_point:SP_908,Rupé,7
+2386070,12:54:00,12:54:10,stop_point:SP_2946,Salvador Allende,8
+2386070,12:55:00,12:55:10,stop_point:SP_3459,Marie Curie,9
+2386070,12:56:00,12:56:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386070,12:57:00,12:57:10,stop_point:SP_3118,Auguste Gratian,11
+2386070,12:59:00,12:59:10,stop_point:SP_2878,Plaine,12
+2386070,13:00:00,13:00:10,stop_point:SP_2349,St-Gobain,13
+2386070,13:01:00,13:01:10,stop_point:SP_1515,Mazurié,14
+2386070,13:03:00,13:03:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386070,13:05:00,13:05:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386070,13:11:00,13:11:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386070,13:12:00,13:12:10,stop_point:SP_5219,Lacs,18
+2386070,13:17:00,13:17:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386070,13:18:00,13:18:10,stop_point:SP_5213,Trinchet,20
+2386070,13:19:00,13:19:10,stop_point:SP_3664,La Plaine Tucol,21
+2386070,13:19:00,13:19:10,stop_point:SP_5218,Jacques Brel,22
+2386070,13:20:00,13:20:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386071,13:35:00,13:35:10,stop_point:SP_2490,La Vache,1
+2386071,13:37:00,13:37:10,stop_point:SP_2028,Pader,2
+2386071,13:38:00,13:38:10,stop_point:SP_1294,Le Grand Marché,3
+2386071,13:39:00,13:39:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386071,13:40:00,13:40:10,stop_point:SP_2429,Glacière,5
+2386071,13:43:00,13:43:10,stop_point:SP_1698,Cadène,6
+2386071,13:44:00,13:44:10,stop_point:SP_908,Rupé,7
+2386071,13:44:00,13:44:10,stop_point:SP_2946,Salvador Allende,8
+2386071,13:45:00,13:45:10,stop_point:SP_3459,Marie Curie,9
+2386071,13:46:00,13:46:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386071,13:47:00,13:47:10,stop_point:SP_3118,Auguste Gratian,11
+2386071,13:49:00,13:49:10,stop_point:SP_2878,Plaine,12
+2386071,13:50:00,13:50:10,stop_point:SP_2349,St-Gobain,13
+2386071,13:51:00,13:51:10,stop_point:SP_1515,Mazurié,14
+2386071,13:53:00,13:53:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386071,13:55:00,13:55:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386071,14:01:00,14:01:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386071,14:02:00,14:02:10,stop_point:SP_5219,Lacs,18
+2386071,14:07:00,14:07:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386071,14:08:00,14:08:10,stop_point:SP_5213,Trinchet,20
+2386071,14:09:00,14:09:10,stop_point:SP_3664,La Plaine Tucol,21
+2386071,14:09:00,14:09:10,stop_point:SP_5218,Jacques Brel,22
+2386071,14:10:00,14:10:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386072,14:25:00,14:25:10,stop_point:SP_2490,La Vache,1
+2386072,14:27:00,14:27:10,stop_point:SP_2028,Pader,2
+2386072,14:28:00,14:28:10,stop_point:SP_1294,Le Grand Marché,3
+2386072,14:29:00,14:29:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386072,14:30:00,14:30:10,stop_point:SP_2429,Glacière,5
+2386072,14:33:00,14:33:10,stop_point:SP_1698,Cadène,6
+2386072,14:34:00,14:34:10,stop_point:SP_908,Rupé,7
+2386072,14:34:00,14:34:10,stop_point:SP_2946,Salvador Allende,8
+2386072,14:35:00,14:35:10,stop_point:SP_3459,Marie Curie,9
+2386072,14:36:00,14:36:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386072,14:37:00,14:37:10,stop_point:SP_3118,Auguste Gratian,11
+2386072,14:39:00,14:39:10,stop_point:SP_2878,Plaine,12
+2386072,14:40:00,14:40:10,stop_point:SP_2349,St-Gobain,13
+2386072,14:41:00,14:41:10,stop_point:SP_1515,Mazurié,14
+2386072,14:43:00,14:43:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386072,14:45:00,14:45:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386072,14:51:00,14:51:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386072,14:52:00,14:52:10,stop_point:SP_5219,Lacs,18
+2386072,14:58:00,14:58:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386072,14:59:00,14:59:10,stop_point:SP_5213,Trinchet,20
+2386072,15:00:00,15:00:10,stop_point:SP_3664,La Plaine Tucol,21
+2386072,15:00:00,15:00:10,stop_point:SP_5218,Jacques Brel,22
+2386072,15:01:00,15:01:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386073,15:15:00,15:15:10,stop_point:SP_2490,La Vache,1
+2386073,15:17:00,15:17:10,stop_point:SP_2028,Pader,2
+2386073,15:18:00,15:18:10,stop_point:SP_1294,Le Grand Marché,3
+2386073,15:19:00,15:19:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386073,15:20:00,15:20:10,stop_point:SP_2429,Glacière,5
+2386073,15:23:00,15:23:10,stop_point:SP_1698,Cadène,6
+2386073,15:24:00,15:24:10,stop_point:SP_908,Rupé,7
+2386073,15:24:00,15:24:10,stop_point:SP_2946,Salvador Allende,8
+2386073,15:25:00,15:25:10,stop_point:SP_3459,Marie Curie,9
+2386073,15:26:00,15:26:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386073,15:27:00,15:27:10,stop_point:SP_3118,Auguste Gratian,11
+2386073,15:29:00,15:29:10,stop_point:SP_2878,Plaine,12
+2386073,15:30:00,15:30:10,stop_point:SP_2349,St-Gobain,13
+2386073,15:31:00,15:31:10,stop_point:SP_1515,Mazurié,14
+2386073,15:33:00,15:33:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386073,15:35:00,15:35:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386073,15:41:00,15:41:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386073,15:42:00,15:42:10,stop_point:SP_5219,Lacs,18
+2386073,15:48:00,15:48:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386073,15:49:00,15:49:10,stop_point:SP_5213,Trinchet,20
+2386073,15:51:00,15:51:10,stop_point:SP_3664,La Plaine Tucol,21
+2386073,15:51:00,15:51:10,stop_point:SP_5218,Jacques Brel,22
+2386073,15:52:00,15:52:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386074,20:30:00,20:30:10,stop_point:SP_2490,La Vache,1
+2386074,20:32:00,20:32:10,stop_point:SP_2028,Pader,2
+2386074,20:33:00,20:33:10,stop_point:SP_1294,Le Grand Marché,3
+2386074,20:34:00,20:34:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386074,20:35:00,20:35:10,stop_point:SP_2429,Glacière,5
+2386074,20:37:00,20:37:10,stop_point:SP_1698,Cadène,6
+2386074,20:37:00,20:37:10,stop_point:SP_908,Rupé,7
+2386074,20:38:00,20:38:10,stop_point:SP_2946,Salvador Allende,8
+2386074,20:39:00,20:39:10,stop_point:SP_3459,Marie Curie,9
+2386074,20:39:00,20:39:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386074,20:40:00,20:40:10,stop_point:SP_3118,Auguste Gratian,11
+2386074,20:41:00,20:41:10,stop_point:SP_2878,Plaine,12
+2386074,20:42:00,20:42:10,stop_point:SP_2349,St-Gobain,13
+2386074,20:44:00,20:44:10,stop_point:SP_1515,Mazurié,14
+2386074,20:45:00,20:45:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386074,20:47:00,20:47:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386074,20:53:00,20:53:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386074,20:54:00,20:54:10,stop_point:SP_5219,Lacs,18
+2386074,21:00:00,21:00:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386074,21:01:00,21:01:10,stop_point:SP_5213,Trinchet,20
+2386074,21:02:00,21:02:10,stop_point:SP_3664,La Plaine Tucol,21
+2386074,21:02:00,21:02:10,stop_point:SP_5218,Jacques Brel,22
+2386074,21:03:00,21:03:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386075,16:05:00,16:05:10,stop_point:SP_2490,La Vache,1
+2386075,16:07:00,16:07:10,stop_point:SP_2028,Pader,2
+2386075,16:08:00,16:08:10,stop_point:SP_1294,Le Grand Marché,3
+2386075,16:09:00,16:09:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386075,16:10:00,16:10:10,stop_point:SP_2429,Glacière,5
+2386075,16:13:00,16:13:10,stop_point:SP_1698,Cadène,6
+2386075,16:14:00,16:14:10,stop_point:SP_908,Rupé,7
+2386075,16:15:00,16:15:10,stop_point:SP_2946,Salvador Allende,8
+2386075,16:16:00,16:16:10,stop_point:SP_3459,Marie Curie,9
+2386075,16:17:00,16:17:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386075,16:18:00,16:18:10,stop_point:SP_3118,Auguste Gratian,11
+2386075,16:20:00,16:20:10,stop_point:SP_2878,Plaine,12
+2386075,16:21:00,16:21:10,stop_point:SP_2349,St-Gobain,13
+2386075,16:22:00,16:22:10,stop_point:SP_1515,Mazurié,14
+2386075,16:24:00,16:24:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386075,16:26:00,16:26:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386075,16:32:00,16:32:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386075,16:34:00,16:34:10,stop_point:SP_5219,Lacs,18
+2386075,16:42:00,16:42:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386075,16:44:00,16:44:10,stop_point:SP_5213,Trinchet,20
+2386075,16:45:00,16:45:10,stop_point:SP_3664,La Plaine Tucol,21
+2386075,16:46:00,16:46:10,stop_point:SP_5218,Jacques Brel,22
+2386075,16:47:00,16:47:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386076,16:25:00,16:25:10,stop_point:SP_2490,La Vache,1
+2386076,16:27:00,16:27:10,stop_point:SP_2028,Pader,2
+2386076,16:28:00,16:28:10,stop_point:SP_1294,Le Grand Marché,3
+2386076,16:29:00,16:29:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386076,16:30:00,16:30:10,stop_point:SP_2429,Glacière,5
+2386076,16:34:00,16:34:10,stop_point:SP_1698,Cadène,6
+2386076,16:35:00,16:35:10,stop_point:SP_908,Rupé,7
+2386076,16:36:00,16:36:10,stop_point:SP_2946,Salvador Allende,8
+2386076,16:37:00,16:37:10,stop_point:SP_3459,Marie Curie,9
+2386076,16:38:00,16:38:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386076,16:39:00,16:39:10,stop_point:SP_3118,Auguste Gratian,11
+2386076,16:41:00,16:41:10,stop_point:SP_2878,Plaine,12
+2386076,16:42:00,16:42:10,stop_point:SP_2349,St-Gobain,13
+2386076,16:43:00,16:43:10,stop_point:SP_1515,Mazurié,14
+2386076,16:45:00,16:45:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386076,16:47:00,16:47:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386076,16:54:00,16:54:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386076,16:56:00,16:56:10,stop_point:SP_5219,Lacs,18
+2386076,17:04:00,17:04:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386076,17:06:00,17:06:10,stop_point:SP_5213,Trinchet,20
+2386076,17:07:00,17:07:10,stop_point:SP_3664,La Plaine Tucol,21
+2386076,17:08:00,17:08:10,stop_point:SP_5218,Jacques Brel,22
+2386076,17:09:00,17:09:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386077,16:45:00,16:45:10,stop_point:SP_2490,La Vache,1
+2386077,16:47:00,16:47:10,stop_point:SP_2028,Pader,2
+2386077,16:48:00,16:48:10,stop_point:SP_1294,Le Grand Marché,3
+2386077,16:49:00,16:49:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386077,16:50:00,16:50:10,stop_point:SP_2429,Glacière,5
+2386077,16:54:00,16:54:10,stop_point:SP_1698,Cadène,6
+2386077,16:55:00,16:55:10,stop_point:SP_908,Rupé,7
+2386077,16:56:00,16:56:10,stop_point:SP_2946,Salvador Allende,8
+2386077,16:57:00,16:57:10,stop_point:SP_3459,Marie Curie,9
+2386077,16:58:00,16:58:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386077,16:59:00,16:59:10,stop_point:SP_3118,Auguste Gratian,11
+2386077,17:01:00,17:01:10,stop_point:SP_2878,Plaine,12
+2386077,17:02:00,17:02:10,stop_point:SP_2349,St-Gobain,13
+2386077,17:03:00,17:03:10,stop_point:SP_1515,Mazurié,14
+2386077,17:05:00,17:05:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386077,17:07:00,17:07:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386077,17:14:00,17:14:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386077,17:16:00,17:16:10,stop_point:SP_5219,Lacs,18
+2386077,17:22:00,17:22:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386077,17:23:00,17:23:10,stop_point:SP_5213,Trinchet,20
+2386077,17:24:00,17:24:10,stop_point:SP_3664,La Plaine Tucol,21
+2386077,17:25:00,17:25:10,stop_point:SP_5218,Jacques Brel,22
+2386077,17:26:00,17:26:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386078,17:10:00,17:10:10,stop_point:SP_2490,La Vache,1
+2386078,17:12:00,17:12:10,stop_point:SP_2028,Pader,2
+2386078,17:13:00,17:13:10,stop_point:SP_1294,Le Grand Marché,3
+2386078,17:14:00,17:14:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386078,17:15:00,17:15:10,stop_point:SP_2429,Glacière,5
+2386078,17:19:00,17:19:10,stop_point:SP_1698,Cadène,6
+2386078,17:20:00,17:20:10,stop_point:SP_908,Rupé,7
+2386078,17:21:00,17:21:10,stop_point:SP_2946,Salvador Allende,8
+2386078,17:22:00,17:22:10,stop_point:SP_3459,Marie Curie,9
+2386078,17:23:00,17:23:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386078,17:24:00,17:24:10,stop_point:SP_3118,Auguste Gratian,11
+2386078,17:26:00,17:26:10,stop_point:SP_2878,Plaine,12
+2386078,17:27:00,17:27:10,stop_point:SP_2349,St-Gobain,13
+2386078,17:28:00,17:28:10,stop_point:SP_1515,Mazurié,14
+2386078,17:30:00,17:30:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386078,17:33:00,17:33:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386078,17:40:00,17:40:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386078,17:42:00,17:42:10,stop_point:SP_5219,Lacs,18
+2386078,17:48:00,17:48:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386078,17:49:00,17:49:10,stop_point:SP_5213,Trinchet,20
+2386078,17:50:00,17:50:10,stop_point:SP_3664,La Plaine Tucol,21
+2386078,17:51:00,17:51:10,stop_point:SP_5218,Jacques Brel,22
+2386078,17:52:00,17:52:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386079,17:30:00,17:30:10,stop_point:SP_2490,La Vache,1
+2386079,17:32:00,17:32:10,stop_point:SP_2028,Pader,2
+2386079,17:33:00,17:33:10,stop_point:SP_1294,Le Grand Marché,3
+2386079,17:34:00,17:34:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386079,17:35:00,17:35:10,stop_point:SP_2429,Glacière,5
+2386079,17:39:00,17:39:10,stop_point:SP_1698,Cadène,6
+2386079,17:40:00,17:40:10,stop_point:SP_908,Rupé,7
+2386079,17:41:00,17:41:10,stop_point:SP_2946,Salvador Allende,8
+2386079,17:42:00,17:42:10,stop_point:SP_3459,Marie Curie,9
+2386079,17:43:00,17:43:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386079,17:44:00,17:44:10,stop_point:SP_3118,Auguste Gratian,11
+2386079,17:46:00,17:46:10,stop_point:SP_2878,Plaine,12
+2386079,17:47:00,17:47:10,stop_point:SP_2349,St-Gobain,13
+2386079,17:48:00,17:48:10,stop_point:SP_1515,Mazurié,14
+2386079,17:50:00,17:50:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386079,17:53:00,17:53:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386079,18:00:00,18:00:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386079,18:02:00,18:02:10,stop_point:SP_5219,Lacs,18
+2386079,18:08:00,18:08:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386079,18:09:00,18:09:10,stop_point:SP_5213,Trinchet,20
+2386079,18:10:00,18:10:10,stop_point:SP_3664,La Plaine Tucol,21
+2386079,18:11:00,18:11:10,stop_point:SP_5218,Jacques Brel,22
+2386079,18:12:00,18:12:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386080,17:50:00,17:50:10,stop_point:SP_2490,La Vache,1
+2386080,17:52:00,17:52:10,stop_point:SP_2028,Pader,2
+2386080,17:53:00,17:53:10,stop_point:SP_1294,Le Grand Marché,3
+2386080,17:54:00,17:54:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386080,17:55:00,17:55:10,stop_point:SP_2429,Glacière,5
+2386080,17:58:00,17:58:10,stop_point:SP_1698,Cadène,6
+2386080,17:59:00,17:59:10,stop_point:SP_908,Rupé,7
+2386080,17:59:00,17:59:10,stop_point:SP_2946,Salvador Allende,8
+2386080,18:00:00,18:00:10,stop_point:SP_3459,Marie Curie,9
+2386080,18:01:00,18:01:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386080,18:02:00,18:02:10,stop_point:SP_3118,Auguste Gratian,11
+2386080,18:04:00,18:04:10,stop_point:SP_2878,Plaine,12
+2386080,18:05:00,18:05:10,stop_point:SP_2349,St-Gobain,13
+2386080,18:06:00,18:06:10,stop_point:SP_1515,Mazurié,14
+2386080,18:08:00,18:08:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386080,18:11:00,18:11:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386080,18:18:00,18:18:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386080,18:20:00,18:20:10,stop_point:SP_5219,Lacs,18
+2386080,18:26:00,18:26:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386080,18:27:00,18:27:10,stop_point:SP_5213,Trinchet,20
+2386080,18:28:00,18:28:10,stop_point:SP_3664,La Plaine Tucol,21
+2386080,18:29:00,18:29:10,stop_point:SP_5218,Jacques Brel,22
+2386080,18:30:00,18:30:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386081,18:10:00,18:10:10,stop_point:SP_2490,La Vache,1
+2386081,18:12:00,18:12:10,stop_point:SP_2028,Pader,2
+2386081,18:13:00,18:13:10,stop_point:SP_1294,Le Grand Marché,3
+2386081,18:14:00,18:14:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386081,18:15:00,18:15:10,stop_point:SP_2429,Glacière,5
+2386081,18:18:00,18:18:10,stop_point:SP_1698,Cadène,6
+2386081,18:19:00,18:19:10,stop_point:SP_908,Rupé,7
+2386081,18:19:00,18:19:10,stop_point:SP_2946,Salvador Allende,8
+2386081,18:20:00,18:20:10,stop_point:SP_3459,Marie Curie,9
+2386081,18:21:00,18:21:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386081,18:22:00,18:22:10,stop_point:SP_3118,Auguste Gratian,11
+2386081,18:24:00,18:24:10,stop_point:SP_2878,Plaine,12
+2386081,18:25:00,18:25:10,stop_point:SP_2349,St-Gobain,13
+2386081,18:26:00,18:26:10,stop_point:SP_1515,Mazurié,14
+2386081,18:28:00,18:28:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386081,18:31:00,18:31:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386081,18:38:00,18:38:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386081,18:40:00,18:40:10,stop_point:SP_5219,Lacs,18
+2386081,18:46:00,18:46:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386081,18:47:00,18:47:10,stop_point:SP_5213,Trinchet,20
+2386081,18:48:00,18:48:10,stop_point:SP_3664,La Plaine Tucol,21
+2386081,18:49:00,18:49:10,stop_point:SP_5218,Jacques Brel,22
+2386081,18:50:00,18:50:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386082,18:30:00,18:30:10,stop_point:SP_2490,La Vache,1
+2386082,18:32:00,18:32:10,stop_point:SP_2028,Pader,2
+2386082,18:33:00,18:33:10,stop_point:SP_1294,Le Grand Marché,3
+2386082,18:34:00,18:34:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386082,18:35:00,18:35:10,stop_point:SP_2429,Glacière,5
+2386082,18:37:00,18:37:10,stop_point:SP_1698,Cadène,6
+2386082,18:38:00,18:38:10,stop_point:SP_908,Rupé,7
+2386082,18:39:00,18:39:10,stop_point:SP_2946,Salvador Allende,8
+2386082,18:39:00,18:39:10,stop_point:SP_3459,Marie Curie,9
+2386082,18:40:00,18:40:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386082,18:41:00,18:41:10,stop_point:SP_3118,Auguste Gratian,11
+2386082,18:42:00,18:42:10,stop_point:SP_2878,Plaine,12
+2386082,18:43:00,18:43:10,stop_point:SP_2349,St-Gobain,13
+2386082,18:45:00,18:45:10,stop_point:SP_1515,Mazurié,14
+2386082,18:46:00,18:46:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386082,18:49:00,18:49:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386082,18:56:00,18:56:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386082,18:58:00,18:58:10,stop_point:SP_5219,Lacs,18
+2386082,19:04:00,19:04:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386082,19:05:00,19:05:10,stop_point:SP_5213,Trinchet,20
+2386082,19:06:00,19:06:10,stop_point:SP_3664,La Plaine Tucol,21
+2386082,19:07:00,19:07:10,stop_point:SP_5218,Jacques Brel,22
+2386082,19:08:00,19:08:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386083,19:20:00,19:20:10,stop_point:SP_2490,La Vache,1
+2386083,19:22:00,19:22:10,stop_point:SP_2028,Pader,2
+2386083,19:23:00,19:23:10,stop_point:SP_1294,Le Grand Marché,3
+2386083,19:24:00,19:24:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386083,19:25:00,19:25:10,stop_point:SP_2429,Glacière,5
+2386083,19:27:00,19:27:10,stop_point:SP_1698,Cadène,6
+2386083,19:28:00,19:28:10,stop_point:SP_908,Rupé,7
+2386083,19:29:00,19:29:10,stop_point:SP_2946,Salvador Allende,8
+2386083,19:29:00,19:29:10,stop_point:SP_3459,Marie Curie,9
+2386083,19:30:00,19:30:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386083,19:31:00,19:31:10,stop_point:SP_3118,Auguste Gratian,11
+2386083,19:32:00,19:32:10,stop_point:SP_2878,Plaine,12
+2386083,19:33:00,19:33:10,stop_point:SP_2349,St-Gobain,13
+2386083,19:35:00,19:35:10,stop_point:SP_1515,Mazurié,14
+2386083,19:36:00,19:36:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386083,19:38:00,19:38:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386083,19:45:00,19:45:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386083,19:46:00,19:46:10,stop_point:SP_5219,Lacs,18
+2386083,19:52:00,19:52:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386083,19:53:00,19:53:10,stop_point:SP_5213,Trinchet,20
+2386083,19:54:00,19:54:10,stop_point:SP_3664,La Plaine Tucol,21
+2386083,19:54:00,19:54:10,stop_point:SP_5218,Jacques Brel,22
+2386083,19:55:00,19:55:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386084,19:55:00,19:55:10,stop_point:SP_2490,La Vache,1
+2386084,19:57:00,19:57:10,stop_point:SP_2028,Pader,2
+2386084,19:58:00,19:58:10,stop_point:SP_1294,Le Grand Marché,3
+2386084,19:59:00,19:59:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386084,20:00:00,20:00:10,stop_point:SP_2429,Glacière,5
+2386084,20:02:00,20:02:10,stop_point:SP_1698,Cadène,6
+2386084,20:03:00,20:03:10,stop_point:SP_908,Rupé,7
+2386084,20:04:00,20:04:10,stop_point:SP_2946,Salvador Allende,8
+2386084,20:04:00,20:04:10,stop_point:SP_3459,Marie Curie,9
+2386084,20:05:00,20:05:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386084,20:06:00,20:06:10,stop_point:SP_3118,Auguste Gratian,11
+2386084,20:07:00,20:07:10,stop_point:SP_2878,Plaine,12
+2386084,20:08:00,20:08:10,stop_point:SP_2349,St-Gobain,13
+2386084,20:10:00,20:10:10,stop_point:SP_1515,Mazurié,14
+2386084,20:11:00,20:11:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386084,20:13:00,20:13:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386084,20:19:00,20:19:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386084,20:20:00,20:20:10,stop_point:SP_5219,Lacs,18
+2386084,20:26:00,20:26:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386084,20:27:00,20:27:10,stop_point:SP_5213,Trinchet,20
+2386084,20:28:00,20:28:10,stop_point:SP_3664,La Plaine Tucol,21
+2386084,20:28:00,20:28:10,stop_point:SP_5218,Jacques Brel,22
+2386084,20:29:00,20:29:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386085,21:00:00,21:00:10,stop_point:SP_2490,La Vache,1
+2386085,21:02:00,21:02:10,stop_point:SP_2028,Pader,2
+2386085,21:03:00,21:03:10,stop_point:SP_1294,Le Grand Marché,3
+2386085,21:04:00,21:04:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386085,21:05:00,21:05:10,stop_point:SP_2429,Glacière,5
+2386085,21:07:00,21:07:10,stop_point:SP_1698,Cadène,6
+2386085,21:07:00,21:07:10,stop_point:SP_908,Rupé,7
+2386085,21:08:00,21:08:10,stop_point:SP_2946,Salvador Allende,8
+2386085,21:09:00,21:09:10,stop_point:SP_3459,Marie Curie,9
+2386085,21:09:00,21:09:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386085,21:10:00,21:10:10,stop_point:SP_3118,Auguste Gratian,11
+2386085,21:11:00,21:11:10,stop_point:SP_2878,Plaine,12
+2386085,21:12:00,21:12:10,stop_point:SP_2349,St-Gobain,13
+2386085,21:14:00,21:14:10,stop_point:SP_1515,Mazurié,14
+2386085,21:15:00,21:15:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386085,21:17:00,21:17:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386085,21:23:00,21:23:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386085,21:24:00,21:24:10,stop_point:SP_5219,Lacs,18
+2386085,21:30:00,21:30:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386085,21:31:00,21:31:10,stop_point:SP_5213,Trinchet,20
+2386085,21:32:00,21:32:10,stop_point:SP_3664,La Plaine Tucol,21
+2386085,21:32:00,21:32:10,stop_point:SP_5218,Jacques Brel,22
+2386085,21:33:00,21:33:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386086,15:45:00,15:45:10,stop_point:SP_2490,La Vache,1
+2386086,15:47:00,15:47:10,stop_point:SP_2028,Pader,2
+2386086,15:48:00,15:48:10,stop_point:SP_1294,Le Grand Marché,3
+2386086,15:49:00,15:49:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2386086,15:50:00,15:50:10,stop_point:SP_2429,Glacière,5
+2386086,15:53:00,15:53:10,stop_point:SP_1698,Cadène,6
+2386086,15:54:00,15:54:10,stop_point:SP_908,Rupé,7
+2386086,15:54:00,15:54:10,stop_point:SP_2946,Salvador Allende,8
+2386086,15:55:00,15:55:10,stop_point:SP_3459,Marie Curie,9
+2386086,15:56:00,15:56:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2386086,15:57:00,15:57:10,stop_point:SP_3118,Auguste Gratian,11
+2386086,15:59:00,15:59:10,stop_point:SP_2878,Plaine,12
+2386086,16:00:00,16:00:10,stop_point:SP_2349,St-Gobain,13
+2386086,16:01:00,16:01:10,stop_point:SP_1515,Mazurié,14
+2386086,16:03:00,16:03:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2386086,16:05:00,16:05:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2386086,16:11:00,16:11:10,stop_point:SP_5215,Lespinasse Mairie,17
+2386086,16:13:00,16:13:10,stop_point:SP_5219,Lacs,18
+2386086,16:21:00,16:21:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2386086,16:23:00,16:23:10,stop_point:SP_5213,Trinchet,20
+2386086,16:24:00,16:24:10,stop_point:SP_3664,La Plaine Tucol,21
+2386086,16:25:00,16:25:10,stop_point:SP_5218,Jacques Brel,22
+2386086,16:26:00,16:26:10,stop_point:SP_5140,Saint-Jory Collège,23
+2386087,06:00:00,06:00:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386087,06:01:00,06:01:10,stop_point:SP_5212,Jacques Brel,2
+2386087,06:02:00,06:02:10,stop_point:SP_2337,La Plaine Tucol,3
+2386087,06:03:00,06:03:10,stop_point:SP_5214,Trinchet,4
+2386087,06:04:00,06:04:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386087,06:11:00,06:11:10,stop_point:SP_5221,Lacs,6
+2386087,06:12:00,06:12:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386087,06:16:00,06:16:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386087,06:18:00,06:18:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386087,06:19:00,06:19:10,stop_point:SP_2973,Mazurié,10
+2386087,06:20:00,06:20:10,stop_point:SP_3724,St-Gobain,11
+2386087,06:21:00,06:21:10,stop_point:SP_1071,Plaine,12
+2386087,06:22:00,06:22:10,stop_point:SP_2707,Auguste Gratian,13
+2386087,06:23:00,06:23:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386087,06:23:00,06:23:10,stop_point:SP_3560,Marie Curie,15
+2386087,06:24:00,06:24:10,stop_point:SP_2642,Salvador Allende,16
+2386087,06:25:00,06:25:10,stop_point:SP_3440,Rupé,17
+2386087,06:26:00,06:26:10,stop_point:SP_409,Cadène,18
+2386087,06:28:00,06:28:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386087,06:29:00,06:29:10,stop_point:SP_1494,Le Grand Marché,20
+2386087,06:31:00,06:31:10,stop_point:SP_97,Pader,21
+2386087,06:32:00,06:32:10,stop_point:SP_2490,La Vache,22
+2386088,06:30:00,06:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386088,06:31:00,06:31:10,stop_point:SP_5212,Jacques Brel,2
+2386088,06:32:00,06:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2386088,06:33:00,06:33:10,stop_point:SP_5214,Trinchet,4
+2386088,06:34:00,06:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386088,06:41:00,06:41:10,stop_point:SP_5221,Lacs,6
+2386088,06:42:00,06:42:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386088,06:46:00,06:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386088,06:48:00,06:48:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386088,06:49:00,06:49:10,stop_point:SP_2973,Mazurié,10
+2386088,06:50:00,06:50:10,stop_point:SP_3724,St-Gobain,11
+2386088,06:51:00,06:51:10,stop_point:SP_1071,Plaine,12
+2386088,06:52:00,06:52:10,stop_point:SP_2707,Auguste Gratian,13
+2386088,06:53:00,06:53:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386088,06:54:00,06:54:10,stop_point:SP_3560,Marie Curie,15
+2386088,06:55:00,06:55:10,stop_point:SP_2642,Salvador Allende,16
+2386088,06:55:00,06:55:10,stop_point:SP_3440,Rupé,17
+2386088,06:57:00,06:57:10,stop_point:SP_409,Cadène,18
+2386088,07:00:00,07:00:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386088,07:01:00,07:01:10,stop_point:SP_1494,Le Grand Marché,20
+2386088,07:03:00,07:03:10,stop_point:SP_97,Pader,21
+2386088,07:04:00,07:04:10,stop_point:SP_2490,La Vache,22
+2386089,06:50:00,06:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386089,06:51:00,06:51:10,stop_point:SP_5212,Jacques Brel,2
+2386089,06:52:00,06:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2386089,06:53:00,06:53:10,stop_point:SP_5214,Trinchet,4
+2386089,06:54:00,06:54:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386089,07:01:00,07:01:10,stop_point:SP_5221,Lacs,6
+2386089,07:02:00,07:02:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386089,07:06:00,07:06:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386089,07:08:00,07:08:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386089,07:09:00,07:09:10,stop_point:SP_2973,Mazurié,10
+2386089,07:11:00,07:11:10,stop_point:SP_3724,St-Gobain,11
+2386089,07:12:00,07:12:10,stop_point:SP_1071,Plaine,12
+2386089,07:13:00,07:13:10,stop_point:SP_2707,Auguste Gratian,13
+2386089,07:14:00,07:14:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386089,07:15:00,07:15:10,stop_point:SP_3560,Marie Curie,15
+2386089,07:16:00,07:16:10,stop_point:SP_2642,Salvador Allende,16
+2386089,07:16:00,07:16:10,stop_point:SP_3440,Rupé,17
+2386089,07:18:00,07:18:10,stop_point:SP_409,Cadène,18
+2386089,07:21:00,07:21:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386089,07:22:00,07:22:10,stop_point:SP_1494,Le Grand Marché,20
+2386089,07:24:00,07:24:10,stop_point:SP_97,Pader,21
+2386089,07:25:00,07:25:10,stop_point:SP_2490,La Vache,22
+2386090,07:10:00,07:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386090,07:11:00,07:11:10,stop_point:SP_5212,Jacques Brel,2
+2386090,07:12:00,07:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386090,07:13:00,07:13:10,stop_point:SP_5214,Trinchet,4
+2386090,07:14:00,07:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386090,07:21:00,07:21:10,stop_point:SP_5221,Lacs,6
+2386090,07:22:00,07:22:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386090,07:26:00,07:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386090,07:28:00,07:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386090,07:29:00,07:29:10,stop_point:SP_2973,Mazurié,10
+2386090,07:31:00,07:31:10,stop_point:SP_3724,St-Gobain,11
+2386090,07:32:00,07:32:10,stop_point:SP_1071,Plaine,12
+2386090,07:33:00,07:33:10,stop_point:SP_2707,Auguste Gratian,13
+2386090,07:34:00,07:34:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386090,07:35:00,07:35:10,stop_point:SP_3560,Marie Curie,15
+2386090,07:36:00,07:36:10,stop_point:SP_2642,Salvador Allende,16
+2386090,07:36:00,07:36:10,stop_point:SP_3440,Rupé,17
+2386090,07:38:00,07:38:10,stop_point:SP_409,Cadène,18
+2386090,07:41:00,07:41:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386090,07:42:00,07:42:10,stop_point:SP_1494,Le Grand Marché,20
+2386090,07:44:00,07:44:10,stop_point:SP_97,Pader,21
+2386090,07:45:00,07:45:10,stop_point:SP_2490,La Vache,22
+2386091,07:30:00,07:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386091,07:31:00,07:31:10,stop_point:SP_5212,Jacques Brel,2
+2386091,07:32:00,07:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2386091,07:33:00,07:33:10,stop_point:SP_5214,Trinchet,4
+2386091,07:34:00,07:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386091,07:41:00,07:41:10,stop_point:SP_5221,Lacs,6
+2386091,07:42:00,07:42:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386091,07:46:00,07:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386091,07:48:00,07:48:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386091,07:49:00,07:49:10,stop_point:SP_2973,Mazurié,10
+2386091,07:51:00,07:51:10,stop_point:SP_3724,St-Gobain,11
+2386091,07:52:00,07:52:10,stop_point:SP_1071,Plaine,12
+2386091,07:53:00,07:53:10,stop_point:SP_2707,Auguste Gratian,13
+2386091,07:54:00,07:54:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386091,07:55:00,07:55:10,stop_point:SP_3560,Marie Curie,15
+2386091,07:56:00,07:56:10,stop_point:SP_2642,Salvador Allende,16
+2386091,07:56:00,07:56:10,stop_point:SP_3440,Rupé,17
+2386091,07:58:00,07:58:10,stop_point:SP_409,Cadène,18
+2386091,08:01:00,08:01:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386091,08:02:00,08:02:10,stop_point:SP_1494,Le Grand Marché,20
+2386091,08:04:00,08:04:10,stop_point:SP_97,Pader,21
+2386091,08:05:00,08:05:10,stop_point:SP_2490,La Vache,22
+2386092,07:50:00,07:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386092,07:51:00,07:51:10,stop_point:SP_5212,Jacques Brel,2
+2386092,07:52:00,07:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2386092,07:53:00,07:53:10,stop_point:SP_5214,Trinchet,4
+2386092,07:54:00,07:54:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386092,08:01:00,08:01:10,stop_point:SP_5221,Lacs,6
+2386092,08:02:00,08:02:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386092,08:06:00,08:06:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386092,08:08:00,08:08:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386092,08:09:00,08:09:10,stop_point:SP_2973,Mazurié,10
+2386092,08:11:00,08:11:10,stop_point:SP_3724,St-Gobain,11
+2386092,08:12:00,08:12:10,stop_point:SP_1071,Plaine,12
+2386092,08:13:00,08:13:10,stop_point:SP_2707,Auguste Gratian,13
+2386092,08:14:00,08:14:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386092,08:15:00,08:15:10,stop_point:SP_3560,Marie Curie,15
+2386092,08:16:00,08:16:10,stop_point:SP_2642,Salvador Allende,16
+2386092,08:16:00,08:16:10,stop_point:SP_3440,Rupé,17
+2386092,08:18:00,08:18:10,stop_point:SP_409,Cadène,18
+2386092,08:21:00,08:21:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386092,08:23:00,08:23:10,stop_point:SP_1494,Le Grand Marché,20
+2386092,08:25:00,08:25:10,stop_point:SP_97,Pader,21
+2386092,08:26:00,08:26:10,stop_point:SP_2490,La Vache,22
+2386093,08:10:00,08:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386093,08:11:00,08:11:10,stop_point:SP_5212,Jacques Brel,2
+2386093,08:12:00,08:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386093,08:13:00,08:13:10,stop_point:SP_5214,Trinchet,4
+2386093,08:14:00,08:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386093,08:21:00,08:21:10,stop_point:SP_5221,Lacs,6
+2386093,08:22:00,08:22:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386093,08:26:00,08:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386093,08:28:00,08:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386093,08:29:00,08:29:10,stop_point:SP_2973,Mazurié,10
+2386093,08:31:00,08:31:10,stop_point:SP_3724,St-Gobain,11
+2386093,08:32:00,08:32:10,stop_point:SP_1071,Plaine,12
+2386093,08:33:00,08:33:10,stop_point:SP_2707,Auguste Gratian,13
+2386093,08:34:00,08:34:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386093,08:35:00,08:35:10,stop_point:SP_3560,Marie Curie,15
+2386093,08:36:00,08:36:10,stop_point:SP_2642,Salvador Allende,16
+2386093,08:36:00,08:36:10,stop_point:SP_3440,Rupé,17
+2386093,08:38:00,08:38:10,stop_point:SP_409,Cadène,18
+2386093,08:41:00,08:41:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386093,08:43:00,08:43:10,stop_point:SP_1494,Le Grand Marché,20
+2386093,08:45:00,08:45:10,stop_point:SP_97,Pader,21
+2386093,08:46:00,08:46:10,stop_point:SP_2490,La Vache,22
+2386094,08:30:00,08:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386094,08:31:00,08:31:10,stop_point:SP_5212,Jacques Brel,2
+2386094,08:32:00,08:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2386094,08:33:00,08:33:10,stop_point:SP_5214,Trinchet,4
+2386094,08:34:00,08:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386094,08:41:00,08:41:10,stop_point:SP_5221,Lacs,6
+2386094,08:42:00,08:42:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386094,08:46:00,08:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386094,08:48:00,08:48:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386094,08:49:00,08:49:10,stop_point:SP_2973,Mazurié,10
+2386094,08:50:00,08:50:10,stop_point:SP_3724,St-Gobain,11
+2386094,08:51:00,08:51:10,stop_point:SP_1071,Plaine,12
+2386094,08:52:00,08:52:10,stop_point:SP_2707,Auguste Gratian,13
+2386094,08:53:00,08:53:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386094,08:54:00,08:54:10,stop_point:SP_3560,Marie Curie,15
+2386094,08:55:00,08:55:10,stop_point:SP_2642,Salvador Allende,16
+2386094,08:55:00,08:55:10,stop_point:SP_3440,Rupé,17
+2386094,08:56:00,08:56:10,stop_point:SP_409,Cadène,18
+2386094,08:59:00,08:59:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386094,09:01:00,09:01:10,stop_point:SP_1494,Le Grand Marché,20
+2386094,09:03:00,09:03:10,stop_point:SP_97,Pader,21
+2386094,09:04:00,09:04:10,stop_point:SP_2490,La Vache,22
+2386095,08:55:00,08:55:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386095,08:56:00,08:56:10,stop_point:SP_5212,Jacques Brel,2
+2386095,08:57:00,08:57:10,stop_point:SP_2337,La Plaine Tucol,3
+2386095,08:58:00,08:58:10,stop_point:SP_5214,Trinchet,4
+2386095,08:59:00,08:59:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386095,09:06:00,09:06:10,stop_point:SP_5221,Lacs,6
+2386095,09:07:00,09:07:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386095,09:11:00,09:11:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386095,09:13:00,09:13:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386095,09:14:00,09:14:10,stop_point:SP_2973,Mazurié,10
+2386095,09:15:00,09:15:10,stop_point:SP_3724,St-Gobain,11
+2386095,09:16:00,09:16:10,stop_point:SP_1071,Plaine,12
+2386095,09:17:00,09:17:10,stop_point:SP_2707,Auguste Gratian,13
+2386095,09:18:00,09:18:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386095,09:19:00,09:19:10,stop_point:SP_3560,Marie Curie,15
+2386095,09:20:00,09:20:10,stop_point:SP_2642,Salvador Allende,16
+2386095,09:20:00,09:20:10,stop_point:SP_3440,Rupé,17
+2386095,09:21:00,09:21:10,stop_point:SP_409,Cadène,18
+2386095,09:24:00,09:24:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386095,09:25:00,09:25:10,stop_point:SP_1494,Le Grand Marché,20
+2386095,09:27:00,09:27:10,stop_point:SP_97,Pader,21
+2386095,09:28:00,09:28:10,stop_point:SP_2490,La Vache,22
+2386096,09:25:00,09:25:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386096,09:26:00,09:26:10,stop_point:SP_5212,Jacques Brel,2
+2386096,09:27:00,09:27:10,stop_point:SP_2337,La Plaine Tucol,3
+2386096,09:28:00,09:28:10,stop_point:SP_5214,Trinchet,4
+2386096,09:29:00,09:29:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386096,09:36:00,09:36:10,stop_point:SP_5221,Lacs,6
+2386096,09:37:00,09:37:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386096,09:41:00,09:41:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386096,09:43:00,09:43:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386096,09:44:00,09:44:10,stop_point:SP_2973,Mazurié,10
+2386096,09:45:00,09:45:10,stop_point:SP_3724,St-Gobain,11
+2386096,09:46:00,09:46:10,stop_point:SP_1071,Plaine,12
+2386096,09:47:00,09:47:10,stop_point:SP_2707,Auguste Gratian,13
+2386096,09:48:00,09:48:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386096,09:49:00,09:49:10,stop_point:SP_3560,Marie Curie,15
+2386096,09:50:00,09:50:10,stop_point:SP_2642,Salvador Allende,16
+2386096,09:50:00,09:50:10,stop_point:SP_3440,Rupé,17
+2386096,09:51:00,09:51:10,stop_point:SP_409,Cadène,18
+2386096,09:54:00,09:54:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386096,09:55:00,09:55:10,stop_point:SP_1494,Le Grand Marché,20
+2386096,09:57:00,09:57:10,stop_point:SP_97,Pader,21
+2386096,09:58:00,09:58:10,stop_point:SP_2490,La Vache,22
+2386097,10:10:00,10:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386097,10:11:00,10:11:10,stop_point:SP_5212,Jacques Brel,2
+2386097,10:12:00,10:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386097,10:13:00,10:13:10,stop_point:SP_5214,Trinchet,4
+2386097,10:14:00,10:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386097,10:21:00,10:21:10,stop_point:SP_5221,Lacs,6
+2386097,10:22:00,10:22:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386097,10:26:00,10:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386097,10:28:00,10:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386097,10:29:00,10:29:10,stop_point:SP_2973,Mazurié,10
+2386097,10:30:00,10:30:10,stop_point:SP_3724,St-Gobain,11
+2386097,10:31:00,10:31:10,stop_point:SP_1071,Plaine,12
+2386097,10:32:00,10:32:10,stop_point:SP_2707,Auguste Gratian,13
+2386097,10:33:00,10:33:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386097,10:34:00,10:34:10,stop_point:SP_3560,Marie Curie,15
+2386097,10:35:00,10:35:10,stop_point:SP_2642,Salvador Allende,16
+2386097,10:35:00,10:35:10,stop_point:SP_3440,Rupé,17
+2386097,10:36:00,10:36:10,stop_point:SP_409,Cadène,18
+2386097,10:39:00,10:39:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386097,10:40:00,10:40:10,stop_point:SP_1494,Le Grand Marché,20
+2386097,10:42:00,10:42:10,stop_point:SP_97,Pader,21
+2386097,10:43:00,10:43:10,stop_point:SP_2490,La Vache,22
+2386098,12:40:00,12:40:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386098,12:41:00,12:41:10,stop_point:SP_5212,Jacques Brel,2
+2386098,12:42:00,12:42:10,stop_point:SP_2337,La Plaine Tucol,3
+2386098,12:43:00,12:43:10,stop_point:SP_5214,Trinchet,4
+2386098,12:44:00,12:44:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386098,12:51:00,12:51:10,stop_point:SP_5221,Lacs,6
+2386098,12:52:00,12:52:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386098,12:56:00,12:56:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386098,12:58:00,12:58:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386098,12:59:00,12:59:10,stop_point:SP_2973,Mazurié,10
+2386098,13:00:00,13:00:10,stop_point:SP_3724,St-Gobain,11
+2386098,13:01:00,13:01:10,stop_point:SP_1071,Plaine,12
+2386098,13:02:00,13:02:10,stop_point:SP_2707,Auguste Gratian,13
+2386098,13:03:00,13:03:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386098,13:04:00,13:04:10,stop_point:SP_3560,Marie Curie,15
+2386098,13:05:00,13:05:10,stop_point:SP_2642,Salvador Allende,16
+2386098,13:05:00,13:05:10,stop_point:SP_3440,Rupé,17
+2386098,13:06:00,13:06:10,stop_point:SP_409,Cadène,18
+2386098,13:09:00,13:09:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386098,13:11:00,13:11:10,stop_point:SP_1494,Le Grand Marché,20
+2386098,13:13:00,13:13:10,stop_point:SP_97,Pader,21
+2386098,13:14:00,13:14:10,stop_point:SP_2490,La Vache,22
+2386099,11:00:00,11:00:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386099,11:01:00,11:01:10,stop_point:SP_5212,Jacques Brel,2
+2386099,11:02:00,11:02:10,stop_point:SP_2337,La Plaine Tucol,3
+2386099,11:03:00,11:03:10,stop_point:SP_5214,Trinchet,4
+2386099,11:04:00,11:04:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386099,11:11:00,11:11:10,stop_point:SP_5221,Lacs,6
+2386099,11:12:00,11:12:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386099,11:16:00,11:16:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386099,11:18:00,11:18:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386099,11:19:00,11:19:10,stop_point:SP_2973,Mazurié,10
+2386099,11:20:00,11:20:10,stop_point:SP_3724,St-Gobain,11
+2386099,11:21:00,11:21:10,stop_point:SP_1071,Plaine,12
+2386099,11:22:00,11:22:10,stop_point:SP_2707,Auguste Gratian,13
+2386099,11:23:00,11:23:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386099,11:24:00,11:24:10,stop_point:SP_3560,Marie Curie,15
+2386099,11:25:00,11:25:10,stop_point:SP_2642,Salvador Allende,16
+2386099,11:25:00,11:25:10,stop_point:SP_3440,Rupé,17
+2386099,11:26:00,11:26:10,stop_point:SP_409,Cadène,18
+2386099,11:29:00,11:29:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386099,11:30:00,11:30:10,stop_point:SP_1494,Le Grand Marché,20
+2386099,11:32:00,11:32:10,stop_point:SP_97,Pader,21
+2386099,11:33:00,11:33:10,stop_point:SP_2490,La Vache,22
+2386100,13:30:00,13:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386100,13:31:00,13:31:10,stop_point:SP_5212,Jacques Brel,2
+2386100,13:32:00,13:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2386100,13:33:00,13:33:10,stop_point:SP_5214,Trinchet,4
+2386100,13:34:00,13:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386100,13:41:00,13:41:10,stop_point:SP_5221,Lacs,6
+2386100,13:42:00,13:42:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386100,13:46:00,13:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386100,13:48:00,13:48:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386100,13:49:00,13:49:10,stop_point:SP_2973,Mazurié,10
+2386100,13:50:00,13:50:10,stop_point:SP_3724,St-Gobain,11
+2386100,13:51:00,13:51:10,stop_point:SP_1071,Plaine,12
+2386100,13:52:00,13:52:10,stop_point:SP_2707,Auguste Gratian,13
+2386100,13:53:00,13:53:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386100,13:54:00,13:54:10,stop_point:SP_3560,Marie Curie,15
+2386100,13:55:00,13:55:10,stop_point:SP_2642,Salvador Allende,16
+2386100,13:55:00,13:55:10,stop_point:SP_3440,Rupé,17
+2386100,13:56:00,13:56:10,stop_point:SP_409,Cadène,18
+2386100,13:59:00,13:59:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386100,14:01:00,14:01:10,stop_point:SP_1494,Le Grand Marché,20
+2386100,14:03:00,14:03:10,stop_point:SP_97,Pader,21
+2386100,14:04:00,14:04:10,stop_point:SP_2490,La Vache,22
+2386101,11:50:00,11:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386101,11:51:00,11:51:10,stop_point:SP_5212,Jacques Brel,2
+2386101,11:52:00,11:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2386101,11:53:00,11:53:10,stop_point:SP_5214,Trinchet,4
+2386101,11:54:00,11:54:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386101,12:01:00,12:01:10,stop_point:SP_5221,Lacs,6
+2386101,12:02:00,12:02:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386101,12:06:00,12:06:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386101,12:08:00,12:08:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386101,12:09:00,12:09:10,stop_point:SP_2973,Mazurié,10
+2386101,12:10:00,12:10:10,stop_point:SP_3724,St-Gobain,11
+2386101,12:11:00,12:11:10,stop_point:SP_1071,Plaine,12
+2386101,12:12:00,12:12:10,stop_point:SP_2707,Auguste Gratian,13
+2386101,12:13:00,12:13:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386101,12:14:00,12:14:10,stop_point:SP_3560,Marie Curie,15
+2386101,12:15:00,12:15:10,stop_point:SP_2642,Salvador Allende,16
+2386101,12:15:00,12:15:10,stop_point:SP_3440,Rupé,17
+2386101,12:17:00,12:17:10,stop_point:SP_409,Cadène,18
+2386101,12:20:00,12:20:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386101,12:22:00,12:22:10,stop_point:SP_1494,Le Grand Marché,20
+2386101,12:25:00,12:25:10,stop_point:SP_97,Pader,21
+2386101,12:27:00,12:27:10,stop_point:SP_2490,La Vache,22
+2386102,16:15:00,16:15:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386102,16:16:00,16:16:10,stop_point:SP_5212,Jacques Brel,2
+2386102,16:17:00,16:17:10,stop_point:SP_2337,La Plaine Tucol,3
+2386102,16:18:00,16:18:10,stop_point:SP_5214,Trinchet,4
+2386102,16:19:00,16:19:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386102,16:26:00,16:26:10,stop_point:SP_5221,Lacs,6
+2386102,16:27:00,16:27:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386102,16:31:00,16:31:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386102,16:33:00,16:33:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386102,16:34:00,16:34:10,stop_point:SP_2973,Mazurié,10
+2386102,16:36:00,16:36:10,stop_point:SP_3724,St-Gobain,11
+2386102,16:37:00,16:37:10,stop_point:SP_1071,Plaine,12
+2386102,16:39:00,16:39:10,stop_point:SP_2707,Auguste Gratian,13
+2386102,16:40:00,16:40:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386102,16:41:00,16:41:10,stop_point:SP_3560,Marie Curie,15
+2386102,16:42:00,16:42:10,stop_point:SP_2642,Salvador Allende,16
+2386102,16:42:00,16:42:10,stop_point:SP_3440,Rupé,17
+2386102,16:44:00,16:44:10,stop_point:SP_409,Cadène,18
+2386102,16:47:00,16:47:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386102,16:49:00,16:49:10,stop_point:SP_1494,Le Grand Marché,20
+2386102,16:51:00,16:51:10,stop_point:SP_97,Pader,21
+2386102,16:52:00,16:52:10,stop_point:SP_2490,La Vache,22
+2386103,14:25:00,14:25:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386103,14:26:00,14:26:10,stop_point:SP_5212,Jacques Brel,2
+2386103,14:27:00,14:27:10,stop_point:SP_2337,La Plaine Tucol,3
+2386103,14:28:00,14:28:10,stop_point:SP_5214,Trinchet,4
+2386103,14:29:00,14:29:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386103,14:36:00,14:36:10,stop_point:SP_5221,Lacs,6
+2386103,14:37:00,14:37:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386103,14:41:00,14:41:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386103,14:43:00,14:43:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386103,14:44:00,14:44:10,stop_point:SP_2973,Mazurié,10
+2386103,14:46:00,14:46:10,stop_point:SP_3724,St-Gobain,11
+2386103,14:47:00,14:47:10,stop_point:SP_1071,Plaine,12
+2386103,14:48:00,14:48:10,stop_point:SP_2707,Auguste Gratian,13
+2386103,14:49:00,14:49:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386103,14:50:00,14:50:10,stop_point:SP_3560,Marie Curie,15
+2386103,14:51:00,14:51:10,stop_point:SP_2642,Salvador Allende,16
+2386103,14:51:00,14:51:10,stop_point:SP_3440,Rupé,17
+2386103,14:52:00,14:52:10,stop_point:SP_409,Cadène,18
+2386103,14:55:00,14:55:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386103,14:57:00,14:57:10,stop_point:SP_1494,Le Grand Marché,20
+2386103,14:59:00,14:59:10,stop_point:SP_97,Pader,21
+2386103,15:00:00,15:00:10,stop_point:SP_2490,La Vache,22
+2386104,19:35:00,19:35:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386104,19:36:00,19:36:10,stop_point:SP_5212,Jacques Brel,2
+2386104,19:37:00,19:37:10,stop_point:SP_2337,La Plaine Tucol,3
+2386104,19:38:00,19:38:10,stop_point:SP_5214,Trinchet,4
+2386104,19:38:00,19:38:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386104,19:44:00,19:44:10,stop_point:SP_5221,Lacs,6
+2386104,19:45:00,19:45:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386104,19:49:00,19:49:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386104,19:51:00,19:51:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386104,19:52:00,19:52:10,stop_point:SP_2973,Mazurié,10
+2386104,19:53:00,19:53:10,stop_point:SP_3724,St-Gobain,11
+2386104,19:53:00,19:53:10,stop_point:SP_1071,Plaine,12
+2386104,19:54:00,19:54:10,stop_point:SP_2707,Auguste Gratian,13
+2386104,19:55:00,19:55:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386104,19:55:00,19:55:10,stop_point:SP_3560,Marie Curie,15
+2386104,19:56:00,19:56:10,stop_point:SP_2642,Salvador Allende,16
+2386104,19:57:00,19:57:10,stop_point:SP_3440,Rupé,17
+2386104,19:58:00,19:58:10,stop_point:SP_409,Cadène,18
+2386104,20:00:00,20:00:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386104,20:01:00,20:01:10,stop_point:SP_1494,Le Grand Marché,20
+2386104,20:03:00,20:03:10,stop_point:SP_97,Pader,21
+2386104,20:04:00,20:04:10,stop_point:SP_2490,La Vache,22
+2386105,15:15:00,15:15:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386105,15:16:00,15:16:10,stop_point:SP_5212,Jacques Brel,2
+2386105,15:17:00,15:17:10,stop_point:SP_2337,La Plaine Tucol,3
+2386105,15:18:00,15:18:10,stop_point:SP_5214,Trinchet,4
+2386105,15:19:00,15:19:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386105,15:26:00,15:26:10,stop_point:SP_5221,Lacs,6
+2386105,15:27:00,15:27:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386105,15:31:00,15:31:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386105,15:33:00,15:33:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386105,15:34:00,15:34:10,stop_point:SP_2973,Mazurié,10
+2386105,15:36:00,15:36:10,stop_point:SP_3724,St-Gobain,11
+2386105,15:37:00,15:37:10,stop_point:SP_1071,Plaine,12
+2386105,15:38:00,15:38:10,stop_point:SP_2707,Auguste Gratian,13
+2386105,15:39:00,15:39:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386105,15:40:00,15:40:10,stop_point:SP_3560,Marie Curie,15
+2386105,15:41:00,15:41:10,stop_point:SP_2642,Salvador Allende,16
+2386105,15:41:00,15:41:10,stop_point:SP_3440,Rupé,17
+2386105,15:43:00,15:43:10,stop_point:SP_409,Cadène,18
+2386105,15:46:00,15:46:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386105,15:48:00,15:48:10,stop_point:SP_1494,Le Grand Marché,20
+2386105,15:50:00,15:50:10,stop_point:SP_97,Pader,21
+2386105,15:51:00,15:51:10,stop_point:SP_2490,La Vache,22
+2386106,17:45:00,17:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386106,17:46:00,17:46:10,stop_point:SP_5212,Jacques Brel,2
+2386106,17:47:00,17:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2386106,17:48:00,17:48:10,stop_point:SP_5214,Trinchet,4
+2386106,17:49:00,17:49:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386106,17:55:00,17:55:10,stop_point:SP_5221,Lacs,6
+2386106,17:56:00,17:56:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386106,18:01:00,18:01:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386106,18:03:00,18:03:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386106,18:04:00,18:04:10,stop_point:SP_2973,Mazurié,10
+2386106,18:06:00,18:06:10,stop_point:SP_3724,St-Gobain,11
+2386106,18:07:00,18:07:10,stop_point:SP_1071,Plaine,12
+2386106,18:09:00,18:09:10,stop_point:SP_2707,Auguste Gratian,13
+2386106,18:10:00,18:10:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386106,18:11:00,18:11:10,stop_point:SP_3560,Marie Curie,15
+2386106,18:12:00,18:12:10,stop_point:SP_2642,Salvador Allende,16
+2386106,18:12:00,18:12:10,stop_point:SP_3440,Rupé,17
+2386106,18:14:00,18:14:10,stop_point:SP_409,Cadène,18
+2386106,18:17:00,18:17:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386106,18:19:00,18:19:10,stop_point:SP_1494,Le Grand Marché,20
+2386106,18:21:00,18:21:10,stop_point:SP_97,Pader,21
+2386106,18:23:00,18:23:10,stop_point:SP_2490,La Vache,22
+2386107,18:10:00,18:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386107,18:11:00,18:11:10,stop_point:SP_5212,Jacques Brel,2
+2386107,18:12:00,18:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386107,18:13:00,18:13:10,stop_point:SP_5214,Trinchet,4
+2386107,18:14:00,18:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386107,18:20:00,18:20:10,stop_point:SP_5221,Lacs,6
+2386107,18:21:00,18:21:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386107,18:26:00,18:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386107,18:28:00,18:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386107,18:29:00,18:29:10,stop_point:SP_2973,Mazurié,10
+2386107,18:31:00,18:31:10,stop_point:SP_3724,St-Gobain,11
+2386107,18:32:00,18:32:10,stop_point:SP_1071,Plaine,12
+2386107,18:33:00,18:33:10,stop_point:SP_2707,Auguste Gratian,13
+2386107,18:34:00,18:34:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386107,18:35:00,18:35:10,stop_point:SP_3560,Marie Curie,15
+2386107,18:36:00,18:36:10,stop_point:SP_2642,Salvador Allende,16
+2386107,18:36:00,18:36:10,stop_point:SP_3440,Rupé,17
+2386107,18:38:00,18:38:10,stop_point:SP_409,Cadène,18
+2386107,18:41:00,18:41:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386107,18:42:00,18:42:10,stop_point:SP_1494,Le Grand Marché,20
+2386107,18:44:00,18:44:10,stop_point:SP_97,Pader,21
+2386107,18:45:00,18:45:10,stop_point:SP_2490,La Vache,22
+2386108,16:45:00,16:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386108,16:46:00,16:46:10,stop_point:SP_5212,Jacques Brel,2
+2386108,16:47:00,16:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2386108,16:48:00,16:48:10,stop_point:SP_5214,Trinchet,4
+2386108,16:49:00,16:49:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386108,16:56:00,16:56:10,stop_point:SP_5221,Lacs,6
+2386108,16:57:00,16:57:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386108,17:01:00,17:01:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386108,17:03:00,17:03:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386108,17:04:00,17:04:10,stop_point:SP_2973,Mazurié,10
+2386108,17:06:00,17:06:10,stop_point:SP_3724,St-Gobain,11
+2386108,17:07:00,17:07:10,stop_point:SP_1071,Plaine,12
+2386108,17:09:00,17:09:10,stop_point:SP_2707,Auguste Gratian,13
+2386108,17:10:00,17:10:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386108,17:11:00,17:11:10,stop_point:SP_3560,Marie Curie,15
+2386108,17:12:00,17:12:10,stop_point:SP_2642,Salvador Allende,16
+2386108,17:12:00,17:12:10,stop_point:SP_3440,Rupé,17
+2386108,17:14:00,17:14:10,stop_point:SP_409,Cadène,18
+2386108,17:17:00,17:17:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386108,17:19:00,17:19:10,stop_point:SP_1494,Le Grand Marché,20
+2386108,17:21:00,17:21:10,stop_point:SP_97,Pader,21
+2386108,17:23:00,17:23:10,stop_point:SP_2490,La Vache,22
+2386109,17:10:00,17:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386109,17:11:00,17:11:10,stop_point:SP_5212,Jacques Brel,2
+2386109,17:12:00,17:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386109,17:13:00,17:13:10,stop_point:SP_5214,Trinchet,4
+2386109,17:14:00,17:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386109,17:21:00,17:21:10,stop_point:SP_5221,Lacs,6
+2386109,17:22:00,17:22:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386109,17:26:00,17:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386109,17:28:00,17:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386109,17:29:00,17:29:10,stop_point:SP_2973,Mazurié,10
+2386109,17:31:00,17:31:10,stop_point:SP_3724,St-Gobain,11
+2386109,17:32:00,17:32:10,stop_point:SP_1071,Plaine,12
+2386109,17:34:00,17:34:10,stop_point:SP_2707,Auguste Gratian,13
+2386109,17:35:00,17:35:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386109,17:36:00,17:36:10,stop_point:SP_3560,Marie Curie,15
+2386109,17:37:00,17:37:10,stop_point:SP_2642,Salvador Allende,16
+2386109,17:37:00,17:37:10,stop_point:SP_3440,Rupé,17
+2386109,17:39:00,17:39:10,stop_point:SP_409,Cadène,18
+2386109,17:42:00,17:42:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386109,17:44:00,17:44:10,stop_point:SP_1494,Le Grand Marché,20
+2386109,17:46:00,17:46:10,stop_point:SP_97,Pader,21
+2386109,17:48:00,17:48:10,stop_point:SP_2490,La Vache,22
+2386110,17:25:00,17:25:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386110,17:26:00,17:26:10,stop_point:SP_5212,Jacques Brel,2
+2386110,17:27:00,17:27:10,stop_point:SP_2337,La Plaine Tucol,3
+2386110,17:28:00,17:28:10,stop_point:SP_5214,Trinchet,4
+2386110,17:29:00,17:29:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386110,17:35:00,17:35:10,stop_point:SP_5221,Lacs,6
+2386110,17:36:00,17:36:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386110,17:41:00,17:41:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386110,17:43:00,17:43:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386110,17:44:00,17:44:10,stop_point:SP_2973,Mazurié,10
+2386110,17:46:00,17:46:10,stop_point:SP_3724,St-Gobain,11
+2386110,17:47:00,17:47:10,stop_point:SP_1071,Plaine,12
+2386110,17:49:00,17:49:10,stop_point:SP_2707,Auguste Gratian,13
+2386110,17:50:00,17:50:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386110,17:51:00,17:51:10,stop_point:SP_3560,Marie Curie,15
+2386110,17:52:00,17:52:10,stop_point:SP_2642,Salvador Allende,16
+2386110,17:52:00,17:52:10,stop_point:SP_3440,Rupé,17
+2386110,17:54:00,17:54:10,stop_point:SP_409,Cadène,18
+2386110,17:57:00,17:57:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386110,17:59:00,17:59:10,stop_point:SP_1494,Le Grand Marché,20
+2386110,18:01:00,18:01:10,stop_point:SP_97,Pader,21
+2386110,18:03:00,18:03:10,stop_point:SP_2490,La Vache,22
+2386111,18:30:00,18:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386111,18:31:00,18:31:10,stop_point:SP_5212,Jacques Brel,2
+2386111,18:32:00,18:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2386111,18:33:00,18:33:10,stop_point:SP_5214,Trinchet,4
+2386111,18:34:00,18:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386111,18:40:00,18:40:10,stop_point:SP_5221,Lacs,6
+2386111,18:41:00,18:41:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386111,18:46:00,18:46:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386111,18:48:00,18:48:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386111,18:49:00,18:49:10,stop_point:SP_2973,Mazurié,10
+2386111,18:50:00,18:50:10,stop_point:SP_3724,St-Gobain,11
+2386111,18:51:00,18:51:10,stop_point:SP_1071,Plaine,12
+2386111,18:52:00,18:52:10,stop_point:SP_2707,Auguste Gratian,13
+2386111,18:53:00,18:53:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386111,18:53:00,18:53:10,stop_point:SP_3560,Marie Curie,15
+2386111,18:54:00,18:54:10,stop_point:SP_2642,Salvador Allende,16
+2386111,18:55:00,18:55:10,stop_point:SP_3440,Rupé,17
+2386111,18:56:00,18:56:10,stop_point:SP_409,Cadène,18
+2386111,18:58:00,18:58:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386111,18:59:00,18:59:10,stop_point:SP_1494,Le Grand Marché,20
+2386111,19:01:00,19:01:10,stop_point:SP_97,Pader,21
+2386111,19:02:00,19:02:10,stop_point:SP_2490,La Vache,22
+2386112,18:50:00,18:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386112,18:51:00,18:51:10,stop_point:SP_5212,Jacques Brel,2
+2386112,18:52:00,18:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2386112,18:53:00,18:53:10,stop_point:SP_5214,Trinchet,4
+2386112,18:53:00,18:53:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386112,18:59:00,18:59:10,stop_point:SP_5221,Lacs,6
+2386112,19:00:00,19:00:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386112,19:05:00,19:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386112,19:07:00,19:07:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386112,19:08:00,19:08:10,stop_point:SP_2973,Mazurié,10
+2386112,19:09:00,19:09:10,stop_point:SP_3724,St-Gobain,11
+2386112,19:10:00,19:10:10,stop_point:SP_1071,Plaine,12
+2386112,19:11:00,19:11:10,stop_point:SP_2707,Auguste Gratian,13
+2386112,19:12:00,19:12:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386112,19:12:00,19:12:10,stop_point:SP_3560,Marie Curie,15
+2386112,19:13:00,19:13:10,stop_point:SP_2642,Salvador Allende,16
+2386112,19:14:00,19:14:10,stop_point:SP_3440,Rupé,17
+2386112,19:15:00,19:15:10,stop_point:SP_409,Cadène,18
+2386112,19:17:00,19:17:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386112,19:18:00,19:18:10,stop_point:SP_1494,Le Grand Marché,20
+2386112,19:20:00,19:20:10,stop_point:SP_97,Pader,21
+2386112,19:21:00,19:21:10,stop_point:SP_2490,La Vache,22
+2386113,19:10:00,19:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386113,19:11:00,19:11:10,stop_point:SP_5212,Jacques Brel,2
+2386113,19:12:00,19:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386113,19:13:00,19:13:10,stop_point:SP_5214,Trinchet,4
+2386113,19:13:00,19:13:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386113,19:19:00,19:19:10,stop_point:SP_5221,Lacs,6
+2386113,19:20:00,19:20:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386113,19:25:00,19:25:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386113,19:27:00,19:27:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386113,19:28:00,19:28:10,stop_point:SP_2973,Mazurié,10
+2386113,19:29:00,19:29:10,stop_point:SP_3724,St-Gobain,11
+2386113,19:30:00,19:30:10,stop_point:SP_1071,Plaine,12
+2386113,19:31:00,19:31:10,stop_point:SP_2707,Auguste Gratian,13
+2386113,19:32:00,19:32:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386113,19:32:00,19:32:10,stop_point:SP_3560,Marie Curie,15
+2386113,19:33:00,19:33:10,stop_point:SP_2642,Salvador Allende,16
+2386113,19:34:00,19:34:10,stop_point:SP_3440,Rupé,17
+2386113,19:35:00,19:35:10,stop_point:SP_409,Cadène,18
+2386113,19:37:00,19:37:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386113,19:38:00,19:38:10,stop_point:SP_1494,Le Grand Marché,20
+2386113,19:40:00,19:40:10,stop_point:SP_97,Pader,21
+2386113,19:41:00,19:41:10,stop_point:SP_2490,La Vache,22
+2386114,20:10:00,20:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386114,20:11:00,20:11:10,stop_point:SP_5212,Jacques Brel,2
+2386114,20:12:00,20:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2386114,20:13:00,20:13:10,stop_point:SP_5214,Trinchet,4
+2386114,20:13:00,20:13:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386114,20:19:00,20:19:10,stop_point:SP_5221,Lacs,6
+2386114,20:20:00,20:20:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386114,20:24:00,20:24:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386114,20:26:00,20:26:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386114,20:27:00,20:27:10,stop_point:SP_2973,Mazurié,10
+2386114,20:28:00,20:28:10,stop_point:SP_3724,St-Gobain,11
+2386114,20:28:00,20:28:10,stop_point:SP_1071,Plaine,12
+2386114,20:29:00,20:29:10,stop_point:SP_2707,Auguste Gratian,13
+2386114,20:30:00,20:30:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386114,20:30:00,20:30:10,stop_point:SP_3560,Marie Curie,15
+2386114,20:31:00,20:31:10,stop_point:SP_2642,Salvador Allende,16
+2386114,20:32:00,20:32:10,stop_point:SP_3440,Rupé,17
+2386114,20:33:00,20:33:10,stop_point:SP_409,Cadène,18
+2386114,20:35:00,20:35:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386114,20:36:00,20:36:10,stop_point:SP_1494,Le Grand Marché,20
+2386114,20:38:00,20:38:10,stop_point:SP_97,Pader,21
+2386114,20:39:00,20:39:10,stop_point:SP_2490,La Vache,22
+2386115,20:45:00,20:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386115,20:46:00,20:46:10,stop_point:SP_5212,Jacques Brel,2
+2386115,20:47:00,20:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2386115,20:48:00,20:48:10,stop_point:SP_5214,Trinchet,4
+2386115,20:48:00,20:48:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386115,20:54:00,20:54:10,stop_point:SP_5221,Lacs,6
+2386115,20:55:00,20:55:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386115,20:59:00,20:59:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386115,21:01:00,21:01:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386115,21:02:00,21:02:10,stop_point:SP_2973,Mazurié,10
+2386115,21:03:00,21:03:10,stop_point:SP_3724,St-Gobain,11
+2386115,21:03:00,21:03:10,stop_point:SP_1071,Plaine,12
+2386115,21:04:00,21:04:10,stop_point:SP_2707,Auguste Gratian,13
+2386115,21:05:00,21:05:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386115,21:05:00,21:05:10,stop_point:SP_3560,Marie Curie,15
+2386115,21:06:00,21:06:10,stop_point:SP_2642,Salvador Allende,16
+2386115,21:07:00,21:07:10,stop_point:SP_3440,Rupé,17
+2386115,21:08:00,21:08:10,stop_point:SP_409,Cadène,18
+2386115,21:10:00,21:10:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386115,21:11:00,21:11:10,stop_point:SP_1494,Le Grand Marché,20
+2386115,21:13:00,21:13:10,stop_point:SP_97,Pader,21
+2386115,21:14:00,21:14:10,stop_point:SP_2490,La Vache,22
+2386116,15:45:00,15:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2386116,15:46:00,15:46:10,stop_point:SP_5212,Jacques Brel,2
+2386116,15:47:00,15:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2386116,15:48:00,15:48:10,stop_point:SP_5214,Trinchet,4
+2386116,15:49:00,15:49:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2386116,15:56:00,15:56:10,stop_point:SP_5221,Lacs,6
+2386116,15:57:00,15:57:10,stop_point:SP_3555,Lespinasse Mairie,7
+2386116,16:01:00,16:01:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2386116,16:03:00,16:03:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2386116,16:04:00,16:04:10,stop_point:SP_2973,Mazurié,10
+2386116,16:06:00,16:06:10,stop_point:SP_3724,St-Gobain,11
+2386116,16:07:00,16:07:10,stop_point:SP_1071,Plaine,12
+2386116,16:09:00,16:09:10,stop_point:SP_2707,Auguste Gratian,13
+2386116,16:10:00,16:10:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2386116,16:11:00,16:11:10,stop_point:SP_3560,Marie Curie,15
+2386116,16:12:00,16:12:10,stop_point:SP_2642,Salvador Allende,16
+2386116,16:12:00,16:12:10,stop_point:SP_3440,Rupé,17
+2386116,16:14:00,16:14:10,stop_point:SP_409,Cadène,18
+2386116,16:17:00,16:17:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2386116,16:19:00,16:19:10,stop_point:SP_1494,Le Grand Marché,20
+2386116,16:21:00,16:21:10,stop_point:SP_97,Pader,21
+2386116,16:22:00,16:22:10,stop_point:SP_2490,La Vache,22
+2388148,06:20:00,06:20:10,stop_point:SP_2490,La Vache,1
+2388148,06:21:00,06:21:10,stop_point:SP_2028,Pader,2
+2388148,06:22:00,06:22:10,stop_point:SP_1294,Le Grand Marché,3
+2388148,06:23:00,06:23:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388148,06:24:00,06:24:10,stop_point:SP_2429,Glacière,5
+2388148,06:25:00,06:25:10,stop_point:SP_1698,Cadène,6
+2388148,06:26:00,06:26:10,stop_point:SP_908,Rupé,7
+2388148,06:26:00,06:26:10,stop_point:SP_2946,Salvador Allende,8
+2388148,06:27:00,06:27:10,stop_point:SP_3459,Marie Curie,9
+2388148,06:27:00,06:27:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388148,06:28:00,06:28:10,stop_point:SP_3118,Auguste Gratian,11
+2388148,06:29:00,06:29:10,stop_point:SP_2878,Plaine,12
+2388148,06:30:00,06:30:10,stop_point:SP_2349,St-Gobain,13
+2388148,06:32:00,06:32:10,stop_point:SP_1515,Mazurié,14
+2388148,06:33:00,06:33:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388148,06:35:00,06:35:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388148,06:41:00,06:41:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388148,06:42:00,06:42:10,stop_point:SP_5219,Lacs,18
+2388148,06:47:00,06:47:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388148,06:48:00,06:48:10,stop_point:SP_5213,Trinchet,20
+2388148,06:49:00,06:49:10,stop_point:SP_3664,La Plaine Tucol,21
+2388148,06:49:00,06:49:10,stop_point:SP_5218,Jacques Brel,22
+2388148,06:50:00,06:50:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388149,07:10:00,07:10:10,stop_point:SP_2490,La Vache,1
+2388149,07:11:00,07:11:10,stop_point:SP_2028,Pader,2
+2388149,07:12:00,07:12:10,stop_point:SP_1294,Le Grand Marché,3
+2388149,07:13:00,07:13:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388149,07:14:00,07:14:10,stop_point:SP_2429,Glacière,5
+2388149,07:15:00,07:15:10,stop_point:SP_1698,Cadène,6
+2388149,07:16:00,07:16:10,stop_point:SP_908,Rupé,7
+2388149,07:16:00,07:16:10,stop_point:SP_2946,Salvador Allende,8
+2388149,07:17:00,07:17:10,stop_point:SP_3459,Marie Curie,9
+2388149,07:17:00,07:17:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388149,07:18:00,07:18:10,stop_point:SP_3118,Auguste Gratian,11
+2388149,07:19:00,07:19:10,stop_point:SP_2878,Plaine,12
+2388149,07:20:00,07:20:10,stop_point:SP_2349,St-Gobain,13
+2388149,07:22:00,07:22:10,stop_point:SP_1515,Mazurié,14
+2388149,07:23:00,07:23:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388149,07:25:00,07:25:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388149,07:31:00,07:31:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388149,07:32:00,07:32:10,stop_point:SP_5219,Lacs,18
+2388149,07:37:00,07:37:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388149,07:38:00,07:38:10,stop_point:SP_5213,Trinchet,20
+2388149,07:39:00,07:39:10,stop_point:SP_3664,La Plaine Tucol,21
+2388149,07:39:00,07:39:10,stop_point:SP_5218,Jacques Brel,22
+2388149,07:40:00,07:40:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388150,07:55:00,07:55:10,stop_point:SP_2490,La Vache,1
+2388150,07:56:00,07:56:10,stop_point:SP_2028,Pader,2
+2388150,07:57:00,07:57:10,stop_point:SP_1294,Le Grand Marché,3
+2388150,07:58:00,07:58:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388150,07:59:00,07:59:10,stop_point:SP_2429,Glacière,5
+2388150,08:01:00,08:01:10,stop_point:SP_1698,Cadène,6
+2388150,08:01:00,08:01:10,stop_point:SP_908,Rupé,7
+2388150,08:02:00,08:02:10,stop_point:SP_2946,Salvador Allende,8
+2388150,08:03:00,08:03:10,stop_point:SP_3459,Marie Curie,9
+2388150,08:03:00,08:03:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388150,08:04:00,08:04:10,stop_point:SP_3118,Auguste Gratian,11
+2388150,08:05:00,08:05:10,stop_point:SP_2878,Plaine,12
+2388150,08:06:00,08:06:10,stop_point:SP_2349,St-Gobain,13
+2388150,08:08:00,08:08:10,stop_point:SP_1515,Mazurié,14
+2388150,08:09:00,08:09:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388150,08:11:00,08:11:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388150,08:17:00,08:17:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388150,08:18:00,08:18:10,stop_point:SP_5219,Lacs,18
+2388150,08:23:00,08:23:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388150,08:24:00,08:24:10,stop_point:SP_5213,Trinchet,20
+2388150,08:25:00,08:25:10,stop_point:SP_3664,La Plaine Tucol,21
+2388150,08:25:00,08:25:10,stop_point:SP_5218,Jacques Brel,22
+2388150,08:26:00,08:26:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388151,08:40:00,08:40:10,stop_point:SP_2490,La Vache,1
+2388151,08:41:00,08:41:10,stop_point:SP_2028,Pader,2
+2388151,08:42:00,08:42:10,stop_point:SP_1294,Le Grand Marché,3
+2388151,08:43:00,08:43:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388151,08:44:00,08:44:10,stop_point:SP_2429,Glacière,5
+2388151,08:46:00,08:46:10,stop_point:SP_1698,Cadène,6
+2388151,08:46:00,08:46:10,stop_point:SP_908,Rupé,7
+2388151,08:47:00,08:47:10,stop_point:SP_2946,Salvador Allende,8
+2388151,08:48:00,08:48:10,stop_point:SP_3459,Marie Curie,9
+2388151,08:48:00,08:48:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388151,08:49:00,08:49:10,stop_point:SP_3118,Auguste Gratian,11
+2388151,08:51:00,08:51:10,stop_point:SP_2878,Plaine,12
+2388151,08:52:00,08:52:10,stop_point:SP_2349,St-Gobain,13
+2388151,08:53:00,08:53:10,stop_point:SP_1515,Mazurié,14
+2388151,08:55:00,08:55:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388151,08:57:00,08:57:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388151,09:03:00,09:03:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388151,09:04:00,09:04:10,stop_point:SP_5219,Lacs,18
+2388151,09:09:00,09:09:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388151,09:10:00,09:10:10,stop_point:SP_5213,Trinchet,20
+2388151,09:11:00,09:11:10,stop_point:SP_3664,La Plaine Tucol,21
+2388151,09:11:00,09:11:10,stop_point:SP_5218,Jacques Brel,22
+2388151,09:12:00,09:12:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388152,09:25:00,09:25:10,stop_point:SP_2490,La Vache,1
+2388152,09:26:00,09:26:10,stop_point:SP_2028,Pader,2
+2388152,09:27:00,09:27:10,stop_point:SP_1294,Le Grand Marché,3
+2388152,09:28:00,09:28:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388152,09:29:00,09:29:10,stop_point:SP_2429,Glacière,5
+2388152,09:31:00,09:31:10,stop_point:SP_1698,Cadène,6
+2388152,09:31:00,09:31:10,stop_point:SP_908,Rupé,7
+2388152,09:32:00,09:32:10,stop_point:SP_2946,Salvador Allende,8
+2388152,09:33:00,09:33:10,stop_point:SP_3459,Marie Curie,9
+2388152,09:33:00,09:33:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388152,09:34:00,09:34:10,stop_point:SP_3118,Auguste Gratian,11
+2388152,09:36:00,09:36:10,stop_point:SP_2878,Plaine,12
+2388152,09:37:00,09:37:10,stop_point:SP_2349,St-Gobain,13
+2388152,09:38:00,09:38:10,stop_point:SP_1515,Mazurié,14
+2388152,09:40:00,09:40:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388152,09:42:00,09:42:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388152,09:48:00,09:48:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388152,09:49:00,09:49:10,stop_point:SP_5219,Lacs,18
+2388152,09:54:00,09:54:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388152,09:55:00,09:55:10,stop_point:SP_5213,Trinchet,20
+2388152,09:56:00,09:56:10,stop_point:SP_3664,La Plaine Tucol,21
+2388152,09:56:00,09:56:10,stop_point:SP_5218,Jacques Brel,22
+2388152,09:57:00,09:57:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388153,10:10:00,10:10:10,stop_point:SP_2490,La Vache,1
+2388153,10:11:00,10:11:10,stop_point:SP_2028,Pader,2
+2388153,10:12:00,10:12:10,stop_point:SP_1294,Le Grand Marché,3
+2388153,10:13:00,10:13:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388153,10:14:00,10:14:10,stop_point:SP_2429,Glacière,5
+2388153,10:16:00,10:16:10,stop_point:SP_1698,Cadène,6
+2388153,10:17:00,10:17:10,stop_point:SP_908,Rupé,7
+2388153,10:18:00,10:18:10,stop_point:SP_2946,Salvador Allende,8
+2388153,10:18:00,10:18:10,stop_point:SP_3459,Marie Curie,9
+2388153,10:19:00,10:19:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388153,10:20:00,10:20:10,stop_point:SP_3118,Auguste Gratian,11
+2388153,10:22:00,10:22:10,stop_point:SP_2878,Plaine,12
+2388153,10:23:00,10:23:10,stop_point:SP_2349,St-Gobain,13
+2388153,10:24:00,10:24:10,stop_point:SP_1515,Mazurié,14
+2388153,10:26:00,10:26:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388153,10:28:00,10:28:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388153,10:34:00,10:34:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388153,10:35:00,10:35:10,stop_point:SP_5219,Lacs,18
+2388153,10:41:00,10:41:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388153,10:42:00,10:42:10,stop_point:SP_5213,Trinchet,20
+2388153,10:43:00,10:43:10,stop_point:SP_3664,La Plaine Tucol,21
+2388153,10:43:00,10:43:10,stop_point:SP_5218,Jacques Brel,22
+2388153,10:44:00,10:44:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388154,10:59:00,10:59:10,stop_point:SP_2490,La Vache,1
+2388154,11:00:00,11:00:10,stop_point:SP_2028,Pader,2
+2388154,11:01:00,11:01:10,stop_point:SP_1294,Le Grand Marché,3
+2388154,11:02:00,11:02:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388154,11:03:00,11:03:10,stop_point:SP_2429,Glacière,5
+2388154,11:05:00,11:05:10,stop_point:SP_1698,Cadène,6
+2388154,11:06:00,11:06:10,stop_point:SP_908,Rupé,7
+2388154,11:07:00,11:07:10,stop_point:SP_2946,Salvador Allende,8
+2388154,11:07:00,11:07:10,stop_point:SP_3459,Marie Curie,9
+2388154,11:08:00,11:08:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388154,11:09:00,11:09:10,stop_point:SP_3118,Auguste Gratian,11
+2388154,11:11:00,11:11:10,stop_point:SP_2878,Plaine,12
+2388154,11:12:00,11:12:10,stop_point:SP_2349,St-Gobain,13
+2388154,11:13:00,11:13:10,stop_point:SP_1515,Mazurié,14
+2388154,11:15:00,11:15:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388154,11:17:00,11:17:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388154,11:23:00,11:23:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388154,11:24:00,11:24:10,stop_point:SP_5219,Lacs,18
+2388154,11:30:00,11:30:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388154,11:31:00,11:31:10,stop_point:SP_5213,Trinchet,20
+2388154,11:32:00,11:32:10,stop_point:SP_3664,La Plaine Tucol,21
+2388154,11:32:00,11:32:10,stop_point:SP_5218,Jacques Brel,22
+2388154,11:33:00,11:33:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388155,11:54:00,11:54:10,stop_point:SP_2490,La Vache,1
+2388155,11:55:00,11:55:10,stop_point:SP_2028,Pader,2
+2388155,11:56:00,11:56:10,stop_point:SP_1294,Le Grand Marché,3
+2388155,11:57:00,11:57:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388155,11:58:00,11:58:10,stop_point:SP_2429,Glacière,5
+2388155,12:00:00,12:00:10,stop_point:SP_1698,Cadène,6
+2388155,12:01:00,12:01:10,stop_point:SP_908,Rupé,7
+2388155,12:02:00,12:02:10,stop_point:SP_2946,Salvador Allende,8
+2388155,12:02:00,12:02:10,stop_point:SP_3459,Marie Curie,9
+2388155,12:03:00,12:03:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388155,12:04:00,12:04:10,stop_point:SP_3118,Auguste Gratian,11
+2388155,12:06:00,12:06:10,stop_point:SP_2878,Plaine,12
+2388155,12:07:00,12:07:10,stop_point:SP_2349,St-Gobain,13
+2388155,12:08:00,12:08:10,stop_point:SP_1515,Mazurié,14
+2388155,12:10:00,12:10:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388155,12:12:00,12:12:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388155,12:18:00,12:18:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388155,12:19:00,12:19:10,stop_point:SP_5219,Lacs,18
+2388155,12:25:00,12:25:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388155,12:26:00,12:26:10,stop_point:SP_5213,Trinchet,20
+2388155,12:27:00,12:27:10,stop_point:SP_3664,La Plaine Tucol,21
+2388155,12:27:00,12:27:10,stop_point:SP_5218,Jacques Brel,22
+2388155,12:28:00,12:28:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388156,12:44:00,12:44:10,stop_point:SP_2490,La Vache,1
+2388156,12:45:00,12:45:10,stop_point:SP_2028,Pader,2
+2388156,12:46:00,12:46:10,stop_point:SP_1294,Le Grand Marché,3
+2388156,12:47:00,12:47:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388156,12:48:00,12:48:10,stop_point:SP_2429,Glacière,5
+2388156,12:50:00,12:50:10,stop_point:SP_1698,Cadène,6
+2388156,12:51:00,12:51:10,stop_point:SP_908,Rupé,7
+2388156,12:52:00,12:52:10,stop_point:SP_2946,Salvador Allende,8
+2388156,12:52:00,12:52:10,stop_point:SP_3459,Marie Curie,9
+2388156,12:53:00,12:53:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388156,12:54:00,12:54:10,stop_point:SP_3118,Auguste Gratian,11
+2388156,12:56:00,12:56:10,stop_point:SP_2878,Plaine,12
+2388156,12:57:00,12:57:10,stop_point:SP_2349,St-Gobain,13
+2388156,12:58:00,12:58:10,stop_point:SP_1515,Mazurié,14
+2388156,13:00:00,13:00:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388156,13:02:00,13:02:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388156,13:08:00,13:08:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388156,13:09:00,13:09:10,stop_point:SP_5219,Lacs,18
+2388156,13:15:00,13:15:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388156,13:16:00,13:16:10,stop_point:SP_5213,Trinchet,20
+2388156,13:17:00,13:17:10,stop_point:SP_3664,La Plaine Tucol,21
+2388156,13:17:00,13:17:10,stop_point:SP_5218,Jacques Brel,22
+2388156,13:18:00,13:18:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388157,13:34:00,13:34:10,stop_point:SP_2490,La Vache,1
+2388157,13:35:00,13:35:10,stop_point:SP_2028,Pader,2
+2388157,13:36:00,13:36:10,stop_point:SP_1294,Le Grand Marché,3
+2388157,13:37:00,13:37:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388157,13:38:00,13:38:10,stop_point:SP_2429,Glacière,5
+2388157,13:40:00,13:40:10,stop_point:SP_1698,Cadène,6
+2388157,13:41:00,13:41:10,stop_point:SP_908,Rupé,7
+2388157,13:42:00,13:42:10,stop_point:SP_2946,Salvador Allende,8
+2388157,13:42:00,13:42:10,stop_point:SP_3459,Marie Curie,9
+2388157,13:43:00,13:43:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388157,13:44:00,13:44:10,stop_point:SP_3118,Auguste Gratian,11
+2388157,13:46:00,13:46:10,stop_point:SP_2878,Plaine,12
+2388157,13:47:00,13:47:10,stop_point:SP_2349,St-Gobain,13
+2388157,13:48:00,13:48:10,stop_point:SP_1515,Mazurié,14
+2388157,13:50:00,13:50:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388157,13:52:00,13:52:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388157,13:58:00,13:58:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388157,13:59:00,13:59:10,stop_point:SP_5219,Lacs,18
+2388157,14:05:00,14:05:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388157,14:06:00,14:06:10,stop_point:SP_5213,Trinchet,20
+2388157,14:07:00,14:07:10,stop_point:SP_3664,La Plaine Tucol,21
+2388157,14:07:00,14:07:10,stop_point:SP_5218,Jacques Brel,22
+2388157,14:08:00,14:08:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388158,14:23:00,14:23:10,stop_point:SP_2490,La Vache,1
+2388158,14:24:00,14:24:10,stop_point:SP_2028,Pader,2
+2388158,14:25:00,14:25:10,stop_point:SP_1294,Le Grand Marché,3
+2388158,14:26:00,14:26:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388158,14:27:00,14:27:10,stop_point:SP_2429,Glacière,5
+2388158,14:29:00,14:29:10,stop_point:SP_1698,Cadène,6
+2388158,14:30:00,14:30:10,stop_point:SP_908,Rupé,7
+2388158,14:31:00,14:31:10,stop_point:SP_2946,Salvador Allende,8
+2388158,14:31:00,14:31:10,stop_point:SP_3459,Marie Curie,9
+2388158,14:32:00,14:32:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388158,14:33:00,14:33:10,stop_point:SP_3118,Auguste Gratian,11
+2388158,14:35:00,14:35:10,stop_point:SP_2878,Plaine,12
+2388158,14:36:00,14:36:10,stop_point:SP_2349,St-Gobain,13
+2388158,14:37:00,14:37:10,stop_point:SP_1515,Mazurié,14
+2388158,14:39:00,14:39:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388158,14:41:00,14:41:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388158,14:47:00,14:47:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388158,14:48:00,14:48:10,stop_point:SP_5219,Lacs,18
+2388158,14:54:00,14:54:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388158,14:55:00,14:55:10,stop_point:SP_5213,Trinchet,20
+2388158,14:56:00,14:56:10,stop_point:SP_3664,La Plaine Tucol,21
+2388158,14:56:00,14:56:10,stop_point:SP_5218,Jacques Brel,22
+2388158,14:57:00,14:57:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388159,15:12:00,15:12:10,stop_point:SP_2490,La Vache,1
+2388159,15:13:00,15:13:10,stop_point:SP_2028,Pader,2
+2388159,15:14:00,15:14:10,stop_point:SP_1294,Le Grand Marché,3
+2388159,15:15:00,15:15:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388159,15:16:00,15:16:10,stop_point:SP_2429,Glacière,5
+2388159,15:19:00,15:19:10,stop_point:SP_1698,Cadène,6
+2388159,15:20:00,15:20:10,stop_point:SP_908,Rupé,7
+2388159,15:20:00,15:20:10,stop_point:SP_2946,Salvador Allende,8
+2388159,15:21:00,15:21:10,stop_point:SP_3459,Marie Curie,9
+2388159,15:22:00,15:22:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388159,15:23:00,15:23:10,stop_point:SP_3118,Auguste Gratian,11
+2388159,15:25:00,15:25:10,stop_point:SP_2878,Plaine,12
+2388159,15:26:00,15:26:10,stop_point:SP_2349,St-Gobain,13
+2388159,15:28:00,15:28:10,stop_point:SP_1515,Mazurié,14
+2388159,15:30:00,15:30:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388159,15:32:00,15:32:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388159,15:38:00,15:38:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388159,15:39:00,15:39:10,stop_point:SP_5219,Lacs,18
+2388159,15:45:00,15:45:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388159,15:46:00,15:46:10,stop_point:SP_5213,Trinchet,20
+2388159,15:47:00,15:47:10,stop_point:SP_3664,La Plaine Tucol,21
+2388159,15:47:00,15:47:10,stop_point:SP_5218,Jacques Brel,22
+2388159,15:48:00,15:48:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388160,16:00:00,16:00:10,stop_point:SP_2490,La Vache,1
+2388160,16:01:00,16:01:10,stop_point:SP_2028,Pader,2
+2388160,16:02:00,16:02:10,stop_point:SP_1294,Le Grand Marché,3
+2388160,16:03:00,16:03:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388160,16:04:00,16:04:10,stop_point:SP_2429,Glacière,5
+2388160,16:07:00,16:07:10,stop_point:SP_1698,Cadène,6
+2388160,16:08:00,16:08:10,stop_point:SP_908,Rupé,7
+2388160,16:08:00,16:08:10,stop_point:SP_2946,Salvador Allende,8
+2388160,16:09:00,16:09:10,stop_point:SP_3459,Marie Curie,9
+2388160,16:10:00,16:10:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388160,16:11:00,16:11:10,stop_point:SP_3118,Auguste Gratian,11
+2388160,16:13:00,16:13:10,stop_point:SP_2878,Plaine,12
+2388160,16:14:00,16:14:10,stop_point:SP_2349,St-Gobain,13
+2388160,16:16:00,16:16:10,stop_point:SP_1515,Mazurié,14
+2388160,16:18:00,16:18:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388160,16:20:00,16:20:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388160,16:26:00,16:26:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388160,16:27:00,16:27:10,stop_point:SP_5219,Lacs,18
+2388160,16:33:00,16:33:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388160,16:34:00,16:34:10,stop_point:SP_5213,Trinchet,20
+2388160,16:35:00,16:35:10,stop_point:SP_3664,La Plaine Tucol,21
+2388160,16:35:00,16:35:10,stop_point:SP_5218,Jacques Brel,22
+2388160,16:36:00,16:36:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388161,16:48:00,16:48:10,stop_point:SP_2490,La Vache,1
+2388161,16:49:00,16:49:10,stop_point:SP_2028,Pader,2
+2388161,16:50:00,16:50:10,stop_point:SP_1294,Le Grand Marché,3
+2388161,16:51:00,16:51:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388161,16:52:00,16:52:10,stop_point:SP_2429,Glacière,5
+2388161,16:55:00,16:55:10,stop_point:SP_1698,Cadène,6
+2388161,16:56:00,16:56:10,stop_point:SP_908,Rupé,7
+2388161,16:57:00,16:57:10,stop_point:SP_2946,Salvador Allende,8
+2388161,16:58:00,16:58:10,stop_point:SP_3459,Marie Curie,9
+2388161,16:59:00,16:59:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388161,17:00:00,17:00:10,stop_point:SP_3118,Auguste Gratian,11
+2388161,17:02:00,17:02:10,stop_point:SP_2878,Plaine,12
+2388161,17:03:00,17:03:10,stop_point:SP_2349,St-Gobain,13
+2388161,17:05:00,17:05:10,stop_point:SP_1515,Mazurié,14
+2388161,17:07:00,17:07:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388161,17:09:00,17:09:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388161,17:15:00,17:15:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388161,17:16:00,17:16:10,stop_point:SP_5219,Lacs,18
+2388161,17:22:00,17:22:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388161,17:23:00,17:23:10,stop_point:SP_5213,Trinchet,20
+2388161,17:24:00,17:24:10,stop_point:SP_3664,La Plaine Tucol,21
+2388161,17:24:00,17:24:10,stop_point:SP_5218,Jacques Brel,22
+2388161,17:25:00,17:25:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388162,17:36:00,17:36:10,stop_point:SP_2490,La Vache,1
+2388162,17:37:00,17:37:10,stop_point:SP_2028,Pader,2
+2388162,17:38:00,17:38:10,stop_point:SP_1294,Le Grand Marché,3
+2388162,17:39:00,17:39:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388162,17:40:00,17:40:10,stop_point:SP_2429,Glacière,5
+2388162,17:43:00,17:43:10,stop_point:SP_1698,Cadène,6
+2388162,17:44:00,17:44:10,stop_point:SP_908,Rupé,7
+2388162,17:45:00,17:45:10,stop_point:SP_2946,Salvador Allende,8
+2388162,17:46:00,17:46:10,stop_point:SP_3459,Marie Curie,9
+2388162,17:47:00,17:47:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388162,17:48:00,17:48:10,stop_point:SP_3118,Auguste Gratian,11
+2388162,17:50:00,17:50:10,stop_point:SP_2878,Plaine,12
+2388162,17:51:00,17:51:10,stop_point:SP_2349,St-Gobain,13
+2388162,17:53:00,17:53:10,stop_point:SP_1515,Mazurié,14
+2388162,17:55:00,17:55:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388162,17:57:00,17:57:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388162,18:03:00,18:03:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388162,18:04:00,18:04:10,stop_point:SP_5219,Lacs,18
+2388162,18:10:00,18:10:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388162,18:11:00,18:11:10,stop_point:SP_5213,Trinchet,20
+2388162,18:12:00,18:12:10,stop_point:SP_3664,La Plaine Tucol,21
+2388162,18:12:00,18:12:10,stop_point:SP_5218,Jacques Brel,22
+2388162,18:13:00,18:13:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388163,20:00:00,20:00:10,stop_point:SP_2490,La Vache,1
+2388163,20:01:00,20:01:10,stop_point:SP_2028,Pader,2
+2388163,20:02:00,20:02:10,stop_point:SP_1294,Le Grand Marché,3
+2388163,20:03:00,20:03:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388163,20:04:00,20:04:10,stop_point:SP_2429,Glacière,5
+2388163,20:06:00,20:06:10,stop_point:SP_1698,Cadène,6
+2388163,20:07:00,20:07:10,stop_point:SP_908,Rupé,7
+2388163,20:08:00,20:08:10,stop_point:SP_2946,Salvador Allende,8
+2388163,20:08:00,20:08:10,stop_point:SP_3459,Marie Curie,9
+2388163,20:09:00,20:09:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388163,20:10:00,20:10:10,stop_point:SP_3118,Auguste Gratian,11
+2388163,20:11:00,20:11:10,stop_point:SP_2878,Plaine,12
+2388163,20:12:00,20:12:10,stop_point:SP_2349,St-Gobain,13
+2388163,20:14:00,20:14:10,stop_point:SP_1515,Mazurié,14
+2388163,20:15:00,20:15:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388163,20:17:00,20:17:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388163,20:23:00,20:23:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388163,20:24:00,20:24:10,stop_point:SP_5219,Lacs,18
+2388163,20:30:00,20:30:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388163,20:31:00,20:31:10,stop_point:SP_5213,Trinchet,20
+2388163,20:32:00,20:32:10,stop_point:SP_3664,La Plaine Tucol,21
+2388163,20:32:00,20:32:10,stop_point:SP_5218,Jacques Brel,22
+2388163,20:33:00,20:33:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388164,18:24:00,18:24:10,stop_point:SP_2490,La Vache,1
+2388164,18:25:00,18:25:10,stop_point:SP_2028,Pader,2
+2388164,18:26:00,18:26:10,stop_point:SP_1294,Le Grand Marché,3
+2388164,18:27:00,18:27:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388164,18:28:00,18:28:10,stop_point:SP_2429,Glacière,5
+2388164,18:30:00,18:30:10,stop_point:SP_1698,Cadène,6
+2388164,18:31:00,18:31:10,stop_point:SP_908,Rupé,7
+2388164,18:32:00,18:32:10,stop_point:SP_2946,Salvador Allende,8
+2388164,18:32:00,18:32:10,stop_point:SP_3459,Marie Curie,9
+2388164,18:33:00,18:33:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388164,18:34:00,18:34:10,stop_point:SP_3118,Auguste Gratian,11
+2388164,18:36:00,18:36:10,stop_point:SP_2878,Plaine,12
+2388164,18:37:00,18:37:10,stop_point:SP_2349,St-Gobain,13
+2388164,18:38:00,18:38:10,stop_point:SP_1515,Mazurié,14
+2388164,18:40:00,18:40:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388164,18:42:00,18:42:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388164,18:48:00,18:48:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388164,18:49:00,18:49:10,stop_point:SP_5219,Lacs,18
+2388164,18:55:00,18:55:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388164,18:56:00,18:56:10,stop_point:SP_5213,Trinchet,20
+2388164,18:57:00,18:57:10,stop_point:SP_3664,La Plaine Tucol,21
+2388164,18:57:00,18:57:10,stop_point:SP_5218,Jacques Brel,22
+2388164,18:58:00,18:58:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388165,19:12:00,19:12:10,stop_point:SP_2490,La Vache,1
+2388165,19:13:00,19:13:10,stop_point:SP_2028,Pader,2
+2388165,19:14:00,19:14:10,stop_point:SP_1294,Le Grand Marché,3
+2388165,19:15:00,19:15:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388165,19:16:00,19:16:10,stop_point:SP_2429,Glacière,5
+2388165,19:18:00,19:18:10,stop_point:SP_1698,Cadène,6
+2388165,19:19:00,19:19:10,stop_point:SP_908,Rupé,7
+2388165,19:20:00,19:20:10,stop_point:SP_2946,Salvador Allende,8
+2388165,19:20:00,19:20:10,stop_point:SP_3459,Marie Curie,9
+2388165,19:21:00,19:21:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388165,19:22:00,19:22:10,stop_point:SP_3118,Auguste Gratian,11
+2388165,19:24:00,19:24:10,stop_point:SP_2878,Plaine,12
+2388165,19:25:00,19:25:10,stop_point:SP_2349,St-Gobain,13
+2388165,19:26:00,19:26:10,stop_point:SP_1515,Mazurié,14
+2388165,19:28:00,19:28:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388165,19:30:00,19:30:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388165,19:36:00,19:36:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388165,19:37:00,19:37:10,stop_point:SP_5219,Lacs,18
+2388165,19:43:00,19:43:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388165,19:44:00,19:44:10,stop_point:SP_5213,Trinchet,20
+2388165,19:45:00,19:45:10,stop_point:SP_3664,La Plaine Tucol,21
+2388165,19:45:00,19:45:10,stop_point:SP_5218,Jacques Brel,22
+2388165,19:46:00,19:46:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388166,20:45:00,20:45:10,stop_point:SP_2490,La Vache,1
+2388166,20:46:00,20:46:10,stop_point:SP_2028,Pader,2
+2388166,20:47:00,20:47:10,stop_point:SP_1294,Le Grand Marché,3
+2388166,20:48:00,20:48:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388166,20:49:00,20:49:10,stop_point:SP_2429,Glacière,5
+2388166,20:51:00,20:51:10,stop_point:SP_1698,Cadène,6
+2388166,20:52:00,20:52:10,stop_point:SP_908,Rupé,7
+2388166,20:53:00,20:53:10,stop_point:SP_2946,Salvador Allende,8
+2388166,20:53:00,20:53:10,stop_point:SP_3459,Marie Curie,9
+2388166,20:54:00,20:54:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388166,20:55:00,20:55:10,stop_point:SP_3118,Auguste Gratian,11
+2388166,20:56:00,20:56:10,stop_point:SP_2878,Plaine,12
+2388166,20:57:00,20:57:10,stop_point:SP_2349,St-Gobain,13
+2388166,20:59:00,20:59:10,stop_point:SP_1515,Mazurié,14
+2388166,21:00:00,21:00:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388166,21:02:00,21:02:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388166,21:08:00,21:08:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388166,21:09:00,21:09:10,stop_point:SP_5219,Lacs,18
+2388166,21:15:00,21:15:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388166,21:16:00,21:16:10,stop_point:SP_5213,Trinchet,20
+2388166,21:17:00,21:17:10,stop_point:SP_3664,La Plaine Tucol,21
+2388166,21:17:00,21:17:10,stop_point:SP_5218,Jacques Brel,22
+2388166,21:18:00,21:18:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388167,07:10:00,07:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388167,07:11:00,07:11:10,stop_point:SP_5212,Jacques Brel,2
+2388167,07:12:00,07:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2388167,07:13:00,07:13:10,stop_point:SP_5214,Trinchet,4
+2388167,07:13:00,07:13:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388167,07:19:00,07:19:10,stop_point:SP_5221,Lacs,6
+2388167,07:20:00,07:20:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388167,07:24:00,07:24:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388167,07:26:00,07:26:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388167,07:27:00,07:27:10,stop_point:SP_2973,Mazurié,10
+2388167,07:28:00,07:28:10,stop_point:SP_3724,St-Gobain,11
+2388167,07:28:00,07:28:10,stop_point:SP_1071,Plaine,12
+2388167,07:29:00,07:29:10,stop_point:SP_2707,Auguste Gratian,13
+2388167,07:30:00,07:30:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388167,07:30:00,07:30:10,stop_point:SP_3560,Marie Curie,15
+2388167,07:31:00,07:31:10,stop_point:SP_2642,Salvador Allende,16
+2388167,07:31:00,07:31:10,stop_point:SP_3440,Rupé,17
+2388167,07:32:00,07:32:10,stop_point:SP_409,Cadène,18
+2388167,07:34:00,07:34:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388167,07:35:00,07:35:10,stop_point:SP_1494,Le Grand Marché,20
+2388167,07:36:00,07:36:10,stop_point:SP_97,Pader,21
+2388167,07:37:00,07:37:10,stop_point:SP_2490,La Vache,22
+2388168,07:55:00,07:55:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388168,07:56:00,07:56:10,stop_point:SP_5212,Jacques Brel,2
+2388168,07:57:00,07:57:10,stop_point:SP_2337,La Plaine Tucol,3
+2388168,07:58:00,07:58:10,stop_point:SP_5214,Trinchet,4
+2388168,07:58:00,07:58:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388168,08:04:00,08:04:10,stop_point:SP_5221,Lacs,6
+2388168,08:05:00,08:05:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388168,08:09:00,08:09:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388168,08:11:00,08:11:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388168,08:12:00,08:12:10,stop_point:SP_2973,Mazurié,10
+2388168,08:13:00,08:13:10,stop_point:SP_3724,St-Gobain,11
+2388168,08:13:00,08:13:10,stop_point:SP_1071,Plaine,12
+2388168,08:14:00,08:14:10,stop_point:SP_2707,Auguste Gratian,13
+2388168,08:15:00,08:15:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388168,08:15:00,08:15:10,stop_point:SP_3560,Marie Curie,15
+2388168,08:16:00,08:16:10,stop_point:SP_2642,Salvador Allende,16
+2388168,08:16:00,08:16:10,stop_point:SP_3440,Rupé,17
+2388168,08:17:00,08:17:10,stop_point:SP_409,Cadène,18
+2388168,08:19:00,08:19:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388168,08:20:00,08:20:10,stop_point:SP_1494,Le Grand Marché,20
+2388168,08:21:00,08:21:10,stop_point:SP_97,Pader,21
+2388168,08:22:00,08:22:10,stop_point:SP_2490,La Vache,22
+2388169,08:40:00,08:40:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388169,08:41:00,08:41:10,stop_point:SP_5212,Jacques Brel,2
+2388169,08:42:00,08:42:10,stop_point:SP_2337,La Plaine Tucol,3
+2388169,08:43:00,08:43:10,stop_point:SP_5214,Trinchet,4
+2388169,08:44:00,08:44:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388169,08:50:00,08:50:10,stop_point:SP_5221,Lacs,6
+2388169,08:51:00,08:51:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388169,08:55:00,08:55:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388169,08:57:00,08:57:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388169,08:58:00,08:58:10,stop_point:SP_2973,Mazurié,10
+2388169,08:59:00,08:59:10,stop_point:SP_3724,St-Gobain,11
+2388169,09:00:00,09:00:10,stop_point:SP_1071,Plaine,12
+2388169,09:01:00,09:01:10,stop_point:SP_2707,Auguste Gratian,13
+2388169,09:02:00,09:02:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388169,09:02:00,09:02:10,stop_point:SP_3560,Marie Curie,15
+2388169,09:03:00,09:03:10,stop_point:SP_2642,Salvador Allende,16
+2388169,09:03:00,09:03:10,stop_point:SP_3440,Rupé,17
+2388169,09:04:00,09:04:10,stop_point:SP_409,Cadène,18
+2388169,09:06:00,09:06:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388169,09:07:00,09:07:10,stop_point:SP_1494,Le Grand Marché,20
+2388169,09:08:00,09:08:10,stop_point:SP_97,Pader,21
+2388169,09:09:00,09:09:10,stop_point:SP_2490,La Vache,22
+2388170,09:25:00,09:25:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388170,09:26:00,09:26:10,stop_point:SP_5212,Jacques Brel,2
+2388170,09:27:00,09:27:10,stop_point:SP_2337,La Plaine Tucol,3
+2388170,09:28:00,09:28:10,stop_point:SP_5214,Trinchet,4
+2388170,09:29:00,09:29:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388170,09:35:00,09:35:10,stop_point:SP_5221,Lacs,6
+2388170,09:36:00,09:36:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388170,09:40:00,09:40:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388170,09:42:00,09:42:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388170,09:43:00,09:43:10,stop_point:SP_2973,Mazurié,10
+2388170,09:44:00,09:44:10,stop_point:SP_3724,St-Gobain,11
+2388170,09:45:00,09:45:10,stop_point:SP_1071,Plaine,12
+2388170,09:46:00,09:46:10,stop_point:SP_2707,Auguste Gratian,13
+2388170,09:47:00,09:47:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388170,09:47:00,09:47:10,stop_point:SP_3560,Marie Curie,15
+2388170,09:48:00,09:48:10,stop_point:SP_2642,Salvador Allende,16
+2388170,09:49:00,09:49:10,stop_point:SP_3440,Rupé,17
+2388170,09:50:00,09:50:10,stop_point:SP_409,Cadène,18
+2388170,09:52:00,09:52:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388170,09:53:00,09:53:10,stop_point:SP_1494,Le Grand Marché,20
+2388170,09:55:00,09:55:10,stop_point:SP_97,Pader,21
+2388170,09:56:00,09:56:10,stop_point:SP_2490,La Vache,22
+2388171,10:10:00,10:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388171,10:11:00,10:11:10,stop_point:SP_5212,Jacques Brel,2
+2388171,10:12:00,10:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2388171,10:13:00,10:13:10,stop_point:SP_5214,Trinchet,4
+2388171,10:14:00,10:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388171,10:20:00,10:20:10,stop_point:SP_5221,Lacs,6
+2388171,10:21:00,10:21:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388171,10:25:00,10:25:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388171,10:27:00,10:27:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388171,10:28:00,10:28:10,stop_point:SP_2973,Mazurié,10
+2388171,10:29:00,10:29:10,stop_point:SP_3724,St-Gobain,11
+2388171,10:30:00,10:30:10,stop_point:SP_1071,Plaine,12
+2388171,10:31:00,10:31:10,stop_point:SP_2707,Auguste Gratian,13
+2388171,10:32:00,10:32:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388171,10:32:00,10:32:10,stop_point:SP_3560,Marie Curie,15
+2388171,10:33:00,10:33:10,stop_point:SP_2642,Salvador Allende,16
+2388171,10:34:00,10:34:10,stop_point:SP_3440,Rupé,17
+2388171,10:35:00,10:35:10,stop_point:SP_409,Cadène,18
+2388171,10:37:00,10:37:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388171,10:38:00,10:38:10,stop_point:SP_1494,Le Grand Marché,20
+2388171,10:40:00,10:40:10,stop_point:SP_97,Pader,21
+2388171,10:41:00,10:41:10,stop_point:SP_2490,La Vache,22
+2388172,10:57:00,10:57:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388172,10:58:00,10:58:10,stop_point:SP_5212,Jacques Brel,2
+2388172,10:59:00,10:59:10,stop_point:SP_2337,La Plaine Tucol,3
+2388172,11:00:00,11:00:10,stop_point:SP_5214,Trinchet,4
+2388172,11:01:00,11:01:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388172,11:07:00,11:07:10,stop_point:SP_5221,Lacs,6
+2388172,11:08:00,11:08:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388172,11:12:00,11:12:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388172,11:14:00,11:14:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388172,11:15:00,11:15:10,stop_point:SP_2973,Mazurié,10
+2388172,11:16:00,11:16:10,stop_point:SP_3724,St-Gobain,11
+2388172,11:17:00,11:17:10,stop_point:SP_1071,Plaine,12
+2388172,11:18:00,11:18:10,stop_point:SP_2707,Auguste Gratian,13
+2388172,11:19:00,11:19:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388172,11:20:00,11:20:10,stop_point:SP_3560,Marie Curie,15
+2388172,11:21:00,11:21:10,stop_point:SP_2642,Salvador Allende,16
+2388172,11:21:00,11:21:10,stop_point:SP_3440,Rupé,17
+2388172,11:22:00,11:22:10,stop_point:SP_409,Cadène,18
+2388172,11:25:00,11:25:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388172,11:26:00,11:26:10,stop_point:SP_1494,Le Grand Marché,20
+2388172,11:28:00,11:28:10,stop_point:SP_97,Pader,21
+2388172,11:29:00,11:29:10,stop_point:SP_2490,La Vache,22
+2388173,11:47:00,11:47:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388173,11:48:00,11:48:10,stop_point:SP_5212,Jacques Brel,2
+2388173,11:49:00,11:49:10,stop_point:SP_2337,La Plaine Tucol,3
+2388173,11:50:00,11:50:10,stop_point:SP_5214,Trinchet,4
+2388173,11:51:00,11:51:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388173,11:57:00,11:57:10,stop_point:SP_5221,Lacs,6
+2388173,11:58:00,11:58:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388173,12:02:00,12:02:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388173,12:04:00,12:04:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388173,12:05:00,12:05:10,stop_point:SP_2973,Mazurié,10
+2388173,12:06:00,12:06:10,stop_point:SP_3724,St-Gobain,11
+2388173,12:07:00,12:07:10,stop_point:SP_1071,Plaine,12
+2388173,12:08:00,12:08:10,stop_point:SP_2707,Auguste Gratian,13
+2388173,12:09:00,12:09:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388173,12:10:00,12:10:10,stop_point:SP_3560,Marie Curie,15
+2388173,12:11:00,12:11:10,stop_point:SP_2642,Salvador Allende,16
+2388173,12:11:00,12:11:10,stop_point:SP_3440,Rupé,17
+2388173,12:12:00,12:12:10,stop_point:SP_409,Cadène,18
+2388173,12:15:00,12:15:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388173,12:16:00,12:16:10,stop_point:SP_1494,Le Grand Marché,20
+2388173,12:18:00,12:18:10,stop_point:SP_97,Pader,21
+2388173,12:19:00,12:19:10,stop_point:SP_2490,La Vache,22
+2388174,12:40:00,12:40:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388174,12:41:00,12:41:10,stop_point:SP_5212,Jacques Brel,2
+2388174,12:42:00,12:42:10,stop_point:SP_2337,La Plaine Tucol,3
+2388174,12:43:00,12:43:10,stop_point:SP_5214,Trinchet,4
+2388174,12:44:00,12:44:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388174,12:50:00,12:50:10,stop_point:SP_5221,Lacs,6
+2388174,12:51:00,12:51:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388174,12:55:00,12:55:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388174,12:57:00,12:57:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388174,12:58:00,12:58:10,stop_point:SP_2973,Mazurié,10
+2388174,12:59:00,12:59:10,stop_point:SP_3724,St-Gobain,11
+2388174,13:00:00,13:00:10,stop_point:SP_1071,Plaine,12
+2388174,13:01:00,13:01:10,stop_point:SP_2707,Auguste Gratian,13
+2388174,13:02:00,13:02:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388174,13:03:00,13:03:10,stop_point:SP_3560,Marie Curie,15
+2388174,13:04:00,13:04:10,stop_point:SP_2642,Salvador Allende,16
+2388174,13:04:00,13:04:10,stop_point:SP_3440,Rupé,17
+2388174,13:05:00,13:05:10,stop_point:SP_409,Cadène,18
+2388174,13:08:00,13:08:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388174,13:09:00,13:09:10,stop_point:SP_1494,Le Grand Marché,20
+2388174,13:11:00,13:11:10,stop_point:SP_97,Pader,21
+2388174,13:12:00,13:12:10,stop_point:SP_2490,La Vache,22
+2388175,13:30:00,13:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388175,13:31:00,13:31:10,stop_point:SP_5212,Jacques Brel,2
+2388175,13:32:00,13:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2388175,13:33:00,13:33:10,stop_point:SP_5214,Trinchet,4
+2388175,13:34:00,13:34:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388175,13:40:00,13:40:10,stop_point:SP_5221,Lacs,6
+2388175,13:41:00,13:41:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388175,13:45:00,13:45:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388175,13:47:00,13:47:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388175,13:48:00,13:48:10,stop_point:SP_2973,Mazurié,10
+2388175,13:49:00,13:49:10,stop_point:SP_3724,St-Gobain,11
+2388175,13:50:00,13:50:10,stop_point:SP_1071,Plaine,12
+2388175,13:51:00,13:51:10,stop_point:SP_2707,Auguste Gratian,13
+2388175,13:52:00,13:52:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388175,13:53:00,13:53:10,stop_point:SP_3560,Marie Curie,15
+2388175,13:54:00,13:54:10,stop_point:SP_2642,Salvador Allende,16
+2388175,13:54:00,13:54:10,stop_point:SP_3440,Rupé,17
+2388175,13:55:00,13:55:10,stop_point:SP_409,Cadène,18
+2388175,13:58:00,13:58:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388175,13:59:00,13:59:10,stop_point:SP_1494,Le Grand Marché,20
+2388175,14:01:00,14:01:10,stop_point:SP_97,Pader,21
+2388175,14:02:00,14:02:10,stop_point:SP_2490,La Vache,22
+2388176,14:20:00,14:20:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388176,14:21:00,14:21:10,stop_point:SP_5212,Jacques Brel,2
+2388176,14:22:00,14:22:10,stop_point:SP_2337,La Plaine Tucol,3
+2388176,14:23:00,14:23:10,stop_point:SP_5214,Trinchet,4
+2388176,14:24:00,14:24:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388176,14:30:00,14:30:10,stop_point:SP_5221,Lacs,6
+2388176,14:31:00,14:31:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388176,14:35:00,14:35:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388176,14:37:00,14:37:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388176,14:38:00,14:38:10,stop_point:SP_2973,Mazurié,10
+2388176,14:40:00,14:40:10,stop_point:SP_3724,St-Gobain,11
+2388176,14:41:00,14:41:10,stop_point:SP_1071,Plaine,12
+2388176,14:42:00,14:42:10,stop_point:SP_2707,Auguste Gratian,13
+2388176,14:43:00,14:43:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388176,14:44:00,14:44:10,stop_point:SP_3560,Marie Curie,15
+2388176,14:45:00,14:45:10,stop_point:SP_2642,Salvador Allende,16
+2388176,14:45:00,14:45:10,stop_point:SP_3440,Rupé,17
+2388176,14:46:00,14:46:10,stop_point:SP_409,Cadène,18
+2388176,14:49:00,14:49:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388176,14:50:00,14:50:10,stop_point:SP_1494,Le Grand Marché,20
+2388176,14:52:00,14:52:10,stop_point:SP_97,Pader,21
+2388176,14:53:00,14:53:10,stop_point:SP_2490,La Vache,22
+2388177,15:10:00,15:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388177,15:11:00,15:11:10,stop_point:SP_5212,Jacques Brel,2
+2388177,15:12:00,15:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2388177,15:13:00,15:13:10,stop_point:SP_5214,Trinchet,4
+2388177,15:14:00,15:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388177,15:20:00,15:20:10,stop_point:SP_5221,Lacs,6
+2388177,15:21:00,15:21:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388177,15:25:00,15:25:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388177,15:27:00,15:27:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388177,15:28:00,15:28:10,stop_point:SP_2973,Mazurié,10
+2388177,15:30:00,15:30:10,stop_point:SP_3724,St-Gobain,11
+2388177,15:31:00,15:31:10,stop_point:SP_1071,Plaine,12
+2388177,15:32:00,15:32:10,stop_point:SP_2707,Auguste Gratian,13
+2388177,15:33:00,15:33:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388177,15:34:00,15:34:10,stop_point:SP_3560,Marie Curie,15
+2388177,15:35:00,15:35:10,stop_point:SP_2642,Salvador Allende,16
+2388177,15:35:00,15:35:10,stop_point:SP_3440,Rupé,17
+2388177,15:36:00,15:36:10,stop_point:SP_409,Cadène,18
+2388177,15:39:00,15:39:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388177,15:40:00,15:40:10,stop_point:SP_1494,Le Grand Marché,20
+2388177,15:42:00,15:42:10,stop_point:SP_97,Pader,21
+2388177,15:43:00,15:43:10,stop_point:SP_2490,La Vache,22
+2388178,16:00:00,16:00:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388178,16:01:00,16:01:10,stop_point:SP_5212,Jacques Brel,2
+2388178,16:02:00,16:02:10,stop_point:SP_2337,La Plaine Tucol,3
+2388178,16:03:00,16:03:10,stop_point:SP_5214,Trinchet,4
+2388178,16:04:00,16:04:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388178,16:10:00,16:10:10,stop_point:SP_5221,Lacs,6
+2388178,16:11:00,16:11:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388178,16:15:00,16:15:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388178,16:17:00,16:17:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388178,16:18:00,16:18:10,stop_point:SP_2973,Mazurié,10
+2388178,16:20:00,16:20:10,stop_point:SP_3724,St-Gobain,11
+2388178,16:21:00,16:21:10,stop_point:SP_1071,Plaine,12
+2388178,16:22:00,16:22:10,stop_point:SP_2707,Auguste Gratian,13
+2388178,16:23:00,16:23:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388178,16:24:00,16:24:10,stop_point:SP_3560,Marie Curie,15
+2388178,16:25:00,16:25:10,stop_point:SP_2642,Salvador Allende,16
+2388178,16:25:00,16:25:10,stop_point:SP_3440,Rupé,17
+2388178,16:26:00,16:26:10,stop_point:SP_409,Cadène,18
+2388178,16:29:00,16:29:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388178,16:30:00,16:30:10,stop_point:SP_1494,Le Grand Marché,20
+2388178,16:32:00,16:32:10,stop_point:SP_97,Pader,21
+2388178,16:33:00,16:33:10,stop_point:SP_2490,La Vache,22
+2388179,19:11:00,19:11:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388179,19:12:00,19:12:10,stop_point:SP_5212,Jacques Brel,2
+2388179,19:13:00,19:13:10,stop_point:SP_2337,La Plaine Tucol,3
+2388179,19:14:00,19:14:10,stop_point:SP_5214,Trinchet,4
+2388179,19:15:00,19:15:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388179,19:21:00,19:21:10,stop_point:SP_5221,Lacs,6
+2388179,19:22:00,19:22:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388179,19:26:00,19:26:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388179,19:28:00,19:28:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388179,19:29:00,19:29:10,stop_point:SP_2973,Mazurié,10
+2388179,19:30:00,19:30:10,stop_point:SP_3724,St-Gobain,11
+2388179,19:31:00,19:31:10,stop_point:SP_1071,Plaine,12
+2388179,19:32:00,19:32:10,stop_point:SP_2707,Auguste Gratian,13
+2388179,19:33:00,19:33:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388179,19:34:00,19:34:10,stop_point:SP_3560,Marie Curie,15
+2388179,19:35:00,19:35:10,stop_point:SP_2642,Salvador Allende,16
+2388179,19:35:00,19:35:10,stop_point:SP_3440,Rupé,17
+2388179,19:36:00,19:36:10,stop_point:SP_409,Cadène,18
+2388179,19:39:00,19:39:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388179,19:40:00,19:40:10,stop_point:SP_1494,Le Grand Marché,20
+2388179,19:42:00,19:42:10,stop_point:SP_97,Pader,21
+2388179,19:43:00,19:43:10,stop_point:SP_2490,La Vache,22
+2388180,16:50:00,16:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388180,16:51:00,16:51:10,stop_point:SP_5212,Jacques Brel,2
+2388180,16:52:00,16:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2388180,16:53:00,16:53:10,stop_point:SP_5214,Trinchet,4
+2388180,16:54:00,16:54:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388180,17:00:00,17:00:10,stop_point:SP_5221,Lacs,6
+2388180,17:01:00,17:01:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388180,17:05:00,17:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388180,17:07:00,17:07:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388180,17:08:00,17:08:10,stop_point:SP_2973,Mazurié,10
+2388180,17:10:00,17:10:10,stop_point:SP_3724,St-Gobain,11
+2388180,17:11:00,17:11:10,stop_point:SP_1071,Plaine,12
+2388180,17:12:00,17:12:10,stop_point:SP_2707,Auguste Gratian,13
+2388180,17:13:00,17:13:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388180,17:14:00,17:14:10,stop_point:SP_3560,Marie Curie,15
+2388180,17:15:00,17:15:10,stop_point:SP_2642,Salvador Allende,16
+2388180,17:15:00,17:15:10,stop_point:SP_3440,Rupé,17
+2388180,17:16:00,17:16:10,stop_point:SP_409,Cadène,18
+2388180,17:19:00,17:19:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388180,17:20:00,17:20:10,stop_point:SP_1494,Le Grand Marché,20
+2388180,17:22:00,17:22:10,stop_point:SP_97,Pader,21
+2388180,17:23:00,17:23:10,stop_point:SP_2490,La Vache,22
+2388181,17:37:00,17:37:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388181,17:38:00,17:38:10,stop_point:SP_5212,Jacques Brel,2
+2388181,17:39:00,17:39:10,stop_point:SP_2337,La Plaine Tucol,3
+2388181,17:40:00,17:40:10,stop_point:SP_5214,Trinchet,4
+2388181,17:41:00,17:41:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388181,17:47:00,17:47:10,stop_point:SP_5221,Lacs,6
+2388181,17:48:00,17:48:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388181,17:52:00,17:52:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388181,17:54:00,17:54:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388181,17:55:00,17:55:10,stop_point:SP_2973,Mazurié,10
+2388181,17:57:00,17:57:10,stop_point:SP_3724,St-Gobain,11
+2388181,17:58:00,17:58:10,stop_point:SP_1071,Plaine,12
+2388181,17:59:00,17:59:10,stop_point:SP_2707,Auguste Gratian,13
+2388181,18:00:00,18:00:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388181,18:01:00,18:01:10,stop_point:SP_3560,Marie Curie,15
+2388181,18:02:00,18:02:10,stop_point:SP_2642,Salvador Allende,16
+2388181,18:02:00,18:02:10,stop_point:SP_3440,Rupé,17
+2388181,18:03:00,18:03:10,stop_point:SP_409,Cadène,18
+2388181,18:06:00,18:06:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388181,18:07:00,18:07:10,stop_point:SP_1494,Le Grand Marché,20
+2388181,18:09:00,18:09:10,stop_point:SP_97,Pader,21
+2388181,18:10:00,18:10:10,stop_point:SP_2490,La Vache,22
+2388182,18:24:00,18:24:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388182,18:25:00,18:25:10,stop_point:SP_5212,Jacques Brel,2
+2388182,18:26:00,18:26:10,stop_point:SP_2337,La Plaine Tucol,3
+2388182,18:27:00,18:27:10,stop_point:SP_5214,Trinchet,4
+2388182,18:28:00,18:28:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388182,18:34:00,18:34:10,stop_point:SP_5221,Lacs,6
+2388182,18:35:00,18:35:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388182,18:39:00,18:39:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388182,18:41:00,18:41:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388182,18:42:00,18:42:10,stop_point:SP_2973,Mazurié,10
+2388182,18:43:00,18:43:10,stop_point:SP_3724,St-Gobain,11
+2388182,18:44:00,18:44:10,stop_point:SP_1071,Plaine,12
+2388182,18:45:00,18:45:10,stop_point:SP_2707,Auguste Gratian,13
+2388182,18:46:00,18:46:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388182,18:47:00,18:47:10,stop_point:SP_3560,Marie Curie,15
+2388182,18:48:00,18:48:10,stop_point:SP_2642,Salvador Allende,16
+2388182,18:48:00,18:48:10,stop_point:SP_3440,Rupé,17
+2388182,18:49:00,18:49:10,stop_point:SP_409,Cadène,18
+2388182,18:52:00,18:52:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388182,18:53:00,18:53:10,stop_point:SP_1494,Le Grand Marché,20
+2388182,18:55:00,18:55:10,stop_point:SP_97,Pader,21
+2388182,18:56:00,18:56:10,stop_point:SP_2490,La Vache,22
+2388183,19:58:00,19:58:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388183,19:59:00,19:59:10,stop_point:SP_5212,Jacques Brel,2
+2388183,20:00:00,20:00:10,stop_point:SP_2337,La Plaine Tucol,3
+2388183,20:01:00,20:01:10,stop_point:SP_5214,Trinchet,4
+2388183,20:02:00,20:02:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388183,20:08:00,20:08:10,stop_point:SP_5221,Lacs,6
+2388183,20:09:00,20:09:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388183,20:13:00,20:13:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388183,20:15:00,20:15:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388183,20:16:00,20:16:10,stop_point:SP_2973,Mazurié,10
+2388183,20:17:00,20:17:10,stop_point:SP_3724,St-Gobain,11
+2388183,20:18:00,20:18:10,stop_point:SP_1071,Plaine,12
+2388183,20:19:00,20:19:10,stop_point:SP_2707,Auguste Gratian,13
+2388183,20:20:00,20:20:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388183,20:20:00,20:20:10,stop_point:SP_3560,Marie Curie,15
+2388183,20:21:00,20:21:10,stop_point:SP_2642,Salvador Allende,16
+2388183,20:22:00,20:22:10,stop_point:SP_3440,Rupé,17
+2388183,20:23:00,20:23:10,stop_point:SP_409,Cadène,18
+2388183,20:25:00,20:25:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388183,20:26:00,20:26:10,stop_point:SP_1494,Le Grand Marché,20
+2388183,20:28:00,20:28:10,stop_point:SP_97,Pader,21
+2388183,20:29:00,20:29:10,stop_point:SP_2490,La Vache,22
+2388184,20:55:00,20:55:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388184,20:56:00,20:56:10,stop_point:SP_5212,Jacques Brel,2
+2388184,20:57:00,20:57:10,stop_point:SP_2337,La Plaine Tucol,3
+2388184,20:58:00,20:58:10,stop_point:SP_5214,Trinchet,4
+2388184,20:58:00,20:58:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388184,21:04:00,21:04:10,stop_point:SP_5221,Lacs,6
+2388184,21:05:00,21:05:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388184,21:09:00,21:09:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388184,21:11:00,21:11:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388184,21:12:00,21:12:10,stop_point:SP_2973,Mazurié,10
+2388184,21:13:00,21:13:10,stop_point:SP_3724,St-Gobain,11
+2388184,21:13:00,21:13:10,stop_point:SP_1071,Plaine,12
+2388184,21:14:00,21:14:10,stop_point:SP_2707,Auguste Gratian,13
+2388184,21:15:00,21:15:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388184,21:15:00,21:15:10,stop_point:SP_3560,Marie Curie,15
+2388184,21:16:00,21:16:10,stop_point:SP_2642,Salvador Allende,16
+2388184,21:17:00,21:17:10,stop_point:SP_3440,Rupé,17
+2388184,21:18:00,21:18:10,stop_point:SP_409,Cadène,18
+2388184,21:20:00,21:20:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388184,21:21:00,21:21:10,stop_point:SP_1494,Le Grand Marché,20
+2388184,21:23:00,21:23:10,stop_point:SP_97,Pader,21
+2388184,21:24:00,21:24:10,stop_point:SP_2490,La Vache,22
+2388185,06:30:00,06:30:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388185,06:31:00,06:31:10,stop_point:SP_5212,Jacques Brel,2
+2388185,06:32:00,06:32:10,stop_point:SP_2337,La Plaine Tucol,3
+2388185,06:33:00,06:33:10,stop_point:SP_5214,Trinchet,4
+2388185,06:33:00,06:33:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388185,06:39:00,06:39:10,stop_point:SP_5221,Lacs,6
+2388185,06:40:00,06:40:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388185,06:44:00,06:44:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388185,06:46:00,06:46:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388185,06:47:00,06:47:10,stop_point:SP_2973,Mazurié,10
+2388185,06:48:00,06:48:10,stop_point:SP_3724,St-Gobain,11
+2388185,06:48:00,06:48:10,stop_point:SP_1071,Plaine,12
+2388185,06:49:00,06:49:10,stop_point:SP_2707,Auguste Gratian,13
+2388185,06:50:00,06:50:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388185,06:50:00,06:50:10,stop_point:SP_3560,Marie Curie,15
+2388185,06:51:00,06:51:10,stop_point:SP_2642,Salvador Allende,16
+2388185,06:51:00,06:51:10,stop_point:SP_3440,Rupé,17
+2388185,06:52:00,06:52:10,stop_point:SP_409,Cadène,18
+2388185,06:54:00,06:54:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388185,06:55:00,06:55:10,stop_point:SP_1494,Le Grand Marché,20
+2388185,06:56:00,06:56:10,stop_point:SP_97,Pader,21
+2388185,06:57:00,06:57:10,stop_point:SP_2490,La Vache,22
+2388301,07:05:00,07:05:10,stop_point:SP_2490,La Vache,1
+2388301,07:06:00,07:06:10,stop_point:SP_2028,Pader,2
+2388301,07:07:00,07:07:10,stop_point:SP_1294,Le Grand Marché,3
+2388301,07:08:00,07:08:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388301,07:09:00,07:09:10,stop_point:SP_2429,Glacière,5
+2388301,07:11:00,07:11:10,stop_point:SP_1698,Cadène,6
+2388301,07:11:00,07:11:10,stop_point:SP_908,Rupé,7
+2388301,07:12:00,07:12:10,stop_point:SP_2946,Salvador Allende,8
+2388301,07:13:00,07:13:10,stop_point:SP_3459,Marie Curie,9
+2388301,07:13:00,07:13:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388301,07:14:00,07:14:10,stop_point:SP_3118,Auguste Gratian,11
+2388301,07:15:00,07:15:10,stop_point:SP_2878,Plaine,12
+2388301,07:16:00,07:16:10,stop_point:SP_2349,St-Gobain,13
+2388301,07:17:00,07:17:10,stop_point:SP_1515,Mazurié,14
+2388301,07:18:00,07:18:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388301,07:20:00,07:20:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388301,07:26:00,07:26:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388301,07:27:00,07:27:10,stop_point:SP_5219,Lacs,18
+2388301,07:31:00,07:31:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388301,07:32:00,07:32:10,stop_point:SP_5213,Trinchet,20
+2388301,07:33:00,07:33:10,stop_point:SP_3664,La Plaine Tucol,21
+2388301,07:34:00,07:34:10,stop_point:SP_5218,Jacques Brel,22
+2388301,07:34:00,07:34:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388302,08:24:00,08:24:10,stop_point:SP_2490,La Vache,1
+2388302,08:25:00,08:25:10,stop_point:SP_2028,Pader,2
+2388302,08:26:00,08:26:10,stop_point:SP_1294,Le Grand Marché,3
+2388302,08:27:00,08:27:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388302,08:28:00,08:28:10,stop_point:SP_2429,Glacière,5
+2388302,08:30:00,08:30:10,stop_point:SP_1698,Cadène,6
+2388302,08:30:00,08:30:10,stop_point:SP_908,Rupé,7
+2388302,08:31:00,08:31:10,stop_point:SP_2946,Salvador Allende,8
+2388302,08:32:00,08:32:10,stop_point:SP_3459,Marie Curie,9
+2388302,08:32:00,08:32:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388302,08:33:00,08:33:10,stop_point:SP_3118,Auguste Gratian,11
+2388302,08:34:00,08:34:10,stop_point:SP_2878,Plaine,12
+2388302,08:35:00,08:35:10,stop_point:SP_2349,St-Gobain,13
+2388302,08:37:00,08:37:10,stop_point:SP_1515,Mazurié,14
+2388302,08:38:00,08:38:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388302,08:40:00,08:40:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388302,08:46:00,08:46:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388302,08:47:00,08:47:10,stop_point:SP_5219,Lacs,18
+2388302,08:51:00,08:51:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388302,08:52:00,08:52:10,stop_point:SP_5213,Trinchet,20
+2388302,08:53:00,08:53:10,stop_point:SP_3664,La Plaine Tucol,21
+2388302,08:54:00,08:54:10,stop_point:SP_5218,Jacques Brel,22
+2388302,08:54:00,08:54:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388303,09:44:00,09:44:10,stop_point:SP_2490,La Vache,1
+2388303,09:46:00,09:46:10,stop_point:SP_2028,Pader,2
+2388303,09:47:00,09:47:10,stop_point:SP_1294,Le Grand Marché,3
+2388303,09:48:00,09:48:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388303,09:49:00,09:49:10,stop_point:SP_2429,Glacière,5
+2388303,09:51:00,09:51:10,stop_point:SP_1698,Cadène,6
+2388303,09:51:00,09:51:10,stop_point:SP_908,Rupé,7
+2388303,09:52:00,09:52:10,stop_point:SP_2946,Salvador Allende,8
+2388303,09:53:00,09:53:10,stop_point:SP_3459,Marie Curie,9
+2388303,09:53:00,09:53:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388303,09:54:00,09:54:10,stop_point:SP_3118,Auguste Gratian,11
+2388303,09:55:00,09:55:10,stop_point:SP_2878,Plaine,12
+2388303,09:56:00,09:56:10,stop_point:SP_2349,St-Gobain,13
+2388303,09:58:00,09:58:10,stop_point:SP_1515,Mazurié,14
+2388303,09:59:00,09:59:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388303,10:01:00,10:01:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388303,10:07:00,10:07:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388303,10:08:00,10:08:10,stop_point:SP_5219,Lacs,18
+2388303,10:12:00,10:12:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388303,10:13:00,10:13:10,stop_point:SP_5213,Trinchet,20
+2388303,10:14:00,10:14:10,stop_point:SP_3664,La Plaine Tucol,21
+2388303,10:15:00,10:15:10,stop_point:SP_5218,Jacques Brel,22
+2388303,10:15:00,10:15:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388304,11:05:00,11:05:10,stop_point:SP_2490,La Vache,1
+2388304,11:06:00,11:06:10,stop_point:SP_2028,Pader,2
+2388304,11:07:00,11:07:10,stop_point:SP_1294,Le Grand Marché,3
+2388304,11:08:00,11:08:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388304,11:09:00,11:09:10,stop_point:SP_2429,Glacière,5
+2388304,11:11:00,11:11:10,stop_point:SP_1698,Cadène,6
+2388304,11:11:00,11:11:10,stop_point:SP_908,Rupé,7
+2388304,11:12:00,11:12:10,stop_point:SP_2946,Salvador Allende,8
+2388304,11:13:00,11:13:10,stop_point:SP_3459,Marie Curie,9
+2388304,11:13:00,11:13:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388304,11:14:00,11:14:10,stop_point:SP_3118,Auguste Gratian,11
+2388304,11:15:00,11:15:10,stop_point:SP_2878,Plaine,12
+2388304,11:16:00,11:16:10,stop_point:SP_2349,St-Gobain,13
+2388304,11:18:00,11:18:10,stop_point:SP_1515,Mazurié,14
+2388304,11:19:00,11:19:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388304,11:21:00,11:21:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388304,11:27:00,11:27:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388304,11:28:00,11:28:10,stop_point:SP_5219,Lacs,18
+2388304,11:32:00,11:32:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388304,11:33:00,11:33:10,stop_point:SP_5213,Trinchet,20
+2388304,11:34:00,11:34:10,stop_point:SP_3664,La Plaine Tucol,21
+2388304,11:35:00,11:35:10,stop_point:SP_5218,Jacques Brel,22
+2388304,11:35:00,11:35:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388305,12:30:00,12:30:10,stop_point:SP_2490,La Vache,1
+2388305,12:31:00,12:31:10,stop_point:SP_2028,Pader,2
+2388305,12:32:00,12:32:10,stop_point:SP_1294,Le Grand Marché,3
+2388305,12:33:00,12:33:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388305,12:34:00,12:34:10,stop_point:SP_2429,Glacière,5
+2388305,12:36:00,12:36:10,stop_point:SP_1698,Cadène,6
+2388305,12:36:00,12:36:10,stop_point:SP_908,Rupé,7
+2388305,12:37:00,12:37:10,stop_point:SP_2946,Salvador Allende,8
+2388305,12:38:00,12:38:10,stop_point:SP_3459,Marie Curie,9
+2388305,12:38:00,12:38:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388305,12:39:00,12:39:10,stop_point:SP_3118,Auguste Gratian,11
+2388305,12:40:00,12:40:10,stop_point:SP_2878,Plaine,12
+2388305,12:41:00,12:41:10,stop_point:SP_2349,St-Gobain,13
+2388305,12:43:00,12:43:10,stop_point:SP_1515,Mazurié,14
+2388305,12:44:00,12:44:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388305,12:46:00,12:46:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388305,12:52:00,12:52:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388305,12:53:00,12:53:10,stop_point:SP_5219,Lacs,18
+2388305,12:57:00,12:57:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388305,12:58:00,12:58:10,stop_point:SP_5213,Trinchet,20
+2388305,12:59:00,12:59:10,stop_point:SP_3664,La Plaine Tucol,21
+2388305,13:00:00,13:00:10,stop_point:SP_5218,Jacques Brel,22
+2388305,13:00:00,13:00:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388306,14:03:00,14:03:10,stop_point:SP_2490,La Vache,1
+2388306,14:04:00,14:04:10,stop_point:SP_2028,Pader,2
+2388306,14:05:00,14:05:10,stop_point:SP_1294,Le Grand Marché,3
+2388306,14:06:00,14:06:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388306,14:07:00,14:07:10,stop_point:SP_2429,Glacière,5
+2388306,14:09:00,14:09:10,stop_point:SP_1698,Cadène,6
+2388306,14:09:00,14:09:10,stop_point:SP_908,Rupé,7
+2388306,14:10:00,14:10:10,stop_point:SP_2946,Salvador Allende,8
+2388306,14:11:00,14:11:10,stop_point:SP_3459,Marie Curie,9
+2388306,14:11:00,14:11:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388306,14:12:00,14:12:10,stop_point:SP_3118,Auguste Gratian,11
+2388306,14:13:00,14:13:10,stop_point:SP_2878,Plaine,12
+2388306,14:14:00,14:14:10,stop_point:SP_2349,St-Gobain,13
+2388306,14:16:00,14:16:10,stop_point:SP_1515,Mazurié,14
+2388306,14:17:00,14:17:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388306,14:19:00,14:19:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388306,14:25:00,14:25:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388306,14:26:00,14:26:10,stop_point:SP_5219,Lacs,18
+2388306,14:30:00,14:30:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388306,14:31:00,14:31:10,stop_point:SP_5213,Trinchet,20
+2388306,14:32:00,14:32:10,stop_point:SP_3664,La Plaine Tucol,21
+2388306,14:33:00,14:33:10,stop_point:SP_5218,Jacques Brel,22
+2388306,14:33:00,14:33:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388307,15:28:00,15:28:10,stop_point:SP_2490,La Vache,1
+2388307,15:29:00,15:29:10,stop_point:SP_2028,Pader,2
+2388307,15:30:00,15:30:10,stop_point:SP_1294,Le Grand Marché,3
+2388307,15:31:00,15:31:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388307,15:32:00,15:32:10,stop_point:SP_2429,Glacière,5
+2388307,15:34:00,15:34:10,stop_point:SP_1698,Cadène,6
+2388307,15:34:00,15:34:10,stop_point:SP_908,Rupé,7
+2388307,15:35:00,15:35:10,stop_point:SP_2946,Salvador Allende,8
+2388307,15:36:00,15:36:10,stop_point:SP_3459,Marie Curie,9
+2388307,15:36:00,15:36:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388307,15:37:00,15:37:10,stop_point:SP_3118,Auguste Gratian,11
+2388307,15:38:00,15:38:10,stop_point:SP_2878,Plaine,12
+2388307,15:39:00,15:39:10,stop_point:SP_2349,St-Gobain,13
+2388307,15:41:00,15:41:10,stop_point:SP_1515,Mazurié,14
+2388307,15:42:00,15:42:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388307,15:44:00,15:44:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388307,15:50:00,15:50:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388307,15:51:00,15:51:10,stop_point:SP_5219,Lacs,18
+2388307,15:55:00,15:55:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388307,15:56:00,15:56:10,stop_point:SP_5213,Trinchet,20
+2388307,15:57:00,15:57:10,stop_point:SP_3664,La Plaine Tucol,21
+2388307,15:58:00,15:58:10,stop_point:SP_5218,Jacques Brel,22
+2388307,15:58:00,15:58:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388308,16:55:00,16:55:10,stop_point:SP_2490,La Vache,1
+2388308,16:56:00,16:56:10,stop_point:SP_2028,Pader,2
+2388308,16:57:00,16:57:10,stop_point:SP_1294,Le Grand Marché,3
+2388308,16:58:00,16:58:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388308,16:59:00,16:59:10,stop_point:SP_2429,Glacière,5
+2388308,17:01:00,17:01:10,stop_point:SP_1698,Cadène,6
+2388308,17:01:00,17:01:10,stop_point:SP_908,Rupé,7
+2388308,17:02:00,17:02:10,stop_point:SP_2946,Salvador Allende,8
+2388308,17:03:00,17:03:10,stop_point:SP_3459,Marie Curie,9
+2388308,17:03:00,17:03:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388308,17:04:00,17:04:10,stop_point:SP_3118,Auguste Gratian,11
+2388308,17:05:00,17:05:10,stop_point:SP_2878,Plaine,12
+2388308,17:06:00,17:06:10,stop_point:SP_2349,St-Gobain,13
+2388308,17:08:00,17:08:10,stop_point:SP_1515,Mazurié,14
+2388308,17:09:00,17:09:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388308,17:11:00,17:11:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388308,17:17:00,17:17:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388308,17:18:00,17:18:10,stop_point:SP_5219,Lacs,18
+2388308,17:23:00,17:23:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388308,17:24:00,17:24:10,stop_point:SP_5213,Trinchet,20
+2388308,17:25:00,17:25:10,stop_point:SP_3664,La Plaine Tucol,21
+2388308,17:25:00,17:25:10,stop_point:SP_5218,Jacques Brel,22
+2388308,17:26:00,17:26:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388309,18:20:00,18:20:10,stop_point:SP_2490,La Vache,1
+2388309,18:22:00,18:22:10,stop_point:SP_2028,Pader,2
+2388309,18:23:00,18:23:10,stop_point:SP_1294,Le Grand Marché,3
+2388309,18:24:00,18:24:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388309,18:25:00,18:25:10,stop_point:SP_2429,Glacière,5
+2388309,18:27:00,18:27:10,stop_point:SP_1698,Cadène,6
+2388309,18:27:00,18:27:10,stop_point:SP_908,Rupé,7
+2388309,18:28:00,18:28:10,stop_point:SP_2946,Salvador Allende,8
+2388309,18:29:00,18:29:10,stop_point:SP_3459,Marie Curie,9
+2388309,18:29:00,18:29:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388309,18:30:00,18:30:10,stop_point:SP_3118,Auguste Gratian,11
+2388309,18:31:00,18:31:10,stop_point:SP_2878,Plaine,12
+2388309,18:32:00,18:32:10,stop_point:SP_2349,St-Gobain,13
+2388309,18:34:00,18:34:10,stop_point:SP_1515,Mazurié,14
+2388309,18:35:00,18:35:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388309,18:37:00,18:37:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388309,18:43:00,18:43:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388309,18:44:00,18:44:10,stop_point:SP_5219,Lacs,18
+2388309,18:49:00,18:49:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388309,18:50:00,18:50:10,stop_point:SP_5213,Trinchet,20
+2388309,18:51:00,18:51:10,stop_point:SP_3664,La Plaine Tucol,21
+2388309,18:51:00,18:51:10,stop_point:SP_5218,Jacques Brel,22
+2388309,18:52:00,18:52:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388310,19:45:00,19:45:10,stop_point:SP_2490,La Vache,1
+2388310,19:46:00,19:46:10,stop_point:SP_2028,Pader,2
+2388310,19:47:00,19:47:10,stop_point:SP_1294,Le Grand Marché,3
+2388310,19:48:00,19:48:10,stop_point:SP_2231,Etats-Unis Fondeyre,4
+2388310,19:49:00,19:49:10,stop_point:SP_2429,Glacière,5
+2388310,19:51:00,19:51:10,stop_point:SP_1698,Cadène,6
+2388310,19:51:00,19:51:10,stop_point:SP_908,Rupé,7
+2388310,19:52:00,19:52:10,stop_point:SP_2946,Salvador Allende,8
+2388310,19:53:00,19:53:10,stop_point:SP_3459,Marie Curie,9
+2388310,19:53:00,19:53:10,stop_point:SP_2273,Lacourtensourt Gare SNCF,10
+2388310,19:54:00,19:54:10,stop_point:SP_3118,Auguste Gratian,11
+2388310,19:55:00,19:55:10,stop_point:SP_2878,Plaine,12
+2388310,19:56:00,19:56:10,stop_point:SP_2349,St-Gobain,13
+2388310,19:58:00,19:58:10,stop_point:SP_1515,Mazurié,14
+2388310,19:59:00,19:59:10,stop_point:SP_3184,Fenouillet Ctre Cial - Entrée Sud,15
+2388310,20:01:00,20:01:10,stop_point:SP_5248,Fenouillet Ctre Cial - Entrée Nord,16
+2388310,20:07:00,20:07:10,stop_point:SP_5215,Lespinasse Mairie,17
+2388310,20:08:00,20:08:10,stop_point:SP_5219,Lacs,18
+2388310,20:12:00,20:12:10,stop_point:SP_5216,Saint-Jory Gare SNCF,19
+2388310,20:13:00,20:13:10,stop_point:SP_5213,Trinchet,20
+2388310,20:14:00,20:14:10,stop_point:SP_3664,La Plaine Tucol,21
+2388310,20:15:00,20:15:10,stop_point:SP_5218,Jacques Brel,22
+2388310,20:15:00,20:15:10,stop_point:SP_5140,Saint-Jory Collège,23
+2388311,07:45:00,07:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388311,07:46:00,07:46:10,stop_point:SP_5212,Jacques Brel,2
+2388311,07:47:00,07:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2388311,07:48:00,07:48:10,stop_point:SP_5214,Trinchet,4
+2388311,07:48:00,07:48:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388311,07:54:00,07:54:10,stop_point:SP_5221,Lacs,6
+2388311,07:55:00,07:55:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388311,07:59:00,07:59:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388311,08:01:00,08:01:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388311,08:02:00,08:02:10,stop_point:SP_2973,Mazurié,10
+2388311,08:03:00,08:03:10,stop_point:SP_3724,St-Gobain,11
+2388311,08:03:00,08:03:10,stop_point:SP_1071,Plaine,12
+2388311,08:04:00,08:04:10,stop_point:SP_2707,Auguste Gratian,13
+2388311,08:05:00,08:05:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388311,08:05:00,08:05:10,stop_point:SP_3560,Marie Curie,15
+2388311,08:06:00,08:06:10,stop_point:SP_2642,Salvador Allende,16
+2388311,08:06:00,08:06:10,stop_point:SP_3440,Rupé,17
+2388311,08:07:00,08:07:10,stop_point:SP_409,Cadène,18
+2388311,08:09:00,08:09:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388311,08:10:00,08:10:10,stop_point:SP_1494,Le Grand Marché,20
+2388311,08:11:00,08:11:10,stop_point:SP_97,Pader,21
+2388311,08:12:00,08:12:10,stop_point:SP_2490,La Vache,22
+2388312,11:50:00,11:50:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388312,11:51:00,11:51:10,stop_point:SP_5212,Jacques Brel,2
+2388312,11:52:00,11:52:10,stop_point:SP_2337,La Plaine Tucol,3
+2388312,11:53:00,11:53:10,stop_point:SP_5214,Trinchet,4
+2388312,11:54:00,11:54:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388312,12:00:00,12:00:10,stop_point:SP_5221,Lacs,6
+2388312,12:01:00,12:01:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388312,12:05:00,12:05:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388312,12:07:00,12:07:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388312,12:08:00,12:08:10,stop_point:SP_2973,Mazurié,10
+2388312,12:09:00,12:09:10,stop_point:SP_3724,St-Gobain,11
+2388312,12:09:00,12:09:10,stop_point:SP_1071,Plaine,12
+2388312,12:10:00,12:10:10,stop_point:SP_2707,Auguste Gratian,13
+2388312,12:11:00,12:11:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388312,12:12:00,12:12:10,stop_point:SP_3560,Marie Curie,15
+2388312,12:13:00,12:13:10,stop_point:SP_2642,Salvador Allende,16
+2388312,12:13:00,12:13:10,stop_point:SP_3440,Rupé,17
+2388312,12:14:00,12:14:10,stop_point:SP_409,Cadène,18
+2388312,12:17:00,12:17:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388312,12:18:00,12:18:10,stop_point:SP_1494,Le Grand Marché,20
+2388312,12:19:00,12:19:10,stop_point:SP_97,Pader,21
+2388312,12:20:00,12:20:10,stop_point:SP_2490,La Vache,22
+2388313,09:05:00,09:05:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388313,09:06:00,09:06:10,stop_point:SP_5212,Jacques Brel,2
+2388313,09:07:00,09:07:10,stop_point:SP_2337,La Plaine Tucol,3
+2388313,09:08:00,09:08:10,stop_point:SP_5214,Trinchet,4
+2388313,09:09:00,09:09:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388313,09:15:00,09:15:10,stop_point:SP_5221,Lacs,6
+2388313,09:16:00,09:16:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388313,09:20:00,09:20:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388313,09:22:00,09:22:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388313,09:23:00,09:23:10,stop_point:SP_2973,Mazurié,10
+2388313,09:24:00,09:24:10,stop_point:SP_3724,St-Gobain,11
+2388313,09:24:00,09:24:10,stop_point:SP_1071,Plaine,12
+2388313,09:25:00,09:25:10,stop_point:SP_2707,Auguste Gratian,13
+2388313,09:26:00,09:26:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388313,09:26:00,09:26:10,stop_point:SP_3560,Marie Curie,15
+2388313,09:27:00,09:27:10,stop_point:SP_2642,Salvador Allende,16
+2388313,09:28:00,09:28:10,stop_point:SP_3440,Rupé,17
+2388313,09:29:00,09:29:10,stop_point:SP_409,Cadène,18
+2388313,09:31:00,09:31:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388313,09:32:00,09:32:10,stop_point:SP_1494,Le Grand Marché,20
+2388313,09:33:00,09:33:10,stop_point:SP_97,Pader,21
+2388313,09:34:00,09:34:10,stop_point:SP_2490,La Vache,22
+2388314,10:25:00,10:25:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388314,10:26:00,10:26:10,stop_point:SP_5212,Jacques Brel,2
+2388314,10:27:00,10:27:10,stop_point:SP_2337,La Plaine Tucol,3
+2388314,10:28:00,10:28:10,stop_point:SP_5214,Trinchet,4
+2388314,10:29:00,10:29:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388314,10:35:00,10:35:10,stop_point:SP_5221,Lacs,6
+2388314,10:36:00,10:36:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388314,10:40:00,10:40:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388314,10:42:00,10:42:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388314,10:43:00,10:43:10,stop_point:SP_2973,Mazurié,10
+2388314,10:44:00,10:44:10,stop_point:SP_3724,St-Gobain,11
+2388314,10:44:00,10:44:10,stop_point:SP_1071,Plaine,12
+2388314,10:45:00,10:45:10,stop_point:SP_2707,Auguste Gratian,13
+2388314,10:46:00,10:46:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388314,10:46:00,10:46:10,stop_point:SP_3560,Marie Curie,15
+2388314,10:47:00,10:47:10,stop_point:SP_2642,Salvador Allende,16
+2388314,10:48:00,10:48:10,stop_point:SP_3440,Rupé,17
+2388314,10:49:00,10:49:10,stop_point:SP_409,Cadène,18
+2388314,10:51:00,10:51:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388314,10:52:00,10:52:10,stop_point:SP_1494,Le Grand Marché,20
+2388314,10:53:00,10:53:10,stop_point:SP_97,Pader,21
+2388314,10:54:00,10:54:10,stop_point:SP_2490,La Vache,22
+2388315,13:15:00,13:15:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388315,13:16:00,13:16:10,stop_point:SP_5212,Jacques Brel,2
+2388315,13:17:00,13:17:10,stop_point:SP_2337,La Plaine Tucol,3
+2388315,13:18:00,13:18:10,stop_point:SP_5214,Trinchet,4
+2388315,13:19:00,13:19:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388315,13:25:00,13:25:10,stop_point:SP_5221,Lacs,6
+2388315,13:26:00,13:26:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388315,13:30:00,13:30:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388315,13:32:00,13:32:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388315,13:33:00,13:33:10,stop_point:SP_2973,Mazurié,10
+2388315,13:34:00,13:34:10,stop_point:SP_3724,St-Gobain,11
+2388315,13:34:00,13:34:10,stop_point:SP_1071,Plaine,12
+2388315,13:35:00,13:35:10,stop_point:SP_2707,Auguste Gratian,13
+2388315,13:36:00,13:36:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388315,13:36:00,13:36:10,stop_point:SP_3560,Marie Curie,15
+2388315,13:37:00,13:37:10,stop_point:SP_2642,Salvador Allende,16
+2388315,13:38:00,13:38:10,stop_point:SP_3440,Rupé,17
+2388315,13:39:00,13:39:10,stop_point:SP_409,Cadène,18
+2388315,13:41:00,13:41:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388315,13:42:00,13:42:10,stop_point:SP_1494,Le Grand Marché,20
+2388315,13:43:00,13:43:10,stop_point:SP_97,Pader,21
+2388315,13:44:00,13:44:10,stop_point:SP_2490,La Vache,22
+2388316,14:45:00,14:45:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388316,14:46:00,14:46:10,stop_point:SP_5212,Jacques Brel,2
+2388316,14:47:00,14:47:10,stop_point:SP_2337,La Plaine Tucol,3
+2388316,14:48:00,14:48:10,stop_point:SP_5214,Trinchet,4
+2388316,14:49:00,14:49:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388316,14:55:00,14:55:10,stop_point:SP_5221,Lacs,6
+2388316,14:56:00,14:56:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388316,15:00:00,15:00:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388316,15:02:00,15:02:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388316,15:03:00,15:03:10,stop_point:SP_2973,Mazurié,10
+2388316,15:04:00,15:04:10,stop_point:SP_3724,St-Gobain,11
+2388316,15:04:00,15:04:10,stop_point:SP_1071,Plaine,12
+2388316,15:05:00,15:05:10,stop_point:SP_2707,Auguste Gratian,13
+2388316,15:06:00,15:06:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388316,15:06:00,15:06:10,stop_point:SP_3560,Marie Curie,15
+2388316,15:07:00,15:07:10,stop_point:SP_2642,Salvador Allende,16
+2388316,15:08:00,15:08:10,stop_point:SP_3440,Rupé,17
+2388316,15:09:00,15:09:10,stop_point:SP_409,Cadène,18
+2388316,15:11:00,15:11:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388316,15:12:00,15:12:10,stop_point:SP_1494,Le Grand Marché,20
+2388316,15:13:00,15:13:10,stop_point:SP_97,Pader,21
+2388316,15:14:00,15:14:10,stop_point:SP_2490,La Vache,22
+2388317,16:10:00,16:10:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388317,16:11:00,16:11:10,stop_point:SP_5212,Jacques Brel,2
+2388317,16:12:00,16:12:10,stop_point:SP_2337,La Plaine Tucol,3
+2388317,16:13:00,16:13:10,stop_point:SP_5214,Trinchet,4
+2388317,16:14:00,16:14:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388317,16:20:00,16:20:10,stop_point:SP_5221,Lacs,6
+2388317,16:21:00,16:21:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388317,16:25:00,16:25:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388317,16:27:00,16:27:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388317,16:28:00,16:28:10,stop_point:SP_2973,Mazurié,10
+2388317,16:29:00,16:29:10,stop_point:SP_3724,St-Gobain,11
+2388317,16:29:00,16:29:10,stop_point:SP_1071,Plaine,12
+2388317,16:30:00,16:30:10,stop_point:SP_2707,Auguste Gratian,13
+2388317,16:31:00,16:31:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388317,16:32:00,16:32:10,stop_point:SP_3560,Marie Curie,15
+2388317,16:33:00,16:33:10,stop_point:SP_2642,Salvador Allende,16
+2388317,16:33:00,16:33:10,stop_point:SP_3440,Rupé,17
+2388317,16:34:00,16:34:10,stop_point:SP_409,Cadène,18
+2388317,16:37:00,16:37:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388317,16:38:00,16:38:10,stop_point:SP_1494,Le Grand Marché,20
+2388317,16:39:00,16:39:10,stop_point:SP_97,Pader,21
+2388317,16:40:00,16:40:10,stop_point:SP_2490,La Vache,22
+2388318,17:37:00,17:37:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388318,17:38:00,17:38:10,stop_point:SP_5212,Jacques Brel,2
+2388318,17:39:00,17:39:10,stop_point:SP_2337,La Plaine Tucol,3
+2388318,17:40:00,17:40:10,stop_point:SP_5214,Trinchet,4
+2388318,17:41:00,17:41:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388318,17:47:00,17:47:10,stop_point:SP_5221,Lacs,6
+2388318,17:48:00,17:48:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388318,17:52:00,17:52:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388318,17:54:00,17:54:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388318,17:55:00,17:55:10,stop_point:SP_2973,Mazurié,10
+2388318,17:56:00,17:56:10,stop_point:SP_3724,St-Gobain,11
+2388318,17:56:00,17:56:10,stop_point:SP_1071,Plaine,12
+2388318,17:57:00,17:57:10,stop_point:SP_2707,Auguste Gratian,13
+2388318,17:58:00,17:58:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388318,17:58:00,17:58:10,stop_point:SP_3560,Marie Curie,15
+2388318,17:59:00,17:59:10,stop_point:SP_2642,Salvador Allende,16
+2388318,18:00:00,18:00:10,stop_point:SP_3440,Rupé,17
+2388318,18:01:00,18:01:10,stop_point:SP_409,Cadène,18
+2388318,18:03:00,18:03:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388318,18:04:00,18:04:10,stop_point:SP_1494,Le Grand Marché,20
+2388318,18:05:00,18:05:10,stop_point:SP_97,Pader,21
+2388318,18:06:00,18:06:10,stop_point:SP_2490,La Vache,22
+2388319,19:05:00,19:05:10,stop_point:SP_5140,Saint-Jory Collège,1
+2388319,19:06:00,19:06:10,stop_point:SP_5212,Jacques Brel,2
+2388319,19:07:00,19:07:10,stop_point:SP_2337,La Plaine Tucol,3
+2388319,19:08:00,19:08:10,stop_point:SP_5214,Trinchet,4
+2388319,19:09:00,19:09:10,stop_point:SP_5217,Saint-Jory Gare SNCF,5
+2388319,19:15:00,19:15:10,stop_point:SP_5221,Lacs,6
+2388319,19:16:00,19:16:10,stop_point:SP_3555,Lespinasse Mairie,7
+2388319,19:20:00,19:20:10,stop_point:SP_5247,Fenouillet Ctre Cial - Entrée Nord,8
+2388319,19:22:00,19:22:10,stop_point:SP_1197,Fenouillet Ctre Cial - Entrée Sud,9
+2388319,19:23:00,19:23:10,stop_point:SP_2973,Mazurié,10
+2388319,19:24:00,19:24:10,stop_point:SP_3724,St-Gobain,11
+2388319,19:24:00,19:24:10,stop_point:SP_1071,Plaine,12
+2388319,19:25:00,19:25:10,stop_point:SP_2707,Auguste Gratian,13
+2388319,19:26:00,19:26:10,stop_point:SP_2990,Lacourtensourt Gare SNCF,14
+2388319,19:26:00,19:26:10,stop_point:SP_3560,Marie Curie,15
+2388319,19:27:00,19:27:10,stop_point:SP_2642,Salvador Allende,16
+2388319,19:28:00,19:28:10,stop_point:SP_3440,Rupé,17
+2388319,19:29:00,19:29:10,stop_point:SP_409,Cadène,18
+2388319,19:31:00,19:31:10,stop_point:SP_3442,Etats-Unis Fondeyre,19
+2388319,19:32:00,19:32:10,stop_point:SP_1494,Le Grand Marché,20
+2388319,19:33:00,19:33:10,stop_point:SP_97,Pader,21
+2388319,19:34:00,19:34:10,stop_point:SP_2490,La Vache,22

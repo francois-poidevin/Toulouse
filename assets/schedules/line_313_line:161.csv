@@ -1,0 +1,232 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2374614,05:55:00,05:55:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374614,06:01:00,06:01:10,stop_point:SP_4571,Justices,2
+2374614,06:03:00,06:03:10,stop_point:SP_4576,Ox Eglise,3
+2374614,06:07:00,06:07:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374614,06:11:00,06:11:10,stop_point:SP_4753,Terrefort,5
+2374614,06:12:00,06:12:10,stop_point:SP_4605,Route De Toulouse,6
+2374614,06:13:00,06:13:10,stop_point:SP_4604,Graves,7
+2374614,06:16:00,06:16:10,stop_point:SP_5714,Mairie Lavernose,8
+2374614,06:17:00,06:17:10,stop_point:SP_4597,République,9
+2374614,06:21:00,06:21:10,stop_point:SP_4601,Cazaleres,10
+2374614,06:22:00,06:22:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374615,06:20:00,06:20:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374615,06:26:00,06:26:10,stop_point:SP_4571,Justices,2
+2374615,06:28:00,06:28:10,stop_point:SP_4576,Ox Eglise,3
+2374615,06:32:00,06:32:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374615,06:36:00,06:36:10,stop_point:SP_4753,Terrefort,5
+2374615,06:37:00,06:37:10,stop_point:SP_4605,Route De Toulouse,6
+2374615,06:38:00,06:38:10,stop_point:SP_4604,Graves,7
+2374615,06:41:00,06:41:10,stop_point:SP_5714,Mairie Lavernose,8
+2374615,06:42:00,06:42:10,stop_point:SP_4597,République,9
+2374615,06:46:00,06:46:10,stop_point:SP_4601,Cazaleres,10
+2374615,06:47:00,06:47:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374616,07:00:00,07:00:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374616,07:06:00,07:06:10,stop_point:SP_4571,Justices,2
+2374616,07:07:00,07:07:10,stop_point:SP_4576,Ox Eglise,3
+2374616,07:11:00,07:11:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374616,07:15:00,07:15:10,stop_point:SP_4753,Terrefort,5
+2374616,07:16:00,07:16:10,stop_point:SP_4605,Route De Toulouse,6
+2374616,07:17:00,07:17:10,stop_point:SP_4604,Graves,7
+2374616,07:20:00,07:20:10,stop_point:SP_5714,Mairie Lavernose,8
+2374616,07:21:00,07:21:10,stop_point:SP_4597,République,9
+2374616,07:25:00,07:25:10,stop_point:SP_4601,Cazaleres,10
+2374616,07:26:00,07:26:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374617,07:30:00,07:30:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374617,07:36:00,07:36:10,stop_point:SP_4571,Justices,2
+2374617,07:37:00,07:37:10,stop_point:SP_4576,Ox Eglise,3
+2374617,07:41:00,07:41:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374617,07:45:00,07:45:10,stop_point:SP_4753,Terrefort,5
+2374617,07:46:00,07:46:10,stop_point:SP_4605,Route De Toulouse,6
+2374617,07:48:00,07:48:10,stop_point:SP_4604,Graves,7
+2374617,07:51:00,07:51:10,stop_point:SP_5714,Mairie Lavernose,8
+2374617,07:52:00,07:52:10,stop_point:SP_4597,République,9
+2374617,07:56:00,07:56:10,stop_point:SP_4601,Cazaleres,10
+2374617,07:57:00,07:57:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374618,08:35:00,08:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374618,08:41:00,08:41:10,stop_point:SP_4571,Justices,2
+2374618,08:42:00,08:42:10,stop_point:SP_4576,Ox Eglise,3
+2374618,08:46:00,08:46:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374618,08:50:00,08:50:10,stop_point:SP_4753,Terrefort,5
+2374618,08:51:00,08:51:10,stop_point:SP_4605,Route De Toulouse,6
+2374618,08:52:00,08:52:10,stop_point:SP_4604,Graves,7
+2374618,08:55:00,08:55:10,stop_point:SP_5714,Mairie Lavernose,8
+2374618,08:56:00,08:56:10,stop_point:SP_4597,République,9
+2374618,09:00:00,09:00:10,stop_point:SP_4601,Cazaleres,10
+2374618,09:01:00,09:01:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374619,12:30:00,12:30:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374619,12:36:00,12:36:10,stop_point:SP_4571,Justices,2
+2374619,12:38:00,12:38:10,stop_point:SP_4576,Ox Eglise,3
+2374619,12:42:00,12:42:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374619,12:46:00,12:46:10,stop_point:SP_4753,Terrefort,5
+2374619,12:47:00,12:47:10,stop_point:SP_4605,Route De Toulouse,6
+2374619,12:48:00,12:48:10,stop_point:SP_4604,Graves,7
+2374619,12:51:00,12:51:10,stop_point:SP_5714,Mairie Lavernose,8
+2374619,12:52:00,12:52:10,stop_point:SP_4597,République,9
+2374619,12:56:00,12:56:10,stop_point:SP_4601,Cazaleres,10
+2374619,12:57:00,12:57:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374620,13:35:00,13:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374620,13:41:00,13:41:10,stop_point:SP_4571,Justices,2
+2374620,13:42:00,13:42:10,stop_point:SP_4576,Ox Eglise,3
+2374620,13:46:00,13:46:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374620,13:50:00,13:50:10,stop_point:SP_4753,Terrefort,5
+2374620,13:51:00,13:51:10,stop_point:SP_4605,Route De Toulouse,6
+2374620,13:52:00,13:52:10,stop_point:SP_4604,Graves,7
+2374620,13:55:00,13:55:10,stop_point:SP_5714,Mairie Lavernose,8
+2374620,13:56:00,13:56:10,stop_point:SP_4597,République,9
+2374620,13:59:00,13:59:10,stop_point:SP_4601,Cazaleres,10
+2374620,14:00:00,14:00:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374621,16:30:00,16:30:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374621,16:37:00,16:37:10,stop_point:SP_4571,Justices,2
+2374621,16:38:00,16:38:10,stop_point:SP_4576,Ox Eglise,3
+2374621,16:43:00,16:43:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374621,16:47:00,16:47:10,stop_point:SP_4753,Terrefort,5
+2374621,16:48:00,16:48:10,stop_point:SP_4605,Route De Toulouse,6
+2374621,16:50:00,16:50:10,stop_point:SP_4604,Graves,7
+2374621,16:53:00,16:53:10,stop_point:SP_5714,Mairie Lavernose,8
+2374621,16:54:00,16:54:10,stop_point:SP_4597,République,9
+2374621,16:59:00,16:59:10,stop_point:SP_4601,Cazaleres,10
+2374621,17:00:00,17:00:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374622,17:35:00,17:35:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374622,17:43:00,17:43:10,stop_point:SP_4571,Justices,2
+2374622,17:45:00,17:45:10,stop_point:SP_4576,Ox Eglise,3
+2374622,17:51:00,17:51:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374622,17:56:00,17:56:10,stop_point:SP_4753,Terrefort,5
+2374622,17:57:00,17:57:10,stop_point:SP_4605,Route De Toulouse,6
+2374622,17:58:00,17:58:10,stop_point:SP_4604,Graves,7
+2374622,18:02:00,18:02:10,stop_point:SP_5714,Mairie Lavernose,8
+2374622,18:03:00,18:03:10,stop_point:SP_4597,République,9
+2374622,18:08:00,18:08:10,stop_point:SP_4601,Cazaleres,10
+2374622,18:09:00,18:09:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374623,18:05:00,18:05:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374623,18:11:00,18:11:10,stop_point:SP_4571,Justices,2
+2374623,18:13:00,18:13:10,stop_point:SP_4576,Ox Eglise,3
+2374623,18:17:00,18:17:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374623,18:22:00,18:22:10,stop_point:SP_4753,Terrefort,5
+2374623,18:23:00,18:23:10,stop_point:SP_4605,Route De Toulouse,6
+2374623,18:24:00,18:24:10,stop_point:SP_4604,Graves,7
+2374623,18:28:00,18:28:10,stop_point:SP_5714,Mairie Lavernose,8
+2374623,18:29:00,18:29:10,stop_point:SP_4597,République,9
+2374623,18:34:00,18:34:10,stop_point:SP_4601,Cazaleres,10
+2374623,18:35:00,18:35:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374624,18:45:00,18:45:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374624,18:51:00,18:51:10,stop_point:SP_4571,Justices,2
+2374624,18:53:00,18:53:10,stop_point:SP_4576,Ox Eglise,3
+2374624,18:57:00,18:57:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374624,19:01:00,19:01:10,stop_point:SP_4753,Terrefort,5
+2374624,19:02:00,19:02:10,stop_point:SP_4605,Route De Toulouse,6
+2374624,19:03:00,19:03:10,stop_point:SP_4604,Graves,7
+2374624,19:06:00,19:06:10,stop_point:SP_5714,Mairie Lavernose,8
+2374624,19:07:00,19:07:10,stop_point:SP_4597,République,9
+2374624,19:12:00,19:12:10,stop_point:SP_4601,Cazaleres,10
+2374624,19:13:00,19:13:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374625,19:15:00,19:15:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374625,19:21:00,19:21:10,stop_point:SP_4571,Justices,2
+2374625,19:22:00,19:22:10,stop_point:SP_4576,Ox Eglise,3
+2374625,19:26:00,19:26:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374625,19:30:00,19:30:10,stop_point:SP_4753,Terrefort,5
+2374625,19:31:00,19:31:10,stop_point:SP_4605,Route De Toulouse,6
+2374625,19:32:00,19:32:10,stop_point:SP_4604,Graves,7
+2374625,19:35:00,19:35:10,stop_point:SP_5714,Mairie Lavernose,8
+2374625,19:36:00,19:36:10,stop_point:SP_4597,République,9
+2374625,19:41:00,19:41:10,stop_point:SP_4601,Cazaleres,10
+2374625,19:42:00,19:42:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374626,19:55:00,19:55:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,1
+2374626,20:01:00,20:01:10,stop_point:SP_4571,Justices,2
+2374626,20:02:00,20:02:10,stop_point:SP_4576,Ox Eglise,3
+2374626,20:06:00,20:06:10,stop_point:SP_4583,Mairie St-Hilaire,4
+2374626,20:10:00,20:10:10,stop_point:SP_4753,Terrefort,5
+2374626,20:11:00,20:11:10,stop_point:SP_4605,Route De Toulouse,6
+2374626,20:12:00,20:12:10,stop_point:SP_4604,Graves,7
+2374626,20:15:00,20:15:10,stop_point:SP_5714,Mairie Lavernose,8
+2374626,20:16:00,20:16:10,stop_point:SP_4597,République,9
+2374626,20:21:00,20:21:10,stop_point:SP_4601,Cazaleres,10
+2374626,20:22:00,20:22:10,stop_point:SP_4590,Le Fauga Cimetière,11
+2374627,06:25:00,06:25:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374627,06:26:00,06:26:10,stop_point:SP_4592,Cazaleres,2
+2374627,06:30:00,06:30:10,stop_point:SP_4585,République,3
+2374627,06:31:00,06:31:10,stop_point:SP_5715,Mairie Lavernose,4
+2374627,06:40:00,06:40:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374627,06:44:00,06:44:10,stop_point:SP_4591,Ox Eglise,6
+2374627,06:46:00,06:46:10,stop_point:SP_4594,Justices,7
+2374627,06:51:00,06:51:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374628,06:55:00,06:55:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374628,06:56:00,06:56:10,stop_point:SP_4592,Cazaleres,2
+2374628,07:00:00,07:00:10,stop_point:SP_4585,République,3
+2374628,07:01:00,07:01:10,stop_point:SP_5715,Mairie Lavernose,4
+2374628,07:10:00,07:10:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374628,07:14:00,07:14:10,stop_point:SP_4591,Ox Eglise,6
+2374628,07:16:00,07:16:10,stop_point:SP_4594,Justices,7
+2374628,07:21:00,07:21:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374629,07:30:00,07:30:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374629,07:31:00,07:31:10,stop_point:SP_4592,Cazaleres,2
+2374629,07:35:00,07:35:10,stop_point:SP_4585,République,3
+2374629,07:36:00,07:36:10,stop_point:SP_5715,Mairie Lavernose,4
+2374629,07:46:00,07:46:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374629,07:50:00,07:50:10,stop_point:SP_4591,Ox Eglise,6
+2374629,07:52:00,07:52:10,stop_point:SP_4594,Justices,7
+2374629,07:57:00,07:57:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374630,08:05:00,08:05:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374630,08:06:00,08:06:10,stop_point:SP_4592,Cazaleres,2
+2374630,08:10:00,08:10:10,stop_point:SP_4585,République,3
+2374630,08:11:00,08:11:10,stop_point:SP_5715,Mairie Lavernose,4
+2374630,08:21:00,08:21:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374630,08:25:00,08:25:10,stop_point:SP_4591,Ox Eglise,6
+2374630,08:27:00,08:27:10,stop_point:SP_4594,Justices,7
+2374630,08:32:00,08:32:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374631,09:10:00,09:10:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374631,09:11:00,09:11:10,stop_point:SP_4592,Cazaleres,2
+2374631,09:15:00,09:15:10,stop_point:SP_4585,République,3
+2374631,09:16:00,09:16:10,stop_point:SP_5715,Mairie Lavernose,4
+2374631,09:25:00,09:25:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374631,09:29:00,09:29:10,stop_point:SP_4591,Ox Eglise,6
+2374631,09:31:00,09:31:10,stop_point:SP_4594,Justices,7
+2374631,09:36:00,09:36:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374632,13:00:00,13:00:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374632,13:01:00,13:01:10,stop_point:SP_4592,Cazaleres,2
+2374632,13:05:00,13:05:10,stop_point:SP_4585,République,3
+2374632,13:06:00,13:06:10,stop_point:SP_5715,Mairie Lavernose,4
+2374632,13:14:00,13:14:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374632,13:18:00,13:18:10,stop_point:SP_4591,Ox Eglise,6
+2374632,13:19:00,13:19:10,stop_point:SP_4594,Justices,7
+2374632,13:24:00,13:24:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374633,14:00:00,14:00:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374633,14:01:00,14:01:10,stop_point:SP_4592,Cazaleres,2
+2374633,14:05:00,14:05:10,stop_point:SP_4585,République,3
+2374633,14:06:00,14:06:10,stop_point:SP_5715,Mairie Lavernose,4
+2374633,14:14:00,14:14:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374633,14:18:00,14:18:10,stop_point:SP_4591,Ox Eglise,6
+2374633,14:19:00,14:19:10,stop_point:SP_4594,Justices,7
+2374633,14:24:00,14:24:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374634,17:05:00,17:05:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374634,17:06:00,17:06:10,stop_point:SP_4592,Cazaleres,2
+2374634,17:10:00,17:10:10,stop_point:SP_4585,République,3
+2374634,17:11:00,17:11:10,stop_point:SP_5715,Mairie Lavernose,4
+2374634,17:21:00,17:21:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374634,17:25:00,17:25:10,stop_point:SP_4591,Ox Eglise,6
+2374634,17:26:00,17:26:10,stop_point:SP_4594,Justices,7
+2374634,17:31:00,17:31:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374635,18:15:00,18:15:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374635,18:16:00,18:16:10,stop_point:SP_4592,Cazaleres,2
+2374635,18:20:00,18:20:10,stop_point:SP_4585,République,3
+2374635,18:21:00,18:21:10,stop_point:SP_5715,Mairie Lavernose,4
+2374635,18:30:00,18:30:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374635,18:34:00,18:34:10,stop_point:SP_4591,Ox Eglise,6
+2374635,18:35:00,18:35:10,stop_point:SP_4594,Justices,7
+2374635,18:40:00,18:40:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374636,18:40:00,18:40:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374636,18:41:00,18:41:10,stop_point:SP_4592,Cazaleres,2
+2374636,18:45:00,18:45:10,stop_point:SP_4585,République,3
+2374636,18:46:00,18:46:10,stop_point:SP_5715,Mairie Lavernose,4
+2374636,18:55:00,18:55:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374636,19:00:00,19:00:10,stop_point:SP_4591,Ox Eglise,6
+2374636,19:01:00,19:01:10,stop_point:SP_4594,Justices,7
+2374636,19:07:00,19:07:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8
+2374637,19:20:00,19:20:10,stop_point:SP_4609,Le Fauga Cimetière,1
+2374637,19:21:00,19:21:10,stop_point:SP_4592,Cazaleres,2
+2374637,19:25:00,19:25:10,stop_point:SP_4585,République,3
+2374637,19:26:00,19:26:10,stop_point:SP_5715,Mairie Lavernose,4
+2374637,19:35:00,19:35:10,stop_point:SP_4606,Mairie St-Hilaire,5
+2374637,19:39:00,19:39:10,stop_point:SP_4591,Ox Eglise,6
+2374637,19:41:00,19:41:10,stop_point:SP_4594,Justices,7
+2374637,19:46:00,19:46:10,stop_point:SP_4798,Muret Gare SNCF - Cimetière,8

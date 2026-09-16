@@ -1,0 +1,2817 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2304218,06:20:00,06:20:10,stop_point:SP_2016,La Vache,1
+2304218,06:21:00,06:21:10,stop_point:SP_327,Pader,2
+2304218,06:22:00,06:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304218,06:23:00,06:23:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304218,06:24:00,06:24:10,stop_point:SP_753,Riché Lalande,5
+2304218,06:25:00,06:25:10,stop_point:SP_1880,Lapin,6
+2304218,06:26:00,06:26:10,stop_point:SP_1995,Roubiéchou,7
+2304218,06:26:00,06:26:10,stop_point:SP_1993,Lapparou,8
+2304218,06:27:00,06:27:10,stop_point:SP_2419,Gaussen,9
+2304218,06:28:00,06:28:10,stop_point:SP_1499,Salvy,10
+2304218,06:28:00,06:28:10,stop_point:SP_445,Eglise Aucamville,11
+2304218,06:29:00,06:29:10,stop_point:SP_3252,Mairie Aucamville,12
+2304218,06:30:00,06:30:10,stop_point:SP_1128,Favasse,13
+2304218,06:31:00,06:31:10,stop_point:SP_619,Aucamville Collège,14
+2304218,06:31:00,06:31:10,stop_point:SP_2651,Raudelauzette,15
+2304218,06:32:00,06:32:10,stop_point:SP_455,Mariel,16
+2304218,06:33:00,06:33:10,stop_point:SP_1577,Peyronnette,17
+2304218,06:33:00,06:33:10,stop_point:SP_1215,Jules Verne,18
+2304218,06:34:00,06:34:10,stop_point:SP_1014,Pont Vieil,19
+2304218,06:35:00,06:35:10,stop_point:SP_5197,Matéo,20
+2304218,06:36:00,06:36:10,stop_point:SP_5202,La Grange,21
+2304218,06:39:00,06:39:10,stop_point:SP_1609,Barry,22
+2304218,06:39:00,06:39:10,stop_point:SP_5206,Garenne,23
+2304218,06:41:00,06:41:10,stop_point:SP_5192,Mairie Gratentour,24
+2304218,06:42:00,06:42:10,stop_point:SP_3646,Hespérides,25
+2304218,06:43:00,06:43:10,stop_point:SP_2630,Les Palanques,26
+2304218,06:43:00,06:43:10,stop_point:SP_929,Bois,27
+2304218,06:44:00,06:44:10,stop_point:SP_5210,Tour,28
+2304218,06:45:00,06:45:10,stop_point:SP_2461,Bruguières Mairie,29
+2304218,06:46:00,06:46:10,stop_point:SP_179,Ecole Bruguières,30
+2304218,06:47:00,06:47:10,stop_point:SP_1614,Gamouna,31
+2304218,06:49:00,06:49:10,stop_point:SP_3693,Bruguières Verger,32
+2304219,07:00:00,07:00:10,stop_point:SP_2016,La Vache,1
+2304219,07:01:00,07:01:10,stop_point:SP_327,Pader,2
+2304219,07:02:00,07:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304219,07:03:00,07:03:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304219,07:04:00,07:04:10,stop_point:SP_753,Riché Lalande,5
+2304219,07:05:00,07:05:10,stop_point:SP_1880,Lapin,6
+2304219,07:06:00,07:06:10,stop_point:SP_1995,Roubiéchou,7
+2304219,07:06:00,07:06:10,stop_point:SP_1993,Lapparou,8
+2304219,07:07:00,07:07:10,stop_point:SP_2419,Gaussen,9
+2304219,07:08:00,07:08:10,stop_point:SP_1499,Salvy,10
+2304219,07:08:00,07:08:10,stop_point:SP_445,Eglise Aucamville,11
+2304219,07:09:00,07:09:10,stop_point:SP_3252,Mairie Aucamville,12
+2304219,07:10:00,07:10:10,stop_point:SP_1128,Favasse,13
+2304219,07:11:00,07:11:10,stop_point:SP_619,Aucamville Collège,14
+2304219,07:11:00,07:11:10,stop_point:SP_2651,Raudelauzette,15
+2304219,07:12:00,07:12:10,stop_point:SP_455,Mariel,16
+2304219,07:13:00,07:13:10,stop_point:SP_1577,Peyronnette,17
+2304219,07:13:00,07:13:10,stop_point:SP_1215,Jules Verne,18
+2304219,07:14:00,07:14:10,stop_point:SP_1014,Pont Vieil,19
+2304219,07:15:00,07:15:10,stop_point:SP_5197,Matéo,20
+2304219,07:16:00,07:16:10,stop_point:SP_5202,La Grange,21
+2304219,07:19:00,07:19:10,stop_point:SP_1609,Barry,22
+2304219,07:19:00,07:19:10,stop_point:SP_5206,Garenne,23
+2304219,07:21:00,07:21:10,stop_point:SP_5192,Mairie Gratentour,24
+2304219,07:22:00,07:22:10,stop_point:SP_3646,Hespérides,25
+2304219,07:23:00,07:23:10,stop_point:SP_2630,Les Palanques,26
+2304219,07:23:00,07:23:10,stop_point:SP_929,Bois,27
+2304219,07:24:00,07:24:10,stop_point:SP_5210,Tour,28
+2304219,07:25:00,07:25:10,stop_point:SP_2461,Bruguières Mairie,29
+2304219,07:26:00,07:26:10,stop_point:SP_179,Ecole Bruguières,30
+2304219,07:27:00,07:27:10,stop_point:SP_1614,Gamouna,31
+2304219,07:29:00,07:29:10,stop_point:SP_3693,Bruguières Verger,32
+2304220,07:40:00,07:40:10,stop_point:SP_2016,La Vache,1
+2304220,07:41:00,07:41:10,stop_point:SP_327,Pader,2
+2304220,07:42:00,07:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304220,07:43:00,07:43:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304220,07:44:00,07:44:10,stop_point:SP_753,Riché Lalande,5
+2304220,07:45:00,07:45:10,stop_point:SP_1880,Lapin,6
+2304220,07:46:00,07:46:10,stop_point:SP_1995,Roubiéchou,7
+2304220,07:46:00,07:46:10,stop_point:SP_1993,Lapparou,8
+2304220,07:47:00,07:47:10,stop_point:SP_2419,Gaussen,9
+2304220,07:48:00,07:48:10,stop_point:SP_1499,Salvy,10
+2304220,07:48:00,07:48:10,stop_point:SP_445,Eglise Aucamville,11
+2304220,07:49:00,07:49:10,stop_point:SP_3252,Mairie Aucamville,12
+2304220,07:50:00,07:50:10,stop_point:SP_1128,Favasse,13
+2304220,07:51:00,07:51:10,stop_point:SP_619,Aucamville Collège,14
+2304220,07:51:00,07:51:10,stop_point:SP_2651,Raudelauzette,15
+2304220,07:52:00,07:52:10,stop_point:SP_455,Mariel,16
+2304220,07:53:00,07:53:10,stop_point:SP_1577,Peyronnette,17
+2304220,07:53:00,07:53:10,stop_point:SP_1215,Jules Verne,18
+2304220,07:54:00,07:54:10,stop_point:SP_1014,Pont Vieil,19
+2304220,07:55:00,07:55:10,stop_point:SP_5197,Matéo,20
+2304220,07:56:00,07:56:10,stop_point:SP_5202,La Grange,21
+2304220,07:59:00,07:59:10,stop_point:SP_1609,Barry,22
+2304220,07:59:00,07:59:10,stop_point:SP_5206,Garenne,23
+2304220,08:01:00,08:01:10,stop_point:SP_5192,Mairie Gratentour,24
+2304220,08:02:00,08:02:10,stop_point:SP_3646,Hespérides,25
+2304220,08:03:00,08:03:10,stop_point:SP_2630,Les Palanques,26
+2304220,08:03:00,08:03:10,stop_point:SP_929,Bois,27
+2304220,08:04:00,08:04:10,stop_point:SP_5210,Tour,28
+2304220,08:05:00,08:05:10,stop_point:SP_2461,Bruguières Mairie,29
+2304220,08:06:00,08:06:10,stop_point:SP_179,Ecole Bruguières,30
+2304220,08:07:00,08:07:10,stop_point:SP_1614,Gamouna,31
+2304220,08:09:00,08:09:10,stop_point:SP_3693,Bruguières Verger,32
+2304221,08:20:00,08:20:10,stop_point:SP_2016,La Vache,1
+2304221,08:22:00,08:22:10,stop_point:SP_327,Pader,2
+2304221,08:22:00,08:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304221,08:24:00,08:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304221,08:25:00,08:25:10,stop_point:SP_753,Riché Lalande,5
+2304221,08:26:00,08:26:10,stop_point:SP_1880,Lapin,6
+2304221,08:27:00,08:27:10,stop_point:SP_1995,Roubiéchou,7
+2304221,08:27:00,08:27:10,stop_point:SP_1993,Lapparou,8
+2304221,08:28:00,08:28:10,stop_point:SP_2419,Gaussen,9
+2304221,08:29:00,08:29:10,stop_point:SP_1499,Salvy,10
+2304221,08:29:00,08:29:10,stop_point:SP_445,Eglise Aucamville,11
+2304221,08:30:00,08:30:10,stop_point:SP_3252,Mairie Aucamville,12
+2304221,08:31:00,08:31:10,stop_point:SP_1128,Favasse,13
+2304221,08:32:00,08:32:10,stop_point:SP_619,Aucamville Collège,14
+2304221,08:32:00,08:32:10,stop_point:SP_2651,Raudelauzette,15
+2304221,08:33:00,08:33:10,stop_point:SP_455,Mariel,16
+2304221,08:34:00,08:34:10,stop_point:SP_1577,Peyronnette,17
+2304221,08:34:00,08:34:10,stop_point:SP_1215,Jules Verne,18
+2304221,08:35:00,08:35:10,stop_point:SP_1014,Pont Vieil,19
+2304221,08:36:00,08:36:10,stop_point:SP_5197,Matéo,20
+2304221,08:37:00,08:37:10,stop_point:SP_5202,La Grange,21
+2304221,08:40:00,08:40:10,stop_point:SP_1609,Barry,22
+2304221,08:40:00,08:40:10,stop_point:SP_5206,Garenne,23
+2304221,08:42:00,08:42:10,stop_point:SP_5192,Mairie Gratentour,24
+2304221,08:43:00,08:43:10,stop_point:SP_3646,Hespérides,25
+2304221,08:44:00,08:44:10,stop_point:SP_2630,Les Palanques,26
+2304221,08:44:00,08:44:10,stop_point:SP_929,Bois,27
+2304221,08:45:00,08:45:10,stop_point:SP_5210,Tour,28
+2304221,08:46:00,08:46:10,stop_point:SP_2461,Bruguières Mairie,29
+2304221,08:47:00,08:47:10,stop_point:SP_179,Ecole Bruguières,30
+2304221,08:48:00,08:48:10,stop_point:SP_1614,Gamouna,31
+2304221,08:50:00,08:50:10,stop_point:SP_3693,Bruguières Verger,32
+2304222,09:00:00,09:00:10,stop_point:SP_2016,La Vache,1
+2304222,09:02:00,09:02:10,stop_point:SP_327,Pader,2
+2304222,09:02:00,09:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304222,09:04:00,09:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304222,09:05:00,09:05:10,stop_point:SP_753,Riché Lalande,5
+2304222,09:06:00,09:06:10,stop_point:SP_1880,Lapin,6
+2304222,09:07:00,09:07:10,stop_point:SP_1995,Roubiéchou,7
+2304222,09:07:00,09:07:10,stop_point:SP_1993,Lapparou,8
+2304222,09:08:00,09:08:10,stop_point:SP_2419,Gaussen,9
+2304222,09:09:00,09:09:10,stop_point:SP_1499,Salvy,10
+2304222,09:09:00,09:09:10,stop_point:SP_445,Eglise Aucamville,11
+2304222,09:10:00,09:10:10,stop_point:SP_3252,Mairie Aucamville,12
+2304222,09:11:00,09:11:10,stop_point:SP_1128,Favasse,13
+2304222,09:12:00,09:12:10,stop_point:SP_619,Aucamville Collège,14
+2304222,09:12:00,09:12:10,stop_point:SP_2651,Raudelauzette,15
+2304222,09:13:00,09:13:10,stop_point:SP_455,Mariel,16
+2304222,09:14:00,09:14:10,stop_point:SP_1577,Peyronnette,17
+2304222,09:14:00,09:14:10,stop_point:SP_1215,Jules Verne,18
+2304222,09:16:00,09:16:10,stop_point:SP_1014,Pont Vieil,19
+2304222,09:17:00,09:17:10,stop_point:SP_5197,Matéo,20
+2304222,09:18:00,09:18:10,stop_point:SP_5202,La Grange,21
+2304222,09:21:00,09:21:10,stop_point:SP_1609,Barry,22
+2304222,09:22:00,09:22:10,stop_point:SP_5206,Garenne,23
+2304222,09:24:00,09:24:10,stop_point:SP_5192,Mairie Gratentour,24
+2304222,09:26:00,09:26:10,stop_point:SP_3646,Hespérides,25
+2304222,09:26:00,09:26:10,stop_point:SP_2630,Les Palanques,26
+2304222,09:27:00,09:27:10,stop_point:SP_929,Bois,27
+2304222,09:27:00,09:27:10,stop_point:SP_5210,Tour,28
+2304222,09:29:00,09:29:10,stop_point:SP_2461,Bruguières Mairie,29
+2304222,09:30:00,09:30:10,stop_point:SP_179,Ecole Bruguières,30
+2304222,09:31:00,09:31:10,stop_point:SP_1614,Gamouna,31
+2304222,09:33:00,09:33:10,stop_point:SP_3693,Bruguières Verger,32
+2304223,09:40:00,09:40:10,stop_point:SP_2016,La Vache,1
+2304223,09:42:00,09:42:10,stop_point:SP_327,Pader,2
+2304223,09:42:00,09:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304223,09:44:00,09:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304223,09:45:00,09:45:10,stop_point:SP_753,Riché Lalande,5
+2304223,09:47:00,09:47:10,stop_point:SP_1880,Lapin,6
+2304223,09:47:00,09:47:10,stop_point:SP_1995,Roubiéchou,7
+2304223,09:48:00,09:48:10,stop_point:SP_1993,Lapparou,8
+2304223,09:49:00,09:49:10,stop_point:SP_2419,Gaussen,9
+2304223,09:51:00,09:51:10,stop_point:SP_1499,Salvy,10
+2304223,09:51:00,09:51:10,stop_point:SP_445,Eglise Aucamville,11
+2304223,09:52:00,09:52:10,stop_point:SP_3252,Mairie Aucamville,12
+2304223,09:53:00,09:53:10,stop_point:SP_1128,Favasse,13
+2304223,09:54:00,09:54:10,stop_point:SP_619,Aucamville Collège,14
+2304223,09:55:00,09:55:10,stop_point:SP_2651,Raudelauzette,15
+2304223,09:56:00,09:56:10,stop_point:SP_455,Mariel,16
+2304223,09:57:00,09:57:10,stop_point:SP_1577,Peyronnette,17
+2304223,09:57:00,09:57:10,stop_point:SP_1215,Jules Verne,18
+2304223,09:59:00,09:59:10,stop_point:SP_1014,Pont Vieil,19
+2304223,10:00:00,10:00:10,stop_point:SP_5197,Matéo,20
+2304223,10:01:00,10:01:10,stop_point:SP_5202,La Grange,21
+2304223,10:04:00,10:04:10,stop_point:SP_1609,Barry,22
+2304223,10:05:00,10:05:10,stop_point:SP_5206,Garenne,23
+2304223,10:07:00,10:07:10,stop_point:SP_5192,Mairie Gratentour,24
+2304223,10:09:00,10:09:10,stop_point:SP_3646,Hespérides,25
+2304223,10:09:00,10:09:10,stop_point:SP_2630,Les Palanques,26
+2304223,10:10:00,10:10:10,stop_point:SP_929,Bois,27
+2304223,10:10:00,10:10:10,stop_point:SP_5210,Tour,28
+2304223,10:12:00,10:12:10,stop_point:SP_2461,Bruguières Mairie,29
+2304223,10:13:00,10:13:10,stop_point:SP_179,Ecole Bruguières,30
+2304223,10:14:00,10:14:10,stop_point:SP_1614,Gamouna,31
+2304223,10:16:00,10:16:10,stop_point:SP_3693,Bruguières Verger,32
+2304224,10:20:00,10:20:10,stop_point:SP_2016,La Vache,1
+2304224,10:22:00,10:22:10,stop_point:SP_327,Pader,2
+2304224,10:22:00,10:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304224,10:24:00,10:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304224,10:25:00,10:25:10,stop_point:SP_753,Riché Lalande,5
+2304224,10:27:00,10:27:10,stop_point:SP_1880,Lapin,6
+2304224,10:27:00,10:27:10,stop_point:SP_1995,Roubiéchou,7
+2304224,10:28:00,10:28:10,stop_point:SP_1993,Lapparou,8
+2304224,10:29:00,10:29:10,stop_point:SP_2419,Gaussen,9
+2304224,10:31:00,10:31:10,stop_point:SP_1499,Salvy,10
+2304224,10:31:00,10:31:10,stop_point:SP_445,Eglise Aucamville,11
+2304224,10:32:00,10:32:10,stop_point:SP_3252,Mairie Aucamville,12
+2304224,10:33:00,10:33:10,stop_point:SP_1128,Favasse,13
+2304224,10:34:00,10:34:10,stop_point:SP_619,Aucamville Collège,14
+2304224,10:35:00,10:35:10,stop_point:SP_2651,Raudelauzette,15
+2304224,10:36:00,10:36:10,stop_point:SP_455,Mariel,16
+2304224,10:37:00,10:37:10,stop_point:SP_1577,Peyronnette,17
+2304224,10:37:00,10:37:10,stop_point:SP_1215,Jules Verne,18
+2304224,10:39:00,10:39:10,stop_point:SP_1014,Pont Vieil,19
+2304224,10:40:00,10:40:10,stop_point:SP_5197,Matéo,20
+2304224,10:41:00,10:41:10,stop_point:SP_5202,La Grange,21
+2304224,10:44:00,10:44:10,stop_point:SP_1609,Barry,22
+2304224,10:45:00,10:45:10,stop_point:SP_5206,Garenne,23
+2304224,10:47:00,10:47:10,stop_point:SP_5192,Mairie Gratentour,24
+2304224,10:49:00,10:49:10,stop_point:SP_3646,Hespérides,25
+2304224,10:49:00,10:49:10,stop_point:SP_2630,Les Palanques,26
+2304224,10:50:00,10:50:10,stop_point:SP_929,Bois,27
+2304224,10:50:00,10:50:10,stop_point:SP_5210,Tour,28
+2304224,10:52:00,10:52:10,stop_point:SP_2461,Bruguières Mairie,29
+2304224,10:53:00,10:53:10,stop_point:SP_179,Ecole Bruguières,30
+2304224,10:54:00,10:54:10,stop_point:SP_1614,Gamouna,31
+2304224,10:56:00,10:56:10,stop_point:SP_3693,Bruguières Verger,32
+2304225,11:00:00,11:00:10,stop_point:SP_2016,La Vache,1
+2304225,11:02:00,11:02:10,stop_point:SP_327,Pader,2
+2304225,11:02:00,11:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304225,11:04:00,11:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304225,11:05:00,11:05:10,stop_point:SP_753,Riché Lalande,5
+2304225,11:07:00,11:07:10,stop_point:SP_1880,Lapin,6
+2304225,11:07:00,11:07:10,stop_point:SP_1995,Roubiéchou,7
+2304225,11:08:00,11:08:10,stop_point:SP_1993,Lapparou,8
+2304225,11:09:00,11:09:10,stop_point:SP_2419,Gaussen,9
+2304225,11:11:00,11:11:10,stop_point:SP_1499,Salvy,10
+2304225,11:11:00,11:11:10,stop_point:SP_445,Eglise Aucamville,11
+2304225,11:12:00,11:12:10,stop_point:SP_3252,Mairie Aucamville,12
+2304225,11:13:00,11:13:10,stop_point:SP_1128,Favasse,13
+2304225,11:14:00,11:14:10,stop_point:SP_619,Aucamville Collège,14
+2304225,11:15:00,11:15:10,stop_point:SP_2651,Raudelauzette,15
+2304225,11:16:00,11:16:10,stop_point:SP_455,Mariel,16
+2304225,11:17:00,11:17:10,stop_point:SP_1577,Peyronnette,17
+2304225,11:17:00,11:17:10,stop_point:SP_1215,Jules Verne,18
+2304225,11:19:00,11:19:10,stop_point:SP_1014,Pont Vieil,19
+2304225,11:20:00,11:20:10,stop_point:SP_5197,Matéo,20
+2304225,11:21:00,11:21:10,stop_point:SP_5202,La Grange,21
+2304225,11:24:00,11:24:10,stop_point:SP_1609,Barry,22
+2304225,11:25:00,11:25:10,stop_point:SP_5206,Garenne,23
+2304225,11:27:00,11:27:10,stop_point:SP_5192,Mairie Gratentour,24
+2304225,11:29:00,11:29:10,stop_point:SP_3646,Hespérides,25
+2304225,11:29:00,11:29:10,stop_point:SP_2630,Les Palanques,26
+2304225,11:30:00,11:30:10,stop_point:SP_929,Bois,27
+2304225,11:30:00,11:30:10,stop_point:SP_5210,Tour,28
+2304225,11:32:00,11:32:10,stop_point:SP_2461,Bruguières Mairie,29
+2304225,11:33:00,11:33:10,stop_point:SP_179,Ecole Bruguières,30
+2304225,11:34:00,11:34:10,stop_point:SP_1614,Gamouna,31
+2304225,11:36:00,11:36:10,stop_point:SP_3693,Bruguières Verger,32
+2304226,11:40:00,11:40:10,stop_point:SP_2016,La Vache,1
+2304226,11:42:00,11:42:10,stop_point:SP_327,Pader,2
+2304226,11:42:00,11:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304226,11:44:00,11:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304226,11:45:00,11:45:10,stop_point:SP_753,Riché Lalande,5
+2304226,11:47:00,11:47:10,stop_point:SP_1880,Lapin,6
+2304226,11:47:00,11:47:10,stop_point:SP_1995,Roubiéchou,7
+2304226,11:48:00,11:48:10,stop_point:SP_1993,Lapparou,8
+2304226,11:49:00,11:49:10,stop_point:SP_2419,Gaussen,9
+2304226,11:51:00,11:51:10,stop_point:SP_1499,Salvy,10
+2304226,11:51:00,11:51:10,stop_point:SP_445,Eglise Aucamville,11
+2304226,11:52:00,11:52:10,stop_point:SP_3252,Mairie Aucamville,12
+2304226,11:53:00,11:53:10,stop_point:SP_1128,Favasse,13
+2304226,11:54:00,11:54:10,stop_point:SP_619,Aucamville Collège,14
+2304226,11:55:00,11:55:10,stop_point:SP_2651,Raudelauzette,15
+2304226,11:56:00,11:56:10,stop_point:SP_455,Mariel,16
+2304226,11:57:00,11:57:10,stop_point:SP_1577,Peyronnette,17
+2304226,11:57:00,11:57:10,stop_point:SP_1215,Jules Verne,18
+2304226,11:59:00,11:59:10,stop_point:SP_1014,Pont Vieil,19
+2304226,12:00:00,12:00:10,stop_point:SP_5197,Matéo,20
+2304226,12:01:00,12:01:10,stop_point:SP_5202,La Grange,21
+2304226,12:04:00,12:04:10,stop_point:SP_1609,Barry,22
+2304226,12:05:00,12:05:10,stop_point:SP_5206,Garenne,23
+2304226,12:07:00,12:07:10,stop_point:SP_5192,Mairie Gratentour,24
+2304226,12:09:00,12:09:10,stop_point:SP_3646,Hespérides,25
+2304226,12:09:00,12:09:10,stop_point:SP_2630,Les Palanques,26
+2304226,12:10:00,12:10:10,stop_point:SP_929,Bois,27
+2304226,12:10:00,12:10:10,stop_point:SP_5210,Tour,28
+2304226,12:12:00,12:12:10,stop_point:SP_2461,Bruguières Mairie,29
+2304226,12:13:00,12:13:10,stop_point:SP_179,Ecole Bruguières,30
+2304226,12:14:00,12:14:10,stop_point:SP_1614,Gamouna,31
+2304226,12:16:00,12:16:10,stop_point:SP_3693,Bruguières Verger,32
+2304227,12:20:00,12:20:10,stop_point:SP_2016,La Vache,1
+2304227,12:22:00,12:22:10,stop_point:SP_327,Pader,2
+2304227,12:22:00,12:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304227,12:24:00,12:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304227,12:25:00,12:25:10,stop_point:SP_753,Riché Lalande,5
+2304227,12:27:00,12:27:10,stop_point:SP_1880,Lapin,6
+2304227,12:27:00,12:27:10,stop_point:SP_1995,Roubiéchou,7
+2304227,12:28:00,12:28:10,stop_point:SP_1993,Lapparou,8
+2304227,12:29:00,12:29:10,stop_point:SP_2419,Gaussen,9
+2304227,12:31:00,12:31:10,stop_point:SP_1499,Salvy,10
+2304227,12:31:00,12:31:10,stop_point:SP_445,Eglise Aucamville,11
+2304227,12:32:00,12:32:10,stop_point:SP_3252,Mairie Aucamville,12
+2304227,12:33:00,12:33:10,stop_point:SP_1128,Favasse,13
+2304227,12:34:00,12:34:10,stop_point:SP_619,Aucamville Collège,14
+2304227,12:35:00,12:35:10,stop_point:SP_2651,Raudelauzette,15
+2304227,12:36:00,12:36:10,stop_point:SP_455,Mariel,16
+2304227,12:37:00,12:37:10,stop_point:SP_1577,Peyronnette,17
+2304227,12:37:00,12:37:10,stop_point:SP_1215,Jules Verne,18
+2304227,12:39:00,12:39:10,stop_point:SP_1014,Pont Vieil,19
+2304227,12:40:00,12:40:10,stop_point:SP_5197,Matéo,20
+2304227,12:41:00,12:41:10,stop_point:SP_5202,La Grange,21
+2304227,12:44:00,12:44:10,stop_point:SP_1609,Barry,22
+2304227,12:45:00,12:45:10,stop_point:SP_5206,Garenne,23
+2304227,12:47:00,12:47:10,stop_point:SP_5192,Mairie Gratentour,24
+2304227,12:49:00,12:49:10,stop_point:SP_3646,Hespérides,25
+2304227,12:49:00,12:49:10,stop_point:SP_2630,Les Palanques,26
+2304227,12:50:00,12:50:10,stop_point:SP_929,Bois,27
+2304227,12:50:00,12:50:10,stop_point:SP_5210,Tour,28
+2304227,12:52:00,12:52:10,stop_point:SP_2461,Bruguières Mairie,29
+2304227,12:53:00,12:53:10,stop_point:SP_179,Ecole Bruguières,30
+2304227,12:54:00,12:54:10,stop_point:SP_1614,Gamouna,31
+2304227,12:56:00,12:56:10,stop_point:SP_3693,Bruguières Verger,32
+2304228,13:00:00,13:00:10,stop_point:SP_2016,La Vache,1
+2304228,13:02:00,13:02:10,stop_point:SP_327,Pader,2
+2304228,13:02:00,13:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304228,13:04:00,13:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304228,13:05:00,13:05:10,stop_point:SP_753,Riché Lalande,5
+2304228,13:07:00,13:07:10,stop_point:SP_1880,Lapin,6
+2304228,13:07:00,13:07:10,stop_point:SP_1995,Roubiéchou,7
+2304228,13:08:00,13:08:10,stop_point:SP_1993,Lapparou,8
+2304228,13:09:00,13:09:10,stop_point:SP_2419,Gaussen,9
+2304228,13:11:00,13:11:10,stop_point:SP_1499,Salvy,10
+2304228,13:11:00,13:11:10,stop_point:SP_445,Eglise Aucamville,11
+2304228,13:12:00,13:12:10,stop_point:SP_3252,Mairie Aucamville,12
+2304228,13:13:00,13:13:10,stop_point:SP_1128,Favasse,13
+2304228,13:14:00,13:14:10,stop_point:SP_619,Aucamville Collège,14
+2304228,13:15:00,13:15:10,stop_point:SP_2651,Raudelauzette,15
+2304228,13:16:00,13:16:10,stop_point:SP_455,Mariel,16
+2304228,13:17:00,13:17:10,stop_point:SP_1577,Peyronnette,17
+2304228,13:17:00,13:17:10,stop_point:SP_1215,Jules Verne,18
+2304228,13:19:00,13:19:10,stop_point:SP_1014,Pont Vieil,19
+2304228,13:20:00,13:20:10,stop_point:SP_5197,Matéo,20
+2304228,13:21:00,13:21:10,stop_point:SP_5202,La Grange,21
+2304228,13:24:00,13:24:10,stop_point:SP_1609,Barry,22
+2304228,13:25:00,13:25:10,stop_point:SP_5206,Garenne,23
+2304228,13:27:00,13:27:10,stop_point:SP_5192,Mairie Gratentour,24
+2304228,13:29:00,13:29:10,stop_point:SP_3646,Hespérides,25
+2304228,13:29:00,13:29:10,stop_point:SP_2630,Les Palanques,26
+2304228,13:30:00,13:30:10,stop_point:SP_929,Bois,27
+2304228,13:30:00,13:30:10,stop_point:SP_5210,Tour,28
+2304228,13:32:00,13:32:10,stop_point:SP_2461,Bruguières Mairie,29
+2304228,13:33:00,13:33:10,stop_point:SP_179,Ecole Bruguières,30
+2304228,13:34:00,13:34:10,stop_point:SP_1614,Gamouna,31
+2304228,13:36:00,13:36:10,stop_point:SP_3693,Bruguières Verger,32
+2304229,13:40:00,13:40:10,stop_point:SP_2016,La Vache,1
+2304229,13:42:00,13:42:10,stop_point:SP_327,Pader,2
+2304229,13:42:00,13:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304229,13:44:00,13:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304229,13:45:00,13:45:10,stop_point:SP_753,Riché Lalande,5
+2304229,13:47:00,13:47:10,stop_point:SP_1880,Lapin,6
+2304229,13:47:00,13:47:10,stop_point:SP_1995,Roubiéchou,7
+2304229,13:48:00,13:48:10,stop_point:SP_1993,Lapparou,8
+2304229,13:49:00,13:49:10,stop_point:SP_2419,Gaussen,9
+2304229,13:51:00,13:51:10,stop_point:SP_1499,Salvy,10
+2304229,13:51:00,13:51:10,stop_point:SP_445,Eglise Aucamville,11
+2304229,13:52:00,13:52:10,stop_point:SP_3252,Mairie Aucamville,12
+2304229,13:53:00,13:53:10,stop_point:SP_1128,Favasse,13
+2304229,13:54:00,13:54:10,stop_point:SP_619,Aucamville Collège,14
+2304229,13:55:00,13:55:10,stop_point:SP_2651,Raudelauzette,15
+2304229,13:56:00,13:56:10,stop_point:SP_455,Mariel,16
+2304229,13:57:00,13:57:10,stop_point:SP_1577,Peyronnette,17
+2304229,13:57:00,13:57:10,stop_point:SP_1215,Jules Verne,18
+2304229,13:59:00,13:59:10,stop_point:SP_1014,Pont Vieil,19
+2304229,14:00:00,14:00:10,stop_point:SP_5197,Matéo,20
+2304229,14:01:00,14:01:10,stop_point:SP_5202,La Grange,21
+2304229,14:04:00,14:04:10,stop_point:SP_1609,Barry,22
+2304229,14:05:00,14:05:10,stop_point:SP_5206,Garenne,23
+2304229,14:07:00,14:07:10,stop_point:SP_5192,Mairie Gratentour,24
+2304229,14:09:00,14:09:10,stop_point:SP_3646,Hespérides,25
+2304229,14:09:00,14:09:10,stop_point:SP_2630,Les Palanques,26
+2304229,14:10:00,14:10:10,stop_point:SP_929,Bois,27
+2304229,14:10:00,14:10:10,stop_point:SP_5210,Tour,28
+2304229,14:12:00,14:12:10,stop_point:SP_2461,Bruguières Mairie,29
+2304229,14:13:00,14:13:10,stop_point:SP_179,Ecole Bruguières,30
+2304229,14:14:00,14:14:10,stop_point:SP_1614,Gamouna,31
+2304229,14:16:00,14:16:10,stop_point:SP_3693,Bruguières Verger,32
+2304230,14:20:00,14:20:10,stop_point:SP_2016,La Vache,1
+2304230,14:22:00,14:22:10,stop_point:SP_327,Pader,2
+2304230,14:22:00,14:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304230,14:24:00,14:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304230,14:25:00,14:25:10,stop_point:SP_753,Riché Lalande,5
+2304230,14:27:00,14:27:10,stop_point:SP_1880,Lapin,6
+2304230,14:28:00,14:28:10,stop_point:SP_1995,Roubiéchou,7
+2304230,14:29:00,14:29:10,stop_point:SP_1993,Lapparou,8
+2304230,14:30:00,14:30:10,stop_point:SP_2419,Gaussen,9
+2304230,14:31:00,14:31:10,stop_point:SP_1499,Salvy,10
+2304230,14:32:00,14:32:10,stop_point:SP_445,Eglise Aucamville,11
+2304230,14:33:00,14:33:10,stop_point:SP_3252,Mairie Aucamville,12
+2304230,14:34:00,14:34:10,stop_point:SP_1128,Favasse,13
+2304230,14:35:00,14:35:10,stop_point:SP_619,Aucamville Collège,14
+2304230,14:36:00,14:36:10,stop_point:SP_2651,Raudelauzette,15
+2304230,14:37:00,14:37:10,stop_point:SP_455,Mariel,16
+2304230,14:38:00,14:38:10,stop_point:SP_1577,Peyronnette,17
+2304230,14:38:00,14:38:10,stop_point:SP_1215,Jules Verne,18
+2304230,14:40:00,14:40:10,stop_point:SP_1014,Pont Vieil,19
+2304230,14:41:00,14:41:10,stop_point:SP_5197,Matéo,20
+2304230,14:42:00,14:42:10,stop_point:SP_5202,La Grange,21
+2304230,14:45:00,14:45:10,stop_point:SP_1609,Barry,22
+2304230,14:46:00,14:46:10,stop_point:SP_5206,Garenne,23
+2304230,14:48:00,14:48:10,stop_point:SP_5192,Mairie Gratentour,24
+2304230,14:50:00,14:50:10,stop_point:SP_3646,Hespérides,25
+2304230,14:50:00,14:50:10,stop_point:SP_2630,Les Palanques,26
+2304230,14:51:00,14:51:10,stop_point:SP_929,Bois,27
+2304230,14:51:00,14:51:10,stop_point:SP_5210,Tour,28
+2304230,14:53:00,14:53:10,stop_point:SP_2461,Bruguières Mairie,29
+2304230,14:54:00,14:54:10,stop_point:SP_179,Ecole Bruguières,30
+2304230,14:55:00,14:55:10,stop_point:SP_1614,Gamouna,31
+2304230,14:57:00,14:57:10,stop_point:SP_3693,Bruguières Verger,32
+2304231,15:00:00,15:00:10,stop_point:SP_2016,La Vache,1
+2304231,15:02:00,15:02:10,stop_point:SP_327,Pader,2
+2304231,15:02:00,15:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304231,15:04:00,15:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304231,15:05:00,15:05:10,stop_point:SP_753,Riché Lalande,5
+2304231,15:07:00,15:07:10,stop_point:SP_1880,Lapin,6
+2304231,15:08:00,15:08:10,stop_point:SP_1995,Roubiéchou,7
+2304231,15:09:00,15:09:10,stop_point:SP_1993,Lapparou,8
+2304231,15:10:00,15:10:10,stop_point:SP_2419,Gaussen,9
+2304231,15:11:00,15:11:10,stop_point:SP_1499,Salvy,10
+2304231,15:12:00,15:12:10,stop_point:SP_445,Eglise Aucamville,11
+2304231,15:13:00,15:13:10,stop_point:SP_3252,Mairie Aucamville,12
+2304231,15:14:00,15:14:10,stop_point:SP_1128,Favasse,13
+2304231,15:15:00,15:15:10,stop_point:SP_619,Aucamville Collège,14
+2304231,15:16:00,15:16:10,stop_point:SP_2651,Raudelauzette,15
+2304231,15:17:00,15:17:10,stop_point:SP_455,Mariel,16
+2304231,15:18:00,15:18:10,stop_point:SP_1577,Peyronnette,17
+2304231,15:18:00,15:18:10,stop_point:SP_1215,Jules Verne,18
+2304231,15:20:00,15:20:10,stop_point:SP_1014,Pont Vieil,19
+2304231,15:21:00,15:21:10,stop_point:SP_5197,Matéo,20
+2304231,15:22:00,15:22:10,stop_point:SP_5202,La Grange,21
+2304231,15:25:00,15:25:10,stop_point:SP_1609,Barry,22
+2304231,15:26:00,15:26:10,stop_point:SP_5206,Garenne,23
+2304231,15:28:00,15:28:10,stop_point:SP_5192,Mairie Gratentour,24
+2304231,15:30:00,15:30:10,stop_point:SP_3646,Hespérides,25
+2304231,15:30:00,15:30:10,stop_point:SP_2630,Les Palanques,26
+2304231,15:31:00,15:31:10,stop_point:SP_929,Bois,27
+2304231,15:31:00,15:31:10,stop_point:SP_5210,Tour,28
+2304231,15:33:00,15:33:10,stop_point:SP_2461,Bruguières Mairie,29
+2304231,15:34:00,15:34:10,stop_point:SP_179,Ecole Bruguières,30
+2304231,15:35:00,15:35:10,stop_point:SP_1614,Gamouna,31
+2304231,15:37:00,15:37:10,stop_point:SP_3693,Bruguières Verger,32
+2304232,15:40:00,15:40:10,stop_point:SP_2016,La Vache,1
+2304232,15:42:00,15:42:10,stop_point:SP_327,Pader,2
+2304232,15:42:00,15:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304232,15:44:00,15:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304232,15:45:00,15:45:10,stop_point:SP_753,Riché Lalande,5
+2304232,15:47:00,15:47:10,stop_point:SP_1880,Lapin,6
+2304232,15:48:00,15:48:10,stop_point:SP_1995,Roubiéchou,7
+2304232,15:49:00,15:49:10,stop_point:SP_1993,Lapparou,8
+2304232,15:50:00,15:50:10,stop_point:SP_2419,Gaussen,9
+2304232,15:51:00,15:51:10,stop_point:SP_1499,Salvy,10
+2304232,15:52:00,15:52:10,stop_point:SP_445,Eglise Aucamville,11
+2304232,15:53:00,15:53:10,stop_point:SP_3252,Mairie Aucamville,12
+2304232,15:54:00,15:54:10,stop_point:SP_1128,Favasse,13
+2304232,15:55:00,15:55:10,stop_point:SP_619,Aucamville Collège,14
+2304232,15:56:00,15:56:10,stop_point:SP_2651,Raudelauzette,15
+2304232,15:57:00,15:57:10,stop_point:SP_455,Mariel,16
+2304232,15:58:00,15:58:10,stop_point:SP_1577,Peyronnette,17
+2304232,15:58:00,15:58:10,stop_point:SP_1215,Jules Verne,18
+2304232,16:00:00,16:00:10,stop_point:SP_1014,Pont Vieil,19
+2304232,16:01:00,16:01:10,stop_point:SP_5197,Matéo,20
+2304232,16:02:00,16:02:10,stop_point:SP_5202,La Grange,21
+2304232,16:05:00,16:05:10,stop_point:SP_1609,Barry,22
+2304232,16:06:00,16:06:10,stop_point:SP_5206,Garenne,23
+2304232,16:08:00,16:08:10,stop_point:SP_5192,Mairie Gratentour,24
+2304232,16:10:00,16:10:10,stop_point:SP_3646,Hespérides,25
+2304232,16:10:00,16:10:10,stop_point:SP_2630,Les Palanques,26
+2304232,16:11:00,16:11:10,stop_point:SP_929,Bois,27
+2304232,16:11:00,16:11:10,stop_point:SP_5210,Tour,28
+2304232,16:13:00,16:13:10,stop_point:SP_2461,Bruguières Mairie,29
+2304232,16:14:00,16:14:10,stop_point:SP_179,Ecole Bruguières,30
+2304232,16:15:00,16:15:10,stop_point:SP_1614,Gamouna,31
+2304232,16:17:00,16:17:10,stop_point:SP_3693,Bruguières Verger,32
+2304233,16:20:00,16:20:10,stop_point:SP_2016,La Vache,1
+2304233,16:22:00,16:22:10,stop_point:SP_327,Pader,2
+2304233,16:22:00,16:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304233,16:24:00,16:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304233,16:25:00,16:25:10,stop_point:SP_753,Riché Lalande,5
+2304233,16:27:00,16:27:10,stop_point:SP_1880,Lapin,6
+2304233,16:28:00,16:28:10,stop_point:SP_1995,Roubiéchou,7
+2304233,16:29:00,16:29:10,stop_point:SP_1993,Lapparou,8
+2304233,16:30:00,16:30:10,stop_point:SP_2419,Gaussen,9
+2304233,16:31:00,16:31:10,stop_point:SP_1499,Salvy,10
+2304233,16:32:00,16:32:10,stop_point:SP_445,Eglise Aucamville,11
+2304233,16:33:00,16:33:10,stop_point:SP_3252,Mairie Aucamville,12
+2304233,16:34:00,16:34:10,stop_point:SP_1128,Favasse,13
+2304233,16:35:00,16:35:10,stop_point:SP_619,Aucamville Collège,14
+2304233,16:36:00,16:36:10,stop_point:SP_2651,Raudelauzette,15
+2304233,16:37:00,16:37:10,stop_point:SP_455,Mariel,16
+2304233,16:38:00,16:38:10,stop_point:SP_1577,Peyronnette,17
+2304233,16:38:00,16:38:10,stop_point:SP_1215,Jules Verne,18
+2304233,16:40:00,16:40:10,stop_point:SP_1014,Pont Vieil,19
+2304233,16:41:00,16:41:10,stop_point:SP_5197,Matéo,20
+2304233,16:42:00,16:42:10,stop_point:SP_5202,La Grange,21
+2304233,16:45:00,16:45:10,stop_point:SP_1609,Barry,22
+2304233,16:46:00,16:46:10,stop_point:SP_5206,Garenne,23
+2304233,16:48:00,16:48:10,stop_point:SP_5192,Mairie Gratentour,24
+2304233,16:50:00,16:50:10,stop_point:SP_3646,Hespérides,25
+2304233,16:50:00,16:50:10,stop_point:SP_2630,Les Palanques,26
+2304233,16:51:00,16:51:10,stop_point:SP_929,Bois,27
+2304233,16:51:00,16:51:10,stop_point:SP_5210,Tour,28
+2304233,16:53:00,16:53:10,stop_point:SP_2461,Bruguières Mairie,29
+2304233,16:54:00,16:54:10,stop_point:SP_179,Ecole Bruguières,30
+2304233,16:55:00,16:55:10,stop_point:SP_1614,Gamouna,31
+2304233,16:57:00,16:57:10,stop_point:SP_3693,Bruguières Verger,32
+2304234,17:00:00,17:00:10,stop_point:SP_2016,La Vache,1
+2304234,17:02:00,17:02:10,stop_point:SP_327,Pader,2
+2304234,17:02:00,17:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304234,17:04:00,17:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304234,17:05:00,17:05:10,stop_point:SP_753,Riché Lalande,5
+2304234,17:07:00,17:07:10,stop_point:SP_1880,Lapin,6
+2304234,17:08:00,17:08:10,stop_point:SP_1995,Roubiéchou,7
+2304234,17:09:00,17:09:10,stop_point:SP_1993,Lapparou,8
+2304234,17:10:00,17:10:10,stop_point:SP_2419,Gaussen,9
+2304234,17:11:00,17:11:10,stop_point:SP_1499,Salvy,10
+2304234,17:12:00,17:12:10,stop_point:SP_445,Eglise Aucamville,11
+2304234,17:13:00,17:13:10,stop_point:SP_3252,Mairie Aucamville,12
+2304234,17:14:00,17:14:10,stop_point:SP_1128,Favasse,13
+2304234,17:15:00,17:15:10,stop_point:SP_619,Aucamville Collège,14
+2304234,17:16:00,17:16:10,stop_point:SP_2651,Raudelauzette,15
+2304234,17:17:00,17:17:10,stop_point:SP_455,Mariel,16
+2304234,17:18:00,17:18:10,stop_point:SP_1577,Peyronnette,17
+2304234,17:18:00,17:18:10,stop_point:SP_1215,Jules Verne,18
+2304234,17:20:00,17:20:10,stop_point:SP_1014,Pont Vieil,19
+2304234,17:21:00,17:21:10,stop_point:SP_5197,Matéo,20
+2304234,17:22:00,17:22:10,stop_point:SP_5202,La Grange,21
+2304234,17:25:00,17:25:10,stop_point:SP_1609,Barry,22
+2304234,17:26:00,17:26:10,stop_point:SP_5206,Garenne,23
+2304234,17:28:00,17:28:10,stop_point:SP_5192,Mairie Gratentour,24
+2304234,17:30:00,17:30:10,stop_point:SP_3646,Hespérides,25
+2304234,17:30:00,17:30:10,stop_point:SP_2630,Les Palanques,26
+2304234,17:31:00,17:31:10,stop_point:SP_929,Bois,27
+2304234,17:31:00,17:31:10,stop_point:SP_5210,Tour,28
+2304234,17:33:00,17:33:10,stop_point:SP_2461,Bruguières Mairie,29
+2304234,17:34:00,17:34:10,stop_point:SP_179,Ecole Bruguières,30
+2304234,17:35:00,17:35:10,stop_point:SP_1614,Gamouna,31
+2304234,17:37:00,17:37:10,stop_point:SP_3693,Bruguières Verger,32
+2304235,17:40:00,17:40:10,stop_point:SP_2016,La Vache,1
+2304235,17:42:00,17:42:10,stop_point:SP_327,Pader,2
+2304235,17:42:00,17:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304235,17:44:00,17:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304235,17:45:00,17:45:10,stop_point:SP_753,Riché Lalande,5
+2304235,17:47:00,17:47:10,stop_point:SP_1880,Lapin,6
+2304235,17:48:00,17:48:10,stop_point:SP_1995,Roubiéchou,7
+2304235,17:49:00,17:49:10,stop_point:SP_1993,Lapparou,8
+2304235,17:50:00,17:50:10,stop_point:SP_2419,Gaussen,9
+2304235,17:51:00,17:51:10,stop_point:SP_1499,Salvy,10
+2304235,17:52:00,17:52:10,stop_point:SP_445,Eglise Aucamville,11
+2304235,17:53:00,17:53:10,stop_point:SP_3252,Mairie Aucamville,12
+2304235,17:54:00,17:54:10,stop_point:SP_1128,Favasse,13
+2304235,17:55:00,17:55:10,stop_point:SP_619,Aucamville Collège,14
+2304235,17:56:00,17:56:10,stop_point:SP_2651,Raudelauzette,15
+2304235,17:57:00,17:57:10,stop_point:SP_455,Mariel,16
+2304235,17:58:00,17:58:10,stop_point:SP_1577,Peyronnette,17
+2304235,17:58:00,17:58:10,stop_point:SP_1215,Jules Verne,18
+2304235,18:00:00,18:00:10,stop_point:SP_1014,Pont Vieil,19
+2304235,18:01:00,18:01:10,stop_point:SP_5197,Matéo,20
+2304235,18:02:00,18:02:10,stop_point:SP_5202,La Grange,21
+2304235,18:05:00,18:05:10,stop_point:SP_1609,Barry,22
+2304235,18:06:00,18:06:10,stop_point:SP_5206,Garenne,23
+2304235,18:08:00,18:08:10,stop_point:SP_5192,Mairie Gratentour,24
+2304235,18:10:00,18:10:10,stop_point:SP_3646,Hespérides,25
+2304235,18:10:00,18:10:10,stop_point:SP_2630,Les Palanques,26
+2304235,18:11:00,18:11:10,stop_point:SP_929,Bois,27
+2304235,18:11:00,18:11:10,stop_point:SP_5210,Tour,28
+2304235,18:13:00,18:13:10,stop_point:SP_2461,Bruguières Mairie,29
+2304235,18:14:00,18:14:10,stop_point:SP_179,Ecole Bruguières,30
+2304235,18:15:00,18:15:10,stop_point:SP_1614,Gamouna,31
+2304235,18:17:00,18:17:10,stop_point:SP_3693,Bruguières Verger,32
+2304236,18:20:00,18:20:10,stop_point:SP_2016,La Vache,1
+2304236,18:22:00,18:22:10,stop_point:SP_327,Pader,2
+2304236,18:22:00,18:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304236,18:24:00,18:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304236,18:25:00,18:25:10,stop_point:SP_753,Riché Lalande,5
+2304236,18:27:00,18:27:10,stop_point:SP_1880,Lapin,6
+2304236,18:28:00,18:28:10,stop_point:SP_1995,Roubiéchou,7
+2304236,18:29:00,18:29:10,stop_point:SP_1993,Lapparou,8
+2304236,18:30:00,18:30:10,stop_point:SP_2419,Gaussen,9
+2304236,18:31:00,18:31:10,stop_point:SP_1499,Salvy,10
+2304236,18:32:00,18:32:10,stop_point:SP_445,Eglise Aucamville,11
+2304236,18:33:00,18:33:10,stop_point:SP_3252,Mairie Aucamville,12
+2304236,18:34:00,18:34:10,stop_point:SP_1128,Favasse,13
+2304236,18:35:00,18:35:10,stop_point:SP_619,Aucamville Collège,14
+2304236,18:36:00,18:36:10,stop_point:SP_2651,Raudelauzette,15
+2304236,18:37:00,18:37:10,stop_point:SP_455,Mariel,16
+2304236,18:38:00,18:38:10,stop_point:SP_1577,Peyronnette,17
+2304236,18:38:00,18:38:10,stop_point:SP_1215,Jules Verne,18
+2304236,18:40:00,18:40:10,stop_point:SP_1014,Pont Vieil,19
+2304236,18:41:00,18:41:10,stop_point:SP_5197,Matéo,20
+2304236,18:42:00,18:42:10,stop_point:SP_5202,La Grange,21
+2304236,18:45:00,18:45:10,stop_point:SP_1609,Barry,22
+2304236,18:46:00,18:46:10,stop_point:SP_5206,Garenne,23
+2304236,18:48:00,18:48:10,stop_point:SP_5192,Mairie Gratentour,24
+2304236,18:50:00,18:50:10,stop_point:SP_3646,Hespérides,25
+2304236,18:50:00,18:50:10,stop_point:SP_2630,Les Palanques,26
+2304236,18:51:00,18:51:10,stop_point:SP_929,Bois,27
+2304236,18:51:00,18:51:10,stop_point:SP_5210,Tour,28
+2304236,18:53:00,18:53:10,stop_point:SP_2461,Bruguières Mairie,29
+2304236,18:54:00,18:54:10,stop_point:SP_179,Ecole Bruguières,30
+2304236,18:55:00,18:55:10,stop_point:SP_1614,Gamouna,31
+2304236,18:57:00,18:57:10,stop_point:SP_3693,Bruguières Verger,32
+2304237,19:00:00,19:00:10,stop_point:SP_2016,La Vache,1
+2304237,19:02:00,19:02:10,stop_point:SP_327,Pader,2
+2304237,19:02:00,19:02:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304237,19:04:00,19:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304237,19:05:00,19:05:10,stop_point:SP_753,Riché Lalande,5
+2304237,19:07:00,19:07:10,stop_point:SP_1880,Lapin,6
+2304237,19:08:00,19:08:10,stop_point:SP_1995,Roubiéchou,7
+2304237,19:09:00,19:09:10,stop_point:SP_1993,Lapparou,8
+2304237,19:10:00,19:10:10,stop_point:SP_2419,Gaussen,9
+2304237,19:11:00,19:11:10,stop_point:SP_1499,Salvy,10
+2304237,19:12:00,19:12:10,stop_point:SP_445,Eglise Aucamville,11
+2304237,19:13:00,19:13:10,stop_point:SP_3252,Mairie Aucamville,12
+2304237,19:14:00,19:14:10,stop_point:SP_1128,Favasse,13
+2304237,19:15:00,19:15:10,stop_point:SP_619,Aucamville Collège,14
+2304237,19:16:00,19:16:10,stop_point:SP_2651,Raudelauzette,15
+2304237,19:17:00,19:17:10,stop_point:SP_455,Mariel,16
+2304237,19:18:00,19:18:10,stop_point:SP_1577,Peyronnette,17
+2304237,19:18:00,19:18:10,stop_point:SP_1215,Jules Verne,18
+2304237,19:20:00,19:20:10,stop_point:SP_1014,Pont Vieil,19
+2304237,19:21:00,19:21:10,stop_point:SP_5197,Matéo,20
+2304237,19:22:00,19:22:10,stop_point:SP_5202,La Grange,21
+2304237,19:25:00,19:25:10,stop_point:SP_1609,Barry,22
+2304237,19:26:00,19:26:10,stop_point:SP_5206,Garenne,23
+2304237,19:28:00,19:28:10,stop_point:SP_5192,Mairie Gratentour,24
+2304237,19:30:00,19:30:10,stop_point:SP_3646,Hespérides,25
+2304237,19:30:00,19:30:10,stop_point:SP_2630,Les Palanques,26
+2304237,19:31:00,19:31:10,stop_point:SP_929,Bois,27
+2304237,19:31:00,19:31:10,stop_point:SP_5210,Tour,28
+2304237,19:33:00,19:33:10,stop_point:SP_2461,Bruguières Mairie,29
+2304237,19:34:00,19:34:10,stop_point:SP_179,Ecole Bruguières,30
+2304237,19:35:00,19:35:10,stop_point:SP_1614,Gamouna,31
+2304237,19:37:00,19:37:10,stop_point:SP_3693,Bruguières Verger,32
+2304238,19:40:00,19:40:10,stop_point:SP_2016,La Vache,1
+2304238,19:42:00,19:42:10,stop_point:SP_327,Pader,2
+2304238,19:42:00,19:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304238,19:44:00,19:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304238,19:45:00,19:45:10,stop_point:SP_753,Riché Lalande,5
+2304238,19:47:00,19:47:10,stop_point:SP_1880,Lapin,6
+2304238,19:48:00,19:48:10,stop_point:SP_1995,Roubiéchou,7
+2304238,19:49:00,19:49:10,stop_point:SP_1993,Lapparou,8
+2304238,19:50:00,19:50:10,stop_point:SP_2419,Gaussen,9
+2304238,19:51:00,19:51:10,stop_point:SP_1499,Salvy,10
+2304238,19:52:00,19:52:10,stop_point:SP_445,Eglise Aucamville,11
+2304238,19:53:00,19:53:10,stop_point:SP_3252,Mairie Aucamville,12
+2304238,19:54:00,19:54:10,stop_point:SP_1128,Favasse,13
+2304238,19:55:00,19:55:10,stop_point:SP_619,Aucamville Collège,14
+2304238,19:56:00,19:56:10,stop_point:SP_2651,Raudelauzette,15
+2304238,19:57:00,19:57:10,stop_point:SP_455,Mariel,16
+2304238,19:58:00,19:58:10,stop_point:SP_1577,Peyronnette,17
+2304238,19:58:00,19:58:10,stop_point:SP_1215,Jules Verne,18
+2304238,20:00:00,20:00:10,stop_point:SP_1014,Pont Vieil,19
+2304238,20:01:00,20:01:10,stop_point:SP_5197,Matéo,20
+2304238,20:02:00,20:02:10,stop_point:SP_5202,La Grange,21
+2304238,20:05:00,20:05:10,stop_point:SP_1609,Barry,22
+2304238,20:06:00,20:06:10,stop_point:SP_5206,Garenne,23
+2304238,20:08:00,20:08:10,stop_point:SP_5192,Mairie Gratentour,24
+2304238,20:10:00,20:10:10,stop_point:SP_3646,Hespérides,25
+2304238,20:10:00,20:10:10,stop_point:SP_2630,Les Palanques,26
+2304238,20:11:00,20:11:10,stop_point:SP_929,Bois,27
+2304238,20:11:00,20:11:10,stop_point:SP_5210,Tour,28
+2304238,20:13:00,20:13:10,stop_point:SP_2461,Bruguières Mairie,29
+2304238,20:14:00,20:14:10,stop_point:SP_179,Ecole Bruguières,30
+2304238,20:15:00,20:15:10,stop_point:SP_1614,Gamouna,31
+2304238,20:17:00,20:17:10,stop_point:SP_3693,Bruguières Verger,32
+2304239,20:20:00,20:20:10,stop_point:SP_2016,La Vache,1
+2304239,20:22:00,20:22:10,stop_point:SP_327,Pader,2
+2304239,20:22:00,20:22:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304239,20:24:00,20:24:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304239,20:25:00,20:25:10,stop_point:SP_753,Riché Lalande,5
+2304239,20:27:00,20:27:10,stop_point:SP_1880,Lapin,6
+2304239,20:28:00,20:28:10,stop_point:SP_1995,Roubiéchou,7
+2304239,20:29:00,20:29:10,stop_point:SP_1993,Lapparou,8
+2304239,20:30:00,20:30:10,stop_point:SP_2419,Gaussen,9
+2304239,20:31:00,20:31:10,stop_point:SP_1499,Salvy,10
+2304239,20:32:00,20:32:10,stop_point:SP_445,Eglise Aucamville,11
+2304239,20:33:00,20:33:10,stop_point:SP_3252,Mairie Aucamville,12
+2304239,20:34:00,20:34:10,stop_point:SP_1128,Favasse,13
+2304239,20:35:00,20:35:10,stop_point:SP_619,Aucamville Collège,14
+2304239,20:35:00,20:35:10,stop_point:SP_2651,Raudelauzette,15
+2304239,20:36:00,20:36:10,stop_point:SP_455,Mariel,16
+2304239,20:37:00,20:37:10,stop_point:SP_1577,Peyronnette,17
+2304239,20:37:00,20:37:10,stop_point:SP_1215,Jules Verne,18
+2304239,20:39:00,20:39:10,stop_point:SP_1014,Pont Vieil,19
+2304239,20:40:00,20:40:10,stop_point:SP_5197,Matéo,20
+2304239,20:41:00,20:41:10,stop_point:SP_5202,La Grange,21
+2304239,20:44:00,20:44:10,stop_point:SP_1609,Barry,22
+2304239,20:45:00,20:45:10,stop_point:SP_5206,Garenne,23
+2304239,20:47:00,20:47:10,stop_point:SP_5192,Mairie Gratentour,24
+2304239,20:49:00,20:49:10,stop_point:SP_3646,Hespérides,25
+2304239,20:49:00,20:49:10,stop_point:SP_2630,Les Palanques,26
+2304239,20:50:00,20:50:10,stop_point:SP_929,Bois,27
+2304239,20:50:00,20:50:10,stop_point:SP_5210,Tour,28
+2304239,20:52:00,20:52:10,stop_point:SP_2461,Bruguières Mairie,29
+2304239,20:53:00,20:53:10,stop_point:SP_179,Ecole Bruguières,30
+2304239,20:54:00,20:54:10,stop_point:SP_1614,Gamouna,31
+2304239,20:56:00,20:56:10,stop_point:SP_3693,Bruguières Verger,32
+2304240,06:40:00,06:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304240,06:42:00,06:42:10,stop_point:SP_5200,Gamouna,2
+2304240,06:43:00,06:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304240,06:44:00,06:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304240,06:45:00,06:45:10,stop_point:SP_5189,Tour,5
+2304240,06:46:00,06:46:10,stop_point:SP_125,Bois,6
+2304240,06:46:00,06:46:10,stop_point:SP_2528,Les Palanques,7
+2304240,06:47:00,06:47:10,stop_point:SP_2704,Hespérides,8
+2304240,06:49:00,06:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304240,06:50:00,06:50:10,stop_point:SP_5208,Garenne,10
+2304240,06:51:00,06:51:10,stop_point:SP_2755,Barry,11
+2304240,06:54:00,06:54:10,stop_point:SP_5191,La Grange,12
+2304240,06:55:00,06:55:10,stop_point:SP_5186,Matéo,13
+2304240,06:56:00,06:56:10,stop_point:SP_3911,Pont Vieil,14
+2304240,06:58:00,06:58:10,stop_point:SP_2710,Jules Verne,15
+2304240,06:58:00,06:58:10,stop_point:SP_1370,Peyronnette,16
+2304240,06:59:00,06:59:10,stop_point:SP_3053,Mariel,17
+2304240,07:00:00,07:00:10,stop_point:SP_3516,Raudelauzette,18
+2304240,07:01:00,07:01:10,stop_point:SP_1879,Aucamville Collège,19
+2304240,07:02:00,07:02:10,stop_point:SP_175,Favasse,20
+2304240,07:03:00,07:03:10,stop_point:SP_1760,Mairie Aucamville,21
+2304240,07:04:00,07:04:10,stop_point:SP_2311,Eglise Aucamville,22
+2304240,07:05:00,07:05:10,stop_point:SP_802,Salvy,23
+2304240,07:06:00,07:06:10,stop_point:SP_2114,Gaussen,24
+2304240,07:07:00,07:07:10,stop_point:SP_3810,Lapparou,25
+2304240,07:08:00,07:08:10,stop_point:SP_507,Roubiéchou,26
+2304240,07:09:00,07:09:10,stop_point:SP_3354,Lapin,27
+2304240,07:10:00,07:10:10,stop_point:SP_2207,Riché Lalande,28
+2304240,07:11:00,07:11:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304240,07:12:00,07:12:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304240,07:13:00,07:13:10,stop_point:SP_97,Pader,31
+2304240,07:14:00,07:14:10,stop_point:SP_2016,La Vache,32
+2304241,07:20:00,07:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304241,07:22:00,07:22:10,stop_point:SP_5200,Gamouna,2
+2304241,07:23:00,07:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304241,07:24:00,07:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304241,07:25:00,07:25:10,stop_point:SP_5189,Tour,5
+2304241,07:26:00,07:26:10,stop_point:SP_125,Bois,6
+2304241,07:26:00,07:26:10,stop_point:SP_2528,Les Palanques,7
+2304241,07:27:00,07:27:10,stop_point:SP_2704,Hespérides,8
+2304241,07:29:00,07:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304241,07:30:00,07:30:10,stop_point:SP_5208,Garenne,10
+2304241,07:31:00,07:31:10,stop_point:SP_2755,Barry,11
+2304241,07:34:00,07:34:10,stop_point:SP_5191,La Grange,12
+2304241,07:35:00,07:35:10,stop_point:SP_5186,Matéo,13
+2304241,07:36:00,07:36:10,stop_point:SP_3911,Pont Vieil,14
+2304241,07:38:00,07:38:10,stop_point:SP_2710,Jules Verne,15
+2304241,07:38:00,07:38:10,stop_point:SP_1370,Peyronnette,16
+2304241,07:39:00,07:39:10,stop_point:SP_3053,Mariel,17
+2304241,07:40:00,07:40:10,stop_point:SP_3516,Raudelauzette,18
+2304241,07:41:00,07:41:10,stop_point:SP_1879,Aucamville Collège,19
+2304241,07:42:00,07:42:10,stop_point:SP_175,Favasse,20
+2304241,07:43:00,07:43:10,stop_point:SP_1760,Mairie Aucamville,21
+2304241,07:44:00,07:44:10,stop_point:SP_2311,Eglise Aucamville,22
+2304241,07:45:00,07:45:10,stop_point:SP_802,Salvy,23
+2304241,07:46:00,07:46:10,stop_point:SP_2114,Gaussen,24
+2304241,07:47:00,07:47:10,stop_point:SP_3810,Lapparou,25
+2304241,07:48:00,07:48:10,stop_point:SP_507,Roubiéchou,26
+2304241,07:49:00,07:49:10,stop_point:SP_3354,Lapin,27
+2304241,07:50:00,07:50:10,stop_point:SP_2207,Riché Lalande,28
+2304241,07:51:00,07:51:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304241,07:52:00,07:52:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304241,07:53:00,07:53:10,stop_point:SP_97,Pader,31
+2304241,07:54:00,07:54:10,stop_point:SP_2016,La Vache,32
+2304242,08:00:00,08:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304242,08:02:00,08:02:10,stop_point:SP_5200,Gamouna,2
+2304242,08:03:00,08:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304242,08:04:00,08:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304242,08:05:00,08:05:10,stop_point:SP_5189,Tour,5
+2304242,08:06:00,08:06:10,stop_point:SP_125,Bois,6
+2304242,08:06:00,08:06:10,stop_point:SP_2528,Les Palanques,7
+2304242,08:07:00,08:07:10,stop_point:SP_2704,Hespérides,8
+2304242,08:09:00,08:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304242,08:10:00,08:10:10,stop_point:SP_5208,Garenne,10
+2304242,08:11:00,08:11:10,stop_point:SP_2755,Barry,11
+2304242,08:14:00,08:14:10,stop_point:SP_5191,La Grange,12
+2304242,08:15:00,08:15:10,stop_point:SP_5186,Matéo,13
+2304242,08:16:00,08:16:10,stop_point:SP_3911,Pont Vieil,14
+2304242,08:18:00,08:18:10,stop_point:SP_2710,Jules Verne,15
+2304242,08:18:00,08:18:10,stop_point:SP_1370,Peyronnette,16
+2304242,08:19:00,08:19:10,stop_point:SP_3053,Mariel,17
+2304242,08:20:00,08:20:10,stop_point:SP_3516,Raudelauzette,18
+2304242,08:21:00,08:21:10,stop_point:SP_1879,Aucamville Collège,19
+2304242,08:22:00,08:22:10,stop_point:SP_175,Favasse,20
+2304242,08:23:00,08:23:10,stop_point:SP_1760,Mairie Aucamville,21
+2304242,08:24:00,08:24:10,stop_point:SP_2311,Eglise Aucamville,22
+2304242,08:25:00,08:25:10,stop_point:SP_802,Salvy,23
+2304242,08:26:00,08:26:10,stop_point:SP_2114,Gaussen,24
+2304242,08:28:00,08:28:10,stop_point:SP_3810,Lapparou,25
+2304242,08:29:00,08:29:10,stop_point:SP_507,Roubiéchou,26
+2304242,08:30:00,08:30:10,stop_point:SP_3354,Lapin,27
+2304242,08:32:00,08:32:10,stop_point:SP_2207,Riché Lalande,28
+2304242,08:33:00,08:33:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304242,08:35:00,08:35:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304242,08:36:00,08:36:10,stop_point:SP_97,Pader,31
+2304242,08:37:00,08:37:10,stop_point:SP_2016,La Vache,32
+2304243,08:40:00,08:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304243,08:42:00,08:42:10,stop_point:SP_5200,Gamouna,2
+2304243,08:43:00,08:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304243,08:44:00,08:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304243,08:45:00,08:45:10,stop_point:SP_5189,Tour,5
+2304243,08:46:00,08:46:10,stop_point:SP_125,Bois,6
+2304243,08:46:00,08:46:10,stop_point:SP_2528,Les Palanques,7
+2304243,08:47:00,08:47:10,stop_point:SP_2704,Hespérides,8
+2304243,08:49:00,08:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304243,08:50:00,08:50:10,stop_point:SP_5208,Garenne,10
+2304243,08:51:00,08:51:10,stop_point:SP_2755,Barry,11
+2304243,08:54:00,08:54:10,stop_point:SP_5191,La Grange,12
+2304243,08:55:00,08:55:10,stop_point:SP_5186,Matéo,13
+2304243,08:56:00,08:56:10,stop_point:SP_3911,Pont Vieil,14
+2304243,08:58:00,08:58:10,stop_point:SP_2710,Jules Verne,15
+2304243,08:58:00,08:58:10,stop_point:SP_1370,Peyronnette,16
+2304243,08:59:00,08:59:10,stop_point:SP_3053,Mariel,17
+2304243,09:00:00,09:00:10,stop_point:SP_3516,Raudelauzette,18
+2304243,09:01:00,09:01:10,stop_point:SP_1879,Aucamville Collège,19
+2304243,09:02:00,09:02:10,stop_point:SP_175,Favasse,20
+2304243,09:03:00,09:03:10,stop_point:SP_1760,Mairie Aucamville,21
+2304243,09:04:00,09:04:10,stop_point:SP_2311,Eglise Aucamville,22
+2304243,09:05:00,09:05:10,stop_point:SP_802,Salvy,23
+2304243,09:06:00,09:06:10,stop_point:SP_2114,Gaussen,24
+2304243,09:08:00,09:08:10,stop_point:SP_3810,Lapparou,25
+2304243,09:09:00,09:09:10,stop_point:SP_507,Roubiéchou,26
+2304243,09:10:00,09:10:10,stop_point:SP_3354,Lapin,27
+2304243,09:12:00,09:12:10,stop_point:SP_2207,Riché Lalande,28
+2304243,09:13:00,09:13:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304243,09:15:00,09:15:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304243,09:16:00,09:16:10,stop_point:SP_97,Pader,31
+2304243,09:17:00,09:17:10,stop_point:SP_2016,La Vache,32
+2304244,09:20:00,09:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304244,09:22:00,09:22:10,stop_point:SP_5200,Gamouna,2
+2304244,09:23:00,09:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304244,09:24:00,09:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304244,09:25:00,09:25:10,stop_point:SP_5189,Tour,5
+2304244,09:26:00,09:26:10,stop_point:SP_125,Bois,6
+2304244,09:26:00,09:26:10,stop_point:SP_2528,Les Palanques,7
+2304244,09:27:00,09:27:10,stop_point:SP_2704,Hespérides,8
+2304244,09:29:00,09:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304244,09:30:00,09:30:10,stop_point:SP_5208,Garenne,10
+2304244,09:31:00,09:31:10,stop_point:SP_2755,Barry,11
+2304244,09:34:00,09:34:10,stop_point:SP_5191,La Grange,12
+2304244,09:35:00,09:35:10,stop_point:SP_5186,Matéo,13
+2304244,09:36:00,09:36:10,stop_point:SP_3911,Pont Vieil,14
+2304244,09:38:00,09:38:10,stop_point:SP_2710,Jules Verne,15
+2304244,09:38:00,09:38:10,stop_point:SP_1370,Peyronnette,16
+2304244,09:39:00,09:39:10,stop_point:SP_3053,Mariel,17
+2304244,09:40:00,09:40:10,stop_point:SP_3516,Raudelauzette,18
+2304244,09:41:00,09:41:10,stop_point:SP_1879,Aucamville Collège,19
+2304244,09:43:00,09:43:10,stop_point:SP_175,Favasse,20
+2304244,09:44:00,09:44:10,stop_point:SP_1760,Mairie Aucamville,21
+2304244,09:45:00,09:45:10,stop_point:SP_2311,Eglise Aucamville,22
+2304244,09:46:00,09:46:10,stop_point:SP_802,Salvy,23
+2304244,09:48:00,09:48:10,stop_point:SP_2114,Gaussen,24
+2304244,09:49:00,09:49:10,stop_point:SP_3810,Lapparou,25
+2304244,09:51:00,09:51:10,stop_point:SP_507,Roubiéchou,26
+2304244,09:52:00,09:52:10,stop_point:SP_3354,Lapin,27
+2304244,09:54:00,09:54:10,stop_point:SP_2207,Riché Lalande,28
+2304244,09:55:00,09:55:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304244,09:57:00,09:57:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304244,09:58:00,09:58:10,stop_point:SP_97,Pader,31
+2304244,09:59:00,09:59:10,stop_point:SP_2016,La Vache,32
+2304245,10:00:00,10:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304245,10:02:00,10:02:10,stop_point:SP_5200,Gamouna,2
+2304245,10:03:00,10:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304245,10:04:00,10:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304245,10:05:00,10:05:10,stop_point:SP_5189,Tour,5
+2304245,10:06:00,10:06:10,stop_point:SP_125,Bois,6
+2304245,10:06:00,10:06:10,stop_point:SP_2528,Les Palanques,7
+2304245,10:07:00,10:07:10,stop_point:SP_2704,Hespérides,8
+2304245,10:09:00,10:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304245,10:10:00,10:10:10,stop_point:SP_5208,Garenne,10
+2304245,10:11:00,10:11:10,stop_point:SP_2755,Barry,11
+2304245,10:14:00,10:14:10,stop_point:SP_5191,La Grange,12
+2304245,10:15:00,10:15:10,stop_point:SP_5186,Matéo,13
+2304245,10:16:00,10:16:10,stop_point:SP_3911,Pont Vieil,14
+2304245,10:18:00,10:18:10,stop_point:SP_2710,Jules Verne,15
+2304245,10:18:00,10:18:10,stop_point:SP_1370,Peyronnette,16
+2304245,10:19:00,10:19:10,stop_point:SP_3053,Mariel,17
+2304245,10:20:00,10:20:10,stop_point:SP_3516,Raudelauzette,18
+2304245,10:21:00,10:21:10,stop_point:SP_1879,Aucamville Collège,19
+2304245,10:23:00,10:23:10,stop_point:SP_175,Favasse,20
+2304245,10:24:00,10:24:10,stop_point:SP_1760,Mairie Aucamville,21
+2304245,10:25:00,10:25:10,stop_point:SP_2311,Eglise Aucamville,22
+2304245,10:26:00,10:26:10,stop_point:SP_802,Salvy,23
+2304245,10:28:00,10:28:10,stop_point:SP_2114,Gaussen,24
+2304245,10:29:00,10:29:10,stop_point:SP_3810,Lapparou,25
+2304245,10:31:00,10:31:10,stop_point:SP_507,Roubiéchou,26
+2304245,10:32:00,10:32:10,stop_point:SP_3354,Lapin,27
+2304245,10:34:00,10:34:10,stop_point:SP_2207,Riché Lalande,28
+2304245,10:35:00,10:35:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304245,10:37:00,10:37:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304245,10:38:00,10:38:10,stop_point:SP_97,Pader,31
+2304245,10:39:00,10:39:10,stop_point:SP_2016,La Vache,32
+2304246,10:40:00,10:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304246,10:42:00,10:42:10,stop_point:SP_5200,Gamouna,2
+2304246,10:43:00,10:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304246,10:44:00,10:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304246,10:45:00,10:45:10,stop_point:SP_5189,Tour,5
+2304246,10:46:00,10:46:10,stop_point:SP_125,Bois,6
+2304246,10:47:00,10:47:10,stop_point:SP_2528,Les Palanques,7
+2304246,10:47:00,10:47:10,stop_point:SP_2704,Hespérides,8
+2304246,10:49:00,10:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304246,10:51:00,10:51:10,stop_point:SP_5208,Garenne,10
+2304246,10:52:00,10:52:10,stop_point:SP_2755,Barry,11
+2304246,10:55:00,10:55:10,stop_point:SP_5191,La Grange,12
+2304246,10:56:00,10:56:10,stop_point:SP_5186,Matéo,13
+2304246,10:57:00,10:57:10,stop_point:SP_3911,Pont Vieil,14
+2304246,10:59:00,10:59:10,stop_point:SP_2710,Jules Verne,15
+2304246,10:59:00,10:59:10,stop_point:SP_1370,Peyronnette,16
+2304246,11:00:00,11:00:10,stop_point:SP_3053,Mariel,17
+2304246,11:01:00,11:01:10,stop_point:SP_3516,Raudelauzette,18
+2304246,11:02:00,11:02:10,stop_point:SP_1879,Aucamville Collège,19
+2304246,11:04:00,11:04:10,stop_point:SP_175,Favasse,20
+2304246,11:05:00,11:05:10,stop_point:SP_1760,Mairie Aucamville,21
+2304246,11:06:00,11:06:10,stop_point:SP_2311,Eglise Aucamville,22
+2304246,11:07:00,11:07:10,stop_point:SP_802,Salvy,23
+2304246,11:09:00,11:09:10,stop_point:SP_2114,Gaussen,24
+2304246,11:10:00,11:10:10,stop_point:SP_3810,Lapparou,25
+2304246,11:12:00,11:12:10,stop_point:SP_507,Roubiéchou,26
+2304246,11:13:00,11:13:10,stop_point:SP_3354,Lapin,27
+2304246,11:15:00,11:15:10,stop_point:SP_2207,Riché Lalande,28
+2304246,11:16:00,11:16:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304246,11:18:00,11:18:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304246,11:19:00,11:19:10,stop_point:SP_97,Pader,31
+2304246,11:20:00,11:20:10,stop_point:SP_2016,La Vache,32
+2304247,11:20:00,11:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304247,11:22:00,11:22:10,stop_point:SP_5200,Gamouna,2
+2304247,11:23:00,11:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304247,11:24:00,11:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304247,11:25:00,11:25:10,stop_point:SP_5189,Tour,5
+2304247,11:26:00,11:26:10,stop_point:SP_125,Bois,6
+2304247,11:27:00,11:27:10,stop_point:SP_2528,Les Palanques,7
+2304247,11:27:00,11:27:10,stop_point:SP_2704,Hespérides,8
+2304247,11:29:00,11:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304247,11:31:00,11:31:10,stop_point:SP_5208,Garenne,10
+2304247,11:32:00,11:32:10,stop_point:SP_2755,Barry,11
+2304247,11:35:00,11:35:10,stop_point:SP_5191,La Grange,12
+2304247,11:36:00,11:36:10,stop_point:SP_5186,Matéo,13
+2304247,11:37:00,11:37:10,stop_point:SP_3911,Pont Vieil,14
+2304247,11:39:00,11:39:10,stop_point:SP_2710,Jules Verne,15
+2304247,11:39:00,11:39:10,stop_point:SP_1370,Peyronnette,16
+2304247,11:40:00,11:40:10,stop_point:SP_3053,Mariel,17
+2304247,11:41:00,11:41:10,stop_point:SP_3516,Raudelauzette,18
+2304247,11:42:00,11:42:10,stop_point:SP_1879,Aucamville Collège,19
+2304247,11:44:00,11:44:10,stop_point:SP_175,Favasse,20
+2304247,11:45:00,11:45:10,stop_point:SP_1760,Mairie Aucamville,21
+2304247,11:46:00,11:46:10,stop_point:SP_2311,Eglise Aucamville,22
+2304247,11:47:00,11:47:10,stop_point:SP_802,Salvy,23
+2304247,11:49:00,11:49:10,stop_point:SP_2114,Gaussen,24
+2304247,11:50:00,11:50:10,stop_point:SP_3810,Lapparou,25
+2304247,11:52:00,11:52:10,stop_point:SP_507,Roubiéchou,26
+2304247,11:53:00,11:53:10,stop_point:SP_3354,Lapin,27
+2304247,11:55:00,11:55:10,stop_point:SP_2207,Riché Lalande,28
+2304247,11:56:00,11:56:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304247,11:58:00,11:58:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304247,11:59:00,11:59:10,stop_point:SP_97,Pader,31
+2304247,12:00:00,12:00:10,stop_point:SP_2016,La Vache,32
+2304248,12:00:00,12:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304248,12:02:00,12:02:10,stop_point:SP_5200,Gamouna,2
+2304248,12:03:00,12:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304248,12:04:00,12:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304248,12:05:00,12:05:10,stop_point:SP_5189,Tour,5
+2304248,12:06:00,12:06:10,stop_point:SP_125,Bois,6
+2304248,12:07:00,12:07:10,stop_point:SP_2528,Les Palanques,7
+2304248,12:07:00,12:07:10,stop_point:SP_2704,Hespérides,8
+2304248,12:09:00,12:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304248,12:11:00,12:11:10,stop_point:SP_5208,Garenne,10
+2304248,12:12:00,12:12:10,stop_point:SP_2755,Barry,11
+2304248,12:15:00,12:15:10,stop_point:SP_5191,La Grange,12
+2304248,12:16:00,12:16:10,stop_point:SP_5186,Matéo,13
+2304248,12:17:00,12:17:10,stop_point:SP_3911,Pont Vieil,14
+2304248,12:19:00,12:19:10,stop_point:SP_2710,Jules Verne,15
+2304248,12:19:00,12:19:10,stop_point:SP_1370,Peyronnette,16
+2304248,12:20:00,12:20:10,stop_point:SP_3053,Mariel,17
+2304248,12:21:00,12:21:10,stop_point:SP_3516,Raudelauzette,18
+2304248,12:22:00,12:22:10,stop_point:SP_1879,Aucamville Collège,19
+2304248,12:24:00,12:24:10,stop_point:SP_175,Favasse,20
+2304248,12:25:00,12:25:10,stop_point:SP_1760,Mairie Aucamville,21
+2304248,12:26:00,12:26:10,stop_point:SP_2311,Eglise Aucamville,22
+2304248,12:27:00,12:27:10,stop_point:SP_802,Salvy,23
+2304248,12:29:00,12:29:10,stop_point:SP_2114,Gaussen,24
+2304248,12:30:00,12:30:10,stop_point:SP_3810,Lapparou,25
+2304248,12:32:00,12:32:10,stop_point:SP_507,Roubiéchou,26
+2304248,12:33:00,12:33:10,stop_point:SP_3354,Lapin,27
+2304248,12:35:00,12:35:10,stop_point:SP_2207,Riché Lalande,28
+2304248,12:36:00,12:36:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304248,12:38:00,12:38:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304248,12:39:00,12:39:10,stop_point:SP_97,Pader,31
+2304248,12:40:00,12:40:10,stop_point:SP_2016,La Vache,32
+2304249,12:40:00,12:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304249,12:42:00,12:42:10,stop_point:SP_5200,Gamouna,2
+2304249,12:43:00,12:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304249,12:44:00,12:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304249,12:45:00,12:45:10,stop_point:SP_5189,Tour,5
+2304249,12:46:00,12:46:10,stop_point:SP_125,Bois,6
+2304249,12:47:00,12:47:10,stop_point:SP_2528,Les Palanques,7
+2304249,12:47:00,12:47:10,stop_point:SP_2704,Hespérides,8
+2304249,12:49:00,12:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304249,12:51:00,12:51:10,stop_point:SP_5208,Garenne,10
+2304249,12:52:00,12:52:10,stop_point:SP_2755,Barry,11
+2304249,12:55:00,12:55:10,stop_point:SP_5191,La Grange,12
+2304249,12:56:00,12:56:10,stop_point:SP_5186,Matéo,13
+2304249,12:57:00,12:57:10,stop_point:SP_3911,Pont Vieil,14
+2304249,12:59:00,12:59:10,stop_point:SP_2710,Jules Verne,15
+2304249,12:59:00,12:59:10,stop_point:SP_1370,Peyronnette,16
+2304249,13:00:00,13:00:10,stop_point:SP_3053,Mariel,17
+2304249,13:01:00,13:01:10,stop_point:SP_3516,Raudelauzette,18
+2304249,13:02:00,13:02:10,stop_point:SP_1879,Aucamville Collège,19
+2304249,13:03:00,13:03:10,stop_point:SP_175,Favasse,20
+2304249,13:04:00,13:04:10,stop_point:SP_1760,Mairie Aucamville,21
+2304249,13:05:00,13:05:10,stop_point:SP_2311,Eglise Aucamville,22
+2304249,13:06:00,13:06:10,stop_point:SP_802,Salvy,23
+2304249,13:07:00,13:07:10,stop_point:SP_2114,Gaussen,24
+2304249,13:08:00,13:08:10,stop_point:SP_3810,Lapparou,25
+2304249,13:09:00,13:09:10,stop_point:SP_507,Roubiéchou,26
+2304249,13:10:00,13:10:10,stop_point:SP_3354,Lapin,27
+2304249,13:11:00,13:11:10,stop_point:SP_2207,Riché Lalande,28
+2304249,13:12:00,13:12:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304249,13:14:00,13:14:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304249,13:15:00,13:15:10,stop_point:SP_97,Pader,31
+2304249,13:16:00,13:16:10,stop_point:SP_2016,La Vache,32
+2304250,13:20:00,13:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304250,13:22:00,13:22:10,stop_point:SP_5200,Gamouna,2
+2304250,13:23:00,13:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304250,13:24:00,13:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304250,13:25:00,13:25:10,stop_point:SP_5189,Tour,5
+2304250,13:26:00,13:26:10,stop_point:SP_125,Bois,6
+2304250,13:27:00,13:27:10,stop_point:SP_2528,Les Palanques,7
+2304250,13:27:00,13:27:10,stop_point:SP_2704,Hespérides,8
+2304250,13:29:00,13:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304250,13:31:00,13:31:10,stop_point:SP_5208,Garenne,10
+2304250,13:32:00,13:32:10,stop_point:SP_2755,Barry,11
+2304250,13:35:00,13:35:10,stop_point:SP_5191,La Grange,12
+2304250,13:36:00,13:36:10,stop_point:SP_5186,Matéo,13
+2304250,13:37:00,13:37:10,stop_point:SP_3911,Pont Vieil,14
+2304250,13:39:00,13:39:10,stop_point:SP_2710,Jules Verne,15
+2304250,13:39:00,13:39:10,stop_point:SP_1370,Peyronnette,16
+2304250,13:40:00,13:40:10,stop_point:SP_3053,Mariel,17
+2304250,13:41:00,13:41:10,stop_point:SP_3516,Raudelauzette,18
+2304250,13:42:00,13:42:10,stop_point:SP_1879,Aucamville Collège,19
+2304250,13:43:00,13:43:10,stop_point:SP_175,Favasse,20
+2304250,13:44:00,13:44:10,stop_point:SP_1760,Mairie Aucamville,21
+2304250,13:45:00,13:45:10,stop_point:SP_2311,Eglise Aucamville,22
+2304250,13:46:00,13:46:10,stop_point:SP_802,Salvy,23
+2304250,13:47:00,13:47:10,stop_point:SP_2114,Gaussen,24
+2304250,13:48:00,13:48:10,stop_point:SP_3810,Lapparou,25
+2304250,13:49:00,13:49:10,stop_point:SP_507,Roubiéchou,26
+2304250,13:50:00,13:50:10,stop_point:SP_3354,Lapin,27
+2304250,13:51:00,13:51:10,stop_point:SP_2207,Riché Lalande,28
+2304250,13:52:00,13:52:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304250,13:54:00,13:54:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304250,13:55:00,13:55:10,stop_point:SP_97,Pader,31
+2304250,13:56:00,13:56:10,stop_point:SP_2016,La Vache,32
+2304251,14:00:00,14:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304251,14:02:00,14:02:10,stop_point:SP_5200,Gamouna,2
+2304251,14:03:00,14:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304251,14:04:00,14:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304251,14:05:00,14:05:10,stop_point:SP_5189,Tour,5
+2304251,14:06:00,14:06:10,stop_point:SP_125,Bois,6
+2304251,14:07:00,14:07:10,stop_point:SP_2528,Les Palanques,7
+2304251,14:07:00,14:07:10,stop_point:SP_2704,Hespérides,8
+2304251,14:09:00,14:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304251,14:11:00,14:11:10,stop_point:SP_5208,Garenne,10
+2304251,14:12:00,14:12:10,stop_point:SP_2755,Barry,11
+2304251,14:15:00,14:15:10,stop_point:SP_5191,La Grange,12
+2304251,14:16:00,14:16:10,stop_point:SP_5186,Matéo,13
+2304251,14:17:00,14:17:10,stop_point:SP_3911,Pont Vieil,14
+2304251,14:19:00,14:19:10,stop_point:SP_2710,Jules Verne,15
+2304251,14:19:00,14:19:10,stop_point:SP_1370,Peyronnette,16
+2304251,14:20:00,14:20:10,stop_point:SP_3053,Mariel,17
+2304251,14:21:00,14:21:10,stop_point:SP_3516,Raudelauzette,18
+2304251,14:22:00,14:22:10,stop_point:SP_1879,Aucamville Collège,19
+2304251,14:23:00,14:23:10,stop_point:SP_175,Favasse,20
+2304251,14:24:00,14:24:10,stop_point:SP_1760,Mairie Aucamville,21
+2304251,14:25:00,14:25:10,stop_point:SP_2311,Eglise Aucamville,22
+2304251,14:26:00,14:26:10,stop_point:SP_802,Salvy,23
+2304251,14:27:00,14:27:10,stop_point:SP_2114,Gaussen,24
+2304251,14:28:00,14:28:10,stop_point:SP_3810,Lapparou,25
+2304251,14:29:00,14:29:10,stop_point:SP_507,Roubiéchou,26
+2304251,14:30:00,14:30:10,stop_point:SP_3354,Lapin,27
+2304251,14:31:00,14:31:10,stop_point:SP_2207,Riché Lalande,28
+2304251,14:32:00,14:32:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304251,14:34:00,14:34:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304251,14:35:00,14:35:10,stop_point:SP_97,Pader,31
+2304251,14:36:00,14:36:10,stop_point:SP_2016,La Vache,32
+2304252,14:40:00,14:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304252,14:42:00,14:42:10,stop_point:SP_5200,Gamouna,2
+2304252,14:43:00,14:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304252,14:44:00,14:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304252,14:45:00,14:45:10,stop_point:SP_5189,Tour,5
+2304252,14:46:00,14:46:10,stop_point:SP_125,Bois,6
+2304252,14:47:00,14:47:10,stop_point:SP_2528,Les Palanques,7
+2304252,14:48:00,14:48:10,stop_point:SP_2704,Hespérides,8
+2304252,14:49:00,14:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304252,14:51:00,14:51:10,stop_point:SP_5208,Garenne,10
+2304252,14:52:00,14:52:10,stop_point:SP_2755,Barry,11
+2304252,14:56:00,14:56:10,stop_point:SP_5191,La Grange,12
+2304252,14:56:00,14:56:10,stop_point:SP_5186,Matéo,13
+2304252,14:58:00,14:58:10,stop_point:SP_3911,Pont Vieil,14
+2304252,14:59:00,14:59:10,stop_point:SP_2710,Jules Verne,15
+2304252,15:00:00,15:00:10,stop_point:SP_1370,Peyronnette,16
+2304252,15:01:00,15:01:10,stop_point:SP_3053,Mariel,17
+2304252,15:02:00,15:02:10,stop_point:SP_3516,Raudelauzette,18
+2304252,15:03:00,15:03:10,stop_point:SP_1879,Aucamville Collège,19
+2304252,15:05:00,15:05:10,stop_point:SP_175,Favasse,20
+2304252,15:06:00,15:06:10,stop_point:SP_1760,Mairie Aucamville,21
+2304252,15:07:00,15:07:10,stop_point:SP_2311,Eglise Aucamville,22
+2304252,15:08:00,15:08:10,stop_point:SP_802,Salvy,23
+2304252,15:10:00,15:10:10,stop_point:SP_2114,Gaussen,24
+2304252,15:11:00,15:11:10,stop_point:SP_3810,Lapparou,25
+2304252,15:13:00,15:13:10,stop_point:SP_507,Roubiéchou,26
+2304252,15:14:00,15:14:10,stop_point:SP_3354,Lapin,27
+2304252,15:16:00,15:16:10,stop_point:SP_2207,Riché Lalande,28
+2304252,15:17:00,15:17:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304252,15:19:00,15:19:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304252,15:20:00,15:20:10,stop_point:SP_97,Pader,31
+2304252,15:21:00,15:21:10,stop_point:SP_2016,La Vache,32
+2304253,15:20:00,15:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304253,15:22:00,15:22:10,stop_point:SP_5200,Gamouna,2
+2304253,15:23:00,15:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304253,15:24:00,15:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304253,15:25:00,15:25:10,stop_point:SP_5189,Tour,5
+2304253,15:26:00,15:26:10,stop_point:SP_125,Bois,6
+2304253,15:27:00,15:27:10,stop_point:SP_2528,Les Palanques,7
+2304253,15:28:00,15:28:10,stop_point:SP_2704,Hespérides,8
+2304253,15:29:00,15:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304253,15:31:00,15:31:10,stop_point:SP_5208,Garenne,10
+2304253,15:32:00,15:32:10,stop_point:SP_2755,Barry,11
+2304253,15:36:00,15:36:10,stop_point:SP_5191,La Grange,12
+2304253,15:36:00,15:36:10,stop_point:SP_5186,Matéo,13
+2304253,15:38:00,15:38:10,stop_point:SP_3911,Pont Vieil,14
+2304253,15:39:00,15:39:10,stop_point:SP_2710,Jules Verne,15
+2304253,15:40:00,15:40:10,stop_point:SP_1370,Peyronnette,16
+2304253,15:41:00,15:41:10,stop_point:SP_3053,Mariel,17
+2304253,15:42:00,15:42:10,stop_point:SP_3516,Raudelauzette,18
+2304253,15:43:00,15:43:10,stop_point:SP_1879,Aucamville Collège,19
+2304253,15:45:00,15:45:10,stop_point:SP_175,Favasse,20
+2304253,15:46:00,15:46:10,stop_point:SP_1760,Mairie Aucamville,21
+2304253,15:47:00,15:47:10,stop_point:SP_2311,Eglise Aucamville,22
+2304253,15:48:00,15:48:10,stop_point:SP_802,Salvy,23
+2304253,15:50:00,15:50:10,stop_point:SP_2114,Gaussen,24
+2304253,15:51:00,15:51:10,stop_point:SP_3810,Lapparou,25
+2304253,15:53:00,15:53:10,stop_point:SP_507,Roubiéchou,26
+2304253,15:54:00,15:54:10,stop_point:SP_3354,Lapin,27
+2304253,15:56:00,15:56:10,stop_point:SP_2207,Riché Lalande,28
+2304253,15:57:00,15:57:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304253,15:59:00,15:59:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304253,16:00:00,16:00:10,stop_point:SP_97,Pader,31
+2304253,16:01:00,16:01:10,stop_point:SP_2016,La Vache,32
+2304254,16:00:00,16:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304254,16:02:00,16:02:10,stop_point:SP_5200,Gamouna,2
+2304254,16:03:00,16:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304254,16:04:00,16:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304254,16:05:00,16:05:10,stop_point:SP_5189,Tour,5
+2304254,16:06:00,16:06:10,stop_point:SP_125,Bois,6
+2304254,16:07:00,16:07:10,stop_point:SP_2528,Les Palanques,7
+2304254,16:08:00,16:08:10,stop_point:SP_2704,Hespérides,8
+2304254,16:09:00,16:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304254,16:11:00,16:11:10,stop_point:SP_5208,Garenne,10
+2304254,16:12:00,16:12:10,stop_point:SP_2755,Barry,11
+2304254,16:16:00,16:16:10,stop_point:SP_5191,La Grange,12
+2304254,16:16:00,16:16:10,stop_point:SP_5186,Matéo,13
+2304254,16:18:00,16:18:10,stop_point:SP_3911,Pont Vieil,14
+2304254,16:19:00,16:19:10,stop_point:SP_2710,Jules Verne,15
+2304254,16:20:00,16:20:10,stop_point:SP_1370,Peyronnette,16
+2304254,16:21:00,16:21:10,stop_point:SP_3053,Mariel,17
+2304254,16:22:00,16:22:10,stop_point:SP_3516,Raudelauzette,18
+2304254,16:23:00,16:23:10,stop_point:SP_1879,Aucamville Collège,19
+2304254,16:25:00,16:25:10,stop_point:SP_175,Favasse,20
+2304254,16:26:00,16:26:10,stop_point:SP_1760,Mairie Aucamville,21
+2304254,16:27:00,16:27:10,stop_point:SP_2311,Eglise Aucamville,22
+2304254,16:28:00,16:28:10,stop_point:SP_802,Salvy,23
+2304254,16:30:00,16:30:10,stop_point:SP_2114,Gaussen,24
+2304254,16:31:00,16:31:10,stop_point:SP_3810,Lapparou,25
+2304254,16:33:00,16:33:10,stop_point:SP_507,Roubiéchou,26
+2304254,16:34:00,16:34:10,stop_point:SP_3354,Lapin,27
+2304254,16:36:00,16:36:10,stop_point:SP_2207,Riché Lalande,28
+2304254,16:37:00,16:37:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304254,16:39:00,16:39:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304254,16:40:00,16:40:10,stop_point:SP_97,Pader,31
+2304254,16:41:00,16:41:10,stop_point:SP_2016,La Vache,32
+2304255,16:40:00,16:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304255,16:42:00,16:42:10,stop_point:SP_5200,Gamouna,2
+2304255,16:43:00,16:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304255,16:44:00,16:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304255,16:45:00,16:45:10,stop_point:SP_5189,Tour,5
+2304255,16:46:00,16:46:10,stop_point:SP_125,Bois,6
+2304255,16:47:00,16:47:10,stop_point:SP_2528,Les Palanques,7
+2304255,16:48:00,16:48:10,stop_point:SP_2704,Hespérides,8
+2304255,16:49:00,16:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304255,16:51:00,16:51:10,stop_point:SP_5208,Garenne,10
+2304255,16:52:00,16:52:10,stop_point:SP_2755,Barry,11
+2304255,16:56:00,16:56:10,stop_point:SP_5191,La Grange,12
+2304255,16:56:00,16:56:10,stop_point:SP_5186,Matéo,13
+2304255,16:58:00,16:58:10,stop_point:SP_3911,Pont Vieil,14
+2304255,16:59:00,16:59:10,stop_point:SP_2710,Jules Verne,15
+2304255,17:00:00,17:00:10,stop_point:SP_1370,Peyronnette,16
+2304255,17:01:00,17:01:10,stop_point:SP_3053,Mariel,17
+2304255,17:02:00,17:02:10,stop_point:SP_3516,Raudelauzette,18
+2304255,17:03:00,17:03:10,stop_point:SP_1879,Aucamville Collège,19
+2304255,17:05:00,17:05:10,stop_point:SP_175,Favasse,20
+2304255,17:06:00,17:06:10,stop_point:SP_1760,Mairie Aucamville,21
+2304255,17:07:00,17:07:10,stop_point:SP_2311,Eglise Aucamville,22
+2304255,17:08:00,17:08:10,stop_point:SP_802,Salvy,23
+2304255,17:10:00,17:10:10,stop_point:SP_2114,Gaussen,24
+2304255,17:11:00,17:11:10,stop_point:SP_3810,Lapparou,25
+2304255,17:13:00,17:13:10,stop_point:SP_507,Roubiéchou,26
+2304255,17:14:00,17:14:10,stop_point:SP_3354,Lapin,27
+2304255,17:16:00,17:16:10,stop_point:SP_2207,Riché Lalande,28
+2304255,17:17:00,17:17:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304255,17:19:00,17:19:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304255,17:20:00,17:20:10,stop_point:SP_97,Pader,31
+2304255,17:21:00,17:21:10,stop_point:SP_2016,La Vache,32
+2304256,17:20:00,17:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304256,17:22:00,17:22:10,stop_point:SP_5200,Gamouna,2
+2304256,17:23:00,17:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304256,17:24:00,17:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304256,17:25:00,17:25:10,stop_point:SP_5189,Tour,5
+2304256,17:26:00,17:26:10,stop_point:SP_125,Bois,6
+2304256,17:27:00,17:27:10,stop_point:SP_2528,Les Palanques,7
+2304256,17:28:00,17:28:10,stop_point:SP_2704,Hespérides,8
+2304256,17:29:00,17:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304256,17:31:00,17:31:10,stop_point:SP_5208,Garenne,10
+2304256,17:32:00,17:32:10,stop_point:SP_2755,Barry,11
+2304256,17:36:00,17:36:10,stop_point:SP_5191,La Grange,12
+2304256,17:36:00,17:36:10,stop_point:SP_5186,Matéo,13
+2304256,17:38:00,17:38:10,stop_point:SP_3911,Pont Vieil,14
+2304256,17:39:00,17:39:10,stop_point:SP_2710,Jules Verne,15
+2304256,17:40:00,17:40:10,stop_point:SP_1370,Peyronnette,16
+2304256,17:41:00,17:41:10,stop_point:SP_3053,Mariel,17
+2304256,17:42:00,17:42:10,stop_point:SP_3516,Raudelauzette,18
+2304256,17:43:00,17:43:10,stop_point:SP_1879,Aucamville Collège,19
+2304256,17:45:00,17:45:10,stop_point:SP_175,Favasse,20
+2304256,17:46:00,17:46:10,stop_point:SP_1760,Mairie Aucamville,21
+2304256,17:47:00,17:47:10,stop_point:SP_2311,Eglise Aucamville,22
+2304256,17:48:00,17:48:10,stop_point:SP_802,Salvy,23
+2304256,17:50:00,17:50:10,stop_point:SP_2114,Gaussen,24
+2304256,17:51:00,17:51:10,stop_point:SP_3810,Lapparou,25
+2304256,17:53:00,17:53:10,stop_point:SP_507,Roubiéchou,26
+2304256,17:54:00,17:54:10,stop_point:SP_3354,Lapin,27
+2304256,17:56:00,17:56:10,stop_point:SP_2207,Riché Lalande,28
+2304256,17:57:00,17:57:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304256,17:59:00,17:59:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304256,18:00:00,18:00:10,stop_point:SP_97,Pader,31
+2304256,18:01:00,18:01:10,stop_point:SP_2016,La Vache,32
+2304257,18:00:00,18:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304257,18:02:00,18:02:10,stop_point:SP_5200,Gamouna,2
+2304257,18:03:00,18:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304257,18:04:00,18:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304257,18:05:00,18:05:10,stop_point:SP_5189,Tour,5
+2304257,18:06:00,18:06:10,stop_point:SP_125,Bois,6
+2304257,18:07:00,18:07:10,stop_point:SP_2528,Les Palanques,7
+2304257,18:08:00,18:08:10,stop_point:SP_2704,Hespérides,8
+2304257,18:09:00,18:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304257,18:11:00,18:11:10,stop_point:SP_5208,Garenne,10
+2304257,18:12:00,18:12:10,stop_point:SP_2755,Barry,11
+2304257,18:16:00,18:16:10,stop_point:SP_5191,La Grange,12
+2304257,18:16:00,18:16:10,stop_point:SP_5186,Matéo,13
+2304257,18:18:00,18:18:10,stop_point:SP_3911,Pont Vieil,14
+2304257,18:19:00,18:19:10,stop_point:SP_2710,Jules Verne,15
+2304257,18:20:00,18:20:10,stop_point:SP_1370,Peyronnette,16
+2304257,18:21:00,18:21:10,stop_point:SP_3053,Mariel,17
+2304257,18:22:00,18:22:10,stop_point:SP_3516,Raudelauzette,18
+2304257,18:23:00,18:23:10,stop_point:SP_1879,Aucamville Collège,19
+2304257,18:25:00,18:25:10,stop_point:SP_175,Favasse,20
+2304257,18:26:00,18:26:10,stop_point:SP_1760,Mairie Aucamville,21
+2304257,18:27:00,18:27:10,stop_point:SP_2311,Eglise Aucamville,22
+2304257,18:28:00,18:28:10,stop_point:SP_802,Salvy,23
+2304257,18:30:00,18:30:10,stop_point:SP_2114,Gaussen,24
+2304257,18:31:00,18:31:10,stop_point:SP_3810,Lapparou,25
+2304257,18:33:00,18:33:10,stop_point:SP_507,Roubiéchou,26
+2304257,18:34:00,18:34:10,stop_point:SP_3354,Lapin,27
+2304257,18:36:00,18:36:10,stop_point:SP_2207,Riché Lalande,28
+2304257,18:37:00,18:37:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304257,18:39:00,18:39:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304257,18:40:00,18:40:10,stop_point:SP_97,Pader,31
+2304257,18:41:00,18:41:10,stop_point:SP_2016,La Vache,32
+2304258,18:40:00,18:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304258,18:42:00,18:42:10,stop_point:SP_5200,Gamouna,2
+2304258,18:43:00,18:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304258,18:44:00,18:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304258,18:45:00,18:45:10,stop_point:SP_5189,Tour,5
+2304258,18:46:00,18:46:10,stop_point:SP_125,Bois,6
+2304258,18:47:00,18:47:10,stop_point:SP_2528,Les Palanques,7
+2304258,18:48:00,18:48:10,stop_point:SP_2704,Hespérides,8
+2304258,18:49:00,18:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304258,18:51:00,18:51:10,stop_point:SP_5208,Garenne,10
+2304258,18:52:00,18:52:10,stop_point:SP_2755,Barry,11
+2304258,18:56:00,18:56:10,stop_point:SP_5191,La Grange,12
+2304258,18:56:00,18:56:10,stop_point:SP_5186,Matéo,13
+2304258,18:58:00,18:58:10,stop_point:SP_3911,Pont Vieil,14
+2304258,18:59:00,18:59:10,stop_point:SP_2710,Jules Verne,15
+2304258,19:00:00,19:00:10,stop_point:SP_1370,Peyronnette,16
+2304258,19:01:00,19:01:10,stop_point:SP_3053,Mariel,17
+2304258,19:02:00,19:02:10,stop_point:SP_3516,Raudelauzette,18
+2304258,19:03:00,19:03:10,stop_point:SP_1879,Aucamville Collège,19
+2304258,19:05:00,19:05:10,stop_point:SP_175,Favasse,20
+2304258,19:06:00,19:06:10,stop_point:SP_1760,Mairie Aucamville,21
+2304258,19:07:00,19:07:10,stop_point:SP_2311,Eglise Aucamville,22
+2304258,19:08:00,19:08:10,stop_point:SP_802,Salvy,23
+2304258,19:10:00,19:10:10,stop_point:SP_2114,Gaussen,24
+2304258,19:11:00,19:11:10,stop_point:SP_3810,Lapparou,25
+2304258,19:13:00,19:13:10,stop_point:SP_507,Roubiéchou,26
+2304258,19:14:00,19:14:10,stop_point:SP_3354,Lapin,27
+2304258,19:16:00,19:16:10,stop_point:SP_2207,Riché Lalande,28
+2304258,19:17:00,19:17:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304258,19:19:00,19:19:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304258,19:20:00,19:20:10,stop_point:SP_97,Pader,31
+2304258,19:21:00,19:21:10,stop_point:SP_2016,La Vache,32
+2304259,19:20:00,19:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304259,19:22:00,19:22:10,stop_point:SP_5200,Gamouna,2
+2304259,19:23:00,19:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304259,19:24:00,19:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304259,19:25:00,19:25:10,stop_point:SP_5189,Tour,5
+2304259,19:26:00,19:26:10,stop_point:SP_125,Bois,6
+2304259,19:26:00,19:26:10,stop_point:SP_2528,Les Palanques,7
+2304259,19:27:00,19:27:10,stop_point:SP_2704,Hespérides,8
+2304259,19:29:00,19:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304259,19:30:00,19:30:10,stop_point:SP_5208,Garenne,10
+2304259,19:31:00,19:31:10,stop_point:SP_2755,Barry,11
+2304259,19:34:00,19:34:10,stop_point:SP_5191,La Grange,12
+2304259,19:35:00,19:35:10,stop_point:SP_5186,Matéo,13
+2304259,19:36:00,19:36:10,stop_point:SP_3911,Pont Vieil,14
+2304259,19:38:00,19:38:10,stop_point:SP_2710,Jules Verne,15
+2304259,19:38:00,19:38:10,stop_point:SP_1370,Peyronnette,16
+2304259,19:39:00,19:39:10,stop_point:SP_3053,Mariel,17
+2304259,19:40:00,19:40:10,stop_point:SP_3516,Raudelauzette,18
+2304259,19:41:00,19:41:10,stop_point:SP_1879,Aucamville Collège,19
+2304259,19:43:00,19:43:10,stop_point:SP_175,Favasse,20
+2304259,19:44:00,19:44:10,stop_point:SP_1760,Mairie Aucamville,21
+2304259,19:45:00,19:45:10,stop_point:SP_2311,Eglise Aucamville,22
+2304259,19:46:00,19:46:10,stop_point:SP_802,Salvy,23
+2304259,19:47:00,19:47:10,stop_point:SP_2114,Gaussen,24
+2304259,19:48:00,19:48:10,stop_point:SP_3810,Lapparou,25
+2304259,19:49:00,19:49:10,stop_point:SP_507,Roubiéchou,26
+2304259,19:50:00,19:50:10,stop_point:SP_3354,Lapin,27
+2304259,19:51:00,19:51:10,stop_point:SP_2207,Riché Lalande,28
+2304259,19:52:00,19:52:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304259,19:54:00,19:54:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304259,19:55:00,19:55:10,stop_point:SP_97,Pader,31
+2304259,19:56:00,19:56:10,stop_point:SP_2016,La Vache,32
+2304260,20:00:00,20:00:10,stop_point:SP_3693,Bruguières Verger,1
+2304260,20:02:00,20:02:10,stop_point:SP_5200,Gamouna,2
+2304260,20:03:00,20:03:10,stop_point:SP_1511,Ecole Bruguières,3
+2304260,20:04:00,20:04:10,stop_point:SP_5368,Bruguières Mairie,4
+2304260,20:05:00,20:05:10,stop_point:SP_5189,Tour,5
+2304260,20:06:00,20:06:10,stop_point:SP_125,Bois,6
+2304260,20:06:00,20:06:10,stop_point:SP_2528,Les Palanques,7
+2304260,20:07:00,20:07:10,stop_point:SP_2704,Hespérides,8
+2304260,20:09:00,20:09:10,stop_point:SP_5182,Mairie Gratentour,9
+2304260,20:10:00,20:10:10,stop_point:SP_5208,Garenne,10
+2304260,20:11:00,20:11:10,stop_point:SP_2755,Barry,11
+2304260,20:14:00,20:14:10,stop_point:SP_5191,La Grange,12
+2304260,20:15:00,20:15:10,stop_point:SP_5186,Matéo,13
+2304260,20:16:00,20:16:10,stop_point:SP_3911,Pont Vieil,14
+2304260,20:18:00,20:18:10,stop_point:SP_2710,Jules Verne,15
+2304260,20:18:00,20:18:10,stop_point:SP_1370,Peyronnette,16
+2304260,20:19:00,20:19:10,stop_point:SP_3053,Mariel,17
+2304260,20:20:00,20:20:10,stop_point:SP_3516,Raudelauzette,18
+2304260,20:21:00,20:21:10,stop_point:SP_1879,Aucamville Collège,19
+2304260,20:23:00,20:23:10,stop_point:SP_175,Favasse,20
+2304260,20:24:00,20:24:10,stop_point:SP_1760,Mairie Aucamville,21
+2304260,20:25:00,20:25:10,stop_point:SP_2311,Eglise Aucamville,22
+2304260,20:26:00,20:26:10,stop_point:SP_802,Salvy,23
+2304260,20:27:00,20:27:10,stop_point:SP_2114,Gaussen,24
+2304260,20:28:00,20:28:10,stop_point:SP_3810,Lapparou,25
+2304260,20:29:00,20:29:10,stop_point:SP_507,Roubiéchou,26
+2304260,20:30:00,20:30:10,stop_point:SP_3354,Lapin,27
+2304260,20:31:00,20:31:10,stop_point:SP_2207,Riché Lalande,28
+2304260,20:32:00,20:32:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304260,20:33:00,20:33:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304260,20:34:00,20:34:10,stop_point:SP_97,Pader,31
+2304260,20:35:00,20:35:10,stop_point:SP_2016,La Vache,32
+2304261,20:35:00,20:35:10,stop_point:SP_3693,Bruguières Verger,1
+2304261,20:37:00,20:37:10,stop_point:SP_5200,Gamouna,2
+2304261,20:38:00,20:38:10,stop_point:SP_1511,Ecole Bruguières,3
+2304261,20:39:00,20:39:10,stop_point:SP_5368,Bruguières Mairie,4
+2304261,20:40:00,20:40:10,stop_point:SP_5189,Tour,5
+2304261,20:41:00,20:41:10,stop_point:SP_125,Bois,6
+2304261,20:41:00,20:41:10,stop_point:SP_2528,Les Palanques,7
+2304261,20:42:00,20:42:10,stop_point:SP_2704,Hespérides,8
+2304261,20:44:00,20:44:10,stop_point:SP_5182,Mairie Gratentour,9
+2304261,20:45:00,20:45:10,stop_point:SP_5208,Garenne,10
+2304261,20:46:00,20:46:10,stop_point:SP_2755,Barry,11
+2304261,20:49:00,20:49:10,stop_point:SP_5191,La Grange,12
+2304261,20:50:00,20:50:10,stop_point:SP_5186,Matéo,13
+2304261,20:51:00,20:51:10,stop_point:SP_3911,Pont Vieil,14
+2304261,20:53:00,20:53:10,stop_point:SP_2710,Jules Verne,15
+2304261,20:53:00,20:53:10,stop_point:SP_1370,Peyronnette,16
+2304261,20:54:00,20:54:10,stop_point:SP_3053,Mariel,17
+2304261,20:55:00,20:55:10,stop_point:SP_3516,Raudelauzette,18
+2304261,20:56:00,20:56:10,stop_point:SP_1879,Aucamville Collège,19
+2304261,20:58:00,20:58:10,stop_point:SP_175,Favasse,20
+2304261,20:59:00,20:59:10,stop_point:SP_1760,Mairie Aucamville,21
+2304261,21:00:00,21:00:10,stop_point:SP_2311,Eglise Aucamville,22
+2304261,21:01:00,21:01:10,stop_point:SP_802,Salvy,23
+2304261,21:02:00,21:02:10,stop_point:SP_2114,Gaussen,24
+2304261,21:03:00,21:03:10,stop_point:SP_3810,Lapparou,25
+2304261,21:04:00,21:04:10,stop_point:SP_507,Roubiéchou,26
+2304261,21:05:00,21:05:10,stop_point:SP_3354,Lapin,27
+2304261,21:06:00,21:06:10,stop_point:SP_2207,Riché Lalande,28
+2304261,21:07:00,21:07:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304261,21:08:00,21:08:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304261,21:09:00,21:09:10,stop_point:SP_97,Pader,31
+2304261,21:10:00,21:10:10,stop_point:SP_2016,La Vache,32
+2304306,06:05:00,06:05:10,stop_point:SP_2016,La Vache,1
+2304306,06:06:00,06:06:10,stop_point:SP_327,Pader,2
+2304306,06:07:00,06:07:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304306,06:08:00,06:08:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304306,06:09:00,06:09:10,stop_point:SP_753,Riché Lalande,5
+2304306,06:10:00,06:10:10,stop_point:SP_1880,Lapin,6
+2304306,06:11:00,06:11:10,stop_point:SP_1995,Roubiéchou,7
+2304306,06:12:00,06:12:10,stop_point:SP_1993,Lapparou,8
+2304306,06:13:00,06:13:10,stop_point:SP_2419,Gaussen,9
+2304306,06:14:00,06:14:10,stop_point:SP_1499,Salvy,10
+2304306,06:14:00,06:14:10,stop_point:SP_445,Eglise Aucamville,11
+2304306,06:15:00,06:15:10,stop_point:SP_3252,Mairie Aucamville,12
+2304306,06:16:00,06:16:10,stop_point:SP_1128,Favasse,13
+2304306,06:17:00,06:17:10,stop_point:SP_619,Aucamville Collège,14
+2304306,06:17:00,06:17:10,stop_point:SP_2651,Raudelauzette,15
+2304306,06:18:00,06:18:10,stop_point:SP_455,Mariel,16
+2304306,06:19:00,06:19:10,stop_point:SP_1577,Peyronnette,17
+2304306,06:19:00,06:19:10,stop_point:SP_1215,Jules Verne,18
+2304306,06:21:00,06:21:10,stop_point:SP_1014,Pont Vieil,19
+2304306,06:22:00,06:22:10,stop_point:SP_5197,Matéo,20
+2304306,06:22:00,06:22:10,stop_point:SP_5202,La Grange,21
+2304306,06:26:00,06:26:10,stop_point:SP_1609,Barry,22
+2304306,06:26:00,06:26:10,stop_point:SP_5206,Garenne,23
+2304306,06:28:00,06:28:10,stop_point:SP_5192,Mairie Gratentour,24
+2304306,06:30:00,06:30:10,stop_point:SP_3646,Hespérides,25
+2304306,06:31:00,06:31:10,stop_point:SP_2630,Les Palanques,26
+2304306,06:31:00,06:31:10,stop_point:SP_929,Bois,27
+2304306,06:32:00,06:32:10,stop_point:SP_5210,Tour,28
+2304306,06:33:00,06:33:10,stop_point:SP_2461,Bruguières Mairie,29
+2304306,06:34:00,06:34:10,stop_point:SP_179,Ecole Bruguières,30
+2304306,06:35:00,06:35:10,stop_point:SP_1614,Gamouna,31
+2304306,06:37:00,06:37:10,stop_point:SP_3693,Bruguières Verger,32
+2304307,06:35:00,06:35:10,stop_point:SP_2016,La Vache,1
+2304307,06:36:00,06:36:10,stop_point:SP_327,Pader,2
+2304307,06:37:00,06:37:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304307,06:38:00,06:38:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304307,06:39:00,06:39:10,stop_point:SP_753,Riché Lalande,5
+2304307,06:41:00,06:41:10,stop_point:SP_1880,Lapin,6
+2304307,06:41:00,06:41:10,stop_point:SP_1995,Roubiéchou,7
+2304307,06:42:00,06:42:10,stop_point:SP_1993,Lapparou,8
+2304307,06:43:00,06:43:10,stop_point:SP_2419,Gaussen,9
+2304307,06:45:00,06:45:10,stop_point:SP_1499,Salvy,10
+2304307,06:45:00,06:45:10,stop_point:SP_445,Eglise Aucamville,11
+2304307,06:46:00,06:46:10,stop_point:SP_3252,Mairie Aucamville,12
+2304307,06:47:00,06:47:10,stop_point:SP_1128,Favasse,13
+2304307,06:48:00,06:48:10,stop_point:SP_619,Aucamville Collège,14
+2304307,06:48:00,06:48:10,stop_point:SP_2651,Raudelauzette,15
+2304307,06:49:00,06:49:10,stop_point:SP_455,Mariel,16
+2304307,06:50:00,06:50:10,stop_point:SP_1577,Peyronnette,17
+2304307,06:50:00,06:50:10,stop_point:SP_1215,Jules Verne,18
+2304307,06:52:00,06:52:10,stop_point:SP_1014,Pont Vieil,19
+2304307,06:53:00,06:53:10,stop_point:SP_5197,Matéo,20
+2304307,06:54:00,06:54:10,stop_point:SP_5202,La Grange,21
+2304307,06:57:00,06:57:10,stop_point:SP_1609,Barry,22
+2304307,06:58:00,06:58:10,stop_point:SP_5206,Garenne,23
+2304307,07:00:00,07:00:10,stop_point:SP_5192,Mairie Gratentour,24
+2304307,07:02:00,07:02:10,stop_point:SP_3646,Hespérides,25
+2304307,07:02:00,07:02:10,stop_point:SP_2630,Les Palanques,26
+2304307,07:03:00,07:03:10,stop_point:SP_929,Bois,27
+2304307,07:03:00,07:03:10,stop_point:SP_5210,Tour,28
+2304307,07:05:00,07:05:10,stop_point:SP_2461,Bruguières Mairie,29
+2304307,07:06:00,07:06:10,stop_point:SP_179,Ecole Bruguières,30
+2304307,07:07:00,07:07:10,stop_point:SP_1614,Gamouna,31
+2304307,07:09:00,07:09:10,stop_point:SP_3693,Bruguières Verger,32
+2304308,07:05:00,07:05:10,stop_point:SP_2016,La Vache,1
+2304308,07:07:00,07:07:10,stop_point:SP_327,Pader,2
+2304308,07:07:00,07:07:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304308,07:09:00,07:09:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304308,07:10:00,07:10:10,stop_point:SP_753,Riché Lalande,5
+2304308,07:12:00,07:12:10,stop_point:SP_1880,Lapin,6
+2304308,07:12:00,07:12:10,stop_point:SP_1995,Roubiéchou,7
+2304308,07:13:00,07:13:10,stop_point:SP_1993,Lapparou,8
+2304308,07:14:00,07:14:10,stop_point:SP_2419,Gaussen,9
+2304308,07:16:00,07:16:10,stop_point:SP_1499,Salvy,10
+2304308,07:16:00,07:16:10,stop_point:SP_445,Eglise Aucamville,11
+2304308,07:17:00,07:17:10,stop_point:SP_3252,Mairie Aucamville,12
+2304308,07:18:00,07:18:10,stop_point:SP_1128,Favasse,13
+2304308,07:19:00,07:19:10,stop_point:SP_619,Aucamville Collège,14
+2304308,07:20:00,07:20:10,stop_point:SP_2651,Raudelauzette,15
+2304308,07:21:00,07:21:10,stop_point:SP_455,Mariel,16
+2304308,07:22:00,07:22:10,stop_point:SP_1577,Peyronnette,17
+2304308,07:22:00,07:22:10,stop_point:SP_1215,Jules Verne,18
+2304308,07:24:00,07:24:10,stop_point:SP_1014,Pont Vieil,19
+2304308,07:25:00,07:25:10,stop_point:SP_5197,Matéo,20
+2304308,07:26:00,07:26:10,stop_point:SP_5202,La Grange,21
+2304308,07:29:00,07:29:10,stop_point:SP_1609,Barry,22
+2304308,07:30:00,07:30:10,stop_point:SP_5206,Garenne,23
+2304308,07:32:00,07:32:10,stop_point:SP_5192,Mairie Gratentour,24
+2304308,07:34:00,07:34:10,stop_point:SP_3646,Hespérides,25
+2304308,07:34:00,07:34:10,stop_point:SP_2630,Les Palanques,26
+2304308,07:35:00,07:35:10,stop_point:SP_929,Bois,27
+2304308,07:35:00,07:35:10,stop_point:SP_5210,Tour,28
+2304308,07:37:00,07:37:10,stop_point:SP_2461,Bruguières Mairie,29
+2304308,07:38:00,07:38:10,stop_point:SP_179,Ecole Bruguières,30
+2304308,07:39:00,07:39:10,stop_point:SP_1614,Gamouna,31
+2304308,07:41:00,07:41:10,stop_point:SP_3693,Bruguières Verger,32
+2304309,07:35:00,07:35:10,stop_point:SP_2016,La Vache,1
+2304309,07:37:00,07:37:10,stop_point:SP_327,Pader,2
+2304309,07:38:00,07:38:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304309,07:39:00,07:39:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304309,07:41:00,07:41:10,stop_point:SP_753,Riché Lalande,5
+2304309,07:43:00,07:43:10,stop_point:SP_1880,Lapin,6
+2304309,07:44:00,07:44:10,stop_point:SP_1995,Roubiéchou,7
+2304309,07:45:00,07:45:10,stop_point:SP_1993,Lapparou,8
+2304309,07:46:00,07:46:10,stop_point:SP_2419,Gaussen,9
+2304309,07:47:00,07:47:10,stop_point:SP_1499,Salvy,10
+2304309,07:48:00,07:48:10,stop_point:SP_445,Eglise Aucamville,11
+2304309,07:49:00,07:49:10,stop_point:SP_3252,Mairie Aucamville,12
+2304309,07:50:00,07:50:10,stop_point:SP_1128,Favasse,13
+2304309,07:51:00,07:51:10,stop_point:SP_619,Aucamville Collège,14
+2304309,07:52:00,07:52:10,stop_point:SP_2651,Raudelauzette,15
+2304309,07:53:00,07:53:10,stop_point:SP_455,Mariel,16
+2304309,07:54:00,07:54:10,stop_point:SP_1577,Peyronnette,17
+2304309,07:54:00,07:54:10,stop_point:SP_1215,Jules Verne,18
+2304309,07:56:00,07:56:10,stop_point:SP_1014,Pont Vieil,19
+2304309,07:58:00,07:58:10,stop_point:SP_5197,Matéo,20
+2304309,07:58:00,07:58:10,stop_point:SP_5202,La Grange,21
+2304309,08:02:00,08:02:10,stop_point:SP_1609,Barry,22
+2304309,08:03:00,08:03:10,stop_point:SP_5206,Garenne,23
+2304309,08:05:00,08:05:10,stop_point:SP_5192,Mairie Gratentour,24
+2304309,08:07:00,08:07:10,stop_point:SP_3646,Hespérides,25
+2304309,08:08:00,08:08:10,stop_point:SP_2630,Les Palanques,26
+2304309,08:09:00,08:09:10,stop_point:SP_929,Bois,27
+2304309,08:09:00,08:09:10,stop_point:SP_5210,Tour,28
+2304309,08:11:00,08:11:10,stop_point:SP_2461,Bruguières Mairie,29
+2304309,08:12:00,08:12:10,stop_point:SP_179,Ecole Bruguières,30
+2304309,08:13:00,08:13:10,stop_point:SP_1614,Gamouna,31
+2304309,08:15:00,08:15:10,stop_point:SP_3693,Bruguières Verger,32
+2304310,08:05:00,08:05:10,stop_point:SP_2016,La Vache,1
+2304310,08:07:00,08:07:10,stop_point:SP_327,Pader,2
+2304310,08:08:00,08:08:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304310,08:09:00,08:09:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304310,08:11:00,08:11:10,stop_point:SP_753,Riché Lalande,5
+2304310,08:13:00,08:13:10,stop_point:SP_1880,Lapin,6
+2304310,08:14:00,08:14:10,stop_point:SP_1995,Roubiéchou,7
+2304310,08:15:00,08:15:10,stop_point:SP_1993,Lapparou,8
+2304310,08:16:00,08:16:10,stop_point:SP_2419,Gaussen,9
+2304310,08:17:00,08:17:10,stop_point:SP_1499,Salvy,10
+2304310,08:18:00,08:18:10,stop_point:SP_445,Eglise Aucamville,11
+2304310,08:19:00,08:19:10,stop_point:SP_3252,Mairie Aucamville,12
+2304310,08:20:00,08:20:10,stop_point:SP_1128,Favasse,13
+2304310,08:21:00,08:21:10,stop_point:SP_619,Aucamville Collège,14
+2304310,08:22:00,08:22:10,stop_point:SP_2651,Raudelauzette,15
+2304310,08:23:00,08:23:10,stop_point:SP_455,Mariel,16
+2304310,08:24:00,08:24:10,stop_point:SP_1577,Peyronnette,17
+2304310,08:25:00,08:25:10,stop_point:SP_1215,Jules Verne,18
+2304310,08:26:00,08:26:10,stop_point:SP_1014,Pont Vieil,19
+2304310,08:28:00,08:28:10,stop_point:SP_5197,Matéo,20
+2304310,08:29:00,08:29:10,stop_point:SP_5202,La Grange,21
+2304310,08:33:00,08:33:10,stop_point:SP_1609,Barry,22
+2304310,08:34:00,08:34:10,stop_point:SP_5206,Garenne,23
+2304310,08:36:00,08:36:10,stop_point:SP_5192,Mairie Gratentour,24
+2304310,08:38:00,08:38:10,stop_point:SP_3646,Hespérides,25
+2304310,08:39:00,08:39:10,stop_point:SP_2630,Les Palanques,26
+2304310,08:40:00,08:40:10,stop_point:SP_929,Bois,27
+2304310,08:40:00,08:40:10,stop_point:SP_5210,Tour,28
+2304310,08:42:00,08:42:10,stop_point:SP_2461,Bruguières Mairie,29
+2304310,08:43:00,08:43:10,stop_point:SP_179,Ecole Bruguières,30
+2304310,08:44:00,08:44:10,stop_point:SP_1614,Gamouna,31
+2304310,08:46:00,08:46:10,stop_point:SP_3693,Bruguières Verger,32
+2304311,08:35:00,08:35:10,stop_point:SP_2016,La Vache,1
+2304311,08:37:00,08:37:10,stop_point:SP_327,Pader,2
+2304311,08:37:00,08:37:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304311,08:39:00,08:39:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304311,08:40:00,08:40:10,stop_point:SP_753,Riché Lalande,5
+2304311,08:42:00,08:42:10,stop_point:SP_1880,Lapin,6
+2304311,08:43:00,08:43:10,stop_point:SP_1995,Roubiéchou,7
+2304311,08:44:00,08:44:10,stop_point:SP_1993,Lapparou,8
+2304311,08:45:00,08:45:10,stop_point:SP_2419,Gaussen,9
+2304311,08:46:00,08:46:10,stop_point:SP_1499,Salvy,10
+2304311,08:47:00,08:47:10,stop_point:SP_445,Eglise Aucamville,11
+2304311,08:48:00,08:48:10,stop_point:SP_3252,Mairie Aucamville,12
+2304311,08:49:00,08:49:10,stop_point:SP_1128,Favasse,13
+2304311,08:50:00,08:50:10,stop_point:SP_619,Aucamville Collège,14
+2304311,08:51:00,08:51:10,stop_point:SP_2651,Raudelauzette,15
+2304311,08:52:00,08:52:10,stop_point:SP_455,Mariel,16
+2304311,08:53:00,08:53:10,stop_point:SP_1577,Peyronnette,17
+2304311,08:54:00,08:54:10,stop_point:SP_1215,Jules Verne,18
+2304311,08:55:00,08:55:10,stop_point:SP_1014,Pont Vieil,19
+2304311,08:57:00,08:57:10,stop_point:SP_5197,Matéo,20
+2304311,08:58:00,08:58:10,stop_point:SP_5202,La Grange,21
+2304311,09:02:00,09:02:10,stop_point:SP_1609,Barry,22
+2304311,09:03:00,09:03:10,stop_point:SP_5206,Garenne,23
+2304311,09:05:00,09:05:10,stop_point:SP_5192,Mairie Gratentour,24
+2304311,09:07:00,09:07:10,stop_point:SP_3646,Hespérides,25
+2304311,09:08:00,09:08:10,stop_point:SP_2630,Les Palanques,26
+2304311,09:09:00,09:09:10,stop_point:SP_929,Bois,27
+2304311,09:09:00,09:09:10,stop_point:SP_5210,Tour,28
+2304311,09:11:00,09:11:10,stop_point:SP_2461,Bruguières Mairie,29
+2304311,09:12:00,09:12:10,stop_point:SP_179,Ecole Bruguières,30
+2304311,09:13:00,09:13:10,stop_point:SP_1614,Gamouna,31
+2304311,09:15:00,09:15:10,stop_point:SP_3693,Bruguières Verger,32
+2304312,09:10:00,09:10:10,stop_point:SP_2016,La Vache,1
+2304312,09:12:00,09:12:10,stop_point:SP_327,Pader,2
+2304312,09:12:00,09:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304312,09:14:00,09:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304312,09:15:00,09:15:10,stop_point:SP_753,Riché Lalande,5
+2304312,09:17:00,09:17:10,stop_point:SP_1880,Lapin,6
+2304312,09:17:00,09:17:10,stop_point:SP_1995,Roubiéchou,7
+2304312,09:18:00,09:18:10,stop_point:SP_1993,Lapparou,8
+2304312,09:19:00,09:19:10,stop_point:SP_2419,Gaussen,9
+2304312,09:21:00,09:21:10,stop_point:SP_1499,Salvy,10
+2304312,09:21:00,09:21:10,stop_point:SP_445,Eglise Aucamville,11
+2304312,09:22:00,09:22:10,stop_point:SP_3252,Mairie Aucamville,12
+2304312,09:23:00,09:23:10,stop_point:SP_1128,Favasse,13
+2304312,09:24:00,09:24:10,stop_point:SP_619,Aucamville Collège,14
+2304312,09:25:00,09:25:10,stop_point:SP_2651,Raudelauzette,15
+2304312,09:26:00,09:26:10,stop_point:SP_455,Mariel,16
+2304312,09:27:00,09:27:10,stop_point:SP_1577,Peyronnette,17
+2304312,09:27:00,09:27:10,stop_point:SP_1215,Jules Verne,18
+2304312,09:29:00,09:29:10,stop_point:SP_1014,Pont Vieil,19
+2304312,09:31:00,09:31:10,stop_point:SP_5197,Matéo,20
+2304312,09:31:00,09:31:10,stop_point:SP_5202,La Grange,21
+2304312,09:35:00,09:35:10,stop_point:SP_1609,Barry,22
+2304312,09:36:00,09:36:10,stop_point:SP_5206,Garenne,23
+2304312,09:38:00,09:38:10,stop_point:SP_5192,Mairie Gratentour,24
+2304312,09:40:00,09:40:10,stop_point:SP_3646,Hespérides,25
+2304312,09:41:00,09:41:10,stop_point:SP_2630,Les Palanques,26
+2304312,09:42:00,09:42:10,stop_point:SP_929,Bois,27
+2304312,09:42:00,09:42:10,stop_point:SP_5210,Tour,28
+2304312,09:44:00,09:44:10,stop_point:SP_2461,Bruguières Mairie,29
+2304312,09:45:00,09:45:10,stop_point:SP_179,Ecole Bruguières,30
+2304312,09:46:00,09:46:10,stop_point:SP_1614,Gamouna,31
+2304312,09:48:00,09:48:10,stop_point:SP_3693,Bruguières Verger,32
+2304313,10:10:00,10:10:10,stop_point:SP_2016,La Vache,1
+2304313,10:12:00,10:12:10,stop_point:SP_327,Pader,2
+2304313,10:12:00,10:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304313,10:14:00,10:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304313,10:15:00,10:15:10,stop_point:SP_753,Riché Lalande,5
+2304313,10:17:00,10:17:10,stop_point:SP_1880,Lapin,6
+2304313,10:17:00,10:17:10,stop_point:SP_1995,Roubiéchou,7
+2304313,10:18:00,10:18:10,stop_point:SP_1993,Lapparou,8
+2304313,10:19:00,10:19:10,stop_point:SP_2419,Gaussen,9
+2304313,10:21:00,10:21:10,stop_point:SP_1499,Salvy,10
+2304313,10:21:00,10:21:10,stop_point:SP_445,Eglise Aucamville,11
+2304313,10:22:00,10:22:10,stop_point:SP_3252,Mairie Aucamville,12
+2304313,10:23:00,10:23:10,stop_point:SP_1128,Favasse,13
+2304313,10:24:00,10:24:10,stop_point:SP_619,Aucamville Collège,14
+2304313,10:25:00,10:25:10,stop_point:SP_2651,Raudelauzette,15
+2304313,10:26:00,10:26:10,stop_point:SP_455,Mariel,16
+2304313,10:27:00,10:27:10,stop_point:SP_1577,Peyronnette,17
+2304313,10:27:00,10:27:10,stop_point:SP_1215,Jules Verne,18
+2304313,10:29:00,10:29:10,stop_point:SP_1014,Pont Vieil,19
+2304313,10:31:00,10:31:10,stop_point:SP_5197,Matéo,20
+2304313,10:31:00,10:31:10,stop_point:SP_5202,La Grange,21
+2304313,10:35:00,10:35:10,stop_point:SP_1609,Barry,22
+2304313,10:36:00,10:36:10,stop_point:SP_5206,Garenne,23
+2304313,10:38:00,10:38:10,stop_point:SP_5192,Mairie Gratentour,24
+2304313,10:40:00,10:40:10,stop_point:SP_3646,Hespérides,25
+2304313,10:41:00,10:41:10,stop_point:SP_2630,Les Palanques,26
+2304313,10:42:00,10:42:10,stop_point:SP_929,Bois,27
+2304313,10:42:00,10:42:10,stop_point:SP_5210,Tour,28
+2304313,10:44:00,10:44:10,stop_point:SP_2461,Bruguières Mairie,29
+2304313,10:45:00,10:45:10,stop_point:SP_179,Ecole Bruguières,30
+2304313,10:46:00,10:46:10,stop_point:SP_1614,Gamouna,31
+2304313,10:48:00,10:48:10,stop_point:SP_3693,Bruguières Verger,32
+2304314,11:10:00,11:10:10,stop_point:SP_2016,La Vache,1
+2304314,11:12:00,11:12:10,stop_point:SP_327,Pader,2
+2304314,11:12:00,11:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304314,11:14:00,11:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304314,11:15:00,11:15:10,stop_point:SP_753,Riché Lalande,5
+2304314,11:17:00,11:17:10,stop_point:SP_1880,Lapin,6
+2304314,11:18:00,11:18:10,stop_point:SP_1995,Roubiéchou,7
+2304314,11:19:00,11:19:10,stop_point:SP_1993,Lapparou,8
+2304314,11:20:00,11:20:10,stop_point:SP_2419,Gaussen,9
+2304314,11:21:00,11:21:10,stop_point:SP_1499,Salvy,10
+2304314,11:22:00,11:22:10,stop_point:SP_445,Eglise Aucamville,11
+2304314,11:23:00,11:23:10,stop_point:SP_3252,Mairie Aucamville,12
+2304314,11:24:00,11:24:10,stop_point:SP_1128,Favasse,13
+2304314,11:25:00,11:25:10,stop_point:SP_619,Aucamville Collège,14
+2304314,11:26:00,11:26:10,stop_point:SP_2651,Raudelauzette,15
+2304314,11:27:00,11:27:10,stop_point:SP_455,Mariel,16
+2304314,11:28:00,11:28:10,stop_point:SP_1577,Peyronnette,17
+2304314,11:28:00,11:28:10,stop_point:SP_1215,Jules Verne,18
+2304314,11:30:00,11:30:10,stop_point:SP_1014,Pont Vieil,19
+2304314,11:32:00,11:32:10,stop_point:SP_5197,Matéo,20
+2304314,11:32:00,11:32:10,stop_point:SP_5202,La Grange,21
+2304314,11:36:00,11:36:10,stop_point:SP_1609,Barry,22
+2304314,11:37:00,11:37:10,stop_point:SP_5206,Garenne,23
+2304314,11:39:00,11:39:10,stop_point:SP_5192,Mairie Gratentour,24
+2304314,11:41:00,11:41:10,stop_point:SP_3646,Hespérides,25
+2304314,11:42:00,11:42:10,stop_point:SP_2630,Les Palanques,26
+2304314,11:43:00,11:43:10,stop_point:SP_929,Bois,27
+2304314,11:43:00,11:43:10,stop_point:SP_5210,Tour,28
+2304314,11:45:00,11:45:10,stop_point:SP_2461,Bruguières Mairie,29
+2304314,11:46:00,11:46:10,stop_point:SP_179,Ecole Bruguières,30
+2304314,11:47:00,11:47:10,stop_point:SP_1614,Gamouna,31
+2304314,11:49:00,11:49:10,stop_point:SP_3693,Bruguières Verger,32
+2304315,12:10:00,12:10:10,stop_point:SP_2016,La Vache,1
+2304315,12:12:00,12:12:10,stop_point:SP_327,Pader,2
+2304315,12:12:00,12:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304315,12:14:00,12:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304315,12:15:00,12:15:10,stop_point:SP_753,Riché Lalande,5
+2304315,12:17:00,12:17:10,stop_point:SP_1880,Lapin,6
+2304315,12:18:00,12:18:10,stop_point:SP_1995,Roubiéchou,7
+2304315,12:19:00,12:19:10,stop_point:SP_1993,Lapparou,8
+2304315,12:20:00,12:20:10,stop_point:SP_2419,Gaussen,9
+2304315,12:21:00,12:21:10,stop_point:SP_1499,Salvy,10
+2304315,12:22:00,12:22:10,stop_point:SP_445,Eglise Aucamville,11
+2304315,12:23:00,12:23:10,stop_point:SP_3252,Mairie Aucamville,12
+2304315,12:24:00,12:24:10,stop_point:SP_1128,Favasse,13
+2304315,12:25:00,12:25:10,stop_point:SP_619,Aucamville Collège,14
+2304315,12:26:00,12:26:10,stop_point:SP_2651,Raudelauzette,15
+2304315,12:27:00,12:27:10,stop_point:SP_455,Mariel,16
+2304315,12:28:00,12:28:10,stop_point:SP_1577,Peyronnette,17
+2304315,12:28:00,12:28:10,stop_point:SP_1215,Jules Verne,18
+2304315,12:30:00,12:30:10,stop_point:SP_1014,Pont Vieil,19
+2304315,12:32:00,12:32:10,stop_point:SP_5197,Matéo,20
+2304315,12:32:00,12:32:10,stop_point:SP_5202,La Grange,21
+2304315,12:36:00,12:36:10,stop_point:SP_1609,Barry,22
+2304315,12:37:00,12:37:10,stop_point:SP_5206,Garenne,23
+2304315,12:39:00,12:39:10,stop_point:SP_5192,Mairie Gratentour,24
+2304315,12:41:00,12:41:10,stop_point:SP_3646,Hespérides,25
+2304315,12:42:00,12:42:10,stop_point:SP_2630,Les Palanques,26
+2304315,12:43:00,12:43:10,stop_point:SP_929,Bois,27
+2304315,12:43:00,12:43:10,stop_point:SP_5210,Tour,28
+2304315,12:45:00,12:45:10,stop_point:SP_2461,Bruguières Mairie,29
+2304315,12:46:00,12:46:10,stop_point:SP_179,Ecole Bruguières,30
+2304315,12:47:00,12:47:10,stop_point:SP_1614,Gamouna,31
+2304315,12:49:00,12:49:10,stop_point:SP_3693,Bruguières Verger,32
+2304316,13:10:00,13:10:10,stop_point:SP_2016,La Vache,1
+2304316,13:12:00,13:12:10,stop_point:SP_327,Pader,2
+2304316,13:12:00,13:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304316,13:14:00,13:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304316,13:15:00,13:15:10,stop_point:SP_753,Riché Lalande,5
+2304316,13:17:00,13:17:10,stop_point:SP_1880,Lapin,6
+2304316,13:17:00,13:17:10,stop_point:SP_1995,Roubiéchou,7
+2304316,13:18:00,13:18:10,stop_point:SP_1993,Lapparou,8
+2304316,13:19:00,13:19:10,stop_point:SP_2419,Gaussen,9
+2304316,13:21:00,13:21:10,stop_point:SP_1499,Salvy,10
+2304316,13:21:00,13:21:10,stop_point:SP_445,Eglise Aucamville,11
+2304316,13:22:00,13:22:10,stop_point:SP_3252,Mairie Aucamville,12
+2304316,13:23:00,13:23:10,stop_point:SP_1128,Favasse,13
+2304316,13:24:00,13:24:10,stop_point:SP_619,Aucamville Collège,14
+2304316,13:25:00,13:25:10,stop_point:SP_2651,Raudelauzette,15
+2304316,13:26:00,13:26:10,stop_point:SP_455,Mariel,16
+2304316,13:27:00,13:27:10,stop_point:SP_1577,Peyronnette,17
+2304316,13:27:00,13:27:10,stop_point:SP_1215,Jules Verne,18
+2304316,13:29:00,13:29:10,stop_point:SP_1014,Pont Vieil,19
+2304316,13:31:00,13:31:10,stop_point:SP_5197,Matéo,20
+2304316,13:31:00,13:31:10,stop_point:SP_5202,La Grange,21
+2304316,13:35:00,13:35:10,stop_point:SP_1609,Barry,22
+2304316,13:36:00,13:36:10,stop_point:SP_5206,Garenne,23
+2304316,13:38:00,13:38:10,stop_point:SP_5192,Mairie Gratentour,24
+2304316,13:40:00,13:40:10,stop_point:SP_3646,Hespérides,25
+2304316,13:41:00,13:41:10,stop_point:SP_2630,Les Palanques,26
+2304316,13:42:00,13:42:10,stop_point:SP_929,Bois,27
+2304316,13:42:00,13:42:10,stop_point:SP_5210,Tour,28
+2304316,13:44:00,13:44:10,stop_point:SP_2461,Bruguières Mairie,29
+2304316,13:45:00,13:45:10,stop_point:SP_179,Ecole Bruguières,30
+2304316,13:46:00,13:46:10,stop_point:SP_1614,Gamouna,31
+2304316,13:48:00,13:48:10,stop_point:SP_3693,Bruguières Verger,32
+2304317,14:10:00,14:10:10,stop_point:SP_2016,La Vache,1
+2304317,14:12:00,14:12:10,stop_point:SP_327,Pader,2
+2304317,14:12:00,14:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304317,14:14:00,14:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304317,14:15:00,14:15:10,stop_point:SP_753,Riché Lalande,5
+2304317,14:17:00,14:17:10,stop_point:SP_1880,Lapin,6
+2304317,14:18:00,14:18:10,stop_point:SP_1995,Roubiéchou,7
+2304317,14:19:00,14:19:10,stop_point:SP_1993,Lapparou,8
+2304317,14:20:00,14:20:10,stop_point:SP_2419,Gaussen,9
+2304317,14:21:00,14:21:10,stop_point:SP_1499,Salvy,10
+2304317,14:22:00,14:22:10,stop_point:SP_445,Eglise Aucamville,11
+2304317,14:23:00,14:23:10,stop_point:SP_3252,Mairie Aucamville,12
+2304317,14:24:00,14:24:10,stop_point:SP_1128,Favasse,13
+2304317,14:25:00,14:25:10,stop_point:SP_619,Aucamville Collège,14
+2304317,14:26:00,14:26:10,stop_point:SP_2651,Raudelauzette,15
+2304317,14:27:00,14:27:10,stop_point:SP_455,Mariel,16
+2304317,14:28:00,14:28:10,stop_point:SP_1577,Peyronnette,17
+2304317,14:28:00,14:28:10,stop_point:SP_1215,Jules Verne,18
+2304317,14:30:00,14:30:10,stop_point:SP_1014,Pont Vieil,19
+2304317,14:32:00,14:32:10,stop_point:SP_5197,Matéo,20
+2304317,14:32:00,14:32:10,stop_point:SP_5202,La Grange,21
+2304317,14:36:00,14:36:10,stop_point:SP_1609,Barry,22
+2304317,14:37:00,14:37:10,stop_point:SP_5206,Garenne,23
+2304317,14:39:00,14:39:10,stop_point:SP_5192,Mairie Gratentour,24
+2304317,14:41:00,14:41:10,stop_point:SP_3646,Hespérides,25
+2304317,14:42:00,14:42:10,stop_point:SP_2630,Les Palanques,26
+2304317,14:43:00,14:43:10,stop_point:SP_929,Bois,27
+2304317,14:43:00,14:43:10,stop_point:SP_5210,Tour,28
+2304317,14:45:00,14:45:10,stop_point:SP_2461,Bruguières Mairie,29
+2304317,14:46:00,14:46:10,stop_point:SP_179,Ecole Bruguières,30
+2304317,14:47:00,14:47:10,stop_point:SP_1614,Gamouna,31
+2304317,14:49:00,14:49:10,stop_point:SP_3693,Bruguières Verger,32
+2304318,15:10:00,15:10:10,stop_point:SP_2016,La Vache,1
+2304318,15:12:00,15:12:10,stop_point:SP_327,Pader,2
+2304318,15:12:00,15:12:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304318,15:14:00,15:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304318,15:15:00,15:15:10,stop_point:SP_753,Riché Lalande,5
+2304318,15:17:00,15:17:10,stop_point:SP_1880,Lapin,6
+2304318,15:18:00,15:18:10,stop_point:SP_1995,Roubiéchou,7
+2304318,15:19:00,15:19:10,stop_point:SP_1993,Lapparou,8
+2304318,15:20:00,15:20:10,stop_point:SP_2419,Gaussen,9
+2304318,15:21:00,15:21:10,stop_point:SP_1499,Salvy,10
+2304318,15:22:00,15:22:10,stop_point:SP_445,Eglise Aucamville,11
+2304318,15:23:00,15:23:10,stop_point:SP_3252,Mairie Aucamville,12
+2304318,15:24:00,15:24:10,stop_point:SP_1128,Favasse,13
+2304318,15:25:00,15:25:10,stop_point:SP_619,Aucamville Collège,14
+2304318,15:26:00,15:26:10,stop_point:SP_2651,Raudelauzette,15
+2304318,15:27:00,15:27:10,stop_point:SP_455,Mariel,16
+2304318,15:28:00,15:28:10,stop_point:SP_1577,Peyronnette,17
+2304318,15:28:00,15:28:10,stop_point:SP_1215,Jules Verne,18
+2304318,15:30:00,15:30:10,stop_point:SP_1014,Pont Vieil,19
+2304318,15:32:00,15:32:10,stop_point:SP_5197,Matéo,20
+2304318,15:32:00,15:32:10,stop_point:SP_5202,La Grange,21
+2304318,15:36:00,15:36:10,stop_point:SP_1609,Barry,22
+2304318,15:37:00,15:37:10,stop_point:SP_5206,Garenne,23
+2304318,15:39:00,15:39:10,stop_point:SP_5192,Mairie Gratentour,24
+2304318,15:41:00,15:41:10,stop_point:SP_3646,Hespérides,25
+2304318,15:42:00,15:42:10,stop_point:SP_2630,Les Palanques,26
+2304318,15:43:00,15:43:10,stop_point:SP_929,Bois,27
+2304318,15:43:00,15:43:10,stop_point:SP_5210,Tour,28
+2304318,15:45:00,15:45:10,stop_point:SP_2461,Bruguières Mairie,29
+2304318,15:46:00,15:46:10,stop_point:SP_179,Ecole Bruguières,30
+2304318,15:47:00,15:47:10,stop_point:SP_1614,Gamouna,31
+2304318,15:49:00,15:49:10,stop_point:SP_3693,Bruguières Verger,32
+2304319,15:40:00,15:40:10,stop_point:SP_2016,La Vache,1
+2304319,15:42:00,15:42:10,stop_point:SP_327,Pader,2
+2304319,15:42:00,15:42:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304319,15:44:00,15:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304319,15:45:00,15:45:10,stop_point:SP_753,Riché Lalande,5
+2304319,15:47:00,15:47:10,stop_point:SP_1880,Lapin,6
+2304319,15:48:00,15:48:10,stop_point:SP_1995,Roubiéchou,7
+2304319,15:49:00,15:49:10,stop_point:SP_1993,Lapparou,8
+2304319,15:51:00,15:51:10,stop_point:SP_2419,Gaussen,9
+2304319,15:52:00,15:52:10,stop_point:SP_1499,Salvy,10
+2304319,15:53:00,15:53:10,stop_point:SP_445,Eglise Aucamville,11
+2304319,15:54:00,15:54:10,stop_point:SP_3252,Mairie Aucamville,12
+2304319,15:55:00,15:55:10,stop_point:SP_1128,Favasse,13
+2304319,15:57:00,15:57:10,stop_point:SP_619,Aucamville Collège,14
+2304319,15:58:00,15:58:10,stop_point:SP_2651,Raudelauzette,15
+2304319,15:59:00,15:59:10,stop_point:SP_455,Mariel,16
+2304319,16:00:00,16:00:10,stop_point:SP_1577,Peyronnette,17
+2304319,16:01:00,16:01:10,stop_point:SP_1215,Jules Verne,18
+2304319,16:02:00,16:02:10,stop_point:SP_1014,Pont Vieil,19
+2304319,16:04:00,16:04:10,stop_point:SP_5197,Matéo,20
+2304319,16:05:00,16:05:10,stop_point:SP_5202,La Grange,21
+2304319,16:09:00,16:09:10,stop_point:SP_1609,Barry,22
+2304319,16:10:00,16:10:10,stop_point:SP_5206,Garenne,23
+2304319,16:12:00,16:12:10,stop_point:SP_5192,Mairie Gratentour,24
+2304319,16:14:00,16:14:10,stop_point:SP_3646,Hespérides,25
+2304319,16:15:00,16:15:10,stop_point:SP_2630,Les Palanques,26
+2304319,16:16:00,16:16:10,stop_point:SP_929,Bois,27
+2304319,16:16:00,16:16:10,stop_point:SP_5210,Tour,28
+2304319,16:18:00,16:18:10,stop_point:SP_2461,Bruguières Mairie,29
+2304319,16:19:00,16:19:10,stop_point:SP_179,Ecole Bruguières,30
+2304319,16:20:00,16:20:10,stop_point:SP_1614,Gamouna,31
+2304319,16:22:00,16:22:10,stop_point:SP_3693,Bruguières Verger,32
+2304320,16:10:00,16:10:10,stop_point:SP_2016,La Vache,1
+2304320,16:12:00,16:12:10,stop_point:SP_327,Pader,2
+2304320,16:13:00,16:13:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304320,16:14:00,16:14:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304320,16:16:00,16:16:10,stop_point:SP_753,Riché Lalande,5
+2304320,16:18:00,16:18:10,stop_point:SP_1880,Lapin,6
+2304320,16:20:00,16:20:10,stop_point:SP_1995,Roubiéchou,7
+2304320,16:20:00,16:20:10,stop_point:SP_1993,Lapparou,8
+2304320,16:22:00,16:22:10,stop_point:SP_2419,Gaussen,9
+2304320,16:24:00,16:24:10,stop_point:SP_1499,Salvy,10
+2304320,16:25:00,16:25:10,stop_point:SP_445,Eglise Aucamville,11
+2304320,16:26:00,16:26:10,stop_point:SP_3252,Mairie Aucamville,12
+2304320,16:27:00,16:27:10,stop_point:SP_1128,Favasse,13
+2304320,16:29:00,16:29:10,stop_point:SP_619,Aucamville Collège,14
+2304320,16:30:00,16:30:10,stop_point:SP_2651,Raudelauzette,15
+2304320,16:31:00,16:31:10,stop_point:SP_455,Mariel,16
+2304320,16:32:00,16:32:10,stop_point:SP_1577,Peyronnette,17
+2304320,16:33:00,16:33:10,stop_point:SP_1215,Jules Verne,18
+2304320,16:34:00,16:34:10,stop_point:SP_1014,Pont Vieil,19
+2304320,16:36:00,16:36:10,stop_point:SP_5197,Matéo,20
+2304320,16:37:00,16:37:10,stop_point:SP_5202,La Grange,21
+2304320,16:41:00,16:41:10,stop_point:SP_1609,Barry,22
+2304320,16:42:00,16:42:10,stop_point:SP_5206,Garenne,23
+2304320,16:44:00,16:44:10,stop_point:SP_5192,Mairie Gratentour,24
+2304320,16:46:00,16:46:10,stop_point:SP_3646,Hespérides,25
+2304320,16:47:00,16:47:10,stop_point:SP_2630,Les Palanques,26
+2304320,16:48:00,16:48:10,stop_point:SP_929,Bois,27
+2304320,16:48:00,16:48:10,stop_point:SP_5210,Tour,28
+2304320,16:50:00,16:50:10,stop_point:SP_2461,Bruguières Mairie,29
+2304320,16:51:00,16:51:10,stop_point:SP_179,Ecole Bruguières,30
+2304320,16:52:00,16:52:10,stop_point:SP_1614,Gamouna,31
+2304320,16:54:00,16:54:10,stop_point:SP_3693,Bruguières Verger,32
+2304321,16:40:00,16:40:10,stop_point:SP_2016,La Vache,1
+2304321,16:42:00,16:42:10,stop_point:SP_327,Pader,2
+2304321,16:43:00,16:43:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304321,16:44:00,16:44:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304321,16:46:00,16:46:10,stop_point:SP_753,Riché Lalande,5
+2304321,16:48:00,16:48:10,stop_point:SP_1880,Lapin,6
+2304321,16:50:00,16:50:10,stop_point:SP_1995,Roubiéchou,7
+2304321,16:50:00,16:50:10,stop_point:SP_1993,Lapparou,8
+2304321,16:52:00,16:52:10,stop_point:SP_2419,Gaussen,9
+2304321,16:54:00,16:54:10,stop_point:SP_1499,Salvy,10
+2304321,16:55:00,16:55:10,stop_point:SP_445,Eglise Aucamville,11
+2304321,16:56:00,16:56:10,stop_point:SP_3252,Mairie Aucamville,12
+2304321,16:57:00,16:57:10,stop_point:SP_1128,Favasse,13
+2304321,16:59:00,16:59:10,stop_point:SP_619,Aucamville Collège,14
+2304321,17:00:00,17:00:10,stop_point:SP_2651,Raudelauzette,15
+2304321,17:01:00,17:01:10,stop_point:SP_455,Mariel,16
+2304321,17:02:00,17:02:10,stop_point:SP_1577,Peyronnette,17
+2304321,17:03:00,17:03:10,stop_point:SP_1215,Jules Verne,18
+2304321,17:04:00,17:04:10,stop_point:SP_1014,Pont Vieil,19
+2304321,17:06:00,17:06:10,stop_point:SP_5197,Matéo,20
+2304321,17:07:00,17:07:10,stop_point:SP_5202,La Grange,21
+2304321,17:11:00,17:11:10,stop_point:SP_1609,Barry,22
+2304321,17:12:00,17:12:10,stop_point:SP_5206,Garenne,23
+2304321,17:14:00,17:14:10,stop_point:SP_5192,Mairie Gratentour,24
+2304321,17:17:00,17:17:10,stop_point:SP_3646,Hespérides,25
+2304321,17:18:00,17:18:10,stop_point:SP_2630,Les Palanques,26
+2304321,17:18:00,17:18:10,stop_point:SP_929,Bois,27
+2304321,17:19:00,17:19:10,stop_point:SP_5210,Tour,28
+2304321,17:21:00,17:21:10,stop_point:SP_2461,Bruguières Mairie,29
+2304321,17:22:00,17:22:10,stop_point:SP_179,Ecole Bruguières,30
+2304321,17:23:00,17:23:10,stop_point:SP_1614,Gamouna,31
+2304321,17:25:00,17:25:10,stop_point:SP_3693,Bruguières Verger,32
+2304322,17:10:00,17:10:10,stop_point:SP_2016,La Vache,1
+2304322,17:12:00,17:12:10,stop_point:SP_327,Pader,2
+2304322,17:13:00,17:13:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304322,17:15:00,17:15:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304322,17:17:00,17:17:10,stop_point:SP_753,Riché Lalande,5
+2304322,17:19:00,17:19:10,stop_point:SP_1880,Lapin,6
+2304322,17:21:00,17:21:10,stop_point:SP_1995,Roubiéchou,7
+2304322,17:21:00,17:21:10,stop_point:SP_1993,Lapparou,8
+2304322,17:23:00,17:23:10,stop_point:SP_2419,Gaussen,9
+2304322,17:25:00,17:25:10,stop_point:SP_1499,Salvy,10
+2304322,17:26:00,17:26:10,stop_point:SP_445,Eglise Aucamville,11
+2304322,17:27:00,17:27:10,stop_point:SP_3252,Mairie Aucamville,12
+2304322,17:28:00,17:28:10,stop_point:SP_1128,Favasse,13
+2304322,17:30:00,17:30:10,stop_point:SP_619,Aucamville Collège,14
+2304322,17:31:00,17:31:10,stop_point:SP_2651,Raudelauzette,15
+2304322,17:32:00,17:32:10,stop_point:SP_455,Mariel,16
+2304322,17:33:00,17:33:10,stop_point:SP_1577,Peyronnette,17
+2304322,17:34:00,17:34:10,stop_point:SP_1215,Jules Verne,18
+2304322,17:35:00,17:35:10,stop_point:SP_1014,Pont Vieil,19
+2304322,17:37:00,17:37:10,stop_point:SP_5197,Matéo,20
+2304322,17:38:00,17:38:10,stop_point:SP_5202,La Grange,21
+2304322,17:42:00,17:42:10,stop_point:SP_1609,Barry,22
+2304322,17:43:00,17:43:10,stop_point:SP_5206,Garenne,23
+2304322,17:45:00,17:45:10,stop_point:SP_5192,Mairie Gratentour,24
+2304322,17:48:00,17:48:10,stop_point:SP_3646,Hespérides,25
+2304322,17:49:00,17:49:10,stop_point:SP_2630,Les Palanques,26
+2304322,17:49:00,17:49:10,stop_point:SP_929,Bois,27
+2304322,17:50:00,17:50:10,stop_point:SP_5210,Tour,28
+2304322,17:52:00,17:52:10,stop_point:SP_2461,Bruguières Mairie,29
+2304322,17:53:00,17:53:10,stop_point:SP_179,Ecole Bruguières,30
+2304322,17:54:00,17:54:10,stop_point:SP_1614,Gamouna,31
+2304322,17:56:00,17:56:10,stop_point:SP_3693,Bruguières Verger,32
+2304323,17:40:00,17:40:10,stop_point:SP_2016,La Vache,1
+2304323,17:42:00,17:42:10,stop_point:SP_327,Pader,2
+2304323,17:43:00,17:43:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304323,17:45:00,17:45:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304323,17:47:00,17:47:10,stop_point:SP_753,Riché Lalande,5
+2304323,17:49:00,17:49:10,stop_point:SP_1880,Lapin,6
+2304323,17:51:00,17:51:10,stop_point:SP_1995,Roubiéchou,7
+2304323,17:52:00,17:52:10,stop_point:SP_1993,Lapparou,8
+2304323,17:54:00,17:54:10,stop_point:SP_2419,Gaussen,9
+2304323,17:56:00,17:56:10,stop_point:SP_1499,Salvy,10
+2304323,17:57:00,17:57:10,stop_point:SP_445,Eglise Aucamville,11
+2304323,17:58:00,17:58:10,stop_point:SP_3252,Mairie Aucamville,12
+2304323,17:59:00,17:59:10,stop_point:SP_1128,Favasse,13
+2304323,18:01:00,18:01:10,stop_point:SP_619,Aucamville Collège,14
+2304323,18:02:00,18:02:10,stop_point:SP_2651,Raudelauzette,15
+2304323,18:03:00,18:03:10,stop_point:SP_455,Mariel,16
+2304323,18:04:00,18:04:10,stop_point:SP_1577,Peyronnette,17
+2304323,18:05:00,18:05:10,stop_point:SP_1215,Jules Verne,18
+2304323,18:06:00,18:06:10,stop_point:SP_1014,Pont Vieil,19
+2304323,18:08:00,18:08:10,stop_point:SP_5197,Matéo,20
+2304323,18:09:00,18:09:10,stop_point:SP_5202,La Grange,21
+2304323,18:13:00,18:13:10,stop_point:SP_1609,Barry,22
+2304323,18:14:00,18:14:10,stop_point:SP_5206,Garenne,23
+2304323,18:16:00,18:16:10,stop_point:SP_5192,Mairie Gratentour,24
+2304323,18:19:00,18:19:10,stop_point:SP_3646,Hespérides,25
+2304323,18:20:00,18:20:10,stop_point:SP_2630,Les Palanques,26
+2304323,18:20:00,18:20:10,stop_point:SP_929,Bois,27
+2304323,18:21:00,18:21:10,stop_point:SP_5210,Tour,28
+2304323,18:23:00,18:23:10,stop_point:SP_2461,Bruguières Mairie,29
+2304323,18:24:00,18:24:10,stop_point:SP_179,Ecole Bruguières,30
+2304323,18:25:00,18:25:10,stop_point:SP_1614,Gamouna,31
+2304323,18:27:00,18:27:10,stop_point:SP_3693,Bruguières Verger,32
+2304324,18:00:00,18:00:10,stop_point:SP_2016,La Vache,1
+2304324,18:02:00,18:02:10,stop_point:SP_327,Pader,2
+2304324,18:03:00,18:03:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304324,18:04:00,18:04:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304324,18:06:00,18:06:10,stop_point:SP_753,Riché Lalande,5
+2304324,18:08:00,18:08:10,stop_point:SP_1880,Lapin,6
+2304324,18:10:00,18:10:10,stop_point:SP_1995,Roubiéchou,7
+2304324,18:11:00,18:11:10,stop_point:SP_1993,Lapparou,8
+2304324,18:13:00,18:13:10,stop_point:SP_2419,Gaussen,9
+2304324,18:15:00,18:15:10,stop_point:SP_1499,Salvy,10
+2304324,18:16:00,18:16:10,stop_point:SP_445,Eglise Aucamville,11
+2304324,18:17:00,18:17:10,stop_point:SP_3252,Mairie Aucamville,12
+2304324,18:18:00,18:18:10,stop_point:SP_1128,Favasse,13
+2304324,18:20:00,18:20:10,stop_point:SP_619,Aucamville Collège,14
+2304324,18:21:00,18:21:10,stop_point:SP_2651,Raudelauzette,15
+2304324,18:22:00,18:22:10,stop_point:SP_455,Mariel,16
+2304324,18:23:00,18:23:10,stop_point:SP_1577,Peyronnette,17
+2304324,18:24:00,18:24:10,stop_point:SP_1215,Jules Verne,18
+2304324,18:25:00,18:25:10,stop_point:SP_1014,Pont Vieil,19
+2304324,18:27:00,18:27:10,stop_point:SP_5197,Matéo,20
+2304324,18:28:00,18:28:10,stop_point:SP_5202,La Grange,21
+2304324,18:32:00,18:32:10,stop_point:SP_1609,Barry,22
+2304324,18:33:00,18:33:10,stop_point:SP_5206,Garenne,23
+2304324,18:35:00,18:35:10,stop_point:SP_5192,Mairie Gratentour,24
+2304324,18:38:00,18:38:10,stop_point:SP_3646,Hespérides,25
+2304324,18:39:00,18:39:10,stop_point:SP_2630,Les Palanques,26
+2304324,18:39:00,18:39:10,stop_point:SP_929,Bois,27
+2304324,18:40:00,18:40:10,stop_point:SP_5210,Tour,28
+2304324,18:42:00,18:42:10,stop_point:SP_2461,Bruguières Mairie,29
+2304324,18:43:00,18:43:10,stop_point:SP_179,Ecole Bruguières,30
+2304324,18:44:00,18:44:10,stop_point:SP_1614,Gamouna,31
+2304324,18:46:00,18:46:10,stop_point:SP_3693,Bruguières Verger,32
+2304325,18:35:00,18:35:10,stop_point:SP_2016,La Vache,1
+2304325,18:37:00,18:37:10,stop_point:SP_327,Pader,2
+2304325,18:38:00,18:38:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304325,18:39:00,18:39:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304325,18:41:00,18:41:10,stop_point:SP_753,Riché Lalande,5
+2304325,18:43:00,18:43:10,stop_point:SP_1880,Lapin,6
+2304325,18:44:00,18:44:10,stop_point:SP_1995,Roubiéchou,7
+2304325,18:45:00,18:45:10,stop_point:SP_1993,Lapparou,8
+2304325,18:47:00,18:47:10,stop_point:SP_2419,Gaussen,9
+2304325,18:48:00,18:48:10,stop_point:SP_1499,Salvy,10
+2304325,18:49:00,18:49:10,stop_point:SP_445,Eglise Aucamville,11
+2304325,18:50:00,18:50:10,stop_point:SP_3252,Mairie Aucamville,12
+2304325,18:51:00,18:51:10,stop_point:SP_1128,Favasse,13
+2304325,18:53:00,18:53:10,stop_point:SP_619,Aucamville Collège,14
+2304325,18:54:00,18:54:10,stop_point:SP_2651,Raudelauzette,15
+2304325,18:55:00,18:55:10,stop_point:SP_455,Mariel,16
+2304325,18:56:00,18:56:10,stop_point:SP_1577,Peyronnette,17
+2304325,18:57:00,18:57:10,stop_point:SP_1215,Jules Verne,18
+2304325,18:58:00,18:58:10,stop_point:SP_1014,Pont Vieil,19
+2304325,19:00:00,19:00:10,stop_point:SP_5197,Matéo,20
+2304325,19:01:00,19:01:10,stop_point:SP_5202,La Grange,21
+2304325,19:05:00,19:05:10,stop_point:SP_1609,Barry,22
+2304325,19:06:00,19:06:10,stop_point:SP_5206,Garenne,23
+2304325,19:08:00,19:08:10,stop_point:SP_5192,Mairie Gratentour,24
+2304325,19:11:00,19:11:10,stop_point:SP_3646,Hespérides,25
+2304325,19:12:00,19:12:10,stop_point:SP_2630,Les Palanques,26
+2304325,19:12:00,19:12:10,stop_point:SP_929,Bois,27
+2304325,19:13:00,19:13:10,stop_point:SP_5210,Tour,28
+2304325,19:15:00,19:15:10,stop_point:SP_2461,Bruguières Mairie,29
+2304325,19:16:00,19:16:10,stop_point:SP_179,Ecole Bruguières,30
+2304325,19:17:00,19:17:10,stop_point:SP_1614,Gamouna,31
+2304325,19:19:00,19:19:10,stop_point:SP_3693,Bruguières Verger,32
+2304326,19:25:00,19:25:10,stop_point:SP_2016,La Vache,1
+2304326,19:27:00,19:27:10,stop_point:SP_327,Pader,2
+2304326,19:27:00,19:27:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304326,19:29:00,19:29:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304326,19:30:00,19:30:10,stop_point:SP_753,Riché Lalande,5
+2304326,19:32:00,19:32:10,stop_point:SP_1880,Lapin,6
+2304326,19:33:00,19:33:10,stop_point:SP_1995,Roubiéchou,7
+2304326,19:34:00,19:34:10,stop_point:SP_1993,Lapparou,8
+2304326,19:35:00,19:35:10,stop_point:SP_2419,Gaussen,9
+2304326,19:36:00,19:36:10,stop_point:SP_1499,Salvy,10
+2304326,19:37:00,19:37:10,stop_point:SP_445,Eglise Aucamville,11
+2304326,19:38:00,19:38:10,stop_point:SP_3252,Mairie Aucamville,12
+2304326,19:39:00,19:39:10,stop_point:SP_1128,Favasse,13
+2304326,19:40:00,19:40:10,stop_point:SP_619,Aucamville Collège,14
+2304326,19:41:00,19:41:10,stop_point:SP_2651,Raudelauzette,15
+2304326,19:42:00,19:42:10,stop_point:SP_455,Mariel,16
+2304326,19:43:00,19:43:10,stop_point:SP_1577,Peyronnette,17
+2304326,19:44:00,19:44:10,stop_point:SP_1215,Jules Verne,18
+2304326,19:45:00,19:45:10,stop_point:SP_1014,Pont Vieil,19
+2304326,19:47:00,19:47:10,stop_point:SP_5197,Matéo,20
+2304326,19:48:00,19:48:10,stop_point:SP_5202,La Grange,21
+2304326,19:52:00,19:52:10,stop_point:SP_1609,Barry,22
+2304326,19:53:00,19:53:10,stop_point:SP_5206,Garenne,23
+2304326,19:55:00,19:55:10,stop_point:SP_5192,Mairie Gratentour,24
+2304326,19:57:00,19:57:10,stop_point:SP_3646,Hespérides,25
+2304326,19:58:00,19:58:10,stop_point:SP_2630,Les Palanques,26
+2304326,19:59:00,19:59:10,stop_point:SP_929,Bois,27
+2304326,19:59:00,19:59:10,stop_point:SP_5210,Tour,28
+2304326,20:01:00,20:01:10,stop_point:SP_2461,Bruguières Mairie,29
+2304326,20:02:00,20:02:10,stop_point:SP_179,Ecole Bruguières,30
+2304326,20:03:00,20:03:10,stop_point:SP_1614,Gamouna,31
+2304326,20:05:00,20:05:10,stop_point:SP_3693,Bruguières Verger,32
+2304327,20:25:00,20:25:10,stop_point:SP_2016,La Vache,1
+2304327,20:27:00,20:27:10,stop_point:SP_327,Pader,2
+2304327,20:27:00,20:27:10,stop_point:SP_3826,Le Grand Marché - Pont de La Vache,3
+2304327,20:29:00,20:29:10,stop_point:SP_3721,Collège Rosa Parks,4
+2304327,20:30:00,20:30:10,stop_point:SP_753,Riché Lalande,5
+2304327,20:32:00,20:32:10,stop_point:SP_1880,Lapin,6
+2304327,20:32:00,20:32:10,stop_point:SP_1995,Roubiéchou,7
+2304327,20:33:00,20:33:10,stop_point:SP_1993,Lapparou,8
+2304327,20:34:00,20:34:10,stop_point:SP_2419,Gaussen,9
+2304327,20:36:00,20:36:10,stop_point:SP_1499,Salvy,10
+2304327,20:36:00,20:36:10,stop_point:SP_445,Eglise Aucamville,11
+2304327,20:37:00,20:37:10,stop_point:SP_3252,Mairie Aucamville,12
+2304327,20:38:00,20:38:10,stop_point:SP_1128,Favasse,13
+2304327,20:39:00,20:39:10,stop_point:SP_619,Aucamville Collège,14
+2304327,20:40:00,20:40:10,stop_point:SP_2651,Raudelauzette,15
+2304327,20:41:00,20:41:10,stop_point:SP_455,Mariel,16
+2304327,20:42:00,20:42:10,stop_point:SP_1577,Peyronnette,17
+2304327,20:42:00,20:42:10,stop_point:SP_1215,Jules Verne,18
+2304327,20:44:00,20:44:10,stop_point:SP_1014,Pont Vieil,19
+2304327,20:45:00,20:45:10,stop_point:SP_5197,Matéo,20
+2304327,20:45:00,20:45:10,stop_point:SP_5202,La Grange,21
+2304327,20:49:00,20:49:10,stop_point:SP_1609,Barry,22
+2304327,20:49:00,20:49:10,stop_point:SP_5206,Garenne,23
+2304327,20:51:00,20:51:10,stop_point:SP_5192,Mairie Gratentour,24
+2304327,20:53:00,20:53:10,stop_point:SP_3646,Hespérides,25
+2304327,20:54:00,20:54:10,stop_point:SP_2630,Les Palanques,26
+2304327,20:54:00,20:54:10,stop_point:SP_929,Bois,27
+2304327,20:55:00,20:55:10,stop_point:SP_5210,Tour,28
+2304327,20:56:00,20:56:10,stop_point:SP_2461,Bruguières Mairie,29
+2304327,20:57:00,20:57:10,stop_point:SP_179,Ecole Bruguières,30
+2304327,20:58:00,20:58:10,stop_point:SP_1614,Gamouna,31
+2304327,21:00:00,21:00:10,stop_point:SP_3693,Bruguières Verger,32
+2304328,06:20:00,06:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304328,06:22:00,06:22:10,stop_point:SP_5200,Gamouna,2
+2304328,06:23:00,06:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304328,06:24:00,06:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304328,06:25:00,06:25:10,stop_point:SP_5189,Tour,5
+2304328,06:26:00,06:26:10,stop_point:SP_125,Bois,6
+2304328,06:27:00,06:27:10,stop_point:SP_2528,Les Palanques,7
+2304328,06:28:00,06:28:10,stop_point:SP_2704,Hespérides,8
+2304328,06:29:00,06:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304328,06:31:00,06:31:10,stop_point:SP_5208,Garenne,10
+2304328,06:32:00,06:32:10,stop_point:SP_2755,Barry,11
+2304328,06:36:00,06:36:10,stop_point:SP_5191,La Grange,12
+2304328,06:36:00,06:36:10,stop_point:SP_5186,Matéo,13
+2304328,06:38:00,06:38:10,stop_point:SP_3911,Pont Vieil,14
+2304328,06:39:00,06:39:10,stop_point:SP_2710,Jules Verne,15
+2304328,06:40:00,06:40:10,stop_point:SP_1370,Peyronnette,16
+2304328,06:41:00,06:41:10,stop_point:SP_3053,Mariel,17
+2304328,06:43:00,06:43:10,stop_point:SP_3516,Raudelauzette,18
+2304328,06:44:00,06:44:10,stop_point:SP_1879,Aucamville Collège,19
+2304328,06:46:00,06:46:10,stop_point:SP_175,Favasse,20
+2304328,06:47:00,06:47:10,stop_point:SP_1760,Mairie Aucamville,21
+2304328,06:48:00,06:48:10,stop_point:SP_2311,Eglise Aucamville,22
+2304328,06:49:00,06:49:10,stop_point:SP_802,Salvy,23
+2304328,06:50:00,06:50:10,stop_point:SP_2114,Gaussen,24
+2304328,06:51:00,06:51:10,stop_point:SP_3810,Lapparou,25
+2304328,06:52:00,06:52:10,stop_point:SP_507,Roubiéchou,26
+2304328,06:54:00,06:54:10,stop_point:SP_3354,Lapin,27
+2304328,06:55:00,06:55:10,stop_point:SP_2207,Riché Lalande,28
+2304328,06:56:00,06:56:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304328,06:57:00,06:57:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304328,06:58:00,06:58:10,stop_point:SP_97,Pader,31
+2304328,06:59:00,06:59:10,stop_point:SP_2016,La Vache,32
+2304329,06:50:00,06:50:10,stop_point:SP_3693,Bruguières Verger,1
+2304329,06:52:00,06:52:10,stop_point:SP_5200,Gamouna,2
+2304329,06:53:00,06:53:10,stop_point:SP_1511,Ecole Bruguières,3
+2304329,06:54:00,06:54:10,stop_point:SP_5368,Bruguières Mairie,4
+2304329,06:55:00,06:55:10,stop_point:SP_5189,Tour,5
+2304329,06:56:00,06:56:10,stop_point:SP_125,Bois,6
+2304329,06:57:00,06:57:10,stop_point:SP_2528,Les Palanques,7
+2304329,06:58:00,06:58:10,stop_point:SP_2704,Hespérides,8
+2304329,07:00:00,07:00:10,stop_point:SP_5182,Mairie Gratentour,9
+2304329,07:02:00,07:02:10,stop_point:SP_5208,Garenne,10
+2304329,07:03:00,07:03:10,stop_point:SP_2755,Barry,11
+2304329,07:07:00,07:07:10,stop_point:SP_5191,La Grange,12
+2304329,07:08:00,07:08:10,stop_point:SP_5186,Matéo,13
+2304329,07:09:00,07:09:10,stop_point:SP_3911,Pont Vieil,14
+2304329,07:11:00,07:11:10,stop_point:SP_2710,Jules Verne,15
+2304329,07:12:00,07:12:10,stop_point:SP_1370,Peyronnette,16
+2304329,07:13:00,07:13:10,stop_point:SP_3053,Mariel,17
+2304329,07:15:00,07:15:10,stop_point:SP_3516,Raudelauzette,18
+2304329,07:16:00,07:16:10,stop_point:SP_1879,Aucamville Collège,19
+2304329,07:18:00,07:18:10,stop_point:SP_175,Favasse,20
+2304329,07:19:00,07:19:10,stop_point:SP_1760,Mairie Aucamville,21
+2304329,07:20:00,07:20:10,stop_point:SP_2311,Eglise Aucamville,22
+2304329,07:22:00,07:22:10,stop_point:SP_802,Salvy,23
+2304329,07:24:00,07:24:10,stop_point:SP_2114,Gaussen,24
+2304329,07:26:00,07:26:10,stop_point:SP_3810,Lapparou,25
+2304329,07:28:00,07:28:10,stop_point:SP_507,Roubiéchou,26
+2304329,07:30:00,07:30:10,stop_point:SP_3354,Lapin,27
+2304329,07:32:00,07:32:10,stop_point:SP_2207,Riché Lalande,28
+2304329,07:33:00,07:33:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304329,07:35:00,07:35:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304329,07:36:00,07:36:10,stop_point:SP_97,Pader,31
+2304329,07:38:00,07:38:10,stop_point:SP_2016,La Vache,32
+2304330,07:20:00,07:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304330,07:22:00,07:22:10,stop_point:SP_5200,Gamouna,2
+2304330,07:23:00,07:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304330,07:24:00,07:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304330,07:26:00,07:26:10,stop_point:SP_5189,Tour,5
+2304330,07:26:00,07:26:10,stop_point:SP_125,Bois,6
+2304330,07:27:00,07:27:10,stop_point:SP_2528,Les Palanques,7
+2304330,07:28:00,07:28:10,stop_point:SP_2704,Hespérides,8
+2304330,07:30:00,07:30:10,stop_point:SP_5182,Mairie Gratentour,9
+2304330,07:33:00,07:33:10,stop_point:SP_5208,Garenne,10
+2304330,07:34:00,07:34:10,stop_point:SP_2755,Barry,11
+2304330,07:38:00,07:38:10,stop_point:SP_5191,La Grange,12
+2304330,07:39:00,07:39:10,stop_point:SP_5186,Matéo,13
+2304330,07:40:00,07:40:10,stop_point:SP_3911,Pont Vieil,14
+2304330,07:42:00,07:42:10,stop_point:SP_2710,Jules Verne,15
+2304330,07:43:00,07:43:10,stop_point:SP_1370,Peyronnette,16
+2304330,07:44:00,07:44:10,stop_point:SP_3053,Mariel,17
+2304330,07:46:00,07:46:10,stop_point:SP_3516,Raudelauzette,18
+2304330,07:47:00,07:47:10,stop_point:SP_1879,Aucamville Collège,19
+2304330,07:49:00,07:49:10,stop_point:SP_175,Favasse,20
+2304330,07:50:00,07:50:10,stop_point:SP_1760,Mairie Aucamville,21
+2304330,07:51:00,07:51:10,stop_point:SP_2311,Eglise Aucamville,22
+2304330,07:53:00,07:53:10,stop_point:SP_802,Salvy,23
+2304330,07:55:00,07:55:10,stop_point:SP_2114,Gaussen,24
+2304330,07:57:00,07:57:10,stop_point:SP_3810,Lapparou,25
+2304330,07:59:00,07:59:10,stop_point:SP_507,Roubiéchou,26
+2304330,08:01:00,08:01:10,stop_point:SP_3354,Lapin,27
+2304330,08:03:00,08:03:10,stop_point:SP_2207,Riché Lalande,28
+2304330,08:04:00,08:04:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304330,08:06:00,08:06:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304330,08:07:00,08:07:10,stop_point:SP_97,Pader,31
+2304330,08:09:00,08:09:10,stop_point:SP_2016,La Vache,32
+2304331,07:50:00,07:50:10,stop_point:SP_3693,Bruguières Verger,1
+2304331,07:52:00,07:52:10,stop_point:SP_5200,Gamouna,2
+2304331,07:53:00,07:53:10,stop_point:SP_1511,Ecole Bruguières,3
+2304331,07:54:00,07:54:10,stop_point:SP_5368,Bruguières Mairie,4
+2304331,07:56:00,07:56:10,stop_point:SP_5189,Tour,5
+2304331,07:56:00,07:56:10,stop_point:SP_125,Bois,6
+2304331,07:57:00,07:57:10,stop_point:SP_2528,Les Palanques,7
+2304331,07:58:00,07:58:10,stop_point:SP_2704,Hespérides,8
+2304331,08:00:00,08:00:10,stop_point:SP_5182,Mairie Gratentour,9
+2304331,08:03:00,08:03:10,stop_point:SP_5208,Garenne,10
+2304331,08:04:00,08:04:10,stop_point:SP_2755,Barry,11
+2304331,08:08:00,08:08:10,stop_point:SP_5191,La Grange,12
+2304331,08:09:00,08:09:10,stop_point:SP_5186,Matéo,13
+2304331,08:10:00,08:10:10,stop_point:SP_3911,Pont Vieil,14
+2304331,08:12:00,08:12:10,stop_point:SP_2710,Jules Verne,15
+2304331,08:13:00,08:13:10,stop_point:SP_1370,Peyronnette,16
+2304331,08:14:00,08:14:10,stop_point:SP_3053,Mariel,17
+2304331,08:16:00,08:16:10,stop_point:SP_3516,Raudelauzette,18
+2304331,08:17:00,08:17:10,stop_point:SP_1879,Aucamville Collège,19
+2304331,08:19:00,08:19:10,stop_point:SP_175,Favasse,20
+2304331,08:20:00,08:20:10,stop_point:SP_1760,Mairie Aucamville,21
+2304331,08:21:00,08:21:10,stop_point:SP_2311,Eglise Aucamville,22
+2304331,08:23:00,08:23:10,stop_point:SP_802,Salvy,23
+2304331,08:25:00,08:25:10,stop_point:SP_2114,Gaussen,24
+2304331,08:27:00,08:27:10,stop_point:SP_3810,Lapparou,25
+2304331,08:29:00,08:29:10,stop_point:SP_507,Roubiéchou,26
+2304331,08:31:00,08:31:10,stop_point:SP_3354,Lapin,27
+2304331,08:33:00,08:33:10,stop_point:SP_2207,Riché Lalande,28
+2304331,08:34:00,08:34:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304331,08:36:00,08:36:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304331,08:37:00,08:37:10,stop_point:SP_97,Pader,31
+2304331,08:39:00,08:39:10,stop_point:SP_2016,La Vache,32
+2304332,08:20:00,08:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304332,08:22:00,08:22:10,stop_point:SP_5200,Gamouna,2
+2304332,08:23:00,08:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304332,08:24:00,08:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304332,08:26:00,08:26:10,stop_point:SP_5189,Tour,5
+2304332,08:26:00,08:26:10,stop_point:SP_125,Bois,6
+2304332,08:27:00,08:27:10,stop_point:SP_2528,Les Palanques,7
+2304332,08:28:00,08:28:10,stop_point:SP_2704,Hespérides,8
+2304332,08:30:00,08:30:10,stop_point:SP_5182,Mairie Gratentour,9
+2304332,08:33:00,08:33:10,stop_point:SP_5208,Garenne,10
+2304332,08:34:00,08:34:10,stop_point:SP_2755,Barry,11
+2304332,08:38:00,08:38:10,stop_point:SP_5191,La Grange,12
+2304332,08:39:00,08:39:10,stop_point:SP_5186,Matéo,13
+2304332,08:40:00,08:40:10,stop_point:SP_3911,Pont Vieil,14
+2304332,08:42:00,08:42:10,stop_point:SP_2710,Jules Verne,15
+2304332,08:43:00,08:43:10,stop_point:SP_1370,Peyronnette,16
+2304332,08:44:00,08:44:10,stop_point:SP_3053,Mariel,17
+2304332,08:46:00,08:46:10,stop_point:SP_3516,Raudelauzette,18
+2304332,08:47:00,08:47:10,stop_point:SP_1879,Aucamville Collège,19
+2304332,08:49:00,08:49:10,stop_point:SP_175,Favasse,20
+2304332,08:50:00,08:50:10,stop_point:SP_1760,Mairie Aucamville,21
+2304332,08:51:00,08:51:10,stop_point:SP_2311,Eglise Aucamville,22
+2304332,08:52:00,08:52:10,stop_point:SP_802,Salvy,23
+2304332,08:54:00,08:54:10,stop_point:SP_2114,Gaussen,24
+2304332,08:56:00,08:56:10,stop_point:SP_3810,Lapparou,25
+2304332,08:58:00,08:58:10,stop_point:SP_507,Roubiéchou,26
+2304332,08:59:00,08:59:10,stop_point:SP_3354,Lapin,27
+2304332,09:01:00,09:01:10,stop_point:SP_2207,Riché Lalande,28
+2304332,09:02:00,09:02:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304332,09:04:00,09:04:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304332,09:05:00,09:05:10,stop_point:SP_97,Pader,31
+2304332,09:07:00,09:07:10,stop_point:SP_2016,La Vache,32
+2304333,08:50:00,08:50:10,stop_point:SP_3693,Bruguières Verger,1
+2304333,08:52:00,08:52:10,stop_point:SP_5200,Gamouna,2
+2304333,08:53:00,08:53:10,stop_point:SP_1511,Ecole Bruguières,3
+2304333,08:54:00,08:54:10,stop_point:SP_5368,Bruguières Mairie,4
+2304333,08:56:00,08:56:10,stop_point:SP_5189,Tour,5
+2304333,08:56:00,08:56:10,stop_point:SP_125,Bois,6
+2304333,08:57:00,08:57:10,stop_point:SP_2528,Les Palanques,7
+2304333,08:58:00,08:58:10,stop_point:SP_2704,Hespérides,8
+2304333,09:00:00,09:00:10,stop_point:SP_5182,Mairie Gratentour,9
+2304333,09:03:00,09:03:10,stop_point:SP_5208,Garenne,10
+2304333,09:04:00,09:04:10,stop_point:SP_2755,Barry,11
+2304333,09:08:00,09:08:10,stop_point:SP_5191,La Grange,12
+2304333,09:09:00,09:09:10,stop_point:SP_5186,Matéo,13
+2304333,09:10:00,09:10:10,stop_point:SP_3911,Pont Vieil,14
+2304333,09:12:00,09:12:10,stop_point:SP_2710,Jules Verne,15
+2304333,09:13:00,09:13:10,stop_point:SP_1370,Peyronnette,16
+2304333,09:14:00,09:14:10,stop_point:SP_3053,Mariel,17
+2304333,09:16:00,09:16:10,stop_point:SP_3516,Raudelauzette,18
+2304333,09:17:00,09:17:10,stop_point:SP_1879,Aucamville Collège,19
+2304333,09:19:00,09:19:10,stop_point:SP_175,Favasse,20
+2304333,09:20:00,09:20:10,stop_point:SP_1760,Mairie Aucamville,21
+2304333,09:21:00,09:21:10,stop_point:SP_2311,Eglise Aucamville,22
+2304333,09:22:00,09:22:10,stop_point:SP_802,Salvy,23
+2304333,09:23:00,09:23:10,stop_point:SP_2114,Gaussen,24
+2304333,09:25:00,09:25:10,stop_point:SP_3810,Lapparou,25
+2304333,09:26:00,09:26:10,stop_point:SP_507,Roubiéchou,26
+2304333,09:27:00,09:27:10,stop_point:SP_3354,Lapin,27
+2304333,09:29:00,09:29:10,stop_point:SP_2207,Riché Lalande,28
+2304333,09:30:00,09:30:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304333,09:32:00,09:32:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304333,09:33:00,09:33:10,stop_point:SP_97,Pader,31
+2304333,09:34:00,09:34:10,stop_point:SP_2016,La Vache,32
+2304334,09:30:00,09:30:10,stop_point:SP_3693,Bruguières Verger,1
+2304334,09:32:00,09:32:10,stop_point:SP_5200,Gamouna,2
+2304334,09:33:00,09:33:10,stop_point:SP_1511,Ecole Bruguières,3
+2304334,09:34:00,09:34:10,stop_point:SP_5368,Bruguières Mairie,4
+2304334,09:35:00,09:35:10,stop_point:SP_5189,Tour,5
+2304334,09:36:00,09:36:10,stop_point:SP_125,Bois,6
+2304334,09:37:00,09:37:10,stop_point:SP_2528,Les Palanques,7
+2304334,09:38:00,09:38:10,stop_point:SP_2704,Hespérides,8
+2304334,09:40:00,09:40:10,stop_point:SP_5182,Mairie Gratentour,9
+2304334,09:42:00,09:42:10,stop_point:SP_5208,Garenne,10
+2304334,09:43:00,09:43:10,stop_point:SP_2755,Barry,11
+2304334,09:47:00,09:47:10,stop_point:SP_5191,La Grange,12
+2304334,09:48:00,09:48:10,stop_point:SP_5186,Matéo,13
+2304334,09:49:00,09:49:10,stop_point:SP_3911,Pont Vieil,14
+2304334,09:51:00,09:51:10,stop_point:SP_2710,Jules Verne,15
+2304334,09:52:00,09:52:10,stop_point:SP_1370,Peyronnette,16
+2304334,09:53:00,09:53:10,stop_point:SP_3053,Mariel,17
+2304334,09:54:00,09:54:10,stop_point:SP_3516,Raudelauzette,18
+2304334,09:55:00,09:55:10,stop_point:SP_1879,Aucamville Collège,19
+2304334,09:57:00,09:57:10,stop_point:SP_175,Favasse,20
+2304334,09:58:00,09:58:10,stop_point:SP_1760,Mairie Aucamville,21
+2304334,09:59:00,09:59:10,stop_point:SP_2311,Eglise Aucamville,22
+2304334,10:00:00,10:00:10,stop_point:SP_802,Salvy,23
+2304334,10:01:00,10:01:10,stop_point:SP_2114,Gaussen,24
+2304334,10:02:00,10:02:10,stop_point:SP_3810,Lapparou,25
+2304334,10:03:00,10:03:10,stop_point:SP_507,Roubiéchou,26
+2304334,10:04:00,10:04:10,stop_point:SP_3354,Lapin,27
+2304334,10:05:00,10:05:10,stop_point:SP_2207,Riché Lalande,28
+2304334,10:06:00,10:06:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304334,10:08:00,10:08:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304334,10:09:00,10:09:10,stop_point:SP_97,Pader,31
+2304334,10:10:00,10:10:10,stop_point:SP_2016,La Vache,32
+2304335,10:20:00,10:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304335,10:22:00,10:22:10,stop_point:SP_5200,Gamouna,2
+2304335,10:23:00,10:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304335,10:24:00,10:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304335,10:25:00,10:25:10,stop_point:SP_5189,Tour,5
+2304335,10:26:00,10:26:10,stop_point:SP_125,Bois,6
+2304335,10:27:00,10:27:10,stop_point:SP_2528,Les Palanques,7
+2304335,10:28:00,10:28:10,stop_point:SP_2704,Hespérides,8
+2304335,10:30:00,10:30:10,stop_point:SP_5182,Mairie Gratentour,9
+2304335,10:32:00,10:32:10,stop_point:SP_5208,Garenne,10
+2304335,10:33:00,10:33:10,stop_point:SP_2755,Barry,11
+2304335,10:36:00,10:36:10,stop_point:SP_5191,La Grange,12
+2304335,10:37:00,10:37:10,stop_point:SP_5186,Matéo,13
+2304335,10:39:00,10:39:10,stop_point:SP_3911,Pont Vieil,14
+2304335,10:40:00,10:40:10,stop_point:SP_2710,Jules Verne,15
+2304335,10:41:00,10:41:10,stop_point:SP_1370,Peyronnette,16
+2304335,10:42:00,10:42:10,stop_point:SP_3053,Mariel,17
+2304335,10:43:00,10:43:10,stop_point:SP_3516,Raudelauzette,18
+2304335,10:44:00,10:44:10,stop_point:SP_1879,Aucamville Collège,19
+2304335,10:46:00,10:46:10,stop_point:SP_175,Favasse,20
+2304335,10:47:00,10:47:10,stop_point:SP_1760,Mairie Aucamville,21
+2304335,10:48:00,10:48:10,stop_point:SP_2311,Eglise Aucamville,22
+2304335,10:49:00,10:49:10,stop_point:SP_802,Salvy,23
+2304335,10:50:00,10:50:10,stop_point:SP_2114,Gaussen,24
+2304335,10:51:00,10:51:10,stop_point:SP_3810,Lapparou,25
+2304335,10:52:00,10:52:10,stop_point:SP_507,Roubiéchou,26
+2304335,10:53:00,10:53:10,stop_point:SP_3354,Lapin,27
+2304335,10:54:00,10:54:10,stop_point:SP_2207,Riché Lalande,28
+2304335,10:55:00,10:55:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304335,10:57:00,10:57:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304335,10:58:00,10:58:10,stop_point:SP_97,Pader,31
+2304335,10:59:00,10:59:10,stop_point:SP_2016,La Vache,32
+2304336,11:20:00,11:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304336,11:22:00,11:22:10,stop_point:SP_5200,Gamouna,2
+2304336,11:23:00,11:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304336,11:24:00,11:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304336,11:25:00,11:25:10,stop_point:SP_5189,Tour,5
+2304336,11:26:00,11:26:10,stop_point:SP_125,Bois,6
+2304336,11:27:00,11:27:10,stop_point:SP_2528,Les Palanques,7
+2304336,11:28:00,11:28:10,stop_point:SP_2704,Hespérides,8
+2304336,11:29:00,11:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304336,11:31:00,11:31:10,stop_point:SP_5208,Garenne,10
+2304336,11:32:00,11:32:10,stop_point:SP_2755,Barry,11
+2304336,11:36:00,11:36:10,stop_point:SP_5191,La Grange,12
+2304336,11:36:00,11:36:10,stop_point:SP_5186,Matéo,13
+2304336,11:38:00,11:38:10,stop_point:SP_3911,Pont Vieil,14
+2304336,11:39:00,11:39:10,stop_point:SP_2710,Jules Verne,15
+2304336,11:40:00,11:40:10,stop_point:SP_1370,Peyronnette,16
+2304336,11:41:00,11:41:10,stop_point:SP_3053,Mariel,17
+2304336,11:42:00,11:42:10,stop_point:SP_3516,Raudelauzette,18
+2304336,11:43:00,11:43:10,stop_point:SP_1879,Aucamville Collège,19
+2304336,11:45:00,11:45:10,stop_point:SP_175,Favasse,20
+2304336,11:46:00,11:46:10,stop_point:SP_1760,Mairie Aucamville,21
+2304336,11:47:00,11:47:10,stop_point:SP_2311,Eglise Aucamville,22
+2304336,11:48:00,11:48:10,stop_point:SP_802,Salvy,23
+2304336,11:49:00,11:49:10,stop_point:SP_2114,Gaussen,24
+2304336,11:50:00,11:50:10,stop_point:SP_3810,Lapparou,25
+2304336,11:51:00,11:51:10,stop_point:SP_507,Roubiéchou,26
+2304336,11:52:00,11:52:10,stop_point:SP_3354,Lapin,27
+2304336,11:53:00,11:53:10,stop_point:SP_2207,Riché Lalande,28
+2304336,11:54:00,11:54:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304336,11:56:00,11:56:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304336,11:57:00,11:57:10,stop_point:SP_97,Pader,31
+2304336,11:58:00,11:58:10,stop_point:SP_2016,La Vache,32
+2304337,12:20:00,12:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304337,12:22:00,12:22:10,stop_point:SP_5200,Gamouna,2
+2304337,12:23:00,12:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304337,12:24:00,12:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304337,12:25:00,12:25:10,stop_point:SP_5189,Tour,5
+2304337,12:26:00,12:26:10,stop_point:SP_125,Bois,6
+2304337,12:27:00,12:27:10,stop_point:SP_2528,Les Palanques,7
+2304337,12:28:00,12:28:10,stop_point:SP_2704,Hespérides,8
+2304337,12:29:00,12:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304337,12:31:00,12:31:10,stop_point:SP_5208,Garenne,10
+2304337,12:32:00,12:32:10,stop_point:SP_2755,Barry,11
+2304337,12:36:00,12:36:10,stop_point:SP_5191,La Grange,12
+2304337,12:36:00,12:36:10,stop_point:SP_5186,Matéo,13
+2304337,12:38:00,12:38:10,stop_point:SP_3911,Pont Vieil,14
+2304337,12:39:00,12:39:10,stop_point:SP_2710,Jules Verne,15
+2304337,12:40:00,12:40:10,stop_point:SP_1370,Peyronnette,16
+2304337,12:41:00,12:41:10,stop_point:SP_3053,Mariel,17
+2304337,12:42:00,12:42:10,stop_point:SP_3516,Raudelauzette,18
+2304337,12:43:00,12:43:10,stop_point:SP_1879,Aucamville Collège,19
+2304337,12:45:00,12:45:10,stop_point:SP_175,Favasse,20
+2304337,12:46:00,12:46:10,stop_point:SP_1760,Mairie Aucamville,21
+2304337,12:47:00,12:47:10,stop_point:SP_2311,Eglise Aucamville,22
+2304337,12:48:00,12:48:10,stop_point:SP_802,Salvy,23
+2304337,12:49:00,12:49:10,stop_point:SP_2114,Gaussen,24
+2304337,12:50:00,12:50:10,stop_point:SP_3810,Lapparou,25
+2304337,12:51:00,12:51:10,stop_point:SP_507,Roubiéchou,26
+2304337,12:52:00,12:52:10,stop_point:SP_3354,Lapin,27
+2304337,12:53:00,12:53:10,stop_point:SP_2207,Riché Lalande,28
+2304337,12:54:00,12:54:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304337,12:56:00,12:56:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304337,12:57:00,12:57:10,stop_point:SP_97,Pader,31
+2304337,12:58:00,12:58:10,stop_point:SP_2016,La Vache,32
+2304338,13:20:00,13:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304338,13:22:00,13:22:10,stop_point:SP_5200,Gamouna,2
+2304338,13:23:00,13:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304338,13:24:00,13:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304338,13:25:00,13:25:10,stop_point:SP_5189,Tour,5
+2304338,13:26:00,13:26:10,stop_point:SP_125,Bois,6
+2304338,13:27:00,13:27:10,stop_point:SP_2528,Les Palanques,7
+2304338,13:28:00,13:28:10,stop_point:SP_2704,Hespérides,8
+2304338,13:29:00,13:29:10,stop_point:SP_5182,Mairie Gratentour,9
+2304338,13:31:00,13:31:10,stop_point:SP_5208,Garenne,10
+2304338,13:32:00,13:32:10,stop_point:SP_2755,Barry,11
+2304338,13:36:00,13:36:10,stop_point:SP_5191,La Grange,12
+2304338,13:36:00,13:36:10,stop_point:SP_5186,Matéo,13
+2304338,13:38:00,13:38:10,stop_point:SP_3911,Pont Vieil,14
+2304338,13:39:00,13:39:10,stop_point:SP_2710,Jules Verne,15
+2304338,13:40:00,13:40:10,stop_point:SP_1370,Peyronnette,16
+2304338,13:41:00,13:41:10,stop_point:SP_3053,Mariel,17
+2304338,13:42:00,13:42:10,stop_point:SP_3516,Raudelauzette,18
+2304338,13:43:00,13:43:10,stop_point:SP_1879,Aucamville Collège,19
+2304338,13:45:00,13:45:10,stop_point:SP_175,Favasse,20
+2304338,13:46:00,13:46:10,stop_point:SP_1760,Mairie Aucamville,21
+2304338,13:47:00,13:47:10,stop_point:SP_2311,Eglise Aucamville,22
+2304338,13:48:00,13:48:10,stop_point:SP_802,Salvy,23
+2304338,13:49:00,13:49:10,stop_point:SP_2114,Gaussen,24
+2304338,13:50:00,13:50:10,stop_point:SP_3810,Lapparou,25
+2304338,13:51:00,13:51:10,stop_point:SP_507,Roubiéchou,26
+2304338,13:53:00,13:53:10,stop_point:SP_3354,Lapin,27
+2304338,13:54:00,13:54:10,stop_point:SP_2207,Riché Lalande,28
+2304338,13:55:00,13:55:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304338,13:57:00,13:57:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304338,13:58:00,13:58:10,stop_point:SP_97,Pader,31
+2304338,13:59:00,13:59:10,stop_point:SP_2016,La Vache,32
+2304339,14:20:00,14:20:10,stop_point:SP_3693,Bruguières Verger,1
+2304339,14:22:00,14:22:10,stop_point:SP_5200,Gamouna,2
+2304339,14:23:00,14:23:10,stop_point:SP_1511,Ecole Bruguières,3
+2304339,14:24:00,14:24:10,stop_point:SP_5368,Bruguières Mairie,4
+2304339,14:25:00,14:25:10,stop_point:SP_5189,Tour,5
+2304339,14:26:00,14:26:10,stop_point:SP_125,Bois,6
+2304339,14:27:00,14:27:10,stop_point:SP_2528,Les Palanques,7
+2304339,14:28:00,14:28:10,stop_point:SP_2704,Hespérides,8
+2304339,14:30:00,14:30:10,stop_point:SP_5182,Mairie Gratentour,9
+2304339,14:32:00,14:32:10,stop_point:SP_5208,Garenne,10
+2304339,14:33:00,14:33:10,stop_point:SP_2755,Barry,11
+2304339,14:36:00,14:36:10,stop_point:SP_5191,La Grange,12
+2304339,14:37:00,14:37:10,stop_point:SP_5186,Matéo,13
+2304339,14:39:00,14:39:10,stop_point:SP_3911,Pont Vieil,14
+2304339,14:40:00,14:40:10,stop_point:SP_2710,Jules Verne,15
+2304339,14:41:00,14:41:10,stop_point:SP_1370,Peyronnette,16
+2304339,14:42:00,14:42:10,stop_point:SP_3053,Mariel,17
+2304339,14:43:00,14:43:10,stop_point:SP_3516,Raudelauzette,18
+2304339,14:44:00,14:44:10,stop_point:SP_1879,Aucamville Collège,19
+2304339,14:46:00,14:46:10,stop_point:SP_175,Favasse,20
+2304339,14:47:00,14:47:10,stop_point:SP_1760,Mairie Aucamville,21
+2304339,14:48:00,14:48:10,stop_point:SP_2311,Eglise Aucamville,22
+2304339,14:49:00,14:49:10,stop_point:SP_802,Salvy,23
+2304339,14:50:00,14:50:10,stop_point:SP_2114,Gaussen,24
+2304339,14:51:00,14:51:10,stop_point:SP_3810,Lapparou,25
+2304339,14:52:00,14:52:10,stop_point:SP_507,Roubiéchou,26
+2304339,14:54:00,14:54:10,stop_point:SP_3354,Lapin,27
+2304339,14:55:00,14:55:10,stop_point:SP_2207,Riché Lalande,28
+2304339,14:56:00,14:56:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304339,14:58:00,14:58:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304339,14:59:00,14:59:10,stop_point:SP_97,Pader,31
+2304339,15:00:00,15:00:10,stop_point:SP_2016,La Vache,32
+2304340,15:15:00,15:15:10,stop_point:SP_3693,Bruguières Verger,1
+2304340,15:17:00,15:17:10,stop_point:SP_5200,Gamouna,2
+2304340,15:18:00,15:18:10,stop_point:SP_1511,Ecole Bruguières,3
+2304340,15:19:00,15:19:10,stop_point:SP_5368,Bruguières Mairie,4
+2304340,15:20:00,15:20:10,stop_point:SP_5189,Tour,5
+2304340,15:21:00,15:21:10,stop_point:SP_125,Bois,6
+2304340,15:22:00,15:22:10,stop_point:SP_2528,Les Palanques,7
+2304340,15:23:00,15:23:10,stop_point:SP_2704,Hespérides,8
+2304340,15:25:00,15:25:10,stop_point:SP_5182,Mairie Gratentour,9
+2304340,15:27:00,15:27:10,stop_point:SP_5208,Garenne,10
+2304340,15:28:00,15:28:10,stop_point:SP_2755,Barry,11
+2304340,15:31:00,15:31:10,stop_point:SP_5191,La Grange,12
+2304340,15:32:00,15:32:10,stop_point:SP_5186,Matéo,13
+2304340,15:34:00,15:34:10,stop_point:SP_3911,Pont Vieil,14
+2304340,15:35:00,15:35:10,stop_point:SP_2710,Jules Verne,15
+2304340,15:36:00,15:36:10,stop_point:SP_1370,Peyronnette,16
+2304340,15:37:00,15:37:10,stop_point:SP_3053,Mariel,17
+2304340,15:38:00,15:38:10,stop_point:SP_3516,Raudelauzette,18
+2304340,15:39:00,15:39:10,stop_point:SP_1879,Aucamville Collège,19
+2304340,15:41:00,15:41:10,stop_point:SP_175,Favasse,20
+2304340,15:42:00,15:42:10,stop_point:SP_1760,Mairie Aucamville,21
+2304340,15:43:00,15:43:10,stop_point:SP_2311,Eglise Aucamville,22
+2304340,15:44:00,15:44:10,stop_point:SP_802,Salvy,23
+2304340,15:45:00,15:45:10,stop_point:SP_2114,Gaussen,24
+2304340,15:46:00,15:46:10,stop_point:SP_3810,Lapparou,25
+2304340,15:47:00,15:47:10,stop_point:SP_507,Roubiéchou,26
+2304340,15:49:00,15:49:10,stop_point:SP_3354,Lapin,27
+2304340,15:50:00,15:50:10,stop_point:SP_2207,Riché Lalande,28
+2304340,15:51:00,15:51:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304340,15:53:00,15:53:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304340,15:54:00,15:54:10,stop_point:SP_97,Pader,31
+2304340,15:55:00,15:55:10,stop_point:SP_2016,La Vache,32
+2304341,16:05:00,16:05:10,stop_point:SP_3693,Bruguières Verger,1
+2304341,16:07:00,16:07:10,stop_point:SP_5200,Gamouna,2
+2304341,16:08:00,16:08:10,stop_point:SP_1511,Ecole Bruguières,3
+2304341,16:09:00,16:09:10,stop_point:SP_5368,Bruguières Mairie,4
+2304341,16:10:00,16:10:10,stop_point:SP_5189,Tour,5
+2304341,16:11:00,16:11:10,stop_point:SP_125,Bois,6
+2304341,16:12:00,16:12:10,stop_point:SP_2528,Les Palanques,7
+2304341,16:13:00,16:13:10,stop_point:SP_2704,Hespérides,8
+2304341,16:15:00,16:15:10,stop_point:SP_5182,Mairie Gratentour,9
+2304341,16:17:00,16:17:10,stop_point:SP_5208,Garenne,10
+2304341,16:18:00,16:18:10,stop_point:SP_2755,Barry,11
+2304341,16:22:00,16:22:10,stop_point:SP_5191,La Grange,12
+2304341,16:23:00,16:23:10,stop_point:SP_5186,Matéo,13
+2304341,16:24:00,16:24:10,stop_point:SP_3911,Pont Vieil,14
+2304341,16:26:00,16:26:10,stop_point:SP_2710,Jules Verne,15
+2304341,16:27:00,16:27:10,stop_point:SP_1370,Peyronnette,16
+2304341,16:28:00,16:28:10,stop_point:SP_3053,Mariel,17
+2304341,16:29:00,16:29:10,stop_point:SP_3516,Raudelauzette,18
+2304341,16:30:00,16:30:10,stop_point:SP_1879,Aucamville Collège,19
+2304341,16:32:00,16:32:10,stop_point:SP_175,Favasse,20
+2304341,16:33:00,16:33:10,stop_point:SP_1760,Mairie Aucamville,21
+2304341,16:34:00,16:34:10,stop_point:SP_2311,Eglise Aucamville,22
+2304341,16:35:00,16:35:10,stop_point:SP_802,Salvy,23
+2304341,16:36:00,16:36:10,stop_point:SP_2114,Gaussen,24
+2304341,16:37:00,16:37:10,stop_point:SP_3810,Lapparou,25
+2304341,16:38:00,16:38:10,stop_point:SP_507,Roubiéchou,26
+2304341,16:40:00,16:40:10,stop_point:SP_3354,Lapin,27
+2304341,16:41:00,16:41:10,stop_point:SP_2207,Riché Lalande,28
+2304341,16:42:00,16:42:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304341,16:44:00,16:44:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304341,16:45:00,16:45:10,stop_point:SP_97,Pader,31
+2304341,16:46:00,16:46:10,stop_point:SP_2016,La Vache,32
+2304342,16:35:00,16:35:10,stop_point:SP_3693,Bruguières Verger,1
+2304342,16:37:00,16:37:10,stop_point:SP_5200,Gamouna,2
+2304342,16:38:00,16:38:10,stop_point:SP_1511,Ecole Bruguières,3
+2304342,16:39:00,16:39:10,stop_point:SP_5368,Bruguières Mairie,4
+2304342,16:40:00,16:40:10,stop_point:SP_5189,Tour,5
+2304342,16:41:00,16:41:10,stop_point:SP_125,Bois,6
+2304342,16:42:00,16:42:10,stop_point:SP_2528,Les Palanques,7
+2304342,16:43:00,16:43:10,stop_point:SP_2704,Hespérides,8
+2304342,16:45:00,16:45:10,stop_point:SP_5182,Mairie Gratentour,9
+2304342,16:47:00,16:47:10,stop_point:SP_5208,Garenne,10
+2304342,16:48:00,16:48:10,stop_point:SP_2755,Barry,11
+2304342,16:52:00,16:52:10,stop_point:SP_5191,La Grange,12
+2304342,16:53:00,16:53:10,stop_point:SP_5186,Matéo,13
+2304342,16:54:00,16:54:10,stop_point:SP_3911,Pont Vieil,14
+2304342,16:56:00,16:56:10,stop_point:SP_2710,Jules Verne,15
+2304342,16:57:00,16:57:10,stop_point:SP_1370,Peyronnette,16
+2304342,16:58:00,16:58:10,stop_point:SP_3053,Mariel,17
+2304342,16:59:00,16:59:10,stop_point:SP_3516,Raudelauzette,18
+2304342,17:00:00,17:00:10,stop_point:SP_1879,Aucamville Collège,19
+2304342,17:02:00,17:02:10,stop_point:SP_175,Favasse,20
+2304342,17:03:00,17:03:10,stop_point:SP_1760,Mairie Aucamville,21
+2304342,17:04:00,17:04:10,stop_point:SP_2311,Eglise Aucamville,22
+2304342,17:05:00,17:05:10,stop_point:SP_802,Salvy,23
+2304342,17:06:00,17:06:10,stop_point:SP_2114,Gaussen,24
+2304342,17:07:00,17:07:10,stop_point:SP_3810,Lapparou,25
+2304342,17:08:00,17:08:10,stop_point:SP_507,Roubiéchou,26
+2304342,17:10:00,17:10:10,stop_point:SP_3354,Lapin,27
+2304342,17:11:00,17:11:10,stop_point:SP_2207,Riché Lalande,28
+2304342,17:12:00,17:12:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304342,17:14:00,17:14:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304342,17:15:00,17:15:10,stop_point:SP_97,Pader,31
+2304342,17:16:00,17:16:10,stop_point:SP_2016,La Vache,32
+2304343,17:05:00,17:05:10,stop_point:SP_3693,Bruguières Verger,1
+2304343,17:07:00,17:07:10,stop_point:SP_5200,Gamouna,2
+2304343,17:08:00,17:08:10,stop_point:SP_1511,Ecole Bruguières,3
+2304343,17:09:00,17:09:10,stop_point:SP_5368,Bruguières Mairie,4
+2304343,17:10:00,17:10:10,stop_point:SP_5189,Tour,5
+2304343,17:11:00,17:11:10,stop_point:SP_125,Bois,6
+2304343,17:12:00,17:12:10,stop_point:SP_2528,Les Palanques,7
+2304343,17:13:00,17:13:10,stop_point:SP_2704,Hespérides,8
+2304343,17:15:00,17:15:10,stop_point:SP_5182,Mairie Gratentour,9
+2304343,17:17:00,17:17:10,stop_point:SP_5208,Garenne,10
+2304343,17:18:00,17:18:10,stop_point:SP_2755,Barry,11
+2304343,17:22:00,17:22:10,stop_point:SP_5191,La Grange,12
+2304343,17:23:00,17:23:10,stop_point:SP_5186,Matéo,13
+2304343,17:24:00,17:24:10,stop_point:SP_3911,Pont Vieil,14
+2304343,17:26:00,17:26:10,stop_point:SP_2710,Jules Verne,15
+2304343,17:27:00,17:27:10,stop_point:SP_1370,Peyronnette,16
+2304343,17:28:00,17:28:10,stop_point:SP_3053,Mariel,17
+2304343,17:29:00,17:29:10,stop_point:SP_3516,Raudelauzette,18
+2304343,17:30:00,17:30:10,stop_point:SP_1879,Aucamville Collège,19
+2304343,17:32:00,17:32:10,stop_point:SP_175,Favasse,20
+2304343,17:33:00,17:33:10,stop_point:SP_1760,Mairie Aucamville,21
+2304343,17:34:00,17:34:10,stop_point:SP_2311,Eglise Aucamville,22
+2304343,17:35:00,17:35:10,stop_point:SP_802,Salvy,23
+2304343,17:36:00,17:36:10,stop_point:SP_2114,Gaussen,24
+2304343,17:37:00,17:37:10,stop_point:SP_3810,Lapparou,25
+2304343,17:38:00,17:38:10,stop_point:SP_507,Roubiéchou,26
+2304343,17:40:00,17:40:10,stop_point:SP_3354,Lapin,27
+2304343,17:41:00,17:41:10,stop_point:SP_2207,Riché Lalande,28
+2304343,17:42:00,17:42:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304343,17:44:00,17:44:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304343,17:45:00,17:45:10,stop_point:SP_97,Pader,31
+2304343,17:46:00,17:46:10,stop_point:SP_2016,La Vache,32
+2304344,17:35:00,17:35:10,stop_point:SP_3693,Bruguières Verger,1
+2304344,17:37:00,17:37:10,stop_point:SP_5200,Gamouna,2
+2304344,17:38:00,17:38:10,stop_point:SP_1511,Ecole Bruguières,3
+2304344,17:39:00,17:39:10,stop_point:SP_5368,Bruguières Mairie,4
+2304344,17:40:00,17:40:10,stop_point:SP_5189,Tour,5
+2304344,17:41:00,17:41:10,stop_point:SP_125,Bois,6
+2304344,17:42:00,17:42:10,stop_point:SP_2528,Les Palanques,7
+2304344,17:43:00,17:43:10,stop_point:SP_2704,Hespérides,8
+2304344,17:45:00,17:45:10,stop_point:SP_5182,Mairie Gratentour,9
+2304344,17:47:00,17:47:10,stop_point:SP_5208,Garenne,10
+2304344,17:48:00,17:48:10,stop_point:SP_2755,Barry,11
+2304344,17:52:00,17:52:10,stop_point:SP_5191,La Grange,12
+2304344,17:53:00,17:53:10,stop_point:SP_5186,Matéo,13
+2304344,17:54:00,17:54:10,stop_point:SP_3911,Pont Vieil,14
+2304344,17:56:00,17:56:10,stop_point:SP_2710,Jules Verne,15
+2304344,17:57:00,17:57:10,stop_point:SP_1370,Peyronnette,16
+2304344,17:58:00,17:58:10,stop_point:SP_3053,Mariel,17
+2304344,17:59:00,17:59:10,stop_point:SP_3516,Raudelauzette,18
+2304344,18:00:00,18:00:10,stop_point:SP_1879,Aucamville Collège,19
+2304344,18:02:00,18:02:10,stop_point:SP_175,Favasse,20
+2304344,18:03:00,18:03:10,stop_point:SP_1760,Mairie Aucamville,21
+2304344,18:04:00,18:04:10,stop_point:SP_2311,Eglise Aucamville,22
+2304344,18:05:00,18:05:10,stop_point:SP_802,Salvy,23
+2304344,18:06:00,18:06:10,stop_point:SP_2114,Gaussen,24
+2304344,18:07:00,18:07:10,stop_point:SP_3810,Lapparou,25
+2304344,18:08:00,18:08:10,stop_point:SP_507,Roubiéchou,26
+2304344,18:10:00,18:10:10,stop_point:SP_3354,Lapin,27
+2304344,18:11:00,18:11:10,stop_point:SP_2207,Riché Lalande,28
+2304344,18:12:00,18:12:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304344,18:14:00,18:14:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304344,18:15:00,18:15:10,stop_point:SP_97,Pader,31
+2304344,18:16:00,18:16:10,stop_point:SP_2016,La Vache,32
+2304345,18:05:00,18:05:10,stop_point:SP_3693,Bruguières Verger,1
+2304345,18:07:00,18:07:10,stop_point:SP_5200,Gamouna,2
+2304345,18:08:00,18:08:10,stop_point:SP_1511,Ecole Bruguières,3
+2304345,18:09:00,18:09:10,stop_point:SP_5368,Bruguières Mairie,4
+2304345,18:10:00,18:10:10,stop_point:SP_5189,Tour,5
+2304345,18:11:00,18:11:10,stop_point:SP_125,Bois,6
+2304345,18:12:00,18:12:10,stop_point:SP_2528,Les Palanques,7
+2304345,18:13:00,18:13:10,stop_point:SP_2704,Hespérides,8
+2304345,18:15:00,18:15:10,stop_point:SP_5182,Mairie Gratentour,9
+2304345,18:17:00,18:17:10,stop_point:SP_5208,Garenne,10
+2304345,18:18:00,18:18:10,stop_point:SP_2755,Barry,11
+2304345,18:22:00,18:22:10,stop_point:SP_5191,La Grange,12
+2304345,18:23:00,18:23:10,stop_point:SP_5186,Matéo,13
+2304345,18:24:00,18:24:10,stop_point:SP_3911,Pont Vieil,14
+2304345,18:26:00,18:26:10,stop_point:SP_2710,Jules Verne,15
+2304345,18:27:00,18:27:10,stop_point:SP_1370,Peyronnette,16
+2304345,18:28:00,18:28:10,stop_point:SP_3053,Mariel,17
+2304345,18:29:00,18:29:10,stop_point:SP_3516,Raudelauzette,18
+2304345,18:30:00,18:30:10,stop_point:SP_1879,Aucamville Collège,19
+2304345,18:32:00,18:32:10,stop_point:SP_175,Favasse,20
+2304345,18:33:00,18:33:10,stop_point:SP_1760,Mairie Aucamville,21
+2304345,18:34:00,18:34:10,stop_point:SP_2311,Eglise Aucamville,22
+2304345,18:35:00,18:35:10,stop_point:SP_802,Salvy,23
+2304345,18:36:00,18:36:10,stop_point:SP_2114,Gaussen,24
+2304345,18:37:00,18:37:10,stop_point:SP_3810,Lapparou,25
+2304345,18:38:00,18:38:10,stop_point:SP_507,Roubiéchou,26
+2304345,18:40:00,18:40:10,stop_point:SP_3354,Lapin,27
+2304345,18:41:00,18:41:10,stop_point:SP_2207,Riché Lalande,28
+2304345,18:42:00,18:42:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304345,18:44:00,18:44:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304345,18:45:00,18:45:10,stop_point:SP_97,Pader,31
+2304345,18:46:00,18:46:10,stop_point:SP_2016,La Vache,32
+2304346,18:35:00,18:35:10,stop_point:SP_3693,Bruguières Verger,1
+2304346,18:37:00,18:37:10,stop_point:SP_5200,Gamouna,2
+2304346,18:38:00,18:38:10,stop_point:SP_1511,Ecole Bruguières,3
+2304346,18:39:00,18:39:10,stop_point:SP_5368,Bruguières Mairie,4
+2304346,18:40:00,18:40:10,stop_point:SP_5189,Tour,5
+2304346,18:41:00,18:41:10,stop_point:SP_125,Bois,6
+2304346,18:42:00,18:42:10,stop_point:SP_2528,Les Palanques,7
+2304346,18:43:00,18:43:10,stop_point:SP_2704,Hespérides,8
+2304346,18:45:00,18:45:10,stop_point:SP_5182,Mairie Gratentour,9
+2304346,18:47:00,18:47:10,stop_point:SP_5208,Garenne,10
+2304346,18:48:00,18:48:10,stop_point:SP_2755,Barry,11
+2304346,18:51:00,18:51:10,stop_point:SP_5191,La Grange,12
+2304346,18:52:00,18:52:10,stop_point:SP_5186,Matéo,13
+2304346,18:54:00,18:54:10,stop_point:SP_3911,Pont Vieil,14
+2304346,18:55:00,18:55:10,stop_point:SP_2710,Jules Verne,15
+2304346,18:56:00,18:56:10,stop_point:SP_1370,Peyronnette,16
+2304346,18:57:00,18:57:10,stop_point:SP_3053,Mariel,17
+2304346,18:58:00,18:58:10,stop_point:SP_3516,Raudelauzette,18
+2304346,18:59:00,18:59:10,stop_point:SP_1879,Aucamville Collège,19
+2304346,19:01:00,19:01:10,stop_point:SP_175,Favasse,20
+2304346,19:02:00,19:02:10,stop_point:SP_1760,Mairie Aucamville,21
+2304346,19:03:00,19:03:10,stop_point:SP_2311,Eglise Aucamville,22
+2304346,19:03:00,19:03:10,stop_point:SP_802,Salvy,23
+2304346,19:04:00,19:04:10,stop_point:SP_2114,Gaussen,24
+2304346,19:05:00,19:05:10,stop_point:SP_3810,Lapparou,25
+2304346,19:06:00,19:06:10,stop_point:SP_507,Roubiéchou,26
+2304346,19:07:00,19:07:10,stop_point:SP_3354,Lapin,27
+2304346,19:08:00,19:08:10,stop_point:SP_2207,Riché Lalande,28
+2304346,19:09:00,19:09:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304346,19:11:00,19:11:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304346,19:12:00,19:12:10,stop_point:SP_97,Pader,31
+2304346,19:13:00,19:13:10,stop_point:SP_2016,La Vache,32
+2304347,19:05:00,19:05:10,stop_point:SP_3693,Bruguières Verger,1
+2304347,19:07:00,19:07:10,stop_point:SP_5200,Gamouna,2
+2304347,19:08:00,19:08:10,stop_point:SP_1511,Ecole Bruguières,3
+2304347,19:09:00,19:09:10,stop_point:SP_5368,Bruguières Mairie,4
+2304347,19:10:00,19:10:10,stop_point:SP_5189,Tour,5
+2304347,19:11:00,19:11:10,stop_point:SP_125,Bois,6
+2304347,19:12:00,19:12:10,stop_point:SP_2528,Les Palanques,7
+2304347,19:13:00,19:13:10,stop_point:SP_2704,Hespérides,8
+2304347,19:14:00,19:14:10,stop_point:SP_5182,Mairie Gratentour,9
+2304347,19:16:00,19:16:10,stop_point:SP_5208,Garenne,10
+2304347,19:17:00,19:17:10,stop_point:SP_2755,Barry,11
+2304347,19:21:00,19:21:10,stop_point:SP_5191,La Grange,12
+2304347,19:21:00,19:21:10,stop_point:SP_5186,Matéo,13
+2304347,19:23:00,19:23:10,stop_point:SP_3911,Pont Vieil,14
+2304347,19:24:00,19:24:10,stop_point:SP_2710,Jules Verne,15
+2304347,19:25:00,19:25:10,stop_point:SP_1370,Peyronnette,16
+2304347,19:26:00,19:26:10,stop_point:SP_3053,Mariel,17
+2304347,19:27:00,19:27:10,stop_point:SP_3516,Raudelauzette,18
+2304347,19:28:00,19:28:10,stop_point:SP_1879,Aucamville Collège,19
+2304347,19:29:00,19:29:10,stop_point:SP_175,Favasse,20
+2304347,19:30:00,19:30:10,stop_point:SP_1760,Mairie Aucamville,21
+2304347,19:31:00,19:31:10,stop_point:SP_2311,Eglise Aucamville,22
+2304347,19:31:00,19:31:10,stop_point:SP_802,Salvy,23
+2304347,19:32:00,19:32:10,stop_point:SP_2114,Gaussen,24
+2304347,19:33:00,19:33:10,stop_point:SP_3810,Lapparou,25
+2304347,19:34:00,19:34:10,stop_point:SP_507,Roubiéchou,26
+2304347,19:35:00,19:35:10,stop_point:SP_3354,Lapin,27
+2304347,19:36:00,19:36:10,stop_point:SP_2207,Riché Lalande,28
+2304347,19:37:00,19:37:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304347,19:39:00,19:39:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304347,19:40:00,19:40:10,stop_point:SP_97,Pader,31
+2304347,19:41:00,19:41:10,stop_point:SP_2016,La Vache,32
+2304348,19:40:00,19:40:10,stop_point:SP_3693,Bruguières Verger,1
+2304348,19:42:00,19:42:10,stop_point:SP_5200,Gamouna,2
+2304348,19:43:00,19:43:10,stop_point:SP_1511,Ecole Bruguières,3
+2304348,19:44:00,19:44:10,stop_point:SP_5368,Bruguières Mairie,4
+2304348,19:45:00,19:45:10,stop_point:SP_5189,Tour,5
+2304348,19:46:00,19:46:10,stop_point:SP_125,Bois,6
+2304348,19:47:00,19:47:10,stop_point:SP_2528,Les Palanques,7
+2304348,19:47:00,19:47:10,stop_point:SP_2704,Hespérides,8
+2304348,19:49:00,19:49:10,stop_point:SP_5182,Mairie Gratentour,9
+2304348,19:51:00,19:51:10,stop_point:SP_5208,Garenne,10
+2304348,19:52:00,19:52:10,stop_point:SP_2755,Barry,11
+2304348,19:55:00,19:55:10,stop_point:SP_5191,La Grange,12
+2304348,19:56:00,19:56:10,stop_point:SP_5186,Matéo,13
+2304348,19:57:00,19:57:10,stop_point:SP_3911,Pont Vieil,14
+2304348,19:59:00,19:59:10,stop_point:SP_2710,Jules Verne,15
+2304348,19:59:00,19:59:10,stop_point:SP_1370,Peyronnette,16
+2304348,20:00:00,20:00:10,stop_point:SP_3053,Mariel,17
+2304348,20:01:00,20:01:10,stop_point:SP_3516,Raudelauzette,18
+2304348,20:01:00,20:01:10,stop_point:SP_1879,Aucamville Collège,19
+2304348,20:02:00,20:02:10,stop_point:SP_175,Favasse,20
+2304348,20:03:00,20:03:10,stop_point:SP_1760,Mairie Aucamville,21
+2304348,20:04:00,20:04:10,stop_point:SP_2311,Eglise Aucamville,22
+2304348,20:04:00,20:04:10,stop_point:SP_802,Salvy,23
+2304348,20:05:00,20:05:10,stop_point:SP_2114,Gaussen,24
+2304348,20:06:00,20:06:10,stop_point:SP_3810,Lapparou,25
+2304348,20:07:00,20:07:10,stop_point:SP_507,Roubiéchou,26
+2304348,20:08:00,20:08:10,stop_point:SP_3354,Lapin,27
+2304348,20:09:00,20:09:10,stop_point:SP_2207,Riché Lalande,28
+2304348,20:10:00,20:10:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304348,20:12:00,20:12:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304348,20:13:00,20:13:10,stop_point:SP_97,Pader,31
+2304348,20:14:00,20:14:10,stop_point:SP_2016,La Vache,32
+2304349,20:35:00,20:35:10,stop_point:SP_3693,Bruguières Verger,1
+2304349,20:37:00,20:37:10,stop_point:SP_5200,Gamouna,2
+2304349,20:38:00,20:38:10,stop_point:SP_1511,Ecole Bruguières,3
+2304349,20:39:00,20:39:10,stop_point:SP_5368,Bruguières Mairie,4
+2304349,20:40:00,20:40:10,stop_point:SP_5189,Tour,5
+2304349,20:41:00,20:41:10,stop_point:SP_125,Bois,6
+2304349,20:41:00,20:41:10,stop_point:SP_2528,Les Palanques,7
+2304349,20:42:00,20:42:10,stop_point:SP_2704,Hespérides,8
+2304349,20:44:00,20:44:10,stop_point:SP_5182,Mairie Gratentour,9
+2304349,20:45:00,20:45:10,stop_point:SP_5208,Garenne,10
+2304349,20:46:00,20:46:10,stop_point:SP_2755,Barry,11
+2304349,20:49:00,20:49:10,stop_point:SP_5191,La Grange,12
+2304349,20:50:00,20:50:10,stop_point:SP_5186,Matéo,13
+2304349,20:51:00,20:51:10,stop_point:SP_3911,Pont Vieil,14
+2304349,20:53:00,20:53:10,stop_point:SP_2710,Jules Verne,15
+2304349,20:53:00,20:53:10,stop_point:SP_1370,Peyronnette,16
+2304349,20:54:00,20:54:10,stop_point:SP_3053,Mariel,17
+2304349,20:55:00,20:55:10,stop_point:SP_3516,Raudelauzette,18
+2304349,20:55:00,20:55:10,stop_point:SP_1879,Aucamville Collège,19
+2304349,20:56:00,20:56:10,stop_point:SP_175,Favasse,20
+2304349,20:57:00,20:57:10,stop_point:SP_1760,Mairie Aucamville,21
+2304349,20:58:00,20:58:10,stop_point:SP_2311,Eglise Aucamville,22
+2304349,20:58:00,20:58:10,stop_point:SP_802,Salvy,23
+2304349,20:59:00,20:59:10,stop_point:SP_2114,Gaussen,24
+2304349,21:00:00,21:00:10,stop_point:SP_3810,Lapparou,25
+2304349,21:01:00,21:01:10,stop_point:SP_507,Roubiéchou,26
+2304349,21:02:00,21:02:10,stop_point:SP_3354,Lapin,27
+2304349,21:03:00,21:03:10,stop_point:SP_2207,Riché Lalande,28
+2304349,21:04:00,21:04:10,stop_point:SP_2270,Collège Rosa Parks,29
+2304349,21:06:00,21:06:10,stop_point:SP_1526,Le Grand Marché - Pont de La Vache,30
+2304349,21:07:00,21:07:10,stop_point:SP_97,Pader,31
+2304349,21:08:00,21:08:10,stop_point:SP_2016,La Vache,32

@@ -1,0 +1,1673 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2286287,07:00:00,07:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286287,07:04:00,07:04:10,stop_point:SP_1045,ZI Montredon,2
+2286287,07:05:00,07:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286287,07:05:00,07:05:10,stop_point:SP_3278,Le Chapitre,4
+2286287,07:07:00,07:07:10,stop_point:SP_63,Mireille,5
+2286287,07:08:00,07:08:10,stop_point:SP_1305,Mont Pin,6
+2286287,07:09:00,07:09:10,stop_point:SP_2057,Vignobles,7
+2286287,07:09:00,07:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286287,07:10:00,07:10:10,stop_point:SP_1539,Pastel,9
+2286287,07:12:00,07:12:10,stop_point:SP_866,Logis Vieux,10
+2286287,07:13:00,07:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286287,07:13:00,07:13:10,stop_point:SP_3880,La Rivière,12
+2286287,07:14:00,07:14:10,stop_point:SP_3515,Montrabé Stade,13
+2286287,07:15:00,07:15:10,stop_point:SP_307,Mistral,14
+2286287,07:17:00,07:17:10,stop_point:SP_368,Borde Haute,15
+2286287,07:19:00,07:19:10,stop_point:SP_1612,Collège Montrabé,16
+2286287,07:20:00,07:20:10,stop_point:SP_3127,Bel Souleil,17
+2286287,07:22:00,07:22:10,stop_point:SP_587,Beaupuy Mairie,18
+2286288,07:45:00,07:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286288,07:49:00,07:49:10,stop_point:SP_1045,ZI Montredon,2
+2286288,07:50:00,07:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286288,07:50:00,07:50:10,stop_point:SP_3278,Le Chapitre,4
+2286288,07:52:00,07:52:10,stop_point:SP_63,Mireille,5
+2286288,07:53:00,07:53:10,stop_point:SP_1305,Mont Pin,6
+2286288,07:54:00,07:54:10,stop_point:SP_2057,Vignobles,7
+2286288,07:54:00,07:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286288,07:55:00,07:55:10,stop_point:SP_1539,Pastel,9
+2286288,07:57:00,07:57:10,stop_point:SP_866,Logis Vieux,10
+2286288,07:58:00,07:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286288,07:58:00,07:58:10,stop_point:SP_3880,La Rivière,12
+2286288,07:59:00,07:59:10,stop_point:SP_3515,Montrabé Stade,13
+2286288,08:00:00,08:00:10,stop_point:SP_307,Mistral,14
+2286288,08:02:00,08:02:10,stop_point:SP_368,Borde Haute,15
+2286288,08:04:00,08:04:10,stop_point:SP_1612,Collège Montrabé,16
+2286288,08:05:00,08:05:10,stop_point:SP_3127,Bel Souleil,17
+2286288,08:07:00,08:07:10,stop_point:SP_587,Beaupuy Mairie,18
+2286289,08:30:00,08:30:10,stop_point:SP_3797,Balma-Gramont,1
+2286289,08:34:00,08:34:10,stop_point:SP_1045,ZI Montredon,2
+2286289,08:35:00,08:35:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286289,08:35:00,08:35:10,stop_point:SP_3278,Le Chapitre,4
+2286289,08:37:00,08:37:10,stop_point:SP_63,Mireille,5
+2286289,08:38:00,08:38:10,stop_point:SP_1305,Mont Pin,6
+2286289,08:39:00,08:39:10,stop_point:SP_2057,Vignobles,7
+2286289,08:39:00,08:39:10,stop_point:SP_1393,Belle Fontaine,8
+2286289,08:40:00,08:40:10,stop_point:SP_1539,Pastel,9
+2286289,08:42:00,08:42:10,stop_point:SP_866,Logis Vieux,10
+2286289,08:43:00,08:43:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286289,08:43:00,08:43:10,stop_point:SP_3880,La Rivière,12
+2286289,08:44:00,08:44:10,stop_point:SP_3515,Montrabé Stade,13
+2286289,08:45:00,08:45:10,stop_point:SP_307,Mistral,14
+2286289,08:47:00,08:47:10,stop_point:SP_368,Borde Haute,15
+2286289,08:49:00,08:49:10,stop_point:SP_1612,Collège Montrabé,16
+2286289,08:50:00,08:50:10,stop_point:SP_3127,Bel Souleil,17
+2286289,08:52:00,08:52:10,stop_point:SP_587,Beaupuy Mairie,18
+2286290,09:15:00,09:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286290,09:19:00,09:19:10,stop_point:SP_1045,ZI Montredon,2
+2286290,09:20:00,09:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286290,09:20:00,09:20:10,stop_point:SP_3278,Le Chapitre,4
+2286290,09:22:00,09:22:10,stop_point:SP_63,Mireille,5
+2286290,09:23:00,09:23:10,stop_point:SP_1305,Mont Pin,6
+2286290,09:24:00,09:24:10,stop_point:SP_2057,Vignobles,7
+2286290,09:24:00,09:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286290,09:25:00,09:25:10,stop_point:SP_1539,Pastel,9
+2286290,09:27:00,09:27:10,stop_point:SP_866,Logis Vieux,10
+2286290,09:28:00,09:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286290,09:28:00,09:28:10,stop_point:SP_3880,La Rivière,12
+2286290,09:29:00,09:29:10,stop_point:SP_3515,Montrabé Stade,13
+2286290,09:30:00,09:30:10,stop_point:SP_307,Mistral,14
+2286290,09:32:00,09:32:10,stop_point:SP_368,Borde Haute,15
+2286290,09:34:00,09:34:10,stop_point:SP_1612,Collège Montrabé,16
+2286290,09:35:00,09:35:10,stop_point:SP_3127,Bel Souleil,17
+2286290,09:37:00,09:37:10,stop_point:SP_587,Beaupuy Mairie,18
+2286291,10:00:00,10:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286291,10:04:00,10:04:10,stop_point:SP_1045,ZI Montredon,2
+2286291,10:05:00,10:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286291,10:05:00,10:05:10,stop_point:SP_3278,Le Chapitre,4
+2286291,10:07:00,10:07:10,stop_point:SP_63,Mireille,5
+2286291,10:08:00,10:08:10,stop_point:SP_1305,Mont Pin,6
+2286291,10:09:00,10:09:10,stop_point:SP_2057,Vignobles,7
+2286291,10:09:00,10:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286291,10:10:00,10:10:10,stop_point:SP_1539,Pastel,9
+2286291,10:12:00,10:12:10,stop_point:SP_866,Logis Vieux,10
+2286291,10:13:00,10:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286291,10:13:00,10:13:10,stop_point:SP_3880,La Rivière,12
+2286291,10:14:00,10:14:10,stop_point:SP_3515,Montrabé Stade,13
+2286291,10:15:00,10:15:10,stop_point:SP_307,Mistral,14
+2286291,10:17:00,10:17:10,stop_point:SP_368,Borde Haute,15
+2286291,10:19:00,10:19:10,stop_point:SP_1612,Collège Montrabé,16
+2286291,10:20:00,10:20:10,stop_point:SP_3127,Bel Souleil,17
+2286291,10:22:00,10:22:10,stop_point:SP_587,Beaupuy Mairie,18
+2286292,10:45:00,10:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286292,10:49:00,10:49:10,stop_point:SP_1045,ZI Montredon,2
+2286292,10:50:00,10:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286292,10:50:00,10:50:10,stop_point:SP_3278,Le Chapitre,4
+2286292,10:52:00,10:52:10,stop_point:SP_63,Mireille,5
+2286292,10:53:00,10:53:10,stop_point:SP_1305,Mont Pin,6
+2286292,10:54:00,10:54:10,stop_point:SP_2057,Vignobles,7
+2286292,10:54:00,10:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286292,10:55:00,10:55:10,stop_point:SP_1539,Pastel,9
+2286292,10:57:00,10:57:10,stop_point:SP_866,Logis Vieux,10
+2286292,10:58:00,10:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286292,10:58:00,10:58:10,stop_point:SP_3880,La Rivière,12
+2286292,10:59:00,10:59:10,stop_point:SP_3515,Montrabé Stade,13
+2286292,11:00:00,11:00:10,stop_point:SP_307,Mistral,14
+2286292,11:02:00,11:02:10,stop_point:SP_368,Borde Haute,15
+2286292,11:04:00,11:04:10,stop_point:SP_1612,Collège Montrabé,16
+2286292,11:05:00,11:05:10,stop_point:SP_3127,Bel Souleil,17
+2286292,11:07:00,11:07:10,stop_point:SP_587,Beaupuy Mairie,18
+2286293,11:30:00,11:30:10,stop_point:SP_3797,Balma-Gramont,1
+2286293,11:34:00,11:34:10,stop_point:SP_1045,ZI Montredon,2
+2286293,11:35:00,11:35:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286293,11:35:00,11:35:10,stop_point:SP_3278,Le Chapitre,4
+2286293,11:37:00,11:37:10,stop_point:SP_63,Mireille,5
+2286293,11:38:00,11:38:10,stop_point:SP_1305,Mont Pin,6
+2286293,11:39:00,11:39:10,stop_point:SP_2057,Vignobles,7
+2286293,11:39:00,11:39:10,stop_point:SP_1393,Belle Fontaine,8
+2286293,11:40:00,11:40:10,stop_point:SP_1539,Pastel,9
+2286293,11:42:00,11:42:10,stop_point:SP_866,Logis Vieux,10
+2286293,11:43:00,11:43:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286293,11:43:00,11:43:10,stop_point:SP_3880,La Rivière,12
+2286293,11:44:00,11:44:10,stop_point:SP_3515,Montrabé Stade,13
+2286293,11:45:00,11:45:10,stop_point:SP_307,Mistral,14
+2286293,11:47:00,11:47:10,stop_point:SP_368,Borde Haute,15
+2286293,11:49:00,11:49:10,stop_point:SP_1612,Collège Montrabé,16
+2286293,11:50:00,11:50:10,stop_point:SP_3127,Bel Souleil,17
+2286293,11:52:00,11:52:10,stop_point:SP_587,Beaupuy Mairie,18
+2286294,12:15:00,12:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286294,12:19:00,12:19:10,stop_point:SP_1045,ZI Montredon,2
+2286294,12:20:00,12:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286294,12:20:00,12:20:10,stop_point:SP_3278,Le Chapitre,4
+2286294,12:22:00,12:22:10,stop_point:SP_63,Mireille,5
+2286294,12:23:00,12:23:10,stop_point:SP_1305,Mont Pin,6
+2286294,12:23:00,12:23:10,stop_point:SP_2057,Vignobles,7
+2286294,12:24:00,12:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286294,12:25:00,12:25:10,stop_point:SP_1539,Pastel,9
+2286294,12:26:00,12:26:10,stop_point:SP_866,Logis Vieux,10
+2286294,12:27:00,12:27:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286294,12:27:00,12:27:10,stop_point:SP_3880,La Rivière,12
+2286294,12:28:00,12:28:10,stop_point:SP_3515,Montrabé Stade,13
+2286294,12:29:00,12:29:10,stop_point:SP_307,Mistral,14
+2286294,12:31:00,12:31:10,stop_point:SP_368,Borde Haute,15
+2286294,12:33:00,12:33:10,stop_point:SP_1612,Collège Montrabé,16
+2286294,12:34:00,12:34:10,stop_point:SP_3127,Bel Souleil,17
+2286294,12:36:00,12:36:10,stop_point:SP_587,Beaupuy Mairie,18
+2286295,13:00:00,13:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286295,13:04:00,13:04:10,stop_point:SP_1045,ZI Montredon,2
+2286295,13:05:00,13:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286295,13:05:00,13:05:10,stop_point:SP_3278,Le Chapitre,4
+2286295,13:07:00,13:07:10,stop_point:SP_63,Mireille,5
+2286295,13:08:00,13:08:10,stop_point:SP_1305,Mont Pin,6
+2286295,13:08:00,13:08:10,stop_point:SP_2057,Vignobles,7
+2286295,13:09:00,13:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286295,13:10:00,13:10:10,stop_point:SP_1539,Pastel,9
+2286295,13:11:00,13:11:10,stop_point:SP_866,Logis Vieux,10
+2286295,13:12:00,13:12:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286295,13:13:00,13:13:10,stop_point:SP_3880,La Rivière,12
+2286295,13:14:00,13:14:10,stop_point:SP_3515,Montrabé Stade,13
+2286295,13:15:00,13:15:10,stop_point:SP_307,Mistral,14
+2286295,13:17:00,13:17:10,stop_point:SP_368,Borde Haute,15
+2286295,13:20:00,13:20:10,stop_point:SP_1612,Collège Montrabé,16
+2286295,13:21:00,13:21:10,stop_point:SP_3127,Bel Souleil,17
+2286295,13:23:00,13:23:10,stop_point:SP_587,Beaupuy Mairie,18
+2286296,13:45:00,13:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286296,13:49:00,13:49:10,stop_point:SP_1045,ZI Montredon,2
+2286296,13:50:00,13:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286296,13:50:00,13:50:10,stop_point:SP_3278,Le Chapitre,4
+2286296,13:52:00,13:52:10,stop_point:SP_63,Mireille,5
+2286296,13:53:00,13:53:10,stop_point:SP_1305,Mont Pin,6
+2286296,13:54:00,13:54:10,stop_point:SP_2057,Vignobles,7
+2286296,13:54:00,13:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286296,13:55:00,13:55:10,stop_point:SP_1539,Pastel,9
+2286296,13:57:00,13:57:10,stop_point:SP_866,Logis Vieux,10
+2286296,13:58:00,13:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286296,13:58:00,13:58:10,stop_point:SP_3880,La Rivière,12
+2286296,13:59:00,13:59:10,stop_point:SP_3515,Montrabé Stade,13
+2286296,14:00:00,14:00:10,stop_point:SP_307,Mistral,14
+2286296,14:02:00,14:02:10,stop_point:SP_368,Borde Haute,15
+2286296,14:05:00,14:05:10,stop_point:SP_1612,Collège Montrabé,16
+2286296,14:06:00,14:06:10,stop_point:SP_3127,Bel Souleil,17
+2286296,14:08:00,14:08:10,stop_point:SP_587,Beaupuy Mairie,18
+2286297,14:30:00,14:30:10,stop_point:SP_3797,Balma-Gramont,1
+2286297,14:34:00,14:34:10,stop_point:SP_1045,ZI Montredon,2
+2286297,14:35:00,14:35:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286297,14:35:00,14:35:10,stop_point:SP_3278,Le Chapitre,4
+2286297,14:37:00,14:37:10,stop_point:SP_63,Mireille,5
+2286297,14:38:00,14:38:10,stop_point:SP_1305,Mont Pin,6
+2286297,14:39:00,14:39:10,stop_point:SP_2057,Vignobles,7
+2286297,14:39:00,14:39:10,stop_point:SP_1393,Belle Fontaine,8
+2286297,14:40:00,14:40:10,stop_point:SP_1539,Pastel,9
+2286297,14:42:00,14:42:10,stop_point:SP_866,Logis Vieux,10
+2286297,14:43:00,14:43:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286297,14:43:00,14:43:10,stop_point:SP_3880,La Rivière,12
+2286297,14:44:00,14:44:10,stop_point:SP_3515,Montrabé Stade,13
+2286297,14:45:00,14:45:10,stop_point:SP_307,Mistral,14
+2286297,14:47:00,14:47:10,stop_point:SP_368,Borde Haute,15
+2286297,14:50:00,14:50:10,stop_point:SP_1612,Collège Montrabé,16
+2286297,14:51:00,14:51:10,stop_point:SP_3127,Bel Souleil,17
+2286297,14:53:00,14:53:10,stop_point:SP_587,Beaupuy Mairie,18
+2286298,15:15:00,15:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286298,15:19:00,15:19:10,stop_point:SP_1045,ZI Montredon,2
+2286298,15:20:00,15:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286298,15:20:00,15:20:10,stop_point:SP_3278,Le Chapitre,4
+2286298,15:22:00,15:22:10,stop_point:SP_63,Mireille,5
+2286298,15:23:00,15:23:10,stop_point:SP_1305,Mont Pin,6
+2286298,15:24:00,15:24:10,stop_point:SP_2057,Vignobles,7
+2286298,15:24:00,15:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286298,15:25:00,15:25:10,stop_point:SP_1539,Pastel,9
+2286298,15:27:00,15:27:10,stop_point:SP_866,Logis Vieux,10
+2286298,15:28:00,15:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286298,15:28:00,15:28:10,stop_point:SP_3880,La Rivière,12
+2286298,15:29:00,15:29:10,stop_point:SP_3515,Montrabé Stade,13
+2286298,15:30:00,15:30:10,stop_point:SP_307,Mistral,14
+2286298,15:32:00,15:32:10,stop_point:SP_368,Borde Haute,15
+2286298,15:35:00,15:35:10,stop_point:SP_1612,Collège Montrabé,16
+2286298,15:36:00,15:36:10,stop_point:SP_3127,Bel Souleil,17
+2286298,15:38:00,15:38:10,stop_point:SP_587,Beaupuy Mairie,18
+2286299,16:00:00,16:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286299,16:04:00,16:04:10,stop_point:SP_1045,ZI Montredon,2
+2286299,16:05:00,16:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286299,16:05:00,16:05:10,stop_point:SP_3278,Le Chapitre,4
+2286299,16:07:00,16:07:10,stop_point:SP_63,Mireille,5
+2286299,16:08:00,16:08:10,stop_point:SP_1305,Mont Pin,6
+2286299,16:09:00,16:09:10,stop_point:SP_2057,Vignobles,7
+2286299,16:09:00,16:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286299,16:10:00,16:10:10,stop_point:SP_1539,Pastel,9
+2286299,16:12:00,16:12:10,stop_point:SP_866,Logis Vieux,10
+2286299,16:13:00,16:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286299,16:13:00,16:13:10,stop_point:SP_3880,La Rivière,12
+2286299,16:14:00,16:14:10,stop_point:SP_3515,Montrabé Stade,13
+2286299,16:15:00,16:15:10,stop_point:SP_307,Mistral,14
+2286299,16:17:00,16:17:10,stop_point:SP_368,Borde Haute,15
+2286299,16:20:00,16:20:10,stop_point:SP_1612,Collège Montrabé,16
+2286299,16:21:00,16:21:10,stop_point:SP_3127,Bel Souleil,17
+2286299,16:23:00,16:23:10,stop_point:SP_587,Beaupuy Mairie,18
+2286300,16:45:00,16:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286300,16:49:00,16:49:10,stop_point:SP_1045,ZI Montredon,2
+2286300,16:50:00,16:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286300,16:50:00,16:50:10,stop_point:SP_3278,Le Chapitre,4
+2286300,16:52:00,16:52:10,stop_point:SP_63,Mireille,5
+2286300,16:53:00,16:53:10,stop_point:SP_1305,Mont Pin,6
+2286300,16:54:00,16:54:10,stop_point:SP_2057,Vignobles,7
+2286300,16:54:00,16:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286300,16:55:00,16:55:10,stop_point:SP_1539,Pastel,9
+2286300,16:57:00,16:57:10,stop_point:SP_866,Logis Vieux,10
+2286300,16:58:00,16:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286300,16:58:00,16:58:10,stop_point:SP_3880,La Rivière,12
+2286300,16:59:00,16:59:10,stop_point:SP_3515,Montrabé Stade,13
+2286300,17:00:00,17:00:10,stop_point:SP_307,Mistral,14
+2286300,17:02:00,17:02:10,stop_point:SP_368,Borde Haute,15
+2286300,17:05:00,17:05:10,stop_point:SP_1612,Collège Montrabé,16
+2286300,17:06:00,17:06:10,stop_point:SP_3127,Bel Souleil,17
+2286300,17:08:00,17:08:10,stop_point:SP_587,Beaupuy Mairie,18
+2286301,17:30:00,17:30:10,stop_point:SP_3797,Balma-Gramont,1
+2286301,17:34:00,17:34:10,stop_point:SP_1045,ZI Montredon,2
+2286301,17:35:00,17:35:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286301,17:35:00,17:35:10,stop_point:SP_3278,Le Chapitre,4
+2286301,17:37:00,17:37:10,stop_point:SP_63,Mireille,5
+2286301,17:38:00,17:38:10,stop_point:SP_1305,Mont Pin,6
+2286301,17:39:00,17:39:10,stop_point:SP_2057,Vignobles,7
+2286301,17:39:00,17:39:10,stop_point:SP_1393,Belle Fontaine,8
+2286301,17:40:00,17:40:10,stop_point:SP_1539,Pastel,9
+2286301,17:42:00,17:42:10,stop_point:SP_866,Logis Vieux,10
+2286301,17:43:00,17:43:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286301,17:43:00,17:43:10,stop_point:SP_3880,La Rivière,12
+2286301,17:44:00,17:44:10,stop_point:SP_3515,Montrabé Stade,13
+2286301,17:45:00,17:45:10,stop_point:SP_307,Mistral,14
+2286301,17:48:00,17:48:10,stop_point:SP_368,Borde Haute,15
+2286301,17:51:00,17:51:10,stop_point:SP_1612,Collège Montrabé,16
+2286301,17:52:00,17:52:10,stop_point:SP_3127,Bel Souleil,17
+2286301,17:54:00,17:54:10,stop_point:SP_587,Beaupuy Mairie,18
+2286302,18:15:00,18:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286302,18:19:00,18:19:10,stop_point:SP_1045,ZI Montredon,2
+2286302,18:20:00,18:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286302,18:20:00,18:20:10,stop_point:SP_3278,Le Chapitre,4
+2286302,18:22:00,18:22:10,stop_point:SP_63,Mireille,5
+2286302,18:23:00,18:23:10,stop_point:SP_1305,Mont Pin,6
+2286302,18:24:00,18:24:10,stop_point:SP_2057,Vignobles,7
+2286302,18:24:00,18:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286302,18:25:00,18:25:10,stop_point:SP_1539,Pastel,9
+2286302,18:27:00,18:27:10,stop_point:SP_866,Logis Vieux,10
+2286302,18:28:00,18:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286302,18:28:00,18:28:10,stop_point:SP_3880,La Rivière,12
+2286302,18:29:00,18:29:10,stop_point:SP_3515,Montrabé Stade,13
+2286302,18:30:00,18:30:10,stop_point:SP_307,Mistral,14
+2286302,18:32:00,18:32:10,stop_point:SP_368,Borde Haute,15
+2286302,18:35:00,18:35:10,stop_point:SP_1612,Collège Montrabé,16
+2286302,18:36:00,18:36:10,stop_point:SP_3127,Bel Souleil,17
+2286302,18:38:00,18:38:10,stop_point:SP_587,Beaupuy Mairie,18
+2286303,19:00:00,19:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286303,19:04:00,19:04:10,stop_point:SP_1045,ZI Montredon,2
+2286303,19:05:00,19:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286303,19:05:00,19:05:10,stop_point:SP_3278,Le Chapitre,4
+2286303,19:07:00,19:07:10,stop_point:SP_63,Mireille,5
+2286303,19:08:00,19:08:10,stop_point:SP_1305,Mont Pin,6
+2286303,19:09:00,19:09:10,stop_point:SP_2057,Vignobles,7
+2286303,19:09:00,19:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286303,19:10:00,19:10:10,stop_point:SP_1539,Pastel,9
+2286303,19:12:00,19:12:10,stop_point:SP_866,Logis Vieux,10
+2286303,19:13:00,19:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286303,19:13:00,19:13:10,stop_point:SP_3880,La Rivière,12
+2286303,19:14:00,19:14:10,stop_point:SP_3515,Montrabé Stade,13
+2286303,19:15:00,19:15:10,stop_point:SP_307,Mistral,14
+2286303,19:17:00,19:17:10,stop_point:SP_368,Borde Haute,15
+2286303,19:19:00,19:19:10,stop_point:SP_1612,Collège Montrabé,16
+2286303,19:20:00,19:20:10,stop_point:SP_3127,Bel Souleil,17
+2286303,19:22:00,19:22:10,stop_point:SP_587,Beaupuy Mairie,18
+2286304,19:45:00,19:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286304,19:49:00,19:49:10,stop_point:SP_1045,ZI Montredon,2
+2286304,19:50:00,19:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286304,19:50:00,19:50:10,stop_point:SP_3278,Le Chapitre,4
+2286304,19:52:00,19:52:10,stop_point:SP_63,Mireille,5
+2286304,19:53:00,19:53:10,stop_point:SP_1305,Mont Pin,6
+2286304,19:54:00,19:54:10,stop_point:SP_2057,Vignobles,7
+2286304,19:54:00,19:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286304,19:55:00,19:55:10,stop_point:SP_1539,Pastel,9
+2286304,19:57:00,19:57:10,stop_point:SP_866,Logis Vieux,10
+2286304,19:58:00,19:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286304,19:58:00,19:58:10,stop_point:SP_3880,La Rivière,12
+2286304,19:59:00,19:59:10,stop_point:SP_3515,Montrabé Stade,13
+2286304,20:00:00,20:00:10,stop_point:SP_307,Mistral,14
+2286304,20:02:00,20:02:10,stop_point:SP_368,Borde Haute,15
+2286304,20:04:00,20:04:10,stop_point:SP_1612,Collège Montrabé,16
+2286304,20:05:00,20:05:10,stop_point:SP_3127,Bel Souleil,17
+2286304,20:07:00,20:07:10,stop_point:SP_587,Beaupuy Mairie,18
+2286305,07:00:00,07:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286305,07:02:00,07:02:10,stop_point:SP_3558,Bel Souleil,2
+2286305,07:04:00,07:04:10,stop_point:SP_820,Collège Montrabé,3
+2286305,07:06:00,07:06:10,stop_point:SP_502,Borde Haute,4
+2286305,07:07:00,07:07:10,stop_point:SP_1208,Mistral,5
+2286305,07:08:00,07:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286305,07:09:00,07:09:10,stop_point:SP_2641,La Rivière,7
+2286305,07:10:00,07:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286305,07:11:00,07:11:10,stop_point:SP_1009,Logis Vieux,9
+2286305,07:13:00,07:13:10,stop_point:SP_531,Pastel,10
+2286305,07:14:00,07:14:10,stop_point:SP_19,Belle Fontaine,11
+2286305,07:14:00,07:14:10,stop_point:SP_2894,Vignobles,12
+2286305,07:15:00,07:15:10,stop_point:SP_3338,Mont Pin,13
+2286305,07:16:00,07:16:10,stop_point:SP_2790,Mireille,14
+2286305,07:18:00,07:18:10,stop_point:SP_3384,Le Chapitre,15
+2286305,07:18:00,07:18:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286305,07:19:00,07:19:10,stop_point:SP_2484,ZI Montredon,17
+2286305,07:23:00,07:23:10,stop_point:SP_3797,Balma-Gramont,18
+2286306,07:45:00,07:45:10,stop_point:SP_587,Beaupuy Mairie,1
+2286306,07:47:00,07:47:10,stop_point:SP_3558,Bel Souleil,2
+2286306,07:49:00,07:49:10,stop_point:SP_820,Collège Montrabé,3
+2286306,07:51:00,07:51:10,stop_point:SP_502,Borde Haute,4
+2286306,07:52:00,07:52:10,stop_point:SP_1208,Mistral,5
+2286306,07:53:00,07:53:10,stop_point:SP_4083,Montrabé Stade,6
+2286306,07:54:00,07:54:10,stop_point:SP_2641,La Rivière,7
+2286306,07:55:00,07:55:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286306,07:56:00,07:56:10,stop_point:SP_1009,Logis Vieux,9
+2286306,07:58:00,07:58:10,stop_point:SP_531,Pastel,10
+2286306,07:59:00,07:59:10,stop_point:SP_19,Belle Fontaine,11
+2286306,07:59:00,07:59:10,stop_point:SP_2894,Vignobles,12
+2286306,08:00:00,08:00:10,stop_point:SP_3338,Mont Pin,13
+2286306,08:01:00,08:01:10,stop_point:SP_2790,Mireille,14
+2286306,08:03:00,08:03:10,stop_point:SP_3384,Le Chapitre,15
+2286306,08:03:00,08:03:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286306,08:04:00,08:04:10,stop_point:SP_2484,ZI Montredon,17
+2286306,08:08:00,08:08:10,stop_point:SP_3797,Balma-Gramont,18
+2286307,08:30:00,08:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286307,08:32:00,08:32:10,stop_point:SP_3558,Bel Souleil,2
+2286307,08:34:00,08:34:10,stop_point:SP_820,Collège Montrabé,3
+2286307,08:36:00,08:36:10,stop_point:SP_502,Borde Haute,4
+2286307,08:37:00,08:37:10,stop_point:SP_1208,Mistral,5
+2286307,08:38:00,08:38:10,stop_point:SP_4083,Montrabé Stade,6
+2286307,08:39:00,08:39:10,stop_point:SP_2641,La Rivière,7
+2286307,08:40:00,08:40:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286307,08:41:00,08:41:10,stop_point:SP_1009,Logis Vieux,9
+2286307,08:43:00,08:43:10,stop_point:SP_531,Pastel,10
+2286307,08:44:00,08:44:10,stop_point:SP_19,Belle Fontaine,11
+2286307,08:44:00,08:44:10,stop_point:SP_2894,Vignobles,12
+2286307,08:45:00,08:45:10,stop_point:SP_3338,Mont Pin,13
+2286307,08:46:00,08:46:10,stop_point:SP_2790,Mireille,14
+2286307,08:48:00,08:48:10,stop_point:SP_3384,Le Chapitre,15
+2286307,08:49:00,08:49:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286307,08:50:00,08:50:10,stop_point:SP_2484,ZI Montredon,17
+2286307,08:54:00,08:54:10,stop_point:SP_3797,Balma-Gramont,18
+2286308,09:15:00,09:15:10,stop_point:SP_587,Beaupuy Mairie,1
+2286308,09:17:00,09:17:10,stop_point:SP_3558,Bel Souleil,2
+2286308,09:19:00,09:19:10,stop_point:SP_820,Collège Montrabé,3
+2286308,09:21:00,09:21:10,stop_point:SP_502,Borde Haute,4
+2286308,09:22:00,09:22:10,stop_point:SP_1208,Mistral,5
+2286308,09:23:00,09:23:10,stop_point:SP_4083,Montrabé Stade,6
+2286308,09:24:00,09:24:10,stop_point:SP_2641,La Rivière,7
+2286308,09:25:00,09:25:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286308,09:26:00,09:26:10,stop_point:SP_1009,Logis Vieux,9
+2286308,09:28:00,09:28:10,stop_point:SP_531,Pastel,10
+2286308,09:29:00,09:29:10,stop_point:SP_19,Belle Fontaine,11
+2286308,09:29:00,09:29:10,stop_point:SP_2894,Vignobles,12
+2286308,09:30:00,09:30:10,stop_point:SP_3338,Mont Pin,13
+2286308,09:31:00,09:31:10,stop_point:SP_2790,Mireille,14
+2286308,09:33:00,09:33:10,stop_point:SP_3384,Le Chapitre,15
+2286308,09:34:00,09:34:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286308,09:35:00,09:35:10,stop_point:SP_2484,ZI Montredon,17
+2286308,09:39:00,09:39:10,stop_point:SP_3797,Balma-Gramont,18
+2286309,10:00:00,10:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286309,10:02:00,10:02:10,stop_point:SP_3558,Bel Souleil,2
+2286309,10:04:00,10:04:10,stop_point:SP_820,Collège Montrabé,3
+2286309,10:06:00,10:06:10,stop_point:SP_502,Borde Haute,4
+2286309,10:07:00,10:07:10,stop_point:SP_1208,Mistral,5
+2286309,10:08:00,10:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286309,10:09:00,10:09:10,stop_point:SP_2641,La Rivière,7
+2286309,10:10:00,10:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286309,10:11:00,10:11:10,stop_point:SP_1009,Logis Vieux,9
+2286309,10:13:00,10:13:10,stop_point:SP_531,Pastel,10
+2286309,10:14:00,10:14:10,stop_point:SP_19,Belle Fontaine,11
+2286309,10:14:00,10:14:10,stop_point:SP_2894,Vignobles,12
+2286309,10:15:00,10:15:10,stop_point:SP_3338,Mont Pin,13
+2286309,10:16:00,10:16:10,stop_point:SP_2790,Mireille,14
+2286309,10:18:00,10:18:10,stop_point:SP_3384,Le Chapitre,15
+2286309,10:19:00,10:19:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286309,10:20:00,10:20:10,stop_point:SP_2484,ZI Montredon,17
+2286309,10:24:00,10:24:10,stop_point:SP_3797,Balma-Gramont,18
+2286310,10:45:00,10:45:10,stop_point:SP_587,Beaupuy Mairie,1
+2286310,10:47:00,10:47:10,stop_point:SP_3558,Bel Souleil,2
+2286310,10:49:00,10:49:10,stop_point:SP_820,Collège Montrabé,3
+2286310,10:51:00,10:51:10,stop_point:SP_502,Borde Haute,4
+2286310,10:52:00,10:52:10,stop_point:SP_1208,Mistral,5
+2286310,10:53:00,10:53:10,stop_point:SP_4083,Montrabé Stade,6
+2286310,10:54:00,10:54:10,stop_point:SP_2641,La Rivière,7
+2286310,10:55:00,10:55:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286310,10:56:00,10:56:10,stop_point:SP_1009,Logis Vieux,9
+2286310,10:58:00,10:58:10,stop_point:SP_531,Pastel,10
+2286310,10:59:00,10:59:10,stop_point:SP_19,Belle Fontaine,11
+2286310,10:59:00,10:59:10,stop_point:SP_2894,Vignobles,12
+2286310,11:00:00,11:00:10,stop_point:SP_3338,Mont Pin,13
+2286310,11:01:00,11:01:10,stop_point:SP_2790,Mireille,14
+2286310,11:03:00,11:03:10,stop_point:SP_3384,Le Chapitre,15
+2286310,11:04:00,11:04:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286310,11:05:00,11:05:10,stop_point:SP_2484,ZI Montredon,17
+2286310,11:09:00,11:09:10,stop_point:SP_3797,Balma-Gramont,18
+2286311,11:30:00,11:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286311,11:32:00,11:32:10,stop_point:SP_3558,Bel Souleil,2
+2286311,11:34:00,11:34:10,stop_point:SP_820,Collège Montrabé,3
+2286311,11:36:00,11:36:10,stop_point:SP_502,Borde Haute,4
+2286311,11:37:00,11:37:10,stop_point:SP_1208,Mistral,5
+2286311,11:38:00,11:38:10,stop_point:SP_4083,Montrabé Stade,6
+2286311,11:39:00,11:39:10,stop_point:SP_2641,La Rivière,7
+2286311,11:40:00,11:40:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286311,11:41:00,11:41:10,stop_point:SP_1009,Logis Vieux,9
+2286311,11:43:00,11:43:10,stop_point:SP_531,Pastel,10
+2286311,11:44:00,11:44:10,stop_point:SP_19,Belle Fontaine,11
+2286311,11:44:00,11:44:10,stop_point:SP_2894,Vignobles,12
+2286311,11:45:00,11:45:10,stop_point:SP_3338,Mont Pin,13
+2286311,11:46:00,11:46:10,stop_point:SP_2790,Mireille,14
+2286311,11:48:00,11:48:10,stop_point:SP_3384,Le Chapitre,15
+2286311,11:49:00,11:49:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286311,11:50:00,11:50:10,stop_point:SP_2484,ZI Montredon,17
+2286311,11:54:00,11:54:10,stop_point:SP_3797,Balma-Gramont,18
+2286312,12:15:00,12:15:10,stop_point:SP_587,Beaupuy Mairie,1
+2286312,12:17:00,12:17:10,stop_point:SP_3558,Bel Souleil,2
+2286312,12:19:00,12:19:10,stop_point:SP_820,Collège Montrabé,3
+2286312,12:21:00,12:21:10,stop_point:SP_502,Borde Haute,4
+2286312,12:22:00,12:22:10,stop_point:SP_1208,Mistral,5
+2286312,12:23:00,12:23:10,stop_point:SP_4083,Montrabé Stade,6
+2286312,12:24:00,12:24:10,stop_point:SP_2641,La Rivière,7
+2286312,12:25:00,12:25:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286312,12:26:00,12:26:10,stop_point:SP_1009,Logis Vieux,9
+2286312,12:28:00,12:28:10,stop_point:SP_531,Pastel,10
+2286312,12:29:00,12:29:10,stop_point:SP_19,Belle Fontaine,11
+2286312,12:29:00,12:29:10,stop_point:SP_2894,Vignobles,12
+2286312,12:30:00,12:30:10,stop_point:SP_3338,Mont Pin,13
+2286312,12:31:00,12:31:10,stop_point:SP_2790,Mireille,14
+2286312,12:33:00,12:33:10,stop_point:SP_3384,Le Chapitre,15
+2286312,12:34:00,12:34:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286312,12:35:00,12:35:10,stop_point:SP_2484,ZI Montredon,17
+2286312,12:39:00,12:39:10,stop_point:SP_3797,Balma-Gramont,18
+2286313,13:00:00,13:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286313,13:02:00,13:02:10,stop_point:SP_3558,Bel Souleil,2
+2286313,13:04:00,13:04:10,stop_point:SP_820,Collège Montrabé,3
+2286313,13:06:00,13:06:10,stop_point:SP_502,Borde Haute,4
+2286313,13:07:00,13:07:10,stop_point:SP_1208,Mistral,5
+2286313,13:08:00,13:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286313,13:09:00,13:09:10,stop_point:SP_2641,La Rivière,7
+2286313,13:10:00,13:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286313,13:11:00,13:11:10,stop_point:SP_1009,Logis Vieux,9
+2286313,13:13:00,13:13:10,stop_point:SP_531,Pastel,10
+2286313,13:14:00,13:14:10,stop_point:SP_19,Belle Fontaine,11
+2286313,13:14:00,13:14:10,stop_point:SP_2894,Vignobles,12
+2286313,13:15:00,13:15:10,stop_point:SP_3338,Mont Pin,13
+2286313,13:16:00,13:16:10,stop_point:SP_2790,Mireille,14
+2286313,13:18:00,13:18:10,stop_point:SP_3384,Le Chapitre,15
+2286313,13:19:00,13:19:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286313,13:20:00,13:20:10,stop_point:SP_2484,ZI Montredon,17
+2286313,13:24:00,13:24:10,stop_point:SP_3797,Balma-Gramont,18
+2286314,13:45:00,13:45:10,stop_point:SP_587,Beaupuy Mairie,1
+2286314,13:47:00,13:47:10,stop_point:SP_3558,Bel Souleil,2
+2286314,13:49:00,13:49:10,stop_point:SP_820,Collège Montrabé,3
+2286314,13:52:00,13:52:10,stop_point:SP_502,Borde Haute,4
+2286314,13:54:00,13:54:10,stop_point:SP_1208,Mistral,5
+2286314,13:55:00,13:55:10,stop_point:SP_4083,Montrabé Stade,6
+2286314,13:56:00,13:56:10,stop_point:SP_2641,La Rivière,7
+2286314,13:57:00,13:57:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286314,13:58:00,13:58:10,stop_point:SP_1009,Logis Vieux,9
+2286314,14:00:00,14:00:10,stop_point:SP_531,Pastel,10
+2286314,14:01:00,14:01:10,stop_point:SP_19,Belle Fontaine,11
+2286314,14:01:00,14:01:10,stop_point:SP_2894,Vignobles,12
+2286314,14:02:00,14:02:10,stop_point:SP_3338,Mont Pin,13
+2286314,14:03:00,14:03:10,stop_point:SP_2790,Mireille,14
+2286314,14:05:00,14:05:10,stop_point:SP_3384,Le Chapitre,15
+2286314,14:06:00,14:06:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286314,14:07:00,14:07:10,stop_point:SP_2484,ZI Montredon,17
+2286314,14:11:00,14:11:10,stop_point:SP_3797,Balma-Gramont,18
+2286315,14:30:00,14:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286315,14:32:00,14:32:10,stop_point:SP_3558,Bel Souleil,2
+2286315,14:34:00,14:34:10,stop_point:SP_820,Collège Montrabé,3
+2286315,14:36:00,14:36:10,stop_point:SP_502,Borde Haute,4
+2286315,14:37:00,14:37:10,stop_point:SP_1208,Mistral,5
+2286315,14:38:00,14:38:10,stop_point:SP_4083,Montrabé Stade,6
+2286315,14:39:00,14:39:10,stop_point:SP_2641,La Rivière,7
+2286315,14:40:00,14:40:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286315,14:41:00,14:41:10,stop_point:SP_1009,Logis Vieux,9
+2286315,14:43:00,14:43:10,stop_point:SP_531,Pastel,10
+2286315,14:44:00,14:44:10,stop_point:SP_19,Belle Fontaine,11
+2286315,14:44:00,14:44:10,stop_point:SP_2894,Vignobles,12
+2286315,14:45:00,14:45:10,stop_point:SP_3338,Mont Pin,13
+2286315,14:46:00,14:46:10,stop_point:SP_2790,Mireille,14
+2286315,14:48:00,14:48:10,stop_point:SP_3384,Le Chapitre,15
+2286315,14:49:00,14:49:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286315,14:50:00,14:50:10,stop_point:SP_2484,ZI Montredon,17
+2286315,14:54:00,14:54:10,stop_point:SP_3797,Balma-Gramont,18
+2286316,15:15:00,15:15:10,stop_point:SP_587,Beaupuy Mairie,1
+2286316,15:17:00,15:17:10,stop_point:SP_3558,Bel Souleil,2
+2286316,15:19:00,15:19:10,stop_point:SP_820,Collège Montrabé,3
+2286316,15:21:00,15:21:10,stop_point:SP_502,Borde Haute,4
+2286316,15:22:00,15:22:10,stop_point:SP_1208,Mistral,5
+2286316,15:23:00,15:23:10,stop_point:SP_4083,Montrabé Stade,6
+2286316,15:24:00,15:24:10,stop_point:SP_2641,La Rivière,7
+2286316,15:25:00,15:25:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286316,15:26:00,15:26:10,stop_point:SP_1009,Logis Vieux,9
+2286316,15:28:00,15:28:10,stop_point:SP_531,Pastel,10
+2286316,15:29:00,15:29:10,stop_point:SP_19,Belle Fontaine,11
+2286316,15:29:00,15:29:10,stop_point:SP_2894,Vignobles,12
+2286316,15:30:00,15:30:10,stop_point:SP_3338,Mont Pin,13
+2286316,15:31:00,15:31:10,stop_point:SP_2790,Mireille,14
+2286316,15:33:00,15:33:10,stop_point:SP_3384,Le Chapitre,15
+2286316,15:34:00,15:34:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286316,15:35:00,15:35:10,stop_point:SP_2484,ZI Montredon,17
+2286316,15:39:00,15:39:10,stop_point:SP_3797,Balma-Gramont,18
+2286317,16:00:00,16:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286317,16:02:00,16:02:10,stop_point:SP_3558,Bel Souleil,2
+2286317,16:04:00,16:04:10,stop_point:SP_820,Collège Montrabé,3
+2286317,16:06:00,16:06:10,stop_point:SP_502,Borde Haute,4
+2286317,16:07:00,16:07:10,stop_point:SP_1208,Mistral,5
+2286317,16:08:00,16:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286317,16:09:00,16:09:10,stop_point:SP_2641,La Rivière,7
+2286317,16:10:00,16:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286317,16:11:00,16:11:10,stop_point:SP_1009,Logis Vieux,9
+2286317,16:13:00,16:13:10,stop_point:SP_531,Pastel,10
+2286317,16:14:00,16:14:10,stop_point:SP_19,Belle Fontaine,11
+2286317,16:14:00,16:14:10,stop_point:SP_2894,Vignobles,12
+2286317,16:15:00,16:15:10,stop_point:SP_3338,Mont Pin,13
+2286317,16:16:00,16:16:10,stop_point:SP_2790,Mireille,14
+2286317,16:18:00,16:18:10,stop_point:SP_3384,Le Chapitre,15
+2286317,16:19:00,16:19:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286317,16:20:00,16:20:10,stop_point:SP_2484,ZI Montredon,17
+2286317,16:24:00,16:24:10,stop_point:SP_3797,Balma-Gramont,18
+2286318,16:45:00,16:45:10,stop_point:SP_587,Beaupuy Mairie,1
+2286318,16:47:00,16:47:10,stop_point:SP_3558,Bel Souleil,2
+2286318,16:49:00,16:49:10,stop_point:SP_820,Collège Montrabé,3
+2286318,16:51:00,16:51:10,stop_point:SP_502,Borde Haute,4
+2286318,16:52:00,16:52:10,stop_point:SP_1208,Mistral,5
+2286318,16:53:00,16:53:10,stop_point:SP_4083,Montrabé Stade,6
+2286318,16:54:00,16:54:10,stop_point:SP_2641,La Rivière,7
+2286318,16:55:00,16:55:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286318,16:56:00,16:56:10,stop_point:SP_1009,Logis Vieux,9
+2286318,16:58:00,16:58:10,stop_point:SP_531,Pastel,10
+2286318,16:59:00,16:59:10,stop_point:SP_19,Belle Fontaine,11
+2286318,16:59:00,16:59:10,stop_point:SP_2894,Vignobles,12
+2286318,17:00:00,17:00:10,stop_point:SP_3338,Mont Pin,13
+2286318,17:01:00,17:01:10,stop_point:SP_2790,Mireille,14
+2286318,17:03:00,17:03:10,stop_point:SP_3384,Le Chapitre,15
+2286318,17:04:00,17:04:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286318,17:05:00,17:05:10,stop_point:SP_2484,ZI Montredon,17
+2286318,17:09:00,17:09:10,stop_point:SP_3797,Balma-Gramont,18
+2286319,17:30:00,17:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286319,17:32:00,17:32:10,stop_point:SP_3558,Bel Souleil,2
+2286319,17:34:00,17:34:10,stop_point:SP_820,Collège Montrabé,3
+2286319,17:36:00,17:36:10,stop_point:SP_502,Borde Haute,4
+2286319,17:37:00,17:37:10,stop_point:SP_1208,Mistral,5
+2286319,17:38:00,17:38:10,stop_point:SP_4083,Montrabé Stade,6
+2286319,17:39:00,17:39:10,stop_point:SP_2641,La Rivière,7
+2286319,17:40:00,17:40:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286319,17:41:00,17:41:10,stop_point:SP_1009,Logis Vieux,9
+2286319,17:43:00,17:43:10,stop_point:SP_531,Pastel,10
+2286319,17:44:00,17:44:10,stop_point:SP_19,Belle Fontaine,11
+2286319,17:44:00,17:44:10,stop_point:SP_2894,Vignobles,12
+2286319,17:45:00,17:45:10,stop_point:SP_3338,Mont Pin,13
+2286319,17:46:00,17:46:10,stop_point:SP_2790,Mireille,14
+2286319,17:48:00,17:48:10,stop_point:SP_3384,Le Chapitre,15
+2286319,17:49:00,17:49:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286319,17:50:00,17:50:10,stop_point:SP_2484,ZI Montredon,17
+2286319,17:54:00,17:54:10,stop_point:SP_3797,Balma-Gramont,18
+2286320,18:15:00,18:15:10,stop_point:SP_587,Beaupuy Mairie,1
+2286320,18:17:00,18:17:10,stop_point:SP_3558,Bel Souleil,2
+2286320,18:19:00,18:19:10,stop_point:SP_820,Collège Montrabé,3
+2286320,18:21:00,18:21:10,stop_point:SP_502,Borde Haute,4
+2286320,18:22:00,18:22:10,stop_point:SP_1208,Mistral,5
+2286320,18:23:00,18:23:10,stop_point:SP_4083,Montrabé Stade,6
+2286320,18:24:00,18:24:10,stop_point:SP_2641,La Rivière,7
+2286320,18:25:00,18:25:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286320,18:26:00,18:26:10,stop_point:SP_1009,Logis Vieux,9
+2286320,18:28:00,18:28:10,stop_point:SP_531,Pastel,10
+2286320,18:29:00,18:29:10,stop_point:SP_19,Belle Fontaine,11
+2286320,18:29:00,18:29:10,stop_point:SP_2894,Vignobles,12
+2286320,18:30:00,18:30:10,stop_point:SP_3338,Mont Pin,13
+2286320,18:31:00,18:31:10,stop_point:SP_2790,Mireille,14
+2286320,18:33:00,18:33:10,stop_point:SP_3384,Le Chapitre,15
+2286320,18:34:00,18:34:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286320,18:35:00,18:35:10,stop_point:SP_2484,ZI Montredon,17
+2286320,18:39:00,18:39:10,stop_point:SP_3797,Balma-Gramont,18
+2286321,19:00:00,19:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286321,19:02:00,19:02:10,stop_point:SP_3558,Bel Souleil,2
+2286321,19:04:00,19:04:10,stop_point:SP_820,Collège Montrabé,3
+2286321,19:06:00,19:06:10,stop_point:SP_502,Borde Haute,4
+2286321,19:07:00,19:07:10,stop_point:SP_1208,Mistral,5
+2286321,19:08:00,19:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286321,19:09:00,19:09:10,stop_point:SP_2641,La Rivière,7
+2286321,19:10:00,19:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286321,19:11:00,19:11:10,stop_point:SP_1009,Logis Vieux,9
+2286321,19:13:00,19:13:10,stop_point:SP_531,Pastel,10
+2286321,19:14:00,19:14:10,stop_point:SP_19,Belle Fontaine,11
+2286321,19:14:00,19:14:10,stop_point:SP_2894,Vignobles,12
+2286321,19:15:00,19:15:10,stop_point:SP_3338,Mont Pin,13
+2286321,19:16:00,19:16:10,stop_point:SP_2790,Mireille,14
+2286321,19:18:00,19:18:10,stop_point:SP_3384,Le Chapitre,15
+2286321,19:19:00,19:19:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286321,19:20:00,19:20:10,stop_point:SP_2484,ZI Montredon,17
+2286321,19:24:00,19:24:10,stop_point:SP_3797,Balma-Gramont,18
+2286322,06:15:00,06:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286322,06:19:00,06:19:10,stop_point:SP_1045,ZI Montredon,2
+2286322,06:20:00,06:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286322,06:20:00,06:20:10,stop_point:SP_3278,Le Chapitre,4
+2286322,06:22:00,06:22:10,stop_point:SP_63,Mireille,5
+2286322,06:23:00,06:23:10,stop_point:SP_1305,Mont Pin,6
+2286322,06:24:00,06:24:10,stop_point:SP_2057,Vignobles,7
+2286322,06:24:00,06:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286322,06:25:00,06:25:10,stop_point:SP_1539,Pastel,9
+2286322,06:27:00,06:27:10,stop_point:SP_866,Logis Vieux,10
+2286322,06:28:00,06:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286322,06:29:00,06:29:10,stop_point:SP_3880,La Rivière,12
+2286322,06:30:00,06:30:10,stop_point:SP_3515,Montrabé Stade,13
+2286322,06:31:00,06:31:10,stop_point:SP_307,Mistral,14
+2286322,06:33:00,06:33:10,stop_point:SP_368,Borde Haute,15
+2286322,06:35:00,06:35:10,stop_point:SP_1612,Collège Montrabé,16
+2286322,06:36:00,06:36:10,stop_point:SP_3127,Bel Souleil,17
+2286322,06:38:00,06:38:10,stop_point:SP_587,Beaupuy Mairie,18
+2286323,06:45:00,06:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286323,06:49:00,06:49:10,stop_point:SP_1045,ZI Montredon,2
+2286323,06:50:00,06:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286323,06:50:00,06:50:10,stop_point:SP_3278,Le Chapitre,4
+2286323,06:52:00,06:52:10,stop_point:SP_63,Mireille,5
+2286323,06:53:00,06:53:10,stop_point:SP_1305,Mont Pin,6
+2286323,06:54:00,06:54:10,stop_point:SP_2057,Vignobles,7
+2286323,06:54:00,06:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286323,06:55:00,06:55:10,stop_point:SP_1539,Pastel,9
+2286323,06:57:00,06:57:10,stop_point:SP_866,Logis Vieux,10
+2286323,06:58:00,06:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286323,06:59:00,06:59:10,stop_point:SP_3880,La Rivière,12
+2286323,07:00:00,07:00:10,stop_point:SP_3515,Montrabé Stade,13
+2286323,07:01:00,07:01:10,stop_point:SP_307,Mistral,14
+2286323,07:03:00,07:03:10,stop_point:SP_368,Borde Haute,15
+2286323,07:05:00,07:05:10,stop_point:SP_1612,Collège Montrabé,16
+2286323,07:06:00,07:06:10,stop_point:SP_3127,Bel Souleil,17
+2286323,07:08:00,07:08:10,stop_point:SP_587,Beaupuy Mairie,18
+2286324,07:15:00,07:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286324,07:19:00,07:19:10,stop_point:SP_1045,ZI Montredon,2
+2286324,07:20:00,07:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286324,07:20:00,07:20:10,stop_point:SP_3278,Le Chapitre,4
+2286324,07:22:00,07:22:10,stop_point:SP_63,Mireille,5
+2286324,07:23:00,07:23:10,stop_point:SP_1305,Mont Pin,6
+2286324,07:24:00,07:24:10,stop_point:SP_2057,Vignobles,7
+2286324,07:24:00,07:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286324,07:25:00,07:25:10,stop_point:SP_1539,Pastel,9
+2286324,07:27:00,07:27:10,stop_point:SP_866,Logis Vieux,10
+2286324,07:28:00,07:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286324,07:29:00,07:29:10,stop_point:SP_3880,La Rivière,12
+2286324,07:30:00,07:30:10,stop_point:SP_3515,Montrabé Stade,13
+2286324,07:31:00,07:31:10,stop_point:SP_307,Mistral,14
+2286324,07:33:00,07:33:10,stop_point:SP_368,Borde Haute,15
+2286324,07:35:00,07:35:10,stop_point:SP_1612,Collège Montrabé,16
+2286324,07:36:00,07:36:10,stop_point:SP_3127,Bel Souleil,17
+2286324,07:38:00,07:38:10,stop_point:SP_587,Beaupuy Mairie,18
+2286325,07:46:00,07:46:10,stop_point:SP_3797,Balma-Gramont,1
+2286325,07:50:00,07:50:10,stop_point:SP_1045,ZI Montredon,2
+2286325,07:51:00,07:51:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286325,07:52:00,07:52:10,stop_point:SP_3278,Le Chapitre,4
+2286325,07:54:00,07:54:10,stop_point:SP_63,Mireille,5
+2286325,07:55:00,07:55:10,stop_point:SP_1305,Mont Pin,6
+2286325,07:56:00,07:56:10,stop_point:SP_2057,Vignobles,7
+2286325,07:57:00,07:57:10,stop_point:SP_1393,Belle Fontaine,8
+2286325,07:58:00,07:58:10,stop_point:SP_1539,Pastel,9
+2286325,08:00:00,08:00:10,stop_point:SP_866,Logis Vieux,10
+2286325,08:02:00,08:02:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286325,08:03:00,08:03:10,stop_point:SP_3880,La Rivière,12
+2286325,08:05:00,08:05:10,stop_point:SP_3515,Montrabé Stade,13
+2286325,08:06:00,08:06:10,stop_point:SP_307,Mistral,14
+2286325,08:09:00,08:09:10,stop_point:SP_368,Borde Haute,15
+2286325,08:12:00,08:12:10,stop_point:SP_1612,Collège Montrabé,16
+2286325,08:13:00,08:13:10,stop_point:SP_3127,Bel Souleil,17
+2286325,08:15:00,08:15:10,stop_point:SP_587,Beaupuy Mairie,18
+2286326,07:55:00,07:55:10,stop_point:SP_3797,Balma-Gramont,1
+2286326,07:59:00,07:59:10,stop_point:SP_1045,ZI Montredon,2
+2286326,08:00:00,08:00:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286326,08:01:00,08:01:10,stop_point:SP_3278,Le Chapitre,4
+2286326,08:03:00,08:03:10,stop_point:SP_63,Mireille,5
+2286326,08:04:00,08:04:10,stop_point:SP_1305,Mont Pin,6
+2286326,08:05:00,08:05:10,stop_point:SP_2057,Vignobles,7
+2286326,08:05:00,08:05:10,stop_point:SP_1393,Belle Fontaine,8
+2286326,08:06:00,08:06:10,stop_point:SP_1539,Pastel,9
+2286326,08:08:00,08:08:10,stop_point:SP_866,Logis Vieux,10
+2286326,08:10:00,08:10:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286326,08:11:00,08:11:10,stop_point:SP_3880,La Rivière,12
+2286326,08:13:00,08:13:10,stop_point:SP_3515,Montrabé Stade,13
+2286326,08:14:00,08:14:10,stop_point:SP_307,Mistral,14
+2286326,08:16:00,08:16:10,stop_point:SP_368,Borde Haute,15
+2286326,08:19:00,08:19:10,stop_point:SP_1612,Collège Montrabé,16
+2286326,08:20:00,08:20:10,stop_point:SP_3127,Bel Souleil,17
+2286326,08:22:00,08:22:10,stop_point:SP_587,Beaupuy Mairie,18
+2286327,08:16:00,08:16:10,stop_point:SP_3797,Balma-Gramont,1
+2286327,08:20:00,08:20:10,stop_point:SP_1045,ZI Montredon,2
+2286327,08:21:00,08:21:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286327,08:22:00,08:22:10,stop_point:SP_3278,Le Chapitre,4
+2286327,08:24:00,08:24:10,stop_point:SP_63,Mireille,5
+2286327,08:25:00,08:25:10,stop_point:SP_1305,Mont Pin,6
+2286327,08:26:00,08:26:10,stop_point:SP_2057,Vignobles,7
+2286327,08:26:00,08:26:10,stop_point:SP_1393,Belle Fontaine,8
+2286327,08:27:00,08:27:10,stop_point:SP_1539,Pastel,9
+2286327,08:29:00,08:29:10,stop_point:SP_866,Logis Vieux,10
+2286327,08:30:00,08:30:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286327,08:31:00,08:31:10,stop_point:SP_3880,La Rivière,12
+2286327,08:32:00,08:32:10,stop_point:SP_3515,Montrabé Stade,13
+2286327,08:33:00,08:33:10,stop_point:SP_307,Mistral,14
+2286327,08:35:00,08:35:10,stop_point:SP_368,Borde Haute,15
+2286327,08:38:00,08:38:10,stop_point:SP_1612,Collège Montrabé,16
+2286327,08:39:00,08:39:10,stop_point:SP_3127,Bel Souleil,17
+2286327,08:41:00,08:41:10,stop_point:SP_587,Beaupuy Mairie,18
+2286328,08:47:00,08:47:10,stop_point:SP_3797,Balma-Gramont,1
+2286328,08:51:00,08:51:10,stop_point:SP_1045,ZI Montredon,2
+2286328,08:52:00,08:52:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286328,08:53:00,08:53:10,stop_point:SP_3278,Le Chapitre,4
+2286328,08:55:00,08:55:10,stop_point:SP_63,Mireille,5
+2286328,08:56:00,08:56:10,stop_point:SP_1305,Mont Pin,6
+2286328,08:57:00,08:57:10,stop_point:SP_2057,Vignobles,7
+2286328,08:57:00,08:57:10,stop_point:SP_1393,Belle Fontaine,8
+2286328,08:58:00,08:58:10,stop_point:SP_1539,Pastel,9
+2286328,09:00:00,09:00:10,stop_point:SP_866,Logis Vieux,10
+2286328,09:01:00,09:01:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286328,09:02:00,09:02:10,stop_point:SP_3880,La Rivière,12
+2286328,09:03:00,09:03:10,stop_point:SP_3515,Montrabé Stade,13
+2286328,09:04:00,09:04:10,stop_point:SP_307,Mistral,14
+2286328,09:06:00,09:06:10,stop_point:SP_368,Borde Haute,15
+2286328,09:09:00,09:09:10,stop_point:SP_1612,Collège Montrabé,16
+2286328,09:10:00,09:10:10,stop_point:SP_3127,Bel Souleil,17
+2286328,09:12:00,09:12:10,stop_point:SP_587,Beaupuy Mairie,18
+2286329,09:10:00,09:10:10,stop_point:SP_3797,Balma-Gramont,1
+2286329,09:14:00,09:14:10,stop_point:SP_1045,ZI Montredon,2
+2286329,09:15:00,09:15:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286329,09:15:00,09:15:10,stop_point:SP_3278,Le Chapitre,4
+2286329,09:17:00,09:17:10,stop_point:SP_63,Mireille,5
+2286329,09:18:00,09:18:10,stop_point:SP_1305,Mont Pin,6
+2286329,09:19:00,09:19:10,stop_point:SP_2057,Vignobles,7
+2286329,09:19:00,09:19:10,stop_point:SP_1393,Belle Fontaine,8
+2286329,09:20:00,09:20:10,stop_point:SP_1539,Pastel,9
+2286329,09:22:00,09:22:10,stop_point:SP_866,Logis Vieux,10
+2286329,09:23:00,09:23:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286329,09:24:00,09:24:10,stop_point:SP_3880,La Rivière,12
+2286329,09:25:00,09:25:10,stop_point:SP_3515,Montrabé Stade,13
+2286329,09:26:00,09:26:10,stop_point:SP_307,Mistral,14
+2286329,09:28:00,09:28:10,stop_point:SP_368,Borde Haute,15
+2286329,09:30:00,09:30:10,stop_point:SP_1612,Collège Montrabé,16
+2286329,09:31:00,09:31:10,stop_point:SP_3127,Bel Souleil,17
+2286329,09:33:00,09:33:10,stop_point:SP_587,Beaupuy Mairie,18
+2286330,09:35:00,09:35:10,stop_point:SP_3797,Balma-Gramont,1
+2286330,09:39:00,09:39:10,stop_point:SP_1045,ZI Montredon,2
+2286330,09:40:00,09:40:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286330,09:40:00,09:40:10,stop_point:SP_3278,Le Chapitre,4
+2286330,09:42:00,09:42:10,stop_point:SP_63,Mireille,5
+2286330,09:43:00,09:43:10,stop_point:SP_1305,Mont Pin,6
+2286330,09:44:00,09:44:10,stop_point:SP_2057,Vignobles,7
+2286330,09:44:00,09:44:10,stop_point:SP_1393,Belle Fontaine,8
+2286330,09:45:00,09:45:10,stop_point:SP_1539,Pastel,9
+2286330,09:47:00,09:47:10,stop_point:SP_866,Logis Vieux,10
+2286330,09:48:00,09:48:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286330,09:49:00,09:49:10,stop_point:SP_3880,La Rivière,12
+2286330,09:50:00,09:50:10,stop_point:SP_3515,Montrabé Stade,13
+2286330,09:51:00,09:51:10,stop_point:SP_307,Mistral,14
+2286330,09:53:00,09:53:10,stop_point:SP_368,Borde Haute,15
+2286330,09:55:00,09:55:10,stop_point:SP_1612,Collège Montrabé,16
+2286330,09:56:00,09:56:10,stop_point:SP_3127,Bel Souleil,17
+2286330,09:58:00,09:58:10,stop_point:SP_587,Beaupuy Mairie,18
+2286331,10:10:00,10:10:10,stop_point:SP_3797,Balma-Gramont,1
+2286331,10:14:00,10:14:10,stop_point:SP_1045,ZI Montredon,2
+2286331,10:15:00,10:15:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286331,10:15:00,10:15:10,stop_point:SP_3278,Le Chapitre,4
+2286331,10:17:00,10:17:10,stop_point:SP_63,Mireille,5
+2286331,10:18:00,10:18:10,stop_point:SP_1305,Mont Pin,6
+2286331,10:19:00,10:19:10,stop_point:SP_2057,Vignobles,7
+2286331,10:19:00,10:19:10,stop_point:SP_1393,Belle Fontaine,8
+2286331,10:20:00,10:20:10,stop_point:SP_1539,Pastel,9
+2286331,10:22:00,10:22:10,stop_point:SP_866,Logis Vieux,10
+2286331,10:23:00,10:23:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286331,10:24:00,10:24:10,stop_point:SP_3880,La Rivière,12
+2286331,10:25:00,10:25:10,stop_point:SP_3515,Montrabé Stade,13
+2286331,10:26:00,10:26:10,stop_point:SP_307,Mistral,14
+2286331,10:28:00,10:28:10,stop_point:SP_368,Borde Haute,15
+2286331,10:30:00,10:30:10,stop_point:SP_1612,Collège Montrabé,16
+2286331,10:31:00,10:31:10,stop_point:SP_3127,Bel Souleil,17
+2286331,10:33:00,10:33:10,stop_point:SP_587,Beaupuy Mairie,18
+2286332,10:45:00,10:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286332,10:49:00,10:49:10,stop_point:SP_1045,ZI Montredon,2
+2286332,10:50:00,10:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286332,10:50:00,10:50:10,stop_point:SP_3278,Le Chapitre,4
+2286332,10:52:00,10:52:10,stop_point:SP_63,Mireille,5
+2286332,10:53:00,10:53:10,stop_point:SP_1305,Mont Pin,6
+2286332,10:54:00,10:54:10,stop_point:SP_2057,Vignobles,7
+2286332,10:54:00,10:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286332,10:55:00,10:55:10,stop_point:SP_1539,Pastel,9
+2286332,10:57:00,10:57:10,stop_point:SP_866,Logis Vieux,10
+2286332,10:58:00,10:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286332,10:59:00,10:59:10,stop_point:SP_3880,La Rivière,12
+2286332,11:00:00,11:00:10,stop_point:SP_3515,Montrabé Stade,13
+2286332,11:01:00,11:01:10,stop_point:SP_307,Mistral,14
+2286332,11:03:00,11:03:10,stop_point:SP_368,Borde Haute,15
+2286332,11:05:00,11:05:10,stop_point:SP_1612,Collège Montrabé,16
+2286332,11:06:00,11:06:10,stop_point:SP_3127,Bel Souleil,17
+2286332,11:08:00,11:08:10,stop_point:SP_587,Beaupuy Mairie,18
+2286333,11:00:00,11:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286333,11:04:00,11:04:10,stop_point:SP_1045,ZI Montredon,2
+2286333,11:05:00,11:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286333,11:05:00,11:05:10,stop_point:SP_3278,Le Chapitre,4
+2286333,11:07:00,11:07:10,stop_point:SP_63,Mireille,5
+2286333,11:08:00,11:08:10,stop_point:SP_1305,Mont Pin,6
+2286333,11:09:00,11:09:10,stop_point:SP_2057,Vignobles,7
+2286333,11:09:00,11:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286333,11:10:00,11:10:10,stop_point:SP_1539,Pastel,9
+2286333,11:12:00,11:12:10,stop_point:SP_866,Logis Vieux,10
+2286333,11:13:00,11:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286333,11:14:00,11:14:10,stop_point:SP_3880,La Rivière,12
+2286333,11:15:00,11:15:10,stop_point:SP_3515,Montrabé Stade,13
+2286333,11:16:00,11:16:10,stop_point:SP_307,Mistral,14
+2286333,11:18:00,11:18:10,stop_point:SP_368,Borde Haute,15
+2286333,11:20:00,11:20:10,stop_point:SP_1612,Collège Montrabé,16
+2286333,11:21:00,11:21:10,stop_point:SP_3127,Bel Souleil,17
+2286333,11:23:00,11:23:10,stop_point:SP_587,Beaupuy Mairie,18
+2286334,11:20:00,11:20:10,stop_point:SP_3797,Balma-Gramont,1
+2286334,11:24:00,11:24:10,stop_point:SP_1045,ZI Montredon,2
+2286334,11:25:00,11:25:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286334,11:25:00,11:25:10,stop_point:SP_3278,Le Chapitre,4
+2286334,11:27:00,11:27:10,stop_point:SP_63,Mireille,5
+2286334,11:28:00,11:28:10,stop_point:SP_1305,Mont Pin,6
+2286334,11:29:00,11:29:10,stop_point:SP_2057,Vignobles,7
+2286334,11:29:00,11:29:10,stop_point:SP_1393,Belle Fontaine,8
+2286334,11:30:00,11:30:10,stop_point:SP_1539,Pastel,9
+2286334,11:32:00,11:32:10,stop_point:SP_866,Logis Vieux,10
+2286334,11:33:00,11:33:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286334,11:34:00,11:34:10,stop_point:SP_3880,La Rivière,12
+2286334,11:35:00,11:35:10,stop_point:SP_3515,Montrabé Stade,13
+2286334,11:36:00,11:36:10,stop_point:SP_307,Mistral,14
+2286334,11:38:00,11:38:10,stop_point:SP_368,Borde Haute,15
+2286334,11:40:00,11:40:10,stop_point:SP_1612,Collège Montrabé,16
+2286334,11:41:00,11:41:10,stop_point:SP_3127,Bel Souleil,17
+2286334,11:43:00,11:43:10,stop_point:SP_587,Beaupuy Mairie,18
+2286335,11:55:00,11:55:10,stop_point:SP_3797,Balma-Gramont,1
+2286335,11:59:00,11:59:10,stop_point:SP_1045,ZI Montredon,2
+2286335,12:00:00,12:00:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286335,12:00:00,12:00:10,stop_point:SP_3278,Le Chapitre,4
+2286335,12:02:00,12:02:10,stop_point:SP_63,Mireille,5
+2286335,12:03:00,12:03:10,stop_point:SP_1305,Mont Pin,6
+2286335,12:04:00,12:04:10,stop_point:SP_2057,Vignobles,7
+2286335,12:04:00,12:04:10,stop_point:SP_1393,Belle Fontaine,8
+2286335,12:05:00,12:05:10,stop_point:SP_1539,Pastel,9
+2286335,12:07:00,12:07:10,stop_point:SP_866,Logis Vieux,10
+2286335,12:08:00,12:08:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286335,12:09:00,12:09:10,stop_point:SP_3880,La Rivière,12
+2286335,12:10:00,12:10:10,stop_point:SP_3515,Montrabé Stade,13
+2286335,12:11:00,12:11:10,stop_point:SP_307,Mistral,14
+2286335,12:13:00,12:13:10,stop_point:SP_368,Borde Haute,15
+2286335,12:16:00,12:16:10,stop_point:SP_1612,Collège Montrabé,16
+2286335,12:17:00,12:17:10,stop_point:SP_3127,Bel Souleil,17
+2286335,12:19:00,12:19:10,stop_point:SP_587,Beaupuy Mairie,18
+2286336,12:30:00,12:30:10,stop_point:SP_3797,Balma-Gramont,1
+2286336,12:34:00,12:34:10,stop_point:SP_1045,ZI Montredon,2
+2286336,12:35:00,12:35:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286336,12:35:00,12:35:10,stop_point:SP_3278,Le Chapitre,4
+2286336,12:37:00,12:37:10,stop_point:SP_63,Mireille,5
+2286336,12:38:00,12:38:10,stop_point:SP_1305,Mont Pin,6
+2286336,12:39:00,12:39:10,stop_point:SP_2057,Vignobles,7
+2286336,12:39:00,12:39:10,stop_point:SP_1393,Belle Fontaine,8
+2286336,12:40:00,12:40:10,stop_point:SP_1539,Pastel,9
+2286336,12:42:00,12:42:10,stop_point:SP_866,Logis Vieux,10
+2286336,12:43:00,12:43:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286336,12:44:00,12:44:10,stop_point:SP_3880,La Rivière,12
+2286336,12:45:00,12:45:10,stop_point:SP_3515,Montrabé Stade,13
+2286336,12:46:00,12:46:10,stop_point:SP_307,Mistral,14
+2286336,12:48:00,12:48:10,stop_point:SP_368,Borde Haute,15
+2286336,12:51:00,12:51:10,stop_point:SP_1612,Collège Montrabé,16
+2286336,12:52:00,12:52:10,stop_point:SP_3127,Bel Souleil,17
+2286336,12:54:00,12:54:10,stop_point:SP_587,Beaupuy Mairie,18
+2286337,13:15:00,13:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286337,13:19:00,13:19:10,stop_point:SP_1045,ZI Montredon,2
+2286337,13:20:00,13:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286337,13:20:00,13:20:10,stop_point:SP_3278,Le Chapitre,4
+2286337,13:22:00,13:22:10,stop_point:SP_63,Mireille,5
+2286337,13:23:00,13:23:10,stop_point:SP_1305,Mont Pin,6
+2286337,13:24:00,13:24:10,stop_point:SP_2057,Vignobles,7
+2286337,13:24:00,13:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286337,13:25:00,13:25:10,stop_point:SP_1539,Pastel,9
+2286337,13:27:00,13:27:10,stop_point:SP_866,Logis Vieux,10
+2286337,13:28:00,13:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286337,13:29:00,13:29:10,stop_point:SP_3880,La Rivière,12
+2286337,13:30:00,13:30:10,stop_point:SP_3515,Montrabé Stade,13
+2286337,13:31:00,13:31:10,stop_point:SP_307,Mistral,14
+2286337,13:33:00,13:33:10,stop_point:SP_368,Borde Haute,15
+2286337,13:36:00,13:36:10,stop_point:SP_1612,Collège Montrabé,16
+2286337,13:37:00,13:37:10,stop_point:SP_3127,Bel Souleil,17
+2286337,13:39:00,13:39:10,stop_point:SP_587,Beaupuy Mairie,18
+2286338,14:00:00,14:00:10,stop_point:SP_3797,Balma-Gramont,1
+2286338,14:04:00,14:04:10,stop_point:SP_1045,ZI Montredon,2
+2286338,14:05:00,14:05:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286338,14:05:00,14:05:10,stop_point:SP_3278,Le Chapitre,4
+2286338,14:07:00,14:07:10,stop_point:SP_63,Mireille,5
+2286338,14:08:00,14:08:10,stop_point:SP_1305,Mont Pin,6
+2286338,14:09:00,14:09:10,stop_point:SP_2057,Vignobles,7
+2286338,14:09:00,14:09:10,stop_point:SP_1393,Belle Fontaine,8
+2286338,14:10:00,14:10:10,stop_point:SP_1539,Pastel,9
+2286338,14:12:00,14:12:10,stop_point:SP_866,Logis Vieux,10
+2286338,14:13:00,14:13:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286338,14:14:00,14:14:10,stop_point:SP_3880,La Rivière,12
+2286338,14:15:00,14:15:10,stop_point:SP_3515,Montrabé Stade,13
+2286338,14:16:00,14:16:10,stop_point:SP_307,Mistral,14
+2286338,14:18:00,14:18:10,stop_point:SP_368,Borde Haute,15
+2286338,14:21:00,14:21:10,stop_point:SP_1612,Collège Montrabé,16
+2286338,14:22:00,14:22:10,stop_point:SP_3127,Bel Souleil,17
+2286338,14:24:00,14:24:10,stop_point:SP_587,Beaupuy Mairie,18
+2286339,14:45:00,14:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286339,14:49:00,14:49:10,stop_point:SP_1045,ZI Montredon,2
+2286339,14:50:00,14:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286339,14:50:00,14:50:10,stop_point:SP_3278,Le Chapitre,4
+2286339,14:52:00,14:52:10,stop_point:SP_63,Mireille,5
+2286339,14:53:00,14:53:10,stop_point:SP_1305,Mont Pin,6
+2286339,14:54:00,14:54:10,stop_point:SP_2057,Vignobles,7
+2286339,14:54:00,14:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286339,14:55:00,14:55:10,stop_point:SP_1539,Pastel,9
+2286339,14:57:00,14:57:10,stop_point:SP_866,Logis Vieux,10
+2286339,14:58:00,14:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286339,14:59:00,14:59:10,stop_point:SP_3880,La Rivière,12
+2286339,15:00:00,15:00:10,stop_point:SP_3515,Montrabé Stade,13
+2286339,15:01:00,15:01:10,stop_point:SP_307,Mistral,14
+2286339,15:03:00,15:03:10,stop_point:SP_368,Borde Haute,15
+2286339,15:06:00,15:06:10,stop_point:SP_1612,Collège Montrabé,16
+2286339,15:07:00,15:07:10,stop_point:SP_3127,Bel Souleil,17
+2286339,15:09:00,15:09:10,stop_point:SP_587,Beaupuy Mairie,18
+2286340,15:15:00,15:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286340,15:19:00,15:19:10,stop_point:SP_1045,ZI Montredon,2
+2286340,15:20:00,15:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286340,15:20:00,15:20:10,stop_point:SP_3278,Le Chapitre,4
+2286340,15:22:00,15:22:10,stop_point:SP_63,Mireille,5
+2286340,15:23:00,15:23:10,stop_point:SP_1305,Mont Pin,6
+2286340,15:24:00,15:24:10,stop_point:SP_2057,Vignobles,7
+2286340,15:24:00,15:24:10,stop_point:SP_1393,Belle Fontaine,8
+2286340,15:25:00,15:25:10,stop_point:SP_1539,Pastel,9
+2286340,15:27:00,15:27:10,stop_point:SP_866,Logis Vieux,10
+2286340,15:28:00,15:28:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286340,15:29:00,15:29:10,stop_point:SP_3880,La Rivière,12
+2286340,15:30:00,15:30:10,stop_point:SP_3515,Montrabé Stade,13
+2286340,15:31:00,15:31:10,stop_point:SP_307,Mistral,14
+2286340,15:33:00,15:33:10,stop_point:SP_368,Borde Haute,15
+2286340,15:36:00,15:36:10,stop_point:SP_1612,Collège Montrabé,16
+2286340,15:37:00,15:37:10,stop_point:SP_3127,Bel Souleil,17
+2286340,15:39:00,15:39:10,stop_point:SP_587,Beaupuy Mairie,18
+2286341,15:50:00,15:50:10,stop_point:SP_3797,Balma-Gramont,1
+2286341,15:54:00,15:54:10,stop_point:SP_1045,ZI Montredon,2
+2286341,15:55:00,15:55:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286341,15:55:00,15:55:10,stop_point:SP_3278,Le Chapitre,4
+2286341,15:57:00,15:57:10,stop_point:SP_63,Mireille,5
+2286341,15:58:00,15:58:10,stop_point:SP_1305,Mont Pin,6
+2286341,15:59:00,15:59:10,stop_point:SP_2057,Vignobles,7
+2286341,15:59:00,15:59:10,stop_point:SP_1393,Belle Fontaine,8
+2286341,16:00:00,16:00:10,stop_point:SP_1539,Pastel,9
+2286341,16:02:00,16:02:10,stop_point:SP_866,Logis Vieux,10
+2286341,16:03:00,16:03:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286341,16:04:00,16:04:10,stop_point:SP_3880,La Rivière,12
+2286341,16:05:00,16:05:10,stop_point:SP_3515,Montrabé Stade,13
+2286341,16:06:00,16:06:10,stop_point:SP_307,Mistral,14
+2286341,16:08:00,16:08:10,stop_point:SP_368,Borde Haute,15
+2286341,16:11:00,16:11:10,stop_point:SP_1612,Collège Montrabé,16
+2286341,16:12:00,16:12:10,stop_point:SP_3127,Bel Souleil,17
+2286341,16:14:00,16:14:10,stop_point:SP_587,Beaupuy Mairie,18
+2286342,16:15:00,16:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286342,16:19:00,16:19:10,stop_point:SP_1045,ZI Montredon,2
+2286342,16:20:00,16:20:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286342,16:21:00,16:21:10,stop_point:SP_3278,Le Chapitre,4
+2286342,16:23:00,16:23:10,stop_point:SP_63,Mireille,5
+2286342,16:24:00,16:24:10,stop_point:SP_1305,Mont Pin,6
+2286342,16:25:00,16:25:10,stop_point:SP_2057,Vignobles,7
+2286342,16:25:00,16:25:10,stop_point:SP_1393,Belle Fontaine,8
+2286342,16:26:00,16:26:10,stop_point:SP_1539,Pastel,9
+2286342,16:28:00,16:28:10,stop_point:SP_866,Logis Vieux,10
+2286342,16:29:00,16:29:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286342,16:30:00,16:30:10,stop_point:SP_3880,La Rivière,12
+2286342,16:31:00,16:31:10,stop_point:SP_3515,Montrabé Stade,13
+2286342,16:32:00,16:32:10,stop_point:SP_307,Mistral,14
+2286342,16:34:00,16:34:10,stop_point:SP_368,Borde Haute,15
+2286342,16:37:00,16:37:10,stop_point:SP_1612,Collège Montrabé,16
+2286342,16:38:00,16:38:10,stop_point:SP_3127,Bel Souleil,17
+2286342,16:40:00,16:40:10,stop_point:SP_587,Beaupuy Mairie,18
+2286343,16:45:00,16:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286343,16:49:00,16:49:10,stop_point:SP_1045,ZI Montredon,2
+2286343,16:50:00,16:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286343,16:51:00,16:51:10,stop_point:SP_3278,Le Chapitre,4
+2286343,16:53:00,16:53:10,stop_point:SP_63,Mireille,5
+2286343,16:54:00,16:54:10,stop_point:SP_1305,Mont Pin,6
+2286343,16:55:00,16:55:10,stop_point:SP_2057,Vignobles,7
+2286343,16:56:00,16:56:10,stop_point:SP_1393,Belle Fontaine,8
+2286343,16:57:00,16:57:10,stop_point:SP_1539,Pastel,9
+2286343,16:59:00,16:59:10,stop_point:SP_866,Logis Vieux,10
+2286343,17:00:00,17:00:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286343,17:01:00,17:01:10,stop_point:SP_3880,La Rivière,12
+2286343,17:02:00,17:02:10,stop_point:SP_3515,Montrabé Stade,13
+2286343,17:03:00,17:03:10,stop_point:SP_307,Mistral,14
+2286343,17:05:00,17:05:10,stop_point:SP_368,Borde Haute,15
+2286343,17:08:00,17:08:10,stop_point:SP_1612,Collège Montrabé,16
+2286343,17:09:00,17:09:10,stop_point:SP_3127,Bel Souleil,17
+2286343,17:11:00,17:11:10,stop_point:SP_587,Beaupuy Mairie,18
+2286344,17:20:00,17:20:10,stop_point:SP_3797,Balma-Gramont,1
+2286344,17:25:00,17:25:10,stop_point:SP_1045,ZI Montredon,2
+2286344,17:26:00,17:26:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286344,17:27:00,17:27:10,stop_point:SP_3278,Le Chapitre,4
+2286344,17:29:00,17:29:10,stop_point:SP_63,Mireille,5
+2286344,17:30:00,17:30:10,stop_point:SP_1305,Mont Pin,6
+2286344,17:31:00,17:31:10,stop_point:SP_2057,Vignobles,7
+2286344,17:32:00,17:32:10,stop_point:SP_1393,Belle Fontaine,8
+2286344,17:33:00,17:33:10,stop_point:SP_1539,Pastel,9
+2286344,17:35:00,17:35:10,stop_point:SP_866,Logis Vieux,10
+2286344,17:36:00,17:36:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286344,17:37:00,17:37:10,stop_point:SP_3880,La Rivière,12
+2286344,17:38:00,17:38:10,stop_point:SP_3515,Montrabé Stade,13
+2286344,17:39:00,17:39:10,stop_point:SP_307,Mistral,14
+2286344,17:41:00,17:41:10,stop_point:SP_368,Borde Haute,15
+2286344,17:44:00,17:44:10,stop_point:SP_1612,Collège Montrabé,16
+2286344,17:45:00,17:45:10,stop_point:SP_3127,Bel Souleil,17
+2286344,17:47:00,17:47:10,stop_point:SP_587,Beaupuy Mairie,18
+2286345,17:45:00,17:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286345,17:50:00,17:50:10,stop_point:SP_1045,ZI Montredon,2
+2286345,17:51:00,17:51:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286345,17:52:00,17:52:10,stop_point:SP_3278,Le Chapitre,4
+2286345,17:55:00,17:55:10,stop_point:SP_63,Mireille,5
+2286345,17:56:00,17:56:10,stop_point:SP_1305,Mont Pin,6
+2286345,17:57:00,17:57:10,stop_point:SP_2057,Vignobles,7
+2286345,17:58:00,17:58:10,stop_point:SP_1393,Belle Fontaine,8
+2286345,17:59:00,17:59:10,stop_point:SP_1539,Pastel,9
+2286345,18:01:00,18:01:10,stop_point:SP_866,Logis Vieux,10
+2286345,18:02:00,18:02:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286345,18:03:00,18:03:10,stop_point:SP_3880,La Rivière,12
+2286345,18:04:00,18:04:10,stop_point:SP_3515,Montrabé Stade,13
+2286345,18:05:00,18:05:10,stop_point:SP_307,Mistral,14
+2286345,18:07:00,18:07:10,stop_point:SP_368,Borde Haute,15
+2286345,18:10:00,18:10:10,stop_point:SP_1612,Collège Montrabé,16
+2286345,18:11:00,18:11:10,stop_point:SP_3127,Bel Souleil,17
+2286345,18:13:00,18:13:10,stop_point:SP_587,Beaupuy Mairie,18
+2286346,18:15:00,18:15:10,stop_point:SP_3797,Balma-Gramont,1
+2286346,18:20:00,18:20:10,stop_point:SP_1045,ZI Montredon,2
+2286346,18:21:00,18:21:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286346,18:22:00,18:22:10,stop_point:SP_3278,Le Chapitre,4
+2286346,18:24:00,18:24:10,stop_point:SP_63,Mireille,5
+2286346,18:25:00,18:25:10,stop_point:SP_1305,Mont Pin,6
+2286346,18:26:00,18:26:10,stop_point:SP_2057,Vignobles,7
+2286346,18:26:00,18:26:10,stop_point:SP_1393,Belle Fontaine,8
+2286346,18:27:00,18:27:10,stop_point:SP_1539,Pastel,9
+2286346,18:29:00,18:29:10,stop_point:SP_866,Logis Vieux,10
+2286346,18:30:00,18:30:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286346,18:31:00,18:31:10,stop_point:SP_3880,La Rivière,12
+2286346,18:32:00,18:32:10,stop_point:SP_3515,Montrabé Stade,13
+2286346,18:33:00,18:33:10,stop_point:SP_307,Mistral,14
+2286346,18:35:00,18:35:10,stop_point:SP_368,Borde Haute,15
+2286346,18:38:00,18:38:10,stop_point:SP_1612,Collège Montrabé,16
+2286346,18:39:00,18:39:10,stop_point:SP_3127,Bel Souleil,17
+2286346,18:41:00,18:41:10,stop_point:SP_587,Beaupuy Mairie,18
+2286347,18:45:00,18:45:10,stop_point:SP_3797,Balma-Gramont,1
+2286347,18:49:00,18:49:10,stop_point:SP_1045,ZI Montredon,2
+2286347,18:50:00,18:50:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286347,18:50:00,18:50:10,stop_point:SP_3278,Le Chapitre,4
+2286347,18:52:00,18:52:10,stop_point:SP_63,Mireille,5
+2286347,18:53:00,18:53:10,stop_point:SP_1305,Mont Pin,6
+2286347,18:54:00,18:54:10,stop_point:SP_2057,Vignobles,7
+2286347,18:54:00,18:54:10,stop_point:SP_1393,Belle Fontaine,8
+2286347,18:55:00,18:55:10,stop_point:SP_1539,Pastel,9
+2286347,18:57:00,18:57:10,stop_point:SP_866,Logis Vieux,10
+2286347,18:58:00,18:58:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286347,18:59:00,18:59:10,stop_point:SP_3880,La Rivière,12
+2286347,19:00:00,19:00:10,stop_point:SP_3515,Montrabé Stade,13
+2286347,19:01:00,19:01:10,stop_point:SP_307,Mistral,14
+2286347,19:03:00,19:03:10,stop_point:SP_368,Borde Haute,15
+2286347,19:06:00,19:06:10,stop_point:SP_1612,Collège Montrabé,16
+2286347,19:07:00,19:07:10,stop_point:SP_3127,Bel Souleil,17
+2286347,19:09:00,19:09:10,stop_point:SP_587,Beaupuy Mairie,18
+2286348,19:12:00,19:12:10,stop_point:SP_3797,Balma-Gramont,1
+2286348,19:16:00,19:16:10,stop_point:SP_1045,ZI Montredon,2
+2286348,19:17:00,19:17:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286348,19:17:00,19:17:10,stop_point:SP_3278,Le Chapitre,4
+2286348,19:19:00,19:19:10,stop_point:SP_63,Mireille,5
+2286348,19:20:00,19:20:10,stop_point:SP_1305,Mont Pin,6
+2286348,19:21:00,19:21:10,stop_point:SP_2057,Vignobles,7
+2286348,19:21:00,19:21:10,stop_point:SP_1393,Belle Fontaine,8
+2286348,19:22:00,19:22:10,stop_point:SP_1539,Pastel,9
+2286348,19:24:00,19:24:10,stop_point:SP_866,Logis Vieux,10
+2286348,19:25:00,19:25:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286348,19:26:00,19:26:10,stop_point:SP_3880,La Rivière,12
+2286348,19:27:00,19:27:10,stop_point:SP_3515,Montrabé Stade,13
+2286348,19:28:00,19:28:10,stop_point:SP_307,Mistral,14
+2286348,19:30:00,19:30:10,stop_point:SP_368,Borde Haute,15
+2286348,19:32:00,19:32:10,stop_point:SP_1612,Collège Montrabé,16
+2286348,19:33:00,19:33:10,stop_point:SP_3127,Bel Souleil,17
+2286348,19:35:00,19:35:10,stop_point:SP_587,Beaupuy Mairie,18
+2286349,19:50:00,19:50:10,stop_point:SP_3797,Balma-Gramont,1
+2286349,19:54:00,19:54:10,stop_point:SP_1045,ZI Montredon,2
+2286349,19:55:00,19:55:10,stop_point:SP_1706,Giratoire Truffaut,3
+2286349,19:55:00,19:55:10,stop_point:SP_3278,Le Chapitre,4
+2286349,19:57:00,19:57:10,stop_point:SP_63,Mireille,5
+2286349,19:58:00,19:58:10,stop_point:SP_1305,Mont Pin,6
+2286349,19:58:00,19:58:10,stop_point:SP_2057,Vignobles,7
+2286349,19:59:00,19:59:10,stop_point:SP_1393,Belle Fontaine,8
+2286349,20:00:00,20:00:10,stop_point:SP_1539,Pastel,9
+2286349,20:01:00,20:01:10,stop_point:SP_866,Logis Vieux,10
+2286349,20:02:00,20:02:10,stop_point:SP_3768,Gare SNCF Montrabé,11
+2286349,20:03:00,20:03:10,stop_point:SP_3880,La Rivière,12
+2286349,20:04:00,20:04:10,stop_point:SP_3515,Montrabé Stade,13
+2286349,20:05:00,20:05:10,stop_point:SP_307,Mistral,14
+2286349,20:07:00,20:07:10,stop_point:SP_368,Borde Haute,15
+2286349,20:09:00,20:09:10,stop_point:SP_1612,Collège Montrabé,16
+2286349,20:10:00,20:10:10,stop_point:SP_3127,Bel Souleil,17
+2286349,20:12:00,20:12:10,stop_point:SP_587,Beaupuy Mairie,18
+2286350,06:10:00,06:10:10,stop_point:SP_587,Beaupuy Mairie,1
+2286350,06:12:00,06:12:10,stop_point:SP_3558,Bel Souleil,2
+2286350,06:14:00,06:14:10,stop_point:SP_820,Collège Montrabé,3
+2286350,06:16:00,06:16:10,stop_point:SP_502,Borde Haute,4
+2286350,06:17:00,06:17:10,stop_point:SP_1208,Mistral,5
+2286350,06:18:00,06:18:10,stop_point:SP_4083,Montrabé Stade,6
+2286350,06:19:00,06:19:10,stop_point:SP_2641,La Rivière,7
+2286350,06:20:00,06:20:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286350,06:21:00,06:21:10,stop_point:SP_1009,Logis Vieux,9
+2286350,06:23:00,06:23:10,stop_point:SP_531,Pastel,10
+2286350,06:24:00,06:24:10,stop_point:SP_19,Belle Fontaine,11
+2286350,06:24:00,06:24:10,stop_point:SP_2894,Vignobles,12
+2286350,06:25:00,06:25:10,stop_point:SP_3338,Mont Pin,13
+2286350,06:26:00,06:26:10,stop_point:SP_2790,Mireille,14
+2286350,06:28:00,06:28:10,stop_point:SP_3384,Le Chapitre,15
+2286350,06:28:00,06:28:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286350,06:29:00,06:29:10,stop_point:SP_2484,ZI Montredon,17
+2286350,06:33:00,06:33:10,stop_point:SP_3797,Balma-Gramont,18
+2286351,06:50:00,06:50:10,stop_point:SP_587,Beaupuy Mairie,1
+2286351,06:53:00,06:53:10,stop_point:SP_3558,Bel Souleil,2
+2286351,06:55:00,06:55:10,stop_point:SP_820,Collège Montrabé,3
+2286351,06:57:00,06:57:10,stop_point:SP_502,Borde Haute,4
+2286351,06:58:00,06:58:10,stop_point:SP_1208,Mistral,5
+2286351,06:59:00,06:59:10,stop_point:SP_4083,Montrabé Stade,6
+2286351,07:00:00,07:00:10,stop_point:SP_2641,La Rivière,7
+2286351,07:02:00,07:02:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286351,07:03:00,07:03:10,stop_point:SP_1009,Logis Vieux,9
+2286351,07:05:00,07:05:10,stop_point:SP_531,Pastel,10
+2286351,07:06:00,07:06:10,stop_point:SP_19,Belle Fontaine,11
+2286351,07:06:00,07:06:10,stop_point:SP_2894,Vignobles,12
+2286351,07:07:00,07:07:10,stop_point:SP_3338,Mont Pin,13
+2286351,07:08:00,07:08:10,stop_point:SP_2790,Mireille,14
+2286351,07:10:00,07:10:10,stop_point:SP_3384,Le Chapitre,15
+2286351,07:11:00,07:11:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286351,07:12:00,07:12:10,stop_point:SP_2484,ZI Montredon,17
+2286351,07:17:00,07:17:10,stop_point:SP_3797,Balma-Gramont,18
+2286352,07:17:00,07:17:10,stop_point:SP_587,Beaupuy Mairie,1
+2286352,07:20:00,07:20:10,stop_point:SP_3558,Bel Souleil,2
+2286352,07:22:00,07:22:10,stop_point:SP_820,Collège Montrabé,3
+2286352,07:24:00,07:24:10,stop_point:SP_502,Borde Haute,4
+2286352,07:25:00,07:25:10,stop_point:SP_1208,Mistral,5
+2286352,07:26:00,07:26:10,stop_point:SP_4083,Montrabé Stade,6
+2286352,07:27:00,07:27:10,stop_point:SP_2641,La Rivière,7
+2286352,07:29:00,07:29:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286352,07:30:00,07:30:10,stop_point:SP_1009,Logis Vieux,9
+2286352,07:32:00,07:32:10,stop_point:SP_531,Pastel,10
+2286352,07:33:00,07:33:10,stop_point:SP_19,Belle Fontaine,11
+2286352,07:33:00,07:33:10,stop_point:SP_2894,Vignobles,12
+2286352,07:34:00,07:34:10,stop_point:SP_3338,Mont Pin,13
+2286352,07:35:00,07:35:10,stop_point:SP_2790,Mireille,14
+2286352,07:37:00,07:37:10,stop_point:SP_3384,Le Chapitre,15
+2286352,07:38:00,07:38:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286352,07:39:00,07:39:10,stop_point:SP_2484,ZI Montredon,17
+2286352,07:44:00,07:44:10,stop_point:SP_3797,Balma-Gramont,18
+2286353,07:22:00,07:22:10,stop_point:SP_587,Beaupuy Mairie,1
+2286353,07:25:00,07:25:10,stop_point:SP_3558,Bel Souleil,2
+2286353,07:27:00,07:27:10,stop_point:SP_820,Collège Montrabé,3
+2286353,07:29:00,07:29:10,stop_point:SP_502,Borde Haute,4
+2286353,07:30:00,07:30:10,stop_point:SP_1208,Mistral,5
+2286353,07:31:00,07:31:10,stop_point:SP_4083,Montrabé Stade,6
+2286353,07:32:00,07:32:10,stop_point:SP_2641,La Rivière,7
+2286353,07:34:00,07:34:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286353,07:35:00,07:35:10,stop_point:SP_1009,Logis Vieux,9
+2286353,07:37:00,07:37:10,stop_point:SP_531,Pastel,10
+2286353,07:38:00,07:38:10,stop_point:SP_19,Belle Fontaine,11
+2286353,07:38:00,07:38:10,stop_point:SP_2894,Vignobles,12
+2286353,07:39:00,07:39:10,stop_point:SP_3338,Mont Pin,13
+2286353,07:40:00,07:40:10,stop_point:SP_2790,Mireille,14
+2286353,07:42:00,07:42:10,stop_point:SP_3384,Le Chapitre,15
+2286353,07:43:00,07:43:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286353,07:44:00,07:44:10,stop_point:SP_2484,ZI Montredon,17
+2286353,07:49:00,07:49:10,stop_point:SP_3797,Balma-Gramont,18
+2286354,07:45:00,07:45:10,stop_point:SP_587,Beaupuy Mairie,1
+2286354,07:48:00,07:48:10,stop_point:SP_3558,Bel Souleil,2
+2286354,07:50:00,07:50:10,stop_point:SP_820,Collège Montrabé,3
+2286354,07:52:00,07:52:10,stop_point:SP_502,Borde Haute,4
+2286354,07:53:00,07:53:10,stop_point:SP_1208,Mistral,5
+2286354,07:54:00,07:54:10,stop_point:SP_4083,Montrabé Stade,6
+2286354,07:55:00,07:55:10,stop_point:SP_2641,La Rivière,7
+2286354,07:57:00,07:57:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286354,07:58:00,07:58:10,stop_point:SP_1009,Logis Vieux,9
+2286354,08:00:00,08:00:10,stop_point:SP_531,Pastel,10
+2286354,08:01:00,08:01:10,stop_point:SP_19,Belle Fontaine,11
+2286354,08:02:00,08:02:10,stop_point:SP_2894,Vignobles,12
+2286354,08:03:00,08:03:10,stop_point:SP_3338,Mont Pin,13
+2286354,08:04:00,08:04:10,stop_point:SP_2790,Mireille,14
+2286354,08:06:00,08:06:10,stop_point:SP_3384,Le Chapitre,15
+2286354,08:07:00,08:07:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286354,08:08:00,08:08:10,stop_point:SP_2484,ZI Montredon,17
+2286354,08:13:00,08:13:10,stop_point:SP_3797,Balma-Gramont,18
+2286355,08:21:00,08:21:10,stop_point:SP_587,Beaupuy Mairie,1
+2286355,08:24:00,08:24:10,stop_point:SP_3558,Bel Souleil,2
+2286355,08:27:00,08:27:10,stop_point:SP_820,Collège Montrabé,3
+2286355,08:29:00,08:29:10,stop_point:SP_502,Borde Haute,4
+2286355,08:31:00,08:31:10,stop_point:SP_1208,Mistral,5
+2286355,08:32:00,08:32:10,stop_point:SP_4083,Montrabé Stade,6
+2286355,08:33:00,08:33:10,stop_point:SP_2641,La Rivière,7
+2286355,08:35:00,08:35:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286355,08:36:00,08:36:10,stop_point:SP_1009,Logis Vieux,9
+2286355,08:38:00,08:38:10,stop_point:SP_531,Pastel,10
+2286355,08:39:00,08:39:10,stop_point:SP_19,Belle Fontaine,11
+2286355,08:40:00,08:40:10,stop_point:SP_2894,Vignobles,12
+2286355,08:41:00,08:41:10,stop_point:SP_3338,Mont Pin,13
+2286355,08:42:00,08:42:10,stop_point:SP_2790,Mireille,14
+2286355,08:44:00,08:44:10,stop_point:SP_3384,Le Chapitre,15
+2286355,08:45:00,08:45:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286355,08:46:00,08:46:10,stop_point:SP_2484,ZI Montredon,17
+2286355,08:51:00,08:51:10,stop_point:SP_3797,Balma-Gramont,18
+2286356,08:51:00,08:51:10,stop_point:SP_587,Beaupuy Mairie,1
+2286356,08:53:00,08:53:10,stop_point:SP_3558,Bel Souleil,2
+2286356,08:55:00,08:55:10,stop_point:SP_820,Collège Montrabé,3
+2286356,08:57:00,08:57:10,stop_point:SP_502,Borde Haute,4
+2286356,08:59:00,08:59:10,stop_point:SP_1208,Mistral,5
+2286356,09:00:00,09:00:10,stop_point:SP_4083,Montrabé Stade,6
+2286356,09:01:00,09:01:10,stop_point:SP_2641,La Rivière,7
+2286356,09:02:00,09:02:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286356,09:03:00,09:03:10,stop_point:SP_1009,Logis Vieux,9
+2286356,09:05:00,09:05:10,stop_point:SP_531,Pastel,10
+2286356,09:06:00,09:06:10,stop_point:SP_19,Belle Fontaine,11
+2286356,09:06:00,09:06:10,stop_point:SP_2894,Vignobles,12
+2286356,09:07:00,09:07:10,stop_point:SP_3338,Mont Pin,13
+2286356,09:08:00,09:08:10,stop_point:SP_2790,Mireille,14
+2286356,09:10:00,09:10:10,stop_point:SP_3384,Le Chapitre,15
+2286356,09:11:00,09:11:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286356,09:12:00,09:12:10,stop_point:SP_2484,ZI Montredon,17
+2286356,09:16:00,09:16:10,stop_point:SP_3797,Balma-Gramont,18
+2286357,09:21:00,09:21:10,stop_point:SP_587,Beaupuy Mairie,1
+2286357,09:23:00,09:23:10,stop_point:SP_3558,Bel Souleil,2
+2286357,09:25:00,09:25:10,stop_point:SP_820,Collège Montrabé,3
+2286357,09:27:00,09:27:10,stop_point:SP_502,Borde Haute,4
+2286357,09:29:00,09:29:10,stop_point:SP_1208,Mistral,5
+2286357,09:30:00,09:30:10,stop_point:SP_4083,Montrabé Stade,6
+2286357,09:31:00,09:31:10,stop_point:SP_2641,La Rivière,7
+2286357,09:32:00,09:32:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286357,09:33:00,09:33:10,stop_point:SP_1009,Logis Vieux,9
+2286357,09:35:00,09:35:10,stop_point:SP_531,Pastel,10
+2286357,09:36:00,09:36:10,stop_point:SP_19,Belle Fontaine,11
+2286357,09:36:00,09:36:10,stop_point:SP_2894,Vignobles,12
+2286357,09:37:00,09:37:10,stop_point:SP_3338,Mont Pin,13
+2286357,09:38:00,09:38:10,stop_point:SP_2790,Mireille,14
+2286357,09:40:00,09:40:10,stop_point:SP_3384,Le Chapitre,15
+2286357,09:41:00,09:41:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286357,09:42:00,09:42:10,stop_point:SP_2484,ZI Montredon,17
+2286357,09:46:00,09:46:10,stop_point:SP_3797,Balma-Gramont,18
+2286358,09:50:00,09:50:10,stop_point:SP_587,Beaupuy Mairie,1
+2286358,09:52:00,09:52:10,stop_point:SP_3558,Bel Souleil,2
+2286358,09:54:00,09:54:10,stop_point:SP_820,Collège Montrabé,3
+2286358,09:56:00,09:56:10,stop_point:SP_502,Borde Haute,4
+2286358,09:58:00,09:58:10,stop_point:SP_1208,Mistral,5
+2286358,09:59:00,09:59:10,stop_point:SP_4083,Montrabé Stade,6
+2286358,10:00:00,10:00:10,stop_point:SP_2641,La Rivière,7
+2286358,10:01:00,10:01:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286358,10:02:00,10:02:10,stop_point:SP_1009,Logis Vieux,9
+2286358,10:03:00,10:03:10,stop_point:SP_531,Pastel,10
+2286358,10:04:00,10:04:10,stop_point:SP_19,Belle Fontaine,11
+2286358,10:05:00,10:05:10,stop_point:SP_2894,Vignobles,12
+2286358,10:05:00,10:05:10,stop_point:SP_3338,Mont Pin,13
+2286358,10:06:00,10:06:10,stop_point:SP_2790,Mireille,14
+2286358,10:08:00,10:08:10,stop_point:SP_3384,Le Chapitre,15
+2286358,10:09:00,10:09:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286358,10:10:00,10:10:10,stop_point:SP_2484,ZI Montredon,17
+2286358,10:14:00,10:14:10,stop_point:SP_3797,Balma-Gramont,18
+2286359,10:20:00,10:20:10,stop_point:SP_587,Beaupuy Mairie,1
+2286359,10:22:00,10:22:10,stop_point:SP_3558,Bel Souleil,2
+2286359,10:24:00,10:24:10,stop_point:SP_820,Collège Montrabé,3
+2286359,10:26:00,10:26:10,stop_point:SP_502,Borde Haute,4
+2286359,10:28:00,10:28:10,stop_point:SP_1208,Mistral,5
+2286359,10:29:00,10:29:10,stop_point:SP_4083,Montrabé Stade,6
+2286359,10:30:00,10:30:10,stop_point:SP_2641,La Rivière,7
+2286359,10:31:00,10:31:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286359,10:32:00,10:32:10,stop_point:SP_1009,Logis Vieux,9
+2286359,10:33:00,10:33:10,stop_point:SP_531,Pastel,10
+2286359,10:34:00,10:34:10,stop_point:SP_19,Belle Fontaine,11
+2286359,10:35:00,10:35:10,stop_point:SP_2894,Vignobles,12
+2286359,10:35:00,10:35:10,stop_point:SP_3338,Mont Pin,13
+2286359,10:36:00,10:36:10,stop_point:SP_2790,Mireille,14
+2286359,10:38:00,10:38:10,stop_point:SP_3384,Le Chapitre,15
+2286359,10:39:00,10:39:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286359,10:40:00,10:40:10,stop_point:SP_2484,ZI Montredon,17
+2286359,10:44:00,10:44:10,stop_point:SP_3797,Balma-Gramont,18
+2286360,10:55:00,10:55:10,stop_point:SP_587,Beaupuy Mairie,1
+2286360,10:57:00,10:57:10,stop_point:SP_3558,Bel Souleil,2
+2286360,10:59:00,10:59:10,stop_point:SP_820,Collège Montrabé,3
+2286360,11:01:00,11:01:10,stop_point:SP_502,Borde Haute,4
+2286360,11:03:00,11:03:10,stop_point:SP_1208,Mistral,5
+2286360,11:04:00,11:04:10,stop_point:SP_4083,Montrabé Stade,6
+2286360,11:05:00,11:05:10,stop_point:SP_2641,La Rivière,7
+2286360,11:06:00,11:06:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286360,11:07:00,11:07:10,stop_point:SP_1009,Logis Vieux,9
+2286360,11:08:00,11:08:10,stop_point:SP_531,Pastel,10
+2286360,11:09:00,11:09:10,stop_point:SP_19,Belle Fontaine,11
+2286360,11:10:00,11:10:10,stop_point:SP_2894,Vignobles,12
+2286360,11:10:00,11:10:10,stop_point:SP_3338,Mont Pin,13
+2286360,11:11:00,11:11:10,stop_point:SP_2790,Mireille,14
+2286360,11:13:00,11:13:10,stop_point:SP_3384,Le Chapitre,15
+2286360,11:14:00,11:14:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286360,11:15:00,11:15:10,stop_point:SP_2484,ZI Montredon,17
+2286360,11:19:00,11:19:10,stop_point:SP_3797,Balma-Gramont,18
+2286361,11:15:00,11:15:10,stop_point:SP_587,Beaupuy Mairie,1
+2286361,11:17:00,11:17:10,stop_point:SP_3558,Bel Souleil,2
+2286361,11:19:00,11:19:10,stop_point:SP_820,Collège Montrabé,3
+2286361,11:21:00,11:21:10,stop_point:SP_502,Borde Haute,4
+2286361,11:23:00,11:23:10,stop_point:SP_1208,Mistral,5
+2286361,11:24:00,11:24:10,stop_point:SP_4083,Montrabé Stade,6
+2286361,11:25:00,11:25:10,stop_point:SP_2641,La Rivière,7
+2286361,11:26:00,11:26:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286361,11:27:00,11:27:10,stop_point:SP_1009,Logis Vieux,9
+2286361,11:28:00,11:28:10,stop_point:SP_531,Pastel,10
+2286361,11:29:00,11:29:10,stop_point:SP_19,Belle Fontaine,11
+2286361,11:30:00,11:30:10,stop_point:SP_2894,Vignobles,12
+2286361,11:30:00,11:30:10,stop_point:SP_3338,Mont Pin,13
+2286361,11:31:00,11:31:10,stop_point:SP_2790,Mireille,14
+2286361,11:33:00,11:33:10,stop_point:SP_3384,Le Chapitre,15
+2286361,11:34:00,11:34:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286361,11:35:00,11:35:10,stop_point:SP_2484,ZI Montredon,17
+2286361,11:39:00,11:39:10,stop_point:SP_3797,Balma-Gramont,18
+2286362,11:35:00,11:35:10,stop_point:SP_587,Beaupuy Mairie,1
+2286362,11:37:00,11:37:10,stop_point:SP_3558,Bel Souleil,2
+2286362,11:39:00,11:39:10,stop_point:SP_820,Collège Montrabé,3
+2286362,11:41:00,11:41:10,stop_point:SP_502,Borde Haute,4
+2286362,11:43:00,11:43:10,stop_point:SP_1208,Mistral,5
+2286362,11:44:00,11:44:10,stop_point:SP_4083,Montrabé Stade,6
+2286362,11:45:00,11:45:10,stop_point:SP_2641,La Rivière,7
+2286362,11:46:00,11:46:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286362,11:47:00,11:47:10,stop_point:SP_1009,Logis Vieux,9
+2286362,11:48:00,11:48:10,stop_point:SP_531,Pastel,10
+2286362,11:49:00,11:49:10,stop_point:SP_19,Belle Fontaine,11
+2286362,11:50:00,11:50:10,stop_point:SP_2894,Vignobles,12
+2286362,11:50:00,11:50:10,stop_point:SP_3338,Mont Pin,13
+2286362,11:51:00,11:51:10,stop_point:SP_2790,Mireille,14
+2286362,11:53:00,11:53:10,stop_point:SP_3384,Le Chapitre,15
+2286362,11:54:00,11:54:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286362,11:55:00,11:55:10,stop_point:SP_2484,ZI Montredon,17
+2286362,11:59:00,11:59:10,stop_point:SP_3797,Balma-Gramont,18
+2286363,11:40:00,11:40:10,stop_point:SP_587,Beaupuy Mairie,1
+2286363,11:42:00,11:42:10,stop_point:SP_3558,Bel Souleil,2
+2286363,11:44:00,11:44:10,stop_point:SP_820,Collège Montrabé,3
+2286363,11:46:00,11:46:10,stop_point:SP_502,Borde Haute,4
+2286363,11:48:00,11:48:10,stop_point:SP_1208,Mistral,5
+2286363,11:49:00,11:49:10,stop_point:SP_4083,Montrabé Stade,6
+2286363,11:50:00,11:50:10,stop_point:SP_2641,La Rivière,7
+2286363,11:51:00,11:51:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286363,11:52:00,11:52:10,stop_point:SP_1009,Logis Vieux,9
+2286363,11:53:00,11:53:10,stop_point:SP_531,Pastel,10
+2286363,11:54:00,11:54:10,stop_point:SP_19,Belle Fontaine,11
+2286363,11:55:00,11:55:10,stop_point:SP_2894,Vignobles,12
+2286363,11:55:00,11:55:10,stop_point:SP_3338,Mont Pin,13
+2286363,11:56:00,11:56:10,stop_point:SP_2790,Mireille,14
+2286363,11:58:00,11:58:10,stop_point:SP_3384,Le Chapitre,15
+2286363,11:59:00,11:59:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286363,12:00:00,12:00:10,stop_point:SP_2484,ZI Montredon,17
+2286363,12:04:00,12:04:10,stop_point:SP_3797,Balma-Gramont,18
+2286364,12:05:00,12:05:10,stop_point:SP_587,Beaupuy Mairie,1
+2286364,12:07:00,12:07:10,stop_point:SP_3558,Bel Souleil,2
+2286364,12:09:00,12:09:10,stop_point:SP_820,Collège Montrabé,3
+2286364,12:11:00,12:11:10,stop_point:SP_502,Borde Haute,4
+2286364,12:13:00,12:13:10,stop_point:SP_1208,Mistral,5
+2286364,12:14:00,12:14:10,stop_point:SP_4083,Montrabé Stade,6
+2286364,12:15:00,12:15:10,stop_point:SP_2641,La Rivière,7
+2286364,12:16:00,12:16:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286364,12:17:00,12:17:10,stop_point:SP_1009,Logis Vieux,9
+2286364,12:18:00,12:18:10,stop_point:SP_531,Pastel,10
+2286364,12:19:00,12:19:10,stop_point:SP_19,Belle Fontaine,11
+2286364,12:20:00,12:20:10,stop_point:SP_2894,Vignobles,12
+2286364,12:20:00,12:20:10,stop_point:SP_3338,Mont Pin,13
+2286364,12:21:00,12:21:10,stop_point:SP_2790,Mireille,14
+2286364,12:23:00,12:23:10,stop_point:SP_3384,Le Chapitre,15
+2286364,12:24:00,12:24:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286364,12:25:00,12:25:10,stop_point:SP_2484,ZI Montredon,17
+2286364,12:29:00,12:29:10,stop_point:SP_3797,Balma-Gramont,18
+2286365,12:35:00,12:35:10,stop_point:SP_587,Beaupuy Mairie,1
+2286365,12:37:00,12:37:10,stop_point:SP_3558,Bel Souleil,2
+2286365,12:39:00,12:39:10,stop_point:SP_820,Collège Montrabé,3
+2286365,12:41:00,12:41:10,stop_point:SP_502,Borde Haute,4
+2286365,12:43:00,12:43:10,stop_point:SP_1208,Mistral,5
+2286365,12:44:00,12:44:10,stop_point:SP_4083,Montrabé Stade,6
+2286365,12:45:00,12:45:10,stop_point:SP_2641,La Rivière,7
+2286365,12:46:00,12:46:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286365,12:47:00,12:47:10,stop_point:SP_1009,Logis Vieux,9
+2286365,12:48:00,12:48:10,stop_point:SP_531,Pastel,10
+2286365,12:49:00,12:49:10,stop_point:SP_19,Belle Fontaine,11
+2286365,12:50:00,12:50:10,stop_point:SP_2894,Vignobles,12
+2286365,12:50:00,12:50:10,stop_point:SP_3338,Mont Pin,13
+2286365,12:51:00,12:51:10,stop_point:SP_2790,Mireille,14
+2286365,12:53:00,12:53:10,stop_point:SP_3384,Le Chapitre,15
+2286365,12:54:00,12:54:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286365,12:55:00,12:55:10,stop_point:SP_2484,ZI Montredon,17
+2286365,12:59:00,12:59:10,stop_point:SP_3797,Balma-Gramont,18
+2286366,13:14:00,13:14:10,stop_point:SP_587,Beaupuy Mairie,1
+2286366,13:16:00,13:16:10,stop_point:SP_3558,Bel Souleil,2
+2286366,13:18:00,13:18:10,stop_point:SP_820,Collège Montrabé,3
+2286366,13:20:00,13:20:10,stop_point:SP_502,Borde Haute,4
+2286366,13:22:00,13:22:10,stop_point:SP_1208,Mistral,5
+2286366,13:23:00,13:23:10,stop_point:SP_4083,Montrabé Stade,6
+2286366,13:24:00,13:24:10,stop_point:SP_2641,La Rivière,7
+2286366,13:25:00,13:25:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286366,13:26:00,13:26:10,stop_point:SP_1009,Logis Vieux,9
+2286366,13:27:00,13:27:10,stop_point:SP_531,Pastel,10
+2286366,13:28:00,13:28:10,stop_point:SP_19,Belle Fontaine,11
+2286366,13:29:00,13:29:10,stop_point:SP_2894,Vignobles,12
+2286366,13:29:00,13:29:10,stop_point:SP_3338,Mont Pin,13
+2286366,13:30:00,13:30:10,stop_point:SP_2790,Mireille,14
+2286366,13:32:00,13:32:10,stop_point:SP_3384,Le Chapitre,15
+2286366,13:33:00,13:33:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286366,13:34:00,13:34:10,stop_point:SP_2484,ZI Montredon,17
+2286366,13:38:00,13:38:10,stop_point:SP_3797,Balma-Gramont,18
+2286367,13:55:00,13:55:10,stop_point:SP_587,Beaupuy Mairie,1
+2286367,13:57:00,13:57:10,stop_point:SP_3558,Bel Souleil,2
+2286367,13:59:00,13:59:10,stop_point:SP_820,Collège Montrabé,3
+2286367,14:01:00,14:01:10,stop_point:SP_502,Borde Haute,4
+2286367,14:03:00,14:03:10,stop_point:SP_1208,Mistral,5
+2286367,14:04:00,14:04:10,stop_point:SP_4083,Montrabé Stade,6
+2286367,14:05:00,14:05:10,stop_point:SP_2641,La Rivière,7
+2286367,14:06:00,14:06:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286367,14:07:00,14:07:10,stop_point:SP_1009,Logis Vieux,9
+2286367,14:08:00,14:08:10,stop_point:SP_531,Pastel,10
+2286367,14:09:00,14:09:10,stop_point:SP_19,Belle Fontaine,11
+2286367,14:10:00,14:10:10,stop_point:SP_2894,Vignobles,12
+2286367,14:10:00,14:10:10,stop_point:SP_3338,Mont Pin,13
+2286367,14:11:00,14:11:10,stop_point:SP_2790,Mireille,14
+2286367,14:13:00,14:13:10,stop_point:SP_3384,Le Chapitre,15
+2286367,14:14:00,14:14:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286367,14:15:00,14:15:10,stop_point:SP_2484,ZI Montredon,17
+2286367,14:19:00,14:19:10,stop_point:SP_3797,Balma-Gramont,18
+2286368,14:35:00,14:35:10,stop_point:SP_587,Beaupuy Mairie,1
+2286368,14:37:00,14:37:10,stop_point:SP_3558,Bel Souleil,2
+2286368,14:39:00,14:39:10,stop_point:SP_820,Collège Montrabé,3
+2286368,14:41:00,14:41:10,stop_point:SP_502,Borde Haute,4
+2286368,14:43:00,14:43:10,stop_point:SP_1208,Mistral,5
+2286368,14:44:00,14:44:10,stop_point:SP_4083,Montrabé Stade,6
+2286368,14:45:00,14:45:10,stop_point:SP_2641,La Rivière,7
+2286368,14:46:00,14:46:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286368,14:47:00,14:47:10,stop_point:SP_1009,Logis Vieux,9
+2286368,14:48:00,14:48:10,stop_point:SP_531,Pastel,10
+2286368,14:49:00,14:49:10,stop_point:SP_19,Belle Fontaine,11
+2286368,14:50:00,14:50:10,stop_point:SP_2894,Vignobles,12
+2286368,14:50:00,14:50:10,stop_point:SP_3338,Mont Pin,13
+2286368,14:51:00,14:51:10,stop_point:SP_2790,Mireille,14
+2286368,14:54:00,14:54:10,stop_point:SP_3384,Le Chapitre,15
+2286368,14:55:00,14:55:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286368,14:56:00,14:56:10,stop_point:SP_2484,ZI Montredon,17
+2286368,15:00:00,15:00:10,stop_point:SP_3797,Balma-Gramont,18
+2286369,15:00:00,15:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286369,15:02:00,15:02:10,stop_point:SP_3558,Bel Souleil,2
+2286369,15:04:00,15:04:10,stop_point:SP_820,Collège Montrabé,3
+2286369,15:06:00,15:06:10,stop_point:SP_502,Borde Haute,4
+2286369,15:08:00,15:08:10,stop_point:SP_1208,Mistral,5
+2286369,15:09:00,15:09:10,stop_point:SP_4083,Montrabé Stade,6
+2286369,15:10:00,15:10:10,stop_point:SP_2641,La Rivière,7
+2286369,15:11:00,15:11:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286369,15:12:00,15:12:10,stop_point:SP_1009,Logis Vieux,9
+2286369,15:13:00,15:13:10,stop_point:SP_531,Pastel,10
+2286369,15:14:00,15:14:10,stop_point:SP_19,Belle Fontaine,11
+2286369,15:15:00,15:15:10,stop_point:SP_2894,Vignobles,12
+2286369,15:15:00,15:15:10,stop_point:SP_3338,Mont Pin,13
+2286369,15:16:00,15:16:10,stop_point:SP_2790,Mireille,14
+2286369,15:19:00,15:19:10,stop_point:SP_3384,Le Chapitre,15
+2286369,15:20:00,15:20:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286369,15:21:00,15:21:10,stop_point:SP_2484,ZI Montredon,17
+2286369,15:25:00,15:25:10,stop_point:SP_3797,Balma-Gramont,18
+2286370,15:30:00,15:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286370,15:32:00,15:32:10,stop_point:SP_3558,Bel Souleil,2
+2286370,15:34:00,15:34:10,stop_point:SP_820,Collège Montrabé,3
+2286370,15:36:00,15:36:10,stop_point:SP_502,Borde Haute,4
+2286370,15:38:00,15:38:10,stop_point:SP_1208,Mistral,5
+2286370,15:39:00,15:39:10,stop_point:SP_4083,Montrabé Stade,6
+2286370,15:40:00,15:40:10,stop_point:SP_2641,La Rivière,7
+2286370,15:41:00,15:41:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286370,15:42:00,15:42:10,stop_point:SP_1009,Logis Vieux,9
+2286370,15:43:00,15:43:10,stop_point:SP_531,Pastel,10
+2286370,15:44:00,15:44:10,stop_point:SP_19,Belle Fontaine,11
+2286370,15:45:00,15:45:10,stop_point:SP_2894,Vignobles,12
+2286370,15:45:00,15:45:10,stop_point:SP_3338,Mont Pin,13
+2286370,15:46:00,15:46:10,stop_point:SP_2790,Mireille,14
+2286370,15:49:00,15:49:10,stop_point:SP_3384,Le Chapitre,15
+2286370,15:50:00,15:50:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286370,15:51:00,15:51:10,stop_point:SP_2484,ZI Montredon,17
+2286370,15:55:00,15:55:10,stop_point:SP_3797,Balma-Gramont,18
+2286371,16:10:00,16:10:10,stop_point:SP_587,Beaupuy Mairie,1
+2286371,16:12:00,16:12:10,stop_point:SP_3558,Bel Souleil,2
+2286371,16:14:00,16:14:10,stop_point:SP_820,Collège Montrabé,3
+2286371,16:16:00,16:16:10,stop_point:SP_502,Borde Haute,4
+2286371,16:18:00,16:18:10,stop_point:SP_1208,Mistral,5
+2286371,16:19:00,16:19:10,stop_point:SP_4083,Montrabé Stade,6
+2286371,16:20:00,16:20:10,stop_point:SP_2641,La Rivière,7
+2286371,16:21:00,16:21:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286371,16:22:00,16:22:10,stop_point:SP_1009,Logis Vieux,9
+2286371,16:24:00,16:24:10,stop_point:SP_531,Pastel,10
+2286371,16:25:00,16:25:10,stop_point:SP_19,Belle Fontaine,11
+2286371,16:25:00,16:25:10,stop_point:SP_2894,Vignobles,12
+2286371,16:26:00,16:26:10,stop_point:SP_3338,Mont Pin,13
+2286371,16:27:00,16:27:10,stop_point:SP_2790,Mireille,14
+2286371,16:30:00,16:30:10,stop_point:SP_3384,Le Chapitre,15
+2286371,16:31:00,16:31:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286371,16:32:00,16:32:10,stop_point:SP_2484,ZI Montredon,17
+2286371,16:37:00,16:37:10,stop_point:SP_3797,Balma-Gramont,18
+2286372,16:30:00,16:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286372,16:32:00,16:32:10,stop_point:SP_3558,Bel Souleil,2
+2286372,16:34:00,16:34:10,stop_point:SP_820,Collège Montrabé,3
+2286372,16:36:00,16:36:10,stop_point:SP_502,Borde Haute,4
+2286372,16:38:00,16:38:10,stop_point:SP_1208,Mistral,5
+2286372,16:39:00,16:39:10,stop_point:SP_4083,Montrabé Stade,6
+2286372,16:40:00,16:40:10,stop_point:SP_2641,La Rivière,7
+2286372,16:41:00,16:41:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286372,16:42:00,16:42:10,stop_point:SP_1009,Logis Vieux,9
+2286372,16:44:00,16:44:10,stop_point:SP_531,Pastel,10
+2286372,16:45:00,16:45:10,stop_point:SP_19,Belle Fontaine,11
+2286372,16:45:00,16:45:10,stop_point:SP_2894,Vignobles,12
+2286372,16:46:00,16:46:10,stop_point:SP_3338,Mont Pin,13
+2286372,16:47:00,16:47:10,stop_point:SP_2790,Mireille,14
+2286372,16:50:00,16:50:10,stop_point:SP_3384,Le Chapitre,15
+2286372,16:51:00,16:51:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286372,16:52:00,16:52:10,stop_point:SP_2484,ZI Montredon,17
+2286372,16:57:00,16:57:10,stop_point:SP_3797,Balma-Gramont,18
+2286373,17:05:00,17:05:10,stop_point:SP_587,Beaupuy Mairie,1
+2286373,17:07:00,17:07:10,stop_point:SP_3558,Bel Souleil,2
+2286373,17:09:00,17:09:10,stop_point:SP_820,Collège Montrabé,3
+2286373,17:11:00,17:11:10,stop_point:SP_502,Borde Haute,4
+2286373,17:13:00,17:13:10,stop_point:SP_1208,Mistral,5
+2286373,17:14:00,17:14:10,stop_point:SP_4083,Montrabé Stade,6
+2286373,17:15:00,17:15:10,stop_point:SP_2641,La Rivière,7
+2286373,17:16:00,17:16:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286373,17:17:00,17:17:10,stop_point:SP_1009,Logis Vieux,9
+2286373,17:19:00,17:19:10,stop_point:SP_531,Pastel,10
+2286373,17:20:00,17:20:10,stop_point:SP_19,Belle Fontaine,11
+2286373,17:20:00,17:20:10,stop_point:SP_2894,Vignobles,12
+2286373,17:21:00,17:21:10,stop_point:SP_3338,Mont Pin,13
+2286373,17:22:00,17:22:10,stop_point:SP_2790,Mireille,14
+2286373,17:25:00,17:25:10,stop_point:SP_3384,Le Chapitre,15
+2286373,17:26:00,17:26:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286373,17:27:00,17:27:10,stop_point:SP_2484,ZI Montredon,17
+2286373,17:32:00,17:32:10,stop_point:SP_3797,Balma-Gramont,18
+2286374,17:30:00,17:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286374,17:32:00,17:32:10,stop_point:SP_3558,Bel Souleil,2
+2286374,17:34:00,17:34:10,stop_point:SP_820,Collège Montrabé,3
+2286374,17:36:00,17:36:10,stop_point:SP_502,Borde Haute,4
+2286374,17:38:00,17:38:10,stop_point:SP_1208,Mistral,5
+2286374,17:39:00,17:39:10,stop_point:SP_4083,Montrabé Stade,6
+2286374,17:40:00,17:40:10,stop_point:SP_2641,La Rivière,7
+2286374,17:41:00,17:41:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286374,17:42:00,17:42:10,stop_point:SP_1009,Logis Vieux,9
+2286374,17:44:00,17:44:10,stop_point:SP_531,Pastel,10
+2286374,17:45:00,17:45:10,stop_point:SP_19,Belle Fontaine,11
+2286374,17:45:00,17:45:10,stop_point:SP_2894,Vignobles,12
+2286374,17:46:00,17:46:10,stop_point:SP_3338,Mont Pin,13
+2286374,17:47:00,17:47:10,stop_point:SP_2790,Mireille,14
+2286374,17:50:00,17:50:10,stop_point:SP_3384,Le Chapitre,15
+2286374,17:51:00,17:51:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286374,17:52:00,17:52:10,stop_point:SP_2484,ZI Montredon,17
+2286374,17:57:00,17:57:10,stop_point:SP_3797,Balma-Gramont,18
+2286375,18:00:00,18:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286375,18:02:00,18:02:10,stop_point:SP_3558,Bel Souleil,2
+2286375,18:04:00,18:04:10,stop_point:SP_820,Collège Montrabé,3
+2286375,18:06:00,18:06:10,stop_point:SP_502,Borde Haute,4
+2286375,18:08:00,18:08:10,stop_point:SP_1208,Mistral,5
+2286375,18:09:00,18:09:10,stop_point:SP_4083,Montrabé Stade,6
+2286375,18:10:00,18:10:10,stop_point:SP_2641,La Rivière,7
+2286375,18:11:00,18:11:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286375,18:12:00,18:12:10,stop_point:SP_1009,Logis Vieux,9
+2286375,18:13:00,18:13:10,stop_point:SP_531,Pastel,10
+2286375,18:14:00,18:14:10,stop_point:SP_19,Belle Fontaine,11
+2286375,18:15:00,18:15:10,stop_point:SP_2894,Vignobles,12
+2286375,18:15:00,18:15:10,stop_point:SP_3338,Mont Pin,13
+2286375,18:16:00,18:16:10,stop_point:SP_2790,Mireille,14
+2286375,18:19:00,18:19:10,stop_point:SP_3384,Le Chapitre,15
+2286375,18:20:00,18:20:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286375,18:21:00,18:21:10,stop_point:SP_2484,ZI Montredon,17
+2286375,18:26:00,18:26:10,stop_point:SP_3797,Balma-Gramont,18
+2286376,18:30:00,18:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286376,18:32:00,18:32:10,stop_point:SP_3558,Bel Souleil,2
+2286376,18:34:00,18:34:10,stop_point:SP_820,Collège Montrabé,3
+2286376,18:36:00,18:36:10,stop_point:SP_502,Borde Haute,4
+2286376,18:38:00,18:38:10,stop_point:SP_1208,Mistral,5
+2286376,18:39:00,18:39:10,stop_point:SP_4083,Montrabé Stade,6
+2286376,18:40:00,18:40:10,stop_point:SP_2641,La Rivière,7
+2286376,18:41:00,18:41:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286376,18:42:00,18:42:10,stop_point:SP_1009,Logis Vieux,9
+2286376,18:43:00,18:43:10,stop_point:SP_531,Pastel,10
+2286376,18:44:00,18:44:10,stop_point:SP_19,Belle Fontaine,11
+2286376,18:45:00,18:45:10,stop_point:SP_2894,Vignobles,12
+2286376,18:45:00,18:45:10,stop_point:SP_3338,Mont Pin,13
+2286376,18:46:00,18:46:10,stop_point:SP_2790,Mireille,14
+2286376,18:48:00,18:48:10,stop_point:SP_3384,Le Chapitre,15
+2286376,18:49:00,18:49:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286376,18:50:00,18:50:10,stop_point:SP_2484,ZI Montredon,17
+2286376,18:55:00,18:55:10,stop_point:SP_3797,Balma-Gramont,18
+2286377,19:00:00,19:00:10,stop_point:SP_587,Beaupuy Mairie,1
+2286377,19:02:00,19:02:10,stop_point:SP_3558,Bel Souleil,2
+2286377,19:04:00,19:04:10,stop_point:SP_820,Collège Montrabé,3
+2286377,19:06:00,19:06:10,stop_point:SP_502,Borde Haute,4
+2286377,19:07:00,19:07:10,stop_point:SP_1208,Mistral,5
+2286377,19:08:00,19:08:10,stop_point:SP_4083,Montrabé Stade,6
+2286377,19:09:00,19:09:10,stop_point:SP_2641,La Rivière,7
+2286377,19:10:00,19:10:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286377,19:11:00,19:11:10,stop_point:SP_1009,Logis Vieux,9
+2286377,19:12:00,19:12:10,stop_point:SP_531,Pastel,10
+2286377,19:13:00,19:13:10,stop_point:SP_19,Belle Fontaine,11
+2286377,19:14:00,19:14:10,stop_point:SP_2894,Vignobles,12
+2286377,19:14:00,19:14:10,stop_point:SP_3338,Mont Pin,13
+2286377,19:15:00,19:15:10,stop_point:SP_2790,Mireille,14
+2286377,19:17:00,19:17:10,stop_point:SP_3384,Le Chapitre,15
+2286377,19:18:00,19:18:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286377,19:19:00,19:19:10,stop_point:SP_2484,ZI Montredon,17
+2286377,19:23:00,19:23:10,stop_point:SP_3797,Balma-Gramont,18
+2286378,19:30:00,19:30:10,stop_point:SP_587,Beaupuy Mairie,1
+2286378,19:32:00,19:32:10,stop_point:SP_3558,Bel Souleil,2
+2286378,19:34:00,19:34:10,stop_point:SP_820,Collège Montrabé,3
+2286378,19:36:00,19:36:10,stop_point:SP_502,Borde Haute,4
+2286378,19:37:00,19:37:10,stop_point:SP_1208,Mistral,5
+2286378,19:38:00,19:38:10,stop_point:SP_4083,Montrabé Stade,6
+2286378,19:38:00,19:38:10,stop_point:SP_2641,La Rivière,7
+2286378,19:39:00,19:39:10,stop_point:SP_2822,Gare SNCF Montrabé,8
+2286378,19:40:00,19:40:10,stop_point:SP_1009,Logis Vieux,9
+2286378,19:41:00,19:41:10,stop_point:SP_531,Pastel,10
+2286378,19:42:00,19:42:10,stop_point:SP_19,Belle Fontaine,11
+2286378,19:43:00,19:43:10,stop_point:SP_2894,Vignobles,12
+2286378,19:43:00,19:43:10,stop_point:SP_3338,Mont Pin,13
+2286378,19:44:00,19:44:10,stop_point:SP_2790,Mireille,14
+2286378,19:46:00,19:46:10,stop_point:SP_3384,Le Chapitre,15
+2286378,19:47:00,19:47:10,stop_point:SP_1585,Giratoire Truffaut,16
+2286378,19:48:00,19:48:10,stop_point:SP_2484,ZI Montredon,17
+2286378,19:52:00,19:52:10,stop_point:SP_3797,Balma-Gramont,18
+2286379,17:10:00,17:10:10,stop_point:SP_820,Collège Montrabé,1
+2286379,17:12:00,17:12:10,stop_point:SP_502,Borde Haute,2
+2286379,17:14:00,17:14:10,stop_point:SP_1208,Mistral,3
+2286379,17:15:00,17:15:10,stop_point:SP_4083,Montrabé Stade,4
+2286379,17:16:00,17:16:10,stop_point:SP_2641,La Rivière,5
+2286379,17:17:00,17:17:10,stop_point:SP_2822,Gare SNCF Montrabé,6
+2286379,17:18:00,17:18:10,stop_point:SP_1009,Logis Vieux,7
+2286379,17:20:00,17:20:10,stop_point:SP_531,Pastel,8
+2286379,17:21:00,17:21:10,stop_point:SP_19,Belle Fontaine,9
+2286379,17:21:00,17:21:10,stop_point:SP_2894,Vignobles,10
+2286379,17:22:00,17:22:10,stop_point:SP_3338,Mont Pin,11
+2286379,17:23:00,17:23:10,stop_point:SP_2790,Mireille,12
+2286379,17:26:00,17:26:10,stop_point:SP_3384,Le Chapitre,13
+2286379,17:27:00,17:27:10,stop_point:SP_1585,Giratoire Truffaut,14
+2286379,17:28:00,17:28:10,stop_point:SP_2484,ZI Montredon,15
+2286379,17:33:00,17:33:10,stop_point:SP_3797,Balma-Gramont,16

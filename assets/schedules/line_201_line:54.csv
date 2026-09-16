@@ -1,0 +1,631 @@
+trip_id,arrival_time,departure_time,stop_id,stop_name,stop_sequence
+2295965,08:05:00,08:05:10,stop_point:SP_5600,Malepère,1
+2295965,08:08:00,08:08:10,stop_point:SP_1415,Champs Pinsons,2
+2295965,08:13:00,08:13:10,stop_point:SP_454,Mairie St-Orens,3
+2295965,08:17:00,08:17:10,stop_point:SP_5618,St-Orens Lycée,4
+2295965,08:20:00,08:20:10,stop_point:SP_5672,Route d'Auzielle,5
+2295965,08:22:00,08:22:10,stop_point:SP_2188,Mairie Auzielle,6
+2295965,08:23:00,08:23:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295965,08:25:00,08:25:10,stop_point:SP_845,La Tuilerie,8
+2295965,08:27:00,08:27:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295965,08:28:00,08:28:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295965,08:29:00,08:29:10,stop_point:SP_930,La Tuilerie,11
+2295965,08:31:00,08:31:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295965,08:32:00,08:32:10,stop_point:SP_2093,Mairie Auzielle,13
+2295965,08:33:00,08:33:10,stop_point:SP_158,Crouzet,14
+2295965,08:35:00,08:35:10,stop_point:SP_3596,Le Broc,15
+2295965,08:38:00,08:38:10,stop_point:SP_208,Mairie Odars,16
+2295965,08:39:00,08:39:10,stop_point:SP_3882,Bel Horizon,17
+2295965,08:40:00,08:40:10,stop_point:SP_558,Mairie Odars,18
+2295965,08:40:00,08:40:10,stop_point:SP_4002,Centre,19
+2295965,08:45:00,08:45:10,stop_point:SP_815,Bicinis,20
+2295965,08:46:00,08:46:10,stop_point:SP_2873,Place de la Liberté,21
+2295965,08:46:00,08:46:10,stop_point:SP_2935,La Vierge,22
+2295965,08:48:00,08:48:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295965,08:49:00,08:49:10,stop_point:SP_3155,Tiffaut,24
+2295965,08:50:00,08:50:10,stop_point:SP_585,La Douce,25
+2295965,08:52:00,08:52:10,stop_point:SP_1288,Le Pas du Merle,26
+2295965,08:53:00,08:53:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295965,08:56:00,08:56:10,stop_point:SP_1910,En Blanc,28
+2295965,08:57:00,08:57:10,stop_point:SP_229,Ecole les Varennes,29
+2295965,08:58:00,08:58:10,stop_point:SP_2451,Varennes En Clavié,30
+2295966,12:00:00,12:00:10,stop_point:SP_5600,Malepère,1
+2295966,12:03:00,12:03:10,stop_point:SP_1415,Champs Pinsons,2
+2295966,12:07:00,12:07:10,stop_point:SP_454,Mairie St-Orens,3
+2295966,12:10:00,12:10:10,stop_point:SP_5618,St-Orens Lycée,4
+2295966,12:13:00,12:13:10,stop_point:SP_5672,Route d'Auzielle,5
+2295966,12:15:00,12:15:10,stop_point:SP_2188,Mairie Auzielle,6
+2295966,12:16:00,12:16:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295966,12:17:00,12:17:10,stop_point:SP_845,La Tuilerie,8
+2295966,12:19:00,12:19:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295966,12:20:00,12:20:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295966,12:21:00,12:21:10,stop_point:SP_930,La Tuilerie,11
+2295966,12:22:00,12:22:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295966,12:23:00,12:23:10,stop_point:SP_2093,Mairie Auzielle,13
+2295966,12:24:00,12:24:10,stop_point:SP_158,Crouzet,14
+2295966,12:26:00,12:26:10,stop_point:SP_3596,Le Broc,15
+2295966,12:29:00,12:29:10,stop_point:SP_208,Mairie Odars,16
+2295966,12:30:00,12:30:10,stop_point:SP_3882,Bel Horizon,17
+2295966,12:31:00,12:31:10,stop_point:SP_558,Mairie Odars,18
+2295966,12:31:00,12:31:10,stop_point:SP_4002,Centre,19
+2295966,12:36:00,12:36:10,stop_point:SP_815,Bicinis,20
+2295966,12:37:00,12:37:10,stop_point:SP_2873,Place de la Liberté,21
+2295966,12:37:00,12:37:10,stop_point:SP_2935,La Vierge,22
+2295966,12:39:00,12:39:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295966,12:40:00,12:40:10,stop_point:SP_3155,Tiffaut,24
+2295966,12:41:00,12:41:10,stop_point:SP_585,La Douce,25
+2295966,12:43:00,12:43:10,stop_point:SP_1288,Le Pas du Merle,26
+2295966,12:44:00,12:44:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295966,12:47:00,12:47:10,stop_point:SP_1910,En Blanc,28
+2295966,12:48:00,12:48:10,stop_point:SP_229,Ecole les Varennes,29
+2295966,12:49:00,12:49:10,stop_point:SP_2451,Varennes En Clavié,30
+2295967,12:30:00,12:30:10,stop_point:SP_5600,Malepère,1
+2295967,12:33:00,12:33:10,stop_point:SP_1415,Champs Pinsons,2
+2295967,12:37:00,12:37:10,stop_point:SP_454,Mairie St-Orens,3
+2295967,12:40:00,12:40:10,stop_point:SP_5618,St-Orens Lycée,4
+2295967,12:43:00,12:43:10,stop_point:SP_5672,Route d'Auzielle,5
+2295967,12:45:00,12:45:10,stop_point:SP_2188,Mairie Auzielle,6
+2295967,12:46:00,12:46:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295967,12:47:00,12:47:10,stop_point:SP_845,La Tuilerie,8
+2295967,12:49:00,12:49:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295967,12:50:00,12:50:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295967,12:51:00,12:51:10,stop_point:SP_930,La Tuilerie,11
+2295967,12:52:00,12:52:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295967,12:53:00,12:53:10,stop_point:SP_2093,Mairie Auzielle,13
+2295967,12:54:00,12:54:10,stop_point:SP_158,Crouzet,14
+2295967,12:56:00,12:56:10,stop_point:SP_3596,Le Broc,15
+2295967,12:59:00,12:59:10,stop_point:SP_208,Mairie Odars,16
+2295967,13:00:00,13:00:10,stop_point:SP_3882,Bel Horizon,17
+2295967,13:01:00,13:01:10,stop_point:SP_558,Mairie Odars,18
+2295967,13:01:00,13:01:10,stop_point:SP_4002,Centre,19
+2295967,13:06:00,13:06:10,stop_point:SP_815,Bicinis,20
+2295967,13:07:00,13:07:10,stop_point:SP_2873,Place de la Liberté,21
+2295967,13:07:00,13:07:10,stop_point:SP_2935,La Vierge,22
+2295967,13:09:00,13:09:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295967,13:10:00,13:10:10,stop_point:SP_3155,Tiffaut,24
+2295967,13:11:00,13:11:10,stop_point:SP_585,La Douce,25
+2295967,13:13:00,13:13:10,stop_point:SP_1288,Le Pas du Merle,26
+2295967,13:14:00,13:14:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295967,13:17:00,13:17:10,stop_point:SP_1910,En Blanc,28
+2295967,13:18:00,13:18:10,stop_point:SP_229,Ecole les Varennes,29
+2295967,13:19:00,13:19:10,stop_point:SP_2451,Varennes En Clavié,30
+2295968,13:00:00,13:00:10,stop_point:SP_5600,Malepère,1
+2295968,13:03:00,13:03:10,stop_point:SP_1415,Champs Pinsons,2
+2295968,13:07:00,13:07:10,stop_point:SP_454,Mairie St-Orens,3
+2295968,13:10:00,13:10:10,stop_point:SP_5618,St-Orens Lycée,4
+2295968,13:13:00,13:13:10,stop_point:SP_5672,Route d'Auzielle,5
+2295968,13:15:00,13:15:10,stop_point:SP_2188,Mairie Auzielle,6
+2295968,13:16:00,13:16:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295968,13:17:00,13:17:10,stop_point:SP_845,La Tuilerie,8
+2295968,13:19:00,13:19:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295968,13:20:00,13:20:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295968,13:21:00,13:21:10,stop_point:SP_930,La Tuilerie,11
+2295968,13:22:00,13:22:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295968,13:23:00,13:23:10,stop_point:SP_2093,Mairie Auzielle,13
+2295968,13:24:00,13:24:10,stop_point:SP_158,Crouzet,14
+2295968,13:26:00,13:26:10,stop_point:SP_3596,Le Broc,15
+2295968,13:29:00,13:29:10,stop_point:SP_208,Mairie Odars,16
+2295968,13:30:00,13:30:10,stop_point:SP_3882,Bel Horizon,17
+2295968,13:31:00,13:31:10,stop_point:SP_558,Mairie Odars,18
+2295968,13:31:00,13:31:10,stop_point:SP_4002,Centre,19
+2295968,13:36:00,13:36:10,stop_point:SP_815,Bicinis,20
+2295968,13:37:00,13:37:10,stop_point:SP_2873,Place de la Liberté,21
+2295968,13:37:00,13:37:10,stop_point:SP_2935,La Vierge,22
+2295968,13:39:00,13:39:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295968,13:40:00,13:40:10,stop_point:SP_3155,Tiffaut,24
+2295968,13:41:00,13:41:10,stop_point:SP_585,La Douce,25
+2295968,13:43:00,13:43:10,stop_point:SP_1288,Le Pas du Merle,26
+2295968,13:44:00,13:44:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295968,13:47:00,13:47:10,stop_point:SP_1910,En Blanc,28
+2295968,13:48:00,13:48:10,stop_point:SP_229,Ecole les Varennes,29
+2295968,13:49:00,13:49:10,stop_point:SP_2451,Varennes En Clavié,30
+2295969,15:10:00,15:10:10,stop_point:SP_5600,Malepère,1
+2295969,15:13:00,15:13:10,stop_point:SP_1415,Champs Pinsons,2
+2295969,15:17:00,15:17:10,stop_point:SP_454,Mairie St-Orens,3
+2295969,15:20:00,15:20:10,stop_point:SP_5618,St-Orens Lycée,4
+2295969,15:23:00,15:23:10,stop_point:SP_5672,Route d'Auzielle,5
+2295969,15:25:00,15:25:10,stop_point:SP_2188,Mairie Auzielle,6
+2295969,15:26:00,15:26:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295969,15:27:00,15:27:10,stop_point:SP_845,La Tuilerie,8
+2295969,15:29:00,15:29:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295969,15:30:00,15:30:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295969,15:31:00,15:31:10,stop_point:SP_930,La Tuilerie,11
+2295969,15:32:00,15:32:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295969,15:33:00,15:33:10,stop_point:SP_2093,Mairie Auzielle,13
+2295969,15:34:00,15:34:10,stop_point:SP_158,Crouzet,14
+2295969,15:36:00,15:36:10,stop_point:SP_3596,Le Broc,15
+2295969,15:39:00,15:39:10,stop_point:SP_208,Mairie Odars,16
+2295969,15:40:00,15:40:10,stop_point:SP_3882,Bel Horizon,17
+2295969,15:41:00,15:41:10,stop_point:SP_558,Mairie Odars,18
+2295969,15:41:00,15:41:10,stop_point:SP_4002,Centre,19
+2295969,15:46:00,15:46:10,stop_point:SP_815,Bicinis,20
+2295969,15:47:00,15:47:10,stop_point:SP_2873,Place de la Liberté,21
+2295969,15:47:00,15:47:10,stop_point:SP_2935,La Vierge,22
+2295969,15:49:00,15:49:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295969,15:50:00,15:50:10,stop_point:SP_3155,Tiffaut,24
+2295969,15:51:00,15:51:10,stop_point:SP_585,La Douce,25
+2295969,15:53:00,15:53:10,stop_point:SP_1288,Le Pas du Merle,26
+2295969,15:54:00,15:54:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295969,15:57:00,15:57:10,stop_point:SP_1910,En Blanc,28
+2295969,15:58:00,15:58:10,stop_point:SP_229,Ecole les Varennes,29
+2295969,15:59:00,15:59:10,stop_point:SP_2451,Varennes En Clavié,30
+2295970,16:00:00,16:00:10,stop_point:SP_5600,Malepère,1
+2295970,16:03:00,16:03:10,stop_point:SP_1415,Champs Pinsons,2
+2295970,16:07:00,16:07:10,stop_point:SP_454,Mairie St-Orens,3
+2295970,16:10:00,16:10:10,stop_point:SP_5618,St-Orens Lycée,4
+2295970,16:13:00,16:13:10,stop_point:SP_5672,Route d'Auzielle,5
+2295970,16:15:00,16:15:10,stop_point:SP_2188,Mairie Auzielle,6
+2295970,16:16:00,16:16:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295970,16:17:00,16:17:10,stop_point:SP_845,La Tuilerie,8
+2295970,16:19:00,16:19:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295970,16:20:00,16:20:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295970,16:21:00,16:21:10,stop_point:SP_930,La Tuilerie,11
+2295970,16:22:00,16:22:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295970,16:23:00,16:23:10,stop_point:SP_2093,Mairie Auzielle,13
+2295970,16:24:00,16:24:10,stop_point:SP_158,Crouzet,14
+2295970,16:26:00,16:26:10,stop_point:SP_3596,Le Broc,15
+2295970,16:29:00,16:29:10,stop_point:SP_208,Mairie Odars,16
+2295970,16:30:00,16:30:10,stop_point:SP_3882,Bel Horizon,17
+2295970,16:31:00,16:31:10,stop_point:SP_558,Mairie Odars,18
+2295970,16:31:00,16:31:10,stop_point:SP_4002,Centre,19
+2295970,16:36:00,16:36:10,stop_point:SP_815,Bicinis,20
+2295970,16:37:00,16:37:10,stop_point:SP_2873,Place de la Liberté,21
+2295970,16:37:00,16:37:10,stop_point:SP_2935,La Vierge,22
+2295970,16:39:00,16:39:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295970,16:40:00,16:40:10,stop_point:SP_3155,Tiffaut,24
+2295970,16:41:00,16:41:10,stop_point:SP_585,La Douce,25
+2295970,16:43:00,16:43:10,stop_point:SP_1288,Le Pas du Merle,26
+2295970,16:44:00,16:44:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295970,16:47:00,16:47:10,stop_point:SP_1910,En Blanc,28
+2295970,16:48:00,16:48:10,stop_point:SP_229,Ecole les Varennes,29
+2295970,16:49:00,16:49:10,stop_point:SP_2451,Varennes En Clavié,30
+2295971,17:05:00,17:05:10,stop_point:SP_5600,Malepère,1
+2295971,17:08:00,17:08:10,stop_point:SP_1415,Champs Pinsons,2
+2295971,17:13:00,17:13:10,stop_point:SP_454,Mairie St-Orens,3
+2295971,17:17:00,17:17:10,stop_point:SP_5618,St-Orens Lycée,4
+2295971,17:20:00,17:20:10,stop_point:SP_5672,Route d'Auzielle,5
+2295971,17:22:00,17:22:10,stop_point:SP_2188,Mairie Auzielle,6
+2295971,17:23:00,17:23:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295971,17:25:00,17:25:10,stop_point:SP_845,La Tuilerie,8
+2295971,17:27:00,17:27:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295971,17:28:00,17:28:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295971,17:29:00,17:29:10,stop_point:SP_930,La Tuilerie,11
+2295971,17:31:00,17:31:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295971,17:32:00,17:32:10,stop_point:SP_2093,Mairie Auzielle,13
+2295971,17:33:00,17:33:10,stop_point:SP_158,Crouzet,14
+2295971,17:35:00,17:35:10,stop_point:SP_3596,Le Broc,15
+2295971,17:38:00,17:38:10,stop_point:SP_208,Mairie Odars,16
+2295971,17:39:00,17:39:10,stop_point:SP_3882,Bel Horizon,17
+2295971,17:40:00,17:40:10,stop_point:SP_558,Mairie Odars,18
+2295971,17:40:00,17:40:10,stop_point:SP_4002,Centre,19
+2295971,17:45:00,17:45:10,stop_point:SP_815,Bicinis,20
+2295971,17:46:00,17:46:10,stop_point:SP_2873,Place de la Liberté,21
+2295971,17:46:00,17:46:10,stop_point:SP_2935,La Vierge,22
+2295971,17:48:00,17:48:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295971,17:49:00,17:49:10,stop_point:SP_3155,Tiffaut,24
+2295971,17:50:00,17:50:10,stop_point:SP_585,La Douce,25
+2295971,17:52:00,17:52:10,stop_point:SP_1288,Le Pas du Merle,26
+2295971,17:53:00,17:53:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295971,17:56:00,17:56:10,stop_point:SP_1910,En Blanc,28
+2295971,17:57:00,17:57:10,stop_point:SP_229,Ecole les Varennes,29
+2295971,17:58:00,17:58:10,stop_point:SP_2451,Varennes En Clavié,30
+2295972,17:30:00,17:30:10,stop_point:SP_5600,Malepère,1
+2295972,17:33:00,17:33:10,stop_point:SP_1415,Champs Pinsons,2
+2295972,17:38:00,17:38:10,stop_point:SP_454,Mairie St-Orens,3
+2295972,17:42:00,17:42:10,stop_point:SP_5618,St-Orens Lycée,4
+2295972,17:45:00,17:45:10,stop_point:SP_5672,Route d'Auzielle,5
+2295972,17:47:00,17:47:10,stop_point:SP_2188,Mairie Auzielle,6
+2295972,17:48:00,17:48:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295972,17:50:00,17:50:10,stop_point:SP_845,La Tuilerie,8
+2295972,17:52:00,17:52:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295972,17:53:00,17:53:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295972,17:54:00,17:54:10,stop_point:SP_930,La Tuilerie,11
+2295972,17:56:00,17:56:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295972,17:57:00,17:57:10,stop_point:SP_2093,Mairie Auzielle,13
+2295972,17:58:00,17:58:10,stop_point:SP_158,Crouzet,14
+2295972,18:00:00,18:00:10,stop_point:SP_3596,Le Broc,15
+2295972,18:03:00,18:03:10,stop_point:SP_208,Mairie Odars,16
+2295972,18:04:00,18:04:10,stop_point:SP_3882,Bel Horizon,17
+2295972,18:05:00,18:05:10,stop_point:SP_558,Mairie Odars,18
+2295972,18:05:00,18:05:10,stop_point:SP_4002,Centre,19
+2295972,18:10:00,18:10:10,stop_point:SP_815,Bicinis,20
+2295972,18:11:00,18:11:10,stop_point:SP_2873,Place de la Liberté,21
+2295972,18:11:00,18:11:10,stop_point:SP_2935,La Vierge,22
+2295972,18:13:00,18:13:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295972,18:14:00,18:14:10,stop_point:SP_3155,Tiffaut,24
+2295972,18:15:00,18:15:10,stop_point:SP_585,La Douce,25
+2295972,18:17:00,18:17:10,stop_point:SP_1288,Le Pas du Merle,26
+2295972,18:18:00,18:18:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295972,18:21:00,18:21:10,stop_point:SP_1910,En Blanc,28
+2295972,18:22:00,18:22:10,stop_point:SP_229,Ecole les Varennes,29
+2295972,18:23:00,18:23:10,stop_point:SP_2451,Varennes En Clavié,30
+2295973,18:10:00,18:10:10,stop_point:SP_5600,Malepère,1
+2295973,18:13:00,18:13:10,stop_point:SP_1415,Champs Pinsons,2
+2295973,18:18:00,18:18:10,stop_point:SP_454,Mairie St-Orens,3
+2295973,18:22:00,18:22:10,stop_point:SP_5618,St-Orens Lycée,4
+2295973,18:25:00,18:25:10,stop_point:SP_5672,Route d'Auzielle,5
+2295973,18:27:00,18:27:10,stop_point:SP_2188,Mairie Auzielle,6
+2295973,18:28:00,18:28:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295973,18:30:00,18:30:10,stop_point:SP_845,La Tuilerie,8
+2295973,18:32:00,18:32:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295973,18:33:00,18:33:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295973,18:34:00,18:34:10,stop_point:SP_930,La Tuilerie,11
+2295973,18:36:00,18:36:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295973,18:37:00,18:37:10,stop_point:SP_2093,Mairie Auzielle,13
+2295973,18:38:00,18:38:10,stop_point:SP_158,Crouzet,14
+2295973,18:40:00,18:40:10,stop_point:SP_3596,Le Broc,15
+2295973,18:43:00,18:43:10,stop_point:SP_208,Mairie Odars,16
+2295973,18:44:00,18:44:10,stop_point:SP_3882,Bel Horizon,17
+2295973,18:45:00,18:45:10,stop_point:SP_558,Mairie Odars,18
+2295973,18:45:00,18:45:10,stop_point:SP_4002,Centre,19
+2295973,18:50:00,18:50:10,stop_point:SP_815,Bicinis,20
+2295973,18:51:00,18:51:10,stop_point:SP_2873,Place de la Liberté,21
+2295973,18:51:00,18:51:10,stop_point:SP_2935,La Vierge,22
+2295973,18:53:00,18:53:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295973,18:54:00,18:54:10,stop_point:SP_3155,Tiffaut,24
+2295973,18:55:00,18:55:10,stop_point:SP_585,La Douce,25
+2295973,18:57:00,18:57:10,stop_point:SP_1288,Le Pas du Merle,26
+2295973,18:58:00,18:58:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295973,19:01:00,19:01:10,stop_point:SP_1910,En Blanc,28
+2295973,19:02:00,19:02:10,stop_point:SP_229,Ecole les Varennes,29
+2295973,19:03:00,19:03:10,stop_point:SP_2451,Varennes En Clavié,30
+2295974,18:35:00,18:35:10,stop_point:SP_5600,Malepère,1
+2295974,18:38:00,18:38:10,stop_point:SP_1415,Champs Pinsons,2
+2295974,18:43:00,18:43:10,stop_point:SP_454,Mairie St-Orens,3
+2295974,18:47:00,18:47:10,stop_point:SP_5618,St-Orens Lycée,4
+2295974,18:50:00,18:50:10,stop_point:SP_5672,Route d'Auzielle,5
+2295974,18:52:00,18:52:10,stop_point:SP_2188,Mairie Auzielle,6
+2295974,18:53:00,18:53:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295974,18:55:00,18:55:10,stop_point:SP_845,La Tuilerie,8
+2295974,18:57:00,18:57:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295974,18:58:00,18:58:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295974,18:59:00,18:59:10,stop_point:SP_930,La Tuilerie,11
+2295974,19:01:00,19:01:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295974,19:02:00,19:02:10,stop_point:SP_2093,Mairie Auzielle,13
+2295974,19:03:00,19:03:10,stop_point:SP_158,Crouzet,14
+2295974,19:05:00,19:05:10,stop_point:SP_3596,Le Broc,15
+2295974,19:08:00,19:08:10,stop_point:SP_208,Mairie Odars,16
+2295974,19:09:00,19:09:10,stop_point:SP_3882,Bel Horizon,17
+2295974,19:10:00,19:10:10,stop_point:SP_558,Mairie Odars,18
+2295974,19:10:00,19:10:10,stop_point:SP_4002,Centre,19
+2295974,19:15:00,19:15:10,stop_point:SP_815,Bicinis,20
+2295974,19:16:00,19:16:10,stop_point:SP_2873,Place de la Liberté,21
+2295974,19:16:00,19:16:10,stop_point:SP_2935,La Vierge,22
+2295974,19:18:00,19:18:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295974,19:19:00,19:19:10,stop_point:SP_3155,Tiffaut,24
+2295974,19:20:00,19:20:10,stop_point:SP_585,La Douce,25
+2295974,19:22:00,19:22:10,stop_point:SP_1288,Le Pas du Merle,26
+2295974,19:23:00,19:23:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295974,19:26:00,19:26:10,stop_point:SP_1910,En Blanc,28
+2295974,19:27:00,19:27:10,stop_point:SP_229,Ecole les Varennes,29
+2295974,19:28:00,19:28:10,stop_point:SP_2451,Varennes En Clavié,30
+2295975,19:05:00,19:05:10,stop_point:SP_5600,Malepère,1
+2295975,19:08:00,19:08:10,stop_point:SP_1415,Champs Pinsons,2
+2295975,19:12:00,19:12:10,stop_point:SP_454,Mairie St-Orens,3
+2295975,19:15:00,19:15:10,stop_point:SP_5618,St-Orens Lycée,4
+2295975,19:18:00,19:18:10,stop_point:SP_5672,Route d'Auzielle,5
+2295975,19:20:00,19:20:10,stop_point:SP_2188,Mairie Auzielle,6
+2295975,19:21:00,19:21:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295975,19:22:00,19:22:10,stop_point:SP_845,La Tuilerie,8
+2295975,19:24:00,19:24:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295975,19:25:00,19:25:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295975,19:26:00,19:26:10,stop_point:SP_930,La Tuilerie,11
+2295975,19:27:00,19:27:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295975,19:28:00,19:28:10,stop_point:SP_2093,Mairie Auzielle,13
+2295975,19:29:00,19:29:10,stop_point:SP_158,Crouzet,14
+2295975,19:31:00,19:31:10,stop_point:SP_3596,Le Broc,15
+2295975,19:34:00,19:34:10,stop_point:SP_208,Mairie Odars,16
+2295975,19:35:00,19:35:10,stop_point:SP_3882,Bel Horizon,17
+2295975,19:36:00,19:36:10,stop_point:SP_558,Mairie Odars,18
+2295975,19:36:00,19:36:10,stop_point:SP_4002,Centre,19
+2295975,19:41:00,19:41:10,stop_point:SP_815,Bicinis,20
+2295975,19:42:00,19:42:10,stop_point:SP_2873,Place de la Liberté,21
+2295975,19:42:00,19:42:10,stop_point:SP_2935,La Vierge,22
+2295975,19:44:00,19:44:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295975,19:45:00,19:45:10,stop_point:SP_3155,Tiffaut,24
+2295975,19:46:00,19:46:10,stop_point:SP_585,La Douce,25
+2295975,19:48:00,19:48:10,stop_point:SP_1288,Le Pas du Merle,26
+2295975,19:49:00,19:49:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295975,19:52:00,19:52:10,stop_point:SP_1910,En Blanc,28
+2295975,19:53:00,19:53:10,stop_point:SP_229,Ecole les Varennes,29
+2295975,19:54:00,19:54:10,stop_point:SP_2451,Varennes En Clavié,30
+2295976,20:00:00,20:00:10,stop_point:SP_5600,Malepère,1
+2295976,20:03:00,20:03:10,stop_point:SP_1415,Champs Pinsons,2
+2295976,20:07:00,20:07:10,stop_point:SP_454,Mairie St-Orens,3
+2295976,20:10:00,20:10:10,stop_point:SP_5618,St-Orens Lycée,4
+2295976,20:13:00,20:13:10,stop_point:SP_5672,Route d'Auzielle,5
+2295976,20:15:00,20:15:10,stop_point:SP_2188,Mairie Auzielle,6
+2295976,20:16:00,20:16:10,stop_point:SP_3182,Complexe sportif Nambours,7
+2295976,20:17:00,20:17:10,stop_point:SP_845,La Tuilerie,8
+2295976,20:19:00,20:19:10,stop_point:SP_3896,Mairie Lauzerville,9
+2295976,20:20:00,20:20:10,stop_point:SP_2282,Eglise Lauzerville,10
+2295976,20:21:00,20:21:10,stop_point:SP_930,La Tuilerie,11
+2295976,20:22:00,20:22:10,stop_point:SP_1587,Complexe sportif Nambours,12
+2295976,20:23:00,20:23:10,stop_point:SP_2093,Mairie Auzielle,13
+2295976,20:24:00,20:24:10,stop_point:SP_158,Crouzet,14
+2295976,20:26:00,20:26:10,stop_point:SP_3596,Le Broc,15
+2295976,20:29:00,20:29:10,stop_point:SP_208,Mairie Odars,16
+2295976,20:30:00,20:30:10,stop_point:SP_3882,Bel Horizon,17
+2295976,20:31:00,20:31:10,stop_point:SP_558,Mairie Odars,18
+2295976,20:31:00,20:31:10,stop_point:SP_4002,Centre,19
+2295976,20:36:00,20:36:10,stop_point:SP_815,Bicinis,20
+2295976,20:37:00,20:37:10,stop_point:SP_2873,Place de la Liberté,21
+2295976,20:37:00,20:37:10,stop_point:SP_2935,La Vierge,22
+2295976,20:39:00,20:39:10,stop_point:SP_3260,Cimetière Fourquevaux,23
+2295976,20:40:00,20:40:10,stop_point:SP_3155,Tiffaut,24
+2295976,20:41:00,20:41:10,stop_point:SP_585,La Douce,25
+2295976,20:43:00,20:43:10,stop_point:SP_1288,Le Pas du Merle,26
+2295976,20:44:00,20:44:10,stop_point:SP_509,Mairie Labastide Beauvoir,27
+2295976,20:47:00,20:47:10,stop_point:SP_1910,En Blanc,28
+2295976,20:48:00,20:48:10,stop_point:SP_229,Ecole les Varennes,29
+2295976,20:49:00,20:49:10,stop_point:SP_2451,Varennes En Clavié,30
+2295977,06:20:00,06:20:10,stop_point:SP_2451,Varennes En Clavié,1
+2295977,06:21:00,06:21:10,stop_point:SP_2908,Ecole les Varennes,2
+2295977,06:22:00,06:22:10,stop_point:SP_2788,En Blanc,3
+2295977,06:25:00,06:25:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295977,06:26:00,06:26:10,stop_point:SP_174,Le Pas du Merle,5
+2295977,06:28:00,06:28:10,stop_point:SP_2010,La Douce,6
+2295977,06:30:00,06:30:10,stop_point:SP_1849,Tiffaut,7
+2295977,06:31:00,06:31:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295977,06:33:00,06:33:10,stop_point:SP_1340,La Vierge,9
+2295977,06:33:00,06:33:10,stop_point:SP_2624,Place de la Liberté,10
+2295977,06:34:00,06:34:10,stop_point:SP_361,Bicinis,11
+2295977,06:39:00,06:39:10,stop_point:SP_2260,Centre,12
+2295977,06:39:00,06:39:10,stop_point:SP_208,Mairie Odars,13
+2295977,06:40:00,06:40:10,stop_point:SP_3882,Bel Horizon,14
+2295977,06:40:00,06:40:10,stop_point:SP_558,Mairie Odars,15
+2295977,06:43:00,06:43:10,stop_point:SP_1661,Le Broc,16
+2295977,06:46:00,06:46:10,stop_point:SP_5672,Route d'Auzielle,17
+2295977,06:47:00,06:47:10,stop_point:SP_2188,Mairie Auzielle,18
+2295977,06:48:00,06:48:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295977,06:49:00,06:49:10,stop_point:SP_845,La Tuilerie,20
+2295977,06:50:00,06:50:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295977,06:51:00,06:51:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295977,06:52:00,06:52:10,stop_point:SP_930,La Tuilerie,23
+2295977,06:54:00,06:54:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295977,06:55:00,06:55:10,stop_point:SP_2093,Mairie Auzielle,25
+2295977,06:57:00,06:57:10,stop_point:SP_1799,Crouzet,26
+2295977,06:59:00,06:59:10,stop_point:SP_5620,St-Orens Lycée,27
+2295977,07:03:00,07:03:10,stop_point:SP_2603,Mairie St-Orens,28
+2295977,07:06:00,07:06:10,stop_point:SP_2648,Champs Pinsons,29
+2295977,07:08:00,07:08:10,stop_point:SP_5600,Malepère,30
+2295978,07:00:00,07:00:10,stop_point:SP_2451,Varennes En Clavié,1
+2295978,07:01:00,07:01:10,stop_point:SP_2908,Ecole les Varennes,2
+2295978,07:02:00,07:02:10,stop_point:SP_2788,En Blanc,3
+2295978,07:05:00,07:05:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295978,07:06:00,07:06:10,stop_point:SP_174,Le Pas du Merle,5
+2295978,07:08:00,07:08:10,stop_point:SP_2010,La Douce,6
+2295978,07:10:00,07:10:10,stop_point:SP_1849,Tiffaut,7
+2295978,07:11:00,07:11:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295978,07:13:00,07:13:10,stop_point:SP_1340,La Vierge,9
+2295978,07:13:00,07:13:10,stop_point:SP_2624,Place de la Liberté,10
+2295978,07:14:00,07:14:10,stop_point:SP_361,Bicinis,11
+2295978,07:19:00,07:19:10,stop_point:SP_2260,Centre,12
+2295978,07:19:00,07:19:10,stop_point:SP_208,Mairie Odars,13
+2295978,07:20:00,07:20:10,stop_point:SP_3882,Bel Horizon,14
+2295978,07:20:00,07:20:10,stop_point:SP_558,Mairie Odars,15
+2295978,07:23:00,07:23:10,stop_point:SP_1661,Le Broc,16
+2295978,07:26:00,07:26:10,stop_point:SP_5672,Route d'Auzielle,17
+2295978,07:27:00,07:27:10,stop_point:SP_2188,Mairie Auzielle,18
+2295978,07:28:00,07:28:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295978,07:29:00,07:29:10,stop_point:SP_845,La Tuilerie,20
+2295978,07:31:00,07:31:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295978,07:32:00,07:32:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295978,07:34:00,07:34:10,stop_point:SP_930,La Tuilerie,23
+2295978,07:35:00,07:35:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295978,07:37:00,07:37:10,stop_point:SP_2093,Mairie Auzielle,25
+2295978,07:39:00,07:39:10,stop_point:SP_1799,Crouzet,26
+2295978,07:41:00,07:41:10,stop_point:SP_5620,St-Orens Lycée,27
+2295978,07:46:00,07:46:10,stop_point:SP_2603,Mairie St-Orens,28
+2295978,07:50:00,07:50:10,stop_point:SP_2648,Champs Pinsons,29
+2295978,07:53:00,07:53:10,stop_point:SP_5600,Malepère,30
+2295979,07:45:00,07:45:10,stop_point:SP_2451,Varennes En Clavié,1
+2295979,07:46:00,07:46:10,stop_point:SP_2908,Ecole les Varennes,2
+2295979,07:47:00,07:47:10,stop_point:SP_2788,En Blanc,3
+2295979,07:50:00,07:50:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295979,07:51:00,07:51:10,stop_point:SP_174,Le Pas du Merle,5
+2295979,07:53:00,07:53:10,stop_point:SP_2010,La Douce,6
+2295979,07:55:00,07:55:10,stop_point:SP_1849,Tiffaut,7
+2295979,07:56:00,07:56:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295979,07:58:00,07:58:10,stop_point:SP_1340,La Vierge,9
+2295979,07:58:00,07:58:10,stop_point:SP_2624,Place de la Liberté,10
+2295979,07:59:00,07:59:10,stop_point:SP_361,Bicinis,11
+2295979,08:04:00,08:04:10,stop_point:SP_2260,Centre,12
+2295979,08:04:00,08:04:10,stop_point:SP_208,Mairie Odars,13
+2295979,08:05:00,08:05:10,stop_point:SP_3882,Bel Horizon,14
+2295979,08:05:00,08:05:10,stop_point:SP_558,Mairie Odars,15
+2295979,08:08:00,08:08:10,stop_point:SP_1661,Le Broc,16
+2295979,08:11:00,08:11:10,stop_point:SP_5672,Route d'Auzielle,17
+2295979,08:12:00,08:12:10,stop_point:SP_2188,Mairie Auzielle,18
+2295979,08:13:00,08:13:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295979,08:14:00,08:14:10,stop_point:SP_845,La Tuilerie,20
+2295979,08:16:00,08:16:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295979,08:17:00,08:17:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295979,08:19:00,08:19:10,stop_point:SP_930,La Tuilerie,23
+2295979,08:20:00,08:20:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295979,08:22:00,08:22:10,stop_point:SP_2093,Mairie Auzielle,25
+2295979,08:24:00,08:24:10,stop_point:SP_1799,Crouzet,26
+2295979,08:26:00,08:26:10,stop_point:SP_5620,St-Orens Lycée,27
+2295979,08:31:00,08:31:10,stop_point:SP_2603,Mairie St-Orens,28
+2295979,08:35:00,08:35:10,stop_point:SP_2648,Champs Pinsons,29
+2295979,08:38:00,08:38:10,stop_point:SP_5600,Malepère,30
+2295980,08:15:00,08:15:10,stop_point:SP_2451,Varennes En Clavié,1
+2295980,08:16:00,08:16:10,stop_point:SP_2908,Ecole les Varennes,2
+2295980,08:17:00,08:17:10,stop_point:SP_2788,En Blanc,3
+2295980,08:20:00,08:20:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295980,08:21:00,08:21:10,stop_point:SP_174,Le Pas du Merle,5
+2295980,08:23:00,08:23:10,stop_point:SP_2010,La Douce,6
+2295980,08:25:00,08:25:10,stop_point:SP_1849,Tiffaut,7
+2295980,08:26:00,08:26:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295980,08:28:00,08:28:10,stop_point:SP_1340,La Vierge,9
+2295980,08:28:00,08:28:10,stop_point:SP_2624,Place de la Liberté,10
+2295980,08:29:00,08:29:10,stop_point:SP_361,Bicinis,11
+2295980,08:34:00,08:34:10,stop_point:SP_2260,Centre,12
+2295980,08:34:00,08:34:10,stop_point:SP_208,Mairie Odars,13
+2295980,08:35:00,08:35:10,stop_point:SP_3882,Bel Horizon,14
+2295980,08:35:00,08:35:10,stop_point:SP_558,Mairie Odars,15
+2295980,08:38:00,08:38:10,stop_point:SP_1661,Le Broc,16
+2295980,08:41:00,08:41:10,stop_point:SP_5672,Route d'Auzielle,17
+2295980,08:42:00,08:42:10,stop_point:SP_2188,Mairie Auzielle,18
+2295980,08:43:00,08:43:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295980,08:44:00,08:44:10,stop_point:SP_845,La Tuilerie,20
+2295980,08:46:00,08:46:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295980,08:47:00,08:47:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295980,08:49:00,08:49:10,stop_point:SP_930,La Tuilerie,23
+2295980,08:50:00,08:50:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295980,08:52:00,08:52:10,stop_point:SP_2093,Mairie Auzielle,25
+2295980,08:54:00,08:54:10,stop_point:SP_1799,Crouzet,26
+2295980,08:56:00,08:56:10,stop_point:SP_5620,St-Orens Lycée,27
+2295980,09:01:00,09:01:10,stop_point:SP_2603,Mairie St-Orens,28
+2295980,09:05:00,09:05:10,stop_point:SP_2648,Champs Pinsons,29
+2295980,09:08:00,09:08:10,stop_point:SP_5600,Malepère,30
+2295981,08:55:00,08:55:10,stop_point:SP_2451,Varennes En Clavié,1
+2295981,08:56:00,08:56:10,stop_point:SP_2908,Ecole les Varennes,2
+2295981,08:57:00,08:57:10,stop_point:SP_2788,En Blanc,3
+2295981,09:00:00,09:00:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295981,09:01:00,09:01:10,stop_point:SP_174,Le Pas du Merle,5
+2295981,09:03:00,09:03:10,stop_point:SP_2010,La Douce,6
+2295981,09:05:00,09:05:10,stop_point:SP_1849,Tiffaut,7
+2295981,09:06:00,09:06:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295981,09:08:00,09:08:10,stop_point:SP_1340,La Vierge,9
+2295981,09:08:00,09:08:10,stop_point:SP_2624,Place de la Liberté,10
+2295981,09:09:00,09:09:10,stop_point:SP_361,Bicinis,11
+2295981,09:14:00,09:14:10,stop_point:SP_2260,Centre,12
+2295981,09:14:00,09:14:10,stop_point:SP_208,Mairie Odars,13
+2295981,09:15:00,09:15:10,stop_point:SP_3882,Bel Horizon,14
+2295981,09:15:00,09:15:10,stop_point:SP_558,Mairie Odars,15
+2295981,09:18:00,09:18:10,stop_point:SP_1661,Le Broc,16
+2295981,09:21:00,09:21:10,stop_point:SP_5672,Route d'Auzielle,17
+2295981,09:22:00,09:22:10,stop_point:SP_2188,Mairie Auzielle,18
+2295981,09:23:00,09:23:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295981,09:24:00,09:24:10,stop_point:SP_845,La Tuilerie,20
+2295981,09:26:00,09:26:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295981,09:27:00,09:27:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295981,09:29:00,09:29:10,stop_point:SP_930,La Tuilerie,23
+2295981,09:30:00,09:30:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295981,09:32:00,09:32:10,stop_point:SP_2093,Mairie Auzielle,25
+2295981,09:34:00,09:34:10,stop_point:SP_1799,Crouzet,26
+2295981,09:36:00,09:36:10,stop_point:SP_5620,St-Orens Lycée,27
+2295981,09:41:00,09:41:10,stop_point:SP_2603,Mairie St-Orens,28
+2295981,09:45:00,09:45:10,stop_point:SP_2648,Champs Pinsons,29
+2295981,09:48:00,09:48:10,stop_point:SP_5600,Malepère,30
+2295982,12:45:00,12:45:10,stop_point:SP_2451,Varennes En Clavié,1
+2295982,12:46:00,12:46:10,stop_point:SP_2908,Ecole les Varennes,2
+2295982,12:47:00,12:47:10,stop_point:SP_2788,En Blanc,3
+2295982,12:50:00,12:50:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295982,12:51:00,12:51:10,stop_point:SP_174,Le Pas du Merle,5
+2295982,12:53:00,12:53:10,stop_point:SP_2010,La Douce,6
+2295982,12:55:00,12:55:10,stop_point:SP_1849,Tiffaut,7
+2295982,12:56:00,12:56:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295982,12:58:00,12:58:10,stop_point:SP_1340,La Vierge,9
+2295982,12:58:00,12:58:10,stop_point:SP_2624,Place de la Liberté,10
+2295982,12:59:00,12:59:10,stop_point:SP_361,Bicinis,11
+2295982,13:04:00,13:04:10,stop_point:SP_2260,Centre,12
+2295982,13:04:00,13:04:10,stop_point:SP_208,Mairie Odars,13
+2295982,13:05:00,13:05:10,stop_point:SP_3882,Bel Horizon,14
+2295982,13:05:00,13:05:10,stop_point:SP_558,Mairie Odars,15
+2295982,13:08:00,13:08:10,stop_point:SP_1661,Le Broc,16
+2295982,13:11:00,13:11:10,stop_point:SP_5672,Route d'Auzielle,17
+2295982,13:12:00,13:12:10,stop_point:SP_2188,Mairie Auzielle,18
+2295982,13:13:00,13:13:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295982,13:14:00,13:14:10,stop_point:SP_845,La Tuilerie,20
+2295982,13:15:00,13:15:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295982,13:16:00,13:16:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295982,13:17:00,13:17:10,stop_point:SP_930,La Tuilerie,23
+2295982,13:19:00,13:19:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295982,13:20:00,13:20:10,stop_point:SP_2093,Mairie Auzielle,25
+2295982,13:22:00,13:22:10,stop_point:SP_1799,Crouzet,26
+2295982,13:24:00,13:24:10,stop_point:SP_5620,St-Orens Lycée,27
+2295982,13:28:00,13:28:10,stop_point:SP_2603,Mairie St-Orens,28
+2295982,13:31:00,13:31:10,stop_point:SP_2648,Champs Pinsons,29
+2295982,13:33:00,13:33:10,stop_point:SP_5600,Malepère,30
+2295983,13:20:00,13:20:10,stop_point:SP_2451,Varennes En Clavié,1
+2295983,13:21:00,13:21:10,stop_point:SP_2908,Ecole les Varennes,2
+2295983,13:22:00,13:22:10,stop_point:SP_2788,En Blanc,3
+2295983,13:25:00,13:25:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295983,13:26:00,13:26:10,stop_point:SP_174,Le Pas du Merle,5
+2295983,13:28:00,13:28:10,stop_point:SP_2010,La Douce,6
+2295983,13:30:00,13:30:10,stop_point:SP_1849,Tiffaut,7
+2295983,13:31:00,13:31:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295983,13:33:00,13:33:10,stop_point:SP_1340,La Vierge,9
+2295983,13:33:00,13:33:10,stop_point:SP_2624,Place de la Liberté,10
+2295983,13:34:00,13:34:10,stop_point:SP_361,Bicinis,11
+2295983,13:39:00,13:39:10,stop_point:SP_2260,Centre,12
+2295983,13:39:00,13:39:10,stop_point:SP_208,Mairie Odars,13
+2295983,13:40:00,13:40:10,stop_point:SP_3882,Bel Horizon,14
+2295983,13:40:00,13:40:10,stop_point:SP_558,Mairie Odars,15
+2295983,13:43:00,13:43:10,stop_point:SP_1661,Le Broc,16
+2295983,13:46:00,13:46:10,stop_point:SP_5672,Route d'Auzielle,17
+2295983,13:47:00,13:47:10,stop_point:SP_2188,Mairie Auzielle,18
+2295983,13:48:00,13:48:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295983,13:49:00,13:49:10,stop_point:SP_845,La Tuilerie,20
+2295983,13:50:00,13:50:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295983,13:51:00,13:51:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295983,13:52:00,13:52:10,stop_point:SP_930,La Tuilerie,23
+2295983,13:54:00,13:54:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295983,13:55:00,13:55:10,stop_point:SP_2093,Mairie Auzielle,25
+2295983,13:57:00,13:57:10,stop_point:SP_1799,Crouzet,26
+2295983,13:59:00,13:59:10,stop_point:SP_5620,St-Orens Lycée,27
+2295983,14:03:00,14:03:10,stop_point:SP_2603,Mairie St-Orens,28
+2295983,14:06:00,14:06:10,stop_point:SP_2648,Champs Pinsons,29
+2295983,14:08:00,14:08:10,stop_point:SP_5600,Malepère,30
+2295984,14:30:00,14:30:10,stop_point:SP_2451,Varennes En Clavié,1
+2295984,14:31:00,14:31:10,stop_point:SP_2908,Ecole les Varennes,2
+2295984,14:32:00,14:32:10,stop_point:SP_2788,En Blanc,3
+2295984,14:35:00,14:35:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295984,14:36:00,14:36:10,stop_point:SP_174,Le Pas du Merle,5
+2295984,14:38:00,14:38:10,stop_point:SP_2010,La Douce,6
+2295984,14:40:00,14:40:10,stop_point:SP_1849,Tiffaut,7
+2295984,14:41:00,14:41:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295984,14:43:00,14:43:10,stop_point:SP_1340,La Vierge,9
+2295984,14:43:00,14:43:10,stop_point:SP_2624,Place de la Liberté,10
+2295984,14:44:00,14:44:10,stop_point:SP_361,Bicinis,11
+2295984,14:49:00,14:49:10,stop_point:SP_2260,Centre,12
+2295984,14:49:00,14:49:10,stop_point:SP_208,Mairie Odars,13
+2295984,14:50:00,14:50:10,stop_point:SP_3882,Bel Horizon,14
+2295984,14:50:00,14:50:10,stop_point:SP_558,Mairie Odars,15
+2295984,14:53:00,14:53:10,stop_point:SP_1661,Le Broc,16
+2295984,14:56:00,14:56:10,stop_point:SP_5672,Route d'Auzielle,17
+2295984,14:57:00,14:57:10,stop_point:SP_2188,Mairie Auzielle,18
+2295984,14:58:00,14:58:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295984,14:59:00,14:59:10,stop_point:SP_845,La Tuilerie,20
+2295984,15:00:00,15:00:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295984,15:01:00,15:01:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295984,15:02:00,15:02:10,stop_point:SP_930,La Tuilerie,23
+2295984,15:04:00,15:04:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295984,15:05:00,15:05:10,stop_point:SP_2093,Mairie Auzielle,25
+2295984,15:07:00,15:07:10,stop_point:SP_1799,Crouzet,26
+2295984,15:09:00,15:09:10,stop_point:SP_5620,St-Orens Lycée,27
+2295984,15:13:00,15:13:10,stop_point:SP_2603,Mairie St-Orens,28
+2295984,15:16:00,15:16:10,stop_point:SP_2648,Champs Pinsons,29
+2295984,15:18:00,15:18:10,stop_point:SP_5600,Malepère,30
+2295985,16:05:00,16:05:10,stop_point:SP_2451,Varennes En Clavié,1
+2295985,16:06:00,16:06:10,stop_point:SP_2908,Ecole les Varennes,2
+2295985,16:07:00,16:07:10,stop_point:SP_2788,En Blanc,3
+2295985,16:10:00,16:10:10,stop_point:SP_392,Mairie Labastide Beauvoir,4
+2295985,16:11:00,16:11:10,stop_point:SP_174,Le Pas du Merle,5
+2295985,16:13:00,16:13:10,stop_point:SP_2010,La Douce,6
+2295985,16:15:00,16:15:10,stop_point:SP_1849,Tiffaut,7
+2295985,16:16:00,16:16:10,stop_point:SP_2587,Cimetière Fourquevaux,8
+2295985,16:18:00,16:18:10,stop_point:SP_1340,La Vierge,9
+2295985,16:18:00,16:18:10,stop_point:SP_2624,Place de la Liberté,10
+2295985,16:19:00,16:19:10,stop_point:SP_361,Bicinis,11
+2295985,16:24:00,16:24:10,stop_point:SP_2260,Centre,12
+2295985,16:24:00,16:24:10,stop_point:SP_208,Mairie Odars,13
+2295985,16:25:00,16:25:10,stop_point:SP_3882,Bel Horizon,14
+2295985,16:25:00,16:25:10,stop_point:SP_558,Mairie Odars,15
+2295985,16:28:00,16:28:10,stop_point:SP_1661,Le Broc,16
+2295985,16:31:00,16:31:10,stop_point:SP_5672,Route d'Auzielle,17
+2295985,16:32:00,16:32:10,stop_point:SP_2188,Mairie Auzielle,18
+2295985,16:33:00,16:33:10,stop_point:SP_3182,Complexe sportif Nambours,19
+2295985,16:34:00,16:34:10,stop_point:SP_845,La Tuilerie,20
+2295985,16:35:00,16:35:10,stop_point:SP_3896,Mairie Lauzerville,21
+2295985,16:36:00,16:36:10,stop_point:SP_2282,Eglise Lauzerville,22
+2295985,16:37:00,16:37:10,stop_point:SP_930,La Tuilerie,23
+2295985,16:39:00,16:39:10,stop_point:SP_1587,Complexe sportif Nambours,24
+2295985,16:40:00,16:40:10,stop_point:SP_2093,Mairie Auzielle,25
+2295985,16:42:00,16:42:10,stop_point:SP_1799,Crouzet,26
+2295985,16:44:00,16:44:10,stop_point:SP_5620,St-Orens Lycée,27
+2295985,16:48:00,16:48:10,stop_point:SP_2603,Mairie St-Orens,28
+2295985,16:51:00,16:51:10,stop_point:SP_2648,Champs Pinsons,29
+2295985,16:53:00,16:53:10,stop_point:SP_5600,Malepère,30
